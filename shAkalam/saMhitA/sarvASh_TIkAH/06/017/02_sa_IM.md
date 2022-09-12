@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+īm ← īm (invariable)  
+{}
+
+pāhi ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+r̥jīṣī́ ← r̥jīṣín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tárutraḥ ← tárutra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+matīnā́m ← matí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+śípravān ← śípravant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gotrabhít ← gotrabhíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hariṣṭhā́ḥ ← hariṣṭhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vajrabhŕ̥t ← vajrabhŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+citrā́n ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tr̥ndhi ← √tr̥d- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +218,7 @@ Again I think the “drink!” imperative is semi-detached from the rest of the 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 These first three vss. form something of a unity. Each begins with a “drink!” imperative (1a píbā sómam, 2a sá īm pāhi, 3a evā́pāhi), and each contains the lexeme abhí √tṛd ‘drill through to’. As outlined below, it is a pleasingly designed rhetorical structure, whose balance and contrast only become evident after conscious analysis.
@@ -183,3 +250,4 @@ So trink ihn denn, vordringend du und siegreich, der gross an Lippen du der Anda
 Кто проломитель загона для коров, носитель ваджры, кто правит конями!  
 О Индра, пробуравь яркие награды!
 </details>
+

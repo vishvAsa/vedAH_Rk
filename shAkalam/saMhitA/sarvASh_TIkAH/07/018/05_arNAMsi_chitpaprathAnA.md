@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árṇāṁsi ← árṇas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+paprathānā́ ← √prathⁱ- (root)  
+{case:ACC, gender:N, number:PL, tense:PRF, voice:MED}
+
+sudā́se ← sudā́s- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+akr̥ṇot ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gādhā́ni ← gādhá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+supārā́ ← supārá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+návyaḥ ← návya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śárdhantam ← √śardh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śimyúm ← śimyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ucáthasya ← ucátha- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+akr̥ṇot ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áśastīḥ ← áśasti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śā́pam ← śā́pa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+síndhūnām ← síndhu- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Die Fluten selbst, der weit ergossnen, machte zur leichtdurchschrittnen Furt dem
 Дерзкого Шимью он сделал (проклятьем) новой песни,  
 (А его) наглые речи – сплавом рек.
 </details>
+

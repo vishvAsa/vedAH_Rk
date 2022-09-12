@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jayethe ← √ji- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+jigyathuḥ ← √ji- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+párā ← párā (invariable)  
+{}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+caná ← caná (invariable)  
+{}
+
+enoḥ ← ena- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+jigye ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+kataráḥ ← katará- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+párā ← párā (invariable)  
+{}
+
+ápaspr̥dhethām ← √spr̥dh- (root)  
+{number:DU, person:2, mood:IND, tense:PLUPRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viṣṇo ← víṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+airayethām ← √īr- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:MED}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tredhā́ ← tredhā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +238,4 @@ Stets siegt ihr beide, nimmer unterliegt ihr; nie zog den kürzern einer von euc
 О Индра и Вишну, когда вы соперничали друг с другом,  
 Вы разделили между собой на три части тысячу (коров).
 </details>
+

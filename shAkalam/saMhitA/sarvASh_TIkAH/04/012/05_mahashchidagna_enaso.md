@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhī́ke ← abhī́ka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+énasaḥ ← énas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mártyānām ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ūrvā́t ← ūrvá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+riṣāma ← √riṣ- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+sádam ← sádam (invariable)  
+{}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+tánayāya ← tánaya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tokā́ya ← toká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yácha ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yós ← yós (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Behüt uns Agni auch vor grossem Uebel, vor Kerkerschmach der Götter und der Me
 Да не потерпим мы, твои друзья, никогда ущерба!  
 Даруй счастье и благо детям и внукам!
 </details>
+

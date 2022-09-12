@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hetíḥ ← hetí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+rudrásya ← rudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vr̥jyāḥ ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+durmatíḥ ← durmatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+gāt ← √gā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+tveṣásya ← tveṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+maghávadbhyaḥ ← maghávan- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sthirā́ ← sthirá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tanuṣva ← √tan- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+mī́ḍhvaḥ ← mīḍhváṁs- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mr̥ḷa ← √mr̥ḍ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tánayāya ← tánaya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tokā́ya ← toká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Des Rudra Wurfspiess geh' an uns vorüber, vorüber auch des starken grosse Ungu
 Ослабь тугие, (луки) ради (наших) щедрых (покровителей)!  
 О щедрый, помилуй нашу плоть от плоти!
 </details>
+

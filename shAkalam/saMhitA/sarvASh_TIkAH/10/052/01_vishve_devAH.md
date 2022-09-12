@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+śāstána ← √śās- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manávai ← √man- 1 (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+niṣádya ← √sad- (root)  
+{non-finite:CVB}
+
+vr̥táḥ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhāgadhéyam ← bhāgadhéya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+brūta ← √brū- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+váhāni ← √vah- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +247,4 @@ Ihr Götter alle, unterweiset mich, wie ich und woran ich hier, zum Hotri erwäh
 Провозгласите мне, как давать вашу долю (в жертве),  
 Каким путем я должен возить вам жертву!
 </details>
+

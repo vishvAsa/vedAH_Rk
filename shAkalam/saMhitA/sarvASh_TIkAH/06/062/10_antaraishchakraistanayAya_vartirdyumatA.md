@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ántaraiḥ ← ántara- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+cakraíḥ ← cakrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tánayāya ← tánaya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dyumátā ← dyumánt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+nr̥vátā ← nr̥vánt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mártyasya ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sánutyena ← sánutya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tyájasā ← tyájas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+śīrṣā́ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vanuṣyatā́m ← √vanuṣ(y)- (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vavr̥ktam ← √vr̥j- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +201,4 @@ Mit nah'nden Rädern und mit lichtem Wagen, der Helden fährt, kommt her zu unsr
 Оружием против смертного, достающим далеко,  
 Снесите головы завистников!
 </details>
+

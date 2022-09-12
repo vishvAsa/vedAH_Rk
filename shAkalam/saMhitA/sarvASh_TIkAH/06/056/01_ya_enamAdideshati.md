@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ādídeśati ← √diś- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+íti ← íti (invariable)  
+{}
+
+karambhā́t ← karambhā́d- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūṣáṇam ← pūṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ādíśe ← ādíś- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +160,4 @@ Wer höhnend zu dem Puschan spricht: »Ein Grützeesser bist du ja«, Nicht duld
 (Называя) Пушана: едок каши, –  
 Бог не для того, чтоб он на него нацеливался.
 </details>
+

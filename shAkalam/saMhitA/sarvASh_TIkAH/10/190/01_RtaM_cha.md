@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+abhī̀ddhāt ← √idh- 1 (root)  
+{case:ABL, gender:N, number:SG, non-finite:PPP}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ajāyata ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+tápasaḥ ← tápas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ajāyata ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+rā́trī ← rā́trī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tátas ← tátas (invariable)  
+{}
+
+arṇaváḥ ← arṇavá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samudráḥ ← samudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tátas ← tátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,7 +147,7 @@ popular;; epic anuṣṭubh (292)
 
 ऋतम् इति तृचम् एकोनचत्वारिंशं सूक्तं मधुच्छन्दसः पुत्रस्याघमर्षणस्यार्षम् आनुष्टुभम्। रात्र्यादीनां भावानां सृष्ट्य्-आदि-प्रतिपादकत्वात् तादृग्-रूप एवार्थो देवता। तथा चानुक्रान्तम् -  
 
-> ऋतं माधुच्छन्दसोऽघमर्षणो भाव-वृत्तम् आनुष्टुभं त्व् 
+&gt; ऋतं माधुच्छन्दसोऽघमर्षणो भाव-वृत्तम् आनुष्टुभं त्व् 
 
 इति। लिङ्गाद् विनियोगो ऽवगन्तव्यः॥
 
@@ -167,3 +210,4 @@ Genaht ist dieser bunte Stier; zum Vater und zur Mutter hat Er sich gesetzt beim
 Из него родилась ночь,  
 Из него – волнующийся океан.
 </details>
+

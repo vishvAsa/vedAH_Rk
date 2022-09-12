@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prajā́m ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+urāṇáḥ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+dráviṇāni ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kárat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,7 +130,7 @@ Grassmann, Geldner, and Renou all take it as trans. with prajā́m as obj., but 
 kárat opening the 2nd hemistich rhymes with kṣárat in the same position in vs. 8. Nonetheless they are morphologically divergent, with kárat a subjunctive and kṣárat an injunc. Despite their parallelism kṣárat is unlikely to have modal value anticipating kárat; Hoffmann (123 and n. 26) convincingly takes kṣárat in “general” sense.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Unlike the previous tṛca with repeated pavasva, each vs. of this tṛca has a different form or √pū: 7 pávasva, 8 pūtaḥ, 9 punānáḥ. The person switches from the 2nd sg. that has prevailed throughout the hymn to 3rd ps. in vs. 8.
@@ -134,3 +159,4 @@ Der Indu flammend – die Seinen liebend, verschaff uns alle – erwünschten Sc
 Сок сомы, очищаясь, выбрав себе потомство,  
 Пусть создаст все богатства для нас!
 </details>
+

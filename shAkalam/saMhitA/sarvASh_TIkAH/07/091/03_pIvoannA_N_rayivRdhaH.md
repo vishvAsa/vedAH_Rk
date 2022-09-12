@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pī́voannān ← pī́voanna- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rayivŕ̥dhaḥ ← rayivŕ̥dh- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sumedhā́ḥ ← sumedhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhiśrī́ḥ ← abhiśrī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+niyútām ← niyút- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+siṣakti ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śvetáḥ ← śvetá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sámanasaḥ ← sámanas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tasthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vāyáve ← vāyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+cakruḥ ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svapatyā́ni ← svapatyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +228,4 @@ Der Vielgespanne lichter, weiser Lenker liebt die, die fette Speis' und Gaben br
 Они, единодушные, находятся в распоряжении Ваю.  
 Мужи сделали все на свете, что приносит хорошее потомство.
 </details>
+

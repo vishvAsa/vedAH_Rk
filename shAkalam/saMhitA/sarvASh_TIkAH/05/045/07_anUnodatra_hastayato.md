@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádriḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánūnot ← √nu- ~ nū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+hástayataḥ ← hástayata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́rcan ← √r̥c- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dáśa ← dáśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+māsáḥ ← mā́s- 1 (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+návagvāḥ ← návagva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+avindat ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sarámā ← sarámā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yatī́ ← √i- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+áṅgirāḥ ← áṅgiras- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+satyā́ ← satyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +208,7 @@ Note that 3 of the 4 verbs are augmented (ánūnot, ā́rcan, avindat), the 4th 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 Here the mythic model of the dawn accompanying the dawn ritual, the opening of the Vala cave through the verbal efforts of the Aṅgirases, is spelled out. Note the variant versions of the phrase “Saramā found the cows”: 7c sarámā gā́avindat, with augmented imperfect; 8d sarámā vidad gā́ḥ, with aor. injunctive (per Pp.) or aor. indicative (sarámāvidad, with augmented avidat is a possible reading). For Hoffmann’s interpr. of this vs. pair see Injunk. 164-65.
@@ -185,3 +240,4 @@ Da tönte laut der handgelenkte Pressstein, mit dem zehn Monde lang die Neuner s
 Правильно идущая Сарама отыскала коров.  
 Ангирас осуществил все (эти деяния).
 </details>
+

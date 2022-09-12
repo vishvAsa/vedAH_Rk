@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+bodhínmanāḥ ← bodhínmanas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+bhū́ryāsutiḥ ← bhū́ryāsuti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āśíṣam ← āśís- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śakráḥ ← śakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śr̥ṇótu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Achtsamen Sinnes sei er uns, der Vritra schlägt und viele labt, Der starke hör
 
 -ru-
 </details>
+

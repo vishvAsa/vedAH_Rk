@@ -16,14 +16,51 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+maṁsīmáhi ← √man- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pūṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+matīnā́m ← matí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sā́dhanam ← sā́dhana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ādhavám ← ādhavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+víprāṇām ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Wir wollen dein gedenken nun, o Puschan, der du uns, o Gott, Der Andacht Bitten 
 Как о том, кто ведет к цели молитвы  
 И возбуждает вдохновенных (поэтом).
 </details>
+

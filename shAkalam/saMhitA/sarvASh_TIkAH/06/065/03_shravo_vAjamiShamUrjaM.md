@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+váhantīḥ ← √vah- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mártyāya ← mártya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+uṣasaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+maghónīḥ ← maghávan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pátyamānāḥ ← √pat- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+vīrávat ← vīrávant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhāta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidhaté ← √vidh- (root)  
+{case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +201,7 @@ is used a number of times of the Maruts (5.41.13, 55.3, 59.3, 87.3), including o
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 There is lexical chaining between 3d and 4a with the identical phrase vidhaté rátnam in the same metrical position.
@@ -180,3 +232,4 @@ O Morgenröthen, Gut und Labung fahrend und Speis' und Trank dem sterblichen Ver
 Как щедрые повелительницы богатства из мужей,  
 Даруйте помощь поклоняющемуся (вам) – сокровище (прямо) сейчас!
 </details>
+

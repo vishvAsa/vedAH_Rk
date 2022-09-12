@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+grā́vā ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rákṣāṁsi ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sedhatu ← √sidh- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vádan ← √vadⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+atríṇam ← atrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+duṣvápnyam ← duṣvápnya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nírr̥tim ← nírr̥ti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ādityám ← ādityá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aśīmahi ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Der Pressstein jage tönend die Gespenster fort, den bösen Traum, Verderben, je
 Защиты, исходящей от Адити, от Марутов мы хотим добиться!  
 Сегодня мы просим об этой милости богов!
 </details>
+

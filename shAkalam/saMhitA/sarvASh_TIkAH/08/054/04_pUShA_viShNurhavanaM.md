@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+hávanam ← hávana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+párvatāsaḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vánaspátiḥ ← vánaspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śr̥ṇótu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +185,4 @@ Es höre Puschan, Vischnu und Sarasvati, die sieben Ströme meinen Ruf; Die Wass
 Воды, Вата, горы, лесное дерево,  
 Земля пусть услышат (мой) зов!
 </details>
+

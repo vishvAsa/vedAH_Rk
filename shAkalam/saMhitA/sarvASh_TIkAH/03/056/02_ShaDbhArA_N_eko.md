@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácaran ← ácarant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhārā́n ← bhārá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bibharti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ṣáṭ ← ṣáṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aguḥ ← √gā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+várṣiṣṭham ← várṣiṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+átyāḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tasthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+úparāḥ ← úpara- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dárśi ← √dr̥ś- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+dvé ← dvá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ékā ← éka- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+níhite ← √dhā- 1 (root)  
+{case:NOM, gender:F, number:DU, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +251,4 @@ Sechs Lasten trägt der eine unbeweglich, zur höchsten Stätte gingen hin die K
 Три земли находятся внизу, кобылицы:  
 Две сокрыты, одна видна.
 </details>
+

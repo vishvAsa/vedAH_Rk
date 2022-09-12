@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nú ← nú (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+sutéṣu ← √su- (root)  
+{case:LOC, gender:M, number:PL, non-finite:PPP}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vocā ← √vac- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+cakráthuḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+vīryā̀ ← vīryà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yā́ni ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+deváśatravaḥ ← deváśatru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hatā́saḥ ← √han- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+jī́vathaḥ ← √jīv- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +225,4 @@ Bei Somatränken preis' ich nun die Thaten, die ihr habt vollbracht; Die Götter
 Убиты ваши предки, о те, кому боги враги –  
 О Индра-Агни, (а) вы двое живете.
 </details>
+

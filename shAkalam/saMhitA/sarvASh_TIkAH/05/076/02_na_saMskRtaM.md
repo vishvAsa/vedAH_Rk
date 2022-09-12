@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gámiṣṭhā ← gámiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mimītaḥ ← √mī- 2 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+saṁskr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ánti ← ánti (invariable)  
+{}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ihá ← ihá (invariable)  
+{}
+
+nūnám ← nūnám (invariable)  
+{}
+
+úpastutā ← √stu- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+abhipitvé ← abhipitvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́gamiṣṭhā ← ā́gamiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dívā ← dívā (invariable)  
+{}
+
+ávartim ← ávarti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+śámbhaviṣṭhā ← śámbhaviṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +205,4 @@ Ihn, der bereit steht, meiden nicht die Gäste, die Ritter nun, die hier von uns
 Как приходящие лучше всех в конце дня со (своей) помощью,  
 Как самые благодатные в случае нужды для почитающего (вас).
 </details>
+

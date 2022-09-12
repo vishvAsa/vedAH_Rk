@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+párvatāḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+akran ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mádhumantam ← mádhumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+āgátya ← √gam- (root)  
+{non-finite:CVB}
+
+pāhi ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+r̥ṣva ← r̥ṣvá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+pathyā̀ḥ ← pathyā̀- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+prajānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+svā́ḥ ← svá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +243,4 @@ Den süssen Trank hier machten dir die Männer, die Steine, Wasser, Indra, sammt
 Приехав, благожелательно испей его, о выдающийся,  
 Предвосхищая как знаток, следуя своим путем!
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+br̥hatī́ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+gī́ḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śáṁtamā ← śáṁtama- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gantu ← √gam- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+huvádhyai ← √hū- (root)  
+{case:DAT, number:SG, tense:AOR}
+
+ná ← ná (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mayobhúvā ← mayobhū́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+saráthā ← sarátha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+āṇíḥ ← āṇí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhúram ← dhúr- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+gantám ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+nā́bhim ← nā́bhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nidhím ← nidhí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +248,4 @@ Das grosse, hehre, liebste Lied, es gehe als Bote hin, die Ritter einzuladen; Er
 Ободряя (нас), приезжайте в наши края вдвоем на одной колеснице!  
 Поезжайте за сокровищем – грузом, (который подходит к колеснице,) словно ось ко втулке.
 </details>
+

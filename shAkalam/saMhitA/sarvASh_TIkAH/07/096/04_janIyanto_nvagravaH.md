@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ágravaḥ ← ágru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+janīyántaḥ ← √janīy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+putrīyántaḥ ← √putrīy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sudā́navaḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+sárasvantam ← sárasvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,3 +127,4 @@ Die Jungfrau, die den Gatten sucht, der reiche, der sich Söhne wünscht, Sarasv
 Стеремясь получить сына, (мы) с прекрасными дарами  
 Призываем Сарасвата.
 </details>
+

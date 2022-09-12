@@ -15,13 +15,44 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ī́ḷe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+mánurhitam ← mánurhita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aratím ← aratí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nyeriré ← √īr- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+havyavā́hanam ← havyavā́hana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yájiṣṭham ← yájiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +150,4 @@ Ich singe dem, den Manu fand, den Götter sich zum raschen Boten eingesetzt, Der
 Кого боги определили вестником, посланником (?),  
 Возницей возлияний, лучше всех жертвующим.
 </details>
+

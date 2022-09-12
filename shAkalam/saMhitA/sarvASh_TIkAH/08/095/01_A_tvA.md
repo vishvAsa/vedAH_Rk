@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+rathī́ḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ásthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sutéṣu ← √su- (root)  
+{case:LOC, gender:M, number:PL, non-finite:PPP}
+
+abhí ← abhí (invariable)  
+{}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mātáraḥ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +201,4 @@ Wie Wagenrosse eilten dir, beim Trunk, o Liedfreund, Lieder zu; Dir Indra jubelt
 Они вместе зашумели тебе навстречу,  
 О Индра, как матери при виде теленка.
 </details>
+

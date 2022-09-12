@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+adanti ← √ad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+dr̥śyate ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+iva ← iva (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+véśma ← véśman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+araṇyāníḥ ← araṇyāní- ~ araṇyānī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sāyám ← sāyám (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+śakaṭī́ḥ ← śakaṭī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sarjati ← √sarj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Da klingt's als frässen Kühe Gras, und Häuser glaubt man dort zu sehn; Und wi
 И Араньями под вечер  
 Скрипнет, словно телега.
 </details>
+

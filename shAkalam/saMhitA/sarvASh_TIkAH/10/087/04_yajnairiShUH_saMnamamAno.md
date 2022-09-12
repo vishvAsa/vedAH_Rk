@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+íṣūḥ ← íṣu- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+saṁnámamānaḥ ← √nam- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+aśánibhiḥ ← aśáni- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+dihānáḥ ← √dih- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+śalyā́n ← śalyá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vācā́ ← vā́c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hŕ̥daye ← hŕ̥daya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+vidhya ← √vyadh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yātudhā́nān ← yātudhā́na- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bāhū́n ← bāhú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bhaṅdhi ← √bhañj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+pratīcáḥ ← pratyáñc- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Durch Opfer, Agni, die Geschosse richtend der Pfeile Spitzen mit dem Lied bestre
 Пронзи ими колдунов в сердце!  
 Заломи им протянутые руки!
 </details>
+

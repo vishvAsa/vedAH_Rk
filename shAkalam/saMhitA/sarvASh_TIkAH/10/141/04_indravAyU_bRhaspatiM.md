@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D;; epic anuṣṭubh (292);; repeated line  
 genre D;; epic anuṣṭubh (292)  
 genre D;; epic anuṣṭubh (292)  
 genre D;; epic anuṣṭubh (292)
+#### Morph
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indravāyū́ ← indra-vāyú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+ihá ← ihá (invariable)  
+{}
+
+suhávā ← suháva- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ít ← ít (invariable)  
+{}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sárvaḥ ← sárva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+sáṁgatyām ← sáṁgati- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +188,4 @@ Indra-Vaju, Brihaspati, die gern erhören rufen wir, Damit uns hier das ganze Vo
 Чтобы каждый человек при встрече  
 Был благожелателен к нам.
 </details>
+

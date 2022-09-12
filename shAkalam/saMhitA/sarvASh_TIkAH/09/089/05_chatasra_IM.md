@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cátasraḥ ← catúr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ghr̥tadúhaḥ ← ghr̥tadúh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+sacante ← √sac- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+antár ← antár (invariable)  
+{}
+
+dharúṇe ← dharúṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+níṣattāḥ ← √sad- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+samāné ← samāná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+arṣanti ← √arṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+punānā́ḥ ← √pū- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+santi ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Vier milchversehne Kühe gehen mit ihm, sich niederlassend in das gleiche Becken
 Они текут к нему, очищаясь с поклонением.  
 Они обильные, окружают его со всех сторон.
 </details>
+

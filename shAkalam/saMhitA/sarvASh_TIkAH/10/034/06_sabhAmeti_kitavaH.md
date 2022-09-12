@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kitaváḥ ← kitavá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥chámānaḥ ← √praś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sabhā́m ← sabhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+íti ← íti (invariable)  
+{}
+
+jeṣyā́mi ← √ji- 1 (root)  
+{number:SG, person:1, mood:IND, tense:FUT, voice:ACT}
+
+śū́śujānaḥ ← √śuj- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+akṣā́saḥ ← akṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tiranti ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dádhataḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kr̥tā́ni ← √kr̥- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+pratidī́vne ← pratidī́van- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ Ins Spielhaus geht der Spieler voll Begierde, »heut sieg' ich«, spricht er, au
 Игральные кости пресекают его желание,  
 Они отдают противнику счастливые броски.
 </details>
+

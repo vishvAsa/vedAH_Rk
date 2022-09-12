@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+etā́vān ← etā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahimā́ ← mahimán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átas ← átas (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+jyā́yān ← jyā́yaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pū́ruṣaḥ ← pū́ruṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhūtā́ni ← √bhū- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+pā́daḥ ← pā́da- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tripā́t ← tripád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ So bedeutend ist seine Grösse, und noch grösser ist der Urmensch; ein Viertel 
 Четверть его – все существа.  
 Три четверти его – бессмертие на небе.
 </details>
+

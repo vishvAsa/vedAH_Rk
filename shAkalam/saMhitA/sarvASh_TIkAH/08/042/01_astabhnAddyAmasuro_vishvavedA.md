@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ástabhnāt ← √stambhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvávedāḥ ← viśvávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ámimīta ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+varimā́ṇam ← varimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asīdat ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+samrā́ṭ ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Der weise Gott befestigte den Himmel und mass rings aus der weiten Erde Umfang; 
 Он завладел всеми мирами как вседержитель.  
 Всё ведь это заветы Варуны.
 </details>
+

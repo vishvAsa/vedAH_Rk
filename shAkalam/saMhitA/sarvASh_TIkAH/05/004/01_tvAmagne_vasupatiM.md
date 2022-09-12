@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+vásupatim ← vásupati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+adhvaréṣu ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+mande ← √mand- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jayema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājayántaḥ ← √vājay- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+mártyānām ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pr̥tsutī́ḥ ← pr̥tsutí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +181,6 @@ genre M
 यद्वा - पृतनास्सूयन्ते उत्पाद्यन्ते याभिस्ताः **पृत्सुतयः** । छान्दसं ह्रस्वत्वं, पृद्भावश्च । बहुविकारत्वान्नावगृह्यते । 'मक्तिन्व्याख्यान' इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -161,7 +212,6 @@ Through thee in strife may we be victorious;
 May we overcome the hostilities of mortal men.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Zu dir, Agni, pilgere ich, zu dem Herrn der Schätze, du König über die Opfer. Mit dir wollen wir als Preiskämpfer den Preis gewinnen und die Angriffe der Sterblichen bestehen.
@@ -179,3 +229,4 @@ O Agni dich, den Güterherrn der Güter, erfreue ich, o König, bei den Festen, 
 Стремясь к наградам, да завоюем мы с твоей помощью награду!  
 Да выстоим мы против нападок смертных!
 </details>
+

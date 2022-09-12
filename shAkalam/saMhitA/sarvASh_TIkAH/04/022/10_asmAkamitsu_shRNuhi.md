@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+śr̥ṇuhi ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+citrā́n ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+māhi ← √mā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+iṣaṇaḥ ← √iṣaṇ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+púraṁdhīḥ ← púraṁdhi- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+bodhi ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+godā́ḥ ← godā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Uns mögest du, o Indra, recht erhören, uns reichlich schenken mannichfache Lab
 Нам пошли всю полноту даров!  
 Для нас стань по-настоящему дарителем коров!
 </details>
+

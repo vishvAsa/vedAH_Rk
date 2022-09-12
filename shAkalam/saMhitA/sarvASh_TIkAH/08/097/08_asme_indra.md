@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sada ← √sad- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jaritré ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kr̥dhí ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Bei unserm Soma setze dich, o Indra, trink den süssen Trank; Dem Sänger schaff
 Создай певцу, о щедрый, великую поддержку  
 У нас, о Индра, у выжатого (сомы)!
 </details>
+

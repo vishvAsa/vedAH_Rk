@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rā́dhase ← rā́dhas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+śám ← śám (invariable)  
+{}
+
+vicarṣaṇe ← vícarṣaṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prajā́vat ← prajā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rétaḥ ← rétas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -99,7 +130,7 @@ In addition to the chaining with the previous vs. (on which see immediately abov
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 Here the chaining involves only the first word índrasya.
@@ -128,3 +159,4 @@ O thät'ger, riesle uns zum Heil, dem Indra, dass er Schatz verleih, Bring' Same
 
 -ru-
 </details>
+

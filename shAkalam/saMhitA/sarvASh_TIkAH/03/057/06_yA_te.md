@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhā́rā ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+párvatasya ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ásaścantī ← ásaścant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+citrā́ ← citrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pīpáyat ← √pī- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prámatim ← prámati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+rā́sva ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+váso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+viśvájanyām ← viśvájanya- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Die Kuh, die mit des Berges Soma-Ströme dir Agni flutend schwoll, o Gott, die l
 Дай нам (ее), о Джатаведас,  
 О Васу, в виде милости, распространяющейся на всех людей!
 </details>
+

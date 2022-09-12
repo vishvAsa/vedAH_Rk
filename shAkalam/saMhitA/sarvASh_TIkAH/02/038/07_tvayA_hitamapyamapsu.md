@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ápyam ← ápya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hitám ← √dhā- 1 (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+dhánva ← √dhanv- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mr̥gayásaḥ ← mr̥gayás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tasthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+vánāni ← vána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víbhyaḥ ← ví- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+minanti ← √mī- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vratā́ ← vratá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +212,7 @@ The asya in pāda c anticipates devásya savitúḥ in d - perhaps better to tr.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/038/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/038/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These two vss. have been variously interpr. My interpr. is most influenced by Oldenberg (whose views also seems to have been adopted by Witzel Gotō). As noted in the published
@@ -185,3 +246,4 @@ Ins Wasser setztest du des Wassers Erbtheil, und auf dem Festland rings vertheil
 Леса (предназначены) для птиц. Никто не нарушает  
 Этих заветов бога Савитара.
 </details>
+

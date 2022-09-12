@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+ī́ḍyaḥ ← ī́ḍya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+átithiḥ ← átithi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jū́ryaḥ ← jū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purí ← púr- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+raṇváḥ ← raṇvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sūnúḥ ← sūnú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+trayayā́yyaḥ ← trayayā́yya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +211,4 @@ Denn du bist in den Häusern auch zu preisen uns als lieber Gast, Erfreulich wie
 Радостный, как старец в крепости,  
 Как сын, которого надо (еще) защищать.
 </details>
+

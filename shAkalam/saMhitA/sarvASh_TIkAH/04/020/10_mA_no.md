@@ -16,14 +16,90 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+daddhí ← √dā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mardhīḥ ← √mr̥dh- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dā́tave ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+deṣṇé ← deṣṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+návye ← návya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śasté ← √śaṁs- (root)  
+{case:LOC, gender:N, number:SG, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ukthé ← ukthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bravāma ← √brū- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+stuvántaḥ ← √stu- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,3 +271,4 @@ Versäume nicht uns, bringe her das viele, was dein ja ist, dem Frommen es zu sc
 При новом дарении в этом гимне, исполненном для тебя,  
 Мы хотим, о Индра, восхваляя, провозгласить (это).
 </details>
+

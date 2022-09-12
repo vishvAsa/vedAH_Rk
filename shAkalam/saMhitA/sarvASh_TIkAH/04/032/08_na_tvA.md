@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+anyáthā ← anyáthā (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+varante ← √vr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+dítsasi ← √dā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+maghám ← maghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stutáḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +152,4 @@ Nicht hemmen sie dich anderwärts, wenn du, gerühmter, spenden, willst, den Sä
 Когда, восхваленный, ты хочешь дать подарок  
 Восхвалителям, о Индра, любящий хвалебные песни!
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dákṣapitr̥̄n ← dákṣapitar- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sujyótiṣaḥ ← sujyótis- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sūrya ← sū́rya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+anāgāstvé ← anāgāstvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sumahaḥ ← sumahas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vīhi ← √vī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dvijánmānaḥ ← dvijánman- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tasā́paḥ ← r̥tasáp- (nominal stem)  
+{case:NOM, number:PL}
+
+satyā́ḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+agnijihvā́ḥ ← agnijihvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svàrvantaḥ ← svàrvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yajatā́ḥ ← yajatá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +213,4 @@ Zu den sehr lichten Göttern, Dakscha's Söhnen, dring, Sonnengott, in Heiligkei
 Дваждырожденных, (тех,) что почитают закон, истинных,  
 Светлых, достойных жертв, (тех,) чей язык – Агни!
 </details>
+

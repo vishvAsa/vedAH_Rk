@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rírikṣati ← √riṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rakṣastvéna ← rakṣastvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ririṣīṣṭa ← √riṣ- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED, mood:PREC}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svaíḥ ← svá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+yúḥ ← yús (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +169,4 @@ Welch Sterblicher durch Zauberkunst uns irgend zu beschäd'gen sucht, Der schade
 Захочет навредить нам (своею) колдовской природой,  
 То пусть этот самый человек своими повадками навредит себе!
 </details>
+

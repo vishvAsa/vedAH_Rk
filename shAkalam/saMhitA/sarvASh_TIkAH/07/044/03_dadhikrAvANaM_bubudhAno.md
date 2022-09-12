@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bubudhānáḥ ← √budh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+dadhikrā́vāṇam ← dadhikrā́van- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bruve ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+babhrúm ← babhrú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bradhnám ← bradhná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mām̐ścatóḥ ← mām̐ścatú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+duritā́ ← duritá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yāvayantu ← √yu- 2 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +232,4 @@ Den Dadhikra erweckend und den Agni, begrüss die Sonn' ich und die Morgenröthe
 К буланому коню Митры, к коричневому – Варуны.  
 Пусть отделят они от нас все опасности!
 </details>
+

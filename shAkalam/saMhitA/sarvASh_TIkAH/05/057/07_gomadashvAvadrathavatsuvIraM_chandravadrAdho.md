@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvāvat ← áśvāvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gómat ← gómant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ráthavat ← ráthavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suvī́ram ← suvī́ra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+candrávat ← candrávant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dada ← √dā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇuta ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+práśastim ← práśasti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rudriyāsaḥ ← rudríya- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ávasaḥ ← ávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+bhakṣīyá ← √bhaj- (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:MED}
+
+daívyasya ← daívya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Verleiht, o Maruts, glänzendes Geschenk uns an Rindern, Rossen, Wagen, tapfern 
 Создайте нам признание; о сыновья Рудры!  
 Да вкушу я вашей божественной помощи!
 </details>
+

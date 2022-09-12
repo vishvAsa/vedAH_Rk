@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+barhaya ← √br̥h- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+devanídaḥ ← devaníd- (nominal stem)  
+{case:ACC, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+sárasvati ← sárasvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+bŕ̥sayasya ← bŕ̥saya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+māyínaḥ ← māyín- (nominal stem)  
+{case:GEN, number:SG}
+
+prajā́m ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+avánīḥ ← aváni- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+avindaḥ ← √vid- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+kṣitíbhyaḥ ← kṣití- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+asravaḥ ← √sru- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ebhyaḥ ← ayám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+vājinīvati ← vājínīvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+viṣám ← viṣá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +192,7 @@ Although this is probably the default explan., I am drawn to Renou’s more cont
 The hapless ‘them’ (ebhyaḥ) in d must be the ‘god-scorners’ (deva-níd-) of a, as is the general consensus.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The hymn begins with the near-deictic nom. sg. iyám, establishing the feminine subject immediately and emphatically (“this she here”). Since the just-given tr. is at best graceless and, more to the point, not English, I have opted to focus on the gender rather than the deixis. The next vs. also begins with iyám and the final vs. of the tṛca with the voc. sárasvati.
@@ -175,3 +224,4 @@ Sarasvati, die Götterhasser stoss hinab, die Brut jedwedes trügerischen Zauber
 В то время как для (наших) поселений ты создала (край, богатый) реками,  
 Тем ты струила яд, о богатая наградами.
 </details>
+

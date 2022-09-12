@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vā́hiṣṭham ← vā́hiṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+arca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vibhāvaso ← vibhā́vasu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+máhiṣī ← máhiṣī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+īrate ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+út ← út (invariable)  
+{}
+
+vā́jāḥ ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +188,6 @@ The mightiest song is Agni's: shine on high, thou who art rich in light.
 Sing mightily to Agni the (song) which may best bring him (to us), O (god) rich in splendour 1! From thee (proceeds) wealth (mighty) like a buffalo-cow 2; from thee proceed gains.
 </details>
 
-
 <details><summary>Keith</summary>
 
 What carrieth best is for Agni;  
@@ -168,3 +213,4 @@ Dein, Agni, ist das köstlichste, o strahle hell, du glänzender, Wie eine Milch
 От тебя богатство, (прекрасное,) как главная жена,  
 От тебя исходят награды.
 </details>
+

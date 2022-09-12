@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+amŕ̥tāsu ← amŕ̥ta- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+āsu ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nispŕ̥k ← nispŕ̥ś- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+krátubhiḥ ← krátu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kṣoṇī́bhiḥ ← kṣoṇí- ~ kṣoṇī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pr̥ṅkté ← √pr̥c- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+ātáyaḥ ← ātí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śumbhata ← √śubh- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+svā́ḥ ← svá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+áśvāsaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dándaśānāḥ ← √daṁś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+krīḷáyaḥ ← krīḷí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +222,4 @@ Wenn der Sterbliche mit den unsterblichen Weibern kosend sich mit den flutenden 
 
 -ru-
 </details>
+

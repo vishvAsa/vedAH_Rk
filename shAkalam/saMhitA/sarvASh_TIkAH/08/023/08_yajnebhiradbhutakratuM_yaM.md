@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ádbhutakratum ← ádbhutakratu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñébhiḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+kr̥pā́ ← kŕ̥p- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sūdáyante ← √sūd- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+jáne ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+r̥tā́vani ← ŕ̥tāvan- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+súdhitam ← súdhita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Ihn, der mit Opfern herrlich wirkt, den sie durch Glanz verherrlichen, Der sehr 
 Чей облик поддерживают жертвами,  
 (Бога,) словно Митра, хорошо устроенного у народа, верного закону.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dakṣa ← dákṣa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+imā́ ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+kavikrato ← kavíkratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́ni ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ákarma ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+déva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mártāsaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bodhi ← √budh- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+suráthasya ← surátha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+amr̥ta ← amŕ̥ta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+sárvam ← sárva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svada ← √svad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,3 +249,4 @@ Dein ist, o starker, weis' gesinnter, alles, was Menschen wir, o Gott, beim Opfe
 Заметь каждого (жертвователя) с хорошей колесницей!  
 Угощайся здесь всем этим, о Агни бессмертный!
 </details>
+

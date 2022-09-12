@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śuddháḥ ← √śudh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+śuddhā́bhiḥ ← √śudh- (root)  
+{case:INS, gender:F, number:PL, non-finite:PPP}
+
+śuddháḥ ← √śudh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+dhāraya ← √dhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śuddháḥ ← √śudh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mamaddhi ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+somyáḥ ← somyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śuddháḥ ← √śudh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

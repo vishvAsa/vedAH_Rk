@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ántān ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jmáḥ ← kṣám- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tastámbha ← √stambhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráveṇa ← ráva- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+triṣadhastháḥ ← triṣadhasthá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dī́dhyānāḥ ← √dhī- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+pratnā́saḥ ← pratná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+mandrájihvam ← mandrájihva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purás ← purás (invariable)  
+{}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +195,7 @@ As noted in the published introduction, the VP puráḥ … dadhire “they set 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
 <details open><summary><h2>01-06 ...{Loading}...</h2></summary>
 
 As indicated in the published introduction, this section concerns the unitary figure (Indra-)Bṛhaspati, here insistently identified as Bṛhaspati: there are 7 occurrences of the name in 6 vss., one in each save for two in vs. 2.
@@ -180,3 +232,4 @@ Ihn der mit Kraft der Erde Enden stützte, Brihaspati, der dreifach thront, mit 
 Его, сладкоязычного, древние мудрецы, провидцы,  
 Размышляя, поставили впереди.
 </details>
+

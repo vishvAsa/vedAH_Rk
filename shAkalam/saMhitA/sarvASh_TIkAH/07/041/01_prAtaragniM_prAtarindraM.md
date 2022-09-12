@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prātár ← prātár (invariable)  
+{}
+
+prātár ← prātár (invariable)  
+{}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+mitrā́váruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+prātár ← prātár (invariable)  
+{}
+
+prātár ← prātár (invariable)  
+{}
+
+bhágam ← bhága- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prātár ← prātár (invariable)  
+{}
+
+pūṣáṇam ← pūṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+huvema ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+prātár ← prātár (invariable)  
+{}
+
+rudrám ← rudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter
 Рано утром Бхагу, Пушана, Брахманаспати,  
 Рано утром Сому, а также Рудру мы хотим призывать.
 </details>
+

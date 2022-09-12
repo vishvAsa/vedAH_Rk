@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ācucyuvīmáhi ← √cyu- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vā ← vā (invariable)  
+{}
+
+vā́ṇībhiḥ ← vā́ṇī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bodhatam ← √budh- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+evá ← evá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+kāṇvásya ← kāṇvá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +163,7 @@ The last pāda of the verse (d) is identical with the last pāda of vs. 3 (c), b
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/009/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/009/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 With Kümmel (181-82), I assign the curious paired reduplicated med. opt.
@@ -156,3 +199,4 @@ Sei's, dass wir heut durch Sprüche euch herbeiziehn, o wahrhaftige, O Ritter, s
 Или если бы голосами, о Ашвины,  
 Прежде всего заметьте потомка Канвы!
 </details>
+

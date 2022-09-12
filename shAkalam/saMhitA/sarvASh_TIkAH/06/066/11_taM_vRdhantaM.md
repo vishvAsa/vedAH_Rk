@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhrā́jadr̥ṣṭim ← bhrā́jadr̥ṣṭi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vr̥dhántam ← √vr̥dh- (root)  
+{case:ACC, gender:M, number:SG, tense:AOR, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+havásā ← havás- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rudrásya ← rudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sūnúm ← sūnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vivāse ← √vanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+manīṣā́ḥ ← manīṣā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śárdhāya ← śárdha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+aspr̥dhran ← √spr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+giráyaḥ ← girí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ugrā́ḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

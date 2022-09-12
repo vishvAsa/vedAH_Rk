@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́ṅ ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vandhureṣṭhā́ḥ ← vandhureṣṭhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+pradívaḥ ← pradív- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+somapéyam ← somapéya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+muca ← √muc- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+priyā́ ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sákhāyā ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+úpa ← úpa (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+havante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+havyavā́haḥ ← havyavā́h- (nominal stem)  
+{case:NOM, number:PL}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Komm nah herbei auf hohem Wagen stehend, der Somatrunk, er ist ja dein von je he
 Двоих милых друзей распрягай! К жертвенной соломе  
 Зовут тебя эти возницы жертвы.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+aṁhóḥ ← aṁhú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+urú ← urú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánāgasaḥ ← ánāgas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádbhutainasaḥ ← ádbhutainas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́dityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +147,4 @@ Ihr habt Befreiung aus Not, Belohnung für den Schuldlosen, an dem keine Sünde 
 Есть сокровище для невиновного,  
 На ком не разглядеть греха, о Адитьи.
 </details>
+

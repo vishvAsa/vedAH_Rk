@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áśayat ← √śī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+stabhūyámānaḥ ← √stabhūy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+pádyāsu ← pádyā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+śiśnathaḥ ← √śnathⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +163,4 @@ Der Indra dir der Wasser Flut unausgesetzt umlagerte, Den tratst du mit der Ross
 Разлегшись, великие воды,  
 Того ты придавил копытами (коней).
 </details>
+

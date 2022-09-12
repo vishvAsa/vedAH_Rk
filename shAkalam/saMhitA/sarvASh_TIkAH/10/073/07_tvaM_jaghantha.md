@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jaghantha ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+makhasyúm ← makhasyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+námucim ← námuci- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+dā́sam ← dā́sa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇvānáḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ŕ̥ṣaye ← ŕ̥ṣi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vímāyam ← vímāya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cakartha ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+syonā́n ← syoná- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+áñjasā ← áñjasā (invariable)  
+{}
+
+devatrā́ ← devatrā́ (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+yā́nān ← yā́na- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Du schlugst den kampflustigen Nanutschi, um des Sängers Willen dem Dämon seine
 Ты создал для человека удобные  
 Пути, словно они прямо ведут к богам.
 </details>
+

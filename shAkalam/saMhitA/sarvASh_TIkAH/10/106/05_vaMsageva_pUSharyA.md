@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+pūṣaryā̀ ← pūṣaryà- (nominal stem)  
+{gender:M, number:DU}
+
+śimbā́tā ← śimbā́ta- (nominal stem)  
+{gender:M, number:DU}
+
+váṁsagā ← váṁsaga- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+mitrā́ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+r̥tā́ ← r̥tá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śā́tapantā ? ← śā́tapantā ? (invariable)  
+{}
+
+śatárā ← śatárā- (nominal stem)  
+{number:DU}
+
+gharmyeṣṭhā́ ← gharmyeṣṭhā́- (nominal stem)  
+{gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+uccā́ ← uccā́ (invariable)  
+{}
+
+vā́jā ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+váyasā ← váyas- 2 (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+iṣā́ ← íṣ- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+méṣā ← méṣa- (nominal stem)  
+{gender:M, number:DU}
+
+púrīṣā ← púrīṣa- (nominal stem)  
+{gender:N}
+
+saparyā̀ ← saparyà- (nominal stem)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +214,4 @@ mitreva rta catara catapanta
 vajevocca vayasa gharmyestha  
 mesevesa saparya purisa
 </details>
+

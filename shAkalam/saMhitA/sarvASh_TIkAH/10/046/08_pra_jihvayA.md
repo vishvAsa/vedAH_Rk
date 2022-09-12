@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bharate ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+jihváyā ← jihvā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vépaḥ ← vépas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cétasā ← cétas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vayúnāni ← vayúna- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pāvakám ← pāvaká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śucáyantam ← √śuc- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mandrám ← mandrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yájiṣṭham ← yájiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +201,4 @@ Gesang nimmt Agni auf mit seiner Zunge, mit seinem Geist der Erde Opferwerke, Di
 Его поставили Аю (своим) сверкающим, чистым,  
 Сладкогласным хотаром, жертвующим лучше всех.
 </details>
+

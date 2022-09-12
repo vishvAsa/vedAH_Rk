@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayāsīt ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+niṣkr̥tám ← niṣkr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+mināti ← √mī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhyuḥ ← sákhi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+saṁgíram ← saṁgír- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+arṣati ← √arṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+máryaḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+yuvatíbhiḥ ← yuvatí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+kaláśe ← kaláśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śatáyāmnā ← śatáyāman- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +215,7 @@ Pāda b strikes me as the quotation of a well-known general truth or proverb, pr
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 The first two vss. of this tṛca begin with prá with a verb of motion, but otherwise there is little that unifies the tṛca. Nor is there much that connects with the rest of the hymn, save for 16a … ayāsīt … índrasya niṣkṛtám / 7b=32d … úpa yāti niṣkṛtám and the repetition of saṃyát- in 18a (cf. 15d and disc. there).
@@ -180,3 +244,4 @@ Zum Ort des Indra ist der Indu vorgeeilt, der Freund verschmähet seines Freunde
 
 -ru-
 </details>
+

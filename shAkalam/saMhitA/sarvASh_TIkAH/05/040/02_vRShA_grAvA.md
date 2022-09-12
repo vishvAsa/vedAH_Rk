@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+grā́vā ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vŕ̥ṣabhiḥ ← vŕ̥ṣan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vŕ̥ṣan ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥trahantama ← vr̥trahántama- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +168,4 @@ Der Stein ist Stier, und Stier der Trank, Gepresst ist Soma hier, der Stier, O I
 
 -ru-
 </details>
+

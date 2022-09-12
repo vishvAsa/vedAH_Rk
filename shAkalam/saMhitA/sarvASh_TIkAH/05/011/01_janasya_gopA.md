@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajaniṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jā́gr̥viḥ ← jā́gr̥vi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jánasya ← jána- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+návyase ← návyas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sudákṣaḥ ← sudákṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+br̥hatā́ ← br̥hánt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+divispŕ̥śā ← divispŕ̥ś- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ghr̥tápratīkaḥ ← ghr̥tápratīka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bharatébhyaḥ ← bharatá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+bhāti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dyumát ← dyumánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +216,4 @@ Der Menschen Hüter ward geboren, er, der wacht, der starke Agni uns zu neuem Wo
 Лик из жира высоким касающимся неба (пламенем)  
 Светло сияет Бхаратам, чистый.
 </details>
+

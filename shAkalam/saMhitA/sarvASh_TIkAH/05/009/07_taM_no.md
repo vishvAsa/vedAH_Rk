@@ -17,15 +17,79 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahasvaḥ ← sáhasvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kṣepayat ← √kṣi- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+poṣayat ← √puṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhúvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vā́jasya ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+edhi ← √as- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥tsú ← pŕ̥t- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vr̥dhé ← vŕ̥dh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +247,4 @@ O Agni bring des Menschen Gut herbei uns, o gewaltiger, Es schütze uns, es näh
 Пусть он послужит (нам) для захвата добычи!  
 А также будь (готов) усилить нас в боях!
 </details>
+

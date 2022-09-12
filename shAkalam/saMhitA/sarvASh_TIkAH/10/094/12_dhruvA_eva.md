@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dhruvā́ḥ ← dhruvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+evá ← evá (invariable)  
+{}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yugé-yuge ← yugá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+kṣémakāmāsaḥ ← kṣémakāma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sádasaḥ ← sádas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+yuñjate ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ajuryā́saḥ ← ajuryá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+harídravaḥ ← harídru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hariṣā́caḥ ← hariṣā́c- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśuśravuḥ ← √śru- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ráveṇa ← ráva- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Fest stehn die Berge, eure Väter, immerdar, die Ruhe liebend gehn sie nicht von
 
 -ru-
 </details>
+

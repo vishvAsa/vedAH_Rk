@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+párvatāsaḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suśastáyaḥ ← suśastí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+bhuvan ← √bhū- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sudītáyaḥ ← sudītí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+trā́maṇe ← trā́man- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gamat ← √gam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vibhaktā́ ← vibhaktár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śrotu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+uruvyácāḥ ← uruvyácas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +239,4 @@ Und jene hochgepriesnen Bergeshöhen auch, die glanzerfüllten Ströme seien uns
 Бхага-наделитель да придет с силой и поддержкой!  
 Широко простершаяся Адити да услышит мой зов!
 </details>
+

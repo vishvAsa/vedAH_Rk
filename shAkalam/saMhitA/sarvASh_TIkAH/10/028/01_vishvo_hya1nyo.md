@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; 12 = 5+7, ending LHX  
 popular
+#### Morph
+ājagā́ma ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aríḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+víśvaḥ ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áha ← áha (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+jagāma ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śváśuraḥ ← śváśura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhānā́ḥ ← dhānā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jakṣīyā́t ← √ghas- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+papīyāt ← √pā- 2 (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ástam ← ásta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+jagāyāt ← √gā- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+púnar ← púnar (invariable)  
+{}
+
+svā̀śitaḥ ← svā̀śita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +240,4 @@ Ein jeder andre Freund ist ja gekommen, und nur mein Schwäher ist nicht hergeko
 Насытившись же, обратно уйти домой.  
 Индра:
 </details>
+

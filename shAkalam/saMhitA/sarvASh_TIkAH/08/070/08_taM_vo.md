@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+maháḥ ← mahás- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahā́yyam ← mahā́yya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+dānā́ya ← dāná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sakṣáṇim ← sakṣáṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́raṇeṣu ← ā́raṇa- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+gādhéṣu ← gādhá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+hávyaḥ ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hávyaḥ ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +193,4 @@ Ihn, euren hehren Indra treibt, den Sieger, viel zu schenken uns, Den man an sei
 
 -ru-
 </details>
+

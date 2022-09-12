@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahasvaḥ ← sáhasvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arcan ← √r̥c- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+putra ← putrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tíṣṭhāḥ ← √sthā- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+kṣitī́ḥ ← kṣití- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pratháyan ← √prathⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +236,4 @@ Varuna, Mitra und die Marutscharen, o starker Agni, sangen dir ein Preislied, Al
 Чтобы ты, о сын силы, поднялся со (своим) пламенем,  
 Распространяясь над поселениями (людскими), (как) солнце- над мужами.
 </details>
+

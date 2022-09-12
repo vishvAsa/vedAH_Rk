@@ -17,15 +17,58 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+bodhínmanasā ← bodhínmanas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rathyā̀ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+havanaśrútā ← havanaśrút- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iṣirā́ ← iṣirá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+cyávānam ← cyávāna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víbhiḥ ← ví- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ádvayāvinam ← ádvayāvin- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+yāthaḥ ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́dhvī ← mā́dhvī- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+śrutam ← √śru- (root)  
+{number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +186,4 @@ Achtsamen Sinnes kommet ihr, o Ritter, hörend das Gebet, Mit Vögeln zu Tschjav
 К Чьяване прямодушному.  
 О любители меда, услышьте мой призыв!
 </details>
+

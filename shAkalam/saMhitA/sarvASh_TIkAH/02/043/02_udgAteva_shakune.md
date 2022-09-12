@@ -17,15 +17,94 @@ ChandaH = "अतिशक्वर्यष्टिर्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular  
 popular
+#### Morph
+gāyasi ← √gā(y)- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+śakune ← śakuni- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sā́ma ← sā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+udgātā́ ← udgātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+brahmaputráḥ ← brahmaputrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+śaṁsasi ← √śaṁs- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sávaneṣu ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+apī́tya ← √i- 1 (root)  
+{non-finite:CVB}
+
+iva ← iva (invariable)  
+{}
+
+śíśumatīḥ ← śíśumant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śakune ← śakuni- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sarvátas ← sarvátas (invariable)  
+{}
+
+vada ← √vadⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+púṇyam ← púṇya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śakune ← śakuni- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vada ← √vadⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,3 +290,4 @@ Wie ein Sänger stimmst du, o (^'akunivogel, dein Lied an, sagst her den Spruch 
 (Так) провозгласи нам со всех сторон счастье, о вещая птица,  
 Повсюду провозгласи нам добро, о вещая птица!
 </details>
+

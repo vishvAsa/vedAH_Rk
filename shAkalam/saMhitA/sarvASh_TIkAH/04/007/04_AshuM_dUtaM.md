@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+āśúm ← āśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vivásvataḥ ← vivásvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+carṣaṇī́ḥ ← carṣaṇí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jabhruḥ ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhŕ̥gavāṇam ← bhŕ̥gavāṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśé-viśe ← víś- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +188,4 @@ Vivasvats schnellen Boten ihn, der alles Lebende beherrscht, Als Leuchte nahm di
 Принесли люди племени Аю как знамя,  
 Бхригавану – для каждого племени.
 </details>
+

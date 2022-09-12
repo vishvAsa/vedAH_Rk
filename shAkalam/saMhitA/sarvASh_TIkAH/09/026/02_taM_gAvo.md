@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ákṣitam ← ákṣita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahásradhāram ← sahásradhāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhartā́ram ← dhartár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +165,4 @@ Die Kühe jubelten ihm nach, dem ew'gen, tausendströmigen, Dem Indu, der den Hi
 Сок (сомы), текущий тысячей потоков,  
 Неистощимый, поддерживающий небо.
 </details>
+

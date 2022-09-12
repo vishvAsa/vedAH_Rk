@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágachat ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sakhīyán ← √sakhīy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+vípratamaḥ ← vípratama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádriḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásūdayat ← √sūd- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sukŕ̥te ← sukŕ̥t- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+makhasyán ← √makhasy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+máryaḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sasā́na ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yúvabhiḥ ← yúvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áṅgirāḥ ← áṅgiras- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árcan ← √r̥c- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+sadyás ← sadyás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +202,7 @@ My tr. of d, áthābhavad áṅgirasāḥ sadyó árcan, differs in an important
 seems to me thematically backwards. Indra joins the category of the Aṅgirases because he joins them in song, which is their principal function in this myth; he is not an Aṅgiras by nature who happens to start singing. (This point is made, more or less, by Schmidt [173], despite his contrary tr.)
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/031/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/031/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 Given the thematic weight the part. árcan carries (see comm. immed.
@@ -184,3 +236,4 @@ Und es kam der weiseste [Indra] sich ihr gesellend; dem kräftig wirkenden macht
 Юный муж добился (своей цели) вместе с юношами, настраиваясь воинственно,  
 Тут сразу же возник воспевающий Ангирас.
 </details>
+

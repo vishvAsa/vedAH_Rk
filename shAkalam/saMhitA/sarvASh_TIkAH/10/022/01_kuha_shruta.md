@@ -16,14 +16,66 @@ ChandaH = "पुरस्ताद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kásmin ← ká- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+kúha ← kúha (invariable)  
+{}
+
+śrutáḥ ← √śru- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+jáne ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śrūyate ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+kṣáye ← kṣáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ŕ̥ṣīṇām ← ŕ̥ṣi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cárkr̥ṣe ← √kr̥̄- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +200,4 @@ Wo ist der hehre Indra? und bei welchem Mann lässt er als Freund sich hören he
 (Тот) кто в жилище ли риши  
 Или втайне прославляется хвалебной песней?
 </details>
+

@@ -18,16 +18,74 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+víprāya ← vípra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gómataḥ ← gómant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+iyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+saptábhyaḥ ← saptá- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+váram ← vára- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+andhám ← andhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+śroṇám ← śroṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tāriṣat ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+vívakṣase ← √vac- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Er treibt dem Dichter, der ihm dient, die rinderreiche Beute zu; Und mehr als si
 Он помогает (даже) слепому и хромому –  
 В опьянении (сомой) я хочу вам (это) провозгласить!
 </details>
+

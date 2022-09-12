@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+sákhyuḥ ← sákhi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śū́nam ← śū́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vide ← √vid- 1 (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:MED}
+
+mā́ ← mā́ (invariable)  
+{}
+
+prabhūvaso ← prabhū́vasu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+putrásya ← putrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+āvŕ̥tvat ← āvŕ̥tvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhūtu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +166,4 @@ Lass nicht den Freund verlieren mich, noch einen Sohn, o mächtiger; Es neige ho
 Или сына, о повелитель выдающихся благ!  
 Пусть обратится к нам снова твоя мысль!
 </details>
+

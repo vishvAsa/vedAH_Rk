@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+kr̥ṇuhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+visarmā́ṇam ← visarmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vittám ← √vid- 1 (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+ápr̥ṇantaḥ ← ápr̥ṇant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhuñjáte ← √bhuj- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ápavratān ← ápavrata- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prasavé ← prasavá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vāvr̥dhānā́n ← √vr̥dh- (root)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+brahmadvíṣaḥ ← brahmadvíṣ- (nominal stem)  
+{case:ACC, number:PL}
+
+sū́ryāt ← sū́rya- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yāvayasva ← √yu- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +206,4 @@ Zerrinnen lasse das Vermögen derer, die ohn' Geschenk ausbeuten unsre Lieder; D
 Отвернувшихся от обета, преуспевших в повелевании,  
 Ненавистников священного слова отстрани от солнца!
 </details>
+

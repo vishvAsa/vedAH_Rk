@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+abhíṣṭutaḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tunnáḥ ← √tud- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+áti ← áti (invariable)  
+{}
+
+gāhate ← √gāh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+avyáyam ← avyáya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rakṣohā́ ← rakṣohán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́ram ← vā́ra- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -96,7 +124,7 @@ the sheep’s fleece, as demon-smasher.
 pavítram áti gāhate / … vā́ram avyáyam “he plunges across the filter, the sheep’s fleece.” As for the fleece as Soma’s armor, see the very full expression in IX.98.2 pári ṣyá svānó avyáyam ráthe ná vármāvyata “This one, being pressed, has engirded himself in the sheep's fleece, as a man on a chariot does in armor.” Ober (II.77) also considers the armor to be the fleece.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 This is the last tṛca of the hymn, attributed to Vasiṣṭha. The 1st two vss. are variants of each, couched in 2nd and 3rd ps. respectively: their first pādas differ only in their initial disyllable, with the rest identical: … tunnó abhíṣṭutaḥ; their second pādas both depict the journey to and across the filter, both beginning pavítram. The third vs. stands apart, though the identification of Soma as ‘demon-smasher’ in 20c is thematically linked to the plea in 21 that Soma “smash away” peril.
@@ -126,3 +154,4 @@ Gestossen und besungen taucht sich dieser in der Seihe Netz, Der Bösen Feind in
 Ныряет сквозь цедилку,  
 Сквозь сито из овечьей шерсти, (этот) убийца ракшасов.
 </details>
+

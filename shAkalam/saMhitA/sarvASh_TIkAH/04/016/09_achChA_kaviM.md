@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhíṣṭau ← abhíṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+gāḥ ← √gā- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+kavím ← kaví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nr̥maṇaḥ ← nr̥máṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nā́dhamānam ← √nādh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:MED}
+
+svàrṣātā ← svàrṣāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+dyumnáhūtau ← dyumnáhūti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+iṣaṇaḥ ← √iṣaṇ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ábrahmā ← ábrahman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arta ← √r̥- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+dásyuḥ ← dásyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+māyā́vān ← māyā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Zum Sänger komm mit Hülfe, männlich starker, der fleht, o reicher, um des Gl�
 Поспеши к нему с (твоими) поддержками на (его) светлый зов!  
 Да падет ниц колдовской дасью, живущий без священных слов!
 </details>
+

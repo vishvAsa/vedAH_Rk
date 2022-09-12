@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+triṣṭúbham ← triṣṭúbh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ákṣarat ← √kṣar- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+márutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+párvateṣu ← párvata- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+rājatha ← √rāj- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,7 +141,7 @@ you rule [/shine] throughout the mountains.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/01-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
 Note recycling of vocab. -- íṣam 1, 3; párvata- 1, 2, 4; yā́mam 2, 4; vip/vep 1, 4; vāyúbhiḥ 3, 4.
@@ -143,3 +177,4 @@ Wenn, Maruts, euch der Sänger nun des Preisgesanges Trunk ergoss, So glänzt ih
 Для вас усладу в виде триштубха,  
 Вы красуетесь в горах.
 </details>
+

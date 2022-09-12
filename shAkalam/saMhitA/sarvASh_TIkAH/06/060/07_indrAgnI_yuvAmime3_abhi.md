@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+abhí ← abhí (invariable)  
+{}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+stómāḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+píbatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śambhuvā ← śambhū́- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sutám ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +145,4 @@ Euch, Indra-Agni, jubelten hier diese Lobgesänge zu, Den Soma trinkt, o gütige
 Восхваления воззвали:  
 Пейте выжатый (сок сомы), о благодатные!
 </details>
+

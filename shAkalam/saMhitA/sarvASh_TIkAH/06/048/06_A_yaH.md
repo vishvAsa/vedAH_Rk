@@ -17,15 +17,79 @@ ChandaH = "महासतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhānúnā ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+papraú ← √prā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dhāvate ← √dhāv- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+dhūména ← dhūmá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dadr̥śe ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
+ū́rmyāsu ← ū́rmyā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+aruṣáḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śyāvā́su ← śyāvá- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aruṣáḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śyāvā́ḥ ← śyāvá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +230,4 @@ Der beide Welten hat mit seinem Schein erfüllt, mit seinem Rauch zum Himmel eil
 Ночах, рыжий бык,  
 В ночах – рыжий бык.
 </details>
+

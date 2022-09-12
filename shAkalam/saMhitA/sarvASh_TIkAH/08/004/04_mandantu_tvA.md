@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mándantu ← √mand- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+rādhodéyāya ← rādhodéya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+āmúṣya ← √muṣⁱ- (root)  
+{non-finite:CVB}
+
+apibaḥ ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+camū́ ← camū́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutám ← √su- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+dadhiṣe ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+jyéṣṭham ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Dich, reicher Indra, mög' erfreun der Somatrunk, zu schenken Gut dem Kelterer; 
 Рванув себе сому, ты напился выжатого в сосуде.  
 Тут ты приобрел высшую силу.
 </details>
+

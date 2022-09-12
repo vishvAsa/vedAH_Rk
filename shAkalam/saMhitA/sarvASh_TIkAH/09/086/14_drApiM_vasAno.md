@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+divispŕ̥śam ← divispŕ̥ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+drāpím ← drāpí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásānaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+yajatáḥ ← yajatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+antarikṣaprā́ḥ ← antarikṣaprā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árpitaḥ ← √r̥- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+bhúvaneṣu ← bhúvana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+akramīt ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jajñānáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+nábhasā ← nábhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pratnám ← pratná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vivāsati ← √vanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +195,7 @@ The identify of the “age-old father” isn’t clear, and various candidates h
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 This tṛca is characterized by increasingly larger claims for Soma’s cosmic reach. It has fewer connections to previous tṛcas, save for the echo in 15b dhā́ma prathamám vyānaśe of 5a and c, on which see comm. there.
@@ -172,3 +224,4 @@ Ins Kleid gehüllt, der hehre, das zum Himmel reicht, die Luft erfüllend, in di
 
 -ru-
 </details>
+

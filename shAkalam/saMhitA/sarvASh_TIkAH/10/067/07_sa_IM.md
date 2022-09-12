@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+īm ← īm (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sákhibhiḥ ← sákhi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+satyébhiḥ ← satyá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śucádbhiḥ ← √śuc- (root)  
+{case:INS, gender:M, number:PL, tense:AOR, voice:ACT}
+
+adardar ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dhanasaíḥ ← dhanasá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gódhāyasam ← gódhāyas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+varā́haiḥ ← varā́ha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vŕ̥ṣabhiḥ ← vŕ̥ṣan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ānaṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gharmásvedebhiḥ ← gharmásveda- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Auch dieser Brahmanaspati zerspaltete mit den tapfern, leuchtenden, Beute gewinn
 Брахманаспати вместе с быками, кабанами,  
 Потными от горячего молока, овладел богатством.
 </details>
+

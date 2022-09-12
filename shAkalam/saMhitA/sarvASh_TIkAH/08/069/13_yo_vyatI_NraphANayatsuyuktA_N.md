@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áphāṇayat ← √phaṇ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+vyátīn ← vyáti- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+súyuktān ← súyukta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+netā́ ← netár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+takváḥ ← takvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vápuḥ ← vápus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ámucyata ← √muc- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+upamā́ ← upamá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +196,4 @@ Welcher die schöngeschirrten Renner hinspringen liess zu dem Verehrer, der schn
 
 -ru-
 </details>
+

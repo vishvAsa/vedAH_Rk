@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+jihīte ← √hā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+nák ← nákt- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svásuḥ ← svásar- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+aruṣā́ya ← aruṣá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kr̥ṣṇī́ḥ ← kr̥ṣṇī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+riṇákti ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+áśvāmaghā ← áśvāmagha- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+gómaghā ← gómagha- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+huvema ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+dívā ← dívā (invariable)  
+{}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śárum ← śáru- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yuyotam ← √yu- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ Es weicht die Nacht der Schwester Morgenröthe, die schwarze räumt den Pfad dem
 О дарители коней, дарители коров, вас двоих мы хотим призвать!  
 Днем и ночью отвращайте от нас выстрел!
 </details>
+

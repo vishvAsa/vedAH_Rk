@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ābhíḥ ← ayám (pronoun)  
+{case:INS, gender:F, number:PL}
+
+ácha ← ácha (invariable)  
+{}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tavásam ← tavás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vada ← √vadⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+parjányam ← parjánya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stuhí ← √stu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vivāsa ← √vanⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
+jīrádānuḥ ← jīrádānu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kánikradat ← √krand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+óṣadhīṣu ← óṣadhī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+rétaḥ ← rétas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Mit diesen Liedern rede an den starken, Pardschanja preise, lock ihn her in Ehrf
 Громко ревущий бык, источающий живительную благу,  
 Вкладывает семя в растения как зародыш.
 </details>
+

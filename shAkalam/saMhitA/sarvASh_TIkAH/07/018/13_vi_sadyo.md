@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dr̥ṁhitā́ni ← √dr̥h- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+sadyás ← sadyás (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dardar ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́navasya ← ā́nava- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhāk ← √bhaj- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+gáyam ← gáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tŕ̥tsave ← tŕ̥tsu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+jéṣma ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+mr̥dhrávācam ← mr̥dhrávāc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pūrúm ← pūrú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ An einem Tag zerbrach all ihre Festen und ihre sieben Burgen Indra kraftvoll; De
 Он наделил тритсу имуществом предводителя ану.  
 Да победим мы Пуру, ведущего оскорбительные речи на жертвоприношении!
 </details>
+

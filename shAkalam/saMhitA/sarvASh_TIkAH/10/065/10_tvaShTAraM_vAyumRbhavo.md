@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+óhate ← √uh- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tváṣṭāram ← tváṣṭar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāyúm ← vāyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+daívyā ← daívya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+hótārau ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sumedhásam ← sumedhás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥trakhādám ← vr̥trakhādá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhanasā́ḥ ← dhanasā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+indriyám ← indriyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Den Tvaschtar, Vaju, und die man für Ribhu's hält, die Götterpriester flehn w
 
 -ru-
 </details>
+

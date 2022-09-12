@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+samudrā́t ← samudrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ūrmím ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+venáḥ ← vená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+darśi ← √dr̥ś- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+haryatásya ← haryatá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nabhojā́ḥ ← nabhojā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥ṣṭhám ← pr̥ṣṭhá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+bhrā́ṭ ← bhrā́j- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sā́nau ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+viṣṭápi ← viṣṭáp- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+samānám ← samāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vrā́ḥ ← vrā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Der holde regt die Welle aus dem Meer auf, man sieht des schönen dunstentstiegn
 Сверкая на вершине, в высшем месте закона.  
 Женщины приветствовали криками общее ложе.
 </details>
+

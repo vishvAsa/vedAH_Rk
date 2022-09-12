@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sácā ← sácā (invariable)  
+{}
+
+sr̥jate ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+usríyāḥ ← usríya- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+út ← út (invariable)  
+{}
+
+arcivát ← arcivánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nákṣatram ← nákṣatra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+udyát ← √i- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+uṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vyúṣi ← vyúṣ- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+bhakténa ← √bhaj- (root)  
+{case:INS, gender:M, number:SG, non-finite:PPP}
+
+gamemahi ← √gam- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Es giesst zugleich die Sonne ihre Strahlen aus, wenn sich erhebt das Glanzgestir
 Это при твоем воспламенении, о Ушас, и Сурьи  
 Хотим мы повстречаться с (нашей) долей в пище.
 </details>
+

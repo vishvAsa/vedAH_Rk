@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sahasríṇaḥ ← sahasrín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śatínaḥ ← śatín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vā́jasya ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mūrdhā́ ← mūrdhán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +145,4 @@ Er, Agni, ist der Labung Herr, die hundertfach und tausendfach, Der Schätze wei
 
 -ru-
 </details>
+

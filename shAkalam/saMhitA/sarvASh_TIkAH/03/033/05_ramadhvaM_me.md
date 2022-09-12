@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+rámadhvam ← √ram- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+somyā́ya ← somyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vácase ← vácas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+muhūrtám ← muhūrtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥tāvarīḥ ← ŕ̥tāvan- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+ácha ← ácha (invariable)  
+{}
+
+br̥hatī́ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+manīṣā́ ← manīṣā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+síndhum ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ahve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+avasyúḥ ← avasyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kuśikásya ← kuśiká- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sūnúḥ ← sūnú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Ergötzet euch an meinem frommen Liede auf kurze Rast in eurem Lauf, o heil'ge; 
 Жаждая помощи, воззвал я, сын Кушики.  
 Р е к и:
 </details>
+

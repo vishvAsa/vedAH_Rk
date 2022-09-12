@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+tuvikūrmíḥ ← tuvikūrmí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vájrahastaḥ ← vájrahasta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ámr̥ktaḥ ← ámr̥kta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dayate ← √dā- 3 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sanā́t ← sanā́t (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +157,4 @@ Stets ja schenkt der wirkungsreiche, er allein, der blitzbewehrte, Reiches Gut, 
 С дубиной грома в руке один издревле,  
 Невредимый, раздает награды.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+māyā́ ← māyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śritā́ ← √śri- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ā́yudham ← ā́yudha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+citrám ← citrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhréṇa ← abhrá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+gūhathaḥ ← √guh- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣṭyā́ ← vr̥ṣṭí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+drapsā́ḥ ← drapsá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īrate ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mádhumantaḥ ← mádhumant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+párjanya ← parjánya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Zum Himmel stieg, Varuna-Mitra, eure Macht, zum Licht, dem hellen Rüstzeug, dri
 Вы скрываете его за тучей, дождем на небе.  
 О Парджанья, начинают падать медовые капли.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sakhyéṣu ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+váhnayaḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+adardiruḥ ← √dr̥- ~ dr̥̄- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+manvānā́ḥ ← √man- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+valám ← valá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+daśasyán ← √daśasy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+riṇán ← √rī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+ahyàḥ ← ahī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+daṁsáyaḥ ← √daṁs- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+kútsāya ← kútsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mánman ← mánman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +218,4 @@ Mit dir im Bunde haben jene fahrenden das Werk bedenkend, Indra, das Versteck ze
 
 a:предводители (жертвы) (vahnayah) – По Саяне, это Ангирасы
 </details>
+

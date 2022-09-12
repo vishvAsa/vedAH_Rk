@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+avadan ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+brahmakilbiṣé ← brahmakilbiṣá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+prathamā́ḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ákūpāraḥ ← ákūpāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mātaríśvā ← mātaríśvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saliláḥ ← salilá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mayobhū́ḥ ← mayobhū́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tápaḥ ← tápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīḷúharāḥ ← vīḷúharas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prathamajā́ḥ ← prathamajā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +214,4 @@ Diese sprachen zuerst, als das Vergehen gegen den Brahmanen ausgeführt war: das
 Крепко охватывающий жар, грозный, подкрепляющий;  
 Божественные воды, перворожденные по закону.
 </details>
+

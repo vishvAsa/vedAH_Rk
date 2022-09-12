@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indrapā́nam ← indrapā́na- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+matsarám ← matsará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sindhavaḥ ← síndhu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+heta ← √hi- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+íyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+ūrmím ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+auśānám ← auśāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+madacyútam ← madacyút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nabhojā́m ← nabhojā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+tritántum ← tritántu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+útsam ← útsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vicárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +225,4 @@ Ergiesst, ihr Ströme, die erfreunde Welle, die Indra trinkt, die Erd' und Himme
 Вызывающую опьянение, приготовленную из ушаны, рожденную из тучи,  
 Источник с тройной нитью, движущийся кругами!
 </details>
+

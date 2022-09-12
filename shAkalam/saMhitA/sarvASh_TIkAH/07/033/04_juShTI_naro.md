@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+júṣṭī ← júṣṭi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+pitr̥̄ṇā́m ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ákṣam ← ákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avyayam ← √vyā- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+kíla ← kíla (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+riṣātha ← √riṣ- (root)  
+{number:PL, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+br̥hatā́ ← br̥hánt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ráveṇa ← ráva- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śákvarīṣu ← śákvan- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádadhāta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vasiṣṭhāḥ ← vásiṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +229,4 @@ O Männer, um der Liebe und des Gebetes eurer Väter willen, hab ich die Achse e
 Когда в стихах шаквари громким ревом  
 Вы придали Индре мужество, о Васиштхи.
 </details>
+

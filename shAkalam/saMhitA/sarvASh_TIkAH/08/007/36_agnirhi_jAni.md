@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+jā́ni ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+pūrvyáḥ ← pūrvyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arcíṣā ← arcís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+chándaḥ ← chánda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhānúbhiḥ ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tasthire ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +185,4 @@ Denn Feuer ward zuerst erzeugt, erstrahlend wie mit Sonnenglanz; Sie brachen auf
 Солнце с (его) сиянием, словно соблазнитель.  
 С лучами (солнца) они рассеялись.
 </details>
+

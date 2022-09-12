@@ -15,13 +15,50 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+iyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mánojavāḥ ← mánojavas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śatótiḥ ← śatóti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+iyānáḥ ← √yā- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sūryāvasū ← sūryāvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +169,4 @@ Es eilt eur Wagen, der gedankenschnelle, mit hundert Hülfen, Ritter, durch die 
 С сотней поддержек для нас, о Ашвины, через пространства,  
 Когда ее (об этом) просят, о обладатели Сурьи.
 </details>
+

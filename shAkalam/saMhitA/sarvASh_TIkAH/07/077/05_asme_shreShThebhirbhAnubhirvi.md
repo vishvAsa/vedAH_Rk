@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+bhāhi ← √bhā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bhānúbhiḥ ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śréṣṭhebhiḥ ← śréṣṭha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devi ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pratirántī ← √tr̥̄- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dádhatī ← √dhā- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+viśvavāre ← viśvávāra- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+áśvāvat ← áśvāvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+gómat ← gómant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ráthavat ← ráthavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Erstrahle uns mit deinen besten Strahlen, o Göttin Uschas, schenk uns langes Le
 И давая нам жертвенную усладу, о ты, у которой все лучшее,  
 И дар из коров, коней и колесниц!
 </details>
+

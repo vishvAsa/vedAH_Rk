@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M
+#### Morph
+bhūḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+jáyantam ← √ji- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mahā́m ← máh- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vipodhā́m ← vipodhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ámūram ← ámūra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+darmā́ṇam ← darmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mūrā́ḥ ← mūrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+purā́m ← púr- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náyantaḥ ← √nī- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vanā́m ← ván- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+árvāṇam ← árvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhánarcam ← dhánarc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+híriśmaśrum ← híriśmaśru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Erheb' den grossen, siegenden Begeistrer; den Sohn der Bäume und den Burgzerst�
 Мудрого, (они,) неразумные, создали молитву,  
 (Ведя его,) златобрадого, словно скакового коня, (его,) чей гимн (дает) выигрыш.
 </details>
+

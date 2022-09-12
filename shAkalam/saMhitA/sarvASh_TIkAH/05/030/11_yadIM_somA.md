@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámandan ← √mand- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+babhrúdhūtāḥ ← babhrúdhūta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ároravīt ← √rū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sā́daneṣu ← sā́dana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+papivā́n ← √pā- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+puraṁdaráḥ ← puraṁdará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adadāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+púnar ← púnar (invariable)  
+{}
+
+usríyāṇām ← usríya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ Als ihn berauscht der Trank, den Babhru quirlte, da brüllte laut der Stier auf 
 Проломитель крепостей Индра, испив его,  
 Вернул некоторых из красноватых коров.
 </details>
+

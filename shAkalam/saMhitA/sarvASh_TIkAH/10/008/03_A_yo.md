@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+árabdha ← √rabh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+mūrdhā́nam ← mūrdhán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pitróḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+árṇaḥ ← árṇas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+sū́raḥ ← svàr- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+áruṣīḥ ← áruṣī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+áśvabudhnāḥ ← áśvabudhna- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ásya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pátman ← pátman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+juṣanta ← √juṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Ihn, der der Aeltern Haupt erfasste, setzten sie hin beim Opfer als des Himmels 
 Во время его полета красноватые (языки пламени), кончающиеся конями,  
 Радовались самим себе в лоне закона.
 </details>
+

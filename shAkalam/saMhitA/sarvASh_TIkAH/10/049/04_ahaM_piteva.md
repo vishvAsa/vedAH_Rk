@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhíṣṭaye ← abhíṣṭi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vetasū́n ← vetasú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+kútsāya ← kútsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+randhayam ← √randh- (root)  
+{number:SG, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+smádibham ← smádibha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+túgram ← túgra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+bhuvam ← √bhū- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+rājáni ← rāján- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yájamānasya ← √yaj- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+ādhŕ̥ṣe ← √dhr̥ṣ- (root)  
+{case:DAT, number:SG}
+
+bháre ← √bhr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+priyā́ ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+tújaye ← túji- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +228,4 @@ Zu Gunsten Kutsa's gab ich wie ein Vater ihm dahin den Tugra, Smadibha, die Veta
 Я был за царствование жертвователя.  
 Когда я приношу для Туджи приятные (вещи), на них нельзя посягнуть.
 </details>
+

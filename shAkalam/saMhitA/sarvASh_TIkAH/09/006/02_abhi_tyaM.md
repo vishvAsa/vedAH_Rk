@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+mádam ← máda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádyam ← mádya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+íti ← íti (invariable)  
+{}
+
+kṣara ← √kṣar- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+árvataḥ ← árvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +165,4 @@ Den starken Rauschtrank ströme du den Indra rufend, Indu, her Und schnelle Ross
 О сок, (говоря себе) так: Индра!,  
 Теки к скакунам, приносящим награду.
 </details>
+

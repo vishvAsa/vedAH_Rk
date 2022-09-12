@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+r̥bhúbhiḥ ← r̥bhú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sámukṣitam ← √ukṣ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vā́javadbhiḥ ← vā́javant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gábhastyoḥ ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutám ← √su- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+vr̥ṣasva ← √vr̥ṣ- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+dāśúṣaḥ ← dāśváṁs- (nominal stem)  
+{case:GEN, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gr̥hé ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iṣitáḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+matsva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sahá ← sahá (invariable)  
+{}
+
+saudhanvanébhiḥ ← saudhanvaná- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +204,4 @@ Mit Ribhu's und den Vadscha's, Indra, spül hinein den ausgegossnen, armgepresst
 Приведенный в движение поэтической мыслью, о щедрый, в доме почитателя  
 Опьяняйся вместе с мужами – сыновьями Судханвана!
 </details>
+

@@ -16,14 +16,51 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+itthā́ ← itthā́ (invariable)  
+{}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥dhak ← ŕ̥dhak (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+devátātaye ← devátāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+śaśamé ← √śamⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+abhíṣṭaye ← abhíṣṭi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+mitrā́váruṇau ← mitrā́váruṇa- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+nūnám ← nūnám (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ācakré ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+havyádātaye ← havyádāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +175,4 @@ Der Schar der Götter dient fürwahr am besten solch ein Sterblicher, Der stets 
 Кто сейчас привлекает себе на помощь  
 В принесении жертвы Митру-Варуну.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+abhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+aruṇápsuḥ ← aruṇápsu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ákar ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥tā́varī ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ánti ← ánti (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhūtu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+sát ← √as- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +170,4 @@ Die Morgenröthe strahlte mit rothem Glanze und machte Licht, die heilige.
 Соблюдая закон, она создала свет.  
 Пусть ваша помощь будет рядом!
 </details>
+

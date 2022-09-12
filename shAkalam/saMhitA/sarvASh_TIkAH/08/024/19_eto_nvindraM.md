@@ -15,13 +15,62 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ita ← √i- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+stávāma ← √stu- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+náram ← nár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+stómyam ← stómya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+kr̥ṣṭī́ḥ ← kr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +193,4 @@ Wohlan, o Freunde, preisen wir Indra, den preisenswerthen Mann, Ihn, der allein 
 Друзья, мужа, достойного хвалы,  
 (Того,) кто один превосходит все народы!
 </details>
+

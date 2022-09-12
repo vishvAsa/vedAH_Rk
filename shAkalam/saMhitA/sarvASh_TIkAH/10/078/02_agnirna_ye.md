@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhrā́jasā ← bhrā́jas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rukmávakṣasaḥ ← rukmávakṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sadyáūtayaḥ ← sadyáūti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svayújaḥ ← svayúj- (nominal stem)  
+{case:NOM, number:PL}
+
+vā́tāsaḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jyéṣṭhāḥ ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+prajñātā́raḥ ← prajñātár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sunītáyaḥ ← sunītí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suśármāṇaḥ ← suśárman- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yaté ← √i- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Die Goldschmuck an der Brust tragend, an Glanz wie Feuer sind, mit Hülfe zur Ha
 Прекрасные вожди, как лучшие знатоки (путей);  
 Дающие прекрасную защиту, как соки сомы, (тому,) кто идет (по пути) закона:
 </details>
+

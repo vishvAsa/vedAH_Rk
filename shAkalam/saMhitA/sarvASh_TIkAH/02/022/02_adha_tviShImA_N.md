@@ -19,10 +19,10 @@ ChandaH = "अतिशक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,94 @@ genre M
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+krívim ← krívi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tvíṣīmān ← tvíṣīmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+yudhā́ ← yúdh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+apr̥ṇat ← √pr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+majmánā ← majmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+vāvr̥dhe ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ádhatta ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aricyata ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+īm ← īm (invariable)  
+{}
+
+jaṭháre ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+saścat ← √sac- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+satyám ← satyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,3 +305,4 @@ Darauf errang durch seine Kraft der glänzende im Kampf den Schlauch, die Welten
 Он сопровождал его, бог – бога,  
 Истинного Индру – истинный сок.
 </details>
+

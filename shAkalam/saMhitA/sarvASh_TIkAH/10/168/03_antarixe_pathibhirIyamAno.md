@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+antárikṣe ← antárikṣa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ī́yamānaḥ ← √i- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+pathíbhiḥ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áhar ~ áhaḥ ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+katamát ← katamá- (pronoun)  
+{case:ACC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+viśate ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+prathamajā́ḥ ← prathamajā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+babhūva ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+kútas ← kútas (invariable)  
+{}
+
+kvà ← kvà (invariable)  
+{}
+
+svit ← svit (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Wenn er dahin eilt auf der Lüfte Pfaden, so kehrt er nimmer ein an keinem Tage,
 Друг вод, перворожденный, преданный закону.  
 Где он родился, откуда возник?
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sána ← √sanⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sána ← √sanⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+saúbhagā ← saúbhaga- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+átha ← átha (invariable)  
+{}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vásyasaḥ ← vásyaṁs- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +168,4 @@ Gewinne Glanz, gewinne Licht, o Soma, alles hohe Glück Und mach' uns reicher nu
 И все, что приносит счастье, о сома.  
 И сделай нас лучше!
 </details>
+

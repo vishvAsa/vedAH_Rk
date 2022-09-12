@@ -17,15 +17,91 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śr̥tám ← √śr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rakṣa ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+arātīvā́ ← arātīván- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tārīt ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+amamat ← √amⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+u ← u (invariable)  
+{}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +261,4 @@ Welcher Opfertrank dir gekocht ist, mit dem beschütze uns, o Soma; nicht möge 
 И не причинит нам какой-нибудь вред!  
 Для Индры, о капля, растекайся вокруг!
 </details>
+

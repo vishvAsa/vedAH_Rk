@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+máhobhiḥ ← máhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+arṣa ← √arṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kánikradat ← √krand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+vā́rāṇi ← vā́ra- 1 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+camvòḥ ← camū́- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+krī́ḷan ← √krīḍ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pūyámānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+viśa ← √viś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+madiráḥ ← madirá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mamattu ← √mad- (root)  
+{number:SG, person:3, mood:IMP, tense:PRF, voice:ACT}
+
+rásaḥ ← rása- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

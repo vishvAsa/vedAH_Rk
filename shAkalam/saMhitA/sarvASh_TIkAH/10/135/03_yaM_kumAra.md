@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+kumāra ← kumārá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+návam ← náva- 2 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+acakrám ← acakrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ákr̥ṇoḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ékeṣam ← ékeṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prā́ñcam ← prā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ápaśyan ← ápaśyant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tiṣṭhasi ← √sthā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +184,4 @@ Den neuen Wagen, den du Kind im Geist gemacht, der räderlos Mit einer Deichsel 
 У которой одно дышло, (но) едет она во все стороны -  
 Ты стоишь на (ней), не видя (этого).
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prajānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+r̥tvíyam ← r̥tvíya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asadaḥ ← √sad- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+ghr̥távantam ← ghr̥távant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+íḷāyāḥ ← íḷā- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cikitre ← √cit- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+étayaḥ ← éti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+uṣásām ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+arepásaḥ ← arepás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+raśmáyaḥ ← raśmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +223,4 @@ Wohl kennend, Agni, deinen regelrechten Sitz, den butterreichen, nahmst du Platz
 Твои появления блистательны, как у утренних зорь,  
 Беспорочны, как лучи солнца.
 </details>
+

@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular;; repeated line  
 popular
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́hutim ← ā́huti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+puroḷā́śam ← puroḷā́ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+juṣásva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+tiróahnyam ← tiróahnya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +133,4 @@ Dich labend speise Agni nun den Kuchen, Wesenkenner auf, der gestern gor, den wi
 Возлиянием, рисовой лепешкой,  
 Сопровождаемый позавчерашним (сомой), о Джатаведас!
 </details>
+

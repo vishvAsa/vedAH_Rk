@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anéna ← ayám (pronoun)  
+{case:INS, gender:N, number:SG}
+
+mánmanā ← mánman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+várdhasva ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+harya ← √hr̥- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+sūktā́ni ← sūktá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +156,4 @@ Mein Loblied nimm, o Agni, an, erlab' an dieser Andacht dich, Nimm unsre Sprüch
 Крепчай от этого произведения,  
 Прими приветливо наши гимны!
 </details>
+

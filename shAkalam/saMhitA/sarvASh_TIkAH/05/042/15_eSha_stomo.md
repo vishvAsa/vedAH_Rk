@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stómaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśyāḥ ← √naś- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+rudrásya ← rudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sūnū́n ← sūnú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+yuvanyū́n ← yuvanyú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+havate ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+kā́maḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ayā́saḥ ← ayā́s- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pŕ̥ṣadaśvān ← pŕ̥ṣadaśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+stuhi ← √stu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avamám ← avamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+madhyamám ← madhyamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+puṣyasi ← √puṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+paramásya ← paramá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rājasi ← √rāj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vr̥ṇvate ← √vr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Das untre Gut ist, Indra, dein; das mittlere entfaltest du; Und über alles ober
 Ты правишь целиком всем высшим.  
 Никто не удержит тебя в борьбе за коров.
 </details>
+

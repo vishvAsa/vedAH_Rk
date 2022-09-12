@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hité ← √hi- (root)  
+{case:LOC, gender:N, number:SG, non-finite:PPP}
+
+tánaye ← tánaya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+toké ← toká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+urvárāsu ← urvárā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+dŕ̥śīke ← dŕ̥śīka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+paúṁsye ← paúṁsya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sū́raḥ ← svàr- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+índrā ← índra- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+syātām ← √as- 1 (root)  
+{number:DU, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+váruṇā ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ávobhiḥ ← ávas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+dasmā́ ← dasmá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+páritakmyāyām ← páritakmya- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Zu liebem Sohn, zu Enkeln und zu Feldern zum Schau'n der Sonne und zu Heldenstä
 О Индра и Варуна, будьте здесь для нас  
 С (вашими) поддержками, о чудесные, в решающую минуту!
 </details>
+

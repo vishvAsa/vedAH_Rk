@@ -16,14 +16,54 @@ ChandaH = "पदपङ्क्तिः उष्णिग्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pūtám ← √pū- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+arepā́ḥ ← arepás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tanū́ḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+híraṇyam ← híraṇya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śúci ← śúci- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rocata ← √ruc- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+rukmáḥ ← rukmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svadhāvaḥ ← svadhā́vant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +184,4 @@ Wie helle Butter – wie reiner Körper – wie glänzend Gold auch, So strahlt 
 Чистое золото.  
 Оно сверкает у тебя, словно золотое украшение, о (бог,) следующий своему обычаю.
 </details>
+

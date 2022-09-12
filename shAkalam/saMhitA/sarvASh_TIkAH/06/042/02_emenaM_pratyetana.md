@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+pratyétana ← √i- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+somapā́tamam ← somapā́tama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sómebhiḥ ← sóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ámatrebhiḥ ← ámatra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+r̥jīṣíṇam ← r̥jīṣín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índubhiḥ ← índu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sutébhiḥ ← √su- (root)  
+{case:INS, gender:M, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +168,4 @@ Mit Somatränken schreitet hin zu ihm, dem Somatrinkendsten, Mit Krügen zu dem 
 С сосудами – к пьющему сому из выжимок,  
 К Индре – с выжатыми каплями!
 </details>
+

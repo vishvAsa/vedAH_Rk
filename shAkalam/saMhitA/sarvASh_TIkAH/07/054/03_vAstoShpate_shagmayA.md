@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śagmáyā ← śagmá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+saṁsádā ← saṁsád- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vā́stoḥ ← vā́stu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+gātumátyā ← gātumánt- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+raṇváyā ← raṇvá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sakṣīmáhi ← √sac- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+kṣéme ← kṣéma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+váram ← vára- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yóge ← yóga- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Lass Wohnungsherr uns deiner Huld Gemeinschaft, der starken, lieben, segnenden g
 Храни нас в мире и в походе лучше всего!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
+

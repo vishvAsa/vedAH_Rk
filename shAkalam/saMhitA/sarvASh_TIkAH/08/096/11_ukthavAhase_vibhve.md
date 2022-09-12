@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ukthávāhase ← ukthávāhas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vibhvè ← vibhū́- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+drúṇā ← dā́ru- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+īraya ← √īr- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+nadī́nām ← nadī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+pārám ← pārá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+spr̥śa ← √spr̥ś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śrutásya ← √śru- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+tanvì ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+júṣṭatarasya ← júṣṭatara- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kuvít ← kuvít (invariable)  
+{}
+
+védat ← √vid- 2 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Beweg' das Lied dem starken Spruch-empfänger wie mit dem Ruder über Flut der S
 
 -ru-
 </details>
+

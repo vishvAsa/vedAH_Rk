@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áyātuḥ ← áyātu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hváyāmi ← √hvā- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+dadhāmi ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sā́dhan ← √sādh- ~ sidh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +149,4 @@ Ich ruf' die Götter – in Einfalt, Agni, im Rechte wandernd – vollend' ich A
 Зову я без колдовства богов, о Агни,  
 Сочиняю произведение, добиваюсь успеха с помощью закона.
 </details>
+

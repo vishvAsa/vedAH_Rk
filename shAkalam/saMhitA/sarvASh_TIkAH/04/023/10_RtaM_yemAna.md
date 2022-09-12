@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vanoti ← √vanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yemānáḥ ← √yam- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+gavyúḥ ← gavyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+śúṣmaḥ ← śúṣma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+turayā́ḥ ← turayā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+bahulé ← bahulá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+gabhīré ← gabhīrá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+pr̥thvī́ ← pr̥thú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+r̥tā́ya ← r̥tá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dhenū́ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+duhāte ← √duh- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+paramé ← paramá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+r̥tā́ya ← r̥tá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Wer Opfer lenkt, der hat auch Lust am Opfer; des Opfers Kraft geht schnell und s
 Для закона – земля (и небо) просторны, глубоки.  
 Для закона доятся они как две превосходные дойные коровы.
 </details>
+

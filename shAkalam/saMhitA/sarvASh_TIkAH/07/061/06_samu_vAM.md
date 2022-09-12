@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahayam ← √mahay- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+huvé ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sabā́dhaḥ ← sabā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+mánmāni ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+návāni ← náva- 2 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+r̥cáse ← √r̥c- (root)  
+{case:DAT, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+bráhma ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+imā́ni ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+jujuṣan ← √juṣ- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+kr̥tā́ni ← √kr̥- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Mit Ehrfurcht will ich euer Opfer feiern, euch ruf' ich, Mitra-Varuna, mit Inbru
 Я пред(лагаю) новые молитвы для исполнения вам.  
 Пусть (вам) доставят радость эти сотворенные (для вас) священные слова!
 </details>
+

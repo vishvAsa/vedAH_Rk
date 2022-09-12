@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+javéṣu ← javá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+mánasaḥ ← mánas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+taṣṭéṣu ← √takṣ- (root)  
+{case:LOC, gender:M, number:PL, non-finite:PPP}
+
+brāhmaṇā́ḥ ← brāhmaṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saṁyájante ← √yaj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+átra ← átra (invariable)  
+{}
+
+jahuḥ ← √hā- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tvam ← tva- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vedyā́bhiḥ ← vedyā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+óhabrahmāṇaḥ ← óhabrahman- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tve ← tva- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Wenn Priester als Genossen Andacht üben in Sprüchen, die aus Geistes Kraft erz
 То кого-то умышленно оставляют позади,  
 Другие же, чьи молитвы ценятся, выступают вперед.
 </details>
+

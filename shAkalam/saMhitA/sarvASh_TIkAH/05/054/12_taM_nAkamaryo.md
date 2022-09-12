@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágr̥bhītaśociṣam ← ágr̥bhītaśocis- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nā́kam ← nā́ka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+dhūnutha ← √dhū- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+píppalam ← píppala- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rúśat ← rúśant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+acyanta ← √añc- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+átitviṣanta ← √tvíṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PLUPRF, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+vr̥jánā ← vr̥jána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ghóṣam ← ghóṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tāyávaḥ ← r̥tāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sváranti ← √svar- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vítatam ← √tan- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +228,4 @@ Ihr Maruts schüttelt eifrig von dem Himmel ab, dem unerreichbar glänzenden die
 Вы стряхиваете, когда (Маруты) вошли в раж:  
 (Эти) любители закона вызывают далеко отдающийся гул.
 </details>
+

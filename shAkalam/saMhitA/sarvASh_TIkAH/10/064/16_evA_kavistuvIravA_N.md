@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+evá ← evá (invariable)  
+{}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tajñā́ḥ ← r̥tajñā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tuvīrávān ← tuvīrávant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cakānáḥ ← √kā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+dráviṇasaḥ ← dráviṇas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+draviṇasyúḥ ← draviṇasyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ukthébhiḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápīpayat ← √pī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+divyā́ni ← divyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+gáyaḥ ← gáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jánma ← jánman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +196,4 @@ So hat der weise Sänger, opferkundig, nach Gut verlangend und des Guts sich fre
 
 -ru-
 </details>
+

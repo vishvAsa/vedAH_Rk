@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.
+#### Morph
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśvāsaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jyéṣṭhāsaḥ ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+didhiṣávaḥ ← didhiṣú- (nominal stem)  
+{case:NOM, gender:M, number:PL, mood:DES}
+
+ná ← ná (invariable)  
+{}
+
+rathyàḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sudā́navaḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jigatnávaḥ ← jigatnú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nimnaíḥ ← nimná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+udábhiḥ ← udán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+áṅgirasaḥ ← áṅgiras- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sā́mabhiḥ ← sā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+viśvárūpāḥ ← viśvárūpa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Die schnell sind wie die vorzüglichsten Rosse, schatzreich wie Wagenlenker, die
 Подвижные, как реки с (их) водами, стекающими низиной;  
 Разнообразные по своим мелодиям, словно Ангирасы:
 </details>
+

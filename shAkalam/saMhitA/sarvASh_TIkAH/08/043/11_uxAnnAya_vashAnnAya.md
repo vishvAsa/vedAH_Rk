@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ukṣā́nnāya ← ukṣā́nna- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vaśā́nnāya ← vaśā́nna- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómapr̥ṣṭhāya ← sómapr̥ṣṭha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vedháse ← vedhás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+stómaiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -82,7 +104,6 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उक्षान्नाय** । उक्षान्नमदनीयं हविर्यस्यासावुक्षान्नः । तस्मै **वशान्नाय**। वशान्नं यस्यासौ वशान्नः । तस्मै **सोमपृष्ठाय** सोमघृतपृष्ठाय **वेधसे** विधात्रे कामानाम् **अग्नये** **स्तोमैः** **विधेम** परिचरेम ॥
 </details>
 
-
 <details><summary>भट्टभास्करटीका</summary>
 
 उक्षा अन्नं यस्य तस्मै । एवं वशान्नाय । सोमपृष्ठाय सोमे हविषि स्थितानि पृष्ठानि स्तोत्राणि यस्य स सोमपृष्ठः, पृष्ठस्तोत्रेण सोमेनाराध्यत इत्यर्थः । व्यधिकरणो बहुव्रीहिः । मत्वर्थीयो वाऽकारः, सोमवन्ति पृष्ठानि यस्येति । वेधसे विधात्रे मेधाविने । उञ्छादित्वादन्तोदात्तत्वम् । ईदृशायाग्नये तुभ्यं स्तोमैस्स्तोत्रैर्विधेम परिचरेम, एवंगुणकं त्वां परिचरेम इत्यर्थः । विधविधाने तौदादिकः । 'क्रियाग्रहणं कर्तव्यम्' इति सम्प्रदानत्वाच्चतुर्थी, द्वितीयार्थे वा विभक्तिव्यत्ययेन । एवमस्माभिस्स्तुतस्त्वं यजमानमन्नवन्तं कुरु । 'स एवैनमन्नवन्तं करोत्यन्नवानेव भवति' `इति ब्राह्मणम् ॥
@@ -115,7 +136,6 @@ The disposer, backed with Soma.
 
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Ihm, des Speise Ochsen und unfruchtbare Kühe sind, der Soma auf dem Rücken trägt, dem Meister, dem Agni wollen wir mit Lobgesängen dienen.
@@ -132,3 +152,4 @@ Der Stiere isst und Kühe isst, dem Ordner, der den Soma trägt, Dem Agni huld'g
 Кто с сомой на спине, устроителю обряда  
 Агни мы хотим служить восхвалениями!
 </details>
+

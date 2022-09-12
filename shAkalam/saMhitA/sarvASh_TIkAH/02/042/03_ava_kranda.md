@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+áva ← áva (invariable)  
+{}
+
+dakṣiṇatáḥ ← dakṣiṇatáḥ (invariable)  
+{}
+
+gr̥hā́ṇām ← gr̥há- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+kranda ← √krand- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bhadravādī́ ← bhadravādín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śakunte ← śakúnti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sumaṅgálaḥ ← sumaṅgála- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agháśaṁsaḥ ← agháśaṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īśata ← √īś- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+stenáḥ ← stená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suvī́rāḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vadema ← √vadⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +222,4 @@ Dein Schrei ertöne rechts von unsern Häusern, heilvoll und Glück verkündend,
 Да не приобретет над нами власти ни вор, ни злоречивец!  
 Мы хотим провозгласить жертвенную раздачу, (чтобы иметь) прекрасных мужей!
 </details>
+

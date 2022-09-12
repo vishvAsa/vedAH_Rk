@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+idhyate ← √idh- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+sám ← sám (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áśvaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devavā́hanaḥ ← devavā́hana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+havíṣmantaḥ ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +164,4 @@ Agni, der Stier, wird hell entflammt, gleich wie ein Ross, das Götter fährt, I
 (Он,) словно конь, везущий богов.  
 (Люди) с жертвенными возлияниями призывают его.
 </details>
+

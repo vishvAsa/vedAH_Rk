@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+héḷaḥ ← héḷas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yāsisīṣṭhāḥ ← √yā- 2 (root)  
+{number:SG, person:2, mood:OPT, tense:AOR, voice:MED, mood:PREC}
+
+śóśucānaḥ ← √śuc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+váhnitamaḥ ← váhnitama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yájiṣṭhaḥ ← yájiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+dvéṣāṁsi ← dvéṣas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mumugdhi ← √muc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Du, der's versteht, o Agni, mögest wenden hinweg den Zorn uns Varuna's, des Got
 Лучший жертвователь, лучший возница, ярко пылающий,  
 Избавь нас от всех проявлений ненависти!
 </details>
+

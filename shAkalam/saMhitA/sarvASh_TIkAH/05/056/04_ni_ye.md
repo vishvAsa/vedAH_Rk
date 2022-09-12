@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ní ← ní (invariable)  
+{}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+riṇánti ← √rī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+durdhúraḥ ← durdhúr- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
+áśmānam ← áśman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+girím ← girí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+párvatam ← párvata- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svaryàm ← svaryà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cyāvayanti ← √cyu- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+yā́mabhiḥ ← yā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +207,4 @@ Die niederstürmen mit Gewalt, wie ungezähmte Stiere wild; Des Himmels Felsen a
 Даже звучную скалу, холм, гору  
 Они сотрясают (своими) походами.
 </details>
+

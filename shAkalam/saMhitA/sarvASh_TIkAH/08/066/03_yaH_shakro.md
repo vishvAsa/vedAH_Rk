@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvyaḥ ← áśvya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥kṣáḥ ← mr̥kṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śakráḥ ← śakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hiraṇyáyaḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kī́jaḥ ← kī́ja- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ápāvr̥tim ← ápāvr̥ti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rejayati ← √rej- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ūrvásya ← ūrvá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gávyasya ← gávya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Der einer Pferdestriegel gleicht, und goldnem Sporn, der kräftige, Der Vritrat�
 Этот Индра, убийца Вритры, сотрясает  
 Закрытый вход загона с коровами.
 </details>
+

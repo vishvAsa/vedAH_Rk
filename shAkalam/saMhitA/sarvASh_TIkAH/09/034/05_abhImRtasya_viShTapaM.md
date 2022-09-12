@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+viṣṭápam ← viṣṭáp- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+duhaté ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+pŕ̥śnimātaraḥ ← pŕ̥śnimātar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cā́ru ← cā́ru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+priyátamam ← priyátama- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -97,7 +125,7 @@ On the sense of this vs., see published introduction. Needless to say, this vs. 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/034/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/034/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 The final words of these two vss. are the phonologically similar háriḥ and havíḥ, both referring to soma -- though one is masc. nom. and the other neut. acc. </details>
@@ -126,3 +154,4 @@ Die Priçnisohne melken ihn sich auf des Opfers Stätte hin, Den schönen, liebs
 (Маруты,) чья мать Пришни, выдаивают  
 Эту любимую, самую приятную жертву.
 </details>
+

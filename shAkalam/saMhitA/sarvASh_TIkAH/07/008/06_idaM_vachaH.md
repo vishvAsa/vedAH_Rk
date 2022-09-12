@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sáṁsahasram ← sáṁsahasra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śatasā́ḥ ← śatasā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dvibárhāḥ ← dvibárhas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janiṣīṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED, mood:PREC}
+
+út ← út (invariable)  
+{}
+
+āpáye ← āpí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhávāti ← √bhū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+śám ← śám (invariable)  
+{case:ACC, gender:N, number:SG}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+amīvacā́tanam ← amīvacā́tana- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dyumát ← dyumánt- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+rakṣohā́ ← rakṣohán- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +214,4 @@ Dem Agni sei erzeugt dies zwiefach starke, dies Lied, das hundert-, tausendfache
 Чтобы стать счастливой для восхвалителей (и) для товарища (твоего),  
 Сверкающая, изгоняющая болезни, убивающая ракшасов!
 </details>
+

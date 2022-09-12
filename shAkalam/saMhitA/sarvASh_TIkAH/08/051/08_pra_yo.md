@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+krívim ← krívi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nanakṣé ← √nakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+nighoṣáyan ← √ghuṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śúṣṇam ← śúṣṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vadhaíḥ ← vadhá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+amū́m ← asaú (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+ástambhīt ← √stambhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dívam ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+pratháyan ← √prathⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+janiṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+pā́rthivaḥ ← pā́rthiva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +214,4 @@ Als er, der kräftig mit Keulenschlägen den Wasserschlauch erlangte, und Çusch
 А когда он укрепил (и) распространил то небо,  
 Вот тогда и земной обитатель родился.
 </details>
+

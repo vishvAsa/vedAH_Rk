@@ -17,15 +17,58 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+áhitena ← áhita- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+árvatā ← árvant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+jīrádānuḥ ← jīrádānu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+siṣāsati ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pravā́cyam ← pravā́cya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+kariṣyatáḥ ← √kr̥- (root)  
+{case:ACC, gender:M, number:SG, tense:FUT, voice:ACT}
+
+vīryā̀ṇi ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bhadrā́ḥ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rātáyaḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +211,4 @@ Auf schlechtem Renner auch gewinnt den Preis der reichlich strömende, Zu rühme
 Что ты стремишься совершать подвиги.  
 Дары Индры несут счастье.
 </details>
+

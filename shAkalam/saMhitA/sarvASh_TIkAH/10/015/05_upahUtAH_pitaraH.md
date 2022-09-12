@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line  
 popular
+#### Morph
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+somyā́saḥ ← somyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+úpahūtāḥ ← √hū- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+barhiṣyèṣu ← barhiṣyà- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+nidhíṣu ← nidhí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+priyéṣu ← priyá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gamantu ← √gam- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+śruvantu ← √śru- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+avantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+bruvantu ← √brū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Geladen sind die Soma-frohen Väter zu lieben Speisen, welche auf der Streu steh
 Пусть придут они, пусть послушают здесь!  
 Пусть заступятся они и поддержат нас!
 </details>
+

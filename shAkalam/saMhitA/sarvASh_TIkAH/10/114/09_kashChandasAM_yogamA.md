@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+chándasām ← chándas- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+dhī́raḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yógam ← yóga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhíṣṇyām ← dhíṣṇya- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+papāda ← √pad- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+aṣṭamám ← aṣṭamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+r̥tvíjām ← r̥tvíj- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śū́ram ← śū́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cikāya ← √ci- 3 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+svit ← svit (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +248,4 @@ Welcher Weise kennt der Zaubersprüche Anwendung? wer hat daran angeknüpft das 
 Какого героя называют восьмым из жрецов?  
 Кто поистине постиг пару буланых коней Индры?
 </details>
+

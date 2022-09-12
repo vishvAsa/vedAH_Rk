@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+dyumnā́ni ← dyumná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vanínaḥ ← vanín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ákṣitā ← ákṣita- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sacante ← √sac- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+pītvī́ ← √pā- 2 (root)  
+{non-finite:CVB}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vāvr̥dhe ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +145,4 @@ Zu Indra dringen Gaben hin des Spenders, unvergängliche; Nach Somatränken wirs
 Озарения деревянного (сосуда).  
 Он возрос, выпив сому.
 </details>
+

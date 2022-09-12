@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+manótā ← manótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ábhavaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+asyā́ḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+dasma ← dasmá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhiyáḥ ← dhī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+akr̥ṇoḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+duṣṭárītu ← duṣṭárītu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sīm ← sīm (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vr̥ṣan ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sáhadhyai ← √sah- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáhase ← sáhas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+víśvasmai ← víśva- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +237,4 @@ Du, Agni, warst Erreger dieser Andacht, der erste Priester, o du wunderbarer; Du
 Это ты, о бык, сделал неодолимой (свою)  
 Силу, чтоб можно было осилить любую силу.
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sakhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+gāyata ← √gā(y)- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+punānám ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+gūrtíbhiḥ ← gūrtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śíśum ← śíśu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svadayanta ← √svad- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +168,4 @@ Besingt, o Freunde, diesen hier, den ihr zum Rausch geläutert habt; Sie säugen
 Для вашего опьянения!  
 Как ребенка, они сделали его привлекательным с помощью жертв (и) восхвалений.
 </details>
+

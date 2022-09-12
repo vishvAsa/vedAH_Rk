@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mánmanā ← mánman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pratnéna ← pratná- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,3 +138,4 @@ Er rieselt hell im alten Geist, ein Gott er, von den Göttern her Im Strome flam
 
 -ru-
 </details>
+

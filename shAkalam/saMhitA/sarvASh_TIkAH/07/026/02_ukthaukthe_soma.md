@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mamāda ← √mad- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukthá-ukthe ← ukthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+maghávānam ← maghávan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nīthé-nīthe ← nīthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sutā́saḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+īm ← īm (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+putrā́ḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sabā́dhaḥ ← sabā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+hávante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+samānádakṣāḥ ← samānádakṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,13 +167,13 @@ genre M
 
 **यत्** यस्मात् **उक्थेउक्थे** शस्त्रेशस्त्रे क्रियमाणे **सोमः** **मघवानम्** **इन्द्रं** 'ममाद मादयति **नीथेनीथे** स्तोत्रेस्तोत्रे क्रियमाणे **सुतासः** अभिषुताः सोमाः मादयन्ति तस्मात् **ईम्** एनमिन्द्रं **सबाधः** परस्परं मिलिताः **समानदक्षाः** समानोत्साहा ऋत्विजः **पुत्राः** **पितरं** **न** पितरमिव **अवसे** तर्पणाय स्वरक्षणाय वा **हवन्ते** । शस्त्रैः स्तोत्रैश्च स्तुवन्ति ॥
 </details>
+
 <details><summary>भट्टभास्करटीका</summary>
 
 उक्थउक्थे शस्त्रेशस्त्रे सोम इन्द्रं ममाद मादयति तर्पयति । मदेर्ण्यन्ताच्छान्दसो लिट्, 'बहुलमन्यत्रापि' इति णिलुक् । 'अनुदात्तं च' इति द्वितीयस्योक्थशब्दस्यानुदात्तत्वम् ।
 
 किञ्च - नीथेनीथे स्तोत्रेस्तोत्रे सुतासः अभिषुतास्सोमाः मघवानं महाधनं इन्द्रं मादयति । आज्जसेरसुक् । किञ्च - यत् यदा खलु सबाधः बाधासहिताः शस्त्रादिभिर्बाधिता भवन्ति पुरुषाः । व्यत्ययेन समासान्तोदात्तत्वम् । तदा तेपि पितरन्न पितरमिव पुत्राः अवसे रक्षणाय इन्द्रमेव हवन्ते ह्वयन्ति । पूर्ववत्सम्प्रसारणम् । ईमित्यवधारणे । समानदक्षाः, दक्षः पिता, समानपितृका इत्यर्थः । इन्द्र एव सर्वेषां समानः पितेति ॥
 </details>
-
 
 <details><summary>हरदत्तः</summary>
 
@@ -160,7 +209,6 @@ What time in unison with equal effort
 They call him to aid, like sons a father.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Bei jedem Lobgedicht hat Soma den Indra begeistert, bei jeder Weise die Säfte den Gabenreichen, wenn sie ihn dringlich wie die Söhne den Vater einwillig zur Hilfe rufen.
@@ -178,3 +226,4 @@ Bei Spruch um Spruch erfreut den Indra Soma, bei Lied um Lied den mächt'gen die
 Когда его настойчиво, как единодушные сыновья –  
 Отца, зовут на помощь.
 </details>
+

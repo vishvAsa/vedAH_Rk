@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jihváyā ← jihvā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+bādhasva ← √bādhⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+duṣkŕ̥tam ← duṣkŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+jíghāṁsati ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +155,4 @@ Mit deiner Zunge stoss, o Gott, den Uebelthäter du hinweg, Den Mann, der uns zu
 Удержи того смертного –  
 Злодея, что хочет нас убить!
 </details>
+

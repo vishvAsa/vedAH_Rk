@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vr̥kátāti ← vr̥kátāt- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dadhé ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+rákṣata ← √rakṣⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ripúḥ ← ripú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+riṣáḥ ← ríṣ- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+cakríyā ← cakrī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tápuṣā ← tápus- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vartáyata ← √vr̥t- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+aśásaḥ ← aśás- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+hantana ← √han- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rudrā ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vádhar ← vádhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ Wenn uns, o Marut's, ränkevoll ein Sterblicher verderben will, o Gute, schützt
 Переедьте его раскаленным колесом!  
 Вы (бейте), о Рудры, смертельное оружие у (этого) проклятого! Убейте (его)!
 </details>
+

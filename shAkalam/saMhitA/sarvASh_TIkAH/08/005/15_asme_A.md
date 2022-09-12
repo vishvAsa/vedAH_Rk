@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vahatam ← √vah- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sahasríṇam ← sahasrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatávantam ← śatávant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purukṣúm ← purukṣú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvádhāyasam ← viśvádhāyas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +139,4 @@ Uns fahret reiches Gut herbei, das hundertfach und tausendfach, Viel Speise hegt
 Сотенное, тысячное,  
 Обильное скотом, всех насыщающее!
 </details>
+

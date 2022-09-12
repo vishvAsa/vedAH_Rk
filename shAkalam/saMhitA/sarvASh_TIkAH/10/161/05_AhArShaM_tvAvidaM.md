@@ -16,14 +16,69 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ahārṣam ← √hr̥- 1 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ávidam ← √vid- 1 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agāḥ ← √gā- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+púnar ← púnar (invariable)  
+{}
+
+punarnava ← punarnava- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sárvam ← sárva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sárvāṅga ← sarvāṅga- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+avidam ← √vid- 1 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+sárvam ← sárva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Gewonnen bist du und erlöst, zurückgekommen frisch erneut; Gesund ist Auge dir
 С невредимыми членами, невредимо твое зрение,  
 Невредимым я нашел и твой срок жизни!
 </details>
+

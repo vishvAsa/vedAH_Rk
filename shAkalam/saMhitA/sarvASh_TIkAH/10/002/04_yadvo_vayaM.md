@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+praminā́ma ← √mī- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áviduṣṭarāsaḥ ← áviduṣṭara- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vidúṣām ← √vid- 2 (root)  
+{case:GEN, gender:M, number:PL, tense:PRF, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥ṇāti ← √pr̥̄- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kalpáyāti ← √kl̥p- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+r̥túbhiḥ ← r̥tú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +237,4 @@ Wenn wir, o Götter, eur Gesetz verletzen, o ihr verständ'gen, wir die unverst�
 Пусть Агни-знаток все это сделает приятным  
 В соответствии с (тем) временем (жертвоприношений), по которому он распределяет богов!
 </details>
+

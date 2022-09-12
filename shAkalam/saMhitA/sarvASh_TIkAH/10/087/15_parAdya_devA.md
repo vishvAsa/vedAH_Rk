@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+párā ← párā (invariable)  
+{}
+
+śr̥ṇantu ← √śr̥̄- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vr̥jinám ← vr̥jiná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+pratyák ← pratyáñc- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śapáthāḥ ← śapátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tr̥ṣṭā́ḥ ← tr̥ṣṭá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yantu ← √i- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+márman ← márman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+r̥chantu ← √r̥- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śáravaḥ ← śáru- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vācā́stenam ← vācā́stena- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+prásitim ← prásiti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yātudhā́naḥ ← yātudhā́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +206,4 @@ Den Bösen mögen Götter heut zermalmen, die rauhen Flüche auf ihn selbst sich
 Пусть стрелы поразят в уязвимое место того, кто ворует речью!  
 Пусть колдун попадает в ловушку к каждому!
 </details>
+

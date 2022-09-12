@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áyukta ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+harítaḥ ← harít- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sadhásthāt ← sadhástha- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ghr̥tā́cīḥ ← ghr̥tā́ñc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váhanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+dhā́māni ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvā́kuḥ ← yuvā́ku- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cáṣṭe ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+jánimāni ← jániman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yūthā́ ← yūthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Aus seinem Sitze schirrt er sieben Rosse, die buttertriefend ihn, den Lichtgott,
 Который предан вам, о Митра-Варуна,  
 (И) озирает (ваши) установления, роды (людские), словно (пастух) стада.
 </details>
+

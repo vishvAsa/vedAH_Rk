@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dhanaṁjayám ← dhanaṁjayá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+dadhr̥ṣám ← dadhr̥ṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kave ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ádha ← ádha (invariable)  
+{}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +153,4 @@ Wir wissen, dass du Beute machst, und, Weiser, kühn in Schlachten bist; Drum w�
 Отважного в битвах за награду, о поэт.  
 Вот мы просим о твоей милости.
 </details>
+

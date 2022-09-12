@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyā́ḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vyùṣṭau ← vyùṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jujoṣa ← √juṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mártasya ← márta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+sákhibhyaḥ ← sákhi- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmin ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suyújam ← suyúj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tatasré ← √taṁs- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +199,7 @@ As noted above, fem. asyā́(ḥ) patterns with the ubiquitous asya in this vs.:
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/023/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/023/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 The root √juṣ encountered in two different forms in 1bc recurs here in the perfect, subjunctive (4d) and indicative (5b).
@@ -172,3 +230,4 @@ Wie hat der Gott bei dieses Morgens Leuchten Gefallen an des Sterblichen Gemeins
 Как (он дружит) и какова его дружба с друзьями,  
 Которые направили на него (свое) хорошо запряженное желание?
 </details>
+

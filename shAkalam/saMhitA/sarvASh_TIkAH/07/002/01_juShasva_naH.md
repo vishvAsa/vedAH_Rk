@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+juṣásva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+samídham ← samídh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhūmám ← dhūmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥ṇván ← √r̥- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śóca ← √śuc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yajatám ← yajatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+divyám ← divyá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sā́nu ← sā́nu- ~ snú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+spr̥śa ← √spr̥ś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+stū́paiḥ ← stū́pa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tatanaḥ ← √tan- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Geniess, o Agni, heute unser Brennholz, erstrahle hell und wirble heil'gen Rauch
 Касайся небесной вершины (своими) вихрами,  
 Притяни (их) вместе с лучами солнца!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sepuḥ ← √sap- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+cakānā́ḥ ← √kā- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sumatáye ← sumatí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yántaḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dātā́ ← dātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+vájrahastaḥ ← vájrahasta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mahā́m ← máh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+raṇvám ← raṇvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+yajadhvam ← √yaj- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Um Freundschaft ehrten eure Priester Indra, hineilend, nach des grossen Gunst ve
 Ведь носитель ваджры – даритель (богатства) великого.  
 Жертвуйте – чтоб он помогал – отрадному, великому!
 </details>
+

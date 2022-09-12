@@ -15,13 +15,56 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+chardiṣpaú ← chardiṣpā́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+paraspā́ ← paraspā́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+utá ← utá (invariable)  
+{}
+
+yātám ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bhūtám ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+jagatpaú ← jagatpā́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tanūpā́ ← tanūpā́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+utá ← utá (invariable)  
+{}
+
+tánayāya ← tánaya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tokā́ya ← toká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +189,4 @@ Kommt her als Hüter des Hauses, seid uns Beschirmer in der Ferne, Beschirmer de
 Будьте защитниками (нашей) живности, а также защитниками наших тел!  
 Совершите объезд ради продолжения (нашего) рода!
 </details>
+

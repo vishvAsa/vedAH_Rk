@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ánarśanim ← ánarśani- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sŕ̥bindam ← sŕ̥binda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ahīśúvam ← ahīśū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dāsám ← dāsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+píprum ← pípru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+riṇán ← √rī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vádhīt ← √vadhⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +163,4 @@ Des starken, der Sribindha schlug Anarçani, Ahiçuva, Den Unhold Pipru, Flut er
 Пипру, дасу Ахишуву  
 (И) выпустил, грозный, течь воды.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+dádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tvíṣim ← tvíṣi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vicákṣāṇaḥ ← √cakṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+virocáyan ← √ruc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,3 +138,4 @@ Gepresst geht er zur Seihe hin, mit Kraft erzeugend hellen Glanz, Weit schauend 
 
 -ru-
 </details>
+

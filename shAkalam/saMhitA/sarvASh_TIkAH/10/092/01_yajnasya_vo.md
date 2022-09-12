@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+rathyàm ← rathī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+viśpátim ← viśpáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aktóḥ ← aktú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+átithim ← átithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vibhā́vasum ← vibhā́vasu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+háriṇīṣu ← hárita- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+járbhurat ← √bhur- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śócan ← √śuc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śúṣkāsu ← śúṣka- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+aśāyata ← √aśāy- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ketúḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajatáḥ ← yajatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +199,4 @@ Den Fährmann eurer Opfer, ihn der Stämme Herrn, den Priester preis' ich, ihn d
 
 -ru-
 </details>
+

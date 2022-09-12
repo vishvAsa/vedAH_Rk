@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gā́t ← √gā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+nís ← nís (invariable)  
+{}
+
+pūtā́ ← √pū- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svádhitiḥ ← svádhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kr̥pā́ ← kŕ̥p- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+rócamānaḥ ← √ruc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sváyā ← svá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jániṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+mātróḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+uśényaḥ ← uśénya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+devayájyāya ← devayájya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+pāvakáḥ ← pāvaká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Wenn leuchtend er wie eine blanke Axt geht, durch eigne Schönheit an sich selbs
 (Тот,) кто родился желанным для (своих) родителей,  
 Очень умелый в почитании богов, светлый...
 </details>
+

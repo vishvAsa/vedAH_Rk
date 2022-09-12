@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
 popular
+#### Morph
+mahiṣáḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+uruvyácā ← uruvyáñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yaṁsat ← √yam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+háve ← háva- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+puruhūtáḥ ← puruhūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purukṣúḥ ← purukṣú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+haryaśva ← háryaśva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mr̥ḷaya ← √mr̥ḍ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prajā́yai ← prajā́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+párā ← párā (invariable)  
+{}
+
+rīriṣaḥ ← √riṣ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +244,4 @@ Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Näh
 Будь милостив к нашему потомству, о хозяин буланых коней!  
 О Индра, не причини нам вреда, не выдай нас!
 </details>
+

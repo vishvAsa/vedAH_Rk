@@ -14,12 +14,43 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+manīṣā́ ← manīṣā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śukrā́ ← śukrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sútaṣṭaḥ ← sútaṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Das reine Sinnlied, – das helle fahre, das wir gezimmert, – gleich schnellem
 Пусть двинется вперед светлое божественное произведение  
 От нас, словно прекрасно слаженная колесница, приносящая награду!
 </details>
+

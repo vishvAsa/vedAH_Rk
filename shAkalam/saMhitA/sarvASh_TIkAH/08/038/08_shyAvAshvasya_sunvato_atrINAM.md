@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+sunvatáḥ ← √su- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śyāvā́śvasya ← śyāvā́śva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+átrīṇām ← átri- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śr̥ṇutam ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +141,4 @@ Des Presser Çjāva-açva Ruf und den der Atri's höret an, Den Soma Indra-Agni,
 Выжимающего (сому) (и) людей Атри,  
 О Индра-Агни, для питья сомы!
 </details>
+

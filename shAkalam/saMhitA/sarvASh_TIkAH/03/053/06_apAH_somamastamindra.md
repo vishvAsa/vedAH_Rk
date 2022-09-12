@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+ápāḥ ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+ástam ← ásta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gr̥hé ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jāyā́ ← jāyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kalyāṇī́ḥ ← kalyā́ṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+suráṇam ← suráṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nidhā́nam ← nidhā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ráthasya ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+dákṣiṇāvat ← dákṣiṇāvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vimócanam ← vimócana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +204,4 @@ Du trankst den Soma, komm nun heim, o Indra, die schöne Gattin ist dir Lust im 
 (Там,) где ставят высокую колесницу  
 И распрягают (скакуна), приносящего награду, что сулит вознаграждение.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhiśrī́ḥ ← abhiśrī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mitrā́váruṇayoḥ ← mitrā́váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+virā́ṭ ← virā́j- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+áhnaḥ ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+bhāgáḥ ← bhāgá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+triṣṭúp ← triṣṭúbh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jágatī ← jágatī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+viveśa ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+cākl̥pre ← √kl̥p- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+manuṣyā̀ḥ ← manuṣyà- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Die Virādsch [virâj] war des Mitra und Varuna Ausschmückung, die Trischtubh h
 (Размер) джагати вошел во Всех-Богов.  
 С этими сообразовывались риши людские.
 </details>
+

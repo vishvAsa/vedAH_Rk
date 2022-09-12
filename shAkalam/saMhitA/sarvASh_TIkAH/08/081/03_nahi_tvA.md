@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nahí ← nahí (invariable)  
+{}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+dítsantam ← √dā- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+mártāsaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+bhīmám ← bhīmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vāráyante ← √vr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +151,4 @@ Denn, o Held, nicht hemmen Götter dich, noch Menschen, wenn du spendest, Dich, 
 
 -ru-
 </details>
+

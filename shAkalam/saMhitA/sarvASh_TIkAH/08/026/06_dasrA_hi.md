@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+dasrā́ ← dasrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hí ← hí (invariable)  
+{}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+makṣū́bhiḥ ← makṣú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+paridī́yathaḥ ← √dī- 2 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dhiyaṁjinvā́ ← dhiyaṁjinvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mádhuvarṇā ← mádhuvarṇa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pátī ← páti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śubháḥ ← śúbh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Denn, hehre, ihr umfliegt das All mit raschen Rossen rings herum, Gebet erregend
 Облетаете на быстрых (конях),  
 (Вы,) возбуждающие мысль, цвета меда, повелители красоты.
 </details>
+

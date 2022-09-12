@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292);; repeated line  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+ámīvā ← ámīvā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āśáye ← √śī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+durṇā́mā ← durṇā́man- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+anīnaśat ← √naś- 2 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+kravyā́dam ← kravyā́d- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nís ← nís (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +183,4 @@ Die übelnamige Krankheit, die in deinem Mutterleibe und Schoosse haust, die fle
 Агни вместе со священным словом  
 Выгнал вон пожирателя сырого мяса.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+giriṣṭhā́ḥ ← giriṣṭhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+suvānáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+akṣār ← √kṣar- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mádeṣu ← máda- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sarvadhā́ḥ ← sarvadhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +145,4 @@ Der Berg – entstammte Soma rinnt gekeltert zu der Seihe hin; Bei den Gelagen s
 Выжатый, потек кругами в цедилке.  
 В опьянениях ты даешь все.
 </details>
+

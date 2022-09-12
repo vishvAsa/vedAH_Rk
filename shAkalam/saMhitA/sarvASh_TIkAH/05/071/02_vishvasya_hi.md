@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+pracetasā ← prácetas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mítra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rā́jathaḥ ← √rāj- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+váruṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+īśānā́ ← √īś- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
+
+pipyatam ← √pī- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +140,4 @@ Denn über alles herrschet ihr als weise, Mitra, Varuna; Erfüllt die Bitten, di
 О прозорливые Варуна (и) Митра.  
 Сделайте (наши) молитвы набухшими – вы способны (на это)!
 </details>
+

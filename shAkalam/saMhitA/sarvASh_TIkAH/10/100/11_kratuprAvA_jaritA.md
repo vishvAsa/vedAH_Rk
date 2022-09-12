@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jaritā́ ← jaritár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kratuprā́vā ← kratuprā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śáśvatām ← śáśvant- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+prámatiḥ ← prámati- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sutā́vatām ← sutā́vant- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+divyám ← divyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pūrṇám ← √pr̥̄- 1 (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+siktáye ← siktí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sarvátātim ← sarvátāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +203,4 @@ Ein Sänger, der den Geist erfüllt und allen hilft, ist Indra, und der gütig f
 
 -ru-
 </details>
+

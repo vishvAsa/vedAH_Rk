@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+kapardínam ← kapardín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rathī́tamam ← rathī́tama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ī́śānam ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rā́dhasaḥ ← rā́dhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +137,4 @@ Den Lenker mit geflochtnem Haar, der über grossen Schatz verfügt, Um Reichthum
 Владеющего великим дарением,  
 Друга мы просим о богатствах.
 </details>
+

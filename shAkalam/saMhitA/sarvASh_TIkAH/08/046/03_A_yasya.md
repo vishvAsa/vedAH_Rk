@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+śátakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śátamūte ← śatámūti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+gr̥ṇánti ← √gr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kārávaḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +139,4 @@ Der hundert Werk' und Hülfen du uns schaffst, und dessen Grösse hier Die Säng
 О (бог) с сотней поддержек, о стоумный,  
 Поэты воспевают в хвалебных песнях.
 </details>
+

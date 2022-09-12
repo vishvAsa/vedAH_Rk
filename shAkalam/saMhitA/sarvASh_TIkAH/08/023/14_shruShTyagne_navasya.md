@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+návasya ← náva- 2 (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śruṣṭī́ ← śruṣṭí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+stómasya ← stóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vīra ← vīrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+viśpate ← viśpáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+daha ← √dah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+māyínaḥ ← māyín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tápuṣā ← tápus- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +161,4 @@ O höre, Agni, Hausherr du, auf dies mein neues Lied, o Held; Die Zaubergeister 
 Восхвалению, о муж, о господин племен,  
 Жаром спали дотла колдунов!
 </details>
+

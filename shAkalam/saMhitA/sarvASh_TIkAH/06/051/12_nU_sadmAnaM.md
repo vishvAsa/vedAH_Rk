@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+divyám ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+náṁśi ← √naś- 1 (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:MED}
+
+nú ← nú (invariable)  
+{}
+
+sadmā́nam ← sadmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhā́radvājaḥ ← bhā́radvāja- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+āsānébhiḥ ← √ās- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:MED}
+
+miyédhaiḥ ← miyédha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yájamānaḥ ← √yaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+jánma ← jánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vasūyúḥ ← vasūyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vavanda ← √vandⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Nun hat Bharadvadscha den himmlichen Sitz erreicht, o Götter; zu hoher Gunst ge
 Сидящими (рядом с ним) жертвенными дарами жертвователь,  
 Стремящийся к богатству, почтил род богов.
 </details>
+

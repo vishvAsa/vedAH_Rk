@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhavan ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mádāsaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádiṣṭhāḥ ← mádiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+abhavaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+vásupatiḥ ← vásupati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adhithāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:MED}
+
+dátre ← dátra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥ṣṭī́ḥ ← kr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +203,7 @@ In pāda a the word víśve was omitted in the published translation, which shou
 3, to I.5 ll. 30-31.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/06-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 I take the idiom found in 6d and 7b, LOC. ACC. adhithāḥ, as meaning ‘put s.o. in the path/way of s.th. The middle voice of adhithāḥ signals that the entity in the loc. belongs to the subject, namely Indra -- in the first case his generosity (just celebrated in 5d), in the second his power of attack. Although Geldner recognizes the similarity of these constructions, with identical subjects and objects (see his n. 6d), he renders them quite differently. For áme √dhā in 7b, see also I.63.1, 67.3.
@@ -180,3 +235,4 @@ Ihm waren alle Somatränke eigen, die kräftigsten, berauschenden dem grossen, D
 Целиком ты был господином (всех) благ.  
 Ты наделил имуществом все народы, о Индра.
 </details>
+

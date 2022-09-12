@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ratharyati ← √rathary- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+daśasyati ← √daśasy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+āvís ← āvís (invariable)  
+{}
+
+kr̥ṇoti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vagvanúm ← vagvanú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -100,3 +125,4 @@ Zu Wagen fährt der rieselnde, und huldvoll zeigt sich dieser Gott, Er lässt er
 Павамана оказывает милости,  
 Шум (давильных камней) он делает явным.
 </details>
+

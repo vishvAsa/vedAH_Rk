@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+īrayati ← √īr- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vā́caḥ ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+váhniḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dhītím ← dhītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gópatim ← gópati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥chámānāḥ ← √praś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+matáyaḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāvaśānā́ḥ ← √vāś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:MED}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +199,7 @@ Given the emphasis on noise in this tṛca, the former is probably primary, but 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/34-36.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/34-36.md">
 <details open><summary><h2>34-36 ...{Loading}...</h2></summary>
 
 All three vss. concentrate on ritual speech and on the noisy approach of both cows and poets to Soma. This theme takes up 32d, where Soma impels his own speech in concert with the productions of the poets. The final vs., 36, begins with hymn-summarizing evā́.
@@ -179,3 +231,4 @@ Drei Stimmen sind es, die der Fahrer anregt, als Brauch des Opfers, als Gebetes 
 Приходят коровы, спрашивая о пастухе,  
 К соме приходят поэтические мысли, громко мыча
 </details>
+

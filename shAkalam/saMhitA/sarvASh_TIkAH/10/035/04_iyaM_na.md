@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sudevyàm ← sudevyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+usrā́ ← usrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+revátī ← revánt- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+saníbhyaḥ ← saní- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+uchatu ← √vas- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+āré ← āré (invariable)  
+{}
+
+dhīmahi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+durvidátrasya ← durvidátra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+manyúm ← manyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+samidhānám ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Uns strahle diese frühste Morgenröthe her der Götter Huld, die reiche, Reicht
 Далеко прочь мы хотим прогнать гнев недоброжелателя!  
 К Агни зажженному мы обращаемся за благом.
 </details>
+

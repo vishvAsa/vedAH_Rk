@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+gātháśravasam ← gātháśravas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sátpatim ← sátpati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purutmā́nam ← purutmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrávaskāmam ← śrávaskāma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gātá ← √gā- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+káṇvāsaḥ ← káṇva- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +136,4 @@ Kanva's, singt dem sangberühmten, preisbegier'gen Herrn der Guten, Lebensreiche
 Любящего славу, долгожителя,  
 О Канвы, воспойте приносящего награду!
 </details>
+

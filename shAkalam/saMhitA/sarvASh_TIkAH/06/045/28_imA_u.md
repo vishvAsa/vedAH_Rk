@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+suté-sute ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nákṣante ← √nakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,7 +142,7 @@ Although, as just noted, there’s no unity in the tṛca, there is some continu
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/28-30.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
 Again no unity in the tṛca.
@@ -139,3 +173,4 @@ Dir eilen diese Lieder zu, o Liederfreund, bei jedem Mahl, Wie Kühe zu dem Kalb
 Приближаются к тебе, о жаждущий хвалебных песен,  
 Как дойные коровы к теленку,
 </details>
+

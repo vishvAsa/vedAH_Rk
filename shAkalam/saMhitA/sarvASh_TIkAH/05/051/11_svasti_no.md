@@ -16,14 +16,66 @@ ChandaH = "जगती त्रिष्टुब्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvínā ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mimītām ← √mā- 1 (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+anarváṇaḥ ← anarváṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadhātu ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sucetúnā ← sucetúna- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +195,7 @@ However, now see the abundant references to my own comments on the various anarv
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
 <details open><summary><h2>11-15 ...{Loading}...</h2></summary>
 
 Considered by Oldenberg to be an Anhang even to this set of appended hymns.
@@ -177,3 +229,4 @@ Uns mögen Bhaga und die Ritter Heil verleihn, der Schrankenlose, Heil die Gött
 Благо Пушан-Асура пусть положит нам!  
 Благо – Земля и Небо доброжелательные!
 </details>
+

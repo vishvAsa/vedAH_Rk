@@ -16,14 +16,69 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+asaú ← asaú (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+urvárā ← urvárā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tatásya ← tatá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+romaśā́ ← romaśá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sárvā ← sárva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

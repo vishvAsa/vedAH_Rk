@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+dúvaḥ ← dúvas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iṣe ← iṣe (invariable)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+yajñāsā́ham ← yajñāsáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pū́rvasya ← pū́rva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śévasya ← śéva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ádreḥ ← ádri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+āyúm ← āyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sūnúm ← sūnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Ich verehr' den Herrn des Opfers; Agni nennt man den lebend'gen Sohn des alten h
 Агни, могущественному благодаря жертве.  
 Они называют Аю сыном скалы.
 </details>
+

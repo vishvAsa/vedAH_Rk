@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+paṇīnā́m ← paṇí- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+purubhójasam ← purubhójas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dámūnāḥ ← dámūnas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mandráḥ ← mandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+dadr̥śe ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+rāmyā́ṇām ← rā́myā- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Der schön gesinnte, der der Diebe Thüren, die nahrungsreiche Sonn' uns flammen
 Радостный хотар, домашний (бог) племен,  
 Виднеется сквозь мрак ночей.
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+dhārayátkṣitī ← dhārayátkṣiti- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+iṣitatvátā ← iṣitatvátā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+suṣumnā́ ← suṣumná- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yajāmasi ← √yaj- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+krāṇā́ya ← √kr̥- (root)  
+{case:DAT, gender:M, number:SG, tense:AOR, voice:MED}
+
+sakhyaíḥ ← sakhyá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+abhí ← abhí (invariable)  
+{}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +185,4 @@ Als solche verehren wir euch, o Mitra-Varuna, die ihr die Völker beschirmt und 
 Благодаря вашим дружеским услугам для деятельного  
 Пусть одержим мы верх над ракшасами!
 </details>
+

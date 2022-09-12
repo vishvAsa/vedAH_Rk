@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aruṇī́ṣu ← aruṇá- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+kr̥ṣṇā́ ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sī́dat ← √sad- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+nápātā ← nápat- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ánnam ← ánna- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+vītám ← √vī- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ásmr̥tadhrū ← ásmr̥tadhru- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vavanvā́ṁsā ← √vanⁱ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +230,4 @@ Wenn die schwarze [Nacht] sich bei den rothen Kühen [den Strahlen der Morgenrö
 
 -ru-
 </details>
+

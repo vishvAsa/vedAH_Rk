@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+kṣáyaḥ ← kṣáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pitumā́n ← pitumánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+raṇváḥ ← raṇvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáṁdr̥ṣṭau ← sáṁdr̥ṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rudrā́ṇām ← rudrá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+úpastutiḥ ← úpastuti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+jáneṣu ← jána- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+yaśásaḥ ← yaśás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+íḷayā ← íḷā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sacemahi ← √sac- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
+sádā ← sádā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +205,4 @@ Zum Anschaun lieblich wie ein nahrungsreicher Sitz, glückbringend ist der präc
 
 -ru-
 </details>
+

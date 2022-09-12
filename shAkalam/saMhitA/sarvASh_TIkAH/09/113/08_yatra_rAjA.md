@@ -17,15 +17,70 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaivasvatáḥ ← vaivasvatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+avaródhanam ← avaródhana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+amū́ḥ ← asaú (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yahvátīḥ ← yahvánt- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+tátra ← tátra (invariable)  
+{}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +199,7 @@ The standard view of avaródhanam is that it defines a closed or fortified place
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/08-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/08-11.md">
 <details open><summary><h2>08-11 ...{Loading}...</h2></summary>
 
 In addition to the fifth pāda refrain found throughout the hymn (as well as IX.112 and 114), these four vss. add a refrain in the fourth pāda: tátra mā́m amṛ́taṃ kṛdhi “there make me immortal,” each time serving as the main clause for a set of yátra clauses.
@@ -176,3 +231,4 @@ Wo König ist Vivasvats Sohn, und wo des Himmels Heiligthum, Wo ewig strömt des
 Там сделай меня бессмертным!  
 Для Индры, о капля, растекайся вокруг!
 </details>
+

@@ -15,14 +15,51 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+pāṣyòḥ ← pāṣyà- (nominal stem)  
+{case:LOC, gender:N, number:DU}
+
+tritásya ← tritá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+ábhakta ← √bhaj- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+gúhā ← gúhā (invariable)  
+{}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dhā́mabhiḥ ← dhā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +167,7 @@ This interpr. seems to me to provide a more satisfactory account of the vs. than
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/102/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/102/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 Trita figures in these two vss. Although the name Trita has several different referents, or at least several different roles, in the RV, in Maṇḍala IX he is the archetypal soma presser: see esp. comm. ad IX.37.4. In these two vss. there is also a play on the literal sense of tritá- ‘third’, which is played off against the dual pāṣyòḥ in 2a and the numeral trī́ṇi ‘three’ in 3a. The Anukr. ascribes this hymn to Trita Āptya, a mythical figure most prominent in X.8, but this ascription is presumably based on the occurrence of tritá- in vss. 2-3. Trita Āptya is credited with several other hymns in the RV, incl., in this maṇḍala, IX.33-34.
@@ -161,3 +198,4 @@ Bei Trita's Steinen nahm er ein den Ort, der im Verborgnen ist, Durch sieben Opf
 Он воспользовался местом, которое (хранится) в тайне,  
 Вместе с семью формами жертвоприношения и (своим) любимым (местом).
 </details>
+

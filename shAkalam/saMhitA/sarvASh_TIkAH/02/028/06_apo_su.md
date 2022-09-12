@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; line affected by realignment;; 12 = 5+7, ending LHX  
 genre M;; line affected by realignment  
 genre M  
 genre M
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+bhiyásam ← bhiyás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mát ← ahám (pronoun)  
+{case:ABL, number:SG}
+
+myakṣa ← √myakṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+gr̥bhāya ← √gr̥bhⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+r̥tāvaḥ ← ŕ̥tāvan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sámrāṭ ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dā́ma ← dā́man- 1 (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+mumugdhi ← √muc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+vatsā́t ← vatsá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+āré ← āré (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+ī́śe ← √īś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+nahí ← nahí (invariable)  
+{}
+
+nimíṣaḥ ← nimíṣ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +251,4 @@ O Varuna, das Schreckniss strahl hinweg mir, nimm mein dich an, o heiliger Gebie
 Сними с меня узость, как веревку с теленка!  
 Вдалеке от тебя я не могу (быть) ни мгновения!
 </details>
+

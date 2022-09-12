@@ -18,16 +18,83 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kám ← kám (invariable)  
+{}
+
+mánmāni ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+āsáni ← āsán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+juhve ← √hu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+cikiddhi ← √cit- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+pūrvyáḥ ← pūrvyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śiváḥ ← śivá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vivásvataḥ ← vivásvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +255,4 @@ Ich giesse die Gebete dir wie Butter, Agni, in den Mund; So zeige bei den Götte
 Благожелательный вестник Вивасвата!  
 Пусть лопнут все ничтожные другие!
 </details>
+

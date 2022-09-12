@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cetáyadhvam ← √cit- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ita ← √i- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kuśikāḥ ← kuśiká- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+muñcata ← √muc- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sudā́saḥ ← sudā́s- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ápāk ← ápāñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jaṅghanat ← √han- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+prā́k ← prā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+údak ← údañc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+váre ← vára- 2 (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yajāte ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +212,6 @@ cetáyadhvam is variously rendered, but most generally as ‘pay attention’ ve
 As Watkins points out (Dragon, p. 208), although this form of the intens. of √han has a singular object (somewhat unusually), it is “serially plural,” in that the vṛtrám is located in one cardinal direction after another; see also Schaeffer 204-5.
 </details>
 
-
 <details><summary>Griffith</summary>
 
 Come forward, Kusikas, and be attentive; let loose Sudas's horse to win him riches.  
@@ -172,3 +235,4 @@ Schreitet vor, o Kuçiker, merket auf, lasset dem Rosse des Sudas die Zügel sch
 Пусть царь убьет Вритру на востоке, на западе, на севере,  
 А затем пусть принесет жертву на лучшем (месте) земли!
 </details>
+

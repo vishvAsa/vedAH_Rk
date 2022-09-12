@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ātmā́ ← ātmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pitúḥ ← pitú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tanū́ḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vā́saḥ ← vā́sas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+abhyáñjanam ← abhyáñjana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ojodā́ḥ ← ojodā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+pā́kasthāmānam ← pā́kasthāman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+róhitasya ← róhita- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+turī́yam ← turī́ya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abravam ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+bhojám ← bhojá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dātā́ram ← dātár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +174,4 @@ Lebenshauch ist der [geschenkte] Trank, ein Leib das Kleid, und Kraft der gesche
 Четвертым же я назвал Пакастхамана,  
 Щедрого дарителя рыжего коня.
 </details>
+

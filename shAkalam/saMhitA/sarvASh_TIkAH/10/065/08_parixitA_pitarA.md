@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+parikṣítā ← parikṣít- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+pitárā ← pitár- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+pūrvajā́varī ← pūrvajā́van- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+kṣayataḥ ← √kṣā- 2 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sámokasā ← sámokas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yónā ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sávrate ← sávrata- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+váruṇāya ← váruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ghr̥távat ← ghr̥távant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahiṣā́ya ← mahiṣá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pinvataḥ ← √pinv- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +178,4 @@ Das Aelternpaar, das urgeboren ringsum wohnt, es sitzt vereinigt hier im Schooss
 
 -ru-
 </details>
+

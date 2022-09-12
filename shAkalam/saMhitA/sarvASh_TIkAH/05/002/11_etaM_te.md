@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tuvijāta ← tuvijātá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+atakṣam ← √takṣ- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+dhī́raḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svápāḥ ← svápas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+háryāḥ ← √hr̥- 2 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yádi ← yádi (invariable)  
+{}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ena ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+jayema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+svàrvatīḥ ← svàrvant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +245,4 @@ Ich Sänger hab' dies Lied, o vielgeborner, gezimmert dir wie Wagen weise Künst
 Если ты, о бог Агни, примешь (ее) благосклонно,  
 Пусть завоюем мы благодаря этому в(ды, вместе с небом!
 </details>
+

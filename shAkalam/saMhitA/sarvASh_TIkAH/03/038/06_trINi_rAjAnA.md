@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+purū́ṇi ← purú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rājānā ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bhūṣathaḥ ← √bhūṣ- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+sádāṁsi ← sádas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ápaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+jaganvā́n ← √gam- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+gandharvā́n ← gandharvá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vāyúkeśān ← vāyúkeśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vraté ← vratá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +214,4 @@ ihr beiden Könige, ihr schmücktet aus die drei zahl- reichen Göttergemeinden 
 Я видел там, мыслью отправившись в путешествие,  
 Самих гандхарвов с волосами-ветром в (вашем) услужении.
 </details>
+

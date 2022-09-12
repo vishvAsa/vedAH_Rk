@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+bāhávā ← bāhú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sucetúnā ← sucetúna- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+árcate ← √r̥c- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yantam ← √yam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+jāryàm ← jāryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śévam ← śéva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+jóguve ← √gu- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+kṣā́su ← kṣám- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+víśvāsu ← víśva- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +175,4 @@ Mit Liebe streckt die Arme vor zu diesem, der euch Lieder singt; Denn eure holde
 Ведь ваша добрая привязанность  
 Всегда призывалась громкими криками во всех (людских) поселениях.
 </details>
+

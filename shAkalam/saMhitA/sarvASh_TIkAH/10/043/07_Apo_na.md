@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+samákṣaran ← √kṣar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+síndhum ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+hradám ← hradá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kulyā́ḥ ← kulyā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+máhaḥ ← máhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sā́dane ← sā́dana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+várdhanti ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dā́nunā ← dā́nu- 2 (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+divyéna ← divyá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yávam ← yáva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +236,4 @@ Wenn rings die Soma's, wie die Wasser in das Meer in Indra strömen, wie die Bä
 В сидении (жертвы) вдохновенные (поэты) взращивают его величие,  
 Как дождь зерно благодаря небесной влаге.
 </details>
+

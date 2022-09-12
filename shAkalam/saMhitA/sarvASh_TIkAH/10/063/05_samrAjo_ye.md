@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āyayúḥ ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+samrā́jaḥ ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvŕ̥dhaḥ ← suvŕ̥dh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+áparihvr̥tāḥ ← áparihvr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dadhiré ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kṣáyam ← kṣáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+vivāsa ← √vanⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ādityā́n ← ādityá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+maháḥ ← máh- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +204,4 @@ Die Herrscher, die dem Opfer segnend sind genaht, die unumstürzbar thronen auf 
 
 -ru-
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ihá ← ihá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+stavatha ← √stu- (root)  
+{number:PL, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+vŕ̥ṣṇyāni ← vŕ̥ṣṇya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tuvidyumnásya ← tuvidyumná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tuvirā́dhasaḥ ← tuvirā́dhas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+krátuḥ ← krátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+samrā́ṭ ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidathyàḥ ← vidathyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kr̥ṣṭī́ḥ ← kr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sāhvā́n ← √sah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+tárutraḥ ← tárutra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +230,4 @@ Ihr preiset hier ja seine Heldenkräfte, die Mannen auch des Gut- und Glanz-erf�
 (Того,) чья сила духа, словно мудрый царь,  
 Одолевающая, спасающая, повелевает народами!
 </details>
+

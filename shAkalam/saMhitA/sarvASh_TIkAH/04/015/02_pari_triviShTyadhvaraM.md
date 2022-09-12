@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+triviṣṭí ← triviṣṭí (invariable)  
+{case:INS, gender:F, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+rathī́ḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́ti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+práyaḥ ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +169,4 @@ Dreimal dem Wagenlenker gleich geht Agni um das Opfer her, Die Speisen bringend 
 Обряд, словно колесничий,  
 Принося богам жертвенную усладу.
 </details>
+

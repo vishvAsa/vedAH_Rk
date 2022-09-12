@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jātávedasam ← jātávedas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+dádhāta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tvíjam ← r̥tvíj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+devávyacastamaḥ ← devávyacastama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +175,4 @@ Den Wesenkenner Agni setzt, den Gott, der festlich opfert, hin; Das Opfer schrei
 Пусть жертвоприношение идет сегодня  
 По порядку, охватывая как можно больше богов!
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ajanayanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devī́m ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+paśávaḥ ← paśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+vadanti ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+viśvárūpāḥ ← viśvárūpa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dúhānā ← √duh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mandrā́ ← mandrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+súṣṭutā ← súṣṭuta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vā́k ← vā́c- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

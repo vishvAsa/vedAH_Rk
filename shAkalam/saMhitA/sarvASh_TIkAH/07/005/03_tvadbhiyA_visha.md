@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásiknīḥ ← ásita- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhiyā́ ← bhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asamanā́ḥ ← asamaná- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhójanāni ← bhójana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jáhatīḥ ← √hā- 2 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+pūráve ← pūrú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śóśucānaḥ ← √śuc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vaíśvānara ← vaiśvānará- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ádīdeḥ ← √dī- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PLUPRF, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+daráyan ← √dr̥- ~ dr̥̄- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +196,4 @@ Aus Furcht vor dir entflohn die schwarzen Stämme, zerstiebend rings, verlassend
 Когда ты, о Вайшванара, ярко горя для Пуру,  
 Пламенел, о Агни, взрывая крепости (врагов).
 </details>
+

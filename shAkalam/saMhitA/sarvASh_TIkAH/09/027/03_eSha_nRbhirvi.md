@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+nīyate ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mūrdhā́ ← mūrdhán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váneṣu ← vána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+viśvavít ← viśvavíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +168,4 @@ Er wird von Männern in das Holz geführt, der allbesitzende, Soma, der Stier, d
 Глава неба, бык, выжатый  
 Сома в деревянных (сосудах), знающий все.
 </details>
+

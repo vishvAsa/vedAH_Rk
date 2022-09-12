@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhindhi ← √bhid- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tvácam ← tvác- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yātudhā́nasya ← yātudhā́na- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aśániḥ ← aśáni- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+hantu ← √han- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+hárasā ← háras- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+hiṁsrā́ ← hiṁsrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+párvāṇi ← párvan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+śr̥ṇīhi ← √śr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+cinotu ← √ci- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+kraviṣṇúḥ ← kraviṣṇú- (UNK_TYPE)  
+{}
+
+kravyā́t ← kravyā́d- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vr̥kṇám ← √vr̥śc- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Zerschlitz die Haut des Zauberers, o Agni, der Todespfeil durchbohr ihn mit der 
 Разломай (его) по суставам, о Джатаведас!  
 Пожиратель сырого мяса, жадный до сырого мяса, пусть гложет разрубленного по кусочкам!
 </details>
+

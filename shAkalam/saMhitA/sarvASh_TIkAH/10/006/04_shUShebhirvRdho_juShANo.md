@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M  
 genre M  
 genre M
+#### Morph
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+juṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+śūṣébhiḥ ← śūṣá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vr̥dháḥ ← vr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jigāti ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+raghupátvā ← raghupátvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+juhvā̀ ← juhū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mandráḥ ← mandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yájiṣṭhaḥ ← yájiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jigharti ← √ghr̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sámmiślaḥ ← sámmiśla- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Erfreut durch Preislied, durch Gesang befriedigt, kommt zu den Göttern er in sc
 Благозвучный хотар, он лучше всех приносит жертвы языком,  
 Агни привлекает к себе богов, смешавшись (с ними).
 </details>
+

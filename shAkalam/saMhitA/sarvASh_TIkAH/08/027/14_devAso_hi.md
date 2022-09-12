@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sámanyavaḥ ← sámanyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sma ← sma (invariable)  
+{}
+
+sākám ← sākám (invariable)  
+{}
+
+sárātayaḥ ← sárāti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+adyá ← adyá (invariable)  
+{}
+
+aparám ← aparám (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+tú ← tú (invariable)  
+{}
+
+tucé ← túc- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+bhávantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+varivovídaḥ ← varivovíd- (nominal stem)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Denn alle Götter sind dem Menschen gleichgesinnt, an Gaben gleich sie allesammt
 Пусть они сегодня, пусть они в будущем для нашего потомства  
 Будут создателями широкого простора!
 </details>
+

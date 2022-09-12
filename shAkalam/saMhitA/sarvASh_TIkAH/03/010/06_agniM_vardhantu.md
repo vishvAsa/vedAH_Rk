@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vardhantu ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+jā́yate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ukthyàḥ ← ukthyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yátas ← yátas (invariable)  
+{}
+
+darśatáḥ ← darśatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dráviṇāya ← dráviṇa- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vā́jāya ← vā́ja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +163,4 @@ Den Agni stärke unser Lied, seit der zu preisende erstand Zu grossem Reichthum 
 От чего рождается (он,) достойный гимнов,  
 Для великой награды, для богатства, (он,) приятный на вид.
 </details>
+

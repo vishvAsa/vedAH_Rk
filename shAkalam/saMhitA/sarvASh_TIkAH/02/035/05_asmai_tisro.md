@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmaí ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+avyathyā́ya ← avyathyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nā́rīḥ ← nā́rī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+didhiṣanti ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+kŕ̥tāḥ ← kŕ̥tā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+prasarsré ← √sr̥- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+dhayati ← √dhā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pīyū́ṣam ← pīyū́ṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūrvasū́nām ← pūrvasū́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,8 +206,6 @@ as if formed in the waters they spread all over,
 and he drinks the colostrum of the first-emergent.
 </details>
 
-
-
 <details><summary>Jamison Brereton</summary>
 
 To him, the unfaltering god, do the three women goddesses desire to  provide food.  
@@ -188,3 +241,4 @@ Die drei Göttinnen reichen gern dem Gotte der nimmer wankt, die Frauen ihre Nah
 Ведь как (вода) устремляется в расселины, метался он в водах.  
 Он сосет молоко этих впервые родивших.
 </details>
+

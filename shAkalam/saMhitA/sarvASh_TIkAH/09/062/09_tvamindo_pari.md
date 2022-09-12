@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+áṅgirobhyaḥ ← áṅgiras- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+svā́diṣṭhaḥ ← svā́diṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+varivovít ← varivovíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -100,7 +128,7 @@ The metaphorical universe of the soma hymns makes it difficult to interpr. the p
 
 - though see 20b below.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 The tṛca shows no strong signs of internal unity, save for the “sitting” found in both 7 and 8, but it does echo some of the material earlier in the hymn: ásṛgram in 7b matches the same verb in 1a; ā́sadaḥ in 7c recalls ā́sadat in 4c, while sī́dan yónā (8c) is a different echo of 4c yónim ā́sadat; arṣa (8a) picks up arṣanti (3b); svā́diṣṭhaḥ in 9b expresses the result of svádanti in 5c; and varivo-víd in 9c is a paraphrase of kṛṇvánto várivaḥ in 2c. It may also be worth noting that this is the first place in the hymn that the divine recipients of soma are mentioned: índrāya 8a, áṅgirobhyaḥ 9b.
@@ -129,3 +157,4 @@ O Indu, ströme fette Milch ringsum, der Segen du verleihst, Du süssester, den 
 
 -ru-
 </details>
+

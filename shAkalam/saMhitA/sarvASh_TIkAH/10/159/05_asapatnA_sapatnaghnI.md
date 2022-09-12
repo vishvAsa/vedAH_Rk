@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+asapatnā́ ← asapatná- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sapatnaghnī́ ← sapatnahán- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+abhibhū́varī ← abhibhū́van- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jáyantī ← √ji- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+anyā́sām ← anyá- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+avr̥kṣam ← √vr̥h- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+várcaḥ ← várcas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ástheyasām ← ástheyas- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Mitfrauen schlug ich, trieb sie fort, besiegend, überwindend sie, Der andern An
 Я отняла блеск у других (женщин),  
 Как дар – у неуверенных.
 </details>
+

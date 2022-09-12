@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+śréṣṭhavarcasā ← śréṣṭhavarcas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+dīrghaśrúttamā ← dīrghaśrúttama- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rā́jānā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+r̥tāvŕ̥dhā ← r̥tāvŕ̥dh- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sátpatī ← sátpati- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+jáne-jane ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+r̥tā́vānā ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +167,4 @@ Denn beide sind von hellstem Glanz und weitberühmte Könige, Gebieter, die des 
 Они два истинных повелителя, усиливающих закон,  
 Действующих по закону в отношении каждого человека.
 </details>
+

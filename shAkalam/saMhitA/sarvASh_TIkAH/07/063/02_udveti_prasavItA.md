@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+prasavītā́ ← prasavītár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+arṇaváḥ ← arṇavá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ketúḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+paryāvívr̥tsan ← √vr̥t- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+samānám ← samāná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhūrṣú ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+etaśáḥ ← étaśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váhati ← √vah- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yuktáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Auf geht er nun, der Wecker aller Menschen, der Sonne grosses Banner, Wellen sch
 Стараясь катить одно и то же колесо,  
 Которое тащит Эташа, запряженный в оглобли.
 </details>
+

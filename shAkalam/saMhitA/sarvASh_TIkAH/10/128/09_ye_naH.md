@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sapátnāḥ ← sapátna- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+áva ← áva (invariable)  
+{}
+
+bādhāmahe ← √bādhⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+indrāgníbhyām ← indrāgní- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+ādityā́ḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+rudrā́ḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uparispŕ̥śam ← uparispŕ̥ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásavaḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+adhirājám ← adhirājá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+akran ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+céttāram ← céttar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 Васу, Рудры, Адитьи сделали меня  
 Выдающимся, могучим знатоком, верховным владыкой.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhataye ← áhati- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ájītaye ← ájīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+br̥haté ← br̥hánt- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sarvátātaye ← sarvátāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+uśanti ← √vaś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+pavamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaśmi ← √vaś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +201,4 @@ Zum Wohlgedeihn zur Unversehrtheit riesle zum Heile und zu hoher Segensfülle, D
 Этого хотят все эти друзья,  
 Этого хочу я, о Павамана-Сома.
 </details>
+

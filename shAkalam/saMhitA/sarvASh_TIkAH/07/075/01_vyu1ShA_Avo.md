@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āvaḥ ← √vas- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+divijā́ḥ ← divijā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+āviṣkr̥ṇvānā́ ← √kr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ájuṣṭam ← ájuṣṭa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+āvar ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+drúhaḥ ← drúh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ajīgar ← √gr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+áṅgirastamā ← áṅgirastama- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pathyā̀ḥ ← pathyā̀- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Rechtzeitig brach hindurch die Himmelstochter; die Morgenröthe, ihre Grösse ze
 Она раскрыла злых духов (и) безрадостный мрак.  
 Лучшая из Ангирасов, она пробудила пути.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+kriyámāṇā ← √kr̥- (root)  
+{case:ACC, gender:N, number:PL, tense:PRS, voice:PASS}
+
+ákarma ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+návyā ← návya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śaviṣṭha ← śáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+súkr̥tā ← súkr̥ta- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vástrā ← vástra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vasūyúḥ ← vasūyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+atakṣam ← √takṣ- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+dhī́raḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svápāḥ ← svápas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,3 +252,4 @@ Nimm Indra an die Bitten, die gethan sind, die neuen, dir, o stärkster, wir dir
 Как прекрасные, хорошо сделанные наряды, я, жаждущий богатств,  
 Искусно изготовил (их), как умелый мастер – колесницу.
 </details>
+

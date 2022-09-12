@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+mīḷhúṣe ← mīḍhváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+upasádyāya ← upasádya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+āsyè ← āsyà- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+juhuta ← √hu- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́pyam ← ā́pya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nédiṣṭham ← nédiṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,3 +138,4 @@ Dem anzuflehnden, gnädigen giesst Opferguss ins Angesicht, Der uns der nächstv
 Возлейте возлияние в уста,  
 (Тому.) кто наша ближайшая дружба,
 </details>
+

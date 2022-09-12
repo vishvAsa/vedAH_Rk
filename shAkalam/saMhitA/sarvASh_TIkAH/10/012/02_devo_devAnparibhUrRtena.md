@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+paribhū́ḥ ← paribhū́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+cikitvā́n ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bhā́r̥jīkaḥ ← bhā́r̥jīka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhūmáketuḥ ← dhūmáketu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samídhā ← samídh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mandráḥ ← mandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nítyaḥ ← nítya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vācā́ ← vā́c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yájīyān ← yájīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Durch heil'ges Werk als Gott die Götter hegend, fahr unsre Opfer hin zuerst, du
 (Ты) с дымом-знаменем, благодаря дровам излучающий свет,  
 Сладкозвучный хотар, постоянный, жертвующий благодаря (своей) речи лучшего (другого)!
 </details>
+

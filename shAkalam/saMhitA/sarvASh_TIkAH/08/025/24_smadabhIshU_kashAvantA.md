@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+káśāvantā ← káśāvant- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+smádabhīśū ← smádabhīśu- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+matī́ ← matí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+náviṣṭhayā ← náviṣṭha- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+árvantā ← árvant- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+asanam ← √sanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+maháḥ ← máh- (nominal stem)  
+{case:ABL, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+vājínau ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Und zwei mit Zügeln und Peitschen versehene sehr schnelle Renner empfing ich zu
 Я получил вместе с поводьями и кнутом  
 Двоих величественно победоносных скаковых коней.
 </details>
+

@@ -15,13 +15,56 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+u ← u (invariable)  
+{}
+
+vītátamāni ← vītátama- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ácha ← ácha (invariable)  
+{}
+
+ájasraḥ ← ájasra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devátātim ← devátāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vakṣi ← √vah- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+surabhī́ṇi ← surabhí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vyantu ← √vī- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +174,4 @@ Und, Agni, diese liebsten Opfergüsse fährst unermüdlich hin du zu den Götter
 Отвези (их), не иссякая, сонму богов!  
 Пусть примут они наши благоуханные (дары)!
 </details>
+

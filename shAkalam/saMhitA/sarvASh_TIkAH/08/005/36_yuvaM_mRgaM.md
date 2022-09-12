@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+jāgr̥vā́ṁsam ← √gr̥- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+mr̥gám ← mr̥gá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+svádathaḥ ← √svad- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+vr̥ṣaṇvasū ← vŕ̥ṣaṇvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+iṣā́ ← íṣ- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥ṅktam ← √pr̥c- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Ihr habet gern das muntre Wild, das ihr, o kräftige, erjagt; Erfüllt mit Labun
 Делаете приятным, о хозяева огромного богатства,  
 Наполните подкреплением наше богатство!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+yātu ← √yā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+púrīṣāt ← púrīṣa- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+samudrā́t ← samudrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+marútvān ← marútvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+svàrṇarāt ← svàrṇara- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sádanāt ← sádana- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Es komme Indra her von Erd' und Himmel, vom Meer hereilend oder von dem Dunstrau
 Из солнечного пространства нам на помощь вместе с Марутами,  
 Или издалека, с сидения закона.
 </details>
+

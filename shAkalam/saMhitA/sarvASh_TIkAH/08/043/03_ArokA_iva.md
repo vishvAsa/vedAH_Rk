@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+áha ← áha (invariable)  
+{}
+
+ārokā́ḥ ← āroká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gha ← gha (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tigmā́ḥ ← tigmá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvíṣaḥ ← tvíṣ- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bapsati ← √bhas- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dadbhíḥ ← dánt- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vánāni ← vána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ So recht wie lichter Funken Schein ist, Agni, dein Erglänzen hell, Mit Zähnen 
 Совсем как (яркие) просветы.  
 Клыками они пожирают деревья.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mányase ← √man- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+yáthā ← yáthā (invariable)  
+{}
+
+āśásaḥ ← āśás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+jagmuḥ ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āgáman ← √gam- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+hávanāni ← hávana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+nédiṣṭham ← nédiṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+bhīmásaṁdr̥śaḥ ← bhīmásaṁdr̥ś- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+vardha ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Wie du auch meinst in deinem Sinn, so drangen meine Wünsche vor; Die nahe kamen
 Чтобы они пришли в ближайшем (будущем) на твои призывы,  
 Укрепляй этих страшных на вид (богов)!
 </details>
+

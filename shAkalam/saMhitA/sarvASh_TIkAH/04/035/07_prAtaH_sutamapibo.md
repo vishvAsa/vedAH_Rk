@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apibaḥ ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+haryaśva ← háryaśva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prātár ← prātár (invariable)  
+{}
+
+sutám ← √su- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+kévalam ← kévala- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mā́dhyaṁdinam ← mā́dhyaṁdina- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sávanam ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+pibasva ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ratnadhébhiḥ ← ratnadhá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+r̥bhúbhiḥ ← r̥bhú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+cakr̥ṣé ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sákhīn ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sukr̥tyā́ ← sukr̥tyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yā́n ← yá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Früh morgens trankst du Soma, Füchselenker, die Mittagsspende, die war ganz de
 Пей вместе с Рибху, наделяющими сокровищами,  
 (С теми,) кого, о Индра, ты сделал (своими) друзьями за (их) прекрасное трудолюбие!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ánr̥tasya ← ánr̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+bhū́ripāśau ← bhū́ripāśa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sétū ← sétu- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+duratyétū ← duratyétu- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mártyāya ← mártya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ripáve ← ripú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+duritā́ ← duritá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nāvā́ ← naú- ~ nā́v- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tarema ← √tr̥̄- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +196,4 @@ Ihr seid des Unrechts seilversehne Wehren, dem bösen Menschen nicht zu übersch
 О Митра-Варуна, (идя) путем закона, пусть благодаря вам  
 Мы пересечем трудности, словно воды, на лодке!
 </details>
+

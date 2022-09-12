@@ -15,13 +15,53 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+asatha ← √as- 1 (root)  
+{number:PL, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+riśādasaḥ ← riśā́das- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+stutā́saḥ ← √stu- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+sthá ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+triṁśát ← triṁśát- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mánoḥ ← mánu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yajñiyāsaḥ ← yajñíya- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +177,4 @@ So, Feindverzehrer, sollt von uns gerühmt ihr sein, ihr dreiunddreissig an der 
 (те,) которых три и тридцать,  
 О боги Ману, достойные жерв.
 </details>
+

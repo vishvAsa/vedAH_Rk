@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arámatim ← arámati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+mahī́m ← máh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+pūṣáṇam ← pūṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidathyàm ← vidathyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīrám ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asyā́ḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+avitā́ram ← avitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhágam ← bhága- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhiyáḥ ← dhī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+púraṁdhim ← púraṁdhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rātiṣā́cam ← rātiṣác- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sātaú ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Auf, schafft euch her die grosse Andachtsgöttin, den Puschan wie den Mann, der 
 Бхагу, покровителя этой нашей молитвы,  
 Пурамдхи, сопровождающую дарение, – при захвате добычи!
 </details>
+

@@ -16,14 +16,48 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámbitame ← ámbitama- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+nádītame ← nadītama- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+dévitame ← devitama- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sárasvati ← sárasvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+apraśastā́ḥ ← apraśastá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+smasi ← √as- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+amba ← amba (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+práśastim ← práśasti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +169,4 @@ O mütterlichster, bester Strom o göttlichste Sarasvatī; Wir sind wie ungeprie
 Мы как бы не прославлены –  
 Создай, о мать, нам прославление!
 </details>
+

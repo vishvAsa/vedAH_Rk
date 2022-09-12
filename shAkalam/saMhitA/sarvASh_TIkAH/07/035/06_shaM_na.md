@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+vásubhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ādityébhiḥ ← ādityá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+suśáṁsaḥ ← suśáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jálāṣaḥ ← jálāṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rudráḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rudrébhiḥ ← rudrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+gnā́bhiḥ ← gnā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+śr̥ṇotu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +238,4 @@ Zum Heil sei uns Gott Indra mit den Vasu's, mit den Aditja's Varuna, der Segner,
 На счастье нам Рудра-целитель вместе с Рудрами!  
 На счастье пусть услышит нас тут Тваштар, вместе с божественными женами!
 </details>
+

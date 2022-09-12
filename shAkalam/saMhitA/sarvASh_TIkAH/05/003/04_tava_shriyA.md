@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śriyā́ ← śrī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sudŕ̥śaḥ ← sudŕ̥ś- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sapanta ← √sap- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+seduḥ ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+āyóḥ ← āyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+daśasyántaḥ ← √daśasy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+śáṁsam ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uśíjaḥ ← uśíj- (nominal stem)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Durch deinen Glanz sind schön, o Gott, die Götter, viel Gaben nehmend ehrten s
 Как хотара человеческого посадили Агни  
 Услужливые Ушиджи, как хвалу Аю.
 </details>
+

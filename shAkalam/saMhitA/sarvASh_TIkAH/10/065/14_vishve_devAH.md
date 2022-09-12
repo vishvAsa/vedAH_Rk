@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+púraṁdhyā ← púraṁdhi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+amŕ̥tāḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mánoḥ ← mánu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+r̥tajñā́ḥ ← r̥tajñā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yájatrāḥ ← yájatra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhiṣā́caḥ ← abhiṣác- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rātiṣā́caḥ ← rātiṣác- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svarvídaḥ ← svarvíd- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+juṣerata ← √juṣ- (root)  
+{number:PL, person:3, mood:OPT, tense:AOR, voice:MED}
+
+sūktám ← sūktá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Die Götter all' mit des Gebetes Göttinnen, des Menschen hehre, heilige Unsterb
 
 -ru-
 </details>
+

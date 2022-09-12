@@ -17,15 +17,73 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+hí ← hí (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+vā́ryam ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsā́ ← ā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sacanta ← √sac- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhíṣṭaye ← abhíṣṭi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+napāt ← nápat- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ū́rjaḥ ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śagdhí ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+edhi ← √as- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥tsú ← pŕ̥t- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vr̥dhé ← vŕ̥dh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ So jetzt auch unsre Opferherrn begehren schönes Gut von dir, Beschütz, beschen
 Для превосходства! Сделай, что можешь, для счастья!  
 А также будь (готов) усилить нас в боях!
 </details>
+

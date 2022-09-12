@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhvanaḥ ← ádhvan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ánte ← ánta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sya ← √sā- ~ si- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+adyá ← adyá (invariable)  
+{}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+mandádhyai ← √mand- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sávane ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+śáṁsāti ← √śaṁs- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ukthám ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uśánā ← uśánā- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vedhā́ḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asuryā̀ya ← asuryà- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cikitúṣe ← √cit- (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ Ruh aus, o Held, wie an des Weges Ende, dich zu berauschen heut an unserm Tranke
 Пусть устроитель (обряда), как Ушанас, произнесет гимн,  
 Для очень внимательного, асурского – поэтическое произведение.
 </details>
+

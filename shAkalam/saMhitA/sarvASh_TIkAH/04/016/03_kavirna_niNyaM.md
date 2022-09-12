@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+niṇyám ← niṇyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sā́dhan ← √sādh- ~ sidh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vidáthāni ← vidátha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+árcāt ← √r̥c- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+sékam ← séka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vipipānáḥ ← √pā- 3 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+jījanat ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+kārū́n ← kārú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áhnā ← áhar ~ áhan- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+cakruḥ ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+gr̥ṇántaḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vayúnā ← vayúna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Wenn saftdurchtränkt der Held den Safttrunk rühmet, die Opfer fördernd, wie s
 Так он порождает семерых певцов неба.  
 С помощью самого дня, воспевая, они создали вехи (времени).
 </details>
+

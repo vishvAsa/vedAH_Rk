@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dhr̥ṣṇo ← dhr̥ṣṇú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+púram ← púr- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ruja ← √ruj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bādhitáḥ ← √bādhⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+kr̥ṣṇáyā ← kr̥ṣṇá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+viśā́ ← víś- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ánti ← ánti (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhūtu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+sát ← √as- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +173,4 @@ Zerbrich ihn, o kühner, wie die Burg, wenn du von der schwarzen Schar bedrängt
 Осажденный черным племенем!  
 Пусть ваша помощь будет рядом!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+cakramuḥ ← √kramⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáhobhiḥ ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ámitā ← ámita- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dhā́māni ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mímānāḥ ← √mā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+pū́rvā ← pū́rva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bhúvanā ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+tanū́ṣu ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yemire ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ánu ← ánu (invariable)  
+{}
+
+asārayanta ← √sr̥- 2 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+prajā́ḥ ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+purudhá ← purudhá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Mit Kraft durchschritten sie den ganzen Raum der Luft, die unermessnen alten St�
 К (их) телам привязаны все существа.  
 Многими способами посылали они вслед (за собой) (новые) поколения.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+nūnám ← nūnám (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+niṣī́dathaḥ ← √sad- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yónā ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sumnébhiḥ ← sumná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ukthyā ← ukthyà- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Wenn ihr, o Ritter, euch nun mit Bedacht in dem Schoosse [bei dem Opfer?] des Va
 Вы усаживаетесь на место отца,  
 Или когда (появляетесь) с благодениями, о достойные хвалы...
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+etā́ni ← eṣá (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+náva ← náva- 1 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+navatíḥ ← navatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+ádhirathā ← ádhiratha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́hutāni ← √hu- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tébhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+vardhasva ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+iṣitáḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rirīhi ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +208,4 @@ Dir, Agni, sind ergossen diese Tränke, in tausend neunundneunzig Wagenlasten, O
 Ими укрепи, о герой, (свои) многие тела,  
 (И) усиленный дай нам дождь с неба!
 </details>
+

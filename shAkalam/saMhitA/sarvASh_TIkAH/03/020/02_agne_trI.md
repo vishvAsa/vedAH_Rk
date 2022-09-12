@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sadhásthā ← sadhástha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+trī́ ← trí- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+trī́ ← trí- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vā́jinā ← vā́jina- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jihvā́ḥ ← jihvā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+r̥tajāta ← r̥tájāta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+devávātāḥ ← devávāta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+u ← u (invariable)  
+{}
+
+áprayuchan ← áprayuchant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +250,4 @@ Drei Kräfte hast du, Agni, drei der Sitze, drei reichgefüllte Zungen, Rechtent
 Три тела также у тебя, нравящихся богам, –  
 Ими неотступно охраняй наши песни!
 </details>
+

@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āśváśvyam ← āśváśvya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+íyakṣati ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+yájamānaḥ ← √yaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+abhí ← abhí (invariable)  
+{}
+
+áyajvanaḥ ← áyajvan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bhuvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +215,4 @@ Bei ihm muss Heldenfülle sein und schneller Rosse Vollbesitz; Wer recht der Gö
 Хочет покорить сердце богов,  
 Одерживает верх над тем, кто не приносит жертв.
 </details>
+

@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sutā́ḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+vāyáve ← vāyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+marúdbhyaḥ ← marút- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+váruṇāya ← váruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+arṣanti ← √arṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víṣṇave ← víṣṇu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,3 +134,4 @@ Die Soma's rinnen hin, gepresst dem Indra, Vaju, Varuna, Dem Vischnu und der Mar
 Для Варуны, для Марутов,  
 Соки сомы текут для Вишну.
 </details>
+

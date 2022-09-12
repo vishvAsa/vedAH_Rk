@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+gáman ← √gam- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+śáṁsiṣam ← √śaṁs- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bháram ← bhára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+somínaḥ ← somín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+svāśíṣam ← svāśís- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+īśiṣe ← √īś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+satsi ← √sad- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+anādhr̥ṣyā́ ← anādhr̥ṣyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dhármaṇā ← dhárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pā́trāṇi ← pā́tra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +245,4 @@ Uns mögen Güter kommen; denn ich singe dir, komm zu des Opfrers wünschereiche
 Ты распоряжаешься – садись на эту жертвенную солому!  
 Твои сосуды для питья по закону неприкосновенны!
 </details>
+

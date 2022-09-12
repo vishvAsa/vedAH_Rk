@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+prátyardhiḥ ← prátyardhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñā́nām ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+aśvahayáḥ ← aśvahayá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráthānām ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mánurhitaḥ ← mánurhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+víprasya ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yāvayatsakháḥ ← yāvayatsakhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +160,4 @@ Ihm kommt der Opfer Hälfte zu; er, der der Wagen Rosse treibt, Ist Dichter, den
 Этот риши, который поставлен Манусом,  
 Друг, отвращающий (врагов) вдохновенного (поэта):
 </details>
+

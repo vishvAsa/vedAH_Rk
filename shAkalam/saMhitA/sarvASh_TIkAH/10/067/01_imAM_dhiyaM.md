@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saptáśīrṣṇīm ← saptáśīrṣan- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+avindat ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+br̥hatī́m ← br̥hánt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥táprajātām ← r̥táprajāta- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+janayat ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+svit ← svit (invariable)  
+{}
+
+turī́yam ← turī́ya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+viśvájanyaḥ ← viśvájanya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayā́syaḥ ← ayā́sya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śáṁsan ← √śaṁs- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ukthám ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Dies siebenköpfige Gebet, das aus heiliger Gesinnung entsprungene, erhabene, ha
 Наверно, четверть (ее) породил известный всем народам  
 Аясья, когда произносил гимн для Индры.
 </details>
+

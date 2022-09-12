@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sahásradhāre ← sahásradhāra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vítate ← √tan- (root)  
+{case:LOC, gender:N, number:SG, non-finite:PPP}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+manīṣíṇaḥ ← manīṣín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+punanti ← √pū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+adrúhaḥ ← adrúh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+iṣirā́saḥ ← iṣirá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rudrā́saḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nr̥cákṣasaḥ ← nr̥cákṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+spáśaḥ ← spáś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sudŕ̥śaḥ ← sudŕ̥ś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sváñcaḥ ← sváñc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ Im tausendström'gen, ausgespannten Somanetz durchläutern sie, die weisen Seher
 Рудры – их подвижные безобманные  
 Соглядатаи, проворные, прекрасные на вид, со взглядом героя.
 </details>
+

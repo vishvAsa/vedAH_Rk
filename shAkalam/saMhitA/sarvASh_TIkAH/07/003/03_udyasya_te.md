@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+návajātasya ← návajāta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+út ← út (invariable)  
+{}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ajárāḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cáranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+idhānā́ḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+ácha ← ácha (invariable)  
+{}
+
+aruṣáḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhūmáḥ ← dhūmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ī́yase ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ O Agni, dessen ewig junge Flammen, des neugebornen Stieres, aufwärts wandern; Z
 К небу идет алый дым:  
 Ведь ты, о Агни, вестником отправляешься к богам.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ajā́śvaḥ ← ajā́śva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́mani-yāmani ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhakṣat ← √bhaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+kanyā̀su ← kanyā̀- ~ kanī́n- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +139,7 @@ The published translation presents the journeys as ours, reading naḥ with both
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 This, the Atri tṛca, shows very tight cohesion. To begin with, Pūṣan, under his name (vs. 10) or characteristic epithets (kapardín- vs. 11, ā́ghṛṇi- vs. 12), appears in every vs., in particular as the recipient of the pressed and purified soma in vss. 11-12. Since, as noted in the published introduction, Pūṣan is rarely found in IX, devoting a tṛca to him here is striking, and the assumption that he wants soma is esp. anomalous, since in the hymn devoted to Indra and Pūṣan (VI.57) Indra’s desire for soma is explicitly contrasted with Pūṣan’s for porridge (VI.57.2).
@@ -146,3 +174,4 @@ Ein Schützer sei auf jedem Weg uns Puschan, der mit Ziegen fährt; Er schenke h
 Ездящий на козлах как на конях при каждом выезде.  
 Пусть наделит он нас девицами!
 </details>
+

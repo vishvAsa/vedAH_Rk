@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhānávaḥ ← bhānú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+darśatā́yāḥ ← darśatá- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aguḥ ← √gā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+amŕ̥tāsaḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+citrā́ḥ ← citrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+daívyāni ← daívya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+janáyantaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+antárikṣā ← antárikṣa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+āpr̥ṇántaḥ ← √pr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+asthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Erschienen sind der schönen Morgenröthe unsterbliche, von Glanz erfüllte Stra
 Порождая божественные обеты,  
 Они рассеялись, заполняя воздушные пространства.
 </details>
+

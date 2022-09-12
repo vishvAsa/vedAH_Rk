@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bodhi ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+puraetā́ ← puraetár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sugéṣu ← sugá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+durgéṣu ← durgá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+pathikŕ̥t ← pathikŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vídānaḥ ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+áśramāsaḥ ← áśrama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+urávaḥ ← urú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váhiṣṭhāḥ ← váhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tébhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vakṣi ← √vah- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Sei uns ein Führer, zeigend dich auf guten und schlimmen Wegen als den Pfadbeh�
 Те неутомимые широкие лучше всех возящие (кони) –  
 На них, о Индра, привези нас к награде!
 </details>
+

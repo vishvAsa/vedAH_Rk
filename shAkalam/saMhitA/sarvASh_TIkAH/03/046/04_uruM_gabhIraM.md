@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+gabhīrám ← gabhīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+janúṣā ← janúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+urúm ← urú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avatám ← avatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+matīnā́m ← matí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+viśvávyacasam ← viśvávyacas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pradívi ← pradív- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sutā́saḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sravátaḥ ← sravát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+viśanti ← √viś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ In Indra gehen, wie ins Meer die Ströme, den breiten, tiefen, von Geburt gewalt
 В Индру от века входят выжатые  
 Соки сомы, словно реки – в океан.
 </details>
+

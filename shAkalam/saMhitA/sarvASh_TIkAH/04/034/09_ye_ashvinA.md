@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pitárā ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+áśvā ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥bhávaḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tatakṣúḥ ← √takṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+áṁsatrā ← áṁsatra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ŕ̥dhak ← ŕ̥dhak (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+cakrúḥ ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svapatyā́ni ← svapatyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víbhvaḥ ← víbhū- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +243,4 @@ Die Ribhu's, die die Ritter, die die Aeltern zur Lust die Milchkuh bildeten, das
 Которые – два панциря, которые порознь (укрепили) два мира,  
 (Те) мужи Вибху, которые сделали (так, что у людей) хорошее потомство...
 </details>
+

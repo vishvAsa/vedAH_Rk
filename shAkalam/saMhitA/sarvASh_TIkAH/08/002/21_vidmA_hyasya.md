@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+vīrásya ← vīrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhūridā́varīm ← bhūridā́van- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jātásya ← √janⁱ- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+mánāṁsi ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+triṣú ← trí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +152,4 @@ Denn wir kennen dieses Helden gabenreiche Gunsterweisung, Des dreifach gebornen 
 Влекущую за собой обильное дарение,  
 Мысли (этого) рожденного в трех (местах).
 </details>
+

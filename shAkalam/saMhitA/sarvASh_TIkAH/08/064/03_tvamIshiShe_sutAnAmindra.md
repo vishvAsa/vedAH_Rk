@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+īśiṣe ← √īś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+sutā́nām ← √su- (root)  
+{case:GEN, gender:M, number:PL, non-finite:PPP}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ásutānām ← ásuta- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +144,4 @@ Du bist gepresster Soma's Herr und, Indra, ungepresster auch; Du bist der Mensch
 Ты, о Индра, (также еще и) не выжатыми.  
 Ты царь народов.
 </details>
+

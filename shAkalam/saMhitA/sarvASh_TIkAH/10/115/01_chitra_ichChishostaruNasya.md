@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+citráḥ ← citrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+śíśoḥ ← śíśu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+táruṇasya ← táruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vakṣáthaḥ ← vakṣátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apyéti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhā́tave ← √dhā- 2 (root)  
+{case:DAT, number:SG}
+
+mātárau ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+anūdhā́ḥ ← anūdhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+jī́janat ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+yádi ← yádi (invariable)  
+{}
+
+cáran ← √carⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dūtyàm ← dūtyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sadyás ← sadyás (invariable)  
+{}
+
+vavákṣa ← √vakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +234,4 @@ Erstaunlich ist des zarten Kalbes Wachsthum doch, das nicht zum Saugen zu den Mu
 Стоило только лишенной вымени породить (его),  
 Как он сразу же вырос, отправляясь с великой службой вестника.
 </details>
+

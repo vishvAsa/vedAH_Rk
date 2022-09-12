@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kṣumántam ← kṣumánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tú ← tú (invariable)  
+{}
+
+citrám ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+grābhám ← grābhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥bhāya ← √gr̥bhⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+dákṣiṇena ← dákṣiṇa- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mahāhastī́ ← mahāhastín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +170,4 @@ Greif, o Indra, mit der Rechten gross an Händen du den lichten Glanzbegabten Gr
 
 -ru-
 </details>
+

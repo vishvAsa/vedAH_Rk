@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+edhi ← √as- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pratáraṇaḥ ← pratáraṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́stoḥ ← vā́stu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+áśvebhiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gayasphā́naḥ ← gayasphā́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ajárāsaḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+putrā́n ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +198,7 @@ In your companionship might we be unaging. Like a father his sons,  favor us in 
 
 The voc. indo ‘o drop’ in b is incongruous in this context, and as Geldner points out, the 1st hemistich seems to have been adapted from a Soma hymn, where ‘drop’ would be appropriate. He adduces I.91.19 (c: gayasphā́naḥ pratáraṇaḥ …) and 12, whose 1st pāda also contains gayasphā́naḥ, though the matches are not exact and neither of the cited pādas contains indo. However, gayasphā́na- is found only in those two passages and in our vs. 78
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/054/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/054/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 On práti √juṣ see comm. ad IX.92.1.
@@ -172,3 +230,4 @@ O Wohnungsherr, sei hülfreich uns und schenke dem Haus Gedeihn an Rind und Ross
 Да будем мы нестареющими в дружбе с тобой!  
 Радуй нас, как отец сыновей!
 </details>
+

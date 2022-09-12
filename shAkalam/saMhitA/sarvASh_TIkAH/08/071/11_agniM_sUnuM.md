@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jātávedasam ← jātávedas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūnúm ← sūnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dānā́ya ← dāná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vā́ryāṇām ← vā́rya- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+amŕ̥taḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́t ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+mártyeṣu ← mártya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mandrátamaḥ ← mandrátama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśí ← víś- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Dem Wesenkenner Agni, ihm, dem Sohn der Kraft, damit er Güter uns verleih, Ihm,
 
 -ru-
 </details>
+

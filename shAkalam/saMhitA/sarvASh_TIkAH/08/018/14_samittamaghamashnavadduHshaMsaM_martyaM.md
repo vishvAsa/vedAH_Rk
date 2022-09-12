@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+aghám ← aghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aśnavat ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+duḥśáṁsam ← duḥśáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mártyam ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ripúm ← ripú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmatrā́ ← asmatrā́ (invariable)  
+{}
+
+durháṇāvān ← durháṇāvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dvayúḥ ← dvayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +169,4 @@ Ja, den erreiche Misgeschick, den bösen, hinterlist'gen Mann, Der wider uns auf
 Злоречивого обманчивого смертного,  
 Который несет погибель и двоедушен!
 </details>
+

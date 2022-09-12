@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+áśvaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aviṣyán ← √aviṣy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+próthat ← √pruthⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+yávase ← yávasa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ásthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+maháḥ ← máh- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+saṁváraṇāt ← saṁváraṇa- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+śocíḥ ← śocís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāti ← √vā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ádha ← ádha (invariable)  
+{}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kr̥ṣṇám ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vrájanam ← vrájana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +233,4 @@ Gleich wie ein Ross, das nach dem Grase lechzet, so schnauft' er, als vom grosse
 Тут веет ветер следом за его пламенем,  
 И черным бывает твой путь.
 </details>
+

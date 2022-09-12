@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+maháḥ ← máh- (nominal stem)  
+{case:ACC, number:PL}
+
+satáḥ ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+havyā́ni ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mā́nuṣā ← mā́nuṣa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+satsi ← √sad- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +176,4 @@ Zu all den grossen, mächtigen und zu des Menschen Opferwerk, O Agni, setz dich 
 К людским жертвенным возлияниям!  
 О Агни, садись на жертвенную солому под поклонение.
 </details>
+

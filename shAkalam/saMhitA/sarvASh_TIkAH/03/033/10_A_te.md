@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+kāro ← kārú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śr̥ṇavāma ← √śru- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vácāṁsi ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ánasā ← ánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dūrā́t ← dūrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yayā́tha ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+naṁsai ← √nam- 1 (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+pīpyānā́ ← √pī- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kanyā̀ ← kanyā̀- ~ kanī́n- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+máryāya ← márya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śaśvacaí ← √śvañc- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRF, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Wir wollen deinen Worten Gehör schenken, o Dichter. Du bist mit Wagentroß und 
 Я хочу уступить тебе, как девушка – молодому мужчине.  
 Вишвамитра:
 </details>
+

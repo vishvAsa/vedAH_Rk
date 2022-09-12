@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+br̥hantā ← br̥hánt- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+br̥hatī́bhiḥ ← br̥hánt- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā́jasātau ← vā́jasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yātám ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+didyávaḥ ← didyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prakrī́ḷān ← √krīḍ- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ājéḥ ← ājí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sanitā́raḥ ← sanitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ O grosse, kommt zu uns mit grossen Hülfen, o Varuna und Indra, in dem Kampfe, W
 Когда сверкающие разряды заиграют в сражениях,  
 Да будем мы у вас победителями в этом состязании!
 </details>
+

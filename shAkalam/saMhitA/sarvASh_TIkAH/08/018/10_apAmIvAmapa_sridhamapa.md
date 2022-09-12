@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ámīvām ← ámīvā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+srídham ← srídh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+durmatím ← durmatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sedhata ← √sidh- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́dityāsaḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yuyótana ← √yu- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +151,4 @@ Fort treibt die Krankheit, fort den Feind und fort den Böses sinnenden; Bewahrt
 Прочь злую мысль!  
 О Адитьи, избавьте нас от беды!
 </details>
+

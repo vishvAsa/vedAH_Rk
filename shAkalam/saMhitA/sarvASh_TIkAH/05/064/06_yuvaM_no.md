@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+varuṇā = ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yéṣu ← yá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+bibhr̥tháḥ ← √bhr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+kr̥tám ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +187,4 @@ Uns schafft und welchen hohe Macht ihr, Mitra-Varuna, verleiht, Zum Guterlangen 
 Создайте для нас широкий (путь)  
 К захвату добычи, к богатству, к благополучию!
 </details>
+

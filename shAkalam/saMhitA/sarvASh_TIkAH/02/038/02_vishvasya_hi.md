@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+śruṣṭáye ← śruṣṭí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bāhávā ← bāhú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+pr̥thúpāṇiḥ ← pr̥thúpāṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sísarti ← √sr̥- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+nímr̥grāḥ ← nímr̥gra- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vraté ← vratá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+párijman ← párijman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ramate ← √ram- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +239,4 @@ Der Gott steht aufrecht, streckt empor die Arme, thut auf die Hand, und alles la
 Даже воды покоряются его обету,  
 Даже этот ветер успокаивается в (своем) круговом странствии.
 </details>
+

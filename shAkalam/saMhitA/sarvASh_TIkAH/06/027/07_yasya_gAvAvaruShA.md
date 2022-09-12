@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aruṣā́ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+gā́vau ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sūyavasyū́ ← sūyavasyú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+cárataḥ ← √carⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rérihāṇā ← √rih- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+adāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+párā ← párā (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sŕ̥ñjayāya ← sŕ̥ñjaya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+turváśam ← turváśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+daivavātā́ya ← daivavātá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śíkṣan ← √śak- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+vr̥cī́vataḥ ← vr̥cī́vant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Er, dessen Füchse, nach der Weide gierig, hineilen züngelnd zwischen Erd' und 
 Тот отдал Сринджайе Турвашу,  
 Вричиватов – сыну Деваваты, стараясь (для них),
 </details>
+

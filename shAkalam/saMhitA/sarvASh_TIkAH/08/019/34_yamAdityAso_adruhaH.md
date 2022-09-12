@@ -15,13 +15,41 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+ādityāsaḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+adruhaḥ ← adrúh- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+maghónām ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mártyam ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náyatha ← √nī- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pārám ← pārá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sudānavaḥ ← sudā́nu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+víśveṣām ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

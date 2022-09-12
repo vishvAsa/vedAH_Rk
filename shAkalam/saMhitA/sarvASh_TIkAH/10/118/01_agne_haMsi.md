@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+atríṇam ← atrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+háṁsi ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dī́dyat ← √dī- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mártyeṣu ← mártya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+kṣáye ← kṣáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śucivrata ← śúcivrata- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +157,4 @@ Den Fresser, Agni, schlag herab, erstrahlend bei den Sterblichen, Hellwirkender 
 Сверкая среди смертных  
 В своей обители, о ты, чьи деяния светлы.
 </details>
+

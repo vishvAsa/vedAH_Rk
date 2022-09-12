@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+akṣipát- ← akṣipát- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nahí ← nahí (invariable)  
+{}
+
+pūrtám ← pūrtá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+bhúvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+nemānām ← néma- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+dúvaḥ ← dúvas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vanavase ← √vanⁱ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +165,4 @@ Von deiner Fülle falle auch nicht das geringste andern zu, O Guter, spende Gabe
 (Пылинкой,) попавшей в глаз, о Васу, (бог) некоторых.  
 Так ты добудешь почетное положение.
 </details>
+

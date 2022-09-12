@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+návebhiḥ ← náva- 2 (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+rarapśé ← √rapś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ŕ̥ṣibhiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+jétā ← jétar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pakváḥ ← pakvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sŕ̥ṇyaḥ ← sŕ̥ṇya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥kṣáḥ ← vr̥kṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+mányamānaḥ ← √man- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+máryaḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yóṣām ← yóṣā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puruhūtám ← puruhūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vivakmi ← √vañc- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ Ihn, der mit neuen Sängern reich versehn ist, gleich reifem Baum, wie Schnitter
 Словно молодой мужчина, мыслью стремящийся к женщине,  
 Я приглашаю многопризываемого Индру.
 </details>
+

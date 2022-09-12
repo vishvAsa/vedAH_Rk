@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámata ← √man- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+svarī́ṇām ← svarí- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āṇḍā́ ← āṇḍá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bhittvā́ ← √bhid- (root)  
+{}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+śakunásya ← śakuná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ājat ← √aj- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+párvatasya ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+usríyāḥ ← usríya- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Brihaspati nahm wahr der Kühe Wesen, der brüllenden, das in dem Sitz verborgne
 Как, разбив скорлупу, (обнаруживают) выводок птицы,  
 (Так) он сам выгнал из горы коров утренней зари.
 </details>
+

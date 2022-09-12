@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+savā́ya ← savá- 1 (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+śaśvattamám ← śaśvattamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tádapāḥ ← tádapas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váhniḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+dhā́ti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+nūnám ← nūnám (invariable)  
+{}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhajat ← √bhaj- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+svastaú ← svastí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vītíhotram ← vītíhotra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +251,4 @@ Gott Savitar erhob zu schneller That sich im Flug, aufs neue nun sein Werk zu tr
 Ведь сейчас он одаряет богов сокровищем  
 И выделил долю на счастье (почитателю,) приглашающему (богов) на жертву.
 </details>
+

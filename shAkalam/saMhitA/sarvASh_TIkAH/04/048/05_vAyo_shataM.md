@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hárīṇām ← hári- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́yo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+póṣyāṇām ← póṣya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yuvásva ← √yu- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sahasríṇaḥ ← sahasrín- (nominal stem)  
+{case:GEN, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+pā́jasā ← pā́jas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yātu ← √yā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +172,4 @@ Vaju, schirre dir hundert wohlgenährte goldgelbe Rosse au, oder auch mit tausen
 Или же, раз у тебя (их) тысяча,  
 Пусть приедет колесница в полную силу!
 </details>
+

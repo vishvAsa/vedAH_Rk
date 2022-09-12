@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyúbhiḥ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bāhvóḥ ← bāhú- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+r̥ṇvati ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́ram ← vā́ra- 2 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +199,4 @@ Denn Agni giesset Tag für Tag Kraft in der Menschen Arm hinein; Den Guss erschl
 Агни раздает жертву по порядку,  
 Как Бхага – желанный дар.
 </details>
+

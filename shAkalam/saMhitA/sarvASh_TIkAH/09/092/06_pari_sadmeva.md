@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+paśumā́nti ← paśumánt- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sádma ← sádman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+iyānáḥ ← √yā- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sámitīḥ ← sámiti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayāsīt ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+kaláśān ← kaláśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahiṣáḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥gáḥ ← mr̥gá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sī́dan ← √sad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+váneṣu ← vána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Wie um den vieh-versehnen Sitz der Priester, wie zur Versammlung geht der gute K
 Сома, очищаясь, отправляется в кувшины,  
 Усаживаясь в деревянных (сосудах), словно дикий зверь-буйвол в лесах.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+puruhūtám ← puruhūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samānám ← samāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+ukthyàm ← ukthyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gánigmatam ← √gam- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tricakrám ← tricakrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+párijmānam ← párijman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vidathyàm ← vidathyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+vyùṣṭau ← vyùṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ Wir rufen euren vielgerufnen Wagen her, den preisenswerthen, der zu den Gelagen 
 Трехколесную колесницу, снова и снова ездящую на выжимания,  
 Совершающую круговой обьезд, достойную жертвенной раздачи.
 </details>
+

@@ -17,15 +17,58 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+atyā́yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+sánā ← √sanⁱ- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+tirás ← tirás (invariable)  
+{}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dásrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+híraṇyavartanī ← híraṇyavartani- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+síndhuvāhasā ← síndhuvāhas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+súṣumnā ← suṣumná- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́dhvī ← mā́dhvī- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+śrutam ← √śru- (root)  
+{number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +186,4 @@ Hindurch zu uns, o Ritter, dringt, und ich durch alle stets zu euch; O hehre, ih
 Очень благожелательные, пересекающие реки!  
 О любители меда, услышьте мой призыв!
 </details>
+

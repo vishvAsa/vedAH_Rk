@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+bhītā́ya ← √bhī- (root)  
+{case:DAT, gender:M, number:SG, non-finite:PPP}
+
+nā́dhamānāya ← √nādh- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+ŕ̥ṣaye ← ŕ̥ṣi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+saptávadhraye ← saptávadhri- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+māyā́bhiḥ ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+acathaḥ ← √añc- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+vr̥kṣám ← vr̥kṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +169,4 @@ Dem fürchtenden, dem flehenden, dem Dichter Saptavadhri biegt Mit Zauberkunst, 
 Вы, о Ашвины, (вашими) волшебными силами  
 Защемляете и расщемляете дерево.
 </details>
+

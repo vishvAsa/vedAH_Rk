@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+brahmajāyā́m ← brahmajāyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áhr̥ṇīyamānaḥ ← áhr̥ṇīyamāna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayachat ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+anvartitā́ ← anvartitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hastagŕ̥hya ← hastagŕ̥hya (invariable)  
+{non-finite:CVB}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nināya ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ König Soma gab zuerst die Gattin des Brahmanen zurück, ohne Zürnen, Brautwerb
 Требующими обратно были Варуна, Митра.  
 Агни-хотар, повел (ее), взяв за руку.
 </details>
+

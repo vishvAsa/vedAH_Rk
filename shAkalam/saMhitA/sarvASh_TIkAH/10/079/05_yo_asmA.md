@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ādádhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+tr̥ṣú ← tr̥ṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́jyaiḥ ← ā́jya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ghr̥taíḥ ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+juhóti ← √hu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+púṣyati ← √puṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+akṣábhiḥ ← ákṣi ~ akṣán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+cakṣe ← √cakṣ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pratyáṅ ← pratyáñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +216,4 @@ Wer ihm voll regen Eifers Speise darbringt, mit Schmalz und Butter opfert, der g
 Для того ты высматриваешь тысячей глаз.  
 О Агни, ты обращен (для него) во все стороны.
 </details>
+

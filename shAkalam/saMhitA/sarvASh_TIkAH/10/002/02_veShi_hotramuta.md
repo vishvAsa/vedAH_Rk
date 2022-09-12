@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+hotrám ← hotrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+potrám ← potrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+véṣi ← √vī- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+draviṇodā́ḥ ← draviṇodā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mandhātā́ ← mandhātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havī́ṁṣi ← havís- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kr̥ṇávāma ← √kr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+svā́hā ← svā́hā (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árhan ← √arh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yajatu ← √yaj- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Du treibst das Werk des Läuterers und Priesters; du bist voll Andacht, heilig, 
 Когда мы будем (под возглас:) Свага! Совершать жертвенные возлияния,  
 Пусть бог Агни как достойный почтит богов!
 </details>
+

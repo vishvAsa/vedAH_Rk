@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+divyā́ya ← divyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jánmane ← jánman- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+svādúḥ ← svādú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+suhávītunāmne ← suhávītunāman- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svādúḥ ← svādú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitrā́ya ← mitrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svādúḥ ← svādú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇāya ← váruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vāyáve ← vāyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ádābhyaḥ ← ádābhya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bŕ̥haspátaye ← bŕ̥haspáti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mádhumān ← mádhumant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +180,4 @@ O riesle hell und süss dem himmlischen Geschlecht, und süss dem Indra, dessen 
 Вкусным для Митры, Варуны, Ваю,  
 Для Брихаспати, (ты,) сладостный, безобманный!
 </details>
+

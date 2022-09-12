@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+áyukta ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+étaśam ← étaśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sū́raḥ ← svàr- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+manaú ← manú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+antárikṣeṇa ← antárikṣa- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yā́tave ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -98,7 +123,7 @@ Lüders (215-16) objects to Geldner’s interpr. of the vs., on the basis that t
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 On this tṛca see published introduction. In these vss. Soma is compared to the sun, and his ritual journey compared to the Sun’s daily journey across the sky. At the same time the purification of the soma is linked with Manu, the first sacrificer (vss. 7-8), and so the cosmic and the ritual are connected.
@@ -127,3 +152,4 @@ Die Sonne hat ihr Ross geschirrt hellflammend in des Menschen Sitz, Zu fahren du
 
 -ru-
 </details>
+

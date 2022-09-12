@@ -16,14 +16,69 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ástutaḥ ← ástuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mitra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+tanū́nām ← tanū́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+īṣate ← √īṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+matíḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+átribhyaḥ ← átri- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+īṣate ← √īṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+matíḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +207,4 @@ Wer von euch, Mitra, Varuna, ist an sich selbst nicht lobenswerth? Drum dringet 
 Вот спешит прямо к вам двоим молитва,  
 Из семьи Атри спешит молитва.
 </details>
+

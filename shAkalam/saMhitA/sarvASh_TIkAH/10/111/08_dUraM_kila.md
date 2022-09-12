@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+dūrám ← dūrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jagmuḥ ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kíla ← kíla (invariable)  
+{}
+
+prathamā́ḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prasavé ← prasavá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sasrúḥ ← √sr̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+budhnáḥ ← budhná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kvà ← kvà (invariable)  
+{}
+
+kvà ← kvà (invariable)  
+{}
+
+svit ← svit (invariable)  
+{}
+
+ántaḥ ← ánta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+kvà ← kvà (invariable)  
+{}
+
+mádhyam ← mádhya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +244,4 @@ Weit sind fürwahr die ersten der Gewässer gegangen, die auf Indra's Antrieb ra
 Где же начало, где их дно?  
 О воды, где ваша середина сейчас (и) конец?
 </details>
+

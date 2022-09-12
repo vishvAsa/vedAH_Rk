@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́sitha ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+gr̥ṇatā́m ← √gr̥̄- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āpíḥ ← āpí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śiváḥ ← śivá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mr̥ḷaya ← √mr̥ḍ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +171,4 @@ Der du durch Huld der Sänger Freund und liebender Genosse warst, Sei du, o Indr
 Товарищем, добрым другом, со (своей) поддержкой,  
 Ты, Индра, нас помилуй!
 </details>
+

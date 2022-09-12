@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adribhít ← adribhíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prathamajā́ḥ ← prathamajā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āṅgirasáḥ ← āṅgirasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havíṣmān ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dvibárhajmā ← dvibárhajman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prāgharmasát ← prāgharmasád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+roravīti ← √rū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +212,4 @@ Der erstgeborne, heil'ge Felszerspalter, Brihaspati, Angirasa, der Opfrer, Der z
 (Тот,) чья поступь дважды могуча, кто сидит впереди перед горячим молоком, отец наш,  
 (Этот) бык громко ревет через два мира.
 </details>
+

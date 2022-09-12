@@ -18,16 +18,65 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+svābhúvaḥ ← svābhū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+áśvarādhasaḥ ← áśvarādhas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śumbhánti ← √śubh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+upasécanī ← upasécana- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+véti ← √vī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́hutiḥ ← ā́huti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ŕ̥jītiḥ ← ŕ̥jīti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vívakṣase ← √vac- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +212,4 @@ Dich schmücken Rosse rüstend hier, die gern dir ihre Dienste weihn; Der Butter
 Рвущееся вперед, о Агни, возлияние.  
 В опьянении (сомой) я хочу вам (это) провозгласить.
 </details>
+

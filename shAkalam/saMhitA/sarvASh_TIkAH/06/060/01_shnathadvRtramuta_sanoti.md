@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sanoti ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śnáthat ← √śnathⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agnī́ ← agní- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+índrā ← índra- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sáhurī ← sáhuri- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+saparyā́t ← √sapary- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhū́reḥ ← bhū́ri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+irajyántā ← √irajy- (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+
+vasavyàsya ← vasavyà- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sáhastamā ← sáhastama- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vājayántā ← √vājay- 2 (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +209,4 @@ Der schlägt den Feind und der erlanget Beute, der Indra-Agni, die gewalt'gen, e
 Мощно правящих обширным богатством,  
 Самых сильных силой, обладателей наград.
 </details>
+

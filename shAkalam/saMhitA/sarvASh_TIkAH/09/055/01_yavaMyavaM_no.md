@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ándhasā ← ándhas- 2 (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yávaṁ-yavam ← yáva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+puṣṭám-puṣṭam ← √puṣ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+saúbhagā ← saúbhaga- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sóma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +157,4 @@ O ströme rings durch deinen Saft uns Korn auf Korn und Gut auf Gut Und alles Gl
 
 -ru-
 </details>
+

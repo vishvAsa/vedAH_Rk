@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cániṣṭhā ← cániṣṭha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+síṣakti ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sumatíḥ ← sumatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+átāpi ← √tap- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+gharmáḥ ← gharmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+píparti ← √pr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+samudrā́n ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sarítaḥ ← sarít- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+étagvā ← étagva- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+suyújā ← suyúj- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yujānáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Es sucht euch auf dies sehr willkommne Loblied, gekocht ist Brühe in des Mensch
 Который переправляет вас через моря (и) реки,  
 Запрягая (ваших) коней запрягающихся легко, словно кони Солнца.
 </details>
+

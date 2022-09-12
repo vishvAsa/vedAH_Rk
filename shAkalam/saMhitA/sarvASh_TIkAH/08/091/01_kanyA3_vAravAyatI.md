@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+avāyatī́ ← √i- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+kanyā̀ ← kanyā̀- ~ kanī́n- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vā́r ← vā́r- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+avidat ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+srutā́ ← srutí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+abravīt ← √brū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ástam ← ásta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+bhárantī ← √bhr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sunavai ← √su- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+śakrā́ya ← śakrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sunavai ← √su- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +198,4 @@ Ein Mädchen, das zum Flusse ging, fand auf dem Wege Somakraut, Sie trug es heim
 
 -ru-
 </details>
+

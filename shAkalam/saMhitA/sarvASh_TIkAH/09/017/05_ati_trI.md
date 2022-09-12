@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+áti ← áti (invariable)  
+{}
+
+rocanā́ ← rocaná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+trī́ ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bhrājase ← √bhrāj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+dívam ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+róhan ← √ruh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+codayaḥ ← √cud- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+iṣṇán ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ Du strahlst der Sonne gleich, die durch drei Räume auf zum Himmel steigt, Und e
 На небо через три светлых пространства.  
 Посылая (голос), ты как бы поторопил солнце.
 </details>
+

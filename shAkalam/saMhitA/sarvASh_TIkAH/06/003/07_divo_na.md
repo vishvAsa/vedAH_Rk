@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+návīnot ← √nu- ~ nū- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+vidhatáḥ ← √vidh- (root)  
+{case:GEN, gender:M, number:SG, tense:AOR, voice:ACT}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+nūnot ← √nu- ~ nū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+óṣadhīṣu ← óṣadhī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+rukṣáḥ ← rukṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhrájasā ← dhrájas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ghŕ̥ṇā ← ghŕ̥ṇi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pátmanā ← pátman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dám ← dám- (nominal stem)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+supátnī ← supátnī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vásunā ← vásu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +241,4 @@ Er, dessen Keule, wie des Himmels, donnert, der helle Stier, er brüllt bei den 
 Кто двигаясь, словно (собственным) жаром, в порыве, в полете,  
 (Наполняет) добром оба мира, для которых он добрый хозяин дома...
 </details>
+

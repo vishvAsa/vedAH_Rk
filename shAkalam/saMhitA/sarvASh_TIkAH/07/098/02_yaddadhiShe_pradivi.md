@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cā́ru ← cā́ru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dadhiṣé ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+pradívi ← pradív- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+pītím ← pītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vakṣi ← √vaś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+juṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pāhi ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+prásthitān ← √sthā- (root)  
+{case:ACC, gender:M, number:PL, non-finite:PPP}
+
+sómān ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+uśán ← √vaś- (root)  
+{tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Wie du von je empfingst die liebe Nahrung, begehrst du ihren Trunk an jedem Tage
 Наслаждаясь сердцем и мыслью,  
 О Индра, пей предложенные соки сомы, жаждя (их)!
 </details>
+

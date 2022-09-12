@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+akṣaṇvántaḥ ← akṣaṇvánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kárṇavantaḥ ← kárṇavant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ásamāḥ ← ásama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+babhūvuḥ ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+manojavéṣu ← manojavá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ādaghnā́saḥ ← ādaghná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tve ← tva- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+upakakṣā́saḥ ← upakakṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dadr̥śre ← √dr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+hradā́ḥ ← hradá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+snā́tvāḥ ← snā́tva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tve ← tva- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +208,4 @@ Genossen auch mit gleichem Aug' und Ohre sind ungleich doch in ihres Geistes Reg
 Одни выглядят, как пруды, (где вода) до рта (или) до плеч,  
 Другие же, как пруды для купания.
 </details>
+

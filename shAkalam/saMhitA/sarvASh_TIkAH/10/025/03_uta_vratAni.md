@@ -18,16 +18,80 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+mināmi ← √mī- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+pākyā̀ ← pākyā̀- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sūnáve ← sūnú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+mr̥ḷá ← √mr̥ḍ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vadhā́t ← vadhá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vívakṣase ← √vac- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +235,4 @@ Verletz' ich auch aus Unverstand, o Soma, je dein heilig Recht, So schenk die St
 (Спасая нас) даже от смертельного удара –  
 В опьянении (сомой) я хочу вам (это) провозгласить!
 </details>
+

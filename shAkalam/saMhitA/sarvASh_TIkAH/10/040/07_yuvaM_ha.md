@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+bhujyúm ← bhujyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+váśam ← váśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ārathuḥ ← √r̥- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+śiñjā́ram ← śiñjā́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+uśánām ← uśánā- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+árāvā ← árāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āsate ← √ās- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+cake ← √kā- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +231,4 @@ Zu Hülfe kamt dem Bhudschju und dem Vaça ihr, o Ritter, dem Çingara und dem U
 Пусть скупой позаботится о вашей дружбе =  
 Я (же) с вашей помощью радуюсь милости.
 </details>
+

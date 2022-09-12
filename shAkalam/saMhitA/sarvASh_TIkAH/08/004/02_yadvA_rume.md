@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kŕ̥pe ← kŕ̥pa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rúme ← rúma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rúśame ← rúśama- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śyā́vake ← śyā́vaka- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mādáyase ← √mad- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+sácā ← sácā (invariable)  
+{}
+
+bráhmabhiḥ ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+káṇvāsaḥ ← káṇva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+stómavāhasaḥ ← stómavāhas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yachanti ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +207,4 @@ Wenn du bei Ruma, Ruçama, bei Çjāvaka, bei Kripa, Indra dich erfreust; So len
 То Канвы, исполняющие воспевания, священными словами тебя,  
 О Индра, притягивают. Приходи!
 </details>
+

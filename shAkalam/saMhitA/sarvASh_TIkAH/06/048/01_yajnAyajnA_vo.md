@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yajñā́-yajñā ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dákṣase ← dákṣas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+girā́-girā ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jātávedasam ← jātávedas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá-pra ← prá (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śaṁsiṣam ← √śaṁs- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +202,4 @@ Mit jedem Opfer, jedem Lied will eurem Agni dienen ich; Auf, lasst den ew'gen We
 Бессмертного Джатаведаса мы хотим  
 Восхвалить как любимого друга.
 </details>
+

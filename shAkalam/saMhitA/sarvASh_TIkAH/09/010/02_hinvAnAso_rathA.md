@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+hinvānā́saḥ ← √hi- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+ráthāḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dadhanviré ← √dhanv- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+gábhastyoḥ ← gábhasti- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+bhárāsaḥ ← bhára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+kāríṇām ← kārín- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +136,4 @@ Sie strömten von den Armen aus den losgelassnen Wagen gleich, Und wie der Säng
 Они помчались из-под рук (жреца),  
 Подобные наградам тех, кто решает исход.
 </details>
+

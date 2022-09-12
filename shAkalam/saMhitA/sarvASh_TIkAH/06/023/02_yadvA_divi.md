@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pā́rye ← pā́rya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+súṣvim ← súṣvi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ávasi ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+śū́rasātau ← śū́rasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vr̥trahátye ← vr̥trahátya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ábibhyat ← ábibhyant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bibhyúṣaḥ ← √bhī- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+árandhayaḥ ← √randh- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śárdhataḥ ← √śardh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Und wenn dem Presser am Entscheidungstage, in Feindesschlacht beim Kampf du, Ind
 Или же когда искушенный (в жертвах народ) был в страхе, (ты,) бесстрашный,  
 Захватил в свою власть, о Индра, дерзких дасью.
 </details>
+

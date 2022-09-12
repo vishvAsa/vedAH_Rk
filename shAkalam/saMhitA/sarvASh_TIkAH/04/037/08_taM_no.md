@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+r̥bhukṣaṇaḥ ← r̥bhukṣán- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vājāḥ ← vā́ja- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+carṣaṇíbhyaḥ ← carṣaṇí- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+magháttaye ← maghátti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śasta ← √śas- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +179,4 @@ Den Reichthum weist uns, Vadscha's, zu Ribhukschan's, Indra, Ritter ihr, Und Ros
 Со(берите) из всех поселений (людских, а также приведите) коня!  
 Убейте его для обильного дарения!
 </details>
+

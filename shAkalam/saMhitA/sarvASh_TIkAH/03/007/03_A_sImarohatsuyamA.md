@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+arohat ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhávantīḥ ← √bhū- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+sīm ← sīm (invariable)  
+{}
+
+suyámāḥ ← suyáma- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+cikitvā́n ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rayivít ← rayivíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+atasásya ← atasá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dhāséḥ ← dhāsí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nī́lapr̥ṣṭhaḥ ← nī́lapr̥ṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+avāsayat ← √vas- 3 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+purudhápratīkaḥ ← purudhápratīka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +220,4 @@ Es bestieg sie [die Somaströme], die leicht zu lenken waren, der weise Herr der
 Черноспинный (Агни) отправил их подальше  
 От места сухостоя, (он,) многоликий.
 </details>
+

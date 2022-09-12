@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+sr̥janta ← √sr̥j- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+vāghátaḥ ← vāghát- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yujā́ ← yúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+aśvínam ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gómantam ← gómant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aṣṭakarṇyàḥ ← aṣṭakarṇá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dádataḥ ← √dā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sahásram ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+akrata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +199,4 @@ Vereint mit Indra haben betend sie entleert den ross- und rinderreichen Stall, M
 Давая мне тысячу (коров) с клейменными ушами,  
 Они создали себе славу среди богов.
 </details>
+

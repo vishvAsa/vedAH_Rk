@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+br̥hatā́ ← br̥hánt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ketúnā ← ketú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+roravīti ← √rū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ānaṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ántān ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+upamā́n ← upamá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+mahiṣáḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vavardha ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Es schreitet Agni vor mit hohem Banner, und Erd' und Himmel brüllet laut der St
 Он достиг крайних пределов самого неба.  
 Бык возрос в лоне вод.
 </details>
+

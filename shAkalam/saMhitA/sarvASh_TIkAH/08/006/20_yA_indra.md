@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prasvàḥ ← prasū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ácakriran ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PLUPRF, voice:MED}
+
+āsā́ ← ā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhárma ← dhárman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +173,4 @@ Die Mütter, welche Indra dich geboren als des Leibes Frucht, Gleich wie die Son
 Сделали (своим) зародышем с помощью рта,  
 Как (небесная) опора (охватила) кругом солнце.
 </details>
+

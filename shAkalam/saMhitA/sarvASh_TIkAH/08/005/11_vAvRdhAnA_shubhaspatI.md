@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+patī ← páti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śubhaḥ ← śúbh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vāvr̥dhānā́ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
+
+dásrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+híraṇyavartanī ← híraṇyavartani- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+píbatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+somyám ← somyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +140,4 @@ Euch labend, schöne Glanzesherrn, auf goldnen Pfaden fahrende, Geniesst des Som
 О чудесные (боги), едущие по золотой колее,  
 Пейте сладость сомы!
 </details>
+

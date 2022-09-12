@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+párvatasya ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+várāṁsi ← váras- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+vr̥ṇvé ← √vr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+jávāṁsi ← jávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jinvé ← √ji- 2 ~ jinv- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+páyobhiḥ ← páyas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+gaurásya ← gaurá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gavayásya ← gavayá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+góhe ← góha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vidát ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+sudhyàḥ ← sudhī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váhanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́jāya ← vā́ja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yádi ← yádi (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +197,7 @@ The sudhyáḥ ‘those of good insight’ are probably, with Witzel Gotō, the 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 As discussed in the published introduction, the next few vss. are very challenging; they have received multiple interpretations, which can’t be discussed in detail here.
@@ -179,3 +231,4 @@ Wenn ich des Berges Weiten mir eröffne, der Wasser Eile durch die Milch beschle
 Он находит (сокровище) в укрытии быка-гаура, быка-гавая,  
 Если благочестивые выезжают за добычей.
 </details>
+

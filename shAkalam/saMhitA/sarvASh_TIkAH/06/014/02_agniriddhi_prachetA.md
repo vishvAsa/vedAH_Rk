@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+prácetāḥ ← prácetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vedhástamaḥ ← vedhástama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yajñéṣu ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +174,4 @@ Denn Agni ist der weiseste, der liebevollste Sänger er; Der Menschen Stämme pr
 Агни как хотара призывают  
 На жертвоприношениях племена Мануса.
 </details>
+

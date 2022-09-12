@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhujyúm ← bhujyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+īṅkhitám ← √īṅkhay- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+pāré ← pārá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+patatríbhiḥ ← patatrín- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yātám ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kr̥tam ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +177,4 @@ Zum Bhudschju, der geschaukelt ward im Meere jenseit dieser Luft, O Treue, eilte
 Отправились на крыльях (конях).  
 О Насатьи, вы сделали (его молитву) успешной.
 </details>
+

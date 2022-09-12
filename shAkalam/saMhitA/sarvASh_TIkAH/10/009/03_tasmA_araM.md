@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+áram ← áram (invariable)  
+{}
+
+gamāma ← √gam- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+jínvatha ← √ji- 2 ~ jinv- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+kṣáyāya ← kṣáya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+janáyatha ← √janⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +163,4 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 Для чьего жилища вы нас освежаете,  
 О воды, и возрождайте (снова).
 </details>
+

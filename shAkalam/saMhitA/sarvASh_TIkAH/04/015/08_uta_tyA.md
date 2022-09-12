@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+hárī ← hári- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+tyā́ ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+utá ← utá (invariable)  
+{}
+
+yajatā́ ← yajatá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+kumārā́t ← kumārá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sāhadevyā́t ← sāhadevyá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dade ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+práyatā ← √yam- (root)  
+{case:ACC, gender:M, number:DU, non-finite:PPP}
+
+sadyás ← sadyás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Und diese preisenswerthen zwei Rosse, vom jungen Sohne des Sahadeva mir dargerei
 От царевича Сахадевьи  
 Тотчас же я получил в подарок.
 </details>
+

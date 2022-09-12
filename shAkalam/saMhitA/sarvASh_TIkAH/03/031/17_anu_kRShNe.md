@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+jihāte ← √hā- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+kr̥ṣṇé ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vásudhitī ← vásudhiti- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+maṁhánā ← maṁhánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+yájatre ← yájatra- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vr̥jádhyai ← √vr̥j- 1 (root)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kā́myāḥ ← kā́mya- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+r̥jipyā́ḥ ← r̥jipyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Es geben bereitwillig nach die beiden schwarzen, ehr- würdigen Schatzkammern de
 В то время как друзья твои, о Индра, мощные, рвущиеся вперед,  
 О(кружают) (твое) величие, чтобы привлечь к себе.
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ánayat ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+súnītī ← súnīti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+turváśam ← turváśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yádum ← yádu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yúvā ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +157,4 @@ Der aus der Ferne hergeführt schönleitend Jadu, Turvaça, Der junge Indra ist 
 Прекрасным привождением Турвашу (и) Яду,  
 Этот Индра – наш юный друг.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+váreṇyam ← váreṇya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+iḷā́ ← íḍ- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sahaskr̥ta ← sáhaskr̥ta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sudītím ← sudītí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uśíjam ← uśíj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Dich holden setzte nieder ich, durch Trunk der gekräftigter, Den Agni, welcher 
 (Отца) Дакши, о ты, созданный силой с помощью возлияния,  
 О Агни, (тебя,) прекрасно сверкающего Ушиджа.
 </details>
+

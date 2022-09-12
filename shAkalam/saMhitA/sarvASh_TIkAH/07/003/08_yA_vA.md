@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhr̥ṣṭāḥ ← ádhr̥ṣṭa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+nr̥vátīḥ ← nr̥vánt- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+uruṣyā́ḥ ← √uruṣy- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+jaritr̥̄́n ← jaritár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+smát ← smát (invariable)  
+{}
+
+sūrī́n ← sūrí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +230,4 @@ Mit unbesiegten Hülfen, die dem Frommen du schaffst, durch die du schirmst der 
 Защити нас ими, о сын силы,  
 Как (наших) покровителей, так и певцов!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; 12 = 5+7, ending LHX  
 genre M  
 genre M
+#### Morph
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhā́māni ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pariyán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dā́śat ← √dāś- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+māmahasva ← √maṁh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
+
+sukŕ̥te ← sukŕ̥t- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rayíṇā ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+suvī́reṇa ← suvī́ra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+svābhúvā ← svābhū́- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́naṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+samídhā ← samídh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Durchwandernd sieben Stätten als Unsterblicher, beschenk, o Agni, hold den from
 О Агни, богатством из прекрасных сыновей, очень нужным!  
 Радуйся тому, кто пришел к тебе с дровами!
 </details>
+

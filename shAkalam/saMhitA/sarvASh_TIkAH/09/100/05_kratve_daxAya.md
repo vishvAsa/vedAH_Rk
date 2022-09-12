@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M
+#### Morph
+dákṣāya ← dákṣa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kave ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+krátve ← krátu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pā́tave ← √pā- 2 (root)  
+{case:DAT, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ca ← ca (invariable)  
+{}
+
+mitrā́ya ← mitrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+váruṇāya ← váruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +178,4 @@ Zu grosser Stärkung riesle uns, o weiser Soma, du im Strom, Zum Trunk dem Indra
 Выжатый Индре для питья,  
 Митре и Варуне!
 </details>
+

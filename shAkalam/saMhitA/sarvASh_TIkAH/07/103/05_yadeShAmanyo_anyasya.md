@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyásya ← anyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+śāktásya ← śāktá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śíkṣamāṇaḥ ← √śak- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED, mood:DES}
+
+vádati ← √vadⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+párva ← párvan- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samŕ̥dhā ← samŕ̥dh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sárvam ← sárva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+suvā́caḥ ← suvā́c- (nominal stem)  
+{case:NOM, number:PL}
+
+vádathana ← √vadⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +248,4 @@ Wenn einer dann des andern Rede nachspricht, so wie des Lehrers Wort der fleiss'
 Все это целиком (выглядит) у них как урок –  
 (То,) что вы говорите, о прекрасноголосые, над водами!
 </details>
+

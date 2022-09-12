@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+hávante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sárasvatīm ← sárasvant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yā́m ← yá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+abhinákṣamāṇāḥ ← √nakṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+dakṣiṇā́ ← dakṣiṇā́ (invariable)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iḷáḥ ← íḍ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+sahasrārghám ← sahasrārghá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+póṣam ← póṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yájamāneṣu ← √yaj- (root)  
+{case:LOC, gender:M, number:PL, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Sarasvati, die unsre Ahnen rufen, die rechter Hand zum Opfer jetzt erscheinen, G
 (Дай) тут долю в жертвенной усладе ценой в тысячу,  
 Дай жертвователям процветание богатства!
 </details>
+

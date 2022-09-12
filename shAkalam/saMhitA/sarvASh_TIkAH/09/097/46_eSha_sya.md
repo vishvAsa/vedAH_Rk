@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+camū́ṣu ← camū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+dhī́raḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+távasvān ← távasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uśaté ← √vaś- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rathiráḥ ← rathirá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satyáśuṣmaḥ ← satyáśuṣma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svàrcakṣāḥ ← svàrcakṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásarji ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+devayatā́m ← √devay- (UNK_TYPE)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+kā́maḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

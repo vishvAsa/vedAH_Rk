@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+puróhitaḥ ← puróhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adhvarásya ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vícarṣaṇiḥ ← vícarṣaṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Als Priester Agni vorgesetzt dem Opferfest, der emsige, Versteht das Opfer nach 
 Обряда, (бог,) движущийся в разные стороны.  
 Он знает жертвоприношения по порядку.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mitrā́ya ← mitrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śikṣa ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
+váruṇāya ← váruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prayúchataḥ ← √yu- 2 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+samrā́jā ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhármaṇā ← dhárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rócate ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yáyoḥ ← yá- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+nā́dhasī ← nā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+vŕ̥tau ← vŕ̥t- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yáyoḥ ← yá- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Dem Mitra spende und dem treuen Varuna, den Herrschern, die mit ihrem Geist nich
 
 -ru-
 </details>
+

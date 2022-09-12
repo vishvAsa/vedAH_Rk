@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+paramā́ ← paramá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+santi ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+satyā́ ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jánimāni ← jániman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+spārhā́ ← spārhá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ananté ← anantá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+párivītaḥ ← √vyā- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+aryáḥ ← aryá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rórucānaḥ ← √ruc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śukráḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Dreifach ist dieses Gottes Agni Ursprung, der wahre, höchste, der begehrungswer
 Сокрытый внутри бесконечного (мрака), он явился  
 Чистый, светлый, благородный, ярко сверкающий.
 </details>
+

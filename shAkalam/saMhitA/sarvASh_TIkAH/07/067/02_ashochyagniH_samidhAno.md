@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+áśoci ← √śuc- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+samidhānáḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+adr̥śran ← √dr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ántāḥ ← ánta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+támasaḥ ← támas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+áceti ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+ketúḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purástāt ← purástāt (invariable)  
+{}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitúḥ ← duhitár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+jā́yamānaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Von uns entzündet strahlet hell nun Agni, und sichtbar wurden selbst des Dunkel
 Появилось на востоке знамя Ушас,  
 Дочери, неба, рождающееся для красоты.
 </details>
+

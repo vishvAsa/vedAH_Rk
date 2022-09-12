@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yajñé-yajñe ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+saparyati ← √sapary- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dīrghaśrúttamaḥ ← dīrghaśrúttama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sumnaíḥ ← sumná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āvívāsati ← √vanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+enān ← ena- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ Bei jedem Opfer verehrt derjenige Sterbliche die Götter, welcher, am weitesten 
 
 -ru-
 </details>
+

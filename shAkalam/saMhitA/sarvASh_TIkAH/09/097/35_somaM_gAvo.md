@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāvaśānā́ḥ ← √vāś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:MED}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+pr̥chámānāḥ ← √praś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ajyámānaḥ ← √añj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+pūyate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+arkā́ḥ ← arká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+navante ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+sóme ← sóma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+triṣṭúbhaḥ ← triṣṭúbh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +183,7 @@ The first two pādas of this vs. are variants of the last two of the previous vs
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/34-36.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/34-36.md">
 <details open><summary><h2>34-36 ...{Loading}...</h2></summary>
 
 All three vss. concentrate on ritual speech and on the noisy approach of both cows and poets to Soma. This theme takes up 32d, where Soma impels his own speech in concert with the productions of the poets. The final vs., 36, begins with hymn-summarizing evā́.
@@ -163,3 +215,4 @@ Zum Soma gehen rauschend hin die Kühe, zum Soma Sänger mit Gebeten flehend; Ge
 Сома, выжатый, очищается, когда его умащают.  
 В соме звучат (все) вместе песни, (стихи) триштубх.
 </details>
+

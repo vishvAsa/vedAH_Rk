@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+oṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+prasárpatha ← √sr̥p- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+áṅgam-aṅgam ← áṅga- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+páruṣ-paruḥ ← párus- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+bādhadhve ← √bādhⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:MED}
+
+tátas ← tátas (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+yákṣmam ← yákṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+madhyamaśī́ḥ ← madhyamaśī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +179,4 @@ Auf eurem Weg von Glied zu Glied, und von Gelenke zu Gelenk Treibt ihr das Siech
 Из того выгоняете чахотку,  
 Словно грозный царь, находящийся посредине (воюющих).
 </details>
+

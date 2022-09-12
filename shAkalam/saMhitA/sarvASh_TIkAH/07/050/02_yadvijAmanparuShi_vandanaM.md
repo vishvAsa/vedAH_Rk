@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+bhúvat ← √bhū- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+páruṣi ← párus- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vándanam ← vándana- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vijā́man ← vijā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aṣṭhīvántau ← aṣṭhīvánt- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+déhat ← √dih- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+kulphaú ← kulphá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pári ← pári (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+bādhatām ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+itás ← itás (invariable)  
+{}
+
+śócan ← √śuc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+pádyena ← pádya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rápasā ← rápas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tsáruḥ ← tsáru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidat ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +244,4 @@ Welch Ausschlag sich am doppelten Gelenke zeigt, und der die Knöchel der Gebein
 Пусть Агни пылающий прогонит ее прочь оттуда!  
 Пусть не найдет меня ползун, вредящий ногам!
 </details>
+

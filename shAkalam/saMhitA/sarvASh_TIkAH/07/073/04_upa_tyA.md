@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gamataḥ ← √gam- (root)  
+{number:DU, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tyā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+úpa ← úpa (invariable)  
+{}
+
+váhnī ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+víśam ← víś- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rakṣoháṇā ← rakṣohán- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sámbhr̥tā ← √bhr̥- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+vīḷúpāṇī ← vīḷúpāṇi- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+agmata ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ándhāṁsi ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+matsarā́ṇi ← matsará- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mardhiṣṭam ← √mr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śivéna ← śivá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Sie kommen stürmend her zu unserrn Hause mit starker Hand vereint Gespenster sc
 Подступили пьянящие напитки.  
 Не пренебрегайте нами, придите с дружелюбным (духом)!
 </details>
+

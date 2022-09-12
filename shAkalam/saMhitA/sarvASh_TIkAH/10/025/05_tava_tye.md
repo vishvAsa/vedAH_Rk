@@ -18,16 +18,68 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+śáktibhiḥ ← śákti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+níkāmāsaḥ ← níkāma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥ṇvire ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gŕ̥tsasya ← gŕ̥tsa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tavásaḥ ← tavás- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+aśvínam ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gómantam ← gómant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vívakṣase ← √vac- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Begierig brach der Weisen Schar durch deine Kraft, o Soma, sich Den ross- und ri
 Открыли загон с коровами (и) конями –  
 В опьянении (сомой) я хочу вам (это) провозгласить!
 </details>
+

@@ -17,15 +17,76 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+ájaiṣma ← √ji- 1 (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ásanāma ← √sanⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+ábhūma ← √bhū- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ánāgasaḥ ← ánāgas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+jāgratsvapnáḥ ← jāgratsvapná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pāpáḥ ← pāpá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saṁkalpáḥ ← saṁkalpá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dviṣmáḥ ← √dviṣ- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+r̥chatu ← √r̥- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+dvéṣṭi ← √dviṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+r̥chatu ← √r̥- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Wir haben heute gesiegt und gewonnen, wir sind der Sünde ledig geworden. Der b�
 Пусть настигнет того, кого мы ненавидим,  
 Пусть настигнет того, кто нас ненавидит!
 </details>
+

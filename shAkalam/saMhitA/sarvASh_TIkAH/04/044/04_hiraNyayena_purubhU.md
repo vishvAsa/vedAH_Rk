@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hiraṇyáyena ← hiraṇyáya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+purubhū ← purubhū́- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+úpa ← úpa (invariable)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+mádhunaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+píbāthaḥ ← √pā- 2 (root)  
+{number:DU, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+somyásya ← somyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dádhathaḥ ← √dhā- 1 (root)  
+{number:DU, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidhaté ← √vidh- (root)  
+{case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Auf goldnem Wagen kommt, o oftgeseh'ne, zu diesem Opfer her, o ihr Wahrhaft'gen 
 Пейте же мед сомы,  
 Даруйте сокровище почитающему (вас) человеку!
 </details>
+

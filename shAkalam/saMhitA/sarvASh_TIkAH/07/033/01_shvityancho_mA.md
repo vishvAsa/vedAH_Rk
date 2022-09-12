@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dakṣiṇatáskapardāḥ ← dakṣiṇatáskaparda- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+śvityáñcaḥ ← śvityáñc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+dhiyaṁjinvā́saḥ ← dhiyaṁjinvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+pramandúḥ ← √mand- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+barhíṣaḥ ← barhís- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+uttíṣṭhan ← √sthā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+voce ← √vac- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:MED}
+
+ávitave ← √avⁱ- (root)  
+{case:DAT, number:SG}
+
+dūrā́t ← dūrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vásiṣṭhāḥ ← vásiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +222,4 @@ Indra: "Die Weißgehenden mit der Haarschnecke auf der rechten Seite, die Erweck
 Вставая с жертвенной соломы, я говорю мужам:  
 Моим Васиштхам не помочь издалека.
 </details>
+

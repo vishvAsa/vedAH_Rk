@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhujé ← bhúj- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+iṣé ← íṣ- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+námī ← námī- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sāpyáḥ ← sāpyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+éṣe ← éṣa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+kr̥ṇuta ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sakhyā́ ← sakhyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+didyúm ← didyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maṁháyam ← √maṁh- (root)  
+{number:SG, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+samithéṣu ← samithá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+karam ← √kr̥- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+śáṁsyam ← śáṁsya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ukthyàm ← ukthyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,3 +263,4 @@ Mir reichte Namī Sāpja Speis' und Tränke dar, und war Genosse beim Erwerb der
 Когда в сражениях я подарил ему стрелу,  
 Тогда я и сделал его достойным прославления и воспевания.
 </details>
+

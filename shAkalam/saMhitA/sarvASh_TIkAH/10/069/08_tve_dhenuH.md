@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sudúghā ← sudúgha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+asaścátā ← asaścát- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+sabardhúk ← sabardúh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+samanā́ ← samanā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dákṣiṇāvadbhiḥ ← dákṣiṇāvant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+devayádbhiḥ ← √devay- (UNK_TYPE)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+idhyase ← √idh- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+sumitrébhiḥ ← sumitrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +187,4 @@ O Wesenkenner, dir gehört die Milchkuh, die wie in stetem Gusse Nektar ausströ
 
 -ru-
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+ácaram ← √carⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+mártyeṣu ← mártya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+vírūpā ← vírūpa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ávasam ← √vas- 3 (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+cátasraḥ ← catúr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rā́trīḥ ← rā́trī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+áhnaḥ ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+āśnām ← √aśⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+ghr̥tásya ← ghr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sakŕ̥t ← sakŕ̥t (invariable)  
+{}
+
+stokám ← stoká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+carāmi ← √carⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+evá ← evá (invariable)  
+{}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tā́t ← tā́t (invariable)  
+{}
+
+tātr̥pāṇā́ ← √tr̥p- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Als ich in anderer Gestalt unter den Sterblichen wandelte, vier Jahre lang alle 
 
 -ru-
 </details>
+

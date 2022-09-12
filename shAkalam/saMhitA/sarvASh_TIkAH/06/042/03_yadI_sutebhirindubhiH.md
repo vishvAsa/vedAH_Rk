@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índubhiḥ ← índu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sutébhiḥ ← √su- (root)  
+{case:INS, gender:M, number:PL, non-finite:PPP}
+
+yádi ← yádi (invariable)  
+{}
+
+pratibhū́ṣatha ← √bhūṣ- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sómebhiḥ ← sóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+médhiraḥ ← médhira- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+véda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhr̥ṣát ← √dhr̥ṣ- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+īṣate ← √īṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+ít ← ít (invariable)  
+{}
+
+táṁ-tam ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +187,4 @@ Wenn mit gepresstem Indu ihr und Somatränken ihn versorgt, So nimmt der kluge j
 Мудрый знает все:  
 Смело кидается он только к нему да к нему.
 </details>
+

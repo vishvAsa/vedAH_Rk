@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+dabhrébhiḥ ← dabhrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śáśīyāṁsam ← śáśīyaṁs- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+háṁsi ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vrā́dhantam ← √vrādh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sácā ← sácā (invariable)  
+{}
+
+sákhibhiḥ ← sákhi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Mit kleiner Schar auch tödtest du mit Kraft den stärkern, der dir trotzt, Mit 
 Которые с тобою вместе,  
 Ты разбиваешь превосходящего (врага), кичащегося силой.
 </details>
+

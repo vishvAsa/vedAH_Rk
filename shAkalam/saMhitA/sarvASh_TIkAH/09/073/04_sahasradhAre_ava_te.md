@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asvaran ← √svar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+sahásradhāre ← sahásradhāra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+asaścátaḥ ← asaścát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mádhujihvāḥ ← mádhujihva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nā́ke ← nā́ka- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ásya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhū́rṇayaḥ ← bhū́rṇi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+miṣanti ← √miṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+spáśaḥ ← spáś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+padé-pade ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pāśínaḥ ← pāśín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+santi ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sétavaḥ ← sétu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,14 +218,14 @@ The first hemistich seems clearly (at least to me) to contrast the ritual soma s
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 See comm. on IX.41.1-2 on the similarity of phraseology in these two pairs of vss. These vss. usher in the use of ritual speech against a variety of enemies.
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
 Geldner considers these vss. “doppelsinnig,” with ref. both to the priest-poets and the soma juices. This seems quite reasomable, and his individual notes are worth the attention.
@@ -198,3 +256,4 @@ In tausendström'ger Seihe rauschten sie zusammt, am Dom des Himmels lieblich mu
 Его ревностные соглядатаи не смыкают глаз.  
 На каждом шагу находятся вязатели с петлями.
 </details>
+

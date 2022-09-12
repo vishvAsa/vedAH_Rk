@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Strophic
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhuvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+citráḥ ← citrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+káyā ← ká- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sadā́vr̥dhaḥ ← sadā́vr̥dha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+káyā ← ká- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+śáciṣṭhayā ← śáciṣṭha- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vr̥tā́ ← vŕ̥t- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +154,4 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 Наш яркий, всегда помогающий друг?  
 С какою самою сильною свитою?
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sómāpūṣaṇā ← somāpūṣán- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vimā́nam ← vimā́na- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áviśvaminvam ← áviśvaminva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saptácakram ← saptácakra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+viṣūvŕ̥tam ← viṣūvŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yujyámānam ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+jinvathaḥ ← √ji- 2 ~ jinv- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+páñcaraśmim ← páñcaraśmi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +199,4 @@ O Soma, Puschan treibet her den Wagen, der siebenrädrig durch die Lüfte eilet,
 Поворачивающую в разные стороны, запрягаемую мыслью, -  
 Поторопите ее, имеющую пять поводьев, о два быка!
 </details>
+

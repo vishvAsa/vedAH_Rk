@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dasrā́ ← dasrá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+puruśā́katamā ← puruśā́katama- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+valgū́ ← valgú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+návyasā ← návyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pratnā́ ← pratná- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vácasā ← vácas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vivāse ← √vanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+śámbhaviṣṭhā ← śámbhaviṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śáṁsate ← √śaṁs- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+stuvaté ← √stu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+babhūvátuḥ ← √bhū- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+citrárātī ← citrárāti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +208,4 @@ Die schönen, hehren, die an Kräften reichsten, die alten ehr' ich mit dem neus
 (Тех.) которые больше всего благоволят к произносящему, восхваляющему,  
 Воспевающему, несут (ему) самые яркие дары.
 </details>
+

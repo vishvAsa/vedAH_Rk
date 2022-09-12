@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhānyàm ← dhānyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tánayāya ← tánaya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tokā́ya ← toká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ákṣitam ← ákṣita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bī́jam ← bī́ja- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váhadhve ← √vah- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:MED}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dhattana ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ī́mahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+saúbhagam ← saúbhaga- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+viśvā́yu ← viśvā́yu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +208,4 @@ Den Schatz gewährt uns, den, um welchen wir euch flehn, durch den für Kind und
 Дайте нам тот дар, о котором мы вас просим –  
 Счастье, длящееся весь век!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+duhitā́ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rudrā́ṇām ← rudrá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ādityā́nām ← ādityá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nā́bhiḥ ← nā́bhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svásā ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cikitúṣe ← √cit- (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+vocam ← √vac- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ánāgām ← ánāga- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+vadhiṣṭa ← √vadhⁱ- (root)  
+{number:PL, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Die Mutter der Rudra's, die Tochter der Vasu's, die Schwester der Aditja's ist [
 Я хочу сказать разумным людям:  
 Не убивайте безвинную корову-Адити!
 </details>
+

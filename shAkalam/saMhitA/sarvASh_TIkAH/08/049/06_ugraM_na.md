@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+ná ← ná (invariable)  
+{}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sedima ← √sad- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vīrám ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ákṣitāvasum ← ákṣitāvasu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víbhūtim ← víbhūti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avatáḥ ← avatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+siñcaté ← √sic- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+udrī́ ← udrín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhītáyaḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kṣáranti ← √kṣar- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Wie starkem Helden nahten wir anbetend dir, dem reichen, dem's nie fehlt an Gut,
 Словно богатый водой колодец - для черпающего (из него), о громовержец,  
 Текут (к тебе) молитвы, о Индра.
 </details>
+

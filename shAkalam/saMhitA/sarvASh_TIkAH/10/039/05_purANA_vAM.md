@@ -16,14 +16,87 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bravā ← √brū- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+jáne ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+purāṇā́ ← purāṇá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vīryā̀ ← vīryà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+āsathuḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+bhiṣájā ← bhiṣáj- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ha ← ha (invariable)  
+{}
+
+mayobhúvā ← mayobhū́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+u ← u (invariable)  
+{}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+karāmahe ← √kr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+návyau ← návya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+nú ← nú (invariable)  
+{}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+aríḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dádhat ← √dhā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śrát ← śrád ( √dhā-, √kr̥-) (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,3 +262,4 @@ Nun künd' ich eure alten Thaten vor dem Volk, denn immer wart ihr Aerzte, welch
 Сейчас мы хотим снова использовать вас для помощи,  
 Чтобы поверил, о Насатьи, (даже) этот чужой!
 </details>
+

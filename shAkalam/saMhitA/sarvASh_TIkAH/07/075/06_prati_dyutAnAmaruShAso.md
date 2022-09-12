@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aruṣā́saḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dyutānā́m ← √dyut- (root)  
+{case:ACC, gender:F, number:SG, tense:AOR, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+adr̥śran ← √dr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+citrā́ḥ ← citrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+váhantaḥ ← √vah- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śubhrā́ ← śubhrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+viśvapíśā ← viśvapíś- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yā́ti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dádhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidhaté ← √vidh- (root)  
+{case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Es zeigten sich die rothen Flammenrosse, die glanzbegabte Morgenröthe fahrend; 
 Едет прекрасная на разукрашенной колеснице,  
 Она наделяет сокровищами почитающего (ее) человека.
 </details>
+

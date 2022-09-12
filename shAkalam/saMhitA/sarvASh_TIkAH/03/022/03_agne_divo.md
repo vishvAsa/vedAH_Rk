@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+árṇam ← árṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jigāsi ← √gā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ácha ← ácha (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dhíṣṇyāḥ ← dhíṣṇya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ūciṣe ← √vac- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+yé ← yá- (pronoun)  
+{}
+
+parástāt ← parástāt (invariable)  
+{}
+
+rocané ← rocaná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+avástāt ← avástāt (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+upatíṣṭhante ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Du gehst, o Agni, zu der Flut des Himmels, du rufst herbei die hülfsbereiten G�
 (Ты движешься) к водам, которые находятся  
 В светлом пространстве по ту сторону солнца и которые внизу.
 </details>
+

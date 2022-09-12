@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+sajóṣasaḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+akrata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kave ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+saparyántaḥ ← √sapary- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yajñéṣu ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +178,4 @@ Dich wählten alle Götter sich zu ihrem Boten im Verein; Dich rühmen bei den O
 Почитая тебя, о поэт,  
 (Люди) зовут (тебя,) бога, на жертвоприношениях.
 </details>
+

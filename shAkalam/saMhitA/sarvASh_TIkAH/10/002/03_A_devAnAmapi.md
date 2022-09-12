@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aganma ← √gam- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ápi ← ápi (invariable)  
+{}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+právoḷhum ← √vah- (root)  
+{case:ACC, number:SG}
+
+śaknávāma ← √śak- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+yajāt ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+adhvarā́n ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kalpayāti ← √kl̥p- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+r̥tū́n ← r̥tú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +251,6 @@ To the Gods' pathway have we travelled, ready to execute what work we may accomp
 Let Agni, for he knows, complete the worship. He is the Priest: let him fix rites and seasons.
 </details>
 
-
 <details><summary>Keith</summary>
 
 We have come to the path of the gods  
@@ -207,3 +276,4 @@ Zum Pfad der Götter sind wir nun gekommen, um drauf zu wandern, wie wir es verm
 Этот Агни-знаток пусть жертвует – ведь он хотар!  
 Он пусть распределяет обряды, он – время (жертвоприношений)!
 </details>
+

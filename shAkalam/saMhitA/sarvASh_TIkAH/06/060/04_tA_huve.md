@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+yáyoḥ ← yá- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+papné ← √panⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+purā́ ← purā́ (invariable)  
+{}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indrāgnī́ ← indrāgní- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mardhataḥ ← √mr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +153,7 @@ I do not have a view on how (or whether) to fix the meter of pāda a; see Oldenb
 It is thinkable, but by no means necessary, that instead of reading quadrisyllabic índrā-agnī (as in vss. 5, 7, 14), we could read trisyllabic índrāgnī (as in 8, 9, 15) with a haplologized enclitic naḥ: índrāgnī ná *no mardhataḥ.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 Note the phonological (and partly etymological) figure mardh(ataḥ) (4c), mṛ́dh(aḥ) (5a), mṛḷ(ātaḥ) (5c).
@@ -150,3 +184,4 @@ Die ruf' ich, deren ganze Welt, die sie geschaffen, herrlich ist, Nie werden Ind
 Это, сделанное (ими) раньше, вызывает (наше) восхищение.  
 Индра-Агни не оставляют в беде.
 </details>
+

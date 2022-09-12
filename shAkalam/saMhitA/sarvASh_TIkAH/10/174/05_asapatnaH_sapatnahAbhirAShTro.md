@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380);; repeated line
+#### Morph
+asapatnáḥ ← asapatná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sapatnahā́ ← sapatnahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhírāṣṭraḥ ← abhírāṣṭra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viṣāsahíḥ ← viṣāsahí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+bhūtā́nām ← √bhū- (root)  
+{case:GEN, gender:M, number:PL, non-finite:PPP}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+jánasya ← jána- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+virā́jāni ← √rāj- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Von Nebenbuhlern sei ich frei, sie tödtend, siegend, Haupt des Reichs, Damit ic
 Чтобы стал я править  
 Этими существами и народом!
 </details>
+

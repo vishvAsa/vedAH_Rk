@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áyajyavaḥ ← áyajyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rā́jānaḥ ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sámitāḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+indrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+sudā́sam ← sudā́s- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuyudhuḥ ← √yudh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+admasádām ← admasád- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nr̥ṇā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+satyā́ ← satyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+úpastutiḥ ← úpastuti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+abhavan ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+deváhūtiṣu ← deváhūti- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Die zehn verschwornen, opferlosen Könige bezwangen nicht den Sudas, Indra-Varun
 Истинной (оказалась) хвала мужей, сидевших за (жертвенной) трапезой.  
 Боги были на их призывах богов.
 </details>
+

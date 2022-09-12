@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+háribhyām ← hári- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pravátā ← pravát- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+pramr̥ṇán ← √mr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vájraḥ ← vájra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anūcáḥ ← anváñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jahí ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+párācaḥ ← párāñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pratīcáḥ ← pratyáñc- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+kr̥ṇuhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+satyám ← satyá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+viṣṭám ← √viṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+víśvam ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +252,4 @@ Vor eil' dein Wagen jählings mit den Füchsen, und vor dein Blitz, die Feinde n
 Убей (тех,) кто идет навстречу, идет следом, идет прочь!  
 Сделай все истинным! Да будет (все) спокойно!
 </details>
+

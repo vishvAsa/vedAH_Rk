@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iyarmi ← √r̥- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yakṣi ← √yaj- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:MED}
+
+bhúvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+háveṣu ← háva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vándyaḥ ← vándya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dhánvan ← dhánvan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+prapā́ ← prapā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+iyakṣáve ← iyakṣú- (nominal stem)  
+{case:DAT, gender:M, number:SG, mood:DES}
+
+pratna ← pratná- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pūráve ← pūrú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +238,4 @@ Ich will dir dienen und Gebet dir bringen, dass hochgerühmt du seist, wenn wir 
 Ты, о Агни, словно колодец в пустыне,  
 Для жаждущего Пуру, о древний царь!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+etā́ ← eṣá (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ucáthāni ← ucátha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vedhaḥ ← vedhás- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ávocāma ← √vac- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+kaváye ← kaví- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+kr̥ṇuhí ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śocasva ← √śuc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+vásyasaḥ ← vásyaṁs- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+maháḥ ← máh- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+puruvāra ← puruvā́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yandhi ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Dir, Agni, Ordner, riefen diese Sprüche wir zu, dem weisen, lass sie dir gefall
 Воспламенись! Сделай нас более счастливыми!  
 Вручи нам великие богатства, о обладатель многих благ!
 </details>
+

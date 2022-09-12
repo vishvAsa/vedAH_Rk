@@ -15,13 +15,50 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+āhávanāni ← āhávana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+īśānā́saḥ ← √īś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+juhuyāma ← √hu- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+nítyā ← nítya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kr̥ṇvántaḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+miyédhe ← miyédha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+vahatū́ ← vahatú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +168,4 @@ Dir, Agni, wollen wir, die Reichen, spenden viel Opfergüsse, die dir sein zu ei
 Наши собственные, мы хотели бы возливать, способные (на это),  
 Совершая оба шествия на жертвенном празднике.
 </details>
+

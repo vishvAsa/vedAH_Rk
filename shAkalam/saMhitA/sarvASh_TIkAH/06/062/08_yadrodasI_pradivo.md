@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhū́ma ← bhū́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pradívaḥ ← pradív- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+héḷaḥ ← héḷas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+martyatrā́ ← martyatrā́ (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+ādityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+rudriyāsaḥ ← rudríya- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+aghám ← aghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhāta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rakṣoyúje ← rakṣoyúj- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tápuḥ ← tápus- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +216,4 @@ Welch Zorn der Götter, o ihr Welten beide, von Alters her auf der Erde ruht und
 Его, о Адитьи, Васу, сыновья Рудры,  
 Превратите в злую головню для того, кто связан с ракшасом!
 </details>
+

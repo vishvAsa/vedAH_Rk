@@ -18,16 +18,77 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment  
 genre M;; repeated line
+#### Morph
+ápi ← ápi (invariable)  
+{}
+
+purāṇavát ← purāṇavát (invariable)  
+{}
+
+vr̥śca ← √vr̥śc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+guṣpitám ← guṣpitá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+vratáteḥ ← vratáti- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+dambhaya ← √dambh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dāsásya ← dāsá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+sámbhr̥tam ← √bhr̥- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+bhajemahi ← √bhaj- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +241,4 @@ Zerspalte wie in alter Zeit, gleich wie des Dickichts Astgeflecht, Des Dämons K
 В том добре, собранном этим (дасой)!  
 Пусть лопнут все ничтожные другие!
 </details>
+

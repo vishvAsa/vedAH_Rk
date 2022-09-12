@@ -17,15 +17,85 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+aktám ← √añj- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+kaláśam ← kaláśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śvetám ← śvetá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ándhaḥ ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āpipyānám ← √pī- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śukrám ← śukrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+adhvaryúbhiḥ ← adhvaryú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+práyatam ← √yam- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+dhat ← √dhā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+píbadhyai ← √pā- 2 (root)  
+{case:DAT, number:SG, tense:PRS}
+
+práti ← práti (invariable)  
+{}
+
+dhat ← √dhā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+píbadhyai ← √pā- 2 (root)  
+{case:DAT, number:SG, tense:PRS}
+
+práti ← práti (invariable)  
+{}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +260,4 @@ Dann setzte Indra an, die blanke Schale, den milchgesalbten, fetten, lichten Rau
 Щедрый Индра предназначит для опьянения, для питья,  
 Герой предназначит для опьянения, для питья!
 </details>
+

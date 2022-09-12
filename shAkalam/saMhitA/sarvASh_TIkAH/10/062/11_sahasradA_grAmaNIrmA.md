@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+grāmaṇī́ḥ ← grāmaṇī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mánuḥ ← mánu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+riṣat ← √riṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+sahasradā́ḥ ← sahasradā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dákṣiṇā ← dákṣiṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yátamānā ← √yat- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sā́varṇeḥ ← sā́varṇi- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+tirantu ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ásanāma ← √sanⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+áśrāntāḥ ← áśrānta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Er, der tausendfach spendende Mann, der Leiter der Gemeinde, möge nicht Schaden
 Да продлят боги срок жизни Саварни,  
 У которого мы, не измучившись, получили добычу!
 </details>
+

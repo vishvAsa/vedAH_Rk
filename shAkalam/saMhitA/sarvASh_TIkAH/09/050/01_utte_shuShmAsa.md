@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+īrate ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+śúṣmāsaḥ ← śúṣma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+út ← út (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+síndhoḥ ← síndhu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+svanáḥ ← svaná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūrméḥ ← ūrmí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+codaya ← √cud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pavím ← paví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāṇásya ← vāṇá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +163,4 @@ Es regen deine Kräfte sich wie wenn des Meeres Welle braust; Des Pfeiles Spitze
 
 -ru-
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+harítaḥ ← harít- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rīramat ← √ram- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+sū́raḥ ← svàr- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhayate ← √bhī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+cit ← cit (invariable)  
+{}
+
+índrāt ← índra- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+távīyasaḥ ← távīyaṁs- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+abhiśvásaḥ ← √śvasⁱ- (root)  
+{}
+
+bhīmásya ← bhīmá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jaṭhárāt ← jaṭhára- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ábādhitaḥ ← ábādhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sáhuriḥ ← sáhuri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stan ← √stanⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +224,4 @@ Ja auch der Sonne goldne Stuten hielt er an, vor Indra scheut sich jeder, als de
 
 -ru-
 </details>
+

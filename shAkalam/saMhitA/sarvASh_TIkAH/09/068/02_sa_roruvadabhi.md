@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+acikradat ← √krand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+pū́rvāḥ ← pū́rva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+róruvat ← √rū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śratháyan ← √śrathⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+svādate ← √svād- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+upārúhaḥ ← upārúh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jráyaḥ ← jráyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pariyán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
+urú ← urú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dadhate ← √dhā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+śáryāṇi ← śárya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+váram ← vára- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Die frühern Stuten brüllt der goldne wiehernd an, des Stengels Sprossen lösen
 Проходя через цедилку на широкий простор,  
 Бог легко расстается со (своими) волокнами.
 </details>
+

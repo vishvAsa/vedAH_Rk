@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ántam ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhū́myāḥ ← bhū́mi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+éke ← éka- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+asthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dhūrṣú ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ráthasya ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yuktā́saḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+bhajanti ← √bhaj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dāyám ← dāyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ebhyaḥ ← ayám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+śrámasya ← śráma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+bhávati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+harmyé ← harmyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+hitáḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+yamáḥ ← yamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Der Erde Enden umwandern sie allein, an des Wagens Deichsel standen sie angeschi
 Они делят между собой наследие изнурения.  
 Когда Яма расположился в (своем) доме.
 </details>
+

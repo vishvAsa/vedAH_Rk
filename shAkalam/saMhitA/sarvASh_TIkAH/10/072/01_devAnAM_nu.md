@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+jā́nā ← jā́na- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vipanyáyā ← vipanyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vocāma ← √vac- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+śasyámāneṣu ← √śaṁs- (root)  
+{case:LOC, gender:M, number:PL, tense:PRS, voice:PASS}
+
+ukthéṣu ← ukthá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+páśyāt ← √paś- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+úttare ← úttara- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yugé ← yugá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +178,4 @@ Der Götter Ursprung wollen wir verkünden mit Bewunderung In Sprüchen nun, ges
 В виде произносимых гимнов –  
 Чтобы увидели (это) в будущем поколении.
 </details>
+

@@ -15,14 +15,51 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+ādityaíḥ ← ādityá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sajū́s ← sajū́s (invariable)  
+{}
+
+vásubhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sajū́s ← sajū́s (invariable)  
+{}
+
+vāyúnā ← vāyú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+atrivát ← atrivát (invariable)  
+{}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+raṇa ← √ranⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ Mit den Aditja's im Verein, mit Vasu's, Indra, Vaju auch Komm, Agni, wie zum Atr
 В согласии с Индрой, Ваю  
 Приходи, о Агни, веселись у выжатого (сомы), как у Атри!
 </details>
+

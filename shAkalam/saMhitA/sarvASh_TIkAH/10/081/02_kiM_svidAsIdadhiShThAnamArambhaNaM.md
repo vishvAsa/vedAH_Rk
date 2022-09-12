@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+adhiṣṭhā́nam ← adhiṣṭhā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+svit ← svit (invariable)  
+{}
+
+ārámbhaṇam ← ārámbhaṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+katamát ← katamá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+svit ← svit (invariable)  
+{}
+
+bhū́mim ← bhū́mi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+janáyan ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+viśvákarmā ← viśvákarman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yátas ← yátas (invariable)  
+{}
+
+aúrṇot ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+viśvácakṣāḥ ← viśvácakṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Was war der Standort, was der feste Haltpunkt, an welchem Orte war's, auf welche
 Благодаря чему Вишвакарман, порождая землю,  
 Открыл небо (своим) величием, (этот) все охватывающий взглядом?
 </details>
+

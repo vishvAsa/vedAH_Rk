@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+vr̥ṣasavā́saḥ ← vr̥ṣasavá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+bahulā́ntāsaḥ ← bahulā́nta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tīvrā́ḥ ← tīvrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áha ← áha (invariable)  
+{}
+
+dāmā́nam ← dāmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+yaṁsat ← √yam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vahati ← √vah- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ In dessen Bauch des Stiers Ergüsse drangen, die scharfen Soma's mit der starken
 Щедрый пусть никогда не сдерживает дарения!  
 Много желанного он привозит выжимающему (сому).
 </details>
+

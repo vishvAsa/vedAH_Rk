@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+agāḥ ← √gā- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+bhavāsi ← √bhū- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+avayātā́ ← avayātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+daívyasya ← daívya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+hárasaḥ ← háras- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+juṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+dhúram ← dhúr- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+r̥dhyāḥ ← √r̥dh- (root)  
+{number:SG, person:2, mood:OPT, tense:AOR, voice:ACT}
+
+śraúṣṭī ← śraúṣṭi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Du tratest ein bei mir, so sei mir heilvoll, und nimm hinweg von mir den Zorn de
 О сок сомы, радуясь дружбе Индры,  
 Пусть последуешь ты за богатствами, как послушная (лошадь) – за дышлом.
 </details>
+

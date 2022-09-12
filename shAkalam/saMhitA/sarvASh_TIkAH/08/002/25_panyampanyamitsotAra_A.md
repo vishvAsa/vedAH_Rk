@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ít ← ít (invariable)  
+{}
+
+pányam-panyam ← pánya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sotāraḥ ← sotár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhāvata ← √dhāv- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mádyāya ← mádya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śū́rāya ← śū́ra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vīrā́ya ← vīrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +139,4 @@ Schönen, schönen Trank, o Presser, füllet ein dem starken Helden, Soma ihm zu
 Самого удивительного сому  
 Для любящего опьянение отважного героя!
 </details>
+

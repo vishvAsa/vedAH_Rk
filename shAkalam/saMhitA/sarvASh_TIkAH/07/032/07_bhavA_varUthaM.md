@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghónām ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+várūtham ← várūtha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samájāsi ← √aj- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+śárdhataḥ ← √śardh- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhajemahi ← √bhaj- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
+tvā́hatasya ← tvā́hata- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+védanam ← védana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dūṇā́śaḥ ← dūṇā́śa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gáyam ← gáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +192,4 @@ Sei, mächt'ger, du ein starker Schirm der Mächtigen, dass du den Feind zu Paar
 Мы хотим разделить меж собой имущество врага, тобой убитого!  
 Принеси нам дом недоступного (врага)!
 </details>
+

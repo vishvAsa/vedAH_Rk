@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ádhvanīt ← √dhvanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+manyúḥ ← manyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+parvaśás ← parvaśás (invariable)  
+{}
+
+ruján ← √ruj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aírayat ← √īr- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +155,4 @@ Als Indra seine Wuth gekühlt, da Vritra er in Stücke riss, Da trieb die Fluten
 Он разломал Вритру по суставам  
 (И) погнал воды течь к морю.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+bhúvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+cétanam ← cétana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+jagr̥bhriré ← √gr̥bhⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ī́ḍyam ← ī́ḍya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártāsaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +196,4 @@ Wann wurde nach der Ordnung dir, o Agni, Gottes-Herrlichkeit? Da war's, als in d
 Ведь потому и захватили тебя  
 Смертные как достойного призывов среди племен.
 </details>
+

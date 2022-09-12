@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vipanyúbhiḥ ← vipanyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+r̥tāyúbhiḥ ← r̥tāyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥jyate ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+vā́jāya ← vā́ja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +137,4 @@ Gestriegelt wird der rieselnde von frommen Sängern dieser Gott, Zum Wettlauf al
 Начищается, золотистый, для награды  
 Прославителями, преданными закону.
 </details>
+

@@ -15,13 +15,32 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádābhyam ← ádābhya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvárūpam ← viśvárūpa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váreṇyam ← váreṇya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

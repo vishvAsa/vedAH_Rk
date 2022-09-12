@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+jánāḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+purás ← purás (invariable)  
+{}
+
+sumnā́ya ← sumná- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+vā́jaśravasam ← vā́jaśravas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ktábarhiṣaḥ ← vr̥ktábarhis- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+surúcam ← surúc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvádevyam ← viśvádevya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yatásrucaḥ ← yatásruc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+apásām ← apás- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rudrám ← rudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sā́dhadiṣṭim ← sā́dhadiṣṭi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñā́nām ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +216,4 @@ Den Agni stellten sich zum Heil die Menschen an, die Schalen reichend und die St
 Протянувшие жертвенную ложку, (его), принадлежащего всем богам,  
 Рудру жертв, лучше всех приводящего к цели жертву деятельных (жрецов).
 </details>
+

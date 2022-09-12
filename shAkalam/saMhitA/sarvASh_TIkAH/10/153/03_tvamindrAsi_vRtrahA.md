@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+atiraḥ ← √tr̥̄- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+astabhnāḥ ← √stambhⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +154,4 @@ Du bist es, der den Vritra schlug, die Luft durchdrangst, o Indra, du; Den Himme
 Ты расширил воздушное пространство,  
 Ты укрепил вверху небо (своею) силой.
 </details>
+

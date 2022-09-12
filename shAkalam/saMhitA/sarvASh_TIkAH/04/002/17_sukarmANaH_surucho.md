@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devayántaḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sukármāṇaḥ ← sukárman- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+surúcaḥ ← surúc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áyaḥ ← áyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhámantaḥ ← √dhamⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+jánima ← jániman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śucántaḥ ← √śuc- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:ACT}
+
+vavr̥dhántaḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:PL, voice:ACT}
+
+agman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gávyam ← gávya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pariṣádantaḥ ← √sad- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:ACT}
+
+ūrvám ← ūrvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +224,4 @@ Die lichten Götter, kunstreich, Götter liebend, durch Blasen zeugend ihn, sowi
 Зажигающие огонь, укрепляющие Индру,  
 Окружающие загон с коровами, пришли они.
 </details>
+

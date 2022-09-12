@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámartyā ← ámartya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhāhi ← √bhā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+devi ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+candrárathā ← candráratha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+īráyantī ← √īr- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+sūnŕ̥tāḥ ← sūnŕ̥ta- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suyámāsaḥ ← suyáma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vahantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+híraṇyavarṇām ← híraṇyavarṇa- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pr̥thupā́jasaḥ ← pr̥thupā́jas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ Erstrahl', o Göttin, ew'ge Morgenröthe mit Strahlenwagen, Lobgesänge weckend,
 Да привезут тебя легко управляемые кони,  
 Широкогрудые, (тебя,) цвета золота!
 </details>
+

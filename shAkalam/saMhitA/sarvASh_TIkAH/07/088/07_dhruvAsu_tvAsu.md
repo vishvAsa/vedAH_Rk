@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+āsú ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+dhruvā́su ← dhruvá- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+kṣitíṣu ← kṣití- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+kṣiyántaḥ ← √kṣi- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+mumocat ← √muc- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+pā́śam ← pā́śa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+áditeḥ ← áditi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+upásthāt ← upástha- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vanvānā́ḥ ← √vanⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Die wir in deinen festen Sitzen wohnen und Schutz empfangen aus des Himmels Scho
 Получая помощь из лона Адити!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
+

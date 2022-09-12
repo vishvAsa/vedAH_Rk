@@ -15,13 +15,47 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitramahaḥ ← mitrámahas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+syā́m ← √as- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+āhuta ← √hu- (root)  
+{case:VOC, gender:M, number:SG, non-finite:PPP}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +165,4 @@ Wenn sterblich du, o Agni, wärst, und ich, o freundereicher, ein Unsterblicher,
 (А) я стал бы бессмертным, о (ты) великий, как Митра,  
 О сын силы, политый (жиром),
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+amājúraḥ ← amājúr- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yathā ← yathā (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mūrā́saḥ ← mūrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tvā́vataḥ ← tvā́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sácā ← sácā (invariable)  
+{}
+
+sadāma ← √sad- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Lasst nicht wie Stubenhocker uns, wie Blöde nicht in deiner Freundschaft, Indra
 В обществе такого, как ты, О Индра,  
 Отупелые, как старые девы!
 </details>
+

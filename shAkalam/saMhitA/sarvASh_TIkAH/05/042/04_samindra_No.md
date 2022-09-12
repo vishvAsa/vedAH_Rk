@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+neṣi ← √nī- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+sūríbhiḥ ← sūrí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+deváhitam ← deváhita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+sumatyā́ ← sumatí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yajñíyānām ← yajñíya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +242,4 @@ Beschenk uns, Indra, holden Sinns mit Rindern, mit reichen Gebern und mit Heil, 
 Со священным словом, которое установлено богами,  
 С милостью богов, достойных жертв!
 </details>
+

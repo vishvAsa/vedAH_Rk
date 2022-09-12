@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.;; repeated line
+#### Morph
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tasthivā́ṁsam ← √sthā- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+avidat ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jaritā́ram ← jaritár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tŕ̥ṣṇā ← tŕ̥ṣṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mr̥ḷá ← √mr̥ḍ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mr̥ḷáya ← √mr̥ḍ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sukṣatra ← sukṣatrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +149,4 @@ Ob stehend in des Wassers Flut, ergriff den Sänger dennoch Durst, Sei gnädig, 
 Стоящего посреди вод.  
 Прости, о добрый повелитель, помилуй!
 </details>
+

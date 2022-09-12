@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dadhāte ← √dhā- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+māyínī ← māyín- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+r̥tāyínī ← r̥tāyín- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sám ← sám (invariable)  
+{}
+
+jajñatuḥ ← √janⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mitvā́ ← √mā- 1 (root)  
+{}
+
+śíśum ← śíśu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vardháyantī ← √vr̥dh- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+
+cárataḥ ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dhruvásya ← dhruvá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nā́bhim ← nā́bhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+kavéḥ ← kaví- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tántum ← tántu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viyántaḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Das weise, heil'ge Mütterpaar empfing ihn als Frucht und formte, zeugte ihn und
 Пуп всего: движущегося и твердостоящего,  
 (Боги,) пересекающие мыслью нить даже у поэта.
 </details>
+

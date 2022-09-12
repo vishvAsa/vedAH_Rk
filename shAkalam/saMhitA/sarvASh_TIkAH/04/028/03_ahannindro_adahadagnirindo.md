@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádahat ← √dah- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áhan ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhī́ke ← abhī́ka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+madhyáṁdināt ← madhyáṁdina- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+purā́ ← purā́ (invariable)  
+{}
+
+durgé ← durgá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yātā́m ← √yā- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+barhīt ← √br̥h- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śárvā ← śáru- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Indra erschlug und Agni brannte nieder, o Indu, vor der Mittagszeit die Geister,
 Много тысяч идущих словно по (своей) воле  
 В обитель, куда отправляются неохотно, он уложил выстрелом.
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ávidhat ← √vidh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+mr̥ṣyate ← √mr̥ṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vindate ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +163,4 @@ Wer ihm mit Opfer huldiget, den lässt auch Puschan nicht im Stich, Zuerst erlan
 Того Пушан не забывает:  
 Первым тот находит добро.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sapráthāḥ ← sapráthas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+júṣṭaḥ ← júṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váreṇyaḥ ← váreṇya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tanvate ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +162,4 @@ Weit ausgedehnt bist Agni du, ein lieber, schöner Opferer, Durch dich vollführ
 Довольный, избранный хотар.  
 Благодаря тебе (люди) протягивают жертву.
 </details>
+

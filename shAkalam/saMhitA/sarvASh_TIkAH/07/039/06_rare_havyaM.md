@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+raré ← √rā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+yajñíyānām ← yajñíya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ásinvan ← ásinvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mártyānām ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nákṣat ← √nakṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+avidasyám ← avidasyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhā́ta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sadāsā́m ← sadāsā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+sakṣīmáhi ← √sac- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+yújyebhiḥ ← yújya- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Gebracht ist Opfer nach der Götter Willen; der Menschen Wunsch erfüllt vom nim
 Даруйте богатство, неистощимое, всегда обильное!  
 Поистине, мы хотим быть вместе со связанными (с нами) богами!
 </details>
+

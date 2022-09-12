@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+akrata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+krīḷáyaḥ ← krīḷí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tudántaḥ ← √tud- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+muñca ← √muc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+suṣuvúṣaḥ ← √su- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ádrayaḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cā́yamānāḥ ← √ci- 3 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+vartantām ← √vr̥t- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Beim Opfersafte haben lustig sie geschrien, die Mutter stossend wie beim Spiel d
 
 -ru-
 </details>
+

@@ -16,14 +16,51 @@ ChandaH = "पदपङ्क्तिः उष्णिग्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sma ← sma (invariable)  
+{}
+
+dvéṣaḥ ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sánemi ← sánemi- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+inóṣi ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+mártāt ← márta- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+r̥tāvaḥ ← ŕ̥tāvan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yájamānāt ← √yaj- (root)  
+{case:ABL, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +179,4 @@ Denn alle Feindschaft, – die je erwiesen, – vertreibst du, Agni Vom Sterblic
 Ты полностью прогоняешь его от смертного,  
 Который так приносит жертвы, о (бог,) поддерживающий закон.
 </details>
+

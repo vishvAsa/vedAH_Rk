@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+didŕ̥kṣu ← didŕ̥kṣu- (nominal stem)  
+{case:ACC, gender:N, number:SG, mood:DES}
+
+énaḥ ← énas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥ché ← √praś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cikitúṣaḥ ← √cit- (root)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:ACT}
+
+emi ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+vipŕ̥cham ← √praś- (root)  
+{case:ACC, number:SG}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+samānám ← samāná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+hr̥ṇīte ← √hr̥̄- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +230,4 @@ Ich frag', die Schuld, o Varuna, erspähend; ich gehe hin, die kundigen zu frage
 Одно и то же сказали мне мудрецы:  
 Ведь этот Варуна гневается на тебя.
 </details>
+

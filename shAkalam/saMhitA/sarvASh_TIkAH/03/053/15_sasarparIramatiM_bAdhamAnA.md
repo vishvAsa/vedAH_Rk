@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámatim ← ámati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bā́dhamānā ← √bādhⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+sasarparī́ḥ ← sasarparī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jamádagnidattā ← jamádagnidatta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mimāya ← √mā- 2 ~ mī- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+duhitā́ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tatāna ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ajuryám ← ajuryá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

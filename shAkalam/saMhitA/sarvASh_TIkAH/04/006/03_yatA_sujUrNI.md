@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ghr̥tā́cī ← ghr̥tā́ñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rātínī ← rātín- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sujūrṇíḥ ← sujūrṇí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yatā́ ← √yam- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+devátātim ← devátāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pradakṣiṇít ← pradakṣiṇít (invariable)  
+{}
+
+urāṇáḥ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+akráḥ ← akrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+navajā́ḥ ← navajā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sváruḥ ← sváru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+anakti ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+paśváḥ ← paśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+súdhitaḥ ← súdhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sumékaḥ ← suméka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Gereicht ist schon der heisse Butterlöffel, nach rechts läuft um des Gottesdie
 Прямо (стоит) столб, словно новорожденный конь (?).  
 Хорошо поставленный, хорошо укрепленный, он мажет скот (жертвенным маслом).
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+gávāśiraḥ ← gávāśir- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śukrásya ← śukrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índravāyū ← indra-vāyú- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+niyútvataḥ ← niyútvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+píbatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +129,7 @@ could be captured by an adjacent or nearby word in another case -- niyútvataḥ
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/041/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/041/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 This tṛca is characterized by lexical chaining. The first pāda of vs. 2 reprises niyútvān from 1c, vāyo from (accented) vā́yo (1a), and ā́gahi (1b). Vs. 3 is less closely tied to what precedes, but śukrá- ‘clear’, which characterizes the first drink of soma, offered to Vāyu, is repeated in 3a from 2b, and niyútvant- also recurs from 1c and 2a. The impv. píbatam (3c) picks up (sóma-)pītaye from 1c. More subtly, ā́yātam repeats the preverb of ā́gahi (1b, 2a) and also echoes the unrelated verb ayāmi of 2b.
@@ -132,3 +160,4 @@ Von diesem milchgemischten trinkt, dem reinen, vielbespannten heut, O Männer In
 Смешанного с молоком (сомы), о Индра-Ваю,  
 Правя упряжками, приезжайте, о два мужа!
 </details>
+

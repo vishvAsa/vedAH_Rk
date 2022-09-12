@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rarimá ← √rā- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+upasádya ← √sad- (root)  
+{non-finite:CVB}
+
+uttānáhastāḥ ← uttānáhasta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yájiṣṭhena ← yájiṣṭha- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yakṣi ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ásredhatā ← ásredhant- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mánmanā ← mánman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Denn wir erfüllten heute dein Begehren, die Händ' ausstreckend, demuthsvoll ve
 Пожертвуй богам самой жертвенной мыслью,  
 Безошибочным размышлением, как вдохновенный, о Агни!
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+śrávat ← √śru- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yádi ← yádi (invariable)  
+{}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sasr̥vā́ṁsaḥ ← √sr̥- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+tirás ← tirás (invariable)  
+{}
+
+mándantu ← √mand- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tugryāvŕ̥dhaḥ ← tugryāvŕ̥dh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,7 +158,7 @@ Again the uncertainty about whether Indra will pay attention to their praise giv
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/001/14-17.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/001/14-17.md">
 <details open><summary><h2>14-17 ...{Loading}...</h2></summary>
 
 Note the concentration of nominal forms of the root √stu ‘praise’ in these verses: stómam 14d, 15a, sadhástutim 16a, úpastutiḥ 16c, suṣṭutím 16d. The appearance of sómam in 17a signals a sort of ring-composition by variant, echoing the two forms of stómam in successive pādas of 14 and 15.
@@ -150,3 +190,4 @@ Wenn Indra meinen Sang vernimmt, so mögen meine Tränke ihn Erfreun, die scharf
 Бурно текущие через цедилку, быстрые,  
 Пусть опьянят Индру, (эти) подкрепители сына Тугры.
 </details>
+

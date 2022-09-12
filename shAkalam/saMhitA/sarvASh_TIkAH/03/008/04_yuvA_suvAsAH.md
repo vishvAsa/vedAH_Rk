@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+párivītaḥ ← √vyā- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+suvā́sāḥ ← suvā́sas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yúvā ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jā́yamānaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śréyān ← śréyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+dhī́rāsaḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nayanti ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+devayántaḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+svādhyàḥ ← svādhī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +230,4 @@ Der Jüngling kam umhüllet, schöngekleidet, von der Geburt an wird er immer sc
 Его поднимают мудрые поэты,  
 Полные добрых намерений, мыслью стремящиеся к богам.
 </details>
+

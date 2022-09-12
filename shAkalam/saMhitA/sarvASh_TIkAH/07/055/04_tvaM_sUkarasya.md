@@ -17,15 +17,61 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D;; repeated line  
 genre D;; repeated line  
 genre D;; repeated line
+#### Morph
+dardr̥hi ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sūkarásya ← sūkará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+dardartu ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sūkaráḥ ← sūkará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rāyasi ← √rā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+stotr̥̄́n ← stotár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+duchunāyase ← √duchunāy- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+svapa ← √svap- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Den wilden Eber packe an, der Eber stürze sich auf dich; Was bellst du Indra's 
 Ты лаешь на певцов Индры.  
 Что ты нам угрожаешь? Крепко усни!
 </details>
+

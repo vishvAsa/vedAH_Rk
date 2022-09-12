@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+purástāt ← purástāt (invariable)  
+{}
+
+purutámam ← purutáma- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+támasaḥ ← támas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+vayúnāvat ← vayúnāvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitáraḥ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+nūnám ← nūnám (invariable)  
+{}
+
+vibhātī́ḥ ← √bhā- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kr̥ṇavan ← √kr̥- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Dies Licht erhob sich, das sich stets erneuet, mit hellem Schein im Osten aus de
 Пусть сейчас дочери неба, ярко сверкая,  
 Создадут путь для людей!
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aṁśávaḥ ← aṁśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́pītāsaḥ ← √pā- 2 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+duhré ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ū́dhabhiḥ ← ū́dhar- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ánūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+vā ← vā (invariable)  
+{}
+
+vā́ṇīḥ ← vā́ṇī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+devayántaḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +183,4 @@ Wenn das durchtränkte Somakraut aus Eutern man wie Kühe melkt, Wenn Chorgesang
 Или когда ликуя прозвучали голоса,  
 (Люди,) преданные богам, Ашвинов (выдвигают) вперед;
 </details>
+

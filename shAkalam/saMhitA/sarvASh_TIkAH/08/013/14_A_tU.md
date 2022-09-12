@@ -15,14 +15,57 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+drava ← √dru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+tú ← tú (invariable)  
+{}
+
+tú ← tú (invariable)  
+{}
+
+gómataḥ ← gómant- (nominal stem)  
+{case:GEN, number:SG}
+
+mátsva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tántum ← tántu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tanuṣva ← √tan- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vidé ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +185,4 @@ O komm doch her, o eile doch, und trink vom milchgemischten Saft; Den alten Fade
 Опьяняйся сомой, смешанным с молоком!  
 Натяни древнюю нить, как обычно!
 </details>
+

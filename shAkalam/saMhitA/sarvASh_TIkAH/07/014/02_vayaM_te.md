@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+samídhā ← samídh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+dāśema ← √dāś- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+suṣṭutī́ ← suṣṭutí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yajatra ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+adhvarasya ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+hotar ← hótar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+bhadraśoce ← bhadraśoci- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Wir huldigen, o Agni, dir mit Brennholz, verehren dich, ehrwürdiger, mit Loblie
 Мы – жиром, о хотар обряда,  
 Мы, о бог, возлиянием, о благодатнопламенный!
 </details>
+

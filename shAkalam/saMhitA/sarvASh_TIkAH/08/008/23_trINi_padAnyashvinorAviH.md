@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvínoḥ ← aśvín- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+padā́ni ← padá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+āvís ← āvís (invariable)  
+{}
+
+gúhā ← gúhā (invariable)  
+{}
+
+parás ← parás (invariable)  
+{}
+
+sā́nti ← √as- 1 (root)  
+{case:NOM, gender:N, number:PL, tense:PRS, voice:ACT}
+
+kavī́ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pátmabhiḥ ← pátman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jīvébhyaḥ ← jīvá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +190,4 @@ Drei Stätten [sind es] der Ritter, die jetzt offenbar sind, und früher verborg
 Два мудреца путями (вселенского) закона  
 (Пусть прилетают) в наши края ради живых (существ)!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́gamiṣṭhaḥ ← ā́gamiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nédiṣṭham ← nédiṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pínvamānā ← √pinv- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+síndhubhiḥ ← síndhu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mayobhúḥ ← mayobhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+óṣadhībhiḥ ← óṣadhī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+parjányaḥ ← parjánya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suhávaḥ ← suháva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suśáṁsaḥ ← suśáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Recht nah herbei mit Hülfe eile Indra, Sarasvati, anschwellend durch die Ström
 Парджанья, благодатный для нас благодаря растениям;  
 Агни, благосклонный к речи, легко призываемый, словно отец.
 </details>
+

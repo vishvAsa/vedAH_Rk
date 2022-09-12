@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+mándasva ← √mand- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sú ← sú (invariable)  
+{}
+
+svàrṇare ← svàrṇara- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śaryaṇā́vati ← śaryaṇā́vant- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+matī́ ← matí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mátsva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+vívasvataḥ ← vívasvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Erfreu dich recht, o Glanzesherr, o Indra an dem Somasee, Und an des lichten Pri
 А также, о Индра, в Шарьянавате!  
 Опьяняйся молитвой Вивасвата!
 </details>
+

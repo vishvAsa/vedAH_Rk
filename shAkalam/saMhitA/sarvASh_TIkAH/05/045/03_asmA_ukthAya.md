@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmaí ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+gárbhaḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+párvatasya ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ukthā́ya ← ukthá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+janúṣe ← janúṣ- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mahī́nām ← máh- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+pūrvyā́ya ← pūrvyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jíhīta ← √hā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+párvataḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sā́dhata ← √sādh- ~ sidh- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+āvívāsantaḥ ← √vanⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT, mood:DES}
+
+bhū́ma ← bhū́man- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dasayanta ← √das- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +198,4 @@ Für diesen Spruch eröffne sich des Berges, der grossen Fluten Schooss dem alte
 Гора растворилась, небо достигло цели.  
 Стремящиеся заманить (Ангирасы) сделали землю податливой.
 </details>
+

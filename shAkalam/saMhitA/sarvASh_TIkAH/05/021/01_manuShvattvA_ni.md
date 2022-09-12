@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+dhīmahi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+manuṣvát ← manuṣvát (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+idhīmahi ← √idh- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+manuṣvát ← manuṣvát (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+aṅgiraḥ ← áṅgiras- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+manuṣvát ← manuṣvát (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+devayaté ← √devay- (UNK_TYPE)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yaja ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +175,4 @@ Wie Manus setzen wir dich ein, wie Manus zünden wir dich an; Wie Manus ehr', o 
 О Агни-Ангирас, подобно Ману,  
 Приноси богам жертвы для любящего богов!
 </details>
+

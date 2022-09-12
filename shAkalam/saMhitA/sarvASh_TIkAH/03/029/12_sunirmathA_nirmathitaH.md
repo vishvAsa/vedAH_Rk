@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424);; repeated line
+#### Morph
+nírmathitaḥ ← √manthⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sunirmáthā ← sunirmátha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+níhitaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sunidhā́ ← sunidhá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥ṇu ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+svadhvarā́ ← svadhvará- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+devayaté ← √devay- (UNK_TYPE)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yaja ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +174,4 @@ Schaffe als hervorgeriebener schön hervorgeriebenes Gut, schön niedergelegtes 
 О Агни, создай прекрасные обряды!  
 Принеси жертву богам для почитающего богов!
 </details>
+

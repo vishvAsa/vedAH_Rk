@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+adite ← áditi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+dyā́vābhūmī ← dyā́vābhū́mī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+trā́sīthām ← √trā- (root)  
+{number:DU, person:2, mood:OPT, tense:AOR, voice:MED}
+
+jajñúḥ ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+r̥ṣve ← r̥ṣvá- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+sujánimānaḥ ← sujániman- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yé ← yá- (pronoun)  
+{}
+
+bhūma ← √bhū- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+héḷe ← héḷa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vāyóḥ ← vāyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nr̥ṇā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+priyátamasya ← priyátama- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ O Erd' und Himmel, Aditi, heschützt uns, und die euch hehre schönerzeugend zeu
 Да не вызовем мы гнева Варуны, Ваю,  
 Ни Митры, самого любимого среди мужей!
 </details>
+

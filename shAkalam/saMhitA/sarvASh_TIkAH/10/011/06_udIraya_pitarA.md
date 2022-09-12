@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhágam ← bhága- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īraya ← √īr- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+jāráḥ ← jārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pitárā ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+út ← út (invariable)  
+{}
+
+haryatáḥ ← haryatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hr̥ttás ← hr̥ttás (invariable)  
+{}
+
+iṣyati ← √iṣ- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+íyakṣati ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+makháḥ ← makhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svapasyáte ← √svapasy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+váhniḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vívakti ← √vañc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+matī́ ← matí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+taviṣyáte ← √taviṣya- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vépate ← √vip- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Erreg' die Aeltern und als Buhle Liebesglück, der holde opfert und erquickt von
 Возглашает возница, прекрасно действует щедрый,  
 Крепчает Асура, трепещет от поэтической мысли.
 </details>
+

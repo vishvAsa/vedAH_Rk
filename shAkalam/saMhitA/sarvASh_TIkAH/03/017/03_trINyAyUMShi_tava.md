@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́yūṁṣi ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ājā́nīḥ ← ājā́ni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+yakṣi ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śám ← śám (invariable)  
+{}
+
+yájamānāya ← √yaj- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+yós ← yós (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Drei Lebensalter hast du, Wesenkenner, und drei Geburten aus der Morgenröthe; M
 Ими пожертвуй как знаток – ради помощи богов,  
 А также будь жертвователю на счастье и благо!
 </details>
+

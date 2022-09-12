@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āsa ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manyúḥ ← manyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manyúḥ ← manyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jātávedāḥ ← jātávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manyúḥ ← manyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mā́nuṣīḥ ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+manyúm ← manyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+manyo ← manyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tápasā ← tápas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +221,4 @@ Von je ist Manju Indra, Manju Gott auch, er Varuna, er Priester, Wesenkenner; De
 
 -ru-
 </details>
+

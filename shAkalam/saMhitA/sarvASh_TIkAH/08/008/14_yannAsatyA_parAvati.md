@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+parāváti ← parāvát- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ámbare ← ámbara- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+stháḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+átas ← átas (invariable)  
+{}
+
+sahásranirṇijā ← sahásranirṇij- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +180,4 @@ Wenn in der Ferne ihr verweilt, wenn in der Nähe, treue ihr, Von da, o Ritter, 
 Оттуда приезжайте, о Ашвины,  
 На тысячецветной колеснице!
 </details>
+

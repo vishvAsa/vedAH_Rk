@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+gíram ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+ava ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vājayántīm ← √vājay- 2 (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+vadhūyúḥ ← vadhūyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yóṣaṇām ← yóṣaṇā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +157,4 @@ Nimm gnädig dies mein Loblied an, sei hold dem brünstigen Gebet, So wie der Br
 Помоги поэтической мысли, ищущей награды, –  
 Словно жаждущий женщин – молодой девицей.
 </details>
+

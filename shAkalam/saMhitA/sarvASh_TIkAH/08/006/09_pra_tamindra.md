@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naśīmahi ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+aśvínam ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gómantam ← gómant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pūrvácittaye ← pūrvácitti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +153,4 @@ Lass, Indra, uns erlangen nun an Ross und Rindern reiches Gut, Sogleich als des 
 Богатства из коров (и) из коней,  
 До(биться) священного слова, чтобы прежде всего обдумать!
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+drava ← √dru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+arvāvátaḥ ← arvāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+prábharmaṇi ← prábharman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+práti ← práti (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +142,4 @@ Auf, eile aus der Ferne her und aus der Nähe, Vritrafeind, Wenn süssen Trank w
 
 -ru-
 </details>
+

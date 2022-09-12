@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arcáyaḥ ← arcí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vrādhanta ← √vrādh- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+pátvabhiḥ ← pátvan- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+śaphā́nām ← śaphá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+bhuránta ← √bhur- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+gónām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vrajā́ ← vrajá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Sie, deine Strahlen wuchsen an, gewaltig, Agni, Rossen gleich, Die Hufe schleude
 Сотрясают загоны для коров.  
 Принеси восхвалителям жертвенную усладу!
 </details>
+

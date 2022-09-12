@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átriḥ ← átri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+avaróhan ← √ruh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+r̥bī́sam ← r̥bī́sa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ájohavīt ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+nā́dhamānā ← √nādh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+jávasā ← jávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nū́tanena ← nū́tana- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śyenásya ← śyená- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agachatam ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śáṁtamena ← śáṁtama- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +197,4 @@ Als Atri euch, zur Erdkluft niedersteigend, wie eine Gattin, Hülfe suchend anri
 Вы примчались, о Ашвины, с сиюминутной  
 Скоростью сокола, больше всех приносящей счастье.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+sumataú ← sumatí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yajñíyasya ← yajñíya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+bhadré ← bhadrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+saumanasé ← saumanasá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sutrā́mā ← sutrā́man- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svávān ← svávas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ārā́t ← ārā́t (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+dvéṣaḥ ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sanutár ← sanutár (invariable)  
+{}
+
+yuyotu ← √yu- 2 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ In seiner Gunst und seiner holden Güte, des opferwerthen, mögen fest wir bleib
 Этот прекрасный спаситель, прекрасный помощник Индра для нас  
 Еще издалека пусть прогонит ненависть далеко прочь!
 </details>
+

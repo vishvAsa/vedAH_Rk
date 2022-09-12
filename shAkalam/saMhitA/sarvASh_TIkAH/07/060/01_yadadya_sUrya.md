@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+ánāgāḥ ← ánāgas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+brávaḥ ← √brū- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+sūrya ← sū́rya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mitrā́ya ← mitrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+udyán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+váruṇāya ← váruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+adite ← áditi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+devatrā́ ← devatrā́ (invariable)  
+{}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+aryaman ← áryaman- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gr̥ṇántaḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+priyā́saḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Wenn du beim Aufgang heut uns wahrhaft schuldlos, o Sonne nennst dem Varuna und 
 Пусть будем мы (такими) перед богами, о Адити,  
 Приятными тебе, о Арьяман, когда мы воспеваем.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ebhyaḥ ← ayám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+sasarparī́ḥ ← sasarparī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tū́yam ← tū́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+kr̥ṣṭíṣu ← kr̥ṣṭí- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+pā́ñcajanyāsu ← pā́ñcajanya- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dádhānā ← √dhā- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+návyam ← návya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pakṣyā̀ ← pakṣyà- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+dadúḥ ← √dā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+palastijamadagnáyaḥ ← palastijamadagní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yā́m ← yá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ābharádvasuḥ ← ābharádvasu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+divaḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitar ← duhitár- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ucha ← √vas- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+aúchaḥ ← √vas- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+sáhīyasi ← sáhīyaṁs- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+satyáśravasi ← satyáśravas- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vāyyé ← vāyyá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+áśvasūnr̥te ← aśvasūnr̥ta- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sújāte ← sujātá- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +199,7 @@ form causes a momentary stir.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 These three vss. follow the same pattern: Dawn is urged to repeat for us now a previous action she performed in the presence of and for the benefit of a previous patron. The name Satyaśravas Vāyya appears in all three vss. (The Anukr.
@@ -156,7 +208,7 @@ attributes the hymn to Satyaśravas Ātreya, but as Geldner points out [n. 1d] h
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 Is the comparative ‘mightier’ (sáhīyas-) used to assert that Satyaśravas Vāyya is mightier than Sunītha Śaucadratha? The Pp. reads accented ví even directly before accented aúchaḥ (2b, 3c), where we might expect univerbation and loss of accent on the preverb. The Saṃhitā text is of course ambiguous.
@@ -193,3 +245,4 @@ So leuchte, Himmelstochter, uns und bring auch heute Güter her, Wie du erstrahl
 Сатьяшраваса Вайи,  
 О благородная, о щедро дающая коней!
 </details>
+

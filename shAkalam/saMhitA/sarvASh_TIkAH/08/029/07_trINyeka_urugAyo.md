@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+cakrame ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+urugāyáḥ ← urugāyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádanti ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -102,3 +127,4 @@ Der eine, weithinschreitend, that der Schritte drei, dorthin wo Götter sich erf
 Три (шага) один, далеко движущийся,  
 Прошагал (туда,) где блаженствуют боги.
 </details>
+

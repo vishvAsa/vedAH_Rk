@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+púrayasya ← púraya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+raghvī́ ← raghú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+r̥jré ← r̥jrá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+utá ← utá (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+pakvā́ ← pakvá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+peruké ← peruká- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sumīḷhé ← sumīḷhá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+hiraṇínaḥ ← hiraṇín- (nominal stem)  
+{case:ACC, number:PL}
+
+śāṇḍáḥ ← śāṇḍá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+smáddiṣṭīn ← smáddiṣṭi- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+abhiṣā́caḥ ← abhiṣác- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+r̥ṣvā́n ← r̥ṣvá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vaśā́saḥ ← vaśā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Mir wurden zu Theil zwei rothbraune, schnelle Stuten des Puraja; und vom huldrei
 Шанда дал украшенных золотом, обученных (коней).  
 Десять коров сопровождали рослых (коней).
 </details>
+

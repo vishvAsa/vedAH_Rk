@@ -18,16 +18,68 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+āsate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+hr̥dispŕ̥śaḥ ← hr̥dispŕ̥ś- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dhā́masu ← dhā́man- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśveṣu ← víśva- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ádha ← ádha (invariable)  
+{}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+kā́māḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+tiṣṭhante ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+vasūyávaḥ ← vasūyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+vívakṣase ← √vac- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ An allen Orten sitzen sie, o Soma, rührend dir das Herz; So breiten Gut begehre
 Распространяются, устремляясь к благам –  
 В опьянении (сомой) я хочу вам (это) провозгласить!
 </details>
+

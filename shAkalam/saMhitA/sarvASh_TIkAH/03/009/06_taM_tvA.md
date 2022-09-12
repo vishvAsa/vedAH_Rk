@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agr̥bhṇata ← √gr̥bhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+mártāḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+havyavāhana ← havyavā́hana- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+abhipā́si ← √pā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mānuṣa ← mā́nuṣa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yajñā́n ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+yaviṣṭhya ← yáviṣṭhya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +194,4 @@ Die Sterblichen ergriffen dich, der du den Göttern Tränke fährst, Weil alle O
 Чтобы ты надзирал за всеми жертвами, о близкий человеку,  
 Благодаря твоей силе духа, о самый юный.
 </details>
+

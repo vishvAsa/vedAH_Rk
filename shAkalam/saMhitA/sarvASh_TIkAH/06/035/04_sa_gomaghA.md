@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvaścandrāḥ ← áśvaścandra- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+gómaghāḥ ← gómagha- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jaritré ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pŕ̥kṣaḥ ← pŕ̥kṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vā́jaśravasaḥ ← vā́jaśravas- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pīpihí ← √pī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+sudúghām ← sudúgha- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bharádvājeṣu ← bharádvāja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+rurucyāḥ ← √ruc- (root)  
+{number:SG, person:2, mood:OPT, tense:PRF, voice:ACT}
+
+surúcaḥ ← surúc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +226,4 @@ Gib du dem Sänger rinderreiche Nahrung, die glänzend sei an Rossen und an Sch�
 Сделай набухшими жертвенные услады, (словно) хорошо доящуюся корову!  
 Сделай, чтобы воссветил прекрасный свет среди Бхарадваджей!
 </details>
+

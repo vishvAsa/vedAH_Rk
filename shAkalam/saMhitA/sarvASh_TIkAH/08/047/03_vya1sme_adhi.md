@@ -18,16 +18,74 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pakṣā́ ← pakṣá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yantana ← √yam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+viśvavedasaḥ ← viśvávedas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+manāmahe ← √man- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+varūthyā̀ ← varūthyà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+anehásaḥ ← anehás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+suūtáyaḥ ← suūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Den Schutz verbreitet über uns, wie Vögel ihrer Flügel Paar; Ja, alles, was u
 Безошибочны ваши поддержки,  
 Хорошо поддерживают ваши поддержки.
 </details>
+

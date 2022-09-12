@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dyútam ← dyút- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pratnā́m ← pratná- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áhrayaḥ ← áhri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+duduhre ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+śukrám ← śukrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ŕ̥ṣim ← ŕ̥ṣi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahasrasā́m ← sahasrasā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -82,14 +113,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अस्य** सोमस्य **प्रत्नां** पुराणां **द्युतं** द्योतमानां तनुम् **अनु** **शुक्रं** दीप्तं **सहस्रसाम्** अभिलषितस्यापरिमितस्य दातारम् **ऋषिम्** अतीन्द्रियस्य कर्मफलस्य द्रष्टारं **पयः** पातव्यं रसम् **अह्रयः** कवयः **दुदुहे** दुहन्ति ॥
 </details>
 
-
 <details><summary>भट्टभास्करटीका</summary>
 
 अस्याग्नेः **प्रत्नां** पुरातनीं  
 **अनुद्युतम्** - अनुद्युदिति दीप्तिनाम । सम्पदादिलक्षणः क्विप् । गोस्थानीयां **दुदुह्रे** दुहन्ति । छान्दसे लिटि 'इरयो रे' इति रे आदेशः । **अह्रयः** अह्रियः अलज्जमाना ऋत्विजः । जिह्रतेः कर्तरि क्विप् । व्यत्ययेन ह्रस्वत्वम् । औणादिको वा डिप्रत्ययः । अह्नोतेर्वा क्रिन्प्रत्ययः । ज्ञातार उच्यन्ते । किं दुदुह्रे? **शुक्रं** सारं निर्मलं वा **पयः** उदकम् । दीप्तिर्विशेष्यते - **सहस्रसां** बहुनो धनस्य सनित्रीं सम्भक्त्रीं **ऋषिं** अर्षणिं दृष्टिम् । सनोतेः 'जनसनखन' इति विट्, 'विड्वनोः' इत्यात्वम् ।  
 तस्माद् वयम् अप्य् अनेनोपस्थानेन तां दुह्म इति ॥
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -124,7 +153,6 @@ The bold ones have drawn the white milk
 From the seer who winneth a thousand.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Seinem altbekannten Glanze gemäß haben die nicht Schüchternen aus dem tausendgewinnenden Rishi die helle Milch herausgemolken.
@@ -141,3 +169,4 @@ Nachfolgend seinem alten Glanz, entziehn die Kecken hellen Trank Dem Sänger, de
 Дерзкие надоили сверкающего  
 Молока, (подоив) риши, добывающего тысячи.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+pári ← pári (invariable)  
+{}
+
+pā́rthivam ← pā́rthiva- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tú ← tú (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dhármabhiḥ ← dhárman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+divyā́ ← divyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vicakṣaṇa ← vicakṣaṇá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víprāsaḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+hinvanti ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śubhrám ← śubhrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +186,7 @@ their thoughts and insights.
 Notice the number disharmony in pā́rthivaṃ rájo, divyā́ca “the earthly realm and the heavenly (ones).”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/23-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/23-24.md">
 <details open><summary><h2>23-24 ...{Loading}...</h2></summary>
 
 Both vss. contain the impv. pávasva (/ pavasva), and the mention of the sea in 23 is balanced by the earthly and heavenly realms in 24. Still, little evidence of cohesion.
@@ -166,3 +218,4 @@ Umriesle hell, o Soma du, nach deinem Brauch der Erde und des Himmels Raum, Dich
 Вдохновенные (поэты) поторапливают тебя,  
 Сверкающего, о смотрящий далеко, (своими) произведениями и (молитвами).
 </details>
+

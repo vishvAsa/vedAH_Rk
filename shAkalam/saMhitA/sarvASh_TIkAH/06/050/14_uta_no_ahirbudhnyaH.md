@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhiḥ ← áhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+budhnyàḥ ← budhnyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śr̥ṇotu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+ajáḥ ← ajá- 2 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékapāt ← ékapad- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+samudráḥ ← samudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+huvānā́ḥ ← √hū- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+r̥tāvŕ̥dhaḥ ← r̥tāvŕ̥dh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+avantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+kaviśastā́ḥ ← kaviśastá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mántrāḥ ← mántra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+stutā́ḥ ← √stu- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Und der Wetterdrache höre uns, der einfüssige Treiber [der Wirbelwind, vgl. 22
 Все боги, усиленные законом, призванные,  
 Прославленные, тайные слова, произнесенные поэтами, пусть помогут нам!
 </details>
+

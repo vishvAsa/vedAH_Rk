@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sūríbhyaḥ ← sūrí- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+vasutvanám ← vasutvaná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+gómataḥ ← gómant- (nominal stem)  
+{}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+codayitrī́ ← codayitrī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+maghónaḥ ← maghávan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sūnŕ̥tāvatī ← sūnŕ̥tāvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+srídhaḥ ← srídh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+uchat ← √vas- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +190,4 @@ Gib Ruhm den Fürsten, unvergänglichen Besitz, und rinderreiche Habe uns, Du re
 Поощрительница щедрых покровителей, богатая дарами  
 Ушас пусть засветит прочь неудачи!
 </details>
+

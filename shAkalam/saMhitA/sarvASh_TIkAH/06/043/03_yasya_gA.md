@@ -15,13 +15,56 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; 12 = 8+4;; repeated line
+#### Morph
+antár ← antár (invariable)  
+{}
+
+áśmanaḥ ← áśman- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+avā́sr̥jaḥ ← √sr̥j- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dr̥ḷhā́ḥ ← √dr̥h- (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +163,7 @@ here is that soma, Indra, pressed for you. Drink!
 This vs. subtly undermines the autonomous power of Indra. In the refrain of all three vss. Indra is addressed as svadhāpate ‘lord of independent power’, but here in the first hemistich Indra is said to be like (ná) “one grown strong by (his own) power,” like “one overpowering by his own forms of help” (svā́bhir ūtíbhih). In other words the power that appears to be Indra’s own (svá-) is really produced for him by soma.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 In the refrain of pādas cd, the position of sá and of the unaccented elements indra te strongly suggests that the clause begins in the middle of c -- or rather that sómaḥ sutáḥ has been extraclausally topicalized. Although in vss. 1-2 this nom. phrase could belong to the rel. clause of ab, that prospect is foreclosed in vs. 3, because soma is represented in the rel. cl. of 3ab by the instr. yéna.
@@ -157,3 +200,4 @@ In dessen Rausch die Kühe du befreitest, die der Fels urnschloss, Der Soma ist 
 Коров, крепко запертых в скале,  
 Этот самый сома, о Индра, выжат для тебя. Пей!
 </details>
+

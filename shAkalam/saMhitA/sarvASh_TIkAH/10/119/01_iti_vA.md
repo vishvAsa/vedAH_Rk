@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+íti ← íti (invariable)  
+{}
+
+íti ← íti (invariable)  
+{}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+vaí ← vaí (invariable)  
+{}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+íti ← íti (invariable)  
+{}
+
+sanuyām ← √sanⁱ- (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+ápām ← √pā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+kuvít ← kuvít (invariable)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +175,4 @@ Hierhin und dorthin steht mein Sinn, geb' ich ein Ross? geb' ich ein Rind? Hat m
 Я хотел бы добыть быка (и) коня –  
 Не напился ли я сомы?
 </details>
+

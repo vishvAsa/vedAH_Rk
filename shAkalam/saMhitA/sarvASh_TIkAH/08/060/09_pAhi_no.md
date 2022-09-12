@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ékayā ← éka- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dvitī́yayā ← dvitī́ya- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tisŕ̥bhiḥ ← trí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ūrjām ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+catasŕ̥bhiḥ ← catúr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

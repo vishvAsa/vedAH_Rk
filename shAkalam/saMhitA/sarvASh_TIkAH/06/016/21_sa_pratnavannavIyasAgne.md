@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+návīyasā ← návīyaṁs- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pratnavát ← pratnavát (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dyumnéna ← dyumná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+saṁyátā ← saṁyát- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+bhānúnā ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tatantha ← √tan- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +149,4 @@ Nach alter Art mit neuem Glanz in stetem Wachsthum dehnst du weit Dich, Agni, au
 (Со своим) новым длительным блеском,  
 (Со своим) высоким светом.
 </details>
+

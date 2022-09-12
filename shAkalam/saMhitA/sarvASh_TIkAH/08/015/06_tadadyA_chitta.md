@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; 12 = 8+4
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ukthínaḥ ← ukthín- (nominal stem)  
+{case:NOM, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+pūrváthā ← pūrváthā (invariable)  
+{}
+
+stuvanti ← √stu- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+jaya ← √ji- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vŕ̥ṣapatnīḥ ← vŕ̥ṣapatnī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +173,4 @@ Das rühmen deine Sänger hier auch heute wie in alter Zeit, Erkämpf die Stier-
 Продолжают прославлять, как прежде:  
 Каждый день завоевывай воды – жен быка!
 </details>
+

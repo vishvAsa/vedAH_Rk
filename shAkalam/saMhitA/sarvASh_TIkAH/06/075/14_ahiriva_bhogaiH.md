@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+áhiḥ ← áhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bāhúm ← bāhú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhogaíḥ ← bhogá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+hetím ← hetí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jyā́yāḥ ← jyā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+paribā́dhamānaḥ ← √bādhⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+hastaghnáḥ ← hastaghná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vayúnāni ← vayúna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+pātu ← √pā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+púmāṁsam ← púmaṁs- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+púmān ← púmaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Er schlingt sich um den Arm wie eine Schlange, der Sehne Anprall um ihn her verw
 (Отражатель) удара в руку, знаток всех правил,  
 Муж, мужа пусть защитит он со всех сторон!
 </details>
+

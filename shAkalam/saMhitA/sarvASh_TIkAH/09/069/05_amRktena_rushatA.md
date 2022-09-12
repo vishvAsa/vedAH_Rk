@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámr̥ktena ← ámr̥kta- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rúśatā ← rúśant- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vā́sasā ← vā́sas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nirṇijānáḥ ← √nij- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+vyata ← √vyā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+barháṇā ← barháṇā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+kr̥ta ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+nirṇíje ← nirṇíj- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+pr̥ṣṭhám ← pr̥ṣṭhá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+camvòḥ ← camū́- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+nabhasmáyam ← nabhasmáya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+upastáraṇam ← upastáraṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +188,7 @@ Forms of the root √hṛṣ sometimes take dat. infinitives; cf. VIII.19.19 ág
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/069/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/069/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 There is considerable chaining between these two vss.: pári … avyata (4d), pári vyata (5b); niktám (4d), nirṇijānáḥ (5b), nirṇíje (5c), all referring to Soma’s clothing himself in milk. On the connections with the next hymn, see comm. ad IX.70.1.
@@ -171,3 +220,4 @@ Mit unversehrtem, glänzendem Gewand umhüllt sich schön geschmückt der golden
 (Своею) мощью он приспособил себе спину неба для украшения.  
 Подстилку, состоящую из облаков, для обеих чаш.
 </details>
+

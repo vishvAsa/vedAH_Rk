@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+aṅgiraḥ ← áṅgiras- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+samídbhiḥ ← samídh- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vardhayāmasi ← √vr̥dh- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śoca ← √śuc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yaviṣṭhya ← yáviṣṭhya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +141,4 @@ Dich, Angiras, verherrlichen mit Brennholz und mit Butter wir, Erstrahle hell, o
 Мы усиливаем, жиром.  
 Высоко разгорись, о самый юный!
 </details>
+

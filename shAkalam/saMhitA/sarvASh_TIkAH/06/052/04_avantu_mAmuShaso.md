@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+jā́yamānāḥ ← √janⁱ- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ávantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+pínvamānāḥ ← √pinv- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ávantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dhruvā́saḥ ← dhruvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+párvatāsaḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ávantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+deváhūtau ← deváhūti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +207,4 @@ Mich mögen die erstandnen Morgenröthen, Die Ströme mich, die schwellenden, be
 Да помогут мне твердые горы!  
 Да помогут мне предки для призыва богов!
 </details>
+

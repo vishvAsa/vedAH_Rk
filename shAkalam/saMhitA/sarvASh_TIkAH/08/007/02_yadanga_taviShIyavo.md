@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+aṅgá ← aṅgá (invariable)  
+{}
+
+taviṣīyavaḥ ← taviṣīyú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ácidhvam ← √ci- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:MED}
+
+śubhrāḥ ← śubhrá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yā́mam ← yā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ahāsata ← √hā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+párvatāḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -98,7 +126,7 @@ the mountains have bent down.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/01-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
 Note recycling of vocab. -- íṣam 1, 3; párvata- 1, 2, 4; yā́mam 2, 4; vip/vep 1, 4; vāyúbhiḥ 3, 4.
@@ -134,3 +162,4 @@ Als ihr o starke, glänzende, nun eure Reise unternahmt, Da neigten sich die Ber
 Вы задумали поход, о прекрасные,  
 (То) горы склонились (перед вами).
 </details>
+

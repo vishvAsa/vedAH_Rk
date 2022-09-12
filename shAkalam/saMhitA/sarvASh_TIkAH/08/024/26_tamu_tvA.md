@@ -15,13 +15,56 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+nūnám ← nūnám (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+daṁsiṣṭha ← dáṁsiṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+návyam ← návya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sányase ← sányaṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+abhímātīḥ ← abhímāti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sakṣáṇiḥ ← sakṣáṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +182,4 @@ Darum begehren wir von dir zum alten neues, herrlicher, Sei du Vertilger aller W
 (Что) ново даже для старого, о чудеснейший:  
 (Стань) ты победителем всех наших преследователей!
 </details>
+

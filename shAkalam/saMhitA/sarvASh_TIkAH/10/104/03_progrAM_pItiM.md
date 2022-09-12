@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iyarmi ← √r̥- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+pītím ← pītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+satyā́m ← satyá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ugrā́m ← ugrá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+haryaśva ← háryaśva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prayaí ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dhénābhiḥ ← dhénā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mādayasva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+śácyā ← śácī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+víśvābhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +207,4 @@ Ich sende starken, ächten Trank des Saftes, o Füchselenker, dir dem Stier zum 
 
 -ru-
 </details>
+

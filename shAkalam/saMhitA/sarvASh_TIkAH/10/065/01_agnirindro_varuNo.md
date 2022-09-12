@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sajóṣasaḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vāyúḥ ← vāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ādityā́ḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rudráḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +212,4 @@ Vereint sei'n Agni, Indra, Mitra, Varuna, Arjaman, Vaju, Puschan und Sarasvati, 
 
 -ru-
 </details>
+

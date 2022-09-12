@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+jīva ← √jīv- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+várdhamānaḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+hemantā́n ← hemantá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śatám ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+vasantā́n ← vasantá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indrāgnī́ ← indrāgní- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śatám ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+duḥ ← √dā- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+śatā́yuṣā ← śatā́yus- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Erlebe nun im Wohlsein hundert Herbste und hundert Winter, hundert frohe Lenze, 
 (Чтобы жил он) сто (осеней), пусть Индра-Агни, Савитар, Брихаспати  
 Отдадут его обратно за жертвенное возлияние, дающее сотенный срок жизни!
 </details>
+

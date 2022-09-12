@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+grā́vā ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jaritā́ ← jaritár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+āśuṣāṇáḥ ← √śvasⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+íyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+savyéna ← savyá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yáṁsi ← √yam- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+dakṣiṇít ← dakṣiṇít (invariable)  
+{}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+venaḥ ← √ven- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +231,4 @@ Zu dir erhebt, o Indra, dieser Sänger die Stimme mächtig, wie ein Pressstein s
 Левой (рукой), о щедрый, даруй богатства,  
 Правой (даруй), о повелитель буланых коней! Не отворачивайся (от нас)!
 </details>
+

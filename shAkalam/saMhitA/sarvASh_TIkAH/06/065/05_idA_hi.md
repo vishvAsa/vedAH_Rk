@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adrisāno ← adrisānu- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+idā́ ← idā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+uṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+áṅgirasaḥ ← áṅgiras- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+gotrā́ ← gotrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+gr̥ṇánti ← √gr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+arkéṇa ← arká- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+bibhiduḥ ← √bhid- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+deváhūtiḥ ← deváhūti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nr̥ṇā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+satyā́ ← satyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +218,7 @@ The hapax stauná- is, as Renou says, “ininterprétable” (which does not sto
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 For the repeated opening idā́(4a, 4b, 4c, 5a) see published introduction. The two outer exx. are both idā́hí; the two inner ones are followed by phonologically similar them. datives: 4b idā vīrā́ya / 4c idá víprāya.
@@ -195,3 +250,4 @@ Jetzt preisen, Uschas, die du thronst auf Bergen, die Angiras dir an der Kühe S
 Они раскололи (скалу) пением и священным словом.  
 Свершился призыв богов мужами.
 </details>
+

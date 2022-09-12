@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árvantaḥ ← árvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havanaśrútaḥ ← havanaśrút- (nominal stem)  
+{case:NOM, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+mitádravaḥ ← mitádru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śr̥ṇvantu ← √śru- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+medhásātau ← medhásāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sahasrasā́ḥ ← sahasrasā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dhánam ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jabhriré ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+samithéṣu ← samithá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Die raschen Renner mögen hören unsern Ruf, die Ruferhörer alle sie, die kräf
 
 -ru-
 </details>
+

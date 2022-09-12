@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+prajā́vataḥ ← prajā́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śagdhí ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+subhaga ← subhága- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā́jasya ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhū́yasā ← bhū́yaṁs- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mayobhúnā ← mayobhú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sr̥ja ← √sr̥j- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+túvidyumna ← tuvidyumná- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yáśasvatā ← yáśasvant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +191,4 @@ O reicher, schenke kinderreiche Labung uns, o Agni, starke bei dem Fest; Ergiess
 Соедини нас с еще большим богатством, приносящим радость,  
 О мощно сверкающий, (с богатством) дающим Славу!
 </details>
+

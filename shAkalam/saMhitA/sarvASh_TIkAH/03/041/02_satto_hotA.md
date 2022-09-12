@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+r̥tvíyaḥ ← r̥tvíya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sattáḥ ← √sad- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tistiré ← √str̥̄- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ádrayaḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áyujran ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:PASS}
+
+prātár ← prātár (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +150,4 @@ Schon sitzet unser Priester da, gestreut ist nach dem Rang der Sitz; Früh sind 
 Разложена по порядку жертвенная солома.  
 Рано утром запряжены давильные камни.
 </details>
+

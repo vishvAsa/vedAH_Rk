@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+nā́bhyāḥ ← nā́bhi- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+avartata ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+śīrṣṇáḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+bhū́miḥ ← bhū́mi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+díśaḥ ← díś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+padbhyā́m ← pád- (nominal stem)  
+{case:ABL, gender:M, number:DU}
+
+śrótrāt ← śrótra- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+akalpayan ← √kl̥p- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+lokā́n ← loká- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+táthā ← táthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +189,4 @@ Aus seinem Nabel ward die Luft, aus seinem Kopf entstand der Himmel, aus seinen 
 Из ног – земля, стороны света – из уха.  
 Так они устроили миры.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+kavayaḥ ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+nūnám ← nūnám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+satáḥ ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śiśīta ← √śā- ~ śī- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+amŕ̥tāya ← amŕ̥ta- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tákṣatha ← √takṣ- (root)  
+{number:PL, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+vā́śībhiḥ ← vā́śī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+gúhyāni ← gúhya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kartana ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+padā́ ← padá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vidvā́ṁsaḥ ← √vid- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+amr̥tatvám ← amr̥tatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ānaśúḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Des tücht'gen Beile machet scharf, ihr weisen, nun durch die ihr zimmernd wirkt
 Как знатоки творите тайные слова,  
 Благодаря чему боги достигли бессмертия.
 </details>
+

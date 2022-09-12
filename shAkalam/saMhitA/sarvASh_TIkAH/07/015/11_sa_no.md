@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rā́dhāṁsi ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ī́śānaḥ ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yaho ← yahú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dātu ← √dā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+vā́ryam ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +166,4 @@ So bring Geschenke uns herbei, der du's vermagst, o Sohn der Kraft, Und Bhaga ge
 (Ты,) способный (на это), о юный (сын) силы!  
 И пусть Бхага даст (нам) лучший дар!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+carṣaṇīsáham ← carṣaṇīsáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+hūmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+rā́jan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pibdanā́ ← pibdaná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vithurā́ ← vithurá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+suṣáhān ← suṣáha- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +208,4 @@ Dich rufen wir, den starken Menschenbändiger, o Götterfürst, zu Hülfe dich; 
 Всё, что у нас неустойчиво, о Васу, хорошенько сделай  
 Крепким, (а) недругов – легкоодолимыми!
 </details>
+

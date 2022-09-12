@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+vidma ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+vocata ← √vac- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+kṣéti ← √kṣi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yóniṣu ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yúvā ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuvatyā́ḥ ← yuvatí- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+priyósriyasya ← priyósriya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+retínaḥ ← retín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gamema ← √gam- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+gr̥hám ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+uśmasi ← √vaś- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +252,4 @@ Davon wissen wir nicht, das verkündet uns schön, wie der Jüngling in der Jung
 Пусть отправимся мы в дом быка, полного семени,  
 Любящего коров, о Ашвины! Этого мы хотим.
 </details>
+

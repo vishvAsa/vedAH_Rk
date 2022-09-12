@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥ṣṭimántaḥ ← r̥ṣṭimánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vidyúdrathāḥ ← vidyúdratha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ayā́saḥ ← ayā́s- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+máryāḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tájātāḥ ← r̥tájāta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śr̥ṇavan ← √śru- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yajñíyāsaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhā́ta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahávīram ← sahávīra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+turāsaḥ ← turá- 1 (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +191,4 @@ Mit lichtem Wagen, speerbewaffnet mögen des Himmels Männer, wahrhaft, unermüd
 (А также) Сарасвати – пусть слушают (все они,) достойные жертв!  
 Наделите (нас) богатством вместе с сыновьями, о могучие!
 </details>
+

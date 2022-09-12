@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+viśvā́yuḥ ← viśvā́yu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajáthāya ← yajátha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dasma ← dasmá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+praketaíḥ ← praketá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sácemahi ← √sac- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śáṁsaiḥ ← śáṁsa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+urúbhiḥ ← urú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+uruṣyá ← √uruṣy- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Gib allbelebend, Agni, uns zum Opfern, o Gott, des Himmels und der Erde Segen; W
 Да будем мы причастны к твоим проявлениям, о чудесный!  
 Создай нам безопасность, о бог, за (наши) далеко (раздающиеся) хвалы!
 </details>
+

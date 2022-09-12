@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+mithatī́ ← mithatí- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sám ← sám (invariable)  
+{}
+
+spárdhamāne ← √spr̥dh- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+śū́rasātā ← śū́rasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+tanūrúcā ← tanūrúc- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yátaite ← √yat- (root)  
+{number:DU, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+ádevayum ← ádevayu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devayúbhiḥ ← devayú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+hatam ← √han- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+jánena ← jána- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+somasútā ← somasút- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +190,4 @@ Wenn beide Reihen, wechselseitig kämpfend, in blanker Wehr zum Kampf zusammenst
 Убейте одним махом не почитающего богов при раздаче (наград)  
 С помощью почитающих богов, с помощью народа, выжимающего сому!
 </details>
+

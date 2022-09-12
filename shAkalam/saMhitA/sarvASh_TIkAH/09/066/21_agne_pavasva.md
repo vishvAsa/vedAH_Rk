@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+svápāḥ ← svápas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+várcaḥ ← várcas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+máyi ← ahám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+póṣam ← póṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,8 +140,6 @@ _____________
 हे अग्ने शोभनकर्मा त्वमसि अस्मान् शोभनानुष्ठानान् कुरु । अस्मदर्थं शोभनं वीर्यं तेजो दीप्तिं च बलं वा शोधय प्रापय । पोषं वृद्धियुक्तं रयिं धनं च मयि दधत् स्थापयन्निति ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -129,7 +158,7 @@ establishing in me wealth and thriving.
 Here, despite the obj. phrase in b, pávasva lacks the expected ā́. It would technically be possible to take b with c: “establishing luster and an abundance of heroes for/in us, wealth and thriving in me,” which would leave pavasva intransitive. However, this seems artificial, and the existence of two 1st ps. pronouns in b and c, in different numbers, would be awkward. Moreover, 27c, with an independent dádhat clause, speaks in favor of separating b and c here.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 On this tṛca see published introduction. It is so insistently Agni-focused (all three vss.
@@ -155,7 +184,6 @@ Glory in good heroes;
 Giving increase and wealth to me.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 O Agni, du der Guteswirker, läutere uns Ansehen und die Meisterschaft herbei, mir Reichtum und Zuwachs bringend!
@@ -170,3 +198,4 @@ O Agni, flamme uns herbei schönwirkend Glanz und Heldenkraft; Er schenke Gut un
 
 -ru-
 </details>
+

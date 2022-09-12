@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hántā ← br̥hánt- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+gambháreṣu ← gambhára- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+pratiṣṭhā́m ← pratiṣṭhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+gādhám ← gādhá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pā́dā ← pád- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tárate ← √tr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vidāthaḥ ← √vid- 1 (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+kárṇā ← kárṇa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śā́suḥ ← śā́sus- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+smárāthaḥ ← √smr̥- (root)  
+{number:DU, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+áṁśā ← áṁśa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ápnaḥ ← ápnas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhajatam ← √bhaj- (root)  
+{number:DU, person:1, mood:IMP, tense:PRS, voice:ACT}
+
+citrám ← citrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +228,4 @@ Wie zwei hoch hervorragende [Männer] schaffet in den Tiefen einen Standort, wie
 Как два уха, пусть внемлете вы приказу!  
 Как Анша (и Бхага), наделите нас ярким имуществом!
 </details>
+

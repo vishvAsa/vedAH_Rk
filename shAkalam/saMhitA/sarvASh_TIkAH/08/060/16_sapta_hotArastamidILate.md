@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hótāraḥ ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áhrayam ← áhraya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutyájam ← sutyáj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhinátsi ← √bhid- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tápasā ← tápas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+jánān ← jána- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+tiṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

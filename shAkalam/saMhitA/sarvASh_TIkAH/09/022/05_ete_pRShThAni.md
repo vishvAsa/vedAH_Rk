@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+pr̥ṣṭhā́ni ← pr̥ṣṭhá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ródasoḥ ← ródas- (nominal stem)  
+{case:GEN, gender:N, number:DU}
+
+ānaśuḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+viprayántaḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+uttamám ← uttamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,7 +134,7 @@ See remarks ad vs. 3.
 The part. viprayántaḥ presumably belongs to the lexeme ví-prá √i, but note that it could also be interpr. as belonging to a denom. *vipra-yá- ‘behave like [/seek] an inspired poet’, which would connect this vs. further with the poetic pervasion of vs. 3. The suggested denom. stem is not attested but could of course be easily formed, and I’m tolerably sure this pun was meant. Note vipāscítaḥ and vipā́, both in the matching vs. 3. I would now slightly alter the tr. to “going forth widely [/behaving like inspired poets].”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/022/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/022/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 More chaining: vss. 4 and 6 end with rájaḥ; the exact phrase in 5c is uttamáṃ rájaḥ, whose uttamám is then picked up in 6a and augmented with uttamā́yyam in 6c.
@@ -137,3 +168,4 @@ Vorschreitend haben sie erreicht des Himmels und der Erde Höhn Und diesen höch
 Достигли поверхности двух половин мироздания,  
 А также этого высшего пространства.
 </details>
+

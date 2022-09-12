@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́yuḥ ← ā́yu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+pāsati ← √pā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+viśvā́yuḥ ← viśvā́yu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pātu ← √pā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+prápathe ← prápatha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+purástāt ← purástāt (invariable)  
+{}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ā́sate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sukŕ̥taḥ ← sukŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+yátra ← yátra (invariable)  
+{}
+
+yayúḥ ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dadhātu ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tátra ← tátra (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +240,4 @@ Es schütze dich der Allbeleber Aju, und Puschan vor dir her auf deinem Wege, Wo
 Где сидят свершители благих деяний, куда они ушли,  
 Туда пусть поместит тебя бог Савитар.
 </details>
+

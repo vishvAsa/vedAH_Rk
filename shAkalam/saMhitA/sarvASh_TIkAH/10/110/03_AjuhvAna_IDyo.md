@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ājúhvānaḥ ← √hu- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ca ← ca (invariable)  
+{}
+
+ī́ḍyaḥ ← ī́ḍya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vándyaḥ ← vándya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásubhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yahva ← yahvá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+enān ← ena- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+iṣitáḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yájīyān ← yájīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yakṣi ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Verehrungswerth und flehenswerth, o Agni, komm her vereint den Göttern, du geru
 Ты хотар богов, о юный.  
 Приноси им жертвы, побужденный (к этому) как жертвующий лучше!
 </details>
+

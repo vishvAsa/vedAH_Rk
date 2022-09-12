@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sudŕ̥śīḥ ← sudŕ̥ś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+úparasya ← úpara- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+acodáte ← acodánt- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kakúbhām ← kakúbh- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+virócamānaḥ ← √ruc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dábhāya ← dábha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sugopā́ḥ ← sugopā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sukrato ← sukrátu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+āsa ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+māyā́bhiḥ ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+parás ← parás (invariable)  
+{}
+
+r̥té ← r̥tá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,3 +252,4 @@ Prächtig zu schaun sind die [nämlich lipas, worunter die Somasäfte verstanden
 Ты хороший страж, которого не обмануть, о (бог) с прекрасной силой духа.  
 Имя твое (всегда) было за пределами колдовских сил, в (лоне) закона.
 </details>
+

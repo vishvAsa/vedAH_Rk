@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+háste ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śaviṣṭha ← śáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmayúḥ ← asmayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhānā́nām ← dhānā́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+gr̥bhāya ← √gr̥bhⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+asmayúḥ ← asmayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dvís ← dvís (invariable)  
+{}
+
+gr̥bhāya ← √gr̥bhⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +194,4 @@ O Indra, nimm in deine Hand wie Gerstenkörner Schätze doch, Sie uns zu geben, 
 
 -ru-
 </details>
+

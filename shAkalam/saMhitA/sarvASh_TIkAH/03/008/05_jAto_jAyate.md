@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+jāyate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sudinatvé ← sudinatvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+samaryé ← samaryá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+várdhamānaḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+apásaḥ ← apás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+manīṣā́ ← manīṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+punánti ← √pū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devayā́ḥ ← devayā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +237,4 @@ Zur guten Stunde ward das Kind geboren, genähret ward es in der Festversammlung
 Мудрые, деятельные очищают (его) молитвой.  
 Отправляясь к богам, вдохновенное поднимает голос.
 </details>
+

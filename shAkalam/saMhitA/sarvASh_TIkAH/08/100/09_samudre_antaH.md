@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+antár ← antár (invariable)  
+{}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śayate ← √śī- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+abhī́vr̥taḥ ← √vr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+udnā́ ← udán- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vájraḥ ← vájra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+bháranti ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+saṁyátaḥ ← saṁyát- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+balím ← balí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puráḥprasravaṇāḥ ← puráḥprasravaṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +144,7 @@ The poet now plays another trick. The first pāda “within the sea he/it lies�
 As far as I know, this image of the submerged mace receiving tribute from the waters is found nowhere else in the Vṛtra myth complex, and seems to have been invented here for the purpose of verbal trickery.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 I take these three Anuṣṭubh verses as the singer’s performance of the recital of deeds promised in 6ab, but cast in the language of dramatic immediacy - almost “you are there” - with the singer himself as the supposed witness, addressing the waters in 7ab. Geldner (in his introduction.) also seems to assign the verses to the singer, while Oldenberg (1885: 57 n. 2) refuses to speculate.
@@ -142,3 +176,4 @@ Im Innern des Meeres liegt der Blitz von Fluten bedeckt; es bringen ihm die unun
 Несут ему дань  
 Непрерывно текущие вперед (воды).
 </details>
+

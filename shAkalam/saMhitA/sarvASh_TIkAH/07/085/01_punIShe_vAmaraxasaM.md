@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arakṣásam ← arakṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+punīṣé ← √pū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+júhvat ← √hu- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váruṇāya ← váruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+devī́m ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ghr̥tápratīkām ← ghr̥tápratīka- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+abhī́ke ← abhī́ka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+uruṣyatām ← √uruṣy- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Ich schmücke euch ein andachtsreiches Lied aus, dem Varuna und Indra Soma giess
 (Молитву,) похожую на богиню Ушас с лицом, намазанную жиром.  
 Пусть эти двое в (своем) движении создадут нам простор в решающую минуту!
 </details>
+

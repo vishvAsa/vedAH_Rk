@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+citáyantam ← √cit- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+citra ← citrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+citrám ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cítrakṣatra ← citrakṣatra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+citrátamam ← citrátama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vayodhā́m ← vayodhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+candrám ← candrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puruvī́ram ← puruvī́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cándra ← candrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+candrā́bhiḥ ← candrá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yuvasva ← √yu- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +226,4 @@ O heller, helles Gut, das hell erstrahlet, das hellstes Leben schafft, o Herr de
 Сверкающее богатство изобильное многими мужьями, высокое,  
 О сверкающий, дай певцу (своими) сверкающими (языками пламени)!
 </details>
+

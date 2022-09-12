@@ -15,13 +15,53 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+jā́nam ← jā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+āsa ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+purā́ ← purā́ (invariable)  
+{}
+
+sumnéṣu ← sumná- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+kilāsyàḥ ← kilāsá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yuyujré ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +178,4 @@ Wer ist's, der ihren Ursprung kennt? wer ist zuvor gewesen in der Maruts Huld, A
 Или кто прежде был в милости у Марутов,  
 Когда запрягали они пестрых (антилоп)?
 </details>
+

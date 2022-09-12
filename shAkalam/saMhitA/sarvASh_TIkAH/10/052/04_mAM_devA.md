@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+havyavā́ham ← havyavā́h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+ápamluktam ← √mluc- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+bahú ← bahú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kr̥chrā́ ← kr̥chrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kalpayāti ← √kl̥p- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+páñcayāmam ← páñcayāma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saptátantum ← saptátantu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+trivŕ̥tam ← trivŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +215,4 @@ Mich haben die Götter zu ihrem Opferführer bestellt, den Verschwundenen, der v
 Пусть Агни как знаток приведет нам в порядок жертву,  
 Имеющую пять путей, три слоя, семь нитей!
 </details>
+

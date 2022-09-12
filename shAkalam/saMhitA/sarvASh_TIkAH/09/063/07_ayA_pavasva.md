@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+árocayaḥ ← √ruc- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+hinvānáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+mā́nuṣīḥ ← mā́nuṣa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -94,7 +122,7 @@ It is specifically stated here that the stream of soma “made the sun shine” 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 On this tṛca see published introduction. In these vss. Soma is compared to the sun, and his ritual journey compared to the Sun’s daily journey across the sky. At the same time the purification of the soma is linked with Manu, the first sacrificer (vss. 7-8), and so the cosmic and the ritual are connected.
@@ -123,3 +151,4 @@ Mit diesem Strome riesle hell, mit dem die Sonne du entflammt, Entsendend mensch
 
 -ru-
 </details>
+

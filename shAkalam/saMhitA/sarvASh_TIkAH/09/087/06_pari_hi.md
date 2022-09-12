@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+puruhūtáḥ ← puruhūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+ásarat ← √sr̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhójanā ← bhójana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pūyámānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+práyāṁsi ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śyenabhr̥ta ← śyenabhr̥ta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+arṣa ← √arṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+túñjānaḥ ← √tuj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Denn viel gerufen von den Menschen rann er um alle Nahrung rings der hell geklä
 Струясь, окружил все наслаждения, пока (его) очищают.  
 Принеси же (нам) жертвенные услады, о принесенный орлом!
 </details>
+

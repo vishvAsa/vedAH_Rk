@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sutéṣu ← √su- (root)  
+{case:LOC, gender:M, number:PL, non-finite:PPP}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+r̥tāvr̥dhā ← r̥tāvŕ̥dh- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+stávat ← √stu- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+téṣu ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+joṣavākám ← joṣavāká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pajrahoṣiṇā ← pajrahoṣin- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vádataḥ ← √vadⁱ- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+bhasáthaḥ ← √bhas- (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+caná ← caná (invariable)  
+{}
+
+devā ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +203,4 @@ Wer, Indra-Agni, heilige, bei diesen Tränken euch besingt; Wer liebes spricht, 
 (То) у произносящего приятную речь, о два бога, получающие тучное возлияние,  
 Вы не истребляете ничего.
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hávāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+hí ← hí (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+kārávaḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sātā́ ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vā́jasya ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sátpatim ← sátpati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vr̥tréṣu ← vr̥trá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+árvataḥ ← árvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kā́ṣṭhāsu ← kā́ṣṭhā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

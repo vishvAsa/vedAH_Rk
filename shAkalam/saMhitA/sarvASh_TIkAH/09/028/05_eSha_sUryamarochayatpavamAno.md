@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+arocayat ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vícarṣaṇiḥ ← vícarṣaṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhā́māni ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+viśvavít ← viśvavíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +146,4 @@ Er zündete die Sonne an, der flammende, bewegliche, Der aller Stätten kundig i
 Солнце, (он) очень подвижный,  
 (Проникающий во) все формы, всезнающий.
 </details>
+

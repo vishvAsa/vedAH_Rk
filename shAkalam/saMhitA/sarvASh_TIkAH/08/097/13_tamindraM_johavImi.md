@@ -16,14 +16,78 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+johavīmi ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+maghávānam ← maghávan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ápratiṣkutam ← ápratiṣkuta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dádhānam ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+śávāṁsi ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+máṁhiṣṭhaḥ ← máṁhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vavártat ← √vr̥t- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+yajñíyaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇotu ← √kr̥- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+supáthā ← supátha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vajrī́ ← vajrín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +248,4 @@ Den Indra rufe ich, den mächtigen, gewaltigen, den unaufhaltsamen, der alle Kr�
 И если самый щедрый, достойный жертв обернется на песни,  
 Пусть громовержец сделает легкими все наши пути к богатству!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+jajñe ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+dvitī́yam ← dvitī́ya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jātávedāḥ ← jātávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+ájasram ← ájasra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+nr̥máṇāḥ ← nr̥máṇas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tr̥tī́yam ← tr̥tī́ya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+índhānaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+jarate ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+svādhī́ḥ ← svādhī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +172,6 @@ genre M
 अध्यर्थे परिशब्दः । दिवस्परि द्युलोकस्योपरि दिवः अधि अग्निः प्रथमं जज्ञे आदित्यात्मना अजनिष्ट । 'पञ्चम्याः परावध्यर्थे' इति विसर्जनीयस्य सत्वम्, अत एव ज्ञापकात्पञ्चमी । अस्मत् अस्मत्तः परि अस्मास्वधि द्वितीयं जज्ञे द्वितीयं जन्माकरोत् वैश्वानरात्मना । जातवेदाः जातानां भूतानां वेदिता, जातधनो वा अप्स्वन्तरिक्षे तृतीयं जज्ञे तृतीयं जन्म चकार वैद्युतात्मना । यद्वा - अप्सु सलिले और्वात्मना जज्ञे । अजस्रं सर्वदा सर्वेष्वपि जन्मसु, नृमणाः नृषु मनो यस्योपकरोमीति स नृमणाः । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम्, 'छन्दस्यृदवग्रहात्' इति णत्वम् । सर्वदा प्रजानामेवोपकारार्थं जज्ञ इति । तमेनमेवंगुणकं इन्धानः समिच्चरुपुरोडाशाद्यैस्सन्दीपयन् । इन्धी दीप्तौ, रौधादिकः, अनुदात्तेत्, 'श्नान्नलोपः' 'विभाषा वेण्विन्धानयोः' इत्याद्युतात्तत्वम् । स्वाधीः स्वा आत्मीयैव धीर्यस्य स स्वाधीः स्वकर्मनिरतः । 'अन्येषामपि दृश्यते' इति पूर्वपदस्य दीर्घत्वम्, पूर्ववदुत्तरपदाद्युदात्तत्वम् । यद्वा - स्वमात्मानं ध्यायतीति स्वाधीः आत्मनिष्ठः । 'ध्यायतेस्सम्प्रसारणं च' इति क्विप् । इन्धानः कर्मनिष्ठः, इन्धानश्च स्वाधीश्च एनं जरते स्तौति । जॄ वयोहानौ छन्दसि स्तुतिकर्मा चौरादिकः आधृषीयः, व्यत्ययेनात्मनेपदम् ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -168,3 +219,4 @@ Erzeugt zuerst ward Agni aus dem Himmel, von uns zum zweiten als der Wesenkenner
 В третий раз – в водах. Его, неослабевающего,  
 Воспевает, зажигая, тот, чья мысль мужественна, чьи намерения прекрасны.
 </details>
+

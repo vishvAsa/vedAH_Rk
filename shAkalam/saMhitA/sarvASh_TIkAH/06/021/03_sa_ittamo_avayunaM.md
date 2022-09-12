@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avayunám ← avayuná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tatanvát ← √tan- (root)  
+{case:ACC, gender:N, number:SG, tense:PRF, voice:ACT}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vayúnavat ← vayúnavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+mártāḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+íyakṣantaḥ ← √naś- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT, mood:DES}
+
+minanti ← √mī- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+svadhāvaḥ ← svadhā́vant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Die Finsterniss, die weit sich dehnte, lichtlos, die machte er hellleuchtend dur
 Никогда не нарушат смертные, желающие почитать (тебя),  
 У (тебя) бессмертного (твои) установления, о самосущий!
 </details>
+

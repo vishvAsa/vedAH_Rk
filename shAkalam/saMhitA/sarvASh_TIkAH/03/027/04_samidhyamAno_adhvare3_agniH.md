@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+samidhyámānaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ī́ḍyaḥ ← ī́ḍya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pāvakáḥ ← pāvaká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+śocíṣkeśaḥ ← śocíṣkeśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +141,4 @@ Der helle Agni wird entflammt, beim Opferfest des Preises werth, Den flammenhaar
 Агни, очищающий, достойный призывов,  
 Пламенновласый – к нему мы обращаемся.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+indrāgnī́ ← indrāgní- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mitrā́váruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+párvatān ← párvata- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+huvé ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pūṣáṇam ← pūṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víṣṇum ← víṣṇu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhágam ← bhága- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+śáṁsam ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+savitā́ram ← savitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Indragni, Mitra, Varuna und Aditi, Sonn', Erde, Himmel, Berge, Wasser, Marutscha
 Я сейчас призываю, (а также) Вишну, Пушана, Брахманаспати,  
 Бхагу, (Нара)шансу, Савитара – на помощь.
 </details>
+

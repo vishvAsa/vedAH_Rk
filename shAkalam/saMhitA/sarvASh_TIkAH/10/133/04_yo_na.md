@@ -18,16 +18,74 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+abhítas ← abhítas (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ādídeśati ← √diś- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+vr̥kāyúḥ ← vr̥kāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adhaspadám ← adhaspadá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sāsahíḥ ← sāsahí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vibādháḥ ← vibādhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyakéṣām ← anyaká- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dhánvasu ← dhánur ~ dhánvan- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+jyākā́ḥ ← jyāká- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Das Volk was, Indra, um uns her voll Mordlust feindlich uns bedroht, Das stürze
 Пусть лопнут у других людишек  
 (Их) жалкие тетивы на луках!
 </details>
+

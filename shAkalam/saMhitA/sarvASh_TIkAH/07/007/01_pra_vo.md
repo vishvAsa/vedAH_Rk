@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sahasānám ← sahasāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hiṣe ← √hi- (root)  
+{number:SG, person:1, tense:AOR, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adhvarásya ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+mitádruḥ ← mitádru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vivide ← √vid- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Ich sende euren Gott, den starken Agni, in Demuth vor gleich einem schnellen Ros
 Будь нам знающим вестником обряда!  
 Сам по себе он оказался среди богов, (Агни) с размеренным ходом.
 </details>
+

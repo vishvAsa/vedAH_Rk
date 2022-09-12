@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śuśráva ← √śru- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+svavŕ̥jam ← svavŕ̥j- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+anānudám ← anānudá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+radhracódanam ← radhracódana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+kútsāt ← kútsa- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+muñcasva ← √muc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+āsate ← √ās- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+baddháḥ ← √bandh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+muṣkáyoḥ ← muṣká- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+tvā́vān ← tvā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +251,4 @@ Denn dich, o Indra, rühmt man als Bezwinger mir, als unnachgieb'gen Helden, der
 Освободись от Кутсы! Иди сюда!  
 Неужели такой, как ты, будет сидеть привязанный за мошонку!
 </details>
+

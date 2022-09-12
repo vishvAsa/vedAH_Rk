@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sámbhr̥tam ← √bhr̥- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+usríyāyām ← usríya- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+náme ← náma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+padvát ← padvánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śaphávat ← śaphávant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+viveda ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+gúhā ← gúhā (invariable)  
+{}
+
+gúhyam ← gúhya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gūḷhám ← √guh- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+hitám ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+dákṣiṇāvān ← dákṣiṇāvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dákṣiṇe ← dákṣiṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+háste ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Das in der Kuh gehäufte Süss fand Indra, mit Fuss und Huf begabte Heerd' auf T
 Что было спрятано, что должно быть спрятано, упрятано в водах,  
 Он взял в правую руку, (этот бог) со щедрой правой (рукой).
 </details>
+

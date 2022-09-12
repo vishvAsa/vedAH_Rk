@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gūḷhám ← √guh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+támasā ← támas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+āḥ ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+apraketám ← apraketá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+salilám ← salilá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sárvam ← sárva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ābhú ← ābhú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ápihitam ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ā́sīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+tuchyéna ← tuchyá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ajāyata ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tápasaḥ ← tápas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,3 +250,4 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 То жизнедеятельное, что было заключено в пустоту.  
 Оно Одно было порождено силой жара!
 </details>
+

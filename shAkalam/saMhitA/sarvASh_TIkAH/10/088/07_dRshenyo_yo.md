@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dr̥śényaḥ ← dr̥śénya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sámiddhaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+árocata ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+divíyoniḥ ← divíyoni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vibhā́vā ← vibhā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agnaú ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sūktavākéna ← sūktavāká- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ajuhavuḥ ← √hu- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tanūpā́ḥ ← tanūpā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Der angezündet sehenswerth an Grösse am Schooss des Himmels leuchtend hell erg
 В этого Агни все боги под исполнение гимнов  
 Возлили жертвенное возлияние, (эти) защитники (наших) тел.
 </details>
+

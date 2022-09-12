@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424);; repeated line
+#### Morph
+akāriṣam ← √kr̥̄- 2 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+dadhikrā́vṇaḥ ← dadhikrā́van- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áśvasya ← áśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jiṣṇóḥ ← jiṣṇú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:GEN, number:SG}
+
+karat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+múkhā ← múkha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+surabhí ← surabhí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́yūṁṣi ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+tāriṣat ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -102,7 +142,6 @@ popular;; epic anuṣṭubh (424);; repeated line
 **दधिक्राव्णः** देवस्य स्तुतिम् **अकारिषं** करवाणि । **जिष्णोः** जयशीलस्य **अश्वस्य** व्यापकस्य **वाजिनः** वेगवतः । स देवः **नः** अस्माकं **मुखा** मुखानि चक्षुरादीन्द्रियाणि **सुरभि** सुरभीणि **करत्** करोतु । **नः** अस्मभ्यम् **आयूंषि** **प्र** **तारिषत्** प्रवर्धयतु । प्रपूर्वस्तिरतिर्वर्धनार्थः ॥ ॥१.३॥
 </details>
 
-
 <details><summary>भट्टभास्करटीका</summary>
 
 **दधीनि** धारणसमर्थानि हवींषि काष्ठानि वा । दधातेः 'आदृगमहन' इति किन् प्रत्ययः । तानि क्रामति गच्छतीति दधिक्रावा अग्निः । 'अन्येभ्योपि दृश्यते' इति क्रमेर्वनिप्, 'विड्वनोरनुनासिकस्स्यात्' इत्यात्त्वं, कृदुत्तुरपदप्रकृतिस्वरत्वम् । जिष्णोर्जयशीलस्याश्वस्य व्यापकस्याश्वरूपस्य वा, 'अश्वो रूपं कृत्वा' इति दर्शनात् । **वाजिनो** ऽन्नवतो वेगवतो वा । ईदृशस्याग्नेर् अहम् **अकार्षं** करोमि, कर्मकरस् स्यामिति यावत् । करोतेश्छान्दसो लुङ्, 'छान्दस इकारोपजनः ।
@@ -142,7 +181,6 @@ May he make our mouths fragrant;
 May he lengthen our days.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Ich habe des siegesgewohnten, gewinnreichen Rosses Dadhikravan gedacht. Er möge unseren Mund duftig machen und unsere Lebenszeiten verlängern.
@@ -160,3 +198,4 @@ Den Dadhikravan rühmte ich, das schnelle sieggewohnte Ross, Schönduftend mach 
 Пусть сделает он наши рты благоуханными!  
 Пусть продлит он наши жизненные сроки!
 </details>
+

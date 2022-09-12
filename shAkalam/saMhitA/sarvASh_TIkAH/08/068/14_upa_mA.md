@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dvā́-dvā ← dvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mā ← ahám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ṣáṭ ← ṣáṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+hárṣyā ← hárṣi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+svādurātáyaḥ ← svādurātí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tíṣṭhanti ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +151,4 @@ Zur Seite stehen mir sechs Männer, je zwei und zwei, welche mir in freudiger Er
 
 -ru-
 </details>
+

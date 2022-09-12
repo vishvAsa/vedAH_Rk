@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vipáyanti ← √vip- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dudhrávācaḥ ← dudhrávāc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+somamā́daḥ ← somamád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhriyante ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:PASS}
+
+gr̥bhā́t ← gr̥bhá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+yaśásaḥ ← yaśás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dūrá:upabdaḥ ← dūrá:upabda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥ṣā́caḥ ← nr̥ṣác- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Sie gehn zum Opfer, dass die Streu erzittert, berauscht vom Soma, lallend beim G
 Блистательные откладываются, пока (их снова не) возьмут,  
 Далеко ревущие быки, следующие за мужами.
 </details>
+

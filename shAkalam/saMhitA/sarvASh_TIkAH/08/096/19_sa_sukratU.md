@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ráṇitā ← ráṇitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sukrátū ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutéṣu ← √su- (root)  
+{case:LOC, gender:M, number:PL, non-finite:PPP}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áhā ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ánuttamanyuḥ ← ánuttamanyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+revā́n ← revánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ápāṁsi ← ápas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+kártā ← kártar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nári ← nár- (nominal stem)  
+{gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,3 +275,4 @@ Er ist voll Stärke, der sich labt an Tränken, voll mächt'gen Zorns, der Schä
 
 -ru-
 </details>
+

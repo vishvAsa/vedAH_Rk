@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádadhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dhā́yuḥ ← dhā́yu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártyāya ← mártya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yásmai ← yá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ábhaktam ← ábhakta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhajate ← √bhaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+cit ← cit (invariable)  
+{}
+
+gehyàm ← gehyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ghr̥tā́cī ← ghr̥tā́ñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sumatíḥ ← sumatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rātíḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sahásradānā ← sahásradāna- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ der Sterbliche, dem gabenreich du schenktest erlangt, o Indra, nicht erlangten H
 О Индра, твое благоволение приносит счастье, оно полно жира.  
 (Твоя) щедрость, о многопризываемый, приносит тысячи даров!
 </details>
+

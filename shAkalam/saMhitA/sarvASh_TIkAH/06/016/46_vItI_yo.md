@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+duvasyét ← √duvasy- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vītī́ ← vītí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havíṣmān ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īḷīta ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ródasyoḥ ← ródasī- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+satyayájam ← satyayáj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+uttānáhastaḥ ← uttānáhasta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vivāset ← √vanⁱ- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +196,4 @@ Der Sterbliche, welcher den Gott mit Opferspeise beschenkt, und den Agni beim Fe
 Хотара, истинно жертвующего двум мирам,  
 Пусть он стремится покорить поклонением, (стоя) с протянутыми руками!
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yaśā́ḥ ← yaśás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mitrā́váruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pūtádakṣasā ← pūtádakṣas- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+r̥tā́vānā ← ŕ̥tāvan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+samrā́jā ← samrā́j- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +162,4 @@ Du, o Agni, bist mit Glanz begabt; fahre Mitra und Varuna her, die heiligen, rei
 Привези Митру-Варуну,  
 Преданных закону вседержителей с чистой силой действия!
 </details>
+

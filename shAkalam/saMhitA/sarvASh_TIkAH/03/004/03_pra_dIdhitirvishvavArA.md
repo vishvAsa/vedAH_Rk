@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dī́dhitiḥ ← dī́dhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jigāti ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+viśvávārā ← viśvávāra- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iḷáḥ ← íḍ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+prathamám ← prathamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yájadhyai ← √yaj- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+ácha ← ácha (invariable)  
+{}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vandádhyai ← √vandⁱ- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+iṣitáḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yájīyān ← yájīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yakṣat ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Die Andacht schreitet, alles Gut enthaltend, des Trankes ersten Priester zu vere
 Чтобы с поклонениями приветствовать быка.  
 Пусть принесет он жертву богам, призванный как лучший жертвователь!
 </details>
+

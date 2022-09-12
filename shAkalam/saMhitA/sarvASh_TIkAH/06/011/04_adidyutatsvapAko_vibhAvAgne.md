@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádidyutat ← √dyut- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ápākaḥ ← ápāka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+vibhā́vā ← vibhā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+urūcī́ ← uruvyáñc- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+yájasva ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+āyúm ← āyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rātáhavyāḥ ← rātáhavya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+añjánti ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jánāḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+páñca ← páñca- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suprayásam ← suprayás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ O Agni, opfre beiden weiten Welten; er strahle leuchtend aus der Ferne kommend, 
 (Ты,) кого, словно Аю, с поклонением умащают  
 Дающие жертвы, обладателя прекрасных жертвенных услад - пять народов.
 </details>
+

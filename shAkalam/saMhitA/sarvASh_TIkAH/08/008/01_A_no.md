@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+víśvābhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+áśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gáchatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+dásrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+híraṇyavartanī ← híraṇyavartani- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+píbatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+somyám ← somyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Mit allen euren Hülfen kommt, o wunderthät'ge, her zu uns, Auf goldnen Pfaden,
 Чудесные, оставляющие золотой след!  
 Пейте сладость сомы!
 </details>
+

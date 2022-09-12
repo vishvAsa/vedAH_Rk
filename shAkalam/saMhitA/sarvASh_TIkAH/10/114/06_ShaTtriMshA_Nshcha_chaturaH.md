@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ca ← ca (invariable)  
+{}
+
+catúraḥ ← catúr- (nominal stem)  
+{number:PL}
+
+kalpáyantaḥ ← √kl̥p- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ṣaṭtriṁśā́n ← ṣaṭtriṁśá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ādvādaśám ← ādvādaśám (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+chándāṁsi ← chándas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dádhataḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+manīṣā́ ← manīṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vimā́ya ← √mā- 1 (root)  
+{non-finite:CVB}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥ksāmā́bhyām ← r̥ksāmá- (nominal stem)  
+{case:INS, gender:N, number:DU}
+
+vartayanti ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Indem sie sechsunddreissig und vier [Somafüllungen?] bilden und die Zaubersprü
 Измерив жертву с помощью размышления,  
 Гимном и мелодией они приводят в движение колесницу.
 </details>
+

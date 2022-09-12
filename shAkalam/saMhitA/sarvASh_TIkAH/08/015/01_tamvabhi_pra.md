@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+gāyata ← √gā(y)- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+puruhūtám ← puruhūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puruṣṭutám ← puruṣṭutá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+taviṣám ← taviṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vivāsata ← √vanⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +163,4 @@ Wohlan, den vielgepriesenen, den vielgerufenen besingt; Den starken Indra, mit G
 Многопризываемого, многовосхваленного!  
 Индру сильного старайтесь приманить хвалебными песнями;
 </details>
+

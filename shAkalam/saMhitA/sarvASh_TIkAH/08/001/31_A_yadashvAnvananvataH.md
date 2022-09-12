@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vánanvataḥ ← vánanvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ruhám ← √ruh- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+śraddháyā ← śraddhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ciketati ← √cit- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+vāmásya ← vāmá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vásunaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+paśúḥ ← paśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́dvaḥ ← yā́dva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Sobald ich voll Vertrauen die schönen Rosse an dem Wagen bestiegen habe, so sch
 То он задумывается о ценном имуществе,  
 Которым является скот Яду.
 </details>
+

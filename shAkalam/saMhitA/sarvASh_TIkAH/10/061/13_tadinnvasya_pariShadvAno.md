@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+pariṣádvānaḥ ← pariṣádvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bibhitsan ← √bhid- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT, mood:DES}
+
+nārṣadám ← nārṣadá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sádantaḥ ← √sad- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:ACT}
+
+anarvā́ ← anarván- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáṁgrathitam ← √gra(n)th- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+śúṣṇasya ← śúṣṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+gúhā ← gúhā (invariable)  
+{}
+
+puruprajātásya ← puruprajātá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vidát ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ So sind nun seine Umlagerer gekommen, sich vielfach lagernd suchen sie den [Däm
 
 -ru-
 </details>
+

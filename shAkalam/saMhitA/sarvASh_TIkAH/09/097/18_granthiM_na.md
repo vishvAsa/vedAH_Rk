@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+granthím ← granthí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+grathitám ← √gra(n)th- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sya ← √sā- ~ si- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥júm ← r̥jú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥jinám ← vr̥jiná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kradaḥ ← √krand- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+sr̥jānáḥ ← √sr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhanva ← √dhanv- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+máryaḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pastyā̀vān ← pastyā̀vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +219,7 @@ preceding comm. is lexically renewed (/clarified) by ṛjúṃ ca … vṛjiná�
 The two images in d seem oddly incoherent together: máryaḥ … pastiyā̀vān “a man in his prime in possession of a dwelling place,” but a passage adduced by Geldner (n. 18d) demonstrates that the young man and the house go together: I.91.13 márya iva svá okyè “(take pleasure) like a young man in his own home.” Perhaps the point of the house-proud márya- is that a man in his prime, perhaps roughly the equivalent of the later gṛhastha, should have achieved the goals of a mature life: a house and household; Soma is implicitly likened to such a man after he has been purified and acquired the water and milk that make him the fully prepared ritual substance, and the pastyā̀- itself is the ritual ground. Geldner’s parallel also neatly provides indirect evidence for the semantic equivalence of pastyā̀- and okyà- ‘home’ and therefore against the interpr. of pastyā̀- as ‘river’ (often indeed by Geldner; see, e.g., IX.65.23, though he tr. it here as Haus). See comm. ad I.40.7.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 This tṛca does seem to have a controlling theme and metaphor, esp. in 17-18 -- the passage through the filter, beginning in 16. Navigating among the curly tufts is compared on the one hand to the triumphant progress of the Aryas (vs. 17) and to a sort of moral progress in discriminating between the crooked and the straight (18). Each vs. also contains a form of the impv. dhanva ‘run’ (16d, 17c, 18d).
@@ -186,3 +253,4 @@ Wie einen Knoten trenne das verschlungne, o Soma, flammend, graden Weg und krumm
 Пусть ты ржешь, как скакун, когда (тебя,) буланого, выпускают!  
 Беги, как молодой мужчина, о бог, у которого есть жилье!
 </details>
+

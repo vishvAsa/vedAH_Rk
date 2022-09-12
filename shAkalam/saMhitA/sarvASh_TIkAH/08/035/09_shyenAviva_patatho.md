@@ -16,14 +16,69 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line
+#### Morph
+havyádātaye ← havyádāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+patathaḥ ← √pat- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+śyenaú ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+áva ← áva (invariable)  
+{}
+
+gachathaḥ ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+mahiṣā́ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutám ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ca ← ca (invariable)  
+{}
+
+sajóṣasau ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+uṣásā ← uṣás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+trís ← trís (invariable)  
+{}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Wie Adler fliegt ihr zu der Opfergabe hin; wie Büffel kommt ihr zum gepressten 
 Единодушные с Ушас и Сурьей,  
 Трижды совершите объезд, о Ашвины!
 </details>
+

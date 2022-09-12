@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhījávaḥ ← dhījū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pavamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+arṣanti ← √arṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+mádāḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+raghujā́ḥ ← raghujā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+divyā́ḥ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádhumantaḥ ← mádhumant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suparṇā́ḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āsate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+kóśam ← kóśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+madíntamāsaḥ ← madíntama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +201,7 @@ The rt noun cmpd dhī-jū́- (also in vs. 4) could have two different readings, 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The first two vss. of this tṛca begin identically (prá te), and all three vss.
@@ -177,3 +232,4 @@ Vor strömen deine raschen Säfte, Flammender, gedankenschnell, wie von dem flü
 
 -ru-
 </details>
+

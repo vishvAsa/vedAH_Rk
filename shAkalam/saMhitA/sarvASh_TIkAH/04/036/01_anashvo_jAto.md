@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anabhīśúḥ ← anabhīśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anaśváḥ ← anaśvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ukthyàḥ ← ukthyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tricakráḥ ← tricakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vartate ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+devyàsya ← devyà- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pravā́canam ← pravā́cana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+púṣyatha ← √puṣ- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +239,4 @@ Dreirädrig ist der hehre Wagen einst gebaut, der ohne Ross' und Zügel um den H
 Велико это провозглашение вашей божественной природы,  
 Что вы, о Рибху, даете процветание земле и небу.
 </details>
+

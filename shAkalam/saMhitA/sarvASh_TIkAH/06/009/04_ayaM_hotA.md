@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+páśyata ← √paś- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mártyeṣu ← mártya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dhruváḥ ← dhruvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jajñe ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+níṣattaḥ ← √sad- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+várdhamānaḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Hier ist der erste Priester, schaut auf diesen, das Licht hier unter sterblichen
 Это он родился, прочно уселся,  
 Бессмертный, растущий телом.
 </details>
+

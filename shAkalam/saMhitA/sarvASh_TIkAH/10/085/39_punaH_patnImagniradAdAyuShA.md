@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+adāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pátnīm ← pátnī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+ā́yuṣā ← ā́yus- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+várcasā ← várcas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+dīrghā́yuḥ ← dīrghā́yuṣ- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+jī́vāti ← √jīv- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +188,4 @@ Jetzt hat Agni die Gattin zurückgegeben in blühender Lebenskraft, lange lebe i
 Долголетен (да будет тот,) кто ее муж!  
 Да проживет он сотню осеней!
 </details>
+

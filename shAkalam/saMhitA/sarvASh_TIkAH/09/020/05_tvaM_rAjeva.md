@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+iva ← iva (invariable)  
+{}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvratáḥ ← suvratá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+viveśitha ← √viś- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+adbhuta ← ádbhuta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vahne ← váhni- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +162,4 @@ Du drangst gleich mächt'gem Könige, o Soma, in die Lieder ein, Gereinigt, fahr
 Вошел в песни (людей), о сома,  
 Когда ты очищаешься, о удивительный возница.
 </details>
+

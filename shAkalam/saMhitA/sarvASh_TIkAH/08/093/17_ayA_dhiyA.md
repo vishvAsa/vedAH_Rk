@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gavyayā́ ← gavyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+púruṇāman ← puruṇāman- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+púruṣṭuta ← puruṣṭutá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ábhavaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+sóme-some ← sóma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ Durch diese Bitte voll Begier, vielnam'ger, vielgepriesener, So oft beim Soma du
 
 -ru-
 </details>
+

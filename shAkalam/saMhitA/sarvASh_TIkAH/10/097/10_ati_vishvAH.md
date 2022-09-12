@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+áti ← áti (invariable)  
+{}
+
+pariṣṭhā́ḥ ← pariṣṭhā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+akramuḥ ← √kramⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+stenáḥ ← stená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+acucyavuḥ ← √cyu- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+rápaḥ ← rápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +190,4 @@ Kein Hemmniss hält sie auf, sie sind der Dieb, der durch die Zäune bricht, Die
 Растения удалили любое  
 Повреждение тела, какое ни на есть.
 </details>
+

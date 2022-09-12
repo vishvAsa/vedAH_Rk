@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sā́navi ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tritásya ← tritá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+arocayat ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+jāmíbhiḥ ← jāmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sahá ← sahá (invariable)  
+{}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +149,4 @@ Hoch auf des Trita Bergeshöh entzündete der flammende Die Sonne sammt der Schw
 
 -ru-
 </details>
+

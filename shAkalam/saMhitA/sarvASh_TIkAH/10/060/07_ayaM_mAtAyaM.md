@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agamat ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+jīvā́tuḥ ← jīvā́tu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+prasárpaṇam ← prasárpaṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+súbandho ← subándhu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +189,4 @@ Als Vater nahte dieser Freund, als Mutter und als Leben dir; Hier ist dein Obdac
 Это твое убежище.  
 О Субандху, приди, выйди!
 </details>
+

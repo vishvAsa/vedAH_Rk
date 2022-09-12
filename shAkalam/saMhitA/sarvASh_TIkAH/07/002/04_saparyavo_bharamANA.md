@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhijñú ← abhijñú (invariable)  
+{}
+
+bháramāṇāḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+saparyávaḥ ← saparyú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+agnaú ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vr̥ñjate ← √vr̥j- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ājúhvānāḥ ← √hu- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+ghr̥tápr̥ṣṭham ← ghr̥tápr̥ṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pŕ̥ṣadvat ← pŕ̥ṣadvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádhvaryavaḥ ← adhvaryú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+marjayadhvam ← √mr̥j- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +182,4 @@ Die Andachtsvollen schmücken Streu dem Agni voll Ehrfurcht aus, sie bis ans Kni
 Поливая жирноспинную (жертвенную солому), крапчатую (от жира),  
 Адхварью, натирайте (ее) возлиянием!
 </details>
+

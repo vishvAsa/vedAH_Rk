@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+gaṇásya ← gaṇá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mahatáḥ ← mahā́nt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+senānī́ḥ ← senānī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+babhū́va ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vrā́tasya ← vrā́ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhánā ← dhána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kr̥ṇomi ← √kr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ruṇadhmi ← √rudh- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+dáśa ← dáśa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+prā́cīḥ ← prā́ñc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vadāmi ← √vadⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,3 +250,4 @@ Ihm, der der Führer eures grossen Heeres und erster König ist der ganzen Bande
 Ему я протягиваю десять (пальцев)  
 (И) произношу эту клятву: Я не удерживаю богатства!
 </details>
+

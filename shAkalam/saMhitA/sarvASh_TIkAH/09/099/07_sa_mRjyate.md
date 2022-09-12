@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+mr̥jyate ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sukármabhiḥ ← sukárman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+āsu ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+saṁdadíḥ ← saṁdadí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidé ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+gāhate ← √gāh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +195,4 @@ Vom thät'gen wird gereinigt er, der Gott den Göttern ausgepresst, Wenn er sich
 Когда он обнаруживает себя в этих (водах), соединяясь (с ними),  
 Он ныряет в великие воды.
 </details>
+

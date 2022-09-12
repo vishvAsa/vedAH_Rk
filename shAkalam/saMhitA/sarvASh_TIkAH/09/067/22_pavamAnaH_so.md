@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pavítreṇa ← pavítra- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vícarṣaṇiḥ ← vícarṣaṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+potā́ ← potár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+punātu ← √pū- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +150,7 @@ Sim. EWA s.v. pótar-.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
 <details open><summary><h2>22-27 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these vss. are a self-contained purificatory spell, with all vss. ending with an act. impv. belonging to the pres. punā́ti: all 2nd sg. punīhi (naḥ) except 22c punātu (naḥ). The means of purification is, in the first instance, the filter (pavítra-), which of course literally means ‘instrument (-tra-) of purification’. 
@@ -149,3 +183,4 @@ Es läutere, der Läuterer, der lauter strömt durchs Läutmngsnetz, Uns heute e
 Движется далеко, (он,) который (сам) очиститель,  
 Пусть очистит нас через цедилку!
 </details>
+

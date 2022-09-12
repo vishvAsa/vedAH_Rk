@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ámithitaḥ ← ámithita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+maryāḥ ← márya- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+abravīt ← √brū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+īṣate ← √īṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+jahā́ ← √hā- 2 (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,7 +143,7 @@ However, Oldenberg very persuasively suggests that it is a 1st sg. subjunctive i
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/045/37-38.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/045/37-38.md">
 <details open><summary><h2>37-38 ...{Loading}...</h2></summary>
 
 For my interpretation of this bit of dialogue, see the published introduction.
@@ -140,3 +174,4 @@ Wer, o ihr Männer, sagte je als Freund vom Freunde ungereizt: Verschmähend lä
 Друг сказал другу:  
 Я хочу оставить (тебя). Кто нас избегает?
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+pratna ← pratná- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pinva ← √pinv- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vasudéyāya ← vasudéya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+aviṣā́ ← aviṣá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vánāni ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+árvataḥ ← árvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥cáse ← √r̥c- (root)  
+{case:DAT, number:SG}
+
+rirīhi ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Nun füll du ein, besungner, ew'ger König, dem Sänger vielen Trunk und schenke
 Дай воду, растения, неядовитые деревья,  
 Коров, коней, мужей, чтобы (тебя) восхваляли!
 </details>
+

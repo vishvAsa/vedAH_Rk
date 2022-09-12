@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+suméke ← suméka- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+vivakmi ← √vañc- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+grā́vṇaḥ ← grā́van- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+manīṣā́ ← manīṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yujānáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+bhū́rivārāḥ ← bhū́rivāra- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+bhavanti ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+darśatā́ḥ ← darśatá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ūrdhvā́ḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yájatrāḥ ← yájatra- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Ich rufe an die segensreichen Welten die Steine schirrend bei dem, Fest mit Weis
 Эти твои (языки пламени), несущие человеку многие избранные дары,  
 Вздымаются, приятные на вид, достойные жертв.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+gachadhvam ← √gam- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+vadadhvam ← √vadⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+jānatām ← √jñā- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+mánāṁsi ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+saṁjānānā́ḥ ← √jñā- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+upā́sate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +188,4 @@ Und aus dem Meer, dem wogenden, erzeugte sich des Jahres Lauf; Vertheilend Tag u
 Как некогда боги с мыслями, направленными вместе,  
 Сидели у (своей) доли (на жертвоприношении)!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhā́māsaḥ ← bhā́ma- 1 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pávante ← √pū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+svanā́ḥ ← svaná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rócamānasya ← √ruc- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+sudívaḥ ← sudív- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jyéṣṭhebhiḥ ← jyéṣṭha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+krīḷumádbhiḥ ← krīḷumánt- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+téjiṣṭhaiḥ ← téjiṣṭha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhānúbhiḥ ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nákṣati ← √nakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+várṣiṣṭhebhiḥ ← várṣiṣṭha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +194,4 @@ Dess Strahlen hell wie Blitze zischend funkeln, wenn der erhabne glänzt mit sch
 (Тот,) кто самыми лучшими, ярчайшими, играющими,  
 Летящими выше всех огнями достигает неба:
 </details>
+

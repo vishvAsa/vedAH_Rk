@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+haryatásya ← haryatá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pastyòḥ ← pastyà- (nominal stem)  
+{case:LOC, gender:N, number:DU}
+
+sádma ← sádman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+acikradat ← √krand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hárivān ← hárivant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áharyat ← √hr̥- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+dhiṣáṇā ← dhiṣáṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dadhiṣe ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+haryatáḥ ← haryatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +237,4 @@ Der Herr der goldnen wiehert, wie ein Ross den Trog, den Sitz des Soma an, dem b
 Ведь великая Дхишана тоже сильно возжелала.  
 Даже очень желанный. Ты приложил большую силу.
 </details>
+

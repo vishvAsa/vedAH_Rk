@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+īḷiṣva ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+gā́thābhiḥ ← gā́thā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śīráśociṣam ← śīráśocis- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+purumīḷha ← purumīḷhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śrutám ← √śru- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+chardíḥ ← chardís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sudītáye ← sudītí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +180,4 @@ Den Agni fleh um Hülfe an, durch Lieder ihn, der heiss erglüht; Um Gut, o Puru
 
 -ru-
 </details>
+

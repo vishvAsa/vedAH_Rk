@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+niṣádya ← √sad- (root)  
+{non-finite:CVB}
+
+babhū́tha ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+hávyaḥ ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jajñānáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+sadyás ← sadyás (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kétam ← kéta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+avardhanta ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+prathamā́saḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ū́māḥ ← ū́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Denn wenn du, Agni, dich mit Macht gesetzt hast, bist kaum geboren du schon anzu
 Боги явились по этому твоему желанию  
 И подкрепившись, (эти) первые помощники.
 </details>
+

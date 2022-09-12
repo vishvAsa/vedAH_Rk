@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+nédīyaḥ ← nédīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mitámedhābhiḥ ← mitámedha- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhíṣṭibhiḥ ← abhíṣṭi- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śaṁtama ← śáṁtama- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śáṁtamābhiḥ ← śáṁtama- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+svāpe ← svāpí- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+svāpíbhiḥ ← svāpí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +187,4 @@ Recht nah, o Indra, komme her, mit Schutz, der fest auf Säulen ruht, Heilvollst
 О самый благодатный, с самыми благодатными подкреплениями,  
 О (ты,) очень дружелюбный, с очень дружелюбными!
 </details>
+

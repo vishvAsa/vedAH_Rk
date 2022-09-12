@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+pūṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ráthasya ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ajā́ḥ ← ajá- 2 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhúram ← dhúr- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vavr̥tyuḥ ← √vr̥t- (root)  
+{number:PL, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+arthínaḥ ← arthín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ánapacyutaḥ ← ánapacyuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sanojā́ḥ ← sanojā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +169,4 @@ Des Wagens Deichsel wandten dir, o Puschan, deine Ziegen her; Du urgeborner, fes
 (Ты -) друг всякого, у кого есть дело,  
 (Бог,) издревлерожденный, неколебимый.
 </details>
+

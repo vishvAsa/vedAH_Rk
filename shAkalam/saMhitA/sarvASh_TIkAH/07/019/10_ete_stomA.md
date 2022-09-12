@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+narā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nr̥tama ← nŕ̥tama- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stómāḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+asmadryàñcaḥ ← asmadryàñc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dádataḥ ← √dā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+maghā́ni ← maghá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bhūḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śiváḥ ← śivá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+vr̥trahátye ← vr̥trahátya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+nr̥ṇā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ O stärkster Mann, dir gelten dieser Männer Gesänge, welche Schätze uns versc
 К этим (мужам), о Индра, будь милостив при убийстве врагов,  
 Другом отважным и помощником (этих) мужей!
 </details>
+

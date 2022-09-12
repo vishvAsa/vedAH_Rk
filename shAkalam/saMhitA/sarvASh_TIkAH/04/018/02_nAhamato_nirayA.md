@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+átas ← átas (invariable)  
+{}
+
+ayā ← √i- 1 (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+durgáhā ← durgáha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nís ← nís (invariable)  
+{}
+
+gamāni ← √gam- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+pārśvā́t ← pārśvá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+tiraścátā ← tiraścátā (invariable)  
+{}
+
+ákr̥tā ← ákr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bahū́ni ← bahú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kártvāni ← kártva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pr̥chai ← √praś- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+tvena ← tva- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+tvena ← tva- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+yúdhyai ← √yudh- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,3 +254,4 @@ Ich mag nicht hier hinausgehen; dies ist ein übler Durchgang. Ich will quer zur
 Я буду биться с одним, договариваться с другим.  
 Рассказчик:
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+kṣipréṇa ← kṣiprá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tájyena ← r̥tájya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+aśnoti ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhánvanā ← dhánur ~ dhánvan- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+váṣṭi ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
+ásyati ← √as- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+íṣavaḥ ← íṣu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sādhvī́ḥ ← sādhú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+dr̥śáye ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+kárṇayonayaḥ ← kárṇayoni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+nr̥cákṣasaḥ ← nr̥cákṣas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Mit seinem Bogen, der mit starker Sehne schnellt, trifft wo er wünscht und was 
 У этого взирающего на людей (бога) стрелы, которыми он стреляет,  
 Прямо попадает в цель; на вид (кажется,) что они возникли из уха (стрелка).
 </details>
+

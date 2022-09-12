@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhr̥ṣatā́ ← √dhr̥ṣ- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dhr̥ṣṇo ← dhr̥ṣṇú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vītáhavyam ← vītáhavya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āvaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sudā́sam ← sudā́s- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+víśvābhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+āvaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+paúrukutsim ← paúrukutsi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+trasádasyum ← trasádasyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kṣétrasātā ← kṣétrasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+pūrúm ← pūrú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥trahátyeṣu ← vr̥trahátya- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Mit Kühnheit, kühner, halfest du dem Sudas, mit aller Hülfe dem beliebten Opf
 Ты помог Трасадасью, сыну Пурукутсы,  
 Пуру (ты помог) в боях с врагами при захвате земель.
 </details>
+

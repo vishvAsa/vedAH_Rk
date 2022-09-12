@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indriyā́ya ← indriyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mahaté ← mahā́nt- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hántave ← √han- (root)  
+{case:DAT, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śaviṣṭha ← śáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥trā́ya ← vr̥trá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+hūyámānaḥ ← √hū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śávase ← śávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tr̥pát ← tr̥pát (invariable)  
+{}
+
+vr̥ṣasva ← √vr̥ṣ- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +206,4 @@ Den Soma trink zu grosser Indrastärke, o stärkster, trink ihn, Vritra zu erleg
 Пей для богатства, могущества, когда тебя зовут!  
 Пей меду досыта, о Индра, вливай (его) в себя!
 </details>
+

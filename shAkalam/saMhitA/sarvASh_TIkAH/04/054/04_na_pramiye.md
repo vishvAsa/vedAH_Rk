@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+daívyasya ← daívya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pramíye ← √mī- 1 (root)  
+{case:DAT, number:SG}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhúvanam ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhārayiṣyáti ← √dhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:FUT, voice:ACT}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+svaṅguríḥ ← svaṅgurí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váriman ← váriman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suváti ← √sū- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+várṣman ← várṣman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Untilgbar ist dies Werk des Gottes Savitar, durch das er stets die ganze Welt er
 Что (этот) прекраснопалый (бог) предназначает для шири земли,  
 Для выси неба, то у него истинно.
 </details>
+

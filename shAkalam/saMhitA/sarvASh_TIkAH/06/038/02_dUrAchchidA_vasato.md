@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dūrā́t ← dūrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+kárṇā ← kárṇa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vasataḥ ← √vas- 3 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bruvāṇáḥ ← √brū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ghóṣāt ← √ghuṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tanyati ← √tanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+deváhūtiḥ ← deváhūti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+vavr̥tyāt ← √vr̥t- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+madryàk ← madryàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥cyámānā ← √r̥c- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:PASS}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +206,7 @@ interpr. of ghóṣāt, the gen. is dependent on that noun, but without that sup
 As for the subject of ghóṣāt and tanyati, I think it anticipates the deváhūti- of c. This of course creates a problem of its own, in that bruvāṇáḥ should be fem. if deváhūti- is the referent. But given the poet’s general evasiveness about referents, I think in b we’re dealing with an as-yet-unidentified verbal product, which is then specified as deváhūti- (the same índra-hūti- of 1b) in c.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, I think vs. 2 functions as complementary to 1: in the first vs. the índra-hūti- is conveyed up to Indra (presumably in heaven); in 2 he
@@ -157,7 +215,7 @@ As noted in the published introduction, I think vs. 2 functions as complementary
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/02-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
 After the absence of overt referents in vs. 1, starting with 2b we have a form of índra- in every hemistich through vs. 4 (2b índrasya, 2d índram, 3b índram, 3d índre, 4a índram, 4d índram). His name is again absent in the final vs. of the hymn, vs. 5, suggesting that this pattern is deliberate and a species of ring composition, marked by absence not presence. The next hymn (VI.39) also shows this structure, with the three middle verses (2-4) united by the shared initial deictic ayám and the first and last (1, 5) standing out against this pattern.
@@ -188,3 +246,4 @@ Von fern auch dringe zu uns her sein Hören; von Indra's Rauschen hallt der Spre
 Пусть обратит ко мне этого Индру  
 Этот призыв богов, когда он исполняется в стихах.
 </details>
+

@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avyáye ← avyáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ukṣámāṇam ← √ukṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dharṇasím ← dharṇasí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+punanti ← √pū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́re ← vā́ra- 1 (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pūrvácittaye ← pūrvácitti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+manīṣíṇaḥ ← manīṣín- (nominal stem)  
+{case:NOM, number:PL}
+
+śāsate ← √śās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +186,4 @@ Sie klären ihn, den träufelnden, den starken in des Widders Haar, Wie einen Bo
 Хранители мудрости хотят (отправить его), словно вестника,  
 Чтобы первая мысль (богов) (была о них).
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ábharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+avr̥kám ← avr̥ká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cā́rum ← cā́ru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+padā́ ← pád- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+aruṇám ← aruṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mānám ← māná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+tāri ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+bandhútā ← bandhútā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+jāgāra ← √gr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +221,4 @@ Durch den schönen, von Räubern unerreichten, rothen, aus dem Somakraut erzeugt
 Благодаря ему телесная сила (и) срок жизни продлились, чтобы жить,  
 Благодаря ему пробудилось родство.
 </details>
+

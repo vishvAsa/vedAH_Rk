@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mīḷhúṣaḥ ← mīḍhváṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+putrā́ḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rudrásya ← rudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+bháradhyai ← √bhr̥- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+ca ← ca (invariable)  
+{}
+
+dā́dhr̥viḥ ← dā́dhr̥vi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+yā́n ← yá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+vidé ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adhāt ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+pŕ̥śniḥ ← pŕ̥śni- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+subhvè ← subhū́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +258,4 @@ Sie, welche Söhne sind des gnäd'gen Rudra, und die zu tragen kräftig war die 
 Ведь (их) мать знала о великом (событии), она, великая.  
 Это она, Пришни, вложила зародыш ради могучего (Рудры).
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahivrata ← máhivrata- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+jabhriṣe ← √bhr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+amuñcathāḥ ← √muc- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:MED}
+
+drāpím ← drāpí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+mahitvanā́ ← mahitvaná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pávamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +161,7 @@ You have fastened on your mantle in your greatness, self-purifying one.
 The contents and phraseology of this vs. are furthest from its match, vs. 3, but as noted in the published translation, dyā́ṃ ca … pṛthivī́ṃ ca in 9ab recalls 3cd (vásūni) pā́rthivā divyā́ca “heavenly and earthly goods.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/100/06-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/100/06-09.md">
 <details open><summary><h2>06-09 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these vss., constituting a separate hymn, echo and vary the 1st hymn, vss. 1-5.
@@ -153,3 +193,4 @@ Du hast dich, o weitherrschender, durch Erd' und Himmel ausgedehnt, Du zogst dir
 Ты облачился в (свое) одеяние,  
 О Павамана, с (большим) великолепием.
 </details>
+

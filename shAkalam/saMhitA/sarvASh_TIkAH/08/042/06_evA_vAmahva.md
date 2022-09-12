@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ahve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+evá ← evá (invariable)  
+{}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+áhuvanta ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+médhirāḥ ← médhira- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +172,4 @@ So habe ich um Gunst gefleht, wie sonst euch rief der Weisen Schar, O treue, zu 
 На питье сомы, о Насатьи.  
 Пусть лопнут все ничтожные другие!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyaut ← √dyut- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+samídhā ← samídh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+stutáḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+yahváḥ ← yahvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nā́bhā ← nā́bhi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+várṣman ← várṣman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ī́ḍyaḥ ← ī́ḍya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mātaríśvā ← mātaríśvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vakṣat ← √vah- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+yajáthāya ← yajátha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ Durch Flammen strahlte der gepries'ne, rasche zur Himmelshöhe auf der Erde Nabe
 Как Митра Агни достоин призывов, (он,) Матаришван.  
 Как вестник пусть привезет он богов на жертвоприношение!
 </details>
+

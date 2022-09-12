@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+práśastibhiḥ ← práśasti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+duritā́ ← duritá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dveṣoyútaḥ ← dveṣoyút- (nominal stem)  
+{case:NOM, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+mártyānām ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+turyā́ma ← √tūr(v)- ~ tur- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ Ich, Agni, sei in deiner Gunst und in des Mitra Förderung; Wie Feindverscheuche
 Пусть преодолеем мы трудности смертных,  
 Как (люди), избежавшие враждебности!
 </details>
+

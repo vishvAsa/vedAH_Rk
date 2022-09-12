@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+araṇyāníḥ ← araṇyāní- ~ araṇyānī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+hanti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+vaí ← vaí (invariable)  
+{}
+
+abhigáchati ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+jagdhvā́ya ← √ghas- (root)  
+{non-finite:CVB}
+
+phálasya ← phála- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+svādóḥ ← svādú- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+padyate ← √pad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yathākā́mam ← yathākā́mam (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +192,4 @@ Die Waldesfrau verletzet nie, wenn nicht ein andrer sie beschleicht; Wenn sie vo
 Вкусив сладкого плода,  
 Укладывается куда угодно.
 </details>
+

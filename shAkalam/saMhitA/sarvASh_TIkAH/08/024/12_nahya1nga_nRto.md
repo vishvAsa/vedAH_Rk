@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+aṅgá ← aṅgá (invariable)  
+{}
+
+nahí ← nahí (invariable)  
+{}
+
+nr̥to ← nr̥tú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rā́dhase ← rā́dhas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vindā́mi ← √vid- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+dyumnā́ya ← dyumná- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śávase ← śávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +158,4 @@ Denn keinen andern find' ich je, als dich, o Held, der reiches Gut Mir schenke, 
 Другого, чем ты, для дарения,  
 Для сверкающего богатства и для силы, о любящий песни!
 </details>
+

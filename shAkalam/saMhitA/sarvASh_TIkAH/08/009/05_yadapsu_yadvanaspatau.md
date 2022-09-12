@@ -15,13 +15,50 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vánaspátau ← vánaspáti- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+óṣadhīṣu ← óṣadhī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+purudaṁsasā ← purudáṁsas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+aviṣṭam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +186,4 @@ Was ihr in Wassern, was im Baum und, thatenreiche, was ihr in den Kräutern wirk
 Что в растениях действует, о многочудесные,  
 Помогите мне им, о Ашвины!
 </details>
+

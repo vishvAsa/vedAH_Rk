@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rājathaḥ ← √rāj- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+samrā́jau ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mítrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+svardŕ̥śā ← svardŕ̥ś- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+amr̥tatvám ← amr̥tatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tanyávaḥ ← tanyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Als Oberherrn beherrscht ihr beide diese Welt, der Sonne gleich beim Feste, Mitr
 Мы просим вас о дожде как о даре, о бессмертии.  
 Громы раскатываются вокруг земли и неба.
 </details>
+

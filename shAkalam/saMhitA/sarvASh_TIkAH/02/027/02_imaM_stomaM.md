@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sákratavaḥ ← sákratu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+juṣanta ← √juṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ādityā́saḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhā́rapūtāḥ ← dhā́rapūta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anavadyā́ḥ ← anavadyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áriṣṭāḥ ← áriṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ávr̥jināḥ ← ávr̥jina- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +208,4 @@ Dies Loblied möge heut die gleichgesinnten Arjaman, Mitra, Varuna geniessen, De
 Сверкающие Адитьи, очищенные, как потоки (сомы),  
 Без кривизны, без упрека, без вреда!
 </details>
+

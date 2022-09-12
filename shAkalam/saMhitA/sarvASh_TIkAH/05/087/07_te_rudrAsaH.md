@@ -17,15 +17,73 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnáyaḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rudrā́saḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+súmakhāḥ ← súmakha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yathā ← yathā (invariable)  
+{}
+
+avantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+evayā́marut ← evayā́marut- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tuvidyumnā́ḥ ← tuvidyumná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dīrghám ← dīrghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+paprathe ← √prathⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+pā́rthivam ← pā́rthiva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥thú ← pr̥thú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sádma ← sádman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ájmeṣu ← ájma- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+maháḥ ← mahás- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yéṣām ← yá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+ádbhutainasām ← ádbhutainas- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śárdhāṁsi ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,3 +256,4 @@ Die Kampfeshelden, die wie Flammen strahlen, die sehr glänzenden mögen hülfre
 Когда при (их) выездах при(ближаются) стаи  
 Великого (Вишну), недостатки которых невидимы.
 </details>
+

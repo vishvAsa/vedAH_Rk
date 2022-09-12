@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cítraḥ ← cítra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rājakā́ḥ ← rājaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+sárasvatīm ← sárasvant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yaké ← yaká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+parjányaḥ ← parjánya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tatánat ← √tanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+vr̥ṣṭyā́ ← vr̥ṣṭí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ayútā ← ayúta- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dádat ← √dā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Tschitra ist ein rechter König, geringe Könige die andern alle, die um die Sar
 Ведь как Парджанья оборачивается дождем,  
 Так он дарит тысячу, десятки тысяч.
 </details>
+

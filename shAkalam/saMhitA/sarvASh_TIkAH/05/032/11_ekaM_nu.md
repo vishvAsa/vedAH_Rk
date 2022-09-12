@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+pā́ñcajanyam ← pā́ñcajanya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sátpatim ← sátpati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+jáneṣu ← jána- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+jātám ← √janⁱ- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+śr̥ṇomi ← √śru- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+yaśásam ← yaśás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āśásaḥ ← āśás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jagr̥bhre ← √gr̥bhⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+náviṣṭham ← náviṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+doṣā́ ← doṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hávamānāsaḥ ← √hū- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vástoḥ ← vástu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Dich rühmt bei Menschen als den einz'gen Herrn man der fünf Geschlechter, den 
 Снова захватили его мои желания,  
 Вечером (и) утром призывающие Индру.
 </details>
+

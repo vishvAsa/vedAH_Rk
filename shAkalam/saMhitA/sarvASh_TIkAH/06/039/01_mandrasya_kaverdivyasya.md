@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+divyásya ← divyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kavéḥ ← kaví- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mandrásya ← mandrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+váhneḥ ← váhni- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vacanásya ← vacaná- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vípramanmanaḥ ← vípramanman- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ápāḥ ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sacanásya ← sacaná- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+góagrāḥ ← góagra- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yuvasva ← √yu- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +217,4 @@ Von diesem muntern, weisen Himmelspriester, dem Methtrank, der gebetbegeistert r
 Ты испил у нас этого спутника, о бог.  
 Подари воспевателю жертвенные услады с коровами во главе!
 </details>
+

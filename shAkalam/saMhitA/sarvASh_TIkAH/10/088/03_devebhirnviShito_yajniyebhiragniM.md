@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+iṣitáḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+nú ← nú (invariable)  
+{}
+
+yajñíyebhiḥ ← yajñíya- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ajáram ← ajára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stoṣāṇi ← √stu- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+bhānúnā ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ātatā́na ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Erregt nun von den opferwerthen Göttern will ich den ew'gen, hohen Agni preisen
 Который (своим) светом протянулся через землю  
 И через это небо – через два мира и через воздушное пространство.
 </details>
+

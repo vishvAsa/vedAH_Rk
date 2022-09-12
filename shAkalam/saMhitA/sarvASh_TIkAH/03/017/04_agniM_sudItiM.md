@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥ṇántaḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sudītím ← sudītí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudŕ̥śam ← sudŕ̥ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ī́ḍyam ← ī́ḍya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+namasyā́maḥ ← √namasy- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+aratím ← aratí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havyavā́ham ← havyavā́h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+akr̥ṇvan ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nā́bhim ← nā́bhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +214,4 @@ Dich Agni preisend, der du strahlst und schön bist, dich werthen ehren wir, o W
 Это тебя боги сделали вестником, посланником (?),  
 Увозящим жертву, пупом бессмертия.
 </details>
+

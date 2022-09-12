@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+áṅgirobhyaḥ ← áṅgiras- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+avr̥ṇot ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+paúṁsyam ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stuṣé ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +174,4 @@ Er, Indra, der's versteht, erschloss den Angiras der Kühe Schar; Ich preise die
 Открыл Ангирасам коров.  
 Я хочу прославить это его мужественное деяние.
 </details>
+

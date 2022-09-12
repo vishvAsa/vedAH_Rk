@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+gamemahi ← √gam- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+pūṣṇā́ ← pūṣán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+abhiśā́sati ← √śās- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+gr̥hā́n ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+brávat ← √brū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+íti ← íti (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +162,4 @@ Vereint mit Puschan lasst uns gehn, der hin uns zu den Häusern weist, Und sprec
 Который указал бы дом  
 И который сказал бы: Вот он!
 </details>
+

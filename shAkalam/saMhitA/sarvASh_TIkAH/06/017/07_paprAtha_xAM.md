@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; 12 = 5+7, ending LHX  
 genre M  
 genre M
+#### Morph
+dáṁsaḥ ← dáṁsas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kṣā́m ← kṣám- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+paprā́tha ← √prā- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+urvī́m ← urú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+r̥ṣváḥ ← r̥ṣvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stabhāyaḥ ← √stambhⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+ádhārayaḥ ← √dhr̥- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+deváputre ← deváputra- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ródasī ← ródasī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+mātárā ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+pratné ← pratná- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yahvī́ ← yahvī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +206,7 @@ Both Oldenberg (ZDMG 55.320 and Noten) and Geldner (fld. by Klein DGRV II.92- 93
 
 But the actual verb form is wrong for all sorts of reasons. First, the indic. pf. of √prath is otherwise only middle, but this would be act. Second, the root √prath  never otherwise has vṛddhi forms, but the root syllable here is prāth. Then, if it is a 3rd sg. (so Geldner “Er breitete …”), it opens a cosmogonic sequence of 2nd sg. expressions, and such formulaic cosmogonies tend to be consistent in ps. and no. (though see 9cd below). Recognizing this last problem, Oldenberg suggests it’s a 2nd sg., standing for
 
-*paprath-tha > *paprattha, with the heavy syllable *atth redistributing metrical
+*paprath-tha &gt; *paprattha, with the heavy syllable *atth redistributing metrical
 weight [not his terminology] to āth. This type of change would not be unusual in Middle Indic, but it would have been useful to provide parallel examples in Rig Veda.
 
 Moreover, since √prath is a seṭ root, we should in any case expect a 2nd sg.
@@ -182,3 +240,4 @@ Du fülltest aus die grosse Erd' ein Prachtwerk, und stütztest, grosser Indra, 
 Ты укрепил две половины мироздания, чьи сыновья - боги,  
 Двух древних матерей, юных (дочерей) закона.
 </details>
+

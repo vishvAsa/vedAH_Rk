@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+rā́dhase ← rā́dhas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+cā́rum ← cā́ru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ghŕ̥ṣvaye ← ghŕ̥ṣvi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dráva ← √dru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +171,4 @@ Zu diesem schönen komme heut zu lust'gem Rausch und reichem Lohn, O Indra, komm
 Для великого дарения, для радостного опьянения!  
 Приди, о Индра, поспеши, пей его!
 </details>
+

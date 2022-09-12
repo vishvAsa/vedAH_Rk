@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+matáyaḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vā́caḥ ← vā́c- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+agmata ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ŕ̥caḥ ← ŕ̥c- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+suṣṭutáyaḥ ← suṣṭutí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jātávedase ← jātávedas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vásave ← vásu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vasūyávaḥ ← vasūyú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+cākánat ← √kanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+várdhanaḥ ← várdhana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ddhā́su ← √vr̥dh- (root)  
+{case:LOC, gender:F, number:PL, non-finite:PPP}
+
+yā́su ← yá- (pronoun)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Ihm sind von uns her diese Lieder zugeeilt, Gebete, Sprüche, Hymnen voll des sc
 Стремясь к благам, к благому Джатаведасу,  
 Которым он должен радоваться, усиливая (их,) хотя они и так сильны.
 </details>
+

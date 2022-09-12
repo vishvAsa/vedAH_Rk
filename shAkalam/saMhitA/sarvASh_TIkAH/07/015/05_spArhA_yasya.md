@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dr̥śé ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+spārhā́ḥ ← spārhá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śríyaḥ ← śrī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīrávataḥ ← vīrávant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yathā ← yathā (invariable)  
+{}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śócataḥ ← √śuc- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ Dess Lichter lieblich sind zu schau'n, wie eines kinderreichen Schatz, Der bei d
 Словно богатство (человека,) у кого много сыновей,  
 Когда (Агни) вспыхивает в начале жертвоприношения.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devávataḥ ← devávant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dvé ← dvá- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+náptuḥ ← nápat- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śaté ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+dvā́ ← dvá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ráthā ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sudā́saḥ ← sudā́s- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vadhū́mantā ← vadhū́mant- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+árhan ← √arh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dā́nam ← dā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+paijavanásya ← paijavaná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+emi ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+rébhan ← √ribh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sádma ← sádman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Zweihundert Rinder, zwei mit Gespann versehene Wagen, vom Sudas, dem Enkel des D
 О Агни, достойный дара Пайджаваны  
 Хожу я вокруг, воспевая, как хотар вокруг места жертвоприношения.
 </details>
+

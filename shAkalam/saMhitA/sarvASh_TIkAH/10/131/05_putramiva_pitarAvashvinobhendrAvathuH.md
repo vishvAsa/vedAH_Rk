@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvínā ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+pitárau ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+āváthuḥ ← √avⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+daṁsánābhiḥ ← daṁsánā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kā́vyaiḥ ← kā́vya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ápibaḥ ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+surā́mam ← surā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhiṣṇak ← √bhiṣaj- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Wie Aeltern ihrem Sohn, so halfen, Indra, die Ritter dir mit Wunderkraft und Wei
 Когда (своими) силами ты выпил (сому) из смеси, отравленной сурой,  
 Сарасвати вылечила тебя, о щедрый.
 </details>
+

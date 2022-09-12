@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árvantaḥ ← árvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+raṁhayante ← √raṁh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dyumnítamam ← dyumnítama- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+yáśaḥ ← yáśas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+devákr̥tam ← devákr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kútas ← kútas (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+mártyakr̥tam ← mártyakr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+naśat ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Dem eilen seine muntern Renner rasch voran, dem wird der schönste Glanz zu Thei
 Ни зло, сотворенное откуда-нибудь богами,  
 Ни сотворенное смертным не настигнет его!
 </details>
+

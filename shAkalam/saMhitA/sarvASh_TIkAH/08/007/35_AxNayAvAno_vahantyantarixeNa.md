@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+akṣṇayā́vānaḥ ← akṣṇayā́van- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vahanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+antárikṣeṇa ← antárikṣa- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pátataḥ ← √pat- 1 (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+dhā́tāraḥ ← dhā́tar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+stuvaté ← √stu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +147,4 @@ In schrägem Schusse fahren sie hinfliegend durch die weite Luft, Dass sie dem S
 (Правя) летящими по воздуху (конями),  
 Наделяя силой восхвалителя.
 </details>
+

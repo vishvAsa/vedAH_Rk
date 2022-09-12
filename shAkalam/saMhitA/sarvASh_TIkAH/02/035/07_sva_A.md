@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sudúghā ← sudúgha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+atti ← √ad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pīpāya ← √pī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+subhú ← subhū́- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+svadhā́m ← svadhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+nápāt ← nápat- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ūrjáyan ← √ūrjay- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bhāti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vasudéyāya ← vasudéya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vidhaté ← √vidh- (root)  
+{case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +248,4 @@ Er, dessen Kuh im eignen Hause Milch gibt, macht fett den Trunk, geniesst die kr
 Этот Апам Напат, набирающийся сил в водах,  
 Ярко светит, чтобы дать добро почитающему (его).
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+evá ← evá (invariable)  
+{}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+madiráḥ ← madirá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+namáyan ← √nam- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+udagrābhásya ← udagrābhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vadhasnaíḥ ← vadhasná- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bháramāṇaḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+rúśantam ← rúśant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+várṇam ← várṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+arṣa ← √arṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gavyúḥ ← gavyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+siktáḥ ← √sic- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +188,7 @@ His solution also does not mesh with passages like I.165.6 víśvasya śátror �
 The expression in pāda c, “encompassing the glistening color,” presumably refers to Soma’s incorporating the gleaming white milk - rendered clearly, if nonliterally, by Geldner’s “weisse Farbe annehmend.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 No particular signs of cohesion in this tṛca, which is a collection of soma tropes. If there is any unifying theme it is movement, with eti (13b), eṣi (14b, c), arṣati (13d), arṣa (15d); for other repeated lexical items also pariṣicyámānaḥ (14d), pári … siktáḥ (15d). Also the final vs. (15) begins with evā́, the common hymn-ending summary particle - an effect that is muted in the published translation
@@ -170,3 +222,4 @@ So riesle flammend denn zur Lust berauschend, den Dieb der Flut mit Keulen niede
 Приобретая светлую окраску.  
 Теки для нас, стремясь к коровам, о сома, когда тебя перелили.
 </details>
+

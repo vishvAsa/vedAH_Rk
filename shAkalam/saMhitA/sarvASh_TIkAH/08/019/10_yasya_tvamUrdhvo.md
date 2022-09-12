@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvarā́ya ← adhvará- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tíṣṭhasi ← √sthā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kṣayádvīraḥ ← kṣayádvīra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sādhate ← √sādh- ~ sidh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+árvadbhiḥ ← árvant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sánitā ← sánitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vipanyúbhiḥ ← vipanyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sánitā ← sánitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śū́raiḥ ← śū́ra- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Für wessen Opfer hoch du aufgerichtet stehst, der Männerherrscher hat Gedeihn,
 Тот выигрывает со (своими) скакунами, тот – со (своими) славящими (певцами).  
 Тот выигрывает ставку со (своими) героями,
 </details>
+

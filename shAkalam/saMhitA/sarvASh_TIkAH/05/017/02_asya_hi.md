@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+sváyaśastaraḥ ← sváyaśastara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āsā́ ← ā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mányase ← √man- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+vidharman ← vídharman- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+citráśociṣam ← citráśocis- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nā́kam ← nā́ka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+mandrám ← mandrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+manīṣáyā ← manīṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+parás ← parás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +185,4 @@ Vor seinen Augen dünkst du dich, o Himmelsraum viel herrlicher; Doch übertriff
 (Я представляю себе) его как небосвод с ярким блеском,  
 Вызывающий радость, за пределами понимания...
 </details>
+

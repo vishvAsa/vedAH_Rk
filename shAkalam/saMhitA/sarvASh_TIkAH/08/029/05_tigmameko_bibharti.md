@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+ā́yudham ← ā́yudha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bibharti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háste ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tigmám ← tigmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jálāṣabheṣajaḥ ← jálāṣabheṣaja- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +141,4 @@ Der eine trägt den scharfen Speer in seiner Hand, der lichte, freundlich heilen
 Один несет в руке острое  
 Оружие. (Он) чистый, грозный, с целительными лекарствами.
 </details>
+

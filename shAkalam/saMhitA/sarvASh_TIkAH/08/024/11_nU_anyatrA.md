@@ -15,13 +15,56 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+anyátra ← anyátra (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+āśásaḥ ← āśás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jagmuḥ ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+mághavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śagdhí ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +178,4 @@ Zu keinem andern als zu dir gehn unsre Wünsche, Schleuderer, Durch deine Hülfe
 Чем ты, не шли наши желания!  
 Сделай нам это возможным своими поддержками!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+kārávaḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vāvaśúḥ ← √vaś- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+medhásātaye ← medhásāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+víprāsaḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śr̥ṇudhi ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+venáḥ ← vená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Denn diese Sänger jauchzten dir mit Andacht zu, die Priester zu dem Opfermahl; 
 Ты, щедрый Индра, жаждущий воспевания,  
 Услышь наш зов, как возлюбленный!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dūḷábhāsaḥ ← dūḷábha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+acetásam ← acetás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+citayanti ← √cit- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dákṣaiḥ ← dákṣa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ápi ← ápi (invariable)  
+{}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sucétasam ← sucétas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vátantaḥ ← √vat- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+nayanti ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+supáthā ← supátha- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Nicht sind zu täuschen Varuna und Mitra, den Thoren auch belehren sie durch Wei
 Внушая силу духа, делающую очень разумным,  
 Они ведут прекрасным путем даже сквозь узость.
 </details>
+

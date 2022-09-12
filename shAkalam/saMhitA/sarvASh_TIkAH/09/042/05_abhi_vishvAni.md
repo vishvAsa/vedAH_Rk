@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+vā́ryā ← vā́rya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥tāvŕ̥dhaḥ ← r̥tāvŕ̥dh- (nominal stem)  
+{case:ACC, number:PL}
+
+arṣati ← √arṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +142,4 @@ Und alle Güter strömt er zu den Göttern, die des Rechts sich freun, Der Soma,
 
 -ru-
 </details>
+

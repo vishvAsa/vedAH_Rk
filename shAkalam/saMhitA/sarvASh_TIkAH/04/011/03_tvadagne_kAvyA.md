@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kā́vyā ← kā́vya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+manīṣā́ḥ ← manīṣā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+jāyante ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+rā́dhyāni ← rā́dhya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+vīrápeśāḥ ← vīrápeśas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+itthā́dhiye ← itthā́dhī- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mártyāya ← mártya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +222,4 @@ Von dir, o Agni, stammen Dichtergaben, von dir Gesänge, Sprüche, die gelingen,
 От тебя идет богатство, чье украшение – герои,  
 Для почитающего (тебя) смертного, чья забота так (направлена).
 </details>
+

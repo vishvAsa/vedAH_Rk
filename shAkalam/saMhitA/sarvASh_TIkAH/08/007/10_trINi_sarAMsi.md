@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+pŕ̥śnayaḥ ← pŕ̥śni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sárāṁsi ← sáras- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+duduhré ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vajríṇe ← vajrín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kávandham ← kávandha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+udríṇam ← udrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+útsam ← útsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +154,4 @@ Drei süsse Seen ergossen da die Kühe für die blitzenden, Den Born, das wellen
 (Эти) Пришни дали надоить из себя для громовержца,  
 Источник (и) бочку, полную воды.
 </details>
+

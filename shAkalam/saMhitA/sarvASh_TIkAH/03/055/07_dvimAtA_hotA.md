@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+dvimātā́ ← dvimātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samrā́ṭ ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+budhnáḥ ← budhná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cárati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣéti ← √kṣi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bharante ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+ráṇyāni ← ráṇya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+raṇyavā́caḥ ← raṇyavā́c- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asuratvám ← asuratvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +233,4 @@ Sohn zweier Mütter, Priester, Herr der Feste, nach aufwärts geht er, ruhend is
 Радостные (жертвы) приносят (ему) радостно говорящие (жрецы).  
 Велико могущество богов, единственно.
 </details>
+

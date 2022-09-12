@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+īráyanti ← √īr- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+śávasaḥ ← śávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ugrásya ← ugrá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vr̥ddhā́ḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ápa ← ápa (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+dvéṣaḥ ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hváraḥ ← hváras- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+anyávratasya ← anyávrata- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+saścire ← √sac- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +192,4 @@ Die, Agni, dir nicht huldigen beim Wachsen deiner starken Kraft, Die sind gerath
 Они все больше и больше удаляются (от праведного пути),  
 (Следуя) ненавести (и) извилистости того, кто придерживается других обетов.
 </details>
+

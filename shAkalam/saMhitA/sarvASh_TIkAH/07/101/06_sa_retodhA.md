@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D;; repeated line  
 genre D  
 genre D  
 genre D;; repeated line
+#### Morph
+retodhā́ḥ ← retodhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śáśvatīnām ← śáśvant- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ātmā́ ← ātmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+jágataḥ ← jágat- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+tasthúṣaḥ ← √sthā- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pātu ← √pā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śatáśāradāya ← śatáśārada- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ Er ist der Stier, der alles stets befruchtet, der Odem dessen, was da steht und 
 Эта истина да сохранит меня для жизни в сто осеней!  
 Защищайте вы нас всегда (своими) милостями.
 </details>
+

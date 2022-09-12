@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+purupriyā́ ← purupriyá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+purumandrā́ ← purumandrá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+purūvásū ← purūvásu- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+káṇvāsaḥ ← káṇva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+stuṣé ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +126,7 @@ I emend the accented nom. káṇvāsaḥ to accentless *kaṇvāsaḥ, thus avoi
 
 enclitic naḥ encompasses the poet himself and those addressed in the voc. 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/005/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/005/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 Both these vss., though not belonging to the same tṛca, most likely contain 1st sg. -se forms.
@@ -132,3 +157,4 @@ Die vielgeliebten preise ich, die Ritter reich an Freud' und Gut, O Kanva's, zur
 Очень богатых добром Ашвинов  
 Я хочу восхвалить, – (мы) Канвы, – для нашей поддержки,
 </details>
+

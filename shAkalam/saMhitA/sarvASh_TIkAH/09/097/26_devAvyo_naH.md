@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devāvyàḥ ← devāvī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pariṣicyámānāḥ ← √sic- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:PASS}
+
+dhanvantu ← √dhanv- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+kṣáyam ← kṣáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvī́ram ← suvī́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āyajyávaḥ ← āyajyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+viśvávārāḥ ← viśvávāra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+diviyájaḥ ← diviyáj- (nominal stem)  
+{}
+
+hótāraḥ ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mandrátamāḥ ← mandrátama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +172,7 @@ line, and these possibilities are disc. in more detail by Scarlatta without a fi
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/25-27.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 Like the tṛca 19-21, this one focuses in great part on the gods as drinkers of soma and the desire to bring them to the ritual; the “pursuit” (vītím) of Indra and Vāyu in 25b is reprised in devā-vī́- ‘pursuing the gods’ in 26a, while the gods are mentioned twice in 27ab. The final vs. also begins with the typical hymnsummarizing evā́as three times elsewhere in this hymn (vss. 13-15, 19-21, 34-36).
@@ -163,3 +206,4 @@ Uns mögen männerreiche Habe strömen die ringsergossnen Soma's, Götter labend
 (Они,) создающие жертвой прекрасную мысль, имеющие все желанное,  
 Подобные хотарам, жертвующим на небе, самые веселые!
 </details>
+

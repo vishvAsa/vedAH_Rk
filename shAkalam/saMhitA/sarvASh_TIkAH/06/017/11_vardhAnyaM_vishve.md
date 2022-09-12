@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sajóṣāḥ ← sajóṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+várdhān ← √vr̥dh- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahiṣā́n ← mahiṣá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pácat ← √pac- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dhāvan ← √dhāv- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárāṁsi ← sáras- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aṁśúm ← aṁśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+madirám ← madirá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥traháṇam ← vr̥trahán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Dir, den vereint die Maruts alle stärken, dir briet, o Indra, Puschan hundert B
 Пушан (и) Вишну налили три озера:  
 Сому, убивающего Вритру, пьянящего – для него.
 </details>
+

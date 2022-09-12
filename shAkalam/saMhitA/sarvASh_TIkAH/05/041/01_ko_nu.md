@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mitrāvaruṇau ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nú ← nú (invariable)  
+{}
+
+r̥tāyán ← √r̥tāy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+dé ← dā́- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+pā́rthivasya ← pā́rthiva- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sádasi ← sádas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+trā́sīthām ← √trā- (root)  
+{number:DU, person:2, mood:OPT, tense:AOR, voice:MED}
+
+vā ← vā (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+paśuṣáḥ ← paśuṣā́- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yajñāyaté ← √yajñāy- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +249,4 @@ Wer gilt euch fromm nun, Varuna und Mitra? Im Raum des hohen Himmels und der Erd
 Или на сидении закона? – Защитите нас! –  
 Или тому, кто приносит жертву, (дайте) награды, (какие бывают) у завоевателя скота!
 </details>
+

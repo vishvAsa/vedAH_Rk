@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+ichāt ← √iṣ- 2 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sūnúḥ ← sūnú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áśru ← áśru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vartayat ← √vr̥t- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+vijānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dámpatī ← dámpati- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sámanasā ← sámanas- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ví ← ví (invariable)  
+{}
+
+yūyot ← √yu- 2 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ádha ← ádha (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dī́dayat ← √dī- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+śváśureṣu ← śváśura- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Wann wird der Sohn, der geborene, nach dem Vater verlangen? wenn er's erfährt, 
 
 -ru-
 </details>
+

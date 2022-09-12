@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádāśat ← √dāś- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+purukútsānī ← purukútsānī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+havyébhiḥ ← havyá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+indrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+rā́jānam ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+trasádasyum ← trasádasyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ardhadevám ← ardhadevá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadathuḥ ← √dā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+vr̥traháṇam ← vr̥trahán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +191,4 @@ Weil Purukutsa's Gattin euch mit Opfern huldigte, o Indra-Varuna ehrfurchtsvoll,
 Тогда ей даровали царя Трасадасью,  
 Убийцу врагов, полубога.
 </details>
+

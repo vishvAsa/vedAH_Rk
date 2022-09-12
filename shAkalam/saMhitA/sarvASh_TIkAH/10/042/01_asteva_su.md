@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ástā ← ástar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásyan ← √as- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+lā́yam ← lā́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pratarám ← pratarám (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bhū́ṣan ← √bhūṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tarata ← √tr̥̄- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vācā́ ← vā́c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+viprāḥ ← vípra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jaritar ← jaritár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+rāmaya ← √ram- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sóme ← sóma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +240,4 @@ Dem Schützen gleich weit werfend meine Lanze, bring' ich ihm Lob dar wie ein Tr
 О вдохновенные, речью пресеките речь врага!  
 О певец, удержи Индру у сомы!
 </details>
+

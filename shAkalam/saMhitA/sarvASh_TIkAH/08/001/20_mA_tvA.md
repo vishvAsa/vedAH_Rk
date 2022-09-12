@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gáldayā ← gáldā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sádā ← sádā (invariable)  
+{}
+
+yā́can ← √yāc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bhū́rṇim ← bhū́rṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cukrudham ← √krudh- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+mr̥gám ← mr̥gá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sávaneṣu ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ī́śānam ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yāciṣat ← √yāc- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Nicht mög' ich, der beim Somastrom ich immer flehte mit Gebet, Beim Fest zum Zo
 Когда я умоляю тебя речью, струящейся (?) сомой.  
 Кто же не станет умолять могучего?
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sutā́ḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+dadhiṣva ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
+
+śatakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+jaṭháre ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vājinīvaso ← vājínīvasu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +141,4 @@ Gebraut sind, Indra, Tränke dir, die nimm, o hundertwirkender, O gabenreicher, 
 Прими их к себе в утробу,  
 О стоумный, о богатый наградами!
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+āhuta ← √hu- (root)  
+{case:VOC, gender:M, number:SG, non-finite:PPP}
+
+sámiddhaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+svadhvara ← svadhvará- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yakṣi ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+havyavā́ṭ ← havyavā́h- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Entflammt, o Agni, opferreich, die Götter ehr beopferter; Du bist's ja, der die
 Принеси жертву богам, о прекрасно исполняющий обряд!  
 Ведь ты возница жертв.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+nr̥mṇavárdhanaḥ ← nr̥mṇavárdhana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+bāhvóḥ ← bāhú- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+hitáḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pradívi ← pradív- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́bhr̥taḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+brā́hmaṇāt ← brā́hmaṇa- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+piba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tr̥pát ← tr̥pát (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +235,4 @@ Der Soma hier vermehret deines Leibes Kraft, von je ist Sieg und Kraft in deinen
 Для тебя выжатый (сома), о щедрый, для тебя принесен.  
 Испей ты его досыта из кубка брахмана!
 </details>
+

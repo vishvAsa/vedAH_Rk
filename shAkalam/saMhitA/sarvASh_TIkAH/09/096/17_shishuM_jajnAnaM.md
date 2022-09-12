@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+haryatám ← haryatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jajñānám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+mr̥janti ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śíśum ← śíśu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gaṇéna ← gaṇá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śumbhánti ← √śubh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+váhnim ← váhni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kā́vyena ← kā́vya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rébhan ← √ribh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +203,7 @@ In c I have rendered the nom. pres. part. sán concessively, in its usual value,
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/17-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/17-18.md">
 <details open><summary><h2>17-18 ...{Loading}...</h2></summary>
 
 These two vss. outfit Soma with the lexicon of poetry, with 17c concentrating on kaví- and 18a on ṛ́ṣi-, though with kaví- returning in pāda b
@@ -180,3 +235,4 @@ Das neugeborne schöne Füllen streicheln und schmücken auf der Fahrt die Marut
 Поэт со (своими) песнями, будучи поэтом по (своей) поэтической силе,  
 Сома проходит через цедилку, распевая!
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kavichádā ← kavichád- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+jūtyā́ ← jūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vr̥ṇe ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+tr̥mpatām ← √tr̥p- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Die Sängerfreunde wähl' ich mir, Indrāgni, in des Opfers Drang; Dass hier des
 Я выбираю, подзадоривая жертвой.  
 Да насытятся они здесь сомой!
 </details>
+

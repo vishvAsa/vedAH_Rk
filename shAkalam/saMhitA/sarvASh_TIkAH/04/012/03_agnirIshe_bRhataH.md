@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{}
+
+īśe ← √īś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+kṣatríyasya ← kṣatríya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paramásya ← paramá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vā́jasya ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dádhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidhaté ← √vidh- (root)  
+{case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+
+yáviṣṭhaḥ ← yáviṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+mártyāya ← mártya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svadhā́vān ← svadhā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Agni gebietet über grosse Herrschaft, und Agni über Speis' und schönsten Reic
 Он наделяет сокровищем почитателя (своего) по заслугам,  
 Смертного – самый юный (бог,) следующий своему обычаю.
 </details>
+

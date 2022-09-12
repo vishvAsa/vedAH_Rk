@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+puróhitaḥ ← puróhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukthé ← ukthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+grā́vāṇaḥ ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥cā́ ← ŕ̥c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yāmi ← √yā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+váreṇyam ← váreṇya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +186,4 @@ Dem Spruch ist Agni vorgesetzt, dem Opfer Steine und die Streu; Ich geh mit Lied
 С гимном я обращаюсь к Марутам, к Брахманаспати,  
 К богам за избранной помощью.
 </details>
+

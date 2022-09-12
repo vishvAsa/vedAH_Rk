@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+yātu ← √yā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+sadhamā́t ← sadhamád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stutáḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+táviṣīḥ ← táviṣī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vāvr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+abhíbhūti ← abhíbhūti- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+púṣyāt ← √puṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Herbei zur Labung komme hier uns Indra, der Held sei uns gerühmter Festgenosse,
 Который, подкрепившись, может развернуть  
 (Свои) многочисленные силы, словно небо – (свое) всепокоряющее господство.
 </details>
+

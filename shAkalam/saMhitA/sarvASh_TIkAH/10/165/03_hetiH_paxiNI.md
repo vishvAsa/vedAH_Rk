@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+dabhāti ← √dabh- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+hetíḥ ← hetí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pakṣíṇī ← pakṣín- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+agnidhā́ne ← agnidhā́na- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+āṣṭryā́m ← āṣṭrī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+góbhyaḥ ← gáv- ~ gó- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+púruṣebhyaḥ ← púruṣa- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+hiṁsīt ← √hiṁs- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+kapótaḥ ← kapóta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +243,4 @@ Wenn wir durch Wunsch, durch Tadel oder Verwünschung, wachend oder schlafend un
 Да будет счастье нашим коровам и людям!  
 Да не поразит здесь нас голубь, о боги!
 </details>
+

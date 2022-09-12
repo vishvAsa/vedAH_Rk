@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dā́nam ← dā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ínvan ← √i- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+janúṣā ← janúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mŕ̥dhaḥ ← mŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+áhan ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+gávā ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+saṁcakānáḥ ← √kā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+átra ← átra (invariable)  
+{}
+
+dāsásya ← dāsá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+námuceḥ ← námuci- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ávartayaḥ ← √vr̥t- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ichán ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Nach deiner Art zerschlugst du bald die Feinde, durch Trank erfrischt, die Gabe 
 (Это было) тогда, когда ты пустил катиться голову  
 Дасы Намучи, ища выхода для Ману.
 </details>
+

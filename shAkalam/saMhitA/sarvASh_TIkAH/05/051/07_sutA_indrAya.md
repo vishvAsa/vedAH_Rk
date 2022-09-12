@@ -15,14 +15,48 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sutā́ḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+vāyáve ← vāyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dádhyāśiraḥ ← dádhyāśir- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nimnám ← nimná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+práyaḥ ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Dem Indra und dem Vaju sind gebraut die Soma's, milchgemischt Wie Flüsse gehn s
 (Соки) сомы, смешанные с кислым молоком.  
 Словно реки в низину, движутся они – в (полное) удовольствие.
 </details>
+

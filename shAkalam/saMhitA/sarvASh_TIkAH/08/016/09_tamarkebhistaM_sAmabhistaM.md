@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+arkébhiḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sā́mabhiḥ ← sā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+carṣaṇáyaḥ ← carṣaṇí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gāyatraíḥ ← gāyatrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kṣitáyaḥ ← kṣití- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vardhanti ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Alle Menschen, alle Völker preisen Indra mit Gesängen, Ihn mit Liedern, ihn mi
 (И) поселения хвалами,  
 Его – мелодиями, его – песнопениями.
 </details>
+

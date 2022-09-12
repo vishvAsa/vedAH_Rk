@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+akran ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+goṣṭhé ← goṣṭhá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+raṇáyantu ← √ranⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sī́dantu ← √sad- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+prajā́vatīḥ ← prajā́vant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pururū́pāḥ ← pururū́pa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+syuḥ ← √as- 1 (root)  
+{number:PL, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+dúhānāḥ ← √duh- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +232,4 @@ Gekommen sind die Kühe, Holdes wirkend, sie mögen ruhn im Stall, bei uns sich 
 Пусть будут они здесь богатыми потомством, многообразными,  
 Доящимися для Индры много зорь!
 </details>
+

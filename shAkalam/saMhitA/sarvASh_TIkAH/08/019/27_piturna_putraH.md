@@ -14,12 +14,46 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+súbhr̥taḥ ← súbhr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Dem Sohne gleich, der schön gepflegt in seines Vaters Hause weilt, geh zu den G
 Как сын, взлелеянный в доме отца,  
 Пусть наше возлияние проследует к богам!
 </details>
+

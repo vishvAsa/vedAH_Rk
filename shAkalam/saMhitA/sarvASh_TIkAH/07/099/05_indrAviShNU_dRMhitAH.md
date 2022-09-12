@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dr̥ṁhitā́ḥ ← √dr̥h- (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
+índrāviṣṇū ← índrāvíṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śámbarasya ← śámbara- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+náva ← náva- 1 (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+navatím ← navatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śnathiṣṭam ← √śnathⁱ- (root)  
+{number:DU, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sākám ← sākám (invariable)  
+{}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+varcínaḥ ← varcín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+apratí ← apratí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ásurasya ← ásura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hatháḥ ← √han- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vīrā́n ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Ihr bracht die Burgen ab, o Indra, Vischnu, des Çambara, die neunundneunzig Fes
 Сотню и тысячу мужей асуры Варчина  
 Вы убили сразу, без сопротивления.
 </details>
+

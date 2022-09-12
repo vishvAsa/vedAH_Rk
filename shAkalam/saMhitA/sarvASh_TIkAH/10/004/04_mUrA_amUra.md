@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amūra ← ámūra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cikitvaḥ ← √cit- (root)  
+{case:VOC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+mūrā́ḥ ← mūrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+mahitvám ← mahitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vitse ← √vid- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+adán ← √ad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+cárati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jihváyā ← jihvā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śáye ← √śī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vavríḥ ← vavrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rerihyáte ← √rih- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+viśpátiḥ ← viśpáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuvatím ← yuvatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Wir sind wie Thoren, unbethörter, weiser; du hast allein, o Agni, wahre Grösse
 (Вот) лежит (его) покров; он странствует, пожирая языком.  
 Как господин племени он целует непрерывно юницу.
 </details>
+

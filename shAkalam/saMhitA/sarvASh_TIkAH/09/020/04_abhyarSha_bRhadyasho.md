@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+arṣa ← √arṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáśaḥ ← yáśas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhruvám ← dhruvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maghávadbhyaḥ ← maghávan- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +155,4 @@ Den Opferherren ströme zu erhabnen Glanz und dauernd, Gut, Den Sängern bringe 
 (Нашим) щедрым покровителям, прочное богатство!  
 Принеси усладу восхвалителям!
 </details>
+

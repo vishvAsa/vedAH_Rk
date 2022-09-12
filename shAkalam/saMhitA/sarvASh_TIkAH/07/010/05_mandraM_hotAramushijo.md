@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mandrám ← mandrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uśíjaḥ ← uśíj- (nominal stem)  
+{case:NOM, number:PL}
+
+yáviṣṭham ← yáviṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adhvaréṣu ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ábhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+kṣápāvān ← kṣápāvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+átandraḥ ← átandra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajáthāya ← yajátha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +204,4 @@ Den holden Priester preisen alle Stämme, den jüngsten Agni eifrig bei den Opfe
 Ведь это он был покровителем богатств на земле.  
 Неутомимый вестник, (служащий) чтобы почитать богов.
 </details>
+

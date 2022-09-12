@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vívācaḥ ← vívāc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+carṣaṇáyaḥ ← carṣaṇí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hávante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+śū́rasātau ← śū́rasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+aśāyaḥ ← √aśāy- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+paṇī́n ← paṇí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+víprebhiḥ ← vípra- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+árvā ← árvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sánitā ← sánitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvótaḥ ← tvóta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Denn dich, o Indra, rufen an die Menschen, die kämpfenden um Hülfe in der Feld
 Ты с помощью вдохновенных покончил с Пани.  
 Только поддержанный тобой скакун завоевывает награду.
 </details>
+

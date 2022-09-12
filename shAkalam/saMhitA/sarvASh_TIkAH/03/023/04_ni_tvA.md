@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+váre ← vára- 2 (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+íḷāyāḥ ← íḷā- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sudinatvé ← sudinatvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+āpayā́yām ← āpayā́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+dr̥ṣádvatyām ← dr̥ṣádvatī- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+mā́nuṣe ← mā́nuṣa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+didīhi ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sárasvatyām ← sárasvant- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Dich setzte ein der Mensch im Kreis der Erde, im Sitz der Andacht, in der Tage G
 На Дришадвати, у (озера) Мануша, на Апае,  
 На Сарасвати воссияй богатство, о Агни!
 </details>
+

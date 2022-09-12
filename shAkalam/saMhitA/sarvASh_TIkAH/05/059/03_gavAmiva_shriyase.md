@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+śriyáse ← śriyás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śŕ̥ṅgam ← śŕ̥ṅga- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uttamám ← uttamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+visárjane ← visárjana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+átyāḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cā́ravaḥ ← cā́ru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+sthana ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+subhvàḥ ← subhū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cetatha ← √cit- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+máryāḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śriyáse ← śriyás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +241,4 @@ Zu schönem Anblick, wie der Stiere höchtes Horn, wie Aug' der Sonne, wenn das 
 Вы красивы, как статные кони.  
 Словно юноши, красуясь, вы привлекаете внимание, о мужи.
 </details>
+

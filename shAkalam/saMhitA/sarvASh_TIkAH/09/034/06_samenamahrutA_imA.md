@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+áhrutāḥ ← áhruta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+arṣanti ← √arṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sasrútaḥ ← sasrút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+avīvaśat ← √vāś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dhenū́ḥ ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vāśráḥ ← vāśrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Ihm eilen diese Lieder zu im Strom, nicht weichend; brüllend hat Der Kühe Brü
 Текут все вместе к нему.  
 Ревущий вызвал мычание дойных коров.
 </details>
+

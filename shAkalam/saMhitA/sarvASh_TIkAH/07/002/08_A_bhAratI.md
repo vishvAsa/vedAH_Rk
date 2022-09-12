@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhā́ratī ← bhā́ratī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhā́ratībhiḥ ← bhā́ratī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+íḷā ← íḷā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+manuṣyèbhiḥ ← manuṣyà- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sārasvatébhiḥ ← sārasvatá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sadantu ← √sad- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Und Bharati mit Bharati's vereinigt, Ida mit Göttern, Agni mit den Menschen, Sa
 богини  
 усядутся здесь на эту жертвенную солому!
 </details>
+

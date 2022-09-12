@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kavím ← kaví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́nuṣīṇām ← mā́nuṣa- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+viśpátim ← viśpáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ghr̥tápr̥ṣṭham ← ghr̥tápr̥ṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pāvakám ← pāvaká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śúcim ← śúci- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadhidhve ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:MED}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+viśvavídam ← viśvavíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vanate ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+vā́ryāṇi ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +217,4 @@ Den weisen Hausherrn aller Menschenstämme, der hell erglänzt, den fettbedeckte
 Вы назначили всезнающим хотаром.  
 Он добывает среди богов желанные вещи.
 </details>
+

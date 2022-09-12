@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+grā́vā ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sotári ← sotár- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+dvéṣāṁsi ← dvéṣas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sanutár ← sanutár (invariable)  
+{}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yuyota ← √yu- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ī́ḍyaḥ ← ī́ḍya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāyúḥ ← pāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sarvátātim ← sarvátāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +213,4 @@ Es heb', o gute, bei dem Presser sich der Stein; verjaget alle unsre Feinde weit
 
 -ru-
 </details>
+

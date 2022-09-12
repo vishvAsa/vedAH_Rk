@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D
+#### Morph
+ásamātim ← ásamāti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nitóśanam ← nitóśana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+niyayínam ← niyayín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tveṣám ← tveṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhajérathasya ← bhajératha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sátpatim ← sátpati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,3 +131,4 @@ Dem Wagen auch, der eilend kommt, dem unvergleichlich spendenden, Um zu gewinnen
 Имеющему сверкающую колесницу, переезжающую (врагов),  
 К благому господину Бхаджератхи;
 </details>
+

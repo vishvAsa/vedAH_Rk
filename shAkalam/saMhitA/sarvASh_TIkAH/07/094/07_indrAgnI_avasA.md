@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+carṣaṇīsahā ← carṣaṇīsáh- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+duḥśáṁsaḥ ← duḥśáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īśata ← √īś- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +160,4 @@ O Indra-Agni, kommt mit Huld zu uns, o Menschenherrscher ihr, Nicht sieg' ein B�
 К нам, о (вы,) господствующие над народами!  
 Да не овладеет нами злоречивец!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+parāśaráḥ ← parāśará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yātūnā́m ← yātú- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+āvívāsatām ← √vanⁱ- (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT, mood:DES}
+
+havirmáthīnām ← havirmáthi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+paraśúḥ ← paraśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śakráḥ ← śakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+vánam ← vána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+bhindán ← √bhid- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+pā́trā ← pā́tra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+satáḥ ← √as- 1 (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Indra war der Vernichter der Zaubergeister und der Opferstörer, die sich wider 
 Как топор (входит) в дерево, целиком раскалывая сосуды,  
 (так) могучий набрасывается на ракшасов.
 </details>
+

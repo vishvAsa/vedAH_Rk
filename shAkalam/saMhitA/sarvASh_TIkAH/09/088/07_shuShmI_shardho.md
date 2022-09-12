@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śuṣmī́ ← śuṣmín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánabhiśastā ← ánabhiśasta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+divyā́ ← divyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+víṭ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sumatíḥ ← sumatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pr̥tanāṣā́ṭ ← pr̥tanāṣáh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásrāpsāḥ ← sahásrāpsas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +232,4 @@ O riesle feurig, wie die Schar der Maruts, unangefochten wie das Heer des Himmel
 Быстрый, как воды, будь расположен к нам,  
 С тысячей обликов, подобный жертве, дающей победу над вражеским войском.
 </details>
+

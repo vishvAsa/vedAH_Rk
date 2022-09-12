@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sarátham ← sarátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yātháḥ ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bhávathaḥ ← √bhū- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sámokasā ← sámokas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vā ← vā (invariable)  
+{}
+
+vāyúnā ← vāyú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ādityébhiḥ ← ādityá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+r̥bhúbhiḥ ← r̥bhú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sajóṣasā ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tíṣṭhathaḥ ← √sthā- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+vikrámaṇeṣu ← vikrámaṇa- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+víṣṇoḥ ← víṣṇu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Wenn ihr mit Indra auf gleichem Wagen fahrt, wenn, o Ritter, ihr mit Vaju in gle
 Когда вы объединены с Адитьями, с Рибху,  
 Или когда находитесь там, где шагает Вишну...
 </details>
+

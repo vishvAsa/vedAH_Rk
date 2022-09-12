@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tanūkŕ̥dbhyaḥ ← tanūkŕ̥t- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+anyákr̥tebhyaḥ ← anyákr̥ta- (nominal stem)  
+{case:DAT, gender:N, number:PL}
+
+dvéṣobhyaḥ ← dvéṣas- (nominal stem)  
+{case:DAT, gender:N, number:PL}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+várūtham ← várūtha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yantā́ ← yantár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -102,8 +130,6 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 अयमर्थः - हे सोम त्वं खलु तनूकृद्भ्योपि तनूकृतोनुप्रविश्य स्थितोसि । अत्र प्रासादात्प्रेक्षत इतिवल्ल्यब्लोपे कर्मणि पञ्चमी । त्वमपि तनूकृतां मध्ये कश्चिदेक इत्यर्थः । यद्वा - 'सुपां सुपोभवन्ति' इति सोर्भ्यसादेशः, यथा - 'तनूकृध्येषः' इति ब्राह्मणम् । यस्मादेवं तस्माद् अन्यैर्युष्मद्व्यतिरिक्तैः दुरात्मभिः कृतानि यानि द्वेषांसि युष्मत्कृततनूविरोधीति ज्यरादीनि व्यसनानि तेभ्यो यन्ता त्वमेवास्माकमुरु वरूथमिति । 'सुवर्गाय वा एतानि लोकाय हूयन्ते यद्वैसर्जनानि' इत्यादि ब्राह्मणम् ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -141,7 +167,6 @@ Thou, Soma, givest wide defence against the hate of alien men,
 Thou, O Soma, art the giver of wide protection from hostility, brought about by ourselves or by others;
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Du, Soma, pflegst deinen leiblichen Erzeugern eine weite Schutzwehr gegen die von anderen angetanen Feindseligkeiten zu bieten.
@@ -158,3 +183,4 @@ Du, o Soma, reichest Schutzwehr vor den selbsterzeugten Leiden, Vor den anderwä
 От враждебных действий, вызванных самими,  
 (От враждебных действий), вызванных другими.
 </details>
+

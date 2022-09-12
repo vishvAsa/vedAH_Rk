@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádevena ← ádeva- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+riṣaṇyáti ← √riṣaṇy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+jíghāṁsati ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+mányamānaḥ ← √man- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+śāsā́m ← śā́s- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+práṇak ← √naś- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+vadháḥ ← vadhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+durévasya ← duréva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+karma ← √kr̥- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+manyúm ← manyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+śárdhataḥ ← √śardh- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Wer gottvergessnen Sinnes zu beschäd'gen sucht, und wer den Sänger, stark sich
 О Брихаспати, да не попадет в нас его смертельное оружие!  
 Да усмирим мы ярость дерзкого злодея!
 </details>
+

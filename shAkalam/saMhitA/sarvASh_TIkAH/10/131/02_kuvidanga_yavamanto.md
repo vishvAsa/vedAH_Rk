@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aṅgá ← aṅgá (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+kuvít ← kuvít (invariable)  
+{}
+
+yávam ← yáva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yávamantaḥ ← yávamant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anupūrvám ← anupūrvám (invariable)  
+{}
+
+dā́nti ← √dā- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+viyū́ya ← √yu- 1 (root)  
+{non-finite:CVB}
+
+yáthā ← yáthā (invariable)  
+{}
+
+bhójanāni ← bhójana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+ihéha ← ihá (invariable)  
+{}
+
+kr̥ṇuhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+barhíṣaḥ ← barhís- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+jagmúḥ ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+námovr̥ktim ← námovr̥kti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Fürwahr, so recht wie Schnitter das Getreide in Reihen mähen, miteinander wech
 Туда-сюда доставляй средства питания (тех),  
 Кто не пришел к раскладыванию жертвенной соломы для почитания (богов)!
 </details>
+

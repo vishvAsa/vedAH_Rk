@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+máṁhiṣṭhā ← máṁhiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vājasā́tamā ← vājasā́tama- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+iṣáyantā ← √iṣ- 1 (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+
+pátī ← páti- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śubháḥ ← śúbh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dāśúṣaḥ ← dāśváṁs- (nominal stem)  
+{}
+
+gántārā ← gántar- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+gr̥hám ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +138,4 @@ Die gütigsten, erlabendsten, die nahrungsreichen Glanzesherrn Besuchen des Vere
 Дающих подкрепление повелителей красоты,  
 Приходящих в дом почитателя.
 </details>
+

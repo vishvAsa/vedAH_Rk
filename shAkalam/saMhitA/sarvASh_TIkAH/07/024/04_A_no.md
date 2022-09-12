@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+víśvābhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+haryaśva ← háryaśva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+juṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sthávirebhiḥ ← sthávira- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+suśipra ← suśiprá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+várīvr̥jat ← √vr̥j- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Komm her zu uns, versehn mit allen Hülfen, Gebet annehmend, du mit goldnen Ross
 Поворачивая (сюда) на крепких (конях), о прекрасногубый,  
 Наделяя нас бычьей яростью, о Индра!
 </details>
+

@@ -17,15 +17,61 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+uchántyām ← √vas- 1 (root)  
+{case:LOC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+yajatā́ ← yajatá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+devákṣatre ← devákṣatra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rúśadgavi ← rúśadgav- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+hastíbhiḥ ← hastín- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutám ← √su- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhāvatam ← √dhāv- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+paḍbhíḥ ← pád- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+arcanā́nasam ← arcanā́nas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bíbhratau ← √bhr̥- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +189,4 @@ Beim Morgenlichte, o ihr beiden ehrwürdigen, im Götterreich, das schimmernde R
 (Так) поспешите вы ногами, о два мужа,  
 Поддерживая Арчананаса.
 </details>
+

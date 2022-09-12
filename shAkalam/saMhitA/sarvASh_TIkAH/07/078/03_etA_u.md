@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adr̥śran ← √dr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+etā́ḥ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+purástāt ← purástāt (invariable)  
+{}
+
+tyā́ḥ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+u ← u (invariable)  
+{}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vibhātī́ḥ ← √bhā- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+yáchantīḥ ← √yam- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ájījanan ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ájuṣṭam ← ájuṣṭa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+apācī́nam ← apācī́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Schon zeigten östlich sich die Morgenröthen, den Lichtschein hier verbreitend,
 Они породили солнце, жертву, огонь.  
 Безрадостный мрак ушел на запад.
 </details>
+

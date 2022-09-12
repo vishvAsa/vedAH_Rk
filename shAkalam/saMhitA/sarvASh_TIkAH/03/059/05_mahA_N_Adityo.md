@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ādityáḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+upasádyaḥ ← upasádya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+suśévaḥ ← suśéva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yātayájjanaḥ ← yātayájjana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+júṣṭam ← júṣṭa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pányatamāya ← pányatama- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agnaú ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+juhota ← √hu- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mitrā́ya ← mitrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Ja, gross ist Mitra, demuthsvoll zu ehren, die Menschen eint er und ist hold dem
 Поэтому для самого удивительного Митры  
 Возлейте в огонь эту желанную жертву!
 </details>
+

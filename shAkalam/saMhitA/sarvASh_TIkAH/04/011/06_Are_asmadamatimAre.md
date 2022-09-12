@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámatim ← ámati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āré ← āré (invariable)  
+{}
+
+āré ← āré (invariable)  
+{}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+āré ← āré (invariable)  
+{}
+
+durmatím ← durmatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nipā́si ← √pā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+víśvām ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+doṣā́ ← doṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+śiváḥ ← śivá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sácase ← √sac- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +238,4 @@ Halt fern von uns die Armuth, fern Bedrängniss, und jede Misgunst fern du, uns 
 Ночью (ты) милостив (к тому), о Агни, сын силы,  
 Кого ты, бог, сопровождаешь на счастье.
 </details>
+

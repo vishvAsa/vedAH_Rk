@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+náhuṣaḥ ← náhus- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+náhuṣṭaraḥ ← náhuṣṭara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saptahā́ ← saptahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśrāvayam ← √śru- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+turváśam ← turváśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yádum ← yádu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+karam ← √kr̥- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+náva ← náva- 1 (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+navatím ← navatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vakṣayam ← √vakṣ- (root)  
+{number:SG, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+vrā́dhataḥ ← √vrādh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +225,4 @@ Ich bin's, der, näher als der Nachbar, sieben fäll't, ich brachte kräftig vor
 Я унизил одного – (его) силу (своей) силой,  
 (А) девяносто девять могучих я взрастил (еще больше).
 </details>
+

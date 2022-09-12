@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́piḥ ← devā́pi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śuśucānáḥ ← √śuc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:PASS}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ārṣṭiṣeṇáḥ ← ārṣṭiṣeṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manuṣyàḥ ← manuṣyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samīdhé ← √idh- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+anumadyámānaḥ ← √mad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+víśvebhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+īraya ← √īr- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+parjányam ← parjánya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vr̥ṣṭimántam ← vr̥ṣṭimánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +188,4 @@ O Agni, den der treffliche Devapi des Rischtischena Sohn als Mensch entflammte, 
 Поощряемый всеми богами,  
 Побуди к действию Парджанью, владеющего дождем!
 </details>
+

@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvā́bhyām ← tvám (pronoun)  
+{case:INS, number:DU}
+
+dheyām ← √dhā- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+r̥cā́ ← ŕ̥c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+upamám ← upamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+kṣáye ← kṣáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+maghónām ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+spūrdháse ← √spūrdh- (root)  
+{case:DAT, number:SG}
+
+stotr̥̄ṇā́m ← stotár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ Euch möcht' ich, Mitra-Varuna, das höchste weihen durch Gesang; Was zu erstreb
 Что только и (нужно) в доме щедрых покровителей  
 И для состязания восхвалителей.
 </details>
+

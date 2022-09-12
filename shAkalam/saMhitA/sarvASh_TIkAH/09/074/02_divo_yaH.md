@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dharúṇaḥ ← dharúṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+skambháḥ ← skambhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svā̀tataḥ ← svā̀tata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+aṁśúḥ ← aṁśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́pūrṇaḥ ← √pr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+paryéti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+āvŕ̥tā ← āvŕ̥t- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+imé ← ayám (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+mahī́ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ródasī ← ródasī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yakṣat ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+dādhāra ← √dhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+samīcīné ← samīcīná- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +243,4 @@ Der als des Himmels Strebepfeiler schön erhöht als reichgefüllter Soma rings 
 Тот пусть почтит совершением обряда эти две великие половины (вселенной)!  
 Поэт, он охватывает (эту) соединенную (пару и) жертвенные услады.
 </details>
+

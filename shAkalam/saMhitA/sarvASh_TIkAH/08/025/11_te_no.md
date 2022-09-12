@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nāvám ← nāvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+uruṣyata ← √uruṣy- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dívā ← dívā (invariable)  
+{}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sudānavaḥ ← sudā́nu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+áriṣyantaḥ ← áriṣyant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+pāyúbhiḥ ← pāyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sacemahi ← √sac- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +146,7 @@ The insistent ní’s of 11c may also have played a part.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 This tṛca takes a break from Mitra and Varuṇa, introducing a somewhat random collection of other protective divinities. See also vs. 14.
@@ -143,3 +177,4 @@ Beschützet unser Loblied ihr, an Gaben reich bei Tag und Nacht, Mit Hütern sei
 Днем и ночью, о вы с прекрасными дарами!  
 Не терпя вреда, мы хотим быть тесно связаны с хранителями!
 </details>
+

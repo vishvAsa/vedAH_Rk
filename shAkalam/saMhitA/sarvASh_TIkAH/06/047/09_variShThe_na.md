@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vandhúre ← vandhúra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+váriṣṭhe ← váriṣṭha- 2 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áśvayoḥ ← áśva- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+śatāvan ← śatāvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+váhiṣṭhayoḥ ← váhiṣṭha- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+iṣā́m ← íṣ- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vakṣi ← √vah- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+várṣiṣṭhām ← várṣiṣṭha- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rā́yaḥ ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tārīt ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Uns setz auf weiten Wagensitz, o Indra, auf schnellstes Rossepaar, o hülfereich
 Привези жертвенную усладу, высшую из услад!  
 Да не превзойдет богатство чужого наше (богатство), о щедрый!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+niṇyé ← niṇyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pavamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ekādaśā́saḥ ← ekādaśá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ávye ← ávya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sā́no ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+svadhā́bhiḥ ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+mr̥jánti ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yahvī́ḥ ← yahvī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ An deinem heil'gen Ort, o lichter Soma, sind alle diese dreiunddreissig Götter;
 По обычаям, тебя начищают десять (пальцев жреца)  
 На спине (цедилки) из овечьей шерсти, семь юных рек.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+gr̥hapate ← gr̥hápati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+janānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ákarma ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samídhā ← samídh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+asthūrí ← asthūrí- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+gā́rhapatyāni ← gā́rhapatya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+śiśādhi ← √śā- ~ śī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+téjasā ← téjas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tigména ← tigmá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Wir haben dich, o Agni, Hausherr der Menschen, gross gemacht durch Brennholz; vi
 Да не будет одноконным наше домашнее хозяйство!  
 Отточи нас острым лезвием!
 </details>
+

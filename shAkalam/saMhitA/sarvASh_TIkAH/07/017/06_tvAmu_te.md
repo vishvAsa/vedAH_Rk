@@ -14,12 +14,43 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+havyavā́ham ← havyavā́h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nápātam ← nápat- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrjáḥ ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +145,4 @@ Dich machten sie zu ihrem Opferfahrer, die Götter, Agni, und zum Sohn der Stär
 Это тебя они определили перевозчиком жертв,  
 Бпги. о Агни. отпрыска мощи.
 </details>
+

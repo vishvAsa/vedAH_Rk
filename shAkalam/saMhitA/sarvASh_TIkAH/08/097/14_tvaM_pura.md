@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cikít ← cikít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+enāḥ ← ena- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+nāśayádhyai ← √naś- 2 (root)  
+{case:DAT, number:SG, tense:PRS}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śakra ← śakrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śaviṣṭha ← śáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bhīṣā́ ← bhiyás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+rejete ← √rej- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +213,4 @@ Du, o Indra, verstehst es, mit Kraft, o stärkster, mächtiger, diese Burgen zu 
 Перед тобой, о громовержец, трясутся от страха  
 Все мироздания, небо и земля.
 </details>
+

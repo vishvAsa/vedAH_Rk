@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+iva ← iva (invariable)  
+{}
+
+śr̥ṇvé ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+svanáḥ ← svaná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣṭéḥ ← vr̥ṣṭí- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+pávamānasya ← √pū- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+śuṣmíṇaḥ ← śuṣmín- (nominal stem)  
+{case:GEN, number:SG}
+
+cáranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vidyútaḥ ← vidyút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +141,4 @@ Wie Regens Rauschen wird gehört der Schall des starken, rieselnden, Am Himmel s
 От яростного Паваманы.  
 Мечутся по небу молнии.
 </details>
+

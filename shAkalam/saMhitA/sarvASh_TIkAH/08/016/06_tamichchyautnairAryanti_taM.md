@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ā́ryanti ← √ār- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cyautnaíḥ ← cyautná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+carṣaṇáyaḥ ← carṣaṇí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+kr̥tébhiḥ ← √kr̥- (root)  
+{case:INS, gender:M, number:PL, non-finite:PPP}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+eṣáḥ ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+varivaskŕ̥t ← varivaskŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ Ihn verehret, was das lebet, ihn mit Thaten, ihn mit Werken; Indra ist's, der Fr
 По потрясающим деяниям, по заслугам.  
 Этот Индра создает широкий простор.
 </details>
+

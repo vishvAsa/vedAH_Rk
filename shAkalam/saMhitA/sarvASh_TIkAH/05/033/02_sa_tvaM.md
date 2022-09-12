@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dhiyasānáḥ ← dhiyasāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+aśreḥ ← √śri- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+hárīṇām ← hári- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vr̥ṣan ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yóktram ← yóktra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+jóṣam ← jóṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jánān ← jána- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sakṣi ← √sah- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+vákṣaḥ ← √vah- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +243,4 @@ Du schirrtest an, o Held, den Strang der Füchse aufmerkend, Indra, du auf unsre
 Приходи, в самом деле, о щедрый, по (своему) желанию!  
 Приезжай, осиливай чужие народы!
 </details>
+

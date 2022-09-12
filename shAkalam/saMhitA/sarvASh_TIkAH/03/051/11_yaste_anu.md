@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+svadhā́m ← svadhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yacha ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mamattu ← √mad- (root)  
+{number:SG, person:3, mood:IMP, tense:PRF, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+somyám ← somyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +169,4 @@ Zu ihm, der recht nach Wunsch dir sei, zum Safte lenke deinen Leib; Dich Somafre
 Который будет по твоему вкусу!  
 Пусть опьянит он тебя, любящего сому!
 </details>
+

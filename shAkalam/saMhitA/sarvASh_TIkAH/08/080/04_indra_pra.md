@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ava ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+paścā́t ← paścā́t (invariable)  
+{}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+purástāt ← purástāt (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +172,4 @@ Schaff Indra unsern Wagen vor, wenn er zurück bleibt, Schleuderer, Lass meinen 
 
 -ru-
 </details>
+

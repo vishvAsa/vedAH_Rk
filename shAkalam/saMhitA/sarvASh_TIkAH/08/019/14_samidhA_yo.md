@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dā́śat ← √dāś- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+níśitī ← níśiti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+samídhā ← samídh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhā́mabhiḥ ← dhā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+jánān ← jána- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+subhágaḥ ← subhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dyumnaíḥ ← dyumná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+tāriṣat ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+udnáḥ ← udán- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Dem ewigen, durch Brennholz, durch Entzünden dient, und seine Satzungen befolgt
 Тот счастливец пересечет все (трудности) (своими) произведениями  
 (И) озарениями, словно (поток) воды, (и) пре(взойдет) людей.
 </details>
+

@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+purumandrā́ ← purumandrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+purūvásū ← purūvásu- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+manotárā ← manotár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+aśvínau ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+anūṣātām ← √nu- ~ nū- (root)  
+{number:DU, person:3, mood:IND, tense:AOR, voice:MED}
+
+váhnī ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +168,4 @@ Ihr, reich an Freuden, reich an Gut, die viele Schätze ihr verleiht, Ihr Ritter
 Ашвины-возничие бурно приветствовали  
 Это мое восхваление.
 </details>
+

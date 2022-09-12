@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292);; repeated line
+#### Morph
+ca ← ca (invariable)  
+{}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+upaśr̥ṇvánti ← √śru- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+dūrám ← dūrá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+párāgatāḥ ← √gam- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+saṁgátya ← √gam- (root)  
+{non-finite:CVB}
+
+sárvāḥ ← sárva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vīrudhaḥ ← vīrúdh- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+asyaí ← ayám (pronoun)  
+{case:DAT, gender:F, number:SG}
+
+datta ← √dā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+vīryàm ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +189,4 @@ Ihr, die ihr dieses Wort vernehmt, und die ihr in der Ferne seid, Kommt alle Kr�
 Все растения, собравшись,  
 Все вместе дайте ему силу!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agrimā́ ← agrimá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tasthe ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ā́yatā ← √yam- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+riṣyati ← √riṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sávanam ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+hā́rdi ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kravaṇásya ← kravaṇá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rejate ← √rej- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+matíḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pūtabándhanī ← pūtabándhana- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vidyáte ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Zum Meer [Soma] herab ging von diesen [Milchströmen] der erste; nicht leidet di
 Не дрожит сердце Краваны (?) там,  
 Где находится поэтическая мысль, связанная с очищенным (сомой).
 </details>
+

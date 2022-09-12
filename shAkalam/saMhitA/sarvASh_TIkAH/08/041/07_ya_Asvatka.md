@@ -18,16 +18,77 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+āśáye ← √śī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+āsu ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+átkaḥ ← átka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+jātā́ni ← √janⁱ- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dhā́māni ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mármr̥śat ← √mr̥ś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+gáye ← gáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+purás ← purás (invariable)  
+{}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +242,4 @@ Die Götter folgen dem Gesetz dort vor dem Sitz des Varuna, Der wie ein Mantel d
 Все боги (следуют его) завету.  
 Пусть лопнут все ничтожные другие!
 </details>
+

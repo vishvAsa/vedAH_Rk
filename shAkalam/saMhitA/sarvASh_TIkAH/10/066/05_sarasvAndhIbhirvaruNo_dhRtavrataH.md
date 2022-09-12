@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+dhr̥távrataḥ ← dhr̥távrata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárasvān ← sárasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mahimā́ ← mahimán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāyúḥ ← vāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amŕ̥tāḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+brahmakŕ̥taḥ ← brahmakŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+viśvávedasaḥ ← viśvávedas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+trivárūtham ← trivárūtha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yaṁsan ← √yam- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Sarasvat mit den Dhī's, der Rechtshort Varuna, die Açvin, Puschan, Vischnu, Ma
 
 -ru-
 </details>
+

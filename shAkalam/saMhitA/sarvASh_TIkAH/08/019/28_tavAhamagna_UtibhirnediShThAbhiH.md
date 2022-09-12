@@ -15,13 +15,50 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jóṣam ← jóṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nédiṣṭhābhiḥ ← nédiṣṭha- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+saceya ← √sac- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:MED}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sádā ← sádā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +161,4 @@ Durch deine nächsten Hülfen sei ich wohlgeleitet, guter Agni, recht nach Wunsc
 Я хотел бы находиться, сколько захочу, о Васу,  
 (Я) смертный, всегда (с поддержками) бога!
 </details>
+

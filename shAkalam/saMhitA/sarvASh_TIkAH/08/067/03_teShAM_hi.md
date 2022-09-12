@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+citrám ← citrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+ukthyàm ← ukthyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+várūtham ← várūtha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ādityā́nām ← ādityá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+araṁkŕ̥te ← araṁkŕ̥t- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +142,4 @@ Denn herrlich ist und preisenswerth ihr Schutz und Schirm dem frommen Mann, Der 
 Достойное гимна, для почитающего (их)  
 У Адитьев для служащего (им).
 </details>
+

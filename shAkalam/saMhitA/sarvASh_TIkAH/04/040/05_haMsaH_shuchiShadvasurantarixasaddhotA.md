@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+antarikṣasát ← antarikṣasád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+haṁsáḥ ← haṁsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śuciṣát ← śuciṣád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásuḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átithiḥ ← átithi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+duroṇasát ← duroṇasád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vediṣát ← vediṣád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥ṣát ← nr̥ṣád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tasát ← r̥tasád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+varasát ← varasád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vyomasát ← vyomasád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abjā́ḥ ← abjā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adrijā́ḥ ← adrijā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gojā́ḥ ← gojā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tajā́ḥ ← r̥tajā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,3 +275,4 @@ Der gute Schwan, der wohnt im Licht und in der Luft, der Gast und Priester, der 
 (Бог,) находящийся среди людей, на лучшем (месте), в лоне закона, на небосводе,  
 Рожденный из вод, от коров, от закона, из скалы - Закон!
 </details>
+

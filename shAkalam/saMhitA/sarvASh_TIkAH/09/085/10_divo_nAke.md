@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+asaścátaḥ ← asaścát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mádhujihvāḥ ← mádhujihva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nā́ke ← nā́ka- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+duhanti ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+giriṣṭhā́m ← giriṣṭhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ukṣáṇam ← ukṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+venā́ḥ ← vená- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+drapsám ← drapsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vāvr̥dhānám ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mádhumantam ← mádhumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+síndhoḥ ← síndhu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ūrmā́ ← ūrmí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,14 +201,14 @@ Pāda b is identical to IX.73.4. As noted in the comm. thereon, there is good re
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md">
 <details open><summary><h2>09-12 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these four vss. treat the identification of Soma and the sun and are similar to the very enigmatic Vena hymn, X.123, which is attributed to the same poet, Vena Bhārgava.
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/10-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 The two tr. of vená- in 10b ‘seekers’ and 11b ‘trackers’ respectively should be harmonized. I would now tr. ‘seekers’ for both.
@@ -185,3 +240,4 @@ Den Stier der Berge melken lieblich redende verlangend rastlos an des Himmels W�
 Каплю, возросшую в водах, в океане,  
 В волне реки, медовую (, чтоб стекала) в цедилку.
 </details>
+

@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+namasyā̀ni ← namasyà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vándyā ← vándya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+nā́māni ← nā́man- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yajñíyāni ← yajñíya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+adbhyáḥ ← áp- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+áditeḥ ← áditi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+jātā́ḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+pári ← pári (invariable)  
+{}
+
+sthá ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+śruta ← √śru- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +248,4 @@ Denn alle eure Namen, o ihr Götter, sind des Betens, der Verehrung und des Opfe
 
 -ru-
 </details>
+

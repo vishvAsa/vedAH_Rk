@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cātayate ← √cat- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+samīcī́ḥ ← samyáñc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vŕ̥taḥ ← vŕ̥t- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ājíṣu ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śr̥ṇvé ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bharati ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sanóti ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+priyā́saḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

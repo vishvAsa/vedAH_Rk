@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+dharúṇaḥ ← dharúṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+viṣṭambháḥ ← viṣṭambhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+háste ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kṣitáyaḥ ← kṣití- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+niyútvān ← niyútvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+útsaḥ ← útsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aṁśúḥ ← aṁśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indriyā́ya ← indriyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Des Himmels Pfeiler und der Erde Stütze ist er, in seiner Hand sind alle Völke
 Пусть будет его источник полон упряжек (с дарами) для воспевателя!  
 Стебель меда очищается для силы Индры.
 </details>
+

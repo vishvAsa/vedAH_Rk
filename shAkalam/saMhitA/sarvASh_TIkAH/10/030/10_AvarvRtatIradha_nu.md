@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+āvárvr̥tatīḥ ← √vr̥t- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+dvidhā́rāḥ ← dvidhā́ra- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+cárantīḥ ← √carⁱ- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+goṣuyúdhaḥ ← goṣuyúdh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+niyavám ← niyavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+jánitrīḥ ← jánitrī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pátnīḥ ← pátnī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ŕ̥ṣe ← ŕ̥ṣi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+savŕ̥dhaḥ ← savŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sáyonīḥ ← sáyoni- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vandasva ← √vandⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +191,4 @@ Die her sich wälzen nun in Doppelströmen, wie Krieger schreitend in geschlossn
 О риши, восхваляй (эти) воды, выросшие вместе, из одного лона,  
 Родительниц (и) жен мироздания!
 </details>
+

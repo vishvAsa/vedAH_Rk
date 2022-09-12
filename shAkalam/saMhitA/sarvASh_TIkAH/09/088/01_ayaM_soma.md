@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sunve ← √su- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pāhi ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+cakr̥ṣé ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+ha ← ha (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vavr̥ṣé ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yújyāya ← yújya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +241,4 @@ Gepresst ist dieser Soma dir, o Indra, er rieselt hell dir, trinke du von diesem
 (Тот) сок, который ты же принял для себя, ты выбрал,  
 Сому для подобающего опьянения!
 </details>
+

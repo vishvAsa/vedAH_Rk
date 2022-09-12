@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhárate ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kā́vyā ← kā́vya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bhū́ṣan ← √bhūṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+mártāya ← márta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yáśaḥ ← yáśas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dákṣāya ← dákṣa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+návyaḥ ← návya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purubhū́ṣu ← purubhū́- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +237,4 @@ Wenn er, der Seher, rings die Seherkräfte und alle Wesen trägt gleich starkem 
 Обеспечивая смертному доблесть среди богов,  
 Снова (создавая) богатства для (его) силы действия среди находящихся во многих местах (богов):
 </details>
+

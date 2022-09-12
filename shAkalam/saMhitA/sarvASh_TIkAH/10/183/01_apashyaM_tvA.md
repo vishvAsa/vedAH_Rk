@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ápaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+cékitānam ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+tápasaḥ ← tápas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+tápasaḥ ← tápas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+víbhūtam ← √bhū- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ihá ← ihá (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+prajā́m ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rárāṇaḥ ← √rā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jāyasva ← √janⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+prajáyā ← prajā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+putrakāma ← putrakāma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Ich sah dich, der im Geist du überlegtest, der du aus Tugend stammtest und erwu
 Продолжись благодаря потомству, о желающий сына!  
 Муж:
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ájīgar ← √gr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gaṇásya ← gaṇá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+raśanā́m ← raśanā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aṅkte ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śúcibhiḥ ← śúci- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+dákṣiṇā ← dákṣiṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vājayántī ← √vājay- 2 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+yujyate ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+adhayat ← √dhā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+juhū́bhiḥ ← juhū́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uttānā́m ← uttāná- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Wenn er den Strang der Flammenschar bewegt hat, so salbt sich Agni hell mit hell
 Тогда запрягается Дакшина, приносящая награды.  
 Поднявшись прямо, он сосал языками распростертую.
 </details>
+

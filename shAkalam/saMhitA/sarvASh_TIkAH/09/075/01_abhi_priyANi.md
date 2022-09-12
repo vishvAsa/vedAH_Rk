@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+cánohitaḥ ← cánohita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+priyā́ṇi ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+nā́māni ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+várdhate ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yahváḥ ← yahvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yéṣu ← yá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+br̥hán ← br̥hánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aruhat ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víṣvañcam ← víṣvañc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Befriedigt rieselt zu den lieben Wesen er, an denen er, der rastlos strömende, 
 Высокий поднялся на колесницу высокого Сурьи,  
 Движущуюся в разные стороны, (он,) далеко смотрящий.
 </details>
+

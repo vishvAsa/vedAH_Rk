@@ -15,14 +15,45 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vipanyávaḥ ← vipanyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+indhate ← √idh- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+jāgr̥vā́ṁsaḥ ← √gr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+ámartyam ← ámartya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havyavā́ham ← havyavā́h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahovŕ̥dham ← sahovŕ̥dh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +163,4 @@ Drum zünden dich die Priester an, die wachsam sind, bewunderungsvoll, Dich, der
 Бодрствующие, зажигают тебя,  
 Возницу жертв, бессмертного, растущего от силы.
 </details>
+

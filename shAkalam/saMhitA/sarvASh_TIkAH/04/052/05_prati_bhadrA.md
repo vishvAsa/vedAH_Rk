@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+adr̥kṣata ← √dr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+bhadrā́ḥ ← bhadrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+raśmáyaḥ ← raśmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sárgāḥ ← sárga- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aprāḥ ← √prā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jráyaḥ ← jráyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ Der Uschas schönes Strahlenheer erschien den Rinderheerden gleich; Sie füllte 
 Показались лучи, приносящие счастье.  
 Ушас заполнила (собой) широкий путь.
 </details>
+

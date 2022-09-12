@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ubhā́bhyām ← ubhá- (pronoun)  
+{case:INS, gender:M, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+pavítreṇa ← pavítra- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+savéna ← savá- 1 (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+punīhi ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -99,7 +127,7 @@ In addition to the introduction of Savitar, we also get a slight rearrangement i
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
 <details open><summary><h2>22-27 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these vss. are a self-contained purificatory spell, with all vss. ending with an act. impv. belonging to the pres. punā́ti: all 2nd sg. punīhi (naḥ) except 22c punātu (naḥ). The means of purification is, in the first instance, the filter (pavítra-), which of course literally means ‘instrument (-tra-) of purification’. 
@@ -132,3 +160,4 @@ Durch beides, o Gott Savitar, durch Antrieb und durch Läuterung Durchläutere m
 Цедилкой и побуждением,  
 Очисть меня со всех сторон!
 </details>
+

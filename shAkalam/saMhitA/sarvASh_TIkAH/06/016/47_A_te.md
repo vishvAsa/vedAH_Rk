@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424);; repeated line  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥cā́ ← ŕ̥c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+bharāmasi ← √bhr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+taṣṭám ← √takṣ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ukṣáṇaḥ ← ukṣán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥ṣabhā́saḥ ← r̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vaśā́ḥ ← vaśā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +178,7 @@ let the oxen, bulls, and mated cows be yours.
 Bloomfield (ad V.6.5) proposes tr. our passage “We bring ... oblation with song fashioned in the mind,” suggesting that “the cases of ṛcā́and havíḥ are inverted.” This is certainly true at the level of deep-structure formula: hṛdā́taṣṭá- “fashioned by the heart” normally modifies a verbal product, e.g. I.171.2 stómo hṛdā́taṣṭáḥ. But, as so often, the poet is playing with our expections by producing a twist on the standard phraseology.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/47-48.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/47-48.md">
 <details open><summary><h2>47-48 ...{Loading}...</h2></summary>
 
 This long hymn (or the short final tṛca) seems to end with a buried poetic signature: 47b ends with bharāmasi, 48c with vājínā, the last word of the hymn. Together they are the elements that make up the poet’s name Bharadvāja.</details>
@@ -162,3 +208,4 @@ Wir bringen dir, o Agni, unter Gesang den aus liebendem Herzen bereiteten Trank 
 Да будут для тебя эти  
 Быки, волы и коровы!
 </details>
+

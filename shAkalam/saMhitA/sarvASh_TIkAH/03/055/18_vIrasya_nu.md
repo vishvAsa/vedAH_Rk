@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+janāsaḥ ← jána- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+sváśvyam ← sváśvya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vīrásya ← vīrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+vidúḥ ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vocāma ← √vac- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+páñca-pañca ← páñca- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ṣoḷhā́ ← ṣoḷhā́ (invariable)  
+{}
+
+vahanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yuktā́ḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+asuratvám ← asuratvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +243,4 @@ Lasst preisen nun den Rossbesitz des Helden, ihr Menschen, uns; es kennen ihn di
 Запряженные шестью рядами по пять, они привозят (его).  
 Велико могущество богов, единственно.
 </details>
+

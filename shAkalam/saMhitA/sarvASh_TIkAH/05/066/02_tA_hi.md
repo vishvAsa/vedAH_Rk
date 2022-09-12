@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávihrutam ← ávihruta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+ā́śāte ← √naś- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
+asuryàm ← asuryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samyák ← samyáñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+mā́nuṣam ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vratā́ ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+darśatám ← darśatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+ná ← ná (invariable)  
+{}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Denn ungebeugte Herrschermacht und Gottheit ist ihr gleiches Theil; Da ward glei
 И подобно (их) заветам, человеческий (обет)  
 Помещен на небо для обозрения.
 </details>
+

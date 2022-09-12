@@ -16,14 +16,72 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+ápāk ← ápāñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aśvinau ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+prā́k ← prā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stháḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vājinīvasū ← vājínīvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánavi ← ánu- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+druhyávi ← druhyú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+turváśe ← turváśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yádau ← yádu- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+huvé ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+mā́ ← mā́ (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +213,4 @@ Ob, Ritter, ihr im Westen weilt, im Osten, güterreiche ihr, Ob bei dem Druhju, 
 Если (вы) у Друхью, Ану, Турваши, Яду,  
 То я зову вас – приезжайте ко мне!
 </details>
+

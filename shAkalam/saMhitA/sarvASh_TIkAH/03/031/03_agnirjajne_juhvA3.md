@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jajñe ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+juhvā̀ ← juhū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+réjamānaḥ ← √rej- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+aruṣásya ← aruṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prayákṣe ← √yakṣ- (root)  
+{case:DAT, number:SG}
+
+putrā́n ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+gárbhaḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+háryaśvasya ← háryaśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pravŕ̥t ← pravŕ̥dh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Erzeugt ward Agni mit der Zunge zuckend, um hinzudringen zu den grossen Söhnen 
 Велик зародыш, велико рождение среди них,  
 Велико взращивание обладателя буланых коней жертвами.
 </details>
+

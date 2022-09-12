@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+didīhi ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+svádasva ← √svad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+asmadryàk ← asmadryàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mimīhi ← √mā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+śrávāṁsi ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jeṣi ← √ji- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+pr̥tsú ← pŕ̥t- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áhā ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dīdihi ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ Geniess die Opfer, strahl herbei uns Nahrung und miss uns zu, o Agni, reiche Sch
 Всех этих врагов, о Агни, победи в битвах!  
 Благожелательный освещай нам все дни!
 </details>
+

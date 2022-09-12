@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ādhī́ṣamāṇāyāḥ ← √dhīṣ- (?) (root)  
+{case:ABL, gender:F, number:SG, voice:MED}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+śucásya ← śucá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śucā́yāḥ ← śucá- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ávīnām ← ávi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vāsovāyáḥ ← vāsovāyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mármr̥jat ← √mr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vā́sāṁsi ← vā́sas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +164,4 @@ Der Schützer, der verlangenden, der reinen Frau, des reinen Manns, Er, der der 
 Ткущий одежду из овец,  
 Очищащающий одежду:
 </details>
+

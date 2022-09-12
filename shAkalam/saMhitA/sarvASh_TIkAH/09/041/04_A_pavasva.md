@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mahī́m ← máh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+gómat ← gómant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+híraṇyavat ← híraṇyavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áśvāvat ← áśvāvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vā́javat ← vā́javant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +145,4 @@ O riesle, Indu, grosses Gut herbei, das reich an Rind und Ross, An Gold und Nahr
 Владение коровами, о капля, владение золотом,  
 Владение конями, владение наградой – когда ты выжат!
 </details>
+

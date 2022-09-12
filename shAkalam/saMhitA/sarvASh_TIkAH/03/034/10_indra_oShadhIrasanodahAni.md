@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhāni ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+asanot ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asanot ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+vánaspátīn ← vánaspáti- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bibhéda ← √bhid- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+nunudé ← √nud- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+valám ← valá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vívācaḥ ← vívāc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+abhíkratūnām ← abhíkratu- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+átha ← átha (invariable)  
+{}
+
+damitā́ ← damitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +194,4 @@ Indra gewann die Pflanzen und die Tage, gewann die weite Luft, des Waldes Bäume
 Он расколол Валу, оттолкнул спорщиков,  
 И стал он тогда укротителем заносчивых.
 </details>
+

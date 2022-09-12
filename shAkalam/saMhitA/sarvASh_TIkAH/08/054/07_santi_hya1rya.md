@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line
+#### Morph
+aryé ← aryá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+āśíṣaḥ ← āśís- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nakṣasva ← √nakṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+dhukṣásva ← √duh- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pipyúṣīm ← √pī- 1 (root)  
+{case:ACC, gender:F, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +182,4 @@ Zum treuen Indra geht der Wunsch der Menschen hin um Lebenskraft. O reicher, kom
 К нам приди, о щедрый, для помощи!  
 Дай надоить набухшей жертвенной услады!
 </details>
+

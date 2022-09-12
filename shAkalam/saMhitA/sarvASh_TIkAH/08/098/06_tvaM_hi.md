@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M;; 12 = 8+4
+#### Morph
+hí ← hí (invariable)  
+{}
+
+śáśvatīnām ← śáśvant- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dartā́ ← dartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+purā́m ← púr- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+dásyoḥ ← dásyu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+hantā́ ← hantár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánoḥ ← mánu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥dháḥ ← vr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +176,4 @@ Denn du, o Indra, bist es, der die Burgen allesammt zerbricht, Des Bösen Feind,
 Проломитель всех крепостей.  
 Убийца дасью, покровитель Ману, господин неба.
 </details>
+

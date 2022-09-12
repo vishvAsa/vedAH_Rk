@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahā́ni ← mahá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mahatáḥ ← mahā́nt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vratā́ ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tatantha ← √tan- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+abhavaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jā́yamānaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+netā́ ← netár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Gross bist du Agni, gross sind deine Werke, mit deiner Kraft erfülltest du die 
 Рождаясь, ты стал вестником.  
 Ты вождь народов, о бык.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vájraḥ ← vájra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gárbhaḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nā́bhiḥ ← nā́bhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+havyádātim ← havyádāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+juṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+déva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gr̥bhāya ← √gr̥bhⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+ratha ← rátha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +203,7 @@ Why the chariot is all the things it’s implicitly identified with in ab is not
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
 <details open><summary><h2>26-31 ...{Loading}...</h2></summary>
 
 These vss. are repeated in the Aśvamedha section of several early Vedic ritual texts, directly after the 1st 14 vss. of the weapon hymn VI.75 (e.g., VS XXIX.52-57, TS IV.6.6.
@@ -180,3 +235,4 @@ Des Indra Blitz du, der Maruts Glanzerscheinung, des Mitra Spross, des Varuna Ve
 Радуясь этому нашему жертвоприношению,  
 О божественная колесница, прими жертвенные дары!
 </details>
+

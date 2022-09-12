@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dīdihí ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+máyaḥ ← máyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śóca ← √śuc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śociṣṭha ← śociṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+viśé ← víś- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́sva ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+stotré ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+śárman ← śárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śatrūṣā́haḥ ← śatrūṣáh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svagnáyaḥ ← svagní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ O hellster, leuchte, strahl dem Hause Wonne zu, dem Sänger spende, gross bist d
 Да будут мои покровители под защитой богов,  
 Одолевающими врагов, с хорошим Агни!
 </details>
+

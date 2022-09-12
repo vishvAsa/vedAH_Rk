@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ajámāyuḥ ← ajámāyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gómāyuḥ ← gómāyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+háritaḥ ← hárita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pŕ̥śniḥ ← pŕ̥śni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bíbhrataḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+samānám ← samāná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vírūpāḥ ← vírūpa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pipiśuḥ ← √piś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vádantaḥ ← √vadⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +231,4 @@ Der blökt als Rind, der meckert wie die Ziege, der eine gelb am Leib, der andre
 Они носят одинаковое имя, (но бывают) разными по форме.  
 Говоря, они настраивают (свои) голоса на разные лады.
 </details>
+

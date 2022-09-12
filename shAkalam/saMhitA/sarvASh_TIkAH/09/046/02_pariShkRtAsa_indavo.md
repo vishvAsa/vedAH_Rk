@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+páriṣkr̥tāsaḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+pítryāvatī ← pítryāvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+asr̥kṣata ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vāyúm ← vāyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +136,4 @@ Die Indutränke sind geschmückt wie eine Maid im Vatersitz, Zu Vaju sind sie hi
 
 -ru-
 </details>
+

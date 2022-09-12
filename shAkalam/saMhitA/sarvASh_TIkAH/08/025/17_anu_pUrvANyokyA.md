@@ -15,13 +15,41 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+okyā̀ ← okyà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pū́rvāṇi ← pū́rva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sāmrājyásya ← sāmrājyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+saścima ← √sac- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+dīrghaśrút ← dīrghaśrút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vratā́ ← vratá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +159,4 @@ Wir sind dem alten Hausgesetz der Weltenherrschaft nachgefolgt, Der weitbekannte
 Привычные заветы  
 Митры, наделенного высшей властью, Варуны, далеко прославленные.
 </details>
+

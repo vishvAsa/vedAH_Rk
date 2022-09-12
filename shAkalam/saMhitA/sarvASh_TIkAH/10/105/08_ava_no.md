@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+áva ← áva (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śiśīhi ← √śā- ~ śī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vr̥jinā́ ← vr̥jiná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+anŕ̥caḥ ← anŕ̥c- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥cā́ ← ŕ̥c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vanema ← √vanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+ábrahmā ← ábrahman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jóṣati ← √juṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ŕ̥dhak ← ŕ̥dhak (invariable)  
+{}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +165,4 @@ Treibe weg von uns die Uebelthaten; durch das Lied mögen wir die liederlosen ü
 Гимном мы хотим покорить тех, у кого нет гимнов!  
 Не слишком-то понравится тебе жертва без священного слова!
 </details>
+

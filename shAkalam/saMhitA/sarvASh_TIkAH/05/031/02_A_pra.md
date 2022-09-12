@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+drava ← √dru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+venaḥ ← √ven- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+píśaṅgarāte ← piśaṅgarāti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sacasva ← √sac- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nahí ← nahí (invariable)  
+{}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+vásyaḥ ← vásyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+amenā́n ← amená- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+cakartha ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+jánivataḥ ← jánivant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +231,7 @@ The form ū́dhaḥ is contextually problematic. Formally it is the well-atteste
 It might be worth noting that ū́dhan(i) is confined to pāda end (except one late Xth book ex.), whereas ū́dhar here is medial. Alternatively, and on second thought, if we take ‘udder’ as referring to the contents of an udder, namely milk, it is possible to interpret it as the acc. it appears to be. For a somewhat similar use of ū́dhaḥ as ‘milk’, see IV.1.19. I would therefore suggest an alt. tr. by deleting the parenthetical “(in?)” and adding a comma after “seasons”: “you … sent speeding the wellsprings that had been hard pressed through the seasons, the udder [=milk] of the mountain.” The ppl. práyuta- is variously rendered: Grassmann ‘achtlos, sorglos’, Geldner ‘nachlässig’ (careless, negligent), Witzel Gotō “(alle und alles) verscheuchend” (scaring away). However in all its occurrences it seems to mean ‘spread out, dispersed’. There are four attestations in the RV. Two passages involve cows wandering without a herdsman (III.57.1, X.27.8); in the third (III.55.4) Agni has been dispersed into various hearths and lies spread out at a distance (śáye … práyutaḥ), very much like here (práyutaṃ śáyānam). Since this root √yu means ‘separate, keep apart’, my suggested meaning is closer to the root meaning than the suggestion registered above. It is also possible that it does mean ‘scattered, dispersed’ here, if it is interpreted proleptically: after having been smashed, the various parts of the serpent’s body lie spread across some distance. A similar picture is given in I.32.7 purutrā́vṛtró aśayad vyàstaḥ “Vr̥tra lay there, flung apart in many pieces,” with a form of √śi as here. I would then suggest an alternative tr. “having smashed the serpent (so it was) lying dispersed.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 An etymological sequence -- táviṣīm (2d), táviṣībhiḥ (3b), távyān (3d) -- that also builds to a climax, from singular ‘(a) power’ to plural ‘powers’ to the comparative ‘more powerful’, all associated with Indra.
@@ -204,3 +268,4 @@ Lauf vor mit deinen Füchsen, nicht verschmäh es, sei uns gewogen, der du goldn
 Ведь нет ничего лучшего, о Индра, чем ты!  
 Даже холостых ты сделал женатыми!
 </details>
+

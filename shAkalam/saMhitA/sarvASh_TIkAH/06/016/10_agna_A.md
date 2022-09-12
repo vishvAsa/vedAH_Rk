@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vītáye ← vītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+havyádātaye ← havyádāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+satsi ← √sad- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 Воспеваемый, для раздачи жертв!  
 Усядься, хотар, на жертвенную солому!
 </details>
+

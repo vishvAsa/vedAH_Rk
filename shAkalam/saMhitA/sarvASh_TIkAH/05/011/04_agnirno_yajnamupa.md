@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sādhuyā́ ← sādhuyā́ (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+vetu ← √vī- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bharante ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+gr̥hé-gr̥he ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havyavā́hanaḥ ← havyavā́hana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kavíkratum ← kavíkratu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṇānā́ḥ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+vr̥ṇate ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +237,4 @@ Zu unserm Opfer komme Agni graden Wegs, den Agni tragen Männer fort von Haus zu
 Агни стал вестником, увозящим жертвы.  
 Выбирая Агни, выбирают они того, у кого сила духа поэта.
 </details>
+

@@ -15,13 +15,56 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śū́rāḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vr̥trahátyeṣu ← vr̥trahátya- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+ádevīḥ ← ádeva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+māyā́ḥ ← māyā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+panáyanta ← √panⁱ- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+praśastā́m ← √śaṁs- (root)  
+{case:ACC, gender:F, number:SG, non-finite:PPP}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +180,4 @@ Die Männer hier, die Helden in den Schlachten, lass überwinden alle bösen Lis
 Пусть одержат верх над всеми безбожными чарами,  
 (Они,) что восхищаются моей прославленной молитвой!
 </details>
+

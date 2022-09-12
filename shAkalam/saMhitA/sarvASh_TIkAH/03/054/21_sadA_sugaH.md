@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+pánthāḥ ← pánthā- ~ path- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pitumā́n ← pitumánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sádā ← sádā (invariable)  
+{}
+
+sugáḥ ← sugá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mádhvā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pipr̥kta ← √pr̥c- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+mr̥dhyāḥ ← √mr̥dh- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+ná ← ná (invariable)  
+{}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+aśyām ← √naś- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+purukṣóḥ ← purukṣú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{}
+
+sádanam ← sádana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +242,4 @@ Stets sei der Pfad gebahnt und reich an Nahrung; mit Meth besprengt, o Götter, 
 Да не пренебрежет Бхага моей дружбой!  
 Да получу я доступ к месту богатства, обильного скотом!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áṅgirasaḥ ← áṅgiras- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gúhā ← gúhā (invariable)  
+{}
+
+hitám ← √dhā- 1 (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+avindan ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+śiśriyāṇám ← √śri- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:MED}
+
+váne-vane ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+jāyase ← √janⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mathyámānaḥ ← √manthⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+aṅgiraḥ ← áṅgiras- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +232,4 @@ Dich, den versteckten, fanden auf die Angiras, o Agni, dich, der jedem Holzstüc
 Добываемый трением, ты рождаешься как великая сила.  
 Тебя называют сыном силы, о Ангирас.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́paḥ ← áp- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+mayobhúvaḥ ← mayobhū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sthá ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dadhātana ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ūrjé ← ū́rj- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+cákṣase ← cákṣas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ráṇāya ← ráṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +165,4 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 Помогите нам с подкрепляющей силой,  
 Чтобы (мы) увидели великую радость!
 </details>
+

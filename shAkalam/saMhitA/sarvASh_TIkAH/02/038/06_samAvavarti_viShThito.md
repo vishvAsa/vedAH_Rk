@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jigīṣúḥ ← jigīṣú- (nominal stem)  
+{case:NOM, gender:M, number:SG, mood:DES}
+
+samā́vavarti ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+víṣṭhitaḥ ← √sthā- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+abhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+amā́ ← amā́ (invariable)  
+{}
+
+cáratām ← √carⁱ- (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+kā́maḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśveṣām ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ápaḥ ← ápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hitvī́ ← √hā- 2 (root)  
+{non-finite:CVB}
+
+śáśvān ← śáśvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víkr̥tam ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ánu ← ánu (invariable)  
+{}
+
+daívyasya ← daívya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Es kehrt zurück, wer zu erwerben ausging; die Sehnsucht aller Wandrer strebte h
 Отложив недоделанную работу, каждый вернулся (домой)  
 По завету божественного Савитара.
 </details>
+

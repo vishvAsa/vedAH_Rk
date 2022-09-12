@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+gopau ← gopā́- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ŕ̥tasya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tiṣṭhathaḥ ← √sthā- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sátyadharmāṇā ← satyádharman- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vyòmani ← vyòman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+ávathaḥ ← √avⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mádhumat ← mádhumant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pinvate ← √pinv- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Gesetzeshüter, ihr besteigt den Wagen nun, ihr Rechtbeschirmer in dem höchsten
 Кому, о Митра-Варуна, вы здесь помогаете,  
 Для того бьет ключом дождь – сладость неба.
 </details>
+

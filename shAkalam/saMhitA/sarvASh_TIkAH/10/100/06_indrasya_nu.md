@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+daívyam ← daívya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+súkr̥tam ← súkr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gr̥hé ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jaritā́ ← jaritár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+médhiraḥ ← médhira- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ántamaḥ ← ántama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+cā́ruḥ ← cā́ru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sarvátātim ← sarvátāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Von schöner Art ist nun des Indra Götterkraft; im Haus ist Agni weiser Sänger
 
 -ru-
 </details>
+

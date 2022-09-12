@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+váṣaṭkr̥tim ← váṣaṭkr̥ti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vetu ← √vī- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+juṣata ← √juṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+havyavā́hanaḥ ← havyavā́hana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yájiṣṭhaḥ ← yájiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +150,4 @@ Er acht' auf diesen Segensruf und nehme unsre Lieder an, Er, der am besten Opfer
 Пусть Агни наслаждается нашими песнями,  
 (Он,) самый юный, перевозчик жертв!
 </details>
+

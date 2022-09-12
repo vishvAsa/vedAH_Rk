@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+purás ← purás (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇotu ← √kr̥- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+dhūrtáyaḥ ← dhūrtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dhū́rvanti ← √dhūrv- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Voran lass unsern Wagen schnell zur Preiserlangung, Indra, gehn, Den Böse nicht
 Продвинет вперед для захвата (награды),  
 (Тот,) кому не повредят обманы!
 </details>
+

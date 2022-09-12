@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇuṣva ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥tratū́rye ← vr̥tratū́rya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+samátsu ← samád- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sāsáhaḥ ← √sah- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śárdhatām ← √śardh- (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sthirā́ ← sthirá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tanuhi ← √tan- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+abhíṣṭibhiḥ ← abhíṣṭi- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vanéma ← √vanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +203,4 @@ Im Feindeskampfe mache heilvoll deinen Muth, durch den du in den Schlachten sieg
 Разряди тугие (луки тех,) кто очень вызывающе ведет себя!  
 Мы хотим захватывать и теоташ поддержками!
 </details>
+

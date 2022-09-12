@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+duvasyata ← √duvasy- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+samídhā ← samídh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+átithim ← átithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bodhayata ← √budh- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ghr̥taíḥ ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmin ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+juhotana ← √hu- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +147,4 @@ Dem Agni dient mit Flammenholz, erweckt den Gast durch Opferschmalz, Ihm giesst 
 Потоками жира пробуждайте гостя,  
 Вливайте в него жертвенные возлияния!
 </details>
+

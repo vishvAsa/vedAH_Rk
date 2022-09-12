@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mánuḥ ← mánu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sumitráḥ ← sumitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+návīyaḥ ← návīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samīdhé ← √idh- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śoca ← √śuc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+darṣi ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +260,4 @@ Die Glanzgestalt, die Manu, die Sumitra dir hat entflammt, die strahlt, o Agni, 
 
 -ru-
 </details>
+

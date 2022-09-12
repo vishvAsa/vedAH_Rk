@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+acacakṣam ← √cakṣ- (root)  
+{number:SG, person:1, mood:IND, tense:PLUPRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sasvár ← sasvár (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+āyam ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+ichán ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+nidhātúḥ ← nidhātár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+anyā́n ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ápr̥cham ← √praś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+aśema ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+bubudhānā́ḥ ← √budh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +211,7 @@ Though both Geldner and Witzel Gotō render it as indefinite, there is no reason
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 Note the reciprocal ‘seeking’ (ichán) of Indra (1c) and his devotee (2b).
@@ -182,3 +243,4 @@ Ich sah den Schritt des Schatzbewahrers heimlich, und folgte seinem mächt'gen S
 Я спросил других, и они сказали мне:  
 Мы мужи, могли бы застать Индру, когда мы пробуждаемся.
 </details>
+

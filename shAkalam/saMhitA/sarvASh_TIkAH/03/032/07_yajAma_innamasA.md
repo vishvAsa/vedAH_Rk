@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vr̥ddhám ← √vr̥dh- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+yájāmaḥ ← √yaj- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ajáram ← ajára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥ṣvám ← r̥ṣvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yúvānam ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mamátuḥ ← √mā- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+priyé ← priyá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yajñíyasya ← yajñíya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mamā́te ← √mā- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Lasst dehmuthsvoll den Indra uns verehren, den hohen, grossen, hehren, ewig jung
 У него, достойного жертв, обе милые половины вселенной  
 Мерили величие (и) не измерили.
 </details>
+

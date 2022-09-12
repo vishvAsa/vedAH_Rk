@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dhr̥ṣát ← √dhr̥ṣ- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+dhr̥ṣṇo ← dhr̥ṣṇú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+káṇvebhiḥ ← káṇva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+darṣi ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+sahasríṇam ← sahasrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+piśáṅgarūpam ← piśáṅgarūpa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vicarṣaṇe ← vícarṣaṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gómantam ← gómant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +184,4 @@ Erschliesse durch die Kanva's kühn, o kühner, tausendfaches Gut, Goldfarbiges,
 О щедрый (и) очень подвижный, (о награде) золотого цвета,  
 Состоящей из коров, мы просим как можно скорее.
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+śatakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+nonuvuḥ ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mātáraḥ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +147,7 @@ On the intensive pf. nonuvuḥ see Schaeffer (45) and Kümmel (283).
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/25-27.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 There is no obvious unifying feature in this tṛca, though Indra is compared to a cow in the first two vss.
@@ -141,3 +178,4 @@ Dich rufen diese Lieder an, o Indra, hundertkräftiger, wie Kühe nach dem Kalbe
 Зашумели тебе навстречу,  
 О Индра, словно коровы-матери навстречу теленку.
 </details>
+

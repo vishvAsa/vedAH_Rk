@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+várivaḥ ← várivas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yudhā́ ← yúdh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+carṣaṇiprā́ḥ ← carṣaṇiprā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sátpatiḥ ← sátpati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+vivásvataḥ ← vivásvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gr̥ṇanti ← √gr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ukthébhiḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Durch Kampf schuf Indra freie Bahn gewaltig den Göttern er, der Held, der Völk
 В сидении жертвователя эти его (подвиги)  
 Воспевают в гимнах вдохновенные поэты.
 </details>
+

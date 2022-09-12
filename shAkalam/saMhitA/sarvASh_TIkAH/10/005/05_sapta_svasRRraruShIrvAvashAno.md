@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áruṣīḥ ← áruṣī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svásr̥̄ḥ ← svásar- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vāvaśānáḥ ← √vaś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+dr̥śé ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+jabhāra ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kám ← kám (invariable)  
+{}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+antárikṣe ← antárikṣa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+purājā́ḥ ← purājā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yeme ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+avidat ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ichán ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pūṣaṇásya ← pūṣaṇá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vavrím ← vavrí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Die sieben rothen Schwestern trug er kundig und willig aus dem süssen Trank zum
 От века рожденный медлил в воздушном пространстве.  
 Ища укрытия, он нашел (то, что) у Пушана.
 </details>
+

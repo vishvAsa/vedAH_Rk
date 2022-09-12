@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+jā́mātaram ← jā́mātar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tváṣṭuḥ ← tváṣṭar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+ī́śānam ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+dyumnā́ ← dyumná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jánāsaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sutā́vantaḥ ← sutā́vant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vāyúm ← vāyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Des Tvaschtar Eidam flehn wir an, der über vieles Gut verfügt, Um Schatz den V
 Мы просим о богатствах,  
 О великолепии, (мы,) люди, приготовившие сому, (просим) Ваю.
 </details>
+

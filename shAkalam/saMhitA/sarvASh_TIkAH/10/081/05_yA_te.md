@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+avamā́ ← avamá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dhā́māni ← dhā́man- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+paramā́ṇi ← paramá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+madhyamā́ ← madhyamá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+viśvakarman ← viśvákarman- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+havíṣi ← havís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sákhibhyaḥ ← sákhi- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+śíkṣa ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
+svadhāvaḥ ← svadhā́vant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+svayám ← svayám (invariable)  
+{}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+yajasva ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Wo deine höchsten, wo die tiefsten Stätten, wo deine mittelsten, o Allvollbrin
 Помоги (понять их) друзьям при жертвоприношении, о самосущий!  
 Сам принеси в жертву (свое) тело, (тем самым) укрепляя (его)!
 </details>
+

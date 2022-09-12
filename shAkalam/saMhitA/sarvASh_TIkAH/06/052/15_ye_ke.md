@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhimāyāḥ ← áhimāya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+jmā́ ← kṣám- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+mahínaḥ ← mahín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+jajñiré ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+sadhásthe ← sadhástha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iṣáye ← iṣí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kṣápaḥ ← kṣáp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+usrā́ḥ ← usrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+varivasyantu ← √varivasy- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

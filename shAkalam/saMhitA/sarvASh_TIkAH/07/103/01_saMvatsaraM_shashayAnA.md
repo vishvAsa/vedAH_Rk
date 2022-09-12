@@ -16,14 +16,42 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+saṁvatsarám ← saṁvatsará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śaśayānā́ḥ ← √śī- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+brāhmaṇā́ḥ ← brāhmaṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vratacāríṇaḥ ← vratacārín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+parjányajinvitām ← parjányajinvita- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+avādiṣuḥ ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+maṇḍū́kāḥ ← maṇḍū́ka- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +180,4 @@ Ein Jahr lang haben sie geruht, die Priester dem Gelübde treu, Die Frösche sti
 Лягушки подали голос,  
 Пробужденный к жизни Парджаньей.
 </details>
+

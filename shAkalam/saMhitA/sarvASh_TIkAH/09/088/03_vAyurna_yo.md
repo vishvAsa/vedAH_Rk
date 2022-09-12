@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iṣṭáyāmā ← iṣṭáyāman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+niyútvān ← niyútvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāyúḥ ← vāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+háve ← háva- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śámbhaviṣṭhaḥ ← śámbhaviṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+draviṇodā́ḥ ← draviṇodā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+tmán ← tmán- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+viśvávāraḥ ← viśvávāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dhījávanaḥ ← dhījávana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Wie Vaju, der mit Vielgespann nach Wunsch fährt, wie's Ritterpaar, beim Ruf zum
 Обладатель всего лучшего, как сам Дравинодас, –  
 Ты, о сома, возбуждаешь поэтическую мысль, словно Пушан.
 </details>
+

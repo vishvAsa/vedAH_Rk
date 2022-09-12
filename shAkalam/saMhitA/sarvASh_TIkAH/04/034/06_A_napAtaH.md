@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+napātaḥ ← nápat- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śavasaḥ ← śávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yātana ← √yā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+hūyámānāḥ ← √hū- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:PASS}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+sajóṣasaḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sthá ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sūrayaḥ ← sūrí- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+índravantaḥ ← índravant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pāta ← √pā- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ratnadhā́ḥ ← ratnadhā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ Nun kommt herbei, o Söhne ihr der Stärke, zu diesem Opfer demuthsvoll gerufen;
 Единодушные, испейте сладости, повелителями которой вы являетесь,  
 (Вы), дающие сокровища, сопровождаемые Индрой!
 </details>
+

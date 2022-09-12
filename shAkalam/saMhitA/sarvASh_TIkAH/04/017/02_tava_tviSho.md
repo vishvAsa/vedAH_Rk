@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jániman ← jániman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+rejata ← √rej- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tviṣáḥ ← tvíṣ- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+bhiyásā ← bhiyás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+bhū́miḥ ← bhū́mi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+éjat ← √ej- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+manyóḥ ← manyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+svásya ← svá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+párvatāsaḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥ghāyánta ← √r̥ghāy- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+subhvàḥ ← subhū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́rdan ← √r̥d- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dhánvāni ← dhánvan- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+saráyante ← √sr̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,14 +192,14 @@ With Geldner, I take tviṣáḥ as a gen. dependent on bhiyásā in b, thus par
 Note the phonetic figure táva tviṣáḥ. Note also that the reflex. adj. svásya must reference táva and therefore have 2nd ps. value (as well as not referring to the grammatical subj., as is sometimes claimed for reflexives).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/01-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
 Hoffmann (Injunk. 178-180) treats these four vss. They express the cosmic disruptions attendant on Indra’s birth and the further disruptions caused by his smashing of Vṛtra. On the ring composition that demarcates this section, see comm. on vs. 4 below.
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 saráyanta ā́paḥ (sarayánte out of sandhi) in 2d is reprised by sárann ā́paḥ in 3d. The two verbs seem semantically identical; the intransitive -áya-formation takes the post-(late-)caesura position also favored by metrically identical janáyanta.
@@ -181,3 +233,4 @@ Vor deiner Kraft bei der Geburt erbebten aus Furcht vor deinem Zorne Erd' und Hi
 Зашатались крепкие горы,  
 Расступились пустыни, текут воды.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+āraṅgarā́ ← āraṅgará- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+īrayethe ← √īr- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+gávi ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+nīcī́nabāre ← nīcī́nabāra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sāraghā́ ← sāraghá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+āsiṣvidānā́ ← √svid- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+kīnā́rā ← kīnā́ra- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+svédam ← svéda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kṣā́ma ← kṣā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sacethe ← √sac- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+sūyavasā́t ← sūyavasā́d- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ūrjā́ ← ū́rj- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +202,4 @@ Wie zwei Hummeln bringt ihr Honig her, wie zwei Bienen in den nach unten geöffn
 Как двое пахарей, проливающих пот,  
 Вы следуете по земле (и небу) с питательной силой, как пасущийся на хорошем пастбище.
 </details>
+

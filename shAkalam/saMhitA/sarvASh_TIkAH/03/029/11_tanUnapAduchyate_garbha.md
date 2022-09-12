@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+āsuráḥ ← āsurá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gárbhaḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tánūnápāt ← tánūnápāt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ucyate ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nárāśáṁsaḥ ← nárāśáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vijā́yate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ámimīta ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+mātári ← mātár- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+mātaríśvā ← mātaríśvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sárgaḥ ← sárga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárīmaṇi ← sárīman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā́tasya ← vā́ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ Sohn seiner selbst, so heisst er als himmlischer Spross, der Männerliort wird e
 Матаришваном – когда сформировался в матери;  
 Порывом ветра он стал в (своей) стремительности.
 </details>
+

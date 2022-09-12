@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+atrivát ← atrivát (invariable)  
+{}
+
+sma ← sma (invariable)  
+{}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yásmai ← yá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+rī́yate ← √rī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+svádhitiḥ ← svádhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+asūta ← √sū- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+suṣū́ḥ ← suṣū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ānaśé ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+bhágam ← bhága- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+krāṇā́ ← √kr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:AOR, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +206,4 @@ Ihn, welchem recht nach Atri-Art die Flamme vordringt wie ein Beil, Gebar die Mu
 (Его) очень легко родила мать,  
 После того как охотно вкусила любовного счастья.
 </details>
+

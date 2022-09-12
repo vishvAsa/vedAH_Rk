@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sthiré ← sthirá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vīḷaú ← vīḷú- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+párābhr̥tam ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+párśāne ← párśāna- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+spārhám ← spārhá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +174,4 @@ Was in der Feste, in der Burg, was, Indra, in der Schlucht sich birgt, Das Gut b
 Что в низине спрятано,  
 Принеси того желанного добра!
 </details>
+

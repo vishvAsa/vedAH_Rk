@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agamam ← √gam- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+śáṁtātibhiḥ ← śáṁtāti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ariṣṭátātibhiḥ ← ariṣṭátāti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+átha ← átha (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhārṣam ← √bhr̥- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dákṣam ← dákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+suvāmi ← √sū- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yákṣmam ← yákṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +185,4 @@ Ich bin zu dir mit Gesundheitsmitteln und mit Heilmitteln gekommen. Heilsame Kra
 Силу радующую я принес тебе,  
 Прочь гоню я твою чахотку.
 </details>
+

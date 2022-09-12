@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́pāntamanyuḥ ← ā́pāntamanyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tr̥pálaprabharmā ← tr̥pálaprabharman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhúniḥ ← dhúni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥jīṣī́ ← r̥jīṣín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śárumān ← śárumant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śímīvān ← śímīvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+atasā́ ← atasá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vánāni ← vána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+debhuḥ ← √dabh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pratimā́nāni ← pratimā́na- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +189,4 @@ Der Muth erregt dem Trinker und Erquickung, der eifervoll, bewehrt mit Pfeilen v
 (Превосходит) все кусты (и) деревья.  
 Индру вблизи замены не могут обмануть.
 </details>
+

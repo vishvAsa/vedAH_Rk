@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+iṣṭáye ← iṣṭí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+juṣéthām ← √juṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:MED}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sadhastutī ← sadhástuti- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutám ← √su- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Geniesst das Opfer euch zur Lust, ihr gleich an Ruhm, den Somasaft, O Männer, I
 Выжатым сомой, о вы двое вместе восхваленные!  
 О Индра-Агни, приезжайте, о два мужа!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hávyaḥ ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ābhíḥ ← ayám (pronoun)  
+{case:INS, gender:F, number:PL}
+
+arce ← √r̥c- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+pátyate ← √pat- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣṇyāvān ← vŕ̥ṣṇyāvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+purumāyáḥ ← purumāyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáhasvān ← sáhasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sátvā ← sátvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Der einzig ist von Menschen anzurufen, den Indra preise ich mit diesen Liedern, 
 (Того,) кто властвует, (кто) бык с бычьей силой,  
 Истинный воин, богатый чудесными превращениями, могучий.
 </details>
+

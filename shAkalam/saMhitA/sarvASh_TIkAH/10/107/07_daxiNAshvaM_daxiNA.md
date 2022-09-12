@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dákṣiṇā ← dákṣiṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dákṣiṇā ← dákṣiṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+candrám ← candrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dákṣiṇā ← dákṣiṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+híraṇyam ← híraṇya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ātmā́ ← ātmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dákṣiṇā ← dákṣiṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vanute ← √vanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dákṣiṇām ← dákṣiṇa- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+várma ← várman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vijānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Der Opferlohn gibt das Ross, der Opferlohn das Rind, der Opferlohn auch das glä
 Дакшина добывает пищу, которое наше жизненное дыхание.  
 Дакшину знаток делает себе щитом.
 </details>
+

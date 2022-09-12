@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhānáve ← bhānú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+árca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+práśastibhiḥ ← práśasti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+dadhiré ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+mártāsaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+purás ← purás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +188,4 @@ Zum Hochgenuss dem strahlenden, dem Gotte Agni sing' ich nun, Den durch ihr Lob 
 Которого, словно Митру, смертные  
 С помощью восхвалений поставили впереди.
 </details>
+

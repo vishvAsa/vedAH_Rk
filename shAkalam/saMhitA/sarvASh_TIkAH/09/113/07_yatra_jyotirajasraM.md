@@ -17,15 +17,70 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+ájasram ← ájasra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+hitám ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+loké ← loká- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+pavamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+tásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+ákṣite ← ákṣita- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+amŕ̥te ← amŕ̥ta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+loké ← loká- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

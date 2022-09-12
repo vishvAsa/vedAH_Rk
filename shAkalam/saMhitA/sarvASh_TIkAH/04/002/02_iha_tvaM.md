@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+jātā́n ← √janⁱ- (root)  
+{case:ACC, gender:M, number:PL, non-finite:PPP}
+
+ubháyān ← ubháya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īyase ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+r̥ṣva ← r̥ṣvá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yuyujānáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ca ← ca (invariable)  
+{}
+
+r̥jumuṣkā́n ← r̥jumuṣká- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śukrā́n ← śukrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ O Sohn der Kraft, uns heute hier geboren, o Agni, eilst du zwischen Gott und Men
 Движешься как вестник, запрягший, о огромный,  
 Мужественных и блестящих (жеребцов) с тугими ядрами.
 </details>
+

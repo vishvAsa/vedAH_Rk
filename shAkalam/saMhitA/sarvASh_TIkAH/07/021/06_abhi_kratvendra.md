@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+bhūḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jmán ← kṣám- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vivyak ← √vyac- (root)  
+{number:SG, person:3, mood:INJ, tense:PRF, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+jaghántha ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+svéna ← svá- (pronoun)  
+{case:INS, gender:N, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ántam ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śátruḥ ← śátru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vividat ← √vid- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+yudhā́ ← yúdh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +255,4 @@ Du, Indra, siegst mit Kraft auf deinem Gange, der Weltenraum umfasst nicht deine
 Ведь своей собственной силой ты убил Вритру.  
 Ни (один) враг не добьется в бою твоего конца.
 </details>
+

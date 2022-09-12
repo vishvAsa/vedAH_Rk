@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhúvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+dhīnā́m ← dhī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vāmádevasya ← vāmádeva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+avr̥káḥ ← avr̥ká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhúvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jasātau ← vā́jasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+jaganma ← √gam- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+prámatim ← prámati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+jaritré ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+syāḥ ← √as- 1 (root)  
+{number:SG, person:2, mood:OPT, tense:PRS, voice:ACT}
+
+uruśáṁsaḥ ← uruśáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvádha ← viśvádha (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Begünst'ge du des Vamadeva Bitten, sei holder Freund ihm in dem Kampf um Beute;
 К тебе мы пришли как к (нашему) охранителю.  
 Будь всегда для певца тем, чья слава широка!
 </details>
+

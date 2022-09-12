@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kaláśānām ← kaláśa- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+adhīmahi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+híraṇyānām ← híraṇya- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bhūridā́ḥ ← bhūridā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +137,4 @@ Zehn Schalen ganz mit Gold gefüllt empfingen, Vritratödter wir Von dir, denn g
 Кувшинах с золотыми вещами.  
 Ты много даешь, о убийца Вритры!
 </details>
+

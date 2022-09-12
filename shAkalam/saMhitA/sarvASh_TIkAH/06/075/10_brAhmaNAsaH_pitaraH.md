@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+brā́hmaṇāsaḥ ← brā́hmaṇa- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+pítaraḥ ← pitár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sómyāsaḥ ← somyá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+anehásā ← anehás- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śivé ← śivá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+duritā́t ← duritá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pātu ← √pā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tāvr̥dhaḥ ← r̥tāvŕ̥dh- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+agháśaṁsaḥ ← agháśaṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īśata ← √īś- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+mā́kis ← mā́kis (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rákṣa ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Die priesterlichen Väter, Soma liebend, seien uns heilvoll, und die unvergleich
 Да охранит нас Пушан от беды, о умножающие закон!  
 Защити (нас)! Да не приобретет никогда злоречивец власти над нами!
 </details>
+

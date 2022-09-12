@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mádyaḥ ← mádya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rásaḥ ← rása- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+caṣṭe ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śíśuḥ ← śíśu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áviśat ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́ram ← vā́ra- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +170,4 @@ Ja er, der Saft, der Rausch erregt, der Spross des Himmels blickt herab, Wenn In
 
 -ru-
 </details>
+

@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+prátīkam ← prátīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+susaṁdŕ̥k ← susaṁdŕ̥ś- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svanīka ← svanīka- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rócase ← √ruc- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+rukmáḥ ← rukmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+upāké ← upāká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+śúṣmaḥ ← śúṣma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tanyatúḥ ← tanyatú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+bhānúm ← bhānú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cakṣi ← √cakṣ- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+citráḥ ← citrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +242,4 @@ Schön glänzend ist, o schöner, dein Erscheinen, wenn du wie Gold erstrahlest 
 Как гром с неба, настигает твое неистовство.  
 Словно яркое солнце, ты являешь сияние.
 </details>
+

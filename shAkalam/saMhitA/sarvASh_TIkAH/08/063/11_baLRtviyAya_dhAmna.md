@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+báṭ ← báṭ (invariable)  
+{}
+
+dhā́mne ← dhā́man- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+r̥tvíyāya ← r̥tvíya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+nonumaḥ ← √nu- ~ nū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ŕ̥kvabhiḥ ← ŕ̥kvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jéṣāma ← √ji- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+yujā́ ← yúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +153,4 @@ Fürwahr, o Held, wir stimmen ein mit Sängern in den heil'gen Brauch, Mit dir w
 Обычай регулярного жертвоприношения.  
 Мы хотим побеждать, о Индра, с тобою как с союзником!
 </details>
+

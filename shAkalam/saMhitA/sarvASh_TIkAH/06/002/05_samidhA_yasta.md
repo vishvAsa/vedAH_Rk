@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́hutim ← ā́huti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+samídhā ← samídh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+náśat ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+níśitim ← níśiti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+puṣyati ← √puṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vayā́vantam ← vayā́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kṣáyam ← kṣáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatā́yuṣam ← śatā́yus- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +161,7 @@ For extensive disc. of this vss., see comm. ad VI.2.4-5 above.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/002/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/002/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 These two vss. are in some ways an expansion of VI.1.9: 4ab are the equivalent of VI.1.9a (for disc. see below); 5ab corresponds to VI.1.9bc. Note esp.
@@ -155,3 +195,4 @@ Der Mann, der durch Entzünden dir des Opfers Guss und Glut verschafft, Der ernt
 Он добивается процветания (своего) дома, о Агни,  
 Так что тот ветвится и живет сто лет.
 </details>
+

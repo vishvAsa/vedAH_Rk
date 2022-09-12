@@ -15,13 +15,50 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; 12 = 8+4  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+nr̥mṇám ← nr̥mṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śatakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vicarṣaṇe ← vícarṣaṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+pr̥tanāṣáham ← pr̥tanāṣáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīrám ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +163,4 @@ O Indra, bringe du herbei uns Kraft und Mannheit, thatenreicher, rüstiger, Dem 
 О Индра, мужество, о стоумный, очень подвижный,  
 При(неси) героя, выигрывающего битвы!
 </details>
+

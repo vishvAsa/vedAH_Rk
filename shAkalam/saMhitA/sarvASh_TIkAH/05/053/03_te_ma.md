@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+āyayúḥ ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+dyúbhiḥ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+víbhiḥ ← ví- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+arepásaḥ ← arepás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+máryāḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+imā́n ← ayám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+íti ← íti (invariable)  
+{}
+
+páśyan ← √paś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+stuhi ← √stu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +208,4 @@ Die auf Luftrossen täglich her zum Rausche flogen, sagten mir: »Uns Männer, H
 Мужи, беспорочные юноши:  
 Славь, как видишь их.
 </details>
+

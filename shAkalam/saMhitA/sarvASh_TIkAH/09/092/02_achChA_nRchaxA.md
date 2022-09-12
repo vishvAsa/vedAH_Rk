@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+asarat ← √sr̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+nr̥cákṣāḥ ← nr̥cákṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+camū́ṣu ← camū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sī́dan ← √sad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+agman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +244,4 @@ Zur Seihe eilte jetzt er Männer-schauend, als Seher sich in seinem Schoosse zei
 Он садится в чаны, как хотар на (свое) сиденье.  
 Подошли к нему семеро вдохновенных риши.
 </details>
+

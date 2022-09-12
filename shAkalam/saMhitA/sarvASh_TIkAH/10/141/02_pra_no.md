@@ -16,14 +16,66 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D;; epic anuṣṭubh (292)  
 genre D;; epic anuṣṭubh (292)  
 genre D;; epic anuṣṭubh (292)  
 genre D;; epic anuṣṭubh (292)
+#### Morph
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+yachatu ← √yam- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+sūnŕ̥tā ← sūnŕ̥ta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+dadātu ← √dā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Es schenke Gut uns Arjaman, uns Bhaga, uns Brihaspati, Die Götter uns, und Sunr
 Боги, а также Суприта –  
 Богиня пусть дает нам богатства!
 </details>
+

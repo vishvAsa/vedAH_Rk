@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yujé ← √yuj- (root)  
+{case:DAT, number:SG}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+pathyā̀ ← pathyā̀- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ślókaḥ ← ślóka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sūréḥ ← sūrí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+putrā́ḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śr̥ṇvántu ← √śru- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhā́māni ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+divyā́ni ← divyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tasthúḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Ich schirre euch beiden [dem Himmel und der Erde] ein altes Gebet in Demuth an; 
 Да услышат все сыновья бессмертия,  
 Что приняли небесные формы!
 </details>
+

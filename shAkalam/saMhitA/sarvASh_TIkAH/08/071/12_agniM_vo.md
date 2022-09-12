@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devayajyáyā ← devayajyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prayatí ← √i- 1 (root)  
+{case:LOC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+árvati ← árvant- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dhīṣú ← dhī́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+prathamám ← prathamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kṣaítrāya ← kṣaítra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sā́dhase ← √sādh- ~ sidh- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +200,4 @@ Ihm naht mit eurem Gottesdienst, dem Agni in des Fests Verlauf, Ihm als dem erst
 
 -ru-
 </details>
+

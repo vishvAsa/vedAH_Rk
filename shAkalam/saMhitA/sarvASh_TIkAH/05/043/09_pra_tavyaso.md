@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+náma:uktim ← náma:ukti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+távyasaḥ ← távyaṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+turásya ← turá- 1 (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+adikṣi ← √diś- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+pūṣṇáḥ ← pūṣán- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vāyóḥ ← vāyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+coditā́rā ← coditár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+matīnā́m ← matí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+rā́dhasā ← rā́dhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+draviṇodaú ← draviṇodā́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tmán ← tmán- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā́jasya ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Ich hab' den Spruch gelehrt, mit dem man betet zum starken Puschan und zum schne
 (Тем двоим,) кто благодаря щедрости – вдохновители мыслей  
 И кто также сами – дарители богатства вознаграждения.
 </details>
+

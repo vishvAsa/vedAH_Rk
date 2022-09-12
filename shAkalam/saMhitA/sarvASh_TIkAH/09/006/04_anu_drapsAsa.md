@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+drapsā́saḥ ← drapsá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asaran ← √sr̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pravátā ← pravát- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+āśata ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+punānā́ḥ ← √pū- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Ihm strömten Indu-Tropfen nach, wie Wasser an dem Felsenhang; Geklärt erreicht
 Словно воды по склону,  
 Очищаясь, они достигли Индры.
 </details>
+

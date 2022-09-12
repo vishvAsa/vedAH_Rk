@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mitrāvaruṇau ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+dīrghaśrút ← dīrghaśrút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mánmāni ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávāthaḥ ← √avⁱ- (root)  
+{number:DU, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sukratū ← sukrátu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pr̥ṇaíthe ← √pr̥̄- 1 (root)  
+{number:DU, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Euch, Mitra, Varuna, stimmt an der Sänger, der fromme, weithin schallend seine 
 Чтобы словно (своей) силой духа вы наполнили (его) осени –  
 (Тот,) чьи священные слова вы поддерживаете, о прекрасные силой духа.
 </details>
+

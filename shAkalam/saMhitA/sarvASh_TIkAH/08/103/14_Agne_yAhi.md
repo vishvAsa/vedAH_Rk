@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+marútsakhā ← marútsakhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rudrébhiḥ ← rudrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sóbharyāḥ ← sóbharī- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+mādáyasva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+svàrṇare ← svàrṇara- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +170,4 @@ O Agni, komm, du Marutfreund, mit Rudra's zu dem Somatrunk, berausche dich beim 
 На прекрасное восхваление Собхари!  
 Опьяняйся в Сварнаре!
 </details>
+

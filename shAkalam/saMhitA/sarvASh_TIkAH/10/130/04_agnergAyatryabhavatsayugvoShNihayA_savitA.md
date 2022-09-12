@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gāyatrī́ ← gāyatrī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sayúgvā ← sayúgvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+babhūva ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uṣṇíhayā ← uṣṇíhā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+anuṣṭúbhā ← anuṣṭúbh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+máhasvān ← máhasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+āvat ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bŕ̥haspáteḥ ← bŕ̥haspáti- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+br̥hatī́ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +201,4 @@ Mit Aggni war die Gājatrī verbunden, mit der Uschnihā war Savitar in Verbindu
 С (размером) ануштубх – Сома, возвеличенный гимнами;  
 Речь Брихаспати подкреплял (размер) брихати.
 </details>
+

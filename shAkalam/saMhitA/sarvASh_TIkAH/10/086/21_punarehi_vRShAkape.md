@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+púnar ← púnar (invariable)  
+{}
+
+vr̥ṣākape ← vr̥ṣā́kapi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kalpayāvahai ← √kl̥p- (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+suvitā́ ← suvitá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svapnanáṁśanaḥ ← svapnanáṁśana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ástam ← ásta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+éṣi ← √i- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +196,4 @@ Gehe wieder zurück, Vrischākapi, wir beide wollen dein Wohlergehen bewirken; g
 
 -ru-
 </details>
+

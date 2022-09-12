@@ -15,14 +15,48 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ī ← ī (invariable)  
+{}
+
+r̥tāvŕ̥dhaḥ ← r̥tāvŕ̥dh- (nominal stem)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ájījanan ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+cā́rum ← cā́ru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dr̥śé ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kavím ← kaví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+máṁhiṣṭham ← máṁhiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puruspŕ̥ham ← puruspŕ̥h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +164,4 @@ Der schön von Ansehn jetzt als Spross erzeugt ist von den Heiligen, Ein Seher s
 Как зародыша, приятного на вид,  
 Поэта, самого щедрого, многожеланного на обряде:
 </details>
+

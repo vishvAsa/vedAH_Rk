@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+dhānā́ḥ ← dhānā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mā́dhyaṁdinasya ← mā́dhyaṁdina- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sávanasya ← sávana- 1 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+cā́rum ← cā́ru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥ṣva ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+puroḷā́śam ← puroḷā́ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jaritā́ ← jaritár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+stotā́ ← stotár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tū́rṇyarthaḥ ← tū́rṇyartha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ī́ṭṭe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+vr̥ṣāyámāṇaḥ ← √vr̥ṣāy- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Die Getreidekörner bei der mittäglichen Spende, den Kuchen, Indra, lass dir li
 Когда восхвалитель-певец, спешащий к цели,  
 Мужаясь под(ходит) и взывает хвалебными песнями!
 </details>
+

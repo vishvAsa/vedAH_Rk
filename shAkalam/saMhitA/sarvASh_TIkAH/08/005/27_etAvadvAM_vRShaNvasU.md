@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+etā́vat ← etā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vr̥ṣaṇvasū ← vŕ̥ṣaṇvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+átas ← átas (invariable)  
+{}
+
+bhū́yaḥ ← bhū́yaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+gr̥ṇántaḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +146,4 @@ Um solche Huld und grössre noch, o güterreiche, gehn wir euch, O Ritter, an mi
 Или (даже) больше этого  
 Воспеватели просят у вас милости.
 </details>
+

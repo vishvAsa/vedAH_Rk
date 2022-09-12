@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+joṣi ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+aṅgiraḥ ← áṅgiras- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śr̥ṇudhi ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +145,4 @@ Nimm unsre Feier gnädig an und unser Opfer, Angiras, Erhöre unser Rufen gern.
 Нашей жертвой, о Ангирас!  
 Наш зов услышь!
 </details>
+

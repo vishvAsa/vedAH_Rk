@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahā́m ← máh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śáṁsa ← √śaṁs- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ávyan ← √vī- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṣṭáyaḥ ← kr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+somapā́ḥ ← somapā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhiṣáṇe ← dhiṣáṇā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sukrátum ← sukrátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vibhvataṣṭám ← vibhvataṣṭá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ghanám ← ghaná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+janáyanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+vr̥trā́ṇām ← vr̥trá- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +236,4 @@ Den grossen Indra, welchem alle Stämme der Somatrinker Lieb' erwiesen, preis' i
 (Бога) с прекрасной силой духа, вытесанного мастером,  
 Кого две чаши мироздания (и) боги породили как молот против врагов.
 </details>
+

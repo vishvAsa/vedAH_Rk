@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsa ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+prakāśáḥ ← prakāśá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hánāva ← √han- (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+niréhi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yajāma ← √yaj- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Hier ist der Himmel, hier allein das Schöne, hier helles Licht und hier der wei
 Тебя, являющегося жертвой, мы почтим жертвой.  
 Автор:
 </details>
+

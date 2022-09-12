@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+devátā ← devátā (invariable)  
+{}
+
+śríyam ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+dívaḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+napātā ← nápat- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vanathaḥ ← √vanⁱ- (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+pŕ̥kṣaḥ ← pŕ̥kṣ- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sacante ← √sac- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+vápuḥ ← vápus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+kakuhā́saḥ ← kakuhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+váhanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Ihr beid' erlanget diesen Glanz, o Ritter, durch eure Kraft bei Göttern, Himmel
 К вашему дивному явлению присоединяются питательные силы,  
 Когда везут вас на колеснице горбатые быки.
 </details>
+

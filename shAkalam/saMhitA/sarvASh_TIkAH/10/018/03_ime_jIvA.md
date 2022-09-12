@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+avavr̥tran ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:PASS}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+jīvā́ḥ ← jīvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mr̥taíḥ ← √mr̥- (root)  
+{case:INS, gender:M, number:PL, non-finite:PPP}
+
+ví ← ví (invariable)  
+{}
+
+ábhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+adyá ← adyá (invariable)  
+{}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+deváhūtiḥ ← deváhūti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+agāma ← √gā- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+hásāya ← hása- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nr̥táye ← nr̥tí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+prā́ñcaḥ ← prā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+drā́ghīyaḥ ← drā́ghīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pratarám ← pratarám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Getrennt sind diese lebenden vom todten, der Gottesdienst ward heute uns zum Hei
 Мы ушли навстречу пляске и смеху.  
 Пронося дальше (свою) долгую жизнь.
 </details>
+

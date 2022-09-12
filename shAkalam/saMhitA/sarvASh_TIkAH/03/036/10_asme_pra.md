@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+r̥jīṣin ← r̥jīṣín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yandhi ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+bhū́reḥ ← bhū́ri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, number:SG}
+
+viśvávārasya ← viśvávāra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śáśvataḥ ← śáśvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śiprin ← śiprín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vīrā́n ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

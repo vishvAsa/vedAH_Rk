@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ījānáḥ ← √yaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+pr̥chā́t ← √praś- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kuhayā́ ← kuhayā́ (invariable)  
+{}
+
+kuhayākr̥te ← kuhayākr̥ti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ápaśritaḥ ← √śri- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+eṣáḥ ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+valáḥ ← valá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+gomatī́m ← gomatī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tiṣṭhati ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +178,4 @@ Wenn dich ein Opfernder fragen sollte: Wo bist du, wo wirkest du, [so sprich:] D
 (То ты ответишь:) Подался назад этот Вала,  
 Он спускается к Гомати.
 </details>
+

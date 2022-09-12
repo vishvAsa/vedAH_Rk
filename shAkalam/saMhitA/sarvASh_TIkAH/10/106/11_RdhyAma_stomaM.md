@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+r̥dhyā́ma ← √r̥dh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+sanuyā́ma ← √sanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+mántram ← mántra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+saráthā ← sarátha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+úpa ← úpa (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pakvám ← pakvá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yáśaḥ ← yáśas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aprāḥ ← √prā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+aśvínoḥ ← aśvín- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+bhūtā́ṁśaḥ ← bhūtā́ṁśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +246,4 @@ Mögen wir zu glücklichem Ziele den Lobgesang führen, mögen wir Labung erlang
 К готовой сладости в наших коровах, подобной сиянию!  
 Бхутанша исполнил желания Ашвинов.
 </details>
+

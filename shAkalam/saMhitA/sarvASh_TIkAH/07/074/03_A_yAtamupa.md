@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhūṣatam ← √bhūṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pibatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dugdhám ← √duh- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+jenyāvasū ← jenyāvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mardhiṣṭam ← √mr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +194,4 @@ O kommet her und bleibt bei uns, ihr Ritter, trinkt den süssen Meth, Und melkt 
 Надоено молоко, о два быка, о те, у кого есть унаследованное добро.  
 Не пренебрегайте нами, приезжайте!
 </details>
+

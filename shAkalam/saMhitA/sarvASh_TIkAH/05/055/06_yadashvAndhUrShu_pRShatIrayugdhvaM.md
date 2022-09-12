@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áyugdhvam ← √yuj- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:MED}
+
+dhūrṣú ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+pŕ̥ṣatīḥ ← pŕ̥ṣant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ámugdhvam ← √muc- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:MED}
+
+átkān ← átka- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hiraṇyáyān ← hiraṇyáya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+asyatha ← √as- 2 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+avr̥tsata ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ráthāḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúbham ← śúbh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yātā́m ← √yā- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Wenn ihr die Schecken an die Deichsel habt geschirrt, und eure goldnen Mäntel w
 Вы разгоняете любую враждебность.  
 У выезжающих для блеска (Марутов) колесницы последовали (одна за другой).
 </details>
+

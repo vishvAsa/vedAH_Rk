@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+rā́dhasaḥ ← rā́dhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vartā́ ← vartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+dítsasi ← √dā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+maghám ← maghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stutáḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +168,4 @@ Kein Gott, kein Sterblicher vermag zu hindern, Indra, dein Geschenk, Wenn Schatz
 О Индра, ни бога, ни смертного,  
 Когда, восхваленный, ты хочешь наградить щедрым даром.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+éṣi ← √i- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+uṣá-uṣaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+abhavaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vibhā́vā ← vibhā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yamáyoḥ ← yamá- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+dadhiṣe ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+padā́ni ← padá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+r̥tā́ya ← r̥tá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+janáyan ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svā́yai ← svá- (pronoun)  
+{case:DAT, gender:F, number:SG}
+
+tanvè ← tanū́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Denn du, o guter, führst die Morgenröthen, du hast erhellt die Schwestern, Nac
 Ради закона ты сделал семь шагов,  
 Создавая для себя самого дружеский союз.
 </details>
+

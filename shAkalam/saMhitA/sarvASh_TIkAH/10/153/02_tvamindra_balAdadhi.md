@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+bálāt ← bála- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ójasaḥ ← ójas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣan ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +169,4 @@ Du, Indra, bist aus Kraft erzeugt, aus Siegesmacht und aus Gewalt; Du bist, o St
 От могущества, от мощи.  
 Ты, о бык, бык и есть.
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+káṇvam ← káṇva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+médhātithim ← médhātithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+dáśavrajam ← dáśavraja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váśam ← váśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+ā́vatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+góśaryam ← góśarya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+avatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +175,4 @@ Wie dem Kanva, Medhatithi, dem Vaça, dem Daçavradscha, Goçarja Hülfe ihr erw
 Которыми вы помогли Гошарье, –  
 Помогите ими нам, о два мужа!
 </details>
+

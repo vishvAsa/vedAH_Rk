@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+nr̥mā́danaḥ ← nr̥mā́dana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+carṣaṇīsáhe ← carṣaṇīsáh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+anumā́dyaḥ ← anumā́dya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sásniḥ ← sásni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +149,4 @@ Zum Weltbezwinger riesle hin o Soma, heldberauschender, Ein rühmenswerther Spen
 Очищайся для завоевателя народов,  
 (Ты,) покоритель, которого надо приветствовать!
 </details>
+

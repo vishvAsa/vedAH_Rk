@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+atr̥ndan ← √tr̥d- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+satī́ḥ ← √as- 1 (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+vīḷaú ← vīḷú- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ahinvan ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prācā́ ← prā́ñc- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+avindan ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+pathyā̀m ← pathyā̀- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víśvām ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prajānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+viveśa ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ Den im festen Fels befindlichen Kühen bohrten Bahn die Weisen, die sieben Säng
 Они находили любой путь закона.  
 Понимающий же вошел в них с поклонением.
 </details>
+

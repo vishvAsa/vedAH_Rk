@@ -15,13 +15,41 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+gā́thayā ← gā́thā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iṣirásya ← iṣirá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yuñjánti ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+uraú ← urú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+urúyuge ← urúyuga- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+indravā́hā ← indraváh- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vacoyújā ← vacoyúj- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +162,4 @@ Sie schirren an des weiten Wagens weites Joch mit Sang des Raschen Füchse an, D
 В широкую колесницу с широким ярмом,  
 (Коней,) возящих Индру, запрягаемых (одним) словом.
 </details>
+

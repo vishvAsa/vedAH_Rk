@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+paramám ← paramá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+br̥hán ← br̥hánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+pāti ← √pā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tr̥tī́yam ← tr̥tī́ya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ákrata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+āsā́ ← ā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svám ← svá- (pronoun)  
+{case:ACC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+arcanti ← √r̥c- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+sácetasaḥ ← sácetas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +236,4 @@ Vischnu fürwahr, der Agni's höchsten Ort kennt, beschützt den dritten Ort, de
 Когда через (его) уста они получили себе его собственное молоко,  
 Они, единодушные, воспевают его здесь.
 </details>
+

@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+indrāṇi ← indrāṇī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rāraṇa ← √ranⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+r̥té ← r̥té (invariable)  
+{}
+
+sákhyuḥ ← sákhi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vr̥ṣā́kapeḥ ← vr̥ṣā́kapi- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ápyam ← ápya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+gáchati ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi,
 
 -ru-
 </details>
+

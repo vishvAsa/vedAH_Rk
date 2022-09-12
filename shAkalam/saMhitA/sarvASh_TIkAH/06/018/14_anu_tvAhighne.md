@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+áhighne ← áhighna- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+kavīnā́m ← kaví- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+kavítamam ← kavítama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádan ← √mad- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+bādhitā́ya ← √bādhⁱ- (root)  
+{case:DAT, gender:M, number:SG, non-finite:PPP}
+
+káraḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+várivaḥ ← várivas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+divé ← dyú- ~ div- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tanvè ← tanū́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +229,4 @@ Da jauchzten dir, o Gott, die Götter alle, der klugen klügstem zu, o Drachent�
 Когда ты, воспетый, создал широкий выход  
 Для угнетенного: для неба, для народа, для себя.
 </details>
+

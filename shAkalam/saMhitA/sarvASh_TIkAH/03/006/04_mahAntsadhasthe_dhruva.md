@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dhruváḥ ← dhruvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+níṣattaḥ ← √sad- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sadhásthe ← sadhástha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+háryamāṇaḥ ← √hr̥- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+mā́hine ← mā́hina- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ajáre ← ajára- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ámr̥kte ← ámr̥kta- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ā́skre ← ā́skra- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+sapátnī ← sapátnī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+dhenū́ ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+sabardúghe ← sabardúgha- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+urugāyásya ← urugāyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ Der grosse ist gesetzt auf feste Stätte, der liebe zwischen beide grosse Welten
 Держащимися вместе женами одного мужа, нестареющими, невредимыми,  
 Всегда доящимися коровами широкошагающего (бога).
 </details>
+

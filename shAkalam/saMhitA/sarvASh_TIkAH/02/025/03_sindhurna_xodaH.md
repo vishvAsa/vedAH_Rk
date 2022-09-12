@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+kṣódaḥ ← kṣódas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+r̥ghāyatáḥ ← √r̥ghāy- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śímīvān ← śímīvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+síndhuḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vádhrīn ← vádhri- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vaṣṭi ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+prásitiḥ ← prásiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vártave ← √vr̥- (root)  
+{case:DAT, number:SG}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+kr̥ṇuté ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáṁ-yam ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yújam ← yúj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +241,4 @@ Wie Wasser strömt die rege Flut des Zürnenden, ein Mann, bezwingt mit Macht er
 Словно порыв огня, нельзя удержать того,  
 Кого Брахманаспати делает (своим) союзником.
 </details>
+

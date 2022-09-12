@@ -15,13 +15,50 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+idhyase ← √idh- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+sám ← sám (invariable)  
+{}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nítyaḥ ← nítya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maháyamānaḥ ← √mahay- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sadhásthāni ← sadhástha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +172,4 @@ Entflammt wirst Agni du im Haus der Wasser, o Wessenkenner, eigner Sohn der Stä
 Родной сын силы, Джатаведас.  
 Делающий счастливыми обиталища (своею) помощью.
 </details>
+

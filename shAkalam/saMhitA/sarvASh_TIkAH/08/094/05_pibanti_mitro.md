@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+píbanti ← √pā- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pūtásya ← √pū- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+tánā ← tán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jā́vataḥ ← jā́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+triṣadhasthásya ← triṣadhasthá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +141,4 @@ Den reinen, der drei Sitze hat, der Kinder schafft, ihn trinken stets Varuna, Mi
 Пьют непрерывно очищающегося (сому),  
 Имеющего три жилища, дающего потомство.
 </details>
+

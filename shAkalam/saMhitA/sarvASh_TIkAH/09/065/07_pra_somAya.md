@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+prá ← prá (invariable)  
+{}
+
+sómāya ← sóma- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vyaśvavát ← vyaśvavát (invariable)  
+{}
+
+gāyata ← √gā(y)- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pávamānāya ← √pū- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sahásracakṣase ← sahásracakṣas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -95,7 +117,7 @@ The adv. vyaśvavát ‘like Vyaśva’ is found 3x in that little group of hymn
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Again no signs of unity.
@@ -124,3 +146,4 @@ Auf, singet nach Viaçva's Art dem Soma, ihm, dem flammenden, Dem grossen, tause
 
 -ru-
 </details>
+

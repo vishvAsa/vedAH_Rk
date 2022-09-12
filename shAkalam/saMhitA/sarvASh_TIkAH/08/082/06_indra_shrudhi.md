@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śrudhí ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+gómataḥ ← gómant- (nominal stem)  
+{case:GEN, number:SG}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+aśnuhi ← √naś- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pītím ← pītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tr̥ptím ← tr̥ptí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +158,4 @@ O höre, Indra, meinen Ruf, erlange Trunk und Sättigung An diesem milchgemischt
 
 -ru-
 </details>
+

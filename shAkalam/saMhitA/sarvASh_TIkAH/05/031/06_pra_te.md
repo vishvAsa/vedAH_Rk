@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+káraṇāni ← káraṇa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+pū́rvāṇi ← pū́rva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vocam ← √vac- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+cakártha ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nū́tanā ← nū́tana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+śáktīvaḥ ← śáktīvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+vibhárāḥ ← √bhr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dā́nucitrāḥ ← dā́nucitra- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jáyan ← √ji- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +220,7 @@ What to do with uccaíḥ is unclear. Most take it with the gerund apagū́rya; 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 Vs. 5 is syntactically problematic, in that it has two subordinate clauses, one marked by yád in pāda a and one marked by yé in pāda c, but no obvious main clause. The rel. cl. beginning in c must extend through d, which contains the accented imperfect ávartanta, but the extent of the yád clause is unclear. It must go as far as the end of pāda a because of the accented subjunctive árcān, but the status of b is in question. Since the vs. otherwise lacks a main clause, Geldner and Witzel Gotō make b the nominal main clause, e.g., Geldner “…, da waren die Presssteine, die Aditi einverstanden.” This is possible, but seems conceptually weak, and both Geldner and Witzel Gotō fail to render the subjunctive value of the verb in the yád clause -- Geldner silently changing it into a preterite (“anstimmten”) and Witzel Gotō using a simple pres. (“singen”).
@@ -203,3 +261,4 @@ Nun will ich preisen deine alten Thaten, die neuen auch, die, Mächt'ger, du vol
 (То,) о могущественный, что ты разъял две половины вселенной,  
 Покоряя для Ману вoды, сверкающие влагой.
 </details>
+

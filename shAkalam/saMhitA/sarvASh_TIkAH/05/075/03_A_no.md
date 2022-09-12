@@ -17,15 +17,61 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bíbhratau ← √bhr̥- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rátnāni ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+áśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gáchatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+híraṇyavartanī ← híraṇyavartani- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rúdrā ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+juṣāṇā́ ← √juṣ- (root)  
+{case:NOM, gender:M, number:DU, tense:AOR, voice:MED}
+
+vājinīvasū ← vājínīvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́dhvī ← mā́dhvī- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+śrutam ← √śru- (root)  
+{number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ Kommt beide ihr, o Ritter, her und bringet Schätze uns herbei, O glänzende, au
 Радостные, богатые наградой!  
 О любители меда, услышьте мой призыв!
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+bíbhratam ← √bhr̥- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+nr̥mṇā́ni ← nr̥mṇá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+sadhástheṣu ← sadhástha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+cā́rum ← cā́ru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+sukr̥tyáyā ← sukr̥tyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Dich, der du Manneskräfte hegst in des erhabnen Himmeis Sitz, Den theuren flehn
 
 -ru-
 </details>
+

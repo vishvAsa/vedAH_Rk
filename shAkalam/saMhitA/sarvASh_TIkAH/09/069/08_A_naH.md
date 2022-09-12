@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+híraṇyavat ← híraṇyavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vásumat ← vásumant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áśvāvat ← áśvāvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gómat ← gómant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yávamat ← yávamant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sthána ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mūrdhā́naḥ ← mūrdhán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prásthitāḥ ← √sthā- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+vayaskŕ̥taḥ ← vayaskŕ̥t- (nominal stem)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ O ströme hell uns Reichthum zu an Gut und Gold, an Ross und Rind, Getreidevorra
 Ведь вы, о сома, – отцы мои,  
 Поднятые головы неба, создающие телесную силу!
 </details>
+

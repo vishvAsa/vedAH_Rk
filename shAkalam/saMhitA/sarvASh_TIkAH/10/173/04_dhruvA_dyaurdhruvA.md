@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+dhruvā́ ← dhruvá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhruvā́ ← dhruvá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhruvā́saḥ ← dhruvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+párvatāḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhruvám ← dhruvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jágat ← jágat- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dhruváḥ ← dhruvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +190,4 @@ Fest steht der Himmel, fest die Erd' und fest stehn diese Berge hier; Fest steht
 Тверд весь этот мир,  
 Тверд этот царь племен.
 </details>
+

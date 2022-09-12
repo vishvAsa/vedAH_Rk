@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+prastarám ← prastará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sī́da ← √sad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yama ← yamá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áṅgirobhiḥ ← áṅgiras- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pitŕ̥bhiḥ ← pitár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+saṁvidānáḥ ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+kaviśastā́ḥ ← kaviśastá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mántrāḥ ← mántra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vahantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mādayasva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ So setz dich, Jama, hin auf diesen Grassitz, vereint den Angiras und unsern Vät
 Да привезут тебе молитвы, произнесенные поэтами!  
 Этой жертве радуйся, о царь!
 </details>
+

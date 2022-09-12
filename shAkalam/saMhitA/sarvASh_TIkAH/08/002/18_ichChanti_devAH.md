@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ichánti ← √iṣ- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sunvántam ← √su- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+spr̥hayanti ← √spr̥h- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+svápnāya ← svápna- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+átandrāḥ ← átandra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pramā́dam ← pramā́da- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yánti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ Götter wünschen Somapresser, nicht begehren sie des Schlummers, Rastlos eilen 
 Они не стремятся ко сну:  
 Безустали идут они навстречу опьянению.
 </details>
+

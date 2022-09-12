@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+havíṣmān ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhávāti ← √bhū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+kr̥tábrahmā ← kr̥tábrahman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samaryàḥ ← samaryà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+váram ← vára- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásiṣṭham ← vásiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+r̥cyante ← √r̥c- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:PASS}
+
+yuvábhyām ← tvám (pronoun)  
+{case:INS, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Zum Festesopfer, das euch, o wahrhafte, an Speisen reich sei und an frommen Bitt
 (То) приезжайте с охотой к Васиштхе!  
 Эти священные слова исполняются для вас.
 </details>
+

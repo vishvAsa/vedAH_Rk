@@ -15,14 +15,60 @@ ChandaH = "पिपीलिकमध्या बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vīrám ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gāya ← √gā(y)- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mádeṣu ← máda- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mahā́ ← máh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vícetasam ← vícetas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śākínam ← śākín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrútyam ← śrútya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +197,4 @@ Besinge [oder besingen will ich, wenn gāyā zu lesen] euren Helden bei den Raus
 Индру, знаменитое имя,  
 Могучего, насколько (позволяет) речь!
 </details>
+

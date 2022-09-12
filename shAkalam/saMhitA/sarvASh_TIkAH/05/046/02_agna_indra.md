@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dévāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mítra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+váruṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ruta ← mā́ruta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:VOC, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+viṣṇo ← víṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yanta ← √yam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ádha ← ádha (invariable)  
+{}
+
+gnā́ḥ ← gnā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rudráḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+juṣanta ← √juṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárasvati ← sárasvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ Agni, Indra, Varuna, Mitra, Götter, o Marutschar und Vischnu, schenket Gut uns;
 Оба Насатьи, Рудра и (божественные) жены,  
 Пушан, Бхага, Сарасвати пусть наслаждаются (моей песней)!
 </details>
+

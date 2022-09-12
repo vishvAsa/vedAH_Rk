@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+imé ← ayám (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+jajñátuḥ ← √janⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+dhiṣáṇā ← dhiṣáṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+niyútaḥ ← niyút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saścata ← √sac- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+svā́ḥ ← svá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+vāyúm ← vāyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nireké ← nireká- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śvetám ← śvetá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vásudhitim ← vásudhiti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +244,4 @@ Den Erd' und Himmel hier zum Reichthum zeugten ihn füllt mit Reichthum Dhischan
 Вот собственные упряжки (с дарами) и сопровождают Ваю,  
 А также белую кладовую добра – в избытке.
 </details>
+

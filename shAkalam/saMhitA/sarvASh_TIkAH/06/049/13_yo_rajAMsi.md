@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pā́rthivāni ← pā́rthiva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vimamé ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bādhitā́ya ← √bādhⁱ- (root)  
+{case:DAT, gender:M, number:SG, non-finite:PPP}
+
+cit ← cit (invariable)  
+{}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+trís ← trís (invariable)  
+{}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śárman ← śárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+upadadyámāne ← √dad- (root)  
+{case:LOC, gender:N, number:SG, tense:PRS, voice:PASS}
+
+ca ← ca (invariable)  
+{}
+
+madema ← √mad- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tánā ← tán- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Der dreimal auch der Erde Räume ausschritt zum Nutzen des bedrängten Menschen,
 Когда предоставляется твоя защита,  
 Мы хотим радоваться богатству для нас и для (нашего) потомства.
 </details>
+

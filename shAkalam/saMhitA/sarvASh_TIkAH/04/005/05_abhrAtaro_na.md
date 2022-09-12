@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhrātáraḥ ← abhrātár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vyántaḥ ← √vī- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yóṣaṇaḥ ← yóṣan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+durévāḥ ← duréva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jánayaḥ ← jáni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+patirípaḥ ← patiríp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+anr̥tā́ḥ ← anr̥tá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asatyā́ḥ ← asatyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pāpā́saḥ ← pāpá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sántaḥ ← √as- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ajanata ← √janⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+gabhīrám ← gabhīrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +220,4 @@ Die lüstern sind, wie bruderlose Jungfraun wie böse Weiber, die den Gatten has
 Будучи порочными, беззаконными, неправдивыми,  
 Породили они это тайное слово.
 </details>
+

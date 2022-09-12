@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+purástāt ← purástāt (invariable)  
+{}
+
+samanā́ ← samanā́ (invariable)  
+{}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+paprathānā́ḥ ← √prathⁱ- (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:MED}
+
+samanā́ ← samanā́ (invariable)  
+{}
+
+samānátas ← samānátas (invariable)  
+{}
+
+budhānā́ḥ ← √budh- (root)  
+{case:NOM, gender:F, number:PL, tense:AOR, voice:MED}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sádasaḥ ← sádas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+jarante ← √gr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+sárgāḥ ← sárga- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

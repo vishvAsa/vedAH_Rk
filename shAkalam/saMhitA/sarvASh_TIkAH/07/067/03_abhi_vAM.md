@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nūnám ← nūnám (invariable)  
+{}
+
+súhotā ← súhotar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+siṣakti ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+stómaiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vivakvā́n ← vivakvánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pathyā̀bhiḥ ← pathyā̀- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+pūrvī́bhiḥ ← purú- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+svarvídā ← svarvíd- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vásumatā ← vásumant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +195,4 @@ Euch beid', o Ritter, ehrt mit schönem Opfer mit Liedern euch wahrhaftige der S
 Многими путями приезжайте в наши края  
 На колеснице, находящей солнце, полной добра!
 </details>
+

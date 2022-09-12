@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́naṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+níśitim ← níśiti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vedyā́ ← vedyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vā́ram ← vā́ra- 2 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhānyàm ← dhānyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhatté ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pátyate ← √pat- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vasavyaìḥ ← vasavyà- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +238,4 @@ Der Mann, der selber dein Entzünden wirkte, o Sohn der Kraft, mit Liedern, Spr�
 Он получает, о бог, все желанное имущество,  
 О Агни, он владеет богатствами.
 </details>
+

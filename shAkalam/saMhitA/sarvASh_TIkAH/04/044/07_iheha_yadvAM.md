@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ihéha ← ihá (invariable)  
+{}
+
+papr̥kṣé ← √pr̥kṣ- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+samanā́ ← samanā́ (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+sumatíḥ ← sumatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vājaratnā ← vā́jaratna- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ha ← ha (invariable)  
+{}
+
+jaritā́ram ← jaritár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uruṣyátam ← √uruṣy- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+kā́maḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śritáḥ ← √śri- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yuvadrík ← yuvadrík (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ So oft ich hier zugleich euch beide tränkte, ward eure Gunst uns hier, o Labung
 Спасите же певца вы оба!  
 Направлено (это) желание, о Насатьи, на вас двоих.
 </details>
+

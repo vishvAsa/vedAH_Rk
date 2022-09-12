@@ -17,15 +17,73 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+idhīmahi ← √idh- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ajáram ← ajára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dyumántam ← dyumánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+pánīyasī ← pánīyaṁs- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+syā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dīdáyati ← √dī- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+dyávi ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+samít ← samídh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Dir Agni zünden wir, o Gott, die helle, ew'ge Leuchte an, Dass diese lichte Fla
 Дрова засветились на небе.  
 Принеси восхвателям жертвенную усладу!
 </details>
+

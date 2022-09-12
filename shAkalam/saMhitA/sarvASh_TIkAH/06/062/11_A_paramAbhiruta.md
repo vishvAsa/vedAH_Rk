@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+madhyamā́bhiḥ ← madhyamá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+paramā́bhiḥ ← paramá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+avamā́bhiḥ ← avamá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+niyúdbhiḥ ← niyút- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+dr̥ḷhásya ← √dr̥h- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+gómataḥ ← gómant- (nominal stem)  
+{case:GEN, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vrajásya ← vrajá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+citrarātī ← citrárāti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vartam ← √vr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Kommt nah herbei mit euren Wagenzügen, den höchsten, mit den untersten und mit
 Раскройте для воспевателя врата, о обладатели ярких даров,  
 Даже у крепкого загона, полного коров!
 </details>
+

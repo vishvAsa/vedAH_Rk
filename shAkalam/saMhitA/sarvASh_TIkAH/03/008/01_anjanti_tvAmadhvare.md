@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+añjánti ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devayántaḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+daívyena ← daívya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mádhunā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vánaspate ← vánaspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhattāt ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dráviṇā ← dráviṇa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+tíṣṭhāḥ ← √sthā- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asyā́ḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+kṣáyaḥ ← √kṣi- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Es salben dich beim Fest die frommen Männer, o Waldesherr, mit süsser Götters
 Когда будешь ты стоять прямо, дай здесь богатства,  
 Или когда будешь покоиться в лоне этой матери!
 </details>
+

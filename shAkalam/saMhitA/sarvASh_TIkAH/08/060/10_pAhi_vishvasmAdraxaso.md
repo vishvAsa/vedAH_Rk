@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árāvṇaḥ ← árāvan- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ava ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sma ← sma (invariable)  
+{}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+devátātaye ← devátāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+nédiṣṭham ← nédiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+āpím ← āpí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nákṣāmahe ← √nakṣ- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+vr̥dhé ← vŕ̥dh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Beschütze uns vor jedem feindlichen Gespenst und sei in Schlachten hülfreich u
 Это к тебе мы приходим как к самому близкому к службе богам.  
 Как к другу – для (нашего) преуспевания!
 </details>
+

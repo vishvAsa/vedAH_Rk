@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bhojā́ḥ ← bhojá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jigyuḥ ← √ji- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+surabhím ← surabhí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhojā́ḥ ← bhojá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jigyuḥ ← √ji- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+suvā́sāḥ ← suvā́sas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vadhvàm ← vadhū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+antaḥpéyam ← antaḥpéya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhojā́ḥ ← bhojá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jigyuḥ ← √ji- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+súrāyāḥ ← súrā- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+áhūtāḥ ← áhūta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhojā́ḥ ← bhojá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jigyuḥ ← √ji- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+prayánti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Den Freigiebigen gewinnen zuerst den schönumfangenden Schoos [Wohnsitz], die Fr
 Щедрые добыли (возможность) потягивать хмельной напиток.  
 Щедрые одержали верх над теми, что являются незваными.
 </details>
+

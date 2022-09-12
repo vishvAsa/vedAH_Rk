@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M
+#### Morph
+ní ← ní (invariable)  
+{}
+
+pastyā̀su ← pastyā̀- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+stabhūyán ← √stabhūy- (root)  
+{case:NOM, gender:M, number:SG, voice:ACT}
+
+tritáḥ ← tritá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+párivītaḥ ← √vyā- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sīdat ← √sad- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+átas ← átas (invariable)  
+{}
+
+dámūnāḥ ← dámūnas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saṁgŕ̥bhya ← √gr̥bhⁱ- (root)  
+{non-finite:CVB}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ayantraíḥ ← ayantrá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vídharmaṇā ← vídharman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Erzeugt von Trita, in den Häusern, weilend, sass er verhüllt im Innern seiner 
 Оттуда домашний друг племен, охватывая (все),  
 Спешит к мужам – во всю ширь, без средств ограничения.
 </details>
+

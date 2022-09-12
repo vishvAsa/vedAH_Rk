@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sāhi ← √sā- ~ si- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+khám ← khá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stávānaḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+tuvijāta ← tuvijātá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vépasā ← vépas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śukra ← śukrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vāvánaḥ ← √vanⁱ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+víśvebhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rāsva ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+sumahaḥ ← sumahas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,3 +252,4 @@ Entfessle, Agni, seinen Sinn dem Sänger, mit Kraft den Born, gelobter, vielgebo
 Обильную мысль, которую ты хочешь получить, о светлый,  
 Вместе со всеми богами, даруй ее нам, о великолепный!
 </details>
+

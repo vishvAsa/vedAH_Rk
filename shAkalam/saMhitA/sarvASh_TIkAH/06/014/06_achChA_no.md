@@ -17,15 +17,85 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+mitramahaḥ ← mitrámahas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ródasyoḥ ← ródasī- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vócaḥ ← √vac- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sukṣitím ← sukṣití- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+svastím ← svastí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīhí ← √vī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+áṁhāṁsi ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+duritā́ ← duritá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dviṣáḥ ← dvíṣ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+tarema ← √tr̥̄- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+tarema ← √tr̥̄- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+tarema ← √tr̥̄- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,3 +262,4 @@ Rufe uns, o freundereicher Gott die Götter her, o Agni, und das Wohlwollen beid
 Да пересечем мы проявления враждебности, беды, трудности!  
 Да пересечем мы их! Да пересечем с твоей помощью!
 </details>
+

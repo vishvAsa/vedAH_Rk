@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+ita ← √i- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+jáyata ← √ji- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yachatu ← √yam- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+bāhávaḥ ← bāhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ugrā́ḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+anādhr̥ṣyā́ḥ ← anādhr̥ṣyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ásatha ← √as- 1 (root)  
+{number:PL, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +181,4 @@ Ihr Männer, eilet vor und siegt, es mög' euch Indra Schutz verleihn; Es seien 
 
 -ru-
 </details>
+

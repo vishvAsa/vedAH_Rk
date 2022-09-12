@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhiśásā ← abhiśás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+āśásā ← āśás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+niḥśásā ← niḥśás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jā́grataḥ ← √gr̥- (root)  
+{case:ACC, gender:M, number:SG, voice:ACT}
+
+svapántaḥ ← √svap- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+upārimá ← √r̥- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+duṣkr̥tā́ni ← duṣkr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ájuṣṭāni ← ájuṣṭa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+āré ← āré (invariable)  
+{}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+dadhātu ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +195,4 @@ Was wir absichtlich, unabsichtlich, in übler Absicht versehen haben, im Wachen,
 Агни все (эти) отвратительные грехи  
 Пусть прогонит от нас далеко прочь!
 </details>
+

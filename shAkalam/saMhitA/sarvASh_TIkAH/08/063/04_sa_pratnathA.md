@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kavivr̥dháḥ ← kavivr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pratnáthā ← pratnáthā (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vākásya ← vāká- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vakṣáṇiḥ ← vakṣáṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arkásya ← arká- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hómani ← hóman- 1 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śiváḥ ← śivá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmatrā́ ← asmatrā́ (invariable)  
+{}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+gantu ← √gam- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +177,4 @@ Von Alters her der Sänger Freund, und des Gesanges Förderer, Komm Indra auf de
 Дружелюбный при исполнении песни,  
 Пусть придет к нам на помощь!
 </details>
+

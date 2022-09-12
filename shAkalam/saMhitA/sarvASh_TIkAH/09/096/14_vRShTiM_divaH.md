@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+śatádhāraḥ ← śatádhāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+devávītau ← devávīti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sahasrasā́ḥ ← sahasrasā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājayúḥ ← vājayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kaláśe ← kaláśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+síndhubhiḥ ← síndhu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vāvaśānáḥ ← √vāś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pratirán ← √tr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+usríyābhiḥ ← usríya- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Des Himmels Regen riesle hundertströmig, beim Göttermahl erlabend tausendspend
 Громко ревя в кувшине вместе с реками  
 (И) вместе с коровами, продлевая нам срок жизни!
 </details>
+

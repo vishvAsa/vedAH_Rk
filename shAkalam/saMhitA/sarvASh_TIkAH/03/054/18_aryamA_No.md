@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yajñíyāsaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádabdhāni ← ádabdha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+anapatyā́ni ← anapatyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+gántoḥ ← √gam- (root)  
+{case:ABL, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yuyóta ← √yu- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+gātúḥ ← gātú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+paśumā́n ← paśumánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prajā́vān ← prajā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +208,4 @@ Zu ehren sind uns Arjaman, Aditi, untrüglich sind des Varuna Gesetze, Entfernt 
 Удержите нас от того, чтоб угодить в беспотомственность!  
 Да будет наш путь сопровождаться потомством (и) скотом!
 </details>
+

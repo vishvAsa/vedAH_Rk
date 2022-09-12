@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+návagvāḥ ← návagva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vājáyantaḥ ← √vājay- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+víprāsaḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nakṣaddābhám ← nakṣaddābhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+parvateṣṭhā́m ← parvateṣṭhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+táturim ← táturi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádroghavācam ← ádroghavāc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śáviṣṭham ← śáviṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +216,4 @@ Ihn priesen einst die Neuner, unsre Väter, die sieben Sänger, stärkend ihn zu
 Обманывающего тех, кто приблизился, победоносного, живущего на горе,  
 (Того,) чья речь без обмана, самого сильного благодаря молитвам.
 </details>
+

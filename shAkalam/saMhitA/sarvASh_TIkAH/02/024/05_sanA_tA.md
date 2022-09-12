@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhávītvā ← bhávītva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bhúvanā ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+kā́ ← ká- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+sánā ← sána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mādbhíḥ ← mā́s- 1 (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śarádbhiḥ ← śarád- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+varanta ← √vr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+anyád-anyat ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áyatantā ← áyatant- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+carataḥ ← √carⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+cakā́ra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vayúnā ← vayúna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Die Zeiten alle, alte und zukünftige, durch Mond' und Herbste öffnen sie die T
 Не нарушая порядка, двигались эти двое каждый в свою (сторону)  
 Благодаря вехам, которые создал (для них) Брахманаспати.
 </details>
+

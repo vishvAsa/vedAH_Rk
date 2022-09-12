@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,79 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+háriṇyā ← hárita- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+rucā́ ← rúc- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dvéṣāṁsi ← dvéṣas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+svayúgvabhiḥ ← svayúgvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tarati ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svayúgvabhiḥ ← svayúgvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dhā́rā ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rocate ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+aruṣáḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+pariyā́ti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ŕ̥kvabhiḥ ← ŕ̥kvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+rūpā́ ← rūpá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ŕ̥kvabhiḥ ← ŕ̥kvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+saptā́syebhiḥ ← saptā́sya- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,3 +277,4 @@ Mit diesem goldnen hellen Glanz erstrahlend nun besiegt mit seinen Freunden alle
 Когда он проходит через все (свои) облики, (погоняемый) певцами,  
 Семиротыми певцами.
 </details>
+

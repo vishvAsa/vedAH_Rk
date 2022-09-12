@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kártvā ← kártva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prathamā́ni ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vīryā̀ṇi ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+mahitvébhiḥ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+samīyátuḥ ← √i- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yátamānau ← √yat- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+áva ← áva (invariable)  
+{}
+
+dadhvase ← √dhvaṁs- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dhvāntám ← √dhvanⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+haté ← √han- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+apatyata ← √pat- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pūrváhūtau ← pūrváhūti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +216,4 @@ Als beide sie, wetteifernd mit gewalt'ger Kraft, zusammenstiessen erste Heldenth
 Густой мрак окутал убитого.  
 Индра благодаря (своему) величию приобрел право на первый призыв.
 </details>
+

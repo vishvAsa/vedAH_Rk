@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+prá ← prá (invariable)  
+{}
+
+préṣṭhām ← préṣṭha- (nominal stem)  
+{case:ACC, gender:F, number:SG, mood:OPT}
+
+śundhyúvam ← śundhyú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+váruṇāya ← váruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bharasva ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+matím ← matí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mīḷhúṣe ← mīḍhváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vasiṣṭha ← vásiṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arvā́ñcam ← arvā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+kárate ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yájatram ← yájatra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahásrāmagham ← sahásrāmagha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Trag vor, Vasischtha, Varuna, dem gnäd'gen, ein sehr erwünschtes schöngeschm�
 (Ты,) который должен направить в наши края достойного жертв,  
 Награждающего тысячей даров, могучего быка.
 </details>
+

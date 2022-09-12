@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+asasr̥gram ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sárgāḥ ← sárga- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhī́raḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mināti ← √mī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+krátubhiḥ ← krátu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yatānáḥ ← √yat- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ájītim ← ájīti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asyaí ← ayám (pronoun)  
+{case:DAT, gender:F, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+viśé ← víś- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +217,7 @@ Pādas b-c show a clever chaining of significant vocabulary. In b Soma is compar
 The vs. ends with yet another term relating to social life, namely víś- ‘clan’; as king, Soma would exert himself on behalf of this social unit.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/28-30.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
 Attributed to Vasukra Vāsiṣṭha, who is not otherwise known - though a Vasukra Aindra is supposedly responsible for the devilish trio of hymns X.27-29.
@@ -187,3 +251,4 @@ Wie Himmelsströme sind geströmt die Strahlen, den Freund verschmähet nicht de
 Подстраивать к (нашим) желаниях, как сын – (к желаниям) отца.  
 Даруй, очищаясь, ненасилие этому племени!
 </details>
+

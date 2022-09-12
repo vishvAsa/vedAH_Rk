@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhivegáḥ ← abhivegá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+jaritar ← jaritár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+śíkṣam ← √śak- (root)  
+{number:SG, person:1, mood:INJ, tense:PRS, voice:ACT, mood:DES}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yájamānāya ← √yaj- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ánāśīrdām ← ánāśīrdā- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+prahantā́ ← prahantár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ābhúm ← ābhú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+satyadhvŕ̥tam ← satyadhvŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥jināyántam ← √vr̥jināy- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Das soll fein mein Bestreben sein, o Sänger, daß ich dem somapressenden Opfere
 
 -ru-
 </details>
+

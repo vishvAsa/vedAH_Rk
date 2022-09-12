@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+pávamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidā́ḥ ← √vid- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+duṣṭáram ← duṣṭára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dūṇā́śaḥ ← dūṇā́śa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vanuṣyatā́ ← √vanuṣ(y)- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -91,7 +119,7 @@ O self-purifying Soma, find wealth for us that is difficult to surpass, that is 
 On vidā́as lengthened impv. rather than subjunctive vidā́(ḥ), see comm. ad IX.19.6. It is accented because it is preceded by a voc. in zero-position.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 No particular unity, though vss. 11-12 are concerned with wealth.
@@ -120,3 +148,4 @@ O schenk uns, Soma, flammender, den Schatz, der unentreissbar ist Und unerreichb
 
 -ru-
 </details>
+

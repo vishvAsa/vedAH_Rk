@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+niyúdbhiḥ ← niyút- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+pr̥ṇa ← √pr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+aśvíbhiḥ ← aśvín- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jebhiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dhr̥ṣát ← √dhr̥ṣ- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+gómadbhiḥ ← gómant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gopate ← gópati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Erfülle reichlich unsern Wunsch durch Wagenzüg' und Labungen An Ross und Rinde
 Желание, с помощью наград из коней,  
 Коров, о господин коров, – от всего сердца!
 </details>
+

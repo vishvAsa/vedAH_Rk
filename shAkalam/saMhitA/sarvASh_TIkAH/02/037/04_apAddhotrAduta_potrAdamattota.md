@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amatta ← √mad- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+ápāt ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+hotrā́t ← hotrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+potrā́t ← potrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ajuṣata ← √juṣ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+hitám ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+neṣṭrā́t ← neṣṭrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+práyaḥ ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ámartyam ← ámartya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ámr̥ktam ← ámr̥kta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pā́tram ← pā́tra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+turī́yam ← turī́ya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+draviṇodā́ḥ ← draviṇodā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+drāviṇodasáḥ ← drāviṇodasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pibatu ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ Aus Priesters Napf und Läuterers, berauscht' er sich, aus Führers Napf genoss 
 Четвертый кубок, неприкосновенный, бессмертный,  
 Пусть выпьет Дравинодас (как кубок?) Дравинодаса!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jūtím ← jūtí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+makhásya ← makhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+taviṣásya ← taviṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+amŕ̥tāya ← amŕ̥ta- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+bhū́ṣan ← √bhūṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+íyarmi ← √r̥- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kṣitīnā́m ← kṣití- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+mā́nuṣīṇām ← mā́nuṣa- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+daívīnām ← daívī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+pūrvayā́vā ← pūrvayā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Dir starkem Kämpfer reg' ich an den Eifer, bereitend dem Unsterblichen das Lobl
 О Индра, ты тот, кто идет впереди  
 Людских поселений, а также божественных племен.
 </details>
+

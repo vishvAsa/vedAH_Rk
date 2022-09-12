@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pravátaḥ ← pravát- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sánitā ← sánitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+haryaśva ← háryaśva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víveṣaḥ ← √viṣ- 2 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vavanmá ← √vanⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+yújyābhiḥ ← yújya- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+daśasyeḥ ← √daśasy- (root)  
+{number:SG, person:2, mood:OPT, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +220,4 @@ Du Füchselenker, schenkest raschen Fortgang dem Frommen, wenn du seinen Bitten 
 Мы уже (немало) получили благодаря твоим поддержкам (,нам) предназначенным.  
 Когда же, о Индра, ты пожалуешь нам из (твоего) богатства?
 </details>
+

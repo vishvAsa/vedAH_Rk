@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prātár ← prātár (invariable)  
+{}
+
+purupriyáḥ ← purupriyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átithiḥ ← átithi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+staveta ← √stu- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+viśáḥ ← víś- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+márteṣu ← márta- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ráṇyati ← √ranⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +175,4 @@ Gerühmt sei Agni früh am Tag, des Hauses vielgeliebter Gast, Der alle Opfergü
 Бессмертный, который радуется  
 Всем жертвам у смертных.
 </details>
+

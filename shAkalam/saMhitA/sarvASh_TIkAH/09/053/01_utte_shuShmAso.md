@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+śúṣmāsaḥ ← śúṣma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+út ← út (invariable)  
+{}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhindántaḥ ← √bhid- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+rákṣaḥ ← rákṣas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+nudásva ← √nud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+parispŕ̥dhaḥ ← parispŕ̥dh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +164,4 @@ Erhoben hat sich deine Kraft, Gespenster spaltend, Schleuderer; Die uns bekämpf
 
 -ru-
 </details>
+

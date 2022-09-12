@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+cakṣate ← √cakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+somínaḥ ← somín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+paśúm ← paśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puṣṭā́vantaḥ ← puṣṭā́vant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +151,4 @@ Auf dich, o Indra, blicken hier die Freunde, Soma bringend, aus, Wie auf das Vie
 О Индра, выискивают тебя,  
 Как владельцы – (свой) скот.
 </details>
+

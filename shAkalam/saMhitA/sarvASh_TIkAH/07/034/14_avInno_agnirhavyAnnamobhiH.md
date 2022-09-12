@@ -14,12 +14,40 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávīt ← √avⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+havyā́t ← havyā́d- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+adhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+préṣṭhaḥ ← préṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG, mood:OPT}
+
+stómaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +141,4 @@ Es helf uns Agni – die Opfer essend, ihm ward geweihet – das liebste Loblied
 Да поможет нам Агни-пожиратель жертв за (наши) поклонения!  
 Самое приятное восхваление сложено для него.
 </details>
+

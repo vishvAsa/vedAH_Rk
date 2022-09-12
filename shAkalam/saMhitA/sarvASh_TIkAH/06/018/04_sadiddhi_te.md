@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+mánye ← √man- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+sát ← √as- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tuvijātásya ← tuvijātá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sahiṣṭha ← sahiṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+turásya ← turá- 1 (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+turatáḥ ← √tūr(v)- ~ tur- (root)  
+{case:GEN, gender:M, number:SG, tense:AOR, voice:ACT}
+
+tavásaḥ ← tavás- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+távīyaḥ ← távīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ugrásya ← ugrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áradhrasya ← áradhra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+babhūva ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+radhratúraḥ ← radhratúr- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Dein ist's, so mein' ich, dein des vielgebornen, dir regem, raschem war, o stär
 Грозная (власть) всегда была у грозного, сильнее сильной,  
 У неслабого, у спасающего слабого.
 </details>
+

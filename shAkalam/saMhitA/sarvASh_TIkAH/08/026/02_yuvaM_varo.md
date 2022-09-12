@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+suṣā́mṇe ← suṣā́man- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+varo ← varu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+táne ← tán- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ávobhiḥ ← ávas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vr̥ṣaṇvasū ← vŕ̥ṣaṇvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yāthaḥ ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ Zu dem Varo-Suschaman kommt, mit Hülfen, o Wahrhaftige, Zu langer Dauer, helden
 Для (него,) великого, (и) для (его) потомства, о Насатьи,  
 Приезжайте с поддержками, о два быка, о обладатели мощного богатства!
 </details>
+

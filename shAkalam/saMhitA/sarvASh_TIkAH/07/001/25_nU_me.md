@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+śaśādhi ← √śās- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghávadbhyaḥ ← maghávan- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+suṣūdaḥ ← √sūd- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+rātaú ← rātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ubháyāsaḥ ← ubháya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Führ aufwärts, Agni, diese meine Bitten, mach du, o Gott, sie wirksam für die
 Да будем мы в милости у тебя, те и другие!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
+

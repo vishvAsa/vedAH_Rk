@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ádāśuriḥ ← ádāśuri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+revā́n ← revánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+magháttaye ← maghátti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+pramamárṣa ← √mr̥ṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:N, number:SG}
+
+védaḥ ← védas- 1 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +155,4 @@ Des Reichen, welcher dir nicht dient, der Gaben mitzutheilen säumt, Dess Reicht
 Забыл одарить тебя,  
 Принеси нам его имущество!
 </details>
+

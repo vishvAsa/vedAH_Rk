@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+rāradhúḥ ← √randh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+śáśvantaḥ ← śáśvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śátravaḥ ← śátru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+bhedásya ← bhedá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+rándhim ← rándhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śárdhataḥ ← √śardh- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vinda ← √vid- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+énaḥ ← énas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇóti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mártān ← márta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+stuvatáḥ ← √stu- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jahi ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+tásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+tigmám ← tigmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,3 +253,4 @@ Denn dir erlagen alle Feindesscharen; bezwinge jeden trotzenden Vertilger; Wer a
 Кто причиняет зло смертным, прославляющим (богов),  
 Пригвозди его острой ваджрой, о Индра!
 </details>
+

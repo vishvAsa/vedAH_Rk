@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+akṣan ← √ghas- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+práyutāḥ ← √yu- 2 (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+yávam ← yáva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+cárantīḥ ← √carⁱ- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+sahágopāḥ ← sahágopa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+abhítas ← abhítas (invariable)  
+{}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+hávāḥ ← háva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+āsu ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+chandayāte ← √chand- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+kíyat ← kíyant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svápatiḥ ← svápati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Des frommen umherschweifende Kühe haben die Gerste verzehrt; ich sah sie, von H
 
 -ru-
 </details>
+

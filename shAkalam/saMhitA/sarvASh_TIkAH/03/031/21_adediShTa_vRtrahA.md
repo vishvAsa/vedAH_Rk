@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádediṣṭa ← √diś- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+gópatiḥ ← gópati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+aruṣaíḥ ← aruṣá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+dhā́mabhiḥ ← dhā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+gāt ← √gā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+kr̥ṣṇā́n ← kr̥ṣṇá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+diśámānaḥ ← √diś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sūnŕ̥tāḥ ← sūnŕ̥ta- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+avr̥ṇot ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svā́ḥ ← svá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +237,4 @@ Der Vritratödter, der Herr der Kühe, wies Kühe als Ge- schenk an; mitten durc
 Указуя прекрасные дары согласно закону,  
 Он открыл все свои врата.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gaṇéna ← gaṇá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ŕ̥kvatā ← ŕ̥kvant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+suṣṭúbhā ← suṣṭúbh- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+phaligám ← phaligá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ráveṇa ← ráva- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ruroja ← √ruj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+valám ← valá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havyasū́daḥ ← havyasū́d- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+usríyāḥ ← usríya- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ājat ← √aj- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+kánikradat ← √krand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+vā́vaśatīḥ ← √vāś- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

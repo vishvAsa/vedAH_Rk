@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ādityā́saḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mādayantām ← √mad- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rájiṣṭhāḥ ← rájiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+adyá ← adyá (invariable)  
+{}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+píbantu ← √pā- 2 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +192,4 @@ Berauscht euch mit der Aditi, Aditja's, Arjaman, Mitra, Varuna, ihr höchsten; E
 Пусть хранители вселенной принадлежат нам!  
 Пусть пьют они сому, чтобы помочь нам сегодня!
 </details>
+

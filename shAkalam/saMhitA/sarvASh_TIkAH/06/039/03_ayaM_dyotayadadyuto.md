@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyútaḥ ← adyút- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+aktū́n ← aktú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dyotayat ← √dyut- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+doṣā́ ← doṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vástoḥ ← vástu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+adadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+śúcijanmanaḥ ← śúcijanman- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +214,7 @@ The identity of ayám as soma is fixed by índuḥ ‘drop’ towards the end of
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/039/02-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/039/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
 As noted in the published introduction. (and see comm. ad VI.38.2-4 above), the three middle verses are marked by repeated use of the near deictic in pāda-initial position, beginning every hemistich but 2cd and coming to a crescendo in vs. 4 with three iterations: ayám 2a, ayám 3a, imám 3c, ayám 4a, b, c. The unidentified referent of all these deictic forms is soma — see Oldenberg’s disc. — but soma at least partially identified with Indra, as the opener of the Vala cave. The repeated use of the deitic, pointing to something in the immediate vicinity of the speaker, focuses on soma as the ritual substance on the sacrificial ground.
@@ -192,3 +250,4 @@ Die dunkeln Nächte machte dieser Indu, o Indra, hell, die Herbste, Abends, Morg
 Его установили навсегда как признак дней.  
 Он создал чисторожденные утренние зори.
 </details>
+

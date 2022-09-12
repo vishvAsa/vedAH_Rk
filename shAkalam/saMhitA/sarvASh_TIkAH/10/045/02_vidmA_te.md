@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+trayā́ṇi ← trayá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tredhā́ ← tredhā́ (invariable)  
+{}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víbhr̥tā ← √bhr̥- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+gúhā ← gúhā (invariable)  
+{}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+paramám ← paramá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ājagántha ← √gam- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+útsam ← útsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+yátas ← yátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +200,6 @@ genre M
 हे **अग्ने** **ते** तव **त्रेधा** त्रिषु स्थानेषु पृथिव्यन्तरिक्षद्युलोकेषु स्थितानि **त्रयाणि** अग्निवाय्वादित्याख्यानि त्रीणि रूपाणि **विद्म** वयं जानीमः। किंच हे अग्ने **ते** तव **धाम** धामानि स्थानानि **विभृता** विभृतानि **पुरुत्रा** बहुधा बहूनि वा गार्हपत्याहवनीयान्वाहार्यपचनादीनि **विद्म** । किंच **ते** तव **गुहा** गूढम् अवेदविद्भिरविज्ञातं **परमम्** उत्कृष्टं वेदे प्रसिद्धं **यत्** **नाम** अस्ति तत् **विद्म** वेदविदो वयं विजानीमः । किंच त्वं **यतः** यस्मात् **आजगन्थ** आगतवानसि । उत्पन्नवानित्यर्थः । **तम्** **उत्सम्** उत्स्यन्दयितारमुत्पादयितारं कारणात्मानं **विद्म** जानीमः ॥
 </details>
 
-
 <details><summary>हरदत्तः</summary>
 
 विद्मा त इति ॥ हे अग्ने । ते तव स्वभूताति? त्रेधा त्रिषु स्थानेषु पृथिव्यामन्तरिक्षे दिवि च स्थितानि त्रयाणि त्रीणि रूपाणि अग्निवाय्वादित्याख्यानि विद्म जानीमः तथा ते सद्म सद्मानि स्थानानि विभृतं विभृतानि । हृग्रहोर्भः इति छन्दसि भः विहृतानि पुरुत्रा बहुनि वा गार्हपत्याहवनीयादीनि विद्म । तथा ते नाम परमं गुहा गूढं अविज्ञातं अवेदविद्भिः यदेवम्भूतं तव नाम तदपि वयं विद्म । तथा यतः त्वं आजगन्थ आगतवानसि तमप्युत्सं विद्म । उत्सः प्रस्रवणं स चापामुत्पत्तिस्थानमिति तेनो त्पत्तिस्थानमात्रं लक्ष्यते ॥
@@ -182,3 +245,4 @@ Wir kennen Agni dreifach deine Dreiheit, wir kennen deine vielvertheilten Stätt
 Мы знаем твое высшее имя, которое в тайне.  
 Мы знаем тот источник, откуда ты пришел.
 </details>
+

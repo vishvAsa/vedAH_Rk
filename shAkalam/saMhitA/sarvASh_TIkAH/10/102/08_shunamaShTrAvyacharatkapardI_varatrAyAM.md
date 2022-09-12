@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+acarat ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+aṣṭrāvī́ ← aṣṭrāvín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kapardī́ ← kapardín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śunám ← śuná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ānáhyamānaḥ ← √nah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dā́ru ← dā́ru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+varatrā́yām ← varatrā́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+baháve ← bahú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kr̥ṇván ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+nr̥mṇā́ni ← nr̥mṇá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+adhatta ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+paspaśānáḥ ← √spaś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+táviṣīḥ ← táviṣī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +192,4 @@ Dem Stachel folgend schritt zum Heil der zott'ge, im Riemenwerk gebunden an das 
 
 -ru-
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+carāmi ← √carⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+rudrébhiḥ ← rudrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vásubhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ādityaíḥ ← ādityá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+viśvádevaiḥ ← viśvádeva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+bibharmi ← √bhr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+mitrā́váruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+indrāgnī́ ← indrāgní- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ Ich wandre mit den Rudra's mit den Vasu's mit den Aditja's und mit allen Götter
 Я несу обоих; Митру и Варуну,  
 Я – Индру и Агни, я – обоих Ашвинов.
 </details>
+

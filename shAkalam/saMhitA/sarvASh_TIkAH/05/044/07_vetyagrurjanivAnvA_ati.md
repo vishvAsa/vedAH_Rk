@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágruḥ ← ágru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+jánivān ← jánivant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vaí ← vaí (invariable)  
+{}
+
+véti ← √vī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+samaryatā́ ← √samary- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gáyam ← gáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ghraṁsám ← ghraṁsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+rákṣantam ← √rakṣⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+svā́vasuḥ ← svā́vasu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vanavat ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Der weise Sonnengott geht unvermählt oder vermählt mit kampflustigem Muthe dur
 Пусть дарует он нам жилье, со всех сторон защищающее  
 От (его) зноя, убежище (для нас), он, кому принадлежат все блага.
 </details>
+

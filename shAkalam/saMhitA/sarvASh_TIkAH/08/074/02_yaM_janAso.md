@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+havíṣmantaḥ ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jánāsaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sarpírāsutim ← sarpírāsuti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+praśáṁsanti ← √śaṁs- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+práśastibhiḥ ← práśasti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +137,4 @@ Ihn, den die Menschen opferreich, den Butterschlürfer, gleich dem Freund Mit Pr
 
 -ru-
 </details>
+

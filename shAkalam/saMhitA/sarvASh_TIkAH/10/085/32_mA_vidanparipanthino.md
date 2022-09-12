@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+mā́ ← mā́ (invariable)  
+{}
+
+paripanthínaḥ ← paripanthín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vidan ← √vid- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+āsī́danti ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dámpatī ← dámpati- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yé ← yá- (pronoun)  
+{}
+
+áti ← áti (invariable)  
+{}
+
+durgám ← durgá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+itām ← √i- 1 (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sugébhiḥ ← sugá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+árātayaḥ ← árāti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+drāntu ← √drā- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +170,4 @@ Nicht mögen Wegelagerer, welche im Hinterhalte liegen, das Ehepaar erreichen, a
 Пусть эти двое счастливыми путями обьедут опасный путь!  
 Пусть сгинет прочь (вся) нечисть!
 </details>
+

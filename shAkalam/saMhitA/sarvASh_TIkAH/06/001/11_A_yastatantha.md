@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhāsā́ ← bhā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tatántha ← √tan- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+śravasyàḥ ← śravasyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śrávobhiḥ ← śrávas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+tárutraḥ ← tárutra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+br̥hádbhiḥ ← br̥hánt- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sthávirebhiḥ ← sthávira- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vā́jaiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhāhi ← √bhā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+revádbhiḥ ← revánt- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+vitarám ← vitarám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +213,4 @@ Der Erd' und Himmel überstrahlt mit Lichtschein, mit Herrlichkeit, der herrlich
 Свети нам, о Агни, далеко своими высокими  
 Наградами, прочными, богатыми!
 </details>
+

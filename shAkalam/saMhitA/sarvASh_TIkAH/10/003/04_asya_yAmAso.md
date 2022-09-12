@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vagnū́n ← vagnú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yā́māsaḥ ← yā́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índhānāḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+sákhyuḥ ← sákhi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śivásya ← śivá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ī́ḍyasya ← ī́ḍya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+svā́saḥ ← svā́s- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aktávaḥ ← aktú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhā́māsaḥ ← bhā́ma- 1 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cikitre ← √cit- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Die Flammenbahnen laut Getön entflammend des Agni, ihres freundlichen Genossen,
 Быка, достойного призывов, могучего, с прекрасной пастью –  
 (Его) лучи проявляются в походе, как вспышка света.
 </details>
+

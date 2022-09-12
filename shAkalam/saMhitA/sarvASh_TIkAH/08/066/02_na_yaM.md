@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dudhrā́ḥ ← dudhrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+múraḥ ← múr- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sthirā́ḥ ← sthirá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+várante ← √vr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+suśiprám ← suśiprá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ādŕ̥tya ← √dr̥- ~ dr̥̄- (root)  
+{non-finite:CVB}
+
+śaśamānā́ya ← √śamⁱ- (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:MED}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dā́tā ← dā́tar- 1 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jaritré ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ukthyàm ← ukthyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Er, den nicht aufhält wilder starker Feinde Schar, den schlürfenden beim Somar
 (Того,) кто заботливо дает трудящемуся (на обряде),  
 Выжимающему (сому) певцу достойную хвалы (награду):
 </details>
+

@@ -17,15 +17,79 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avr̥káḥ ← avr̥ká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhūḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vr̥dháḥ ← vr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ántarasya ← ántara- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+párasya ← pára- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+táruṣaḥ ← táruṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mártyeṣu ← mártya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+chardíḥ ← chardís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sapráthaḥ ← sapráthas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vītáhavyāya ← vītáhavya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yacha ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bharádvājāya ← bharádvāja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sapráthaḥ ← sapráthas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +240,4 @@ Sei du des Tücht'gen treugesinnter Förderer, des nahen und des fernen Feinds B
 (А также) защиту, распространяющуюся на Витахавью,  
 Распространяющуюся на Бхарадваджу!
 </details>
+

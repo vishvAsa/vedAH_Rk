@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gāyata ← √gā(y)- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pávamānāya ← √pū- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+vipaścíte ← vipaścít- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ándhaḥ ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+arṣati ← √arṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+dhā́rā ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+áhiḥ ← áhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+jūrṇā́m ← √jr̥̄- ~ jūr- (root)  
+{case:ACC, gender:F, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+sarpati ← √sr̥p- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tvácam ← tvác- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asarat ← √sr̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+krī́ḷan ← √krīḍ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +212,7 @@ The simile in d, átyo ná krīḷan, is also found in 26d.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/43-45.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/43-45.md">
 <details open><summary><h2>43-45 ...{Loading}...</h2></summary>
 
 This tṛca seems more artful than most of the other, with metaphor layered upon metaphor (vss. 43, 45), varied by similes (vs. 44).
@@ -177,3 +241,4 @@ Dem rieselnden, begeisterten singt Lobgesang, dem grossen Strome gleichend rinnt
 
 -ru-
 </details>
+

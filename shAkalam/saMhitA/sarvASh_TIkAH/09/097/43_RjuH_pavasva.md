@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hantā́ ← hantár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+r̥júḥ ← r̥jú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥jinásya ← vr̥jiná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ámīvām ← ámīvā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+bā́dhamānaḥ ← √bādhⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ca ← ca (invariable)  
+{}
+
+mŕ̥dhaḥ ← mŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+abhiśrīṇán ← √śrī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+gónām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +197,7 @@ I do not understand the doubling of abhí in pāda c, esp. since abhí seems to 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/43-45.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/43-45.md">
 <details open><summary><h2>43-45 ...{Loading}...</h2></summary>
 
 The tṛca has a superficial unity from the (over-)abundance of forms of √pū, esp. in the middle vs.: pavasva 43a, 44a, 44b, 44d; pávamānaḥ 44c; punānáḥ 45c (the only form of √pū in this vs., and belonging to a different stem). Otherwise there is little to hold it together. The supposed transition between the poets Parāsara Śaktya and Kutsa Āṅgirasa happens after vs. 44, but as noted in the published introduction, this change of poets seems unlikely.
@@ -171,3 +229,4 @@ Gerechter riesle, Ungerechte tödtend, den Plagegeist verjagend und die Schmähe
 Украшая (свое) молоко молоком коров!  
 Ты – (друг) Индры, мы – твои друзья.
 </details>
+

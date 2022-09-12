@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cikiddhí ← √cit- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sahasya ← sahasyà- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dampate ← dámpati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suśipra ← suśiprá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+átrayaḥ ← átri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+stómaiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vardhanti ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+átrayaḥ ← átri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śumbhanti ← √śubh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ O Agni achte auf dies Lied des Sängers, o gewaltiger; Denn Hausherr dich, schö
 Люди из рода Атри укрепляют восхвалениями,  
 Люди из рода Атри украшают песнями.
 </details>
+

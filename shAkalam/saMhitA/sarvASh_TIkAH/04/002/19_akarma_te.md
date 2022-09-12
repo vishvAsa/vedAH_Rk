@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhūma ← √bhū- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ákarma ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+svápasaḥ ← svápas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+avasran ← √vas- 2 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vibhātī́ḥ ← √bhā- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánūnam ← ánūna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purudhā́ ← purudhā́ (invariable)  
+{}
+
+suścandrám ← suścandrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cā́ru ← cā́ru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mármr̥jataḥ ← √mr̥j- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +221,4 @@ Wir dienten dir und waren eifrig thätig, rechtzeitig strahlten hell die Morgenr
 Всячески украшая Агни, лишенного изъянов,  
 Прекрасно сверкающего, милое око бога.
 </details>
+

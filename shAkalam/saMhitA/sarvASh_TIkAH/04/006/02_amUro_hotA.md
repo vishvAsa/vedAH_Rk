@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámūraḥ ← ámūra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asādi ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mandráḥ ← mandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prácetāḥ ← prácetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+aśret ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhānúm ← bhānú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūrdhvám ← ūrdhvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhūmám ← dhūmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+métā ← métar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stabhāyat ← √stambhⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ In Häuser ward gesetzt der treue Priester, der muntre, weise Agni bei den Feste
 Он направил прямо свой луч, словно Савитар.  
 Как строитель (-опорный столб), он упер дым в небо.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tritásya ← tritá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yóṣaṇaḥ ← yóṣan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hárim ← hári- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hinvanti ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +142,4 @@ Des Trita Jungfraun senden ihn, das goldne Ross, durch das Gestein, Zum Trunk, d
 
 -ru-
 </details>
+

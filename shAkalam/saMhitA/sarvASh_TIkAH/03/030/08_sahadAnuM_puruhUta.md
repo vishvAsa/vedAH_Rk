@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kṣiyántam ← √kṣi- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sahádānum ← sahádānu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ahastám ← ahastá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kúṇārum ← kúṇāru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+piṇak ← √piṣ- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+píyārum ← píyāru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+várdhamānam ← √vr̥dh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:MED}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apā́dam ← apád- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jaghantha ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+tavásā ← tavás- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +221,4 @@ Der da lag sammt dem Dämon, vielgerufner, den trafst du, Indra, handlos ward er
 Вритру разрастающегося, злобного,  
 Безногого ты убил мощной (дубиной), о Индра.
 </details>
+

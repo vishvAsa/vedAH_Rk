@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+aṁhatím ← aṁhatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+parṣat ← √pr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ādityā́saḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vidúḥ ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +145,4 @@ Uns führe Mitra-Varuna und Arjaman durch Ungemach, Wie die Aditja's es verstehn
 Да переправят нас через беду,  
 Как (это) умеют Адитьи!
 </details>
+

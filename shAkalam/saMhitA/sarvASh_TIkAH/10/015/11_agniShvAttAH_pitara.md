@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ágniṣvāttāḥ ← agniṣvātta- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+gachata ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+pitaraḥ ← pitár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sádaḥ-sadaḥ ← sádas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sadata ← √sad- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+supraṇītayaḥ ← supráṇīti- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+attá ← √ad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+havī́ṁṣi ← havís- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+práyatāni ← √yam- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+átha ← átha (invariable)  
+{}
+
+dadhātana ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sárvavīram ← sárvavīra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Ihr einst verzehrt vom Feuer naht, o Väter, euch, die schön ihr leitet, setzet
 Ешьте жертвенные возлияния, поданные на жертвенной соломе,  
 А также дайте богатство из здоровых мужей!
 </details>
+

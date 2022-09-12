@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áṁseṣu ← áṁsa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+khādáyaḥ ← khādí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+patsú ← pád- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+r̥ṣṭáyaḥ ← r̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rukmā́ḥ ← rukmá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúbhaḥ ← śúbh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vákṣassu ← vákṣas- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+agníbhrājasaḥ ← agníbhrājas- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gábhastyoḥ ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+vidyútaḥ ← vidyút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hiraṇyáyīḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śíprāḥ ← śíprā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śīrṣásu ← śíras- ~ śīrṣán- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vítatāḥ ← √tan- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Auf euren Schultern Lanzen, Spangen an dem Fuss, Geschmeid' am Busen, Maruts, un
 Сверкающим огнем молнии (у вас) в руках,  
 Позолоченные шлемы надеты на головы.
 </details>
+

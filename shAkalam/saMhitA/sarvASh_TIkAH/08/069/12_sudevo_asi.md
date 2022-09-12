@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sudeváḥ ← sudevá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+anukṣáranti ← √kṣar- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kākúdam ← kākúd- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sūrmyàm ← sūrmī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+suṣirā́m ← suṣirá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +172,4 @@ Ein rechter Gott bist du, o Varuna, in dessen Schlund die sieben Ströme hineinr
 
 -ru-
 </details>
+

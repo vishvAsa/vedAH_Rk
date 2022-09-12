@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+átra ← átra (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+nemíḥ ← nemí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+dhūnute ← √dhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+úrām ← úrā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vŕ̥kaḥ ← vŕ̥ka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amúṣya ← asaú (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śā́sataḥ ← √śās- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dívam ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+divāvaso ← divāvasu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yayá ← √yā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +183,4 @@ Der Steine Umfang schüttelt dort den Soma, wie der Wolf das Lamm; Von jenes Her
 Повелевая тем небом,  
 Вы отправились на небо, о Дивавасу.
 </details>
+

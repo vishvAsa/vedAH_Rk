@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dvibárhasaḥ ← dvibárhas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dādhā́ra ← √dhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ájrān ← ájra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+girī́n ← girí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vr̥ṣatvanā́ ← vr̥ṣatvaná- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Den zwiefach starken, dessen Macht gewaltig Erd' und Himmel hält, Gebirge, Flur
 Сила поддерживает две половины вселенной,  
 Горы, равнины, воды, небо – благодаря бычьей мощи!
 </details>
+

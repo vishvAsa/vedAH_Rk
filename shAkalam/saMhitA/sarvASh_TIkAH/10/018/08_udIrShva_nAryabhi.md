@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+īrṣva ← √r̥- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+jīvalokám ← jīvaloká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nāri ← nā́rī- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+út ← út (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+gatā́sum ← gatā́su- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śeṣe ← √śī- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+didhiṣóḥ ← didhiṣú- (nominal stem)  
+{case:GEN, gender:M, number:SG, mood:DES}
+
+hastagrābhásya ← hastagrābhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+babhūtha ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+janitvám ← janitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pátyuḥ ← páti- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +240,4 @@ Erhebe dich, o Weib, zur Welt des Lebens; du liegst vor dem, dess Hauch entflohn
 Ты вступила в этот брак с мужем,  
 Взявшим (тебя) за руку (и) жаждущим тебя.
 </details>
+

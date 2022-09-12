@@ -16,14 +16,63 @@ ChandaH = "विराड्रूपा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+adhrigo ← ádhrigu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śacīvaḥ ← śácīvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ścotanti ← √ścut- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ghr̥tásya ← ghr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+médasaḥ ← médas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+stokā́saḥ ← stoká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agāḥ ← √gā- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+bhānúnā ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+br̥hatā́ ← br̥hánt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+kaviśastáḥ ← kaviśastá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+medhira ← médhira- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ O Agni, dir, der mächtig und unhemmbar, dir rinnen zu der fetten Butter Tropfen
 Прославленный поэтами, ты пришел с (твоим) высоким лучом.  
 Наслаждайся возлияниями, о мудрый!
 </details>
+

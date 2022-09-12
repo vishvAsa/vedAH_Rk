@@ -16,14 +16,90 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átithim ← átithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+uṣarbúdham ← uṣarbúdh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥ñjase ← √r̥j- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+víśvāsām ← víśva- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+janúṣā ← janúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+véti ← √vī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ácyutam ← ácyuta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+atti ← √ad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+gárbhaḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jyók ← jyók (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,3 +274,4 @@ Mit meinem Liede streb' ich diesem euren Gast, der Morgens wacht, dem Herren all
 Направляется он с неба, всегда чистый с самого рождения.  
 Еще зародышем, он уже съедает (то,) что непоколебимо.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+āśúbhiḥ ← āśú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+váhante ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yé ← yá- (pronoun)  
+{}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+madirám ← madirá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+píbantaḥ ← √pā- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+śrávāṁsi ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Die fahren mit der Rosse Schar, den Meth einschlürfend, der berauscht, ] empfin
 Выпивая пьянящий мед,  
 Приобрели при этом славу.
 </details>
+

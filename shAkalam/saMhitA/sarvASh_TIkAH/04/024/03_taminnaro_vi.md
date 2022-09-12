@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hvayante ← √hvā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+samīké ← samīká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+kr̥ṇvata ← √kr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+ririkvā́ṁsaḥ ← √ric- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+trā́m ← trā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ágman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+mithás ← mithás (invariable)  
+{}
+
+tyāgám ← tyāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ubháyāsaḥ ← ubháya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sātaú ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+tánayasya ← tánaya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tokásya ← toká- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Ihn rufen an die Männer in dem Kampfe; sie machten Leben wagend ihn zum Schütz
 
 -ru-
 </details>
+

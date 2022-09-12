@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dhūnuthá ← √dhū- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+párvatān ← párvata- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+bhiyā́ ← bhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+jihate ← √hā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vánā ← vána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yā́manaḥ ← yā́man- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+kopáyatha ← √kup- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pr̥śnimātaraḥ ← pŕ̥śnimātar- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áyugdhvam ← √yuj- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:MED}
+
+pŕ̥ṣatīḥ ← pŕ̥ṣant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śubhé ← śúbh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ugrāḥ ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Von Berg und Himmel schüttelt ihr dem Frommen Gut; aus Furcht vor eurem Gange b
 Вы приводите в смятение землю, о сыновья Пришни,  
 Когда, о грозные, вы запрягли для блеска пестрых (антилоп).
 </details>
+

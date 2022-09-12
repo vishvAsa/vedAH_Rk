@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+śocíṣe ← śocís- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+súsamiddhāya ← súsamiddha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+juhotana ← √hu- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tīvrám ← tīvrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jātávedase ← jātávedas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +140,4 @@ Dem Licht, dem hellentzündeten, dem Wesenkenner Agni giesst Die kräft'ge Opfer
 Возливайте резко действующий жир –  
 Агни – Джаведасу.
 </details>
+

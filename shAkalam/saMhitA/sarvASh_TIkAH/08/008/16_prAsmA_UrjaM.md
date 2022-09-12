@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ghr̥taścútam ← ghr̥taścút- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yáchatam ← √yam- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+sumnā́ya ← sumná- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tuṣṭávat ← √stu- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dānunaḥ ← dā́nu- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+patī ← páti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vasūyā́t ← √vasūy- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

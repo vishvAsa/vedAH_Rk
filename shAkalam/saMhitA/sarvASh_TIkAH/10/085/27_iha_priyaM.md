@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ihá ← ihá (invariable)  
+{}
+
+prajáyā ← prajā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥dhyatām ← √r̥dh- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+gā́rhapatyāya ← gā́rhapatya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+gr̥hé ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jāgr̥hi ← √gr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+pátyā ← páti- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sr̥jasva ← √sr̥j- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+jívrī ← jívri- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vadāthaḥ ← √vadⁱ- (root)  
+{number:DU, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+vidátham ← vidátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Hier möge dir liebes zu Theil werden durch Kinderschar; sei in diesem Hause fü
 Соединись телом с этим супругом!  
 Пусть и в старости вы двое будете провозглашать жертвенную раздачу!
 </details>
+

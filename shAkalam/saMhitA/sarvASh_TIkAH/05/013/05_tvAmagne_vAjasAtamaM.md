@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vājasā́tamam ← vājasā́tama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+súṣṭutam ← súṣṭuta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vardhanti ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rāsva ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +132,6 @@ genre M
 स त्वं नः अस्मभ्यं सुवीर्यं शोभनवीर्यं धनं वाजलक्षणं **रास्व** देहि । व्यत्ययेनात्मनेपदम्, 'वीरवीर्यौ च' इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -133,7 +163,6 @@ The sages nourish, well lauded;
 Do thou give us wealth of heroes.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Dich, Agni, der am meisten Gewinn einbringt, den Wohlgepriesenen erbauen die Redekundigen. Schenke du uns die Meisterschaft!
@@ -150,3 +179,4 @@ Dich hochgelobten stärkt die Schar der Sänger, dich, der Kraft verleiht, So sc
 Прекрасно восхваленного, подкрепляют вдохновенные.  
 Дай нам богатство из прекрасных героев!
 </details>
+

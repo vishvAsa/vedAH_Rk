@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ānaṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pŕ̥tanāḥ ← pŕ̥tanā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svójāḥ ← svójas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yatante ← √yat- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+tiṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bhadráyā ← bhadrá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+codáyāse ← √cud- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+sumatyā́ ← sumatí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Die Feinde hat besiegt der starke Indra, nach seiner Freundschaft streben viele 
 Поднимись, как в сражениях, на колесницу,  
 Которую ты погонишь с добрым намерением!
 </details>
+

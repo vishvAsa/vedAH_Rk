@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+manīṣíṇaḥ ← manīṣín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥ṣṭimántaḥ ← r̥ṣṭimánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́śīmantaḥ ← vā́śīmant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+íṣumantaḥ ← íṣumant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+niṣaṅgíṇaḥ ← niṣaṅgín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sudhánvānaḥ ← sudhánvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pr̥śnimātaraḥ ← pŕ̥śnimātar- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+stha ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+suráthāḥ ← surátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sváśvāḥ ← sváśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śúbham ← śúbh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+svāyudhā́ḥ ← svāyudhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yāthana ← √yā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +197,4 @@ Streitäxte tragend, Speere, ihr verständigen, und gute Bogen, Pfeile, Köcher,
 О сыновья Пришни, вы обладаете прекрасными конями, прекрасными колесницами.  
 Прекрасно вооруженные, о Маруты, вы выезжаете для блеска.
 </details>
+

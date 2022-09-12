@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhūtám ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+dhenumátī ← dhenumánt- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+hí ← hí (invariable)  
+{}
+
+írāvatī ← írāvant- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+daśasyā́ ← daśasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mánuṣe ← mánus- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sūyavasínī ← sūyavasín- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+astabhnāḥ ← √stambhⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+eté ← eṣá (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ví ← ví (invariable)  
+{}
+
+viṣṇo ← víṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+abhítas ← abhítas (invariable)  
+{}
+
+dādhártha ← √dhr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+mayū́khaiḥ ← mayū́kha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +209,6 @@ These two firmaments Visnu held asunder;
 He holdeth the earth on all sides with pegs.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Ihr beide sollet darum labungsreich, reich an Kühen und guter Weide aus Gefälligkeit für Manu sein", mit diesen Worten stemmtest du diese beiden Welten auseinander, o Vishnu. Du hast allenthalben die Erde mit Pflöcken gefestigt.
@@ -178,3 +226,4 @@ Sie beide sind nun labungsreich und milchreich, voll schöner Wiesen zum Genuss 
 Ты установил порознь эти две половины вселенной, о Вишну.  
 Со всех сторон ты укрепил землю колышками.
 </details>
+

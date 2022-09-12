@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ava ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+evá ← evá (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+gr̥ṇatáḥ ← √gr̥̄- 1 (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+kārū́n ← kārú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dádataḥ ← √dā- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tvácam ← tvác- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā́jasātau ← vā́jasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+cā́roḥ ← cā́ru- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+piprīhí ← √prī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+súṣutasya ← súṣuta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ So hilf uns denn mit deinen Hülfen, Indra, und schütz, o Held, die Dichter, di
 А также обрадуй тех, кто дает при получении награды шкуру  
 Для прекрасно выжатого милого сладкого напитка!
 </details>
+

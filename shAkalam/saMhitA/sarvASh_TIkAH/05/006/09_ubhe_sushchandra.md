@@ -17,15 +17,70 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+sarpíṣaḥ ← sarpís- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+suścandra ← suścandrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+āsáni ← āsán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dárvī ← dárvi- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+śrīṇīṣe ← √śrī- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pupūryāḥ ← √pr̥̄- 2 (root)  
+{number:SG, person:2, mood:OPT, tense:PRF, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śavasaḥ ← śávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ukthéṣu ← ukthá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ In deinem Mund, o glänzender, mach beide Butterlöffel heiss, Und fülle reiche
 За гимны, о господин силы!  
 Принеси восхвалителям жертвенную усладу!
 </details>
+

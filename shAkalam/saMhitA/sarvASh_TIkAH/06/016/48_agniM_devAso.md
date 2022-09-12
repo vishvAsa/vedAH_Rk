@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agriyám ← agriyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+indháte ← √idh- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+vr̥trahántamam ← vr̥trahántama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́bhr̥tā ← √bhr̥- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+rákṣāṁsi ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tr̥ḷhā́ ← √tr̥h- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+vājínā ← vājín- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

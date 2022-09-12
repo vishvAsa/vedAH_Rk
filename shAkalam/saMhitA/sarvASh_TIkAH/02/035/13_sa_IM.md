@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; line affected by realignment  
 genre M  
 genre M  
 genre M
+#### Morph
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+janayat ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tā́su ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhayati ← √dhā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+rihanti ← √rih- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śíśuḥ ← śíśu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ánabhimlātavarṇaḥ ← ánabhimlātavarṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+nápāt ← nápat- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+anyásya ← anyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+viveṣa ← √viṣ- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,8 +215,6 @@ genre M
 Of great fertility, he has generated himself as a germ in those \[waters\]; he is their infant; he sucks the \[waters\]; the \[waters\] moisten him; apAm napAt of the waters of unfading color has entered here in a new body.  
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -198,3 +260,4 @@ Sich zeugte selbst der Stier als Frucht in jenen, er saugt als Spross, es küsse
 Этот Апам Напат неблекнущего цвета  
 Всегда действовал с помощью тела другого.
 </details>
+

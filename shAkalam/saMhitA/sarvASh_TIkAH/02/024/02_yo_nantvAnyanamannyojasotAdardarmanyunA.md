@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánamat ← √nam- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+nántvāni ← nántva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+adardar ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+manyúnā ← manyú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śámbarāṇi ← śámbara- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+acyāvayat ← √cyu- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ácyutā ← ácyuta- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áviśat ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+párvatam ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásumantam ← vásumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +215,4 @@ Der niederbeugte kräftig, was zu beugen ist, in seinem Zorn zerschlug den Sitz 
 (Этот) Брахманаспати сотряс несотрясаемое,  
 И прошел насквозь богатую добром гору.
 </details>
+

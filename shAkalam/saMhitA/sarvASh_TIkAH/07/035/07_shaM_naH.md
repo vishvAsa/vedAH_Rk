@@ -16,14 +16,93 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+bhavatu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+bráhma ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+śám ← śám (invariable)  
+{}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+grā́vāṇaḥ ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+śám ← śám (invariable)  
+{}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+yajñā́ḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+mitáyaḥ ← mití- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+svárūṇām ← sváru- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prasvàḥ ← prasū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+śám ← śám (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+védiḥ ← védi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +269,4 @@ Zum Heile sei uns Soma, sei Gebet uns, zum Heile uns die Steine und die Opfer, Z
 На счастье нам пусть будет водружение (жертвенных) столбов,  
 На счастье нам растения, и на счастье пусть будет алтарь!
 </details>
+

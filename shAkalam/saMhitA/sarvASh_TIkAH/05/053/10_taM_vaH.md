@@ -15,13 +15,50 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ráthānām ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śárdham ← śárdha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+gaṇám ← gaṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+návyasīnām ← návyas- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+tveṣám ← tveṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+vr̥ṣṭáyaḥ ← vr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +180,4 @@ Es folgen eurem Wagenzug, der ungestümen jugendlichen Marutschar, Die Regengüs
 За грозной толпой марутовой из только что (прибывших Марутов)  
 Прорываются потоки дождя.
 </details>
+

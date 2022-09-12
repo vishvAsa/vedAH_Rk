@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+catvā́raḥ ← catúr- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+dravitnávaḥ ← dravitnú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śáviṣṭhasya ← śáviṣṭha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+práyaḥ ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suráthāsaḥ ← surátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+túgryam ← túgrya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vákṣan ← √vah- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Mich sollen vier schnell laufende Rosse des Çavischtha an schönen Wagen geschi
 
 -ru-
 </details>
+

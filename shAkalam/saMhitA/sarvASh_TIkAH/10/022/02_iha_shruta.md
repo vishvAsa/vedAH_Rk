@@ -16,14 +16,66 @@ ChandaH = "पुरस्ताद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śrutáḥ ← √śru- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ŕ̥cīṣamaḥ ← ŕ̥cīṣama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stáve ← √stu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vajrī́ ← vajrín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jáneṣu ← jána- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ásāmi ← ásāmi- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cakré ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yáśaḥ ← yáśas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Hier ist der hehre Indra, und bei uns wird heut gerühmt der Blitzer hell an Gla
 Который как друг среди людей  
 Создал себе безраздельное величие,
 </details>
+

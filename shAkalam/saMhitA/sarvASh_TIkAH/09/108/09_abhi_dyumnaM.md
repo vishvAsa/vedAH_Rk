@@ -15,13 +15,53 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dyumnám ← dyumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáśaḥ ← yáśas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devayúḥ ← devayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+didīhí ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kóśam ← kóśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+madhyamám ← madhyamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yuva ← √yu- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +159,7 @@ It is possible that the impv. didīhí ‘illuminate’ in the first hemistich i
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/09-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
 These two vss. are syntactically independent but linked by the theme of rain.
@@ -150,3 +190,4 @@ O Herr des Trankes, strahle her, die Götter liebend, Gut und grossen Glanz, o G
 О господин жертвенной услады, о бог, преданный богам!  
 Опустоши средний сосуд!
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+huvāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+nārāśaṁséna ← nārāśaṁsá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sómena ← sóma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+mánmabhiḥ ← mánman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+pitr̥̄ṇā́m ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +139,4 @@ Den Geist nun rufen wir herbei durch Loblied, das die Männer ehrt, Und durch de
 С помощью сомы, посвященного Нарашансе,  
 И молитв отцов.
 </details>
+

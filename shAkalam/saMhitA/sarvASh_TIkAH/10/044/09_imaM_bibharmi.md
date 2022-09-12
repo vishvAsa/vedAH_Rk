@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aṅkuśám ← aṅkuśá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bibharmi ← √bhr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+súkr̥tam ← súkr̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ārujā́si ← √ruj- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śaphārújaḥ ← śaphārúj- (nominal stem)  
+{case:ACC, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+okyàm ← okyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sávane ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ā́bhagaḥ ← ā́bhaga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bodhi ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+iṣṭaú ← iṣṭí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +236,4 @@ Ich bringe diesen gutgefügten Haken dir, um abzubrechen, starker, die Zerbreche
 Пусть будет тебе большое удовольствие на этом выжимании!  
 Прими участие в выжатом (соме), в (нашем) желании, о щедрый!
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+hí ← hí (invariable)  
+{}
+
+stháḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+svàrpatī ← svàrpati- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+gópatī ← gópati- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+īśānā́ ← √īś- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
+
+pipyatam ← √pī- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Denn ihr, o Indra, Soma, seid des Himmels und der Heerden Herrn, Als Herrscher s
 О Индра и Сома, повелители коров.  
 Сделайте (наши) мысли набухшими, (вы, которые) могут (это)!
 </details>
+

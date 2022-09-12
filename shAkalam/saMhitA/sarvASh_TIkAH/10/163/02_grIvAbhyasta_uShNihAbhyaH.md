@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+grīvā́bhyaḥ ← grīvā́- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+uṣṇíhābhyaḥ ← uṣṇíhā- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
+anūkyā̀t ← anūkyà- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+kī́kasābhyaḥ ← kī́kasā- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
+áṁsābhyām ← áṁsa- (nominal stem)  
+{case:ABL, gender:M, number:DU}
+
+doṣaṇyàm ← doṣaṇyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yákṣmam ← yákṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bāhúbhyām ← bāhú- (nominal stem)  
+{case:ABL, gender:M, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vr̥hāmi ← √vr̥h- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +161,4 @@ Aus den Halswirbeln, den Nackenwirbeln, aus den Brustrippen, dem Rückgrat, aus 
 Якшму предплечную, из плеч,  
 Из рук я вырываю у тебя!
 </details>
+

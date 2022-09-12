@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+śarmayántyā ← √śarmay- (root)  
+{case:INS, gender:F, number:SG, tense:PRS, voice:ACT}
+
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+rasā́ ← rasā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sára ← √sr̥- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+viṣṭápam ← viṣṭáp- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Von allen Seiten flamm' um uns im Strom, o Soma, der uns schützt, Und ström, w
 Со своим защищающим нас потоком,  
 О сома, как Раса (вокруг) вершины!
 </details>
+

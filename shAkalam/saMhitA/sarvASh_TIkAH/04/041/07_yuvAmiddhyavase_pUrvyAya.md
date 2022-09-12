@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+pūrvyā́ya ← pūrvyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+gavíṣaḥ ← gavíṣ- (nominal stem)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+prábhūtī ← prábhūti- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+svāpī ← svāpí- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+priyā́ya ← priyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vr̥ṇīmáhe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+máṁhiṣṭhā ← máṁhiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pitárā ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śambhū́ ← śambhú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śū́rā ← śū́ra- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Denn euch erwählen wir zu alter Hülfe, zu lieber Freundschaft, starke, nahverw
 О добрые союзники, для дорогой дружбы,  
 О герои, самые щедрые, благодатные, как родители!
 </details>
+

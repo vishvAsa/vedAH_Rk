@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+naptī́bhiḥ ← naptī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vivásvataḥ ← vivásvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+māmr̥jé ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+śubhráḥ ← śubhrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yúvā ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kr̥ṇvānáḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+nirṇíjam ← nirṇíj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +171,4 @@ Der durch Vivasvats Töchter sich gleich einem schönen Jüngling schmückt, Die
 Начищается внучками Вивасвата,  
 Превращая коровье (молоко) в (свой) праздничный наряд.
 </details>
+

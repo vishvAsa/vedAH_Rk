@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+āśásā ← āśás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+saptávadhriḥ ← saptávadhri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aśāyata ← √aśāy- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+dhā́rām ← dhā́rā- 2 (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ánti ← ánti (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhūtu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+sát ← √as- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +165,4 @@ Es machte Saptavadhri scharf des Agni Schneide durch Gebet; Es sei uns eure Hül
 Заморозил лезвие огня.  
 Пусть ваша помощь будет рядом!
 </details>
+

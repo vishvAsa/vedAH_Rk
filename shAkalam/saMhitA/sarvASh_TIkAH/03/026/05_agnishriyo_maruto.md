@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agniśríyaḥ ← agniśrī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+viśvákr̥ṣṭayaḥ ← viśvákr̥ṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+tveṣám ← tveṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+rudríyāḥ ← rudríya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svānínaḥ ← svānín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+varṣánirṇijaḥ ← varṣánirṇij- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+heṣákratavaḥ ← heṣákratu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+siṁhā́ḥ ← siṁhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sudā́navaḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Wie Feuer glänzt die menschenholde Marutschar, wir wünschen ihre schnelle, sta
 Эти гремящие сыновья Рудры, одетые в дождь, –  
 (Те,) что подобны львам, чья сила духа в реве, очень щедрые (боги).
 </details>
+

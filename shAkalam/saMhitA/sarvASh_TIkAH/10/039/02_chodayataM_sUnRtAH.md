@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+codáyatam ← √cud- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pínvatam ← √pinv- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sūnŕ̥tāḥ ← sūnŕ̥ta- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+īrayatam ← √īr- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+púraṁdhīḥ ← púraṁdhi- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+uśmasi ← √vaś- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇutam ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yaśásam ← yaśás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cā́rum ← cā́ru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥tam ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+maghávatsu ← maghávan- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +240,4 @@ Erweckt die Lieder, segnet die Gebete uns, lasst Reichthums Fülle uns erstehn, 
 Славную долю создайте нам, о Ашвины!  
 Сделайте нас, о Ашвины, приятными, как сома, для богатых покровителей!
 </details>
+

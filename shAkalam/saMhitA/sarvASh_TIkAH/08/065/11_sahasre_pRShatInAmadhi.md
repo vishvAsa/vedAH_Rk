@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+pŕ̥ṣatīnām ← pŕ̥ṣant- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sahásre ← sahásra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥thú ← pr̥thú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ścandrám ← ścandrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dade ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+híraṇyam ← híraṇya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śukrám ← śukrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ Auf den tausend gefleckten Stuten liegt grosser, ausgedehnter, glänzender Schat
 Я получил (еще) блестящий, мощный,  
 Широкий, светлый, (слиток) золота.
 </details>
+

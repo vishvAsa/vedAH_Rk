@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prajā́vat ← prajā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+saúbhagam ← saúbhaga- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sāvīḥ ← √sū- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+duṣvápnyam ← duṣvápnya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+suva ← √sū- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +150,4 @@ O schaffe heut, Gott Savitar, uns kinderreichen Segen her; Fort schaffe böses T
 Для нас удачу, заключающуюся в потомстве!  
 Прочь отзови дурной сон!
 </details>
+

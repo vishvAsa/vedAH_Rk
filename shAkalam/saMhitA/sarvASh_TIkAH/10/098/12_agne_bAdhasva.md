@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bā́dhasva ← √bādhⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+durgáhā ← durgáha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mŕ̥dhaḥ ← mŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+ámīvām ← ámīvā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+rákṣāṁsi ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sedha ← √sidh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+asmā́t ← ayám (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+samudrā́t ← samudrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+bhūmā́nam ← bhūmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sr̥ja ← √sr̥j- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +237,4 @@ Zerstreue, Agni, Feinde und Gefahren, die Krankheit tilge, tilge die Gespenster;
 Из этого моря на высоком небе  
 Вылей нам сюда массу воды!
 </details>
+

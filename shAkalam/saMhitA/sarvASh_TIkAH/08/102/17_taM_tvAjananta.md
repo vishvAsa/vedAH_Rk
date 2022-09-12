@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ajananta ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+mātáraḥ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+aṅgiraḥ ← áṅgiras- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kavím ← kaví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ámartyam ← ámartya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havyavā́ham ← havyavā́h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +151,4 @@ So zeugten deine Mütter dich, als weisen, ew'gen Opferer, Die Götter dich, o A
 Поэта – боги, о Ангирас,  
 Отвозящего жертвы, бессмертного.
 </details>
+

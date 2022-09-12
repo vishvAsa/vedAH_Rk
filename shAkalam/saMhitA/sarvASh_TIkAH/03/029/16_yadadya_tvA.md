@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+prayatí ← √i- 1 (root)  
+{case:LOC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yajñé ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ávr̥ṇīmahi ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:IPRF, voice:MED}
+
+cikitvaḥ ← √cit- (root)  
+{case:VOC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+hótar ← hótar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+aśamiṣṭhāḥ ← √śamⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:MED}
+
+ayāḥ ← √yaj- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+dhruvám ← dhruvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhruvám ← dhruvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+prajānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Als wir heute dich im Beginne dieses Opfers, o acht- samer Pi'iester, uns hier e
 Ты основательно приносил жертвы и основательно трудился -  
 Приди на (питье) сомы, зная подобно сведущему путь!
 </details>
+

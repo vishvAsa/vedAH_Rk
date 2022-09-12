@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arujat ← √ruj- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bisakhā́ḥ ← bisakhā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+śúṣmebhiḥ ← śúṣma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+girīṇā́m ← girí- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sā́nu ← sā́nu- ~ snú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+taviṣébhiḥ ← taviṣá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ūrmíbhiḥ ← ūrmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+pārāvataghnī́m ← pārāvataghnī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sárasvatīm ← sárasvant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vivāsema ← √vanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +182,7 @@ Note ávase in c, which echoes avasám in 1c and is in turn echoed by á (vi)vā
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The hymn begins with the near-deictic nom. sg. iyám, establishing the feminine subject immediately and emphatically (“this she here”). Since the just-given tr. is at best graceless and, more to the point, not English, I have opted to focus on the gender rather than the deixis. The next vs. also begins with iyám and the final vs. of the tṛca with the voc. sárasvati.
@@ -165,3 +214,4 @@ Mit ihrer Kraft zerbrach der Berge Gipfel sie dem Wurzelgräber gleich mit ihrer
 Сарасвати, убивающую людей из далеких краев, мы хотим привлечь к себе  
 Прекрасными гимнами, молитвами – для поддержки.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+jīvádhanyāḥ ← jīvádhanya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+revátīḥ ← revánt- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ádhvaryavaḥ ← adhvaryú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sādáyata ← √sad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sakhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhattana ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+somyāsaḥ ← somyá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+enāḥ ← ena- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+náptrā ← nápat- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+saṁvidānā́saḥ ← √vid- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +197,4 @@ Sie sind genaht, die reichen, lebenskräft'gen; Gehülfen, Freunde! lasst sie hi
 Устраивайте на жертвенной соломе, о достойные сомы,  
 Этих единодушных с Апам Напатом.
 </details>
+

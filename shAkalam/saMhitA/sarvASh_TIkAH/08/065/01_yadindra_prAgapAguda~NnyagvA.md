@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ápāk ← ápāñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prā́k ← prā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+údak ← údañc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+hūyáse ← √hū- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nyàk ← nyàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+āśúbhiḥ ← āśú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tū́yam ← tū́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +173,4 @@ Wenn, Indra, dich in Ost und West, in Nord und Süd der Priester ruft, So komme 
 Или юге ты призываешься мужами,  
 Быстро приезжай на (своих) скакунах!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+áśvāvatīḥ ← áśvāvant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gómatīḥ ← gómant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+uṣā́saḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhadrā́ḥ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sádam ← sádam (invariable)  
+{}
+
+uchantu ← √vas- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vīrávatīḥ ← vīrávant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dúhānāḥ ← √duh- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prápītāḥ ← √pī- 1 (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ Stets mögen uns die Morgenröthen leuchten die schönen, reich an Rossen, Rinde
 Доясь жиром, набухшие!  
 Защищайте вы нас всегда своими милостями!
 </details>
+

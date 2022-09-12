@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+aviḍḍhi ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+viśváhā ← viśváhā (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+párīṇasā ← párīṇas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+víśvābhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,3 +138,4 @@ Uns unterstütze überall durch Gaben und durch reichen Schatz Mit allen Hülfen
 О Индра, богатством через край,  
 Нам – всяческими поддержками!
 </details>
+

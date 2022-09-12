@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+astaut ← √stu- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+r̥ṣvaújāḥ ← r̥ṣvaújas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥ṣvébhiḥ ← r̥ṣvá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tatákṣa ← √takṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+krátubhiḥ ← krátu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mātaríśvā ← mātaríśvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+r̥bhúḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +154,4 @@ Ruhmreiches unternahm der hochkräftige mit den hohen [Maruts]; mit Kraft zimmer
 Герой мощно вытесал (дубину),  
 С пониманием, словно искусный Матаришван.
 </details>
+

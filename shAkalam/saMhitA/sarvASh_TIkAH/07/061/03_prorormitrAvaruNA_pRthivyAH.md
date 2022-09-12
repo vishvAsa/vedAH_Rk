@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+uróḥ ← urú- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:ABL, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+r̥ṣvā́t ← r̥ṣvá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sudānū ← sudā́nu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dadhāthe ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+óṣadhīṣu ← óṣadhī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+spáśaḥ ← spáś- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ánimiṣam ← ánimiṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rákṣamāṇā ← √rakṣⁱ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+ŕ̥dhak ← ŕ̥dhak (invariable)  
+{}
+
+yatáḥ ← √yam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Von weiter Erd' und hocherhabnem Himmel schickt ihr, o Mitra-Varuna, ihr reichen
 Вы держите соглядатаев среди растений, среди поселений,  
 (Их,) следующих особо, (вы,) охраняющие, не моргая.
 </details>
+

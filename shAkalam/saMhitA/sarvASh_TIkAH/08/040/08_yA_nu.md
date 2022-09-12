@@ -18,16 +18,80 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+avás ← avás (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+śvetaú ← śvetá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+dyúbhiḥ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+uccárātaḥ ← √carⁱ- (root)  
+{number:DU, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+indrāgnyóḥ ← indrāgní- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+úhānāḥ ← √vah- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ámuñcatām ← √muc- (root)  
+{number:DU, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bandhā́t ← bandhá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sīm ← sīm (invariable)  
+{}
+
+yā́n ← yá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,3 +255,4 @@ Die glänzend von dem Himmelsraum hernieder wandern Tag für Tag, Sie gehn nach 
 Которые они освободили из оков.  
 Пусть лопнут все ничтожные другие!
 </details>
+

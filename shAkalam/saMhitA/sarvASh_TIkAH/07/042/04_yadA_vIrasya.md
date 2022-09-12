@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+revátaḥ ← revánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vīrásya ← vīrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+ācíketat ← √cit- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+átithiḥ ← átithi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syonaśī́ḥ ← syonaśī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+súdhitaḥ ← súdhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+súprītaḥ ← súprīta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+íyatyai ← íyant- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vā́ryam ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+viśé ← víś- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Wenn in dem Haus des schatzbegabten Mannes sich zeigt der Gast, auf weichem Lage
 Очень довольный Агни, хорошо устроившийся в доме,  
 Он дает желанный (дар) для такого племени.
 </details>
+

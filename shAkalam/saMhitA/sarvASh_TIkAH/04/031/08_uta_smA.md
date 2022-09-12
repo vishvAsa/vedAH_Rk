@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+sadyás ← sadyás (invariable)  
+{}
+
+sma ← sma (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+śaśamānā́ya ← √śamⁱ- (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:MED}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+maṁhase ← √maṁh- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +151,4 @@ In eines einz'gen Tages Lauf verleihst du allermeistes Gut Dem eifervollen Opfer
 Кто трудится (во время обряда и) выжимает (сому),  
 Обильным добром.
 </details>
+

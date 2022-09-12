@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śāsā́ ← śā́s- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+aryáḥ ← arí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+uparátāti ← uparátāt- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vanvan ← √vanⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+aryáḥ ← arí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥bhukṣā́ḥ ← r̥bhukṣā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jaḥ ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víbhvān ← víbhvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇavan ← √kr̥- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+mithatyā́ ← mithatí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+nr̥mṇám ← nr̥mṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śátroḥ ← śátru- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +238,4 @@ Denn sie beherrschen durch ihr Walten viele, besiegen alle Feinde, die sich nahe
 Пусть Индра, Вибхван, Рибхукшан, Ваджа  
 В схватке искалечат мужскую силу чужого, врага!
 </details>
+

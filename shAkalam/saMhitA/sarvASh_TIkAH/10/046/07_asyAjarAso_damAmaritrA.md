@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+ajárāsaḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arítrāḥ ← arítra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+damā́m ← dám- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+agnáyaḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arcáddhūmāsaḥ ← arcáddhūma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pāvakā́ḥ ← pāvaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhuraṇyávaḥ ← bhuraṇyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śvātrā́saḥ ← śvātrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śvitīcáyaḥ ← śvitīcí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vanarṣádaḥ ← vanarṣád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vāyávaḥ ← vāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +186,4 @@ Sein sind der Häuser ewig junge Feuer, die treibenden, mit hellem Rauche flamme
 Светлые, возрастающие, трепещущие,  
 Сидящие в древесине, словно ветры, (словно) соки сомы:
 </details>
+

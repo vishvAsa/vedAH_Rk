@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urucákṣāḥ ← urucákṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+cátasraḥ ← catúr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pradíśaḥ ← pradíś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dhruváyaḥ ← dhruví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+párvatāḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+śám ← śám (invariable)  
+{}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +257,4 @@ Zum Heil geh auf die Sonne weithin schauend, zum Heil sei Ost und West und Nord 
 На счастье нам пусть будут крепкие горы!  
 На счастье нам реки, и на счастье пусть будут воды!
 </details>
+

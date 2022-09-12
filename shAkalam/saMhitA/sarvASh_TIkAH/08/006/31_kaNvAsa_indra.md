@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+káṇvāsaḥ ← káṇva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+matím ← matí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+paúṁsyam ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vardhanti ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+śaviṣṭha ← śáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+vŕ̥ṣṇyam ← vŕ̥ṣṇya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +156,4 @@ Die Kanva's alle stärken dir, o Indra, Muth und Manneskraft, Und, stärkster, d
 Твою волю, мужество,  
 А также бычью силу, о самый могучий!
 </details>
+

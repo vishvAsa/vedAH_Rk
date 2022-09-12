@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+íṣaḥ ← íṣ- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+kavím ← kaví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́nuṣīḥ ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+viśpátim ← viśpáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+akr̥ṇvan ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+sīm ← sīm (invariable)  
+{}
+
+svádhitim ← svádhiti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+téjase ← téjas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+nivátaḥ ← nivát- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+udvátaḥ ← udvát- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+véviṣat ← √viṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhúvaneṣu ← bhúvana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+dīdharat ← √dhr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+eṣú ← ayám (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +247,4 @@ Den weisen Herrn der Häuser machten wie ein Beil der Menschen Opfertränke zum 
 Быстро действуя, он движется по высотам и низинам.  
 Он вложил зародыш в эти существа.
 </details>
+

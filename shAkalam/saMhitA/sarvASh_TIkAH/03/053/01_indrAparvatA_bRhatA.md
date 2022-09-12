@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hatā́ ← br̥hánt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+índrāparvatā ← indrāparvata- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+suvī́rāḥ ← suvī́ra- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vahatam ← √vah- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vāmī́ḥ ← vāmá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+adhvaréṣu ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+devā ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+havyā́ni ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vītám ← √vī- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+íḷayā ← íḷā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mádantā ← √mad- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+várdhethām ← √vr̥dh- (root)  
+{number:DU, person:2, mood:IMP, tense:IPRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +198,4 @@ Indra und Parvata, auf grossem Wagen fahrt schöne mit tapfern Männern versehen
 Вкушайте жертвы во время обрядов, о двое богов!  
 Подкрепляйтесь хвалебными песнями, опьяняясь возлиянием!
 </details>
+

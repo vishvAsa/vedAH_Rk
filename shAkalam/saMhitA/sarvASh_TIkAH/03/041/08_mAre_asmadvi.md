@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+āré ← āré (invariable)  
+{}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mumucaḥ ← √muc- (root)  
+{number:SG, person:2, mood:INJ, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+arvā́ṅ ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háripriya ← haripriya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mátsva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+svadhāvaḥ ← svadhā́vant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +176,4 @@ Nicht kehre ein von uns entfernt; komm her, der du den Soma liebst; Hier freu di
 О (бог,) любящий буланых коней! Сюда приезжай!  
 О Индра самовластный, опьяняйся здесь!
 </details>
+

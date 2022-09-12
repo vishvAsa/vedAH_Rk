@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+áva ← áva (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+cikitvā́n ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+uttānā́yām ← uttāná- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+jajāna ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+právītā ← √vī- 1 (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+sadyás ← sadyás (invariable)  
+{}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aruṣástūpaḥ ← aruṣástūpa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pā́jaḥ ← pā́jas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rúśat ← rúśant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ajaniṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+íḷāyāḥ ← íḷā- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vayúne ← vayúna- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +209,4 @@ Zu der zum Beischlafe ausgestreckten [dem weiblichen Reibholze] bringe jenen [da
 С алой макушкой – светел его облик –  
 Родился сын Иды в отмеченное время.
 </details>
+

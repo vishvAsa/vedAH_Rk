@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dyumnaíḥ ← dyumná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+dyumnínī ← dyumnín- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śrávasi ← śrávas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+úpopa ← úpa (invariable)  
+{}
+
+dádhīta ← √dhā- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+vr̥tratū́rye ← vr̥tratū́rya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +149,4 @@ Es möge herrlich dir an Glanz zum Ruhme dir noch höhern Ruhm verleihen in der 
 
 -ru-
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+āsasrāṇā́saḥ ← √sr̥- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+śavasānám ← śavasāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rathyā̀saḥ ← rathyà- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sucakré ← sucakrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ŕ̥jyantaḥ ← √r̥j- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaheyuḥ ← √vah- (root)  
+{number:PL, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dasyet ← √das- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+vāyóḥ ← vāyú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +197,7 @@ It is not possible to respect the hemistich boundary in tr. without awkwardness.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/037/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/037/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 The implicit identification of Indra’s horses with the soma drops is reinforced by the use of the part. ṛ́jyantaḥ for both (2b, 3c).
@@ -174,3 +229,4 @@ Hereilend mögen den gewalt'gen Indra die Ross' am Wagen mit den schönen Räder
 Привезут к славе, устремляясь вперед.  
 Да не иссякнет никогда амрита у Ваю!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avata ← √avⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vā́je-vāje ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vājinaḥ ← vājín- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+amr̥tāḥ ← amŕ̥ta- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+dháneṣu ← dhána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+r̥tajñāḥ ← r̥tajñā́- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+viprāḥ ← vípra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mādáyadhvam ← √mad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pibata ← √pā- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+devayā́naiḥ ← devayā́na- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pathíbhiḥ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tr̥ptā́ḥ ← √tr̥p- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+yāta ← √yā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +186,7 @@ Drink of this honey here; make yourselves exhilarated. Satisfied, drive  along t
 
 It is appropriate that the vājíns should be the topic in a clause with the āmreḍita loc. absol. vā́je-vāje. The etym. figure would be clearer if the loc. had been tr. “whenever prizes (are at stake)” vel sim.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/038/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/038/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These last two vss. concern the vājínaḥ ‘prize-winners’. As indicated in the published introduction, although most (in addition to the usual tr., see Oberlies RdV II.240) take these to be horses, as so often, I instead take the referent of vājín- to be the Maruts. In an All God hymn the default expectation is that gods are the dedicands.
@@ -171,3 +220,4 @@ In jeder Schlacht helft uns, o Rosse, in Wettkämpfen, o unsterbliche Priester, 
 Испейте этой сладости, опьяняйтесь!  
 Насытившись, отправляйтесь путями, ведущими к богам!
 </details>
+

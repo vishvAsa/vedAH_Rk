@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ábhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+abhī́ke ← abhī́ka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+kártvam ← kártva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+madhyā́ ← madhyā́ (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇvāné ← √kr̥- (root)  
+{case:LOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+pitári ← pitár- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yuvatyā́m ← yuvatí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+jahatuḥ ← √hā- 2 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+manānák ← manānáś- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+rétaḥ ← rétas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+viyántā ← √i- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+níṣiktam ← √sic- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sā́nau ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sukr̥tásya ← sukr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +228,4 @@ Was inzwischen zu thun war, als der Vater seine Lust an der jungen Tochter kühl
 
 -ru-
 </details>
+

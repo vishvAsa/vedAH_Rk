@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pā́tā ← pā́tar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutám ← √su- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+jaritā́ram ← jaritár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+praṇenī́ḥ ← praṇenī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+kártā ← kártar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+súṣvaye ← súṣvi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ulokám ← uloká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīrā́ya ← vīrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dā́tā ← dā́tar- 1 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kīráye ← kīrí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+stuvaté ← √stu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

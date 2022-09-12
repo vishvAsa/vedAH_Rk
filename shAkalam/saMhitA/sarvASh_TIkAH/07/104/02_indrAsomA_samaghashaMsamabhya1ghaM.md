@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+aghám ← aghá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agháśaṁsam ← agháśaṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índrāsomā ← índrāsóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sám ← sám (invariable)  
+{}
+
+agnivā́n ← agnivánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+carúḥ ← carú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+tápuḥ ← tápus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yayastu ← √yas- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+brahmadvíṣe ← brahmadvíṣ- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ghorácakṣase ← ghorácakṣas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kravyā́de ← kravyā́d- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+anavāyám ← anavāyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dvéṣaḥ ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kimīdíne ← kimīdín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +202,7 @@ Geldner’s cited parallel, VI.62.8, where tápur aghám belong together, seems 
 
 See also V.3.7, where aghám is used as a weapon against an agháśaṃsa-: ádhī́d aghám agháśaṃse dadhāta “set evil upon him, the speaker of evil.” The simile particle iva in the simile carúr agnivā́m̐iva is postposed, but such late placement of simile markers is not uncommon in the RV.
 
-The hapax anavāyá- is unclear. Oldenberg approvingly cites Bergaigne’s gloss ‘qu'on ne peut détourner par des supplications’, and this interpr. seems to inform most subsequent tr., including mine. But this interpr. should rest on the lexeme now understood to be áva √yā ‘appease’, and I do not see how the morphology would work. √yā has a zero-grade ī, but no ay- forms -- but (an-)avāya- can only be broken down into ava+ay-a, containing no elements of √yā/ī. AiG fails to treat this form. Renou (EVP XVI.114) tries briefly to get it from áva √ī, but decides that áva √i is “simpler.” This is certainly the case morphologically, but the semantics are harder: áva is not a particularly common preverb with √i and when it appears, the lexeme generally means ‘go down’ (with ‘down’ the physical direction), occasionally more generally ‘go away’. Renou cites V.49.5 ávaitu ábhvam, claiming that the verb there means ‘céder’, thus allowing our form to means ‘qui ne cède pas’. But I do not see a ‘cede’ sense in that passage, just ‘go away’. This is, in fact, the interpr. found in RIVELEX (I.181), which glosses the stem anavāyá- as ‘nicht weggehend’ -- ‘not going away’ (metaphorically ‘nicht vergehend, verbleibend’, 181 n. 1) and analyses as a “Verbales Rektionskompositum/Dete←r>minativkompositum” an- + avāya- ‘weggehend’ (← áva + √ay1
+The hapax anavāyá- is unclear. Oldenberg approvingly cites Bergaigne’s gloss ‘qu'on ne peut détourner par des supplications’, and this interpr. seems to inform most subsequent tr., including mine. But this interpr. should rest on the lexeme now understood to be áva √yā ‘appease’, and I do not see how the morphology would work. √yā has a zero-grade ī, but no ay- forms -- but (an-)avāya- can only be broken down into ava+ay-a, containing no elements of √yā/ī. AiG fails to treat this form. Renou (EVP XVI.114) tries briefly to get it from áva √ī, but decides that áva √i is “simpler.” This is certainly the case morphologically, but the semantics are harder: áva is not a particularly common preverb with √i and when it appears, the lexeme generally means ‘go down’ (with ‘down’ the physical direction), occasionally more generally ‘go away’. Renou cites V.49.5 ávaitu ábhvam, claiming that the verb there means ‘céder’, thus allowing our form to means ‘qui ne cède pas’. But I do not see a ‘cede’ sense in that passage, just ‘go away’. This is, in fact, the interpr. found in RIVELEX (I.181), which glosses the stem anavāyá- as ‘nicht weggehend’ -- ‘not going away’ (metaphorically ‘nicht vergehend, verbleibend’, 181 n. 1) and analyses as a “Verbales Rektionskompositum/Dete←r&gt;minativkompositum” an- + avāya- ‘weggehend’ (← áva + √ay1
 
 -). This must be the correct analysis, though I am sorry to
 abandon the richer semantics of a derivation from áva √yā. My published translation ‘unrelenting’ can still probably stand, as a strengthened expression of ‘not going away’. (Note in passing that RIVELEX I.394 [s.v. ay1
@@ -182,3 +234,4 @@ Den Bösewicht verbrühe selbst des Frevels Glut o Indra-Soma, wie der Topf, der
 Ненавистнику молитвы, пожирателю сырого мяса с грозным взглядом,  
 Кимидину даруйте неистощимую ненависть!
 </details>
+

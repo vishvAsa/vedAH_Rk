@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vasuvídam ← vasuvíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+vā́ṇīḥ ← vā́ṇī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+várṇam ← várṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāsayāmasi ← √vas- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +163,4 @@ Dich, der du Güter uns verleihst, umtönte jetzt der Lieder Schall, Mit Milch u
 Приветствовали голоса (риши).  
 В коровье (молоко) мы одеваем твой цвет.
 </details>
+

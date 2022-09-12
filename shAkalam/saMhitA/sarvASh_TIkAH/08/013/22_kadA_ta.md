@@ -15,14 +15,54 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+bhavāti ← √bhū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+śáṁtamaḥ ← śáṁtama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stotā́ ← stotár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áśvye ← áśvya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+gávye ← gávya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+dadhaḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+vásau ← vásu- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +176,4 @@ Wann wird, o Indra, Liederfreund, der Sänger dir am liebsten sein? Wann wirst d
 Твой восхвалитель станет самым милым для тебя?  
 Когда наделишь нас владением коровами, конями, добром?
 </details>
+

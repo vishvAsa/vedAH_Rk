@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sutā́vataḥ ← sutā́vant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+suṣṭutī́ḥ ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śiprin ← śiprín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +150,4 @@ Zu uns mit Trank versehnen komm herbei zu unserm Lobgesang, Vom Kraute trink, o 
 На наши прекрасные восхваления!  
 Напейся хорошенько соку, о прекрасногубый!
 </details>
+

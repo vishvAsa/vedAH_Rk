@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+caná ← caná (invariable)  
+{}
+
+hrútaḥ ← hrút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dítsantam ← √dā- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+minan ← √mī- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+makhasyáse ← √makhasy- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,7 +145,7 @@ This vs. is rather cleverer than the two that precede it. In pāda a the nom. pl
 The word family that includes makhá- and the denom. makhasyá- found here displays both ‘combat’ and ‘generosity’ senses; see comm. ad I.18.9 and, for the verb, III.31.7. Here I think both are at play, and this double sense is encouraged by the context: as noted, this tṛca focuses on combatting enemies, and the first hemistich of this vs. states that these enemies cannot stop Soma. But the tṛca also concerns Soma’s giving, esp. in the last two vss.: 26a “bring wealth ... 26c “give” … 27b “eager to give largesse.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/25-27.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 This tṛca focuses even more strongly on combat, with forms of √han in 25 and 26 and ‘do battle’ (makhasyá-) in 27. Generosity is also a topic.
@@ -140,3 +177,4 @@ Selbst hundert Feinde hemmen nicht dich, wenn du Gaben schenken willst, Wenn fla
 Не помешает тебе, желающему наградить подарком,  
 Когда, очищаясь, ты проявляешь щедрость.
 </details>
+

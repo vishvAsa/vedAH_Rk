@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhattha ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+maghávatsu ← maghávan- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+ámr̥ktam ← ámr̥kta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥bhukṣaṇaḥ ← r̥bhukṣán- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+svardŕ̥śaḥ ← svardŕ̥ś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pibadhvam ← √pā- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+svadhāvantaḥ ← svadhā́vant- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yajñéṣu ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dayadhvam ← √dā- 3 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rā́dhāṁsi ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+duritā́ni ← duritá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sāhvā́n ← √sah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jātávedāḥ ← jātávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stave ← √stu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+avadyā́t ← avadyá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+duritā́t ← duritá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rakṣiṣat ← √rakṣⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+gr̥ṇatáḥ ← √gr̥̄- 1 (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+maghónaḥ ← maghávan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +225,4 @@ Er, der mit Macht die Leiden alle austilgt, der Wesenkenner wird gerühmt im Hau
 Да защитит он нас от беды, от бесчестья –  
 Нас, восхвалителей, и наших щедрых покровителей!
 </details>
+

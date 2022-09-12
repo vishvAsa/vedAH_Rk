@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kúha ← kúha (invariable)  
+{}
+
+kúha ← kúha (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+śrutā́ ← √śru- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+tyā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+devā́ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jáne ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kásmin ← ká- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+yatathaḥ ← √yat- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+nadī́nām ← nadī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sácā ← sácā (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +192,4 @@ Wo sind sie? wo die herrlichen? im Himmel treue Götter sie, Zu welchem Manne ge
 У какого человека вы займете должное место?  
 Кто вас (удержит) возле рек?
 </details>
+

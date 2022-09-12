@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+índrāviṣṇū ← índrāvíṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+píbatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dasrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+jaṭháram ← jaṭhára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥ṇethām ← √pr̥̄- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ándhāṁsi ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+madirā́ṇi ← madirá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śr̥ṇutam ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +208,4 @@ O Indra-Vischnu, trinkt von diesem Soma und füllt den Bauch mit süssem Trank, 
 К вам приблизились пьянящие соки.  
 Прислушайтесь к священным словам и моему зову!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+vājambharáḥ ← vājambhará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víhāyāḥ ← víhāyas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhiṣṭikŕ̥t ← abhiṣṭikŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jāyate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+satyáśuṣmaḥ ← satyáśuṣma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devájūtaḥ ← devájūta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mayobhúḥ ← mayobhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+árvā ← árvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āśúḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jūjuvā́n ← √jū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ Von dir entstammt der wahrhaft starke Renner, der Hülfe schafft und gross ist, 
 От тебя богатство, вдохновленное богами, освежающее;  
 От тебя, о Агни, быстрый скакун, рвущийся (вперед).
 </details>
+

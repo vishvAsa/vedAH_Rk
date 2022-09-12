@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+indrābr̥haspatī ← índrābŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatagvínam ← śatagvín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áśvāvantam ← áśvāvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahasríṇam ← sahasrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -102,3 +124,4 @@ O gebt, Indra-Brihaspati, den Reichthum uns, der hundertfach, An Rossen reich is
 Дайте богатство, числом в сотню,  
 Состоящее из коней, числом в тысячу!
 </details>
+

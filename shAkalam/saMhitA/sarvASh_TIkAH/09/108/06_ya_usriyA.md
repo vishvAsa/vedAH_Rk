@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+antár ← antár (invariable)  
+{}
+
+ápyāḥ ← ápya- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+áśmanaḥ ← áśman- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+usríyāḥ ← usríya- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ákr̥ntat ← √kr̥t- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+nís ← nís (invariable)  
+{}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+áśvyam ← áśvya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gávyam ← gávya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tatniṣe ← √tan- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhr̥ṣṇo ← dhr̥ṣṇú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ruja ← √ruj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+varmī́ ← varmín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +203,7 @@ Geldner suggests that pāda a concerns the Vṛtra myth and b the Vala myth, bas
 On abhí √tan see comm. ad VIII.6.25.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 The 1st hemistich of vs. 6 is a relative cl. in the 3rd ps. dependent on vs. 5, also in the 3rd ps. The 2nd hemistich of 6 switches to 2nd ps.
@@ -177,3 +235,4 @@ Der aus dem Fels des Wassers rothe Kühe du mit Kraft hervorgespalten hast, Du d
 Ты (далеко) протянул загон с коровами, с конями:  
 Разбей его смело, как воин со щитом!
 </details>
+

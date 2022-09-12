@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+huvema ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+suhávam ← suháva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+cakā́ra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+náryā ← nárya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+gádhyam ← gádhya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jaritré ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mā́vate ← mā́vant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhárati ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+spārhárādhāḥ ← spārhárādha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +244,4 @@ Lasst Indra rufen uns, der gern erhöret, der diese vielen Heldenthaten wirkte, 
 Кто певцу, подобному мне, быстро  
 Приносит добычу, которую надо схватить (?), (он,) обладающий завидными дарами.
 </details>
+

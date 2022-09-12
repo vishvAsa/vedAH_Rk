@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cákṣasā ← cákṣas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vaiśvānarásya ← vaiśvānará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vímitāni ← √mā- 1 (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ketúnā ← ketú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sā́nūni ← sā́nu- ~ snú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+bhúvanā ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+mūrdháni ← mūrdhán- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+ruruhuḥ ← √ruh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vayā́ḥ ← vayā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+visrúhaḥ ← visrúh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Durchzogen sind des Himmels Gipfel von dem Schein des Männerhorts, vom Lichte d
 Это на его голове (покоятся) все существа.  
 Словно ветви, выросли семь потоков (огня).
 </details>
+

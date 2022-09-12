@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+jīvā́tuḥ ← jīvā́tu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+viddhi ← √vid- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+etādŕ̥k ← etādŕ̥ś- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+gūhaḥ ← √guh- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+samaryé ← samaryá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+āvís ← āvís (invariable)  
+{}
+
+busám ← busá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gū́hate ← √guh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+kr̥ṇuté ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mucyate ← √muc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+nirṇíjaḥ ← nirṇíj- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+pādúḥ ← pādú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +252,4 @@ Dies ist dein Leben, und darauf achte, nicht mögest du solches vergessen [oder 
 
 -ru-
 </details>
+

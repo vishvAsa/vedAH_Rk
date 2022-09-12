@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+jyéṣṭhā ← jyéṣṭha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kr̥ṇuhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+várṣiṣṭhā ← várṣiṣṭha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+nr̥mṇā́ni ← nr̥mṇá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sáhāṁsi ← sáhas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sahure ← sáhuri- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+randhi ← √randh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+suhánāni ← suhána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vr̥trā́ ← vr̥trá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jahí ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mártyasya ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vádhar ← vádhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vanúṣaḥ ← vanús- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Uns schaff, o Sieger, herrlichste und beste, siegreiche Kräfte, alle Mannesthat
 Нам отдай во власть врагов, чтоб (их) легко было убить!  
 Порази смертельное оружие завистливого смертного!
 </details>
+

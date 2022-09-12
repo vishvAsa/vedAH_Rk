@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apaśyat ← √paś- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ápinaddham ← √nah- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+áśnā ← áśman- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+dīné ← dīná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+kṣiyántam ← √kṣi- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mátsyam ← mátsya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+udáni ← udán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+camasám ← camasá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jabhāra ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+nís ← nís (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vr̥kṣā́t ← vr̥kṣá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vikŕ̥tya ← √kr̥t- 1 (root)  
+{non-finite:CVB}
+
+viravéṇa ← viravá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Er sah das Süss von dem Gestein umschlossen, gleich wie ein Fisch im seichten W
 Брихаспати извлек ее, как кубок – из дерева,  
 Проломив (скалу) громким ревом.
 </details>
+

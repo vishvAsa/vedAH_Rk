@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+rukmíbhiḥ ← rukmín- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+aṁśúbhiḥ ← aṁśú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śubhrébhiḥ ← śubhrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhávan ← √bhū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+síndhūnām ← síndhu- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +149,4 @@ Mit goldnen Strahlen eilet er, mit glänzenden, das schnelle Ross, Er, welcher H
 Со (своими) сверкающими прекрасными стеблями,  
 Являясь господином рек.
 </details>
+

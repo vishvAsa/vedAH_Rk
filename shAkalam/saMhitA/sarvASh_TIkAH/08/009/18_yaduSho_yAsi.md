@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhānúnā ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+uṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+yā́si ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+rocase ← √ruc- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvínoḥ ← aśvín- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥pā́yyam ← nr̥pā́yya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +187,4 @@ Wenn, Uschas, du mit Glanz erscheinst, so strahlest mit der Sonne du, Dann eilt 
 И (тогда) эта колесница Ашвинов  
 Начинает объезд, чтобы охранять мужей.
 </details>
+

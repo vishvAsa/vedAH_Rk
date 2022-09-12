@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhujā́m ← bhúj- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+īḷe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+yáviṣṭham ← yáviṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+durdhárītum ← durdhárītu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śāsā́ ← śā́s- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dhárman ← dhárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+énīḥ ← éta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+svàr ← svàr- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+saparyánti ← √sapary- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +181,4 @@ Agni, der Geniesser jüngsten, preis' ich, Freund ihn, der unhemmbar, In dess Sc
 По установлению которого пестрые (языки пламени)  
 Почитают небо, вымя матери.
 </details>
+

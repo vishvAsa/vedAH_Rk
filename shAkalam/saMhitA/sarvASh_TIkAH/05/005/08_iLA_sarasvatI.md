@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+íḷā ← íḷā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mayobhúvaḥ ← mayobhū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asrídhaḥ ← asrídh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sīdantu ← √sad- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +145,4 @@ Ida, Sarasvati, Mahi, die drei Göttinnen, labungsreich, Sie setzen hold sich au
 , приносящие радость,  
 Садитесь на жертвенную солому, безошибочные!
 </details>
+

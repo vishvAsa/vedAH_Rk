@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gāḥ ← √gā- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+hurás ← hurás (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+sádam ← sádam (invariable)  
+{}
+
+yakṣám ← yakṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āpéḥ ← āpí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+praminatáḥ ← √mī- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+veśásya ← veśá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ánr̥joḥ ← ánr̥ju- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhrā́tuḥ ← bhrā́tar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+r̥ṇám ← r̥ṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+veḥ ← √vī- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+bhujema ← √bhuj- 2 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+dákṣam ← dákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+ripóḥ ← ripú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sákhyuḥ ← sákhi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,3 +259,4 @@ Verfolg als Rächer nicht des Menschen Unrecht nicht falscher Freunde oder Hausg
 Не (взыскивай), о Агни, за вину нечестного брата!  
 Да не испытаем мы силы действия друга-предателя!
 </details>
+

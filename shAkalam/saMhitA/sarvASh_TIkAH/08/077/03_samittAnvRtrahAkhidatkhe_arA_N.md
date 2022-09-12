@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+akhidat ← √khid- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arā́n ← ára- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+khé ← khá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+khédayā ← khédā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dasyuhā́ ← dasyuhán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+právr̥ddhaḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +176,4 @@ Sie schlug, wie Speichen in das Rad, der Vritratödter mit dem Keil, Da war der 
 Молотом, словно спицы во втулку.  
 Выросши, он стал убийцей дасью.
 </details>
+

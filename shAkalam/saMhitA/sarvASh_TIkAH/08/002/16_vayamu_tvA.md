@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+tadídarthāḥ ← tadídartha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvāyántaḥ ← √tvāy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+jarante ← √gr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+káṇvāḥ ← káṇva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ukthébhiḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ Kanva's Enkel, deine treuen Freunde, hierauf nur gerichtet, Preisen, Indra, dich
 О Индра, имеем только такую цель:  
 Канвы воспевают (тебя) гимнами.
 </details>
+

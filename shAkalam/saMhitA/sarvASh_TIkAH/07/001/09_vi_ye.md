@@ -15,13 +15,65 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhejiré ← √bhaj- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+mártāḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pítryāsaḥ ← pítrya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+ebhíḥ ← ayám (pronoun)  
+{case:INS, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syāḥ ← √as- 1 (root)  
+{number:SG, person:2, mood:OPT, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +198,4 @@ Die oftmals, Agni, dir dein Licht ertheilten als Sterbliche, die väterlichen M�
 По многим местам, смертные мужи из числа предков,  
 Благодаря им будь здесь также милостив и к нам!
 </details>
+

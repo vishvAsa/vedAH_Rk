@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+suprāvargám ← suprāvargá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suṣṭhú ← suṣṭhú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́ryam ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánādhr̥ṣṭam ← ánādhr̥ṣṭa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rakṣasvínā ← rakṣasvín- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+āyā́ne ← āyā́na- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vājinīvasū ← vājínīvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+dhīmahi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+vāmā́ni ← vāmá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +194,4 @@ Sehr übermächt'ge Heldenkraft und schönes Gut, an das kein Zauberer sich wagt
 Всё драгоценное мы хотели бы получить  
 Во время этого вашего приезда, о богатые наградами!
 </details>
+

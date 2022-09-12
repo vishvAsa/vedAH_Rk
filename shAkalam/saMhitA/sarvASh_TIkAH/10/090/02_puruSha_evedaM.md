@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+evá ← evá (invariable)  
+{}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+púruṣaḥ ← púruṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárvam ← sárva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhávyam ← bhávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhūtám ← √bhū- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ca ← ca (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+amr̥tatvásya ← amr̥tatvá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ī́śānaḥ ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+utá ← utá (invariable)  
+{}
+
+ánnena ← ánna- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+atiróhati ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +208,4 @@ Der Urmensch ist alles dies, was gewesen ist, und was sein wird; er gebietet üb
 Он также властвует над бессмертием.  
 Потому что перерастает (все) благодаря пище.
 </details>
+

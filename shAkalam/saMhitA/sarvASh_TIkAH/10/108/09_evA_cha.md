@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ājagántha ← √gam- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+sarame ← sarámā- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+daívyena ← daívya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prábādhitā ← √bādhⁱ- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+gāḥ ← √gā- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+kr̥ṇavai ← √kr̥- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+mā́ ← mā́ (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+svásāram ← svásar- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+bhajāma ← √bhaj- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+subhage ← subhága- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Da du, Sarama, nun einmal gekommen bist, durch göttliche Gewalt genötigt, so w
 Мы выделим тебе, о милая, часть коров.  
 Сарама:
 </details>
+

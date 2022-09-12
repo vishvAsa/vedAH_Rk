@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śravasyā́ ← śravasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+viṁśatím ← viṁśatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ástar ← √str̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jánān ← jána- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaikarṇáyoḥ ← vaikarṇá- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dasmáḥ ← dasmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+sádman ← sádman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śiśāti ← √śā- ~ śī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+akr̥ṇot ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárgam ← sárga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +247,4 @@ Der einundzwanzig Mannen der Vaikarner zu Boden warf voll Ruhmbegier, der König
 Он (их) бросает, как удивительный (жрец) – солому на сиденье (жертвы).  
 Герой Индра устроил гонки среди них.
 </details>
+

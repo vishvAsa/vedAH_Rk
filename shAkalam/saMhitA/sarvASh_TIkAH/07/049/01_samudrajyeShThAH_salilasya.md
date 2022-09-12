@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+mádhyāt ← mádhya- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+salilásya ← salilá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+samudrájyeṣṭhāḥ ← samudrájyeṣṭha- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ániviśamānāḥ ← ániviśamāna- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+punānā́ḥ ← √pū- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rarā́da ← √rad- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vajrī́ ← vajrín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+avantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Die Wasserströme fliessen aus dem Luftmeer gereinigt aus und nirgend halten Ras
 Кому (русло) просверлил Индра-громовержец, бык,  
 Эти божественные воды пусть мне здесь помогут!
 </details>
+

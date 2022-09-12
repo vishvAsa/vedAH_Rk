@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ábhūḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+ānaṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+aúkṣīḥ ← √vakṣ- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+áparaḥ ← ápara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+darṣat ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+dárṣat ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+pū́rvaḥ ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhūtaḥ ← √bhū- (root)  
+{number:DU, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+dvé ← dvá- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+paváste ← pavásta- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pāré ← pārá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vivéṣa ← √viṣ- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +252,4 @@ Du [Indra] erstandest, wuchsest und erreichtest dein volles Alter; nun muss [vor
 
 -ru-
 </details>
+

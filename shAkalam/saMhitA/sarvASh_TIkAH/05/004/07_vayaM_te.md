@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+bhadraśoce ← bhadraśoci- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+havyaíḥ ← havyá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+pāvaka ← pāvaká- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+inva ← √i- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+viśvávāram ← viśvávāra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dráviṇāni ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Wir huldigen mit Sprüchen dir, o Agni, mit Opfern dir, der glänzendhell du str
 Для нас возбуди богатство, состоящее из всего желанного!  
 Нас надели всеми благами!
 </details>
+

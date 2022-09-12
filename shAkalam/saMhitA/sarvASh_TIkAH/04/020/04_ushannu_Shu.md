@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+upāké ← upāká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+uśán ← √vaś- (root)  
+{tense:PRS, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+súṣutasya ← súṣuta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+svadhāvaḥ ← svadhā́vant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pā́ḥ ← √pā- 2 (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+prátibhr̥tasya ← √bhr̥- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+ándhasā ← ándhas- 2 (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mamadaḥ ← √mad- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+pr̥ṣṭhyèna ← pr̥ṣṭhyà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ So trinke munter wohlgesinnt bei uns nun den schöngepressten Soma, Selbstgebiet
 Испей, о Индра, поднесенного сладкого напитка!  
 Опьяняйся растением, (собранным) со спины (горы)!
 </details>
+

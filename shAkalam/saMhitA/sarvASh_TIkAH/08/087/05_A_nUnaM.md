@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nūnám ← nūnám (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+áśvebhiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pruṣitápsubhiḥ ← pruṣitápsu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dásrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+híraṇyavartanī ← híraṇyavartani- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+patī ← páti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śubhaḥ ← śúbh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+pātám ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+r̥tāvr̥dhā ← r̥tāvŕ̥dh- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +174,4 @@ Kommt auf den Rossen nun herbei, o Ritter, den gesprenkelten, O herrliche, auf g
 О чудесные, с золотыми колесами, повелители красоты,  
 Пейте сому, о умножающие закон!
 </details>
+

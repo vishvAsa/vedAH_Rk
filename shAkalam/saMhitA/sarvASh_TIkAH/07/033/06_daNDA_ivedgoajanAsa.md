@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āsan ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+daṇḍā́ḥ ← daṇḍá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+goájanāsaḥ ← goájana- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+arbhakā́saḥ ← arbhaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bharatā́ḥ ← bharatá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+párichinnāḥ ← √chid- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ábhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+puraetā́ ← puraetár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aprathanta ← √prathⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+tŕ̥tsūnām ← tŕ̥tsu- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Wie Stäbe, mit denen man Ochsen treibt, waren zerspalten die schwachen Bharater
 А Васиштха был предводителем,  
 И тогда распространились племена тритсу.
 </details>
+

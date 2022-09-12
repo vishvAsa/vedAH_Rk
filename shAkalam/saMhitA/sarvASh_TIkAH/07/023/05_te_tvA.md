@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mádāḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mādayantu ← √mad- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+jaritré ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śuṣmíṇam ← śuṣmín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tuvirā́dhasam ← tuvirā́dhas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dáyase ← √dā- 3 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+devatrā́ ← devatrā́ (invariable)  
+{}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+mártān ← márta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+mādayasva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sávane ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Die Tränke mögen, Indra, dich berauschen, dich starken, der du Sängern reichl
 Ведь ты один среди богов заботишься о смертных!  
 Опьяняйся, о герой, на этом выжимании!
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line
+#### Morph
+asthita ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+matíḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāśrā́ ← vāśrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ápām ← √pā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+kuvít ← kuvít (invariable)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +164,4 @@ Mir hat die Bitte sich genaht, gleich wie die Kuh dem lieben Kalb; Hat mich der 
 Как мычащая корова – к любимому сыну –  
 Не напился ли я сомы?
 </details>
+

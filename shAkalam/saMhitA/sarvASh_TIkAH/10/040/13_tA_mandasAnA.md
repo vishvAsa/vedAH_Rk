@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mandasānā́ ← mandasāná- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+dhattám ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahávīram ← sahávīra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vacasyáve ← vacasyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kr̥tám ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+patī ← páti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śubhaḥ ← śúbh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+suprapāṇám ← suprapāṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tīrthám ← tīrthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+durmatím ← durmatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+hatam ← √han- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+patheṣṭhā́m ← patheṣṭhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sthāṇúm ← sthāṇú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ So gebt nun, euch in dem Hause des Menschen freuend dem Liederkundigen Reichthum
 Создайте брод с хорошим водопоем, о повелители красоты!  
 Снесите столб, стоящий на пути, – недоброжелательство!
 </details>
+

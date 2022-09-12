@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+báṭ ← báṭ (invariable)  
+{}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+mahimā́ ← mahimán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pániṣṭhaḥ ← pániṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhrā́tarā ← bhrā́tar- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+janitā́ ← janitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samānáḥ ← samāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ihéhamātarā ← ihéhamātar- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yamaú ← yamá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +205,4 @@ Sehr herrlich, Indra-Agni, ist doch eure Grösse in der That, Als Zwillingsbrüd
 У вас двоих общий родитель, братья вы,  
 Близнецы, а две матери (ваши) здесь и там.
 </details>
+

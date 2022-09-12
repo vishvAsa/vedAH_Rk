@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávardhan ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+táviṣīm ← táviṣī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+árcantaḥ ← √r̥c- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+mā́dhyaṁdine ← mā́dhyaṁdina- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sávane ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vajrahasta ← vájrahasta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rudrébhiḥ ← rudrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ságaṇaḥ ← ságaṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suśipra ← suśiprá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Die deinen Muth und deine Kraft erquickten die Maruts, Indra, deine Stärke prei
 О (ты,) с ваджрой в руке, на полуденном выжимании  
 Сопровождаемый толпой пей с Рудрами, о прекрасногубый!
 </details>
+

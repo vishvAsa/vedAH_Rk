@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cánaḥ ← cánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+uśán ← √vaś- (root)  
+{tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āsānáḥ ← √ās- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+havíṣmān ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+juhuté ← √hu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+bharádvājeṣu ← bharádvāja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dadhiṣe ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+suvr̥ktím ← suvr̥ktí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ávīḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+gádhyasya ← gádhya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sātaú ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vā́jasya ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Dies Opfer nimm du willig an, o Agni, das sitzend dir ergiesst der Opferbringer;
 Ты получил прекрасный гимн у людей из рода Бхарадваджа.  
 Помоги в захвате добычи, наполняющей колесницу!
 </details>
+

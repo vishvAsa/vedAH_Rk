@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+parāké ← parāká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+arvāké ← arvāká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bheṣajám ← bheṣajá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+pracetasā ← prácetas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+vimadā́ya ← vimadá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+chardíḥ ← chardís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vatsā́ya ← vatsá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yachatam ← √yam- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +175,4 @@ Welch Arzenei, o Treue, euch hier nah und in der Ferne ist, Mit der, o weise, re
 С его помощью сейчас, о прозорливцы,  
 Даруйте защиту Вимаде (и) Ватсе!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+masīya ← √man- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:MED}
+
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vācáḥ ← vā́c- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ásāma ← √as- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+ásurān ← ásura- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ū́rjādaḥ ← ūrjād- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+yajñiyāsaḥ ← yajñíya- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+hotrám ← hotrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+janāḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+juṣadhvam ← √juṣ- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:MED}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+páñca ← páñca- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Als Anfang meiner Rede will ich heute das erdenken, wodurch wir Götter die Asur
 О поедающие пищу и достойные жертв,  
 О пять народов, наслаждайтесь моей службой хотара!
 </details>
+

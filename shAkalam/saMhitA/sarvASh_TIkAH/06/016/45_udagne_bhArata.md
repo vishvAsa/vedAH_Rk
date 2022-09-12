@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhārata ← bhā́rata- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dyumát ← dyumánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
+ájasreṇa ← ájasra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dávidyutat ← √dyut- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ajara ← ajára- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhāhi ← √bhā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śóca ← √śuc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +146,4 @@ Auf, leuchte, Agni Bharata, mit hellem Licht, das nie verlischt, Erstrahle, unve
 Ярко светя непреходящим (светом)!  
 Гори, сверкай, о нестареющий!
 </details>
+

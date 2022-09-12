@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āghr̥ṇe ← ā́ghr̥ṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+yávasam ← yávasa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+amartya ← ámartya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nítyam ← nítya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rékṇaḥ ← rékṇas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pūṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śiváḥ ← śivá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máṁhiṣṭhaḥ ← máṁhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Zu jeder Wiese treib' die Kühe, strahlender, die unser sind, Unsterblicher, Sei
 Нам, о Пушан, будь милостивым помощником,  
 Самым щедрым при захвате награды!
 </details>
+

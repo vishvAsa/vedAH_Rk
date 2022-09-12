@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+táṣṭā ← táṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vandhúram ← vandhúra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+acāmi ← √añc- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+matím ← matí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+ápām ← √pā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+kuvít ← kuvít (invariable)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +159,4 @@ Wie Wagner einen Wagensitz beweg' die Bitt' im Herzen ich; Hat mich der Soma den
 Поворачивая кругом молитву в (своем) сердце –  
 Не напился ли я сомы?
 </details>
+

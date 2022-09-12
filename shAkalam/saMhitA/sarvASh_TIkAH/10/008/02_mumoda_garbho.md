@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gárbhaḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kakúdmān ← kakúdmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mumóda ← √mud- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arāvīt ← √rū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asremā́ ← asremán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śímīvān ← śímīvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vatsáḥ ← vatsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devátāti ← devátāt- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+kr̥ṇván ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+údyatāni ← √yam- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+jigāti ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣáyeṣu ← kṣáya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svéṣu ← svá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Es ist voll Lust der Buckelstier, der junge, es brüllt das Kalb sich unermüdli
 Готовя для службы богам предлагаемые (жертвы),  
 Он идет первым в свои жилища.
 </details>
+

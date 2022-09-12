@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śúcim ← śúci- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adhvaréṣu ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+namasyata ← √namasy- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ánāmi ← ánāmin- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cake ← √kā- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -94,7 +122,7 @@ To blazing Br̥haspati give reverence with recitations at the ceremonies— his 
 Geldner (/Witzel Gotō) take ā́cake as 3rd sg. (Geldner: “Er liebt unbeugsame Kraft”). This is certainly possible, but Schmidt (Bṛhaspati und Indra, 131) makes good arguments for flg. Sāyaṇa and Grassmann in taking it as 1st sg.; see also Renou (EVP XVI, ad loc.).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 Vs. 6 is entirely couched in the acc. and picks up from 5ab, where the acc. phrase is obj. of namasyata; 5c is a parenthetical intrusion.
@@ -125,3 +153,4 @@ Verehrt den einen Andachtsherrn beim Opferwerk mit Lobgesang, Er liebet ungebeug
 Во время обрядов с помощью хвалебных песен.  
 Ему нравится несгибаемая сила –
 </details>
+

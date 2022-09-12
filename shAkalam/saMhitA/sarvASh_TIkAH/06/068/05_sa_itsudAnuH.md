@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sudā́nuḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svávān ← svávas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dā́śati ← √dāś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índrā ← índra- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tmán ← tmán- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+varuṇā = ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dā́svān ← dā́svant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dviṣáḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+iṣā́ ← íṣ- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+taret ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+jánān ← jána- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayivátaḥ ← rayivánt- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+váṁsat ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +237,4 @@ Der ist gerecht, an Gaben reich und Beistand, der Indra euch und Varuna verehret
 Этот даритель должен преодолеть проявления ненависти с помощью жертвенной услады.  
 Пусть приобретет он богатство и богатых людей!
 </details>
+

@@ -16,14 +16,48 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+mádhumattamam ← mádhumattama- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yamā́ya ← yamá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+juhotana ← √hu- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rā́jñe ← rā́jan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pūrvajébhyaḥ ← pūrvajá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ŕ̥ṣibhyaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+pathikŕ̥dbhyaḥ ← pathikŕ̥t- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+pū́rvebhyaḥ ← pū́rva- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 Это поклонение – мудрецам, прежде рожденным,  
 Древним открывателям пути!
 </details>
+

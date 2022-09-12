@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+kratuvít ← kratuvíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ukthyàḥ ← ukthyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávyaḥ ← ávi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhāva ← √dhāv- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mádhu ← mádhu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́re ← vā́ra- 1 (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+atríṇaḥ ← atrín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jahí ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suvī́rāḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vadema ← √vadⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +222,7 @@ The aggressively hostile command in pāda c comes as something of a surprise in 
 The last pāda is the Gṛtsamada refrain from Maṇḍala II. This tṛca is attributed by the Anukramaṇī to Gṛtsamada, but perhaps only on the basis of the refrain.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/46-48.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/46-48.md">
 <details open><summary><h2>46-48 ...{Loading}...</h2></summary>
 
 The hymn ends with a tṛca no more unified than most of those that preceded it, repeating the same tropes oscillating between ritual and cosmic images.
@@ -190,3 +251,4 @@ O Soma, riesle Kraft uns zu, gepriesener! und ströme durch die Widderwolle, lie
 
 -ru-
 </details>
+

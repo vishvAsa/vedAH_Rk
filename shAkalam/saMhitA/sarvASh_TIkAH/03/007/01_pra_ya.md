@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ārúḥ ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dhāséḥ ← dhāsí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śitipr̥ṣṭhásya ← śitipr̥ṣṭhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mātárā ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vā́ṇīḥ ← vā́ṇī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+viviśuḥ ← √viś- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+carete ← √carⁱ- (root)  
+{mood:OPT, tense:PRS}
+
+parikṣítā ← parikṣít- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pitárā ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sám ← sám (invariable)  
+{}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dīrghám ← dīrghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prayákṣe ← √yakṣ- (root)  
+{case:DAT, number:SG}
+
+sarsrāte ← √sr̥- 2 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Die sieben rauschenden Stimmen des mit weissem Kücken versehenen Trankes [des m
 Сходятся двое родителей, окружающих (все существа).  
 Они мощно рвутся вперед, чтобы продлить срок жизни.
 </details>
+

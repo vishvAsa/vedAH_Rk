@@ -14,12 +14,37 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular
+#### Morph
+ādityaíḥ ← ādityá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marúdbhiḥ ← marút- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ságaṇaḥ ← ságaṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhūtu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+tanū́nām ← tanū́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,3 +135,4 @@ Geschart mit den Aditja's und den Marut's mög' Indra sein der Schützer unsrer 
 Индра вместе с Адитьями, окруженный толпой Марутов.  
 Пусть будет покровителем наших тел!
 </details>
+

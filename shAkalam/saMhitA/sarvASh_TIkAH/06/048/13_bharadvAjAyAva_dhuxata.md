@@ -15,13 +15,44 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+áva ← áva (invariable)  
+{}
+
+bharádvājāya ← bharádvāja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dhukṣata ← √duh- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+viśvádohasam ← viśvádohas- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+viśvábhojasam ← viśvábhojas- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,7 +140,7 @@ Renou opts for this latter analysis -- the cow milking herself. Although I am al
 Note the direct object in balanced coordination, NOUN ca ADJ / NOUN ca ADJ, with both ca-s properly positioned (unlike 10cd above) and with each bahuvrīhi epithet having the shape viśvá-CoCasam.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/11-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/11-13.md">
 <details open><summary><h2>11-13 ...{Loading}...</h2></summary>
 
 On these three vss., see published introduction.
@@ -140,3 +171,4 @@ Dem Bharadvadscha ströme sie zwiefach zu: die Kuh, die alles Gute strömen läs
 И дойную корову, исполняющую все (желания),  
 И жертвенную усладу, всех насыщающую.
 </details>
+

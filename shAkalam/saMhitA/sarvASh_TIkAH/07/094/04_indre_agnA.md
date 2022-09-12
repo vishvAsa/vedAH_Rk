@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agnā́ ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+īrayāmahe ← √īr- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+suvr̥ktím ← suvr̥ktí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+avasyávaḥ ← avasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhénāḥ ← dhénā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +149,4 @@ Dem Indra-Agni bringen wir ein hoh Gebet und Loblied dar Und hülfsbegierig Tran
 Мы пускаем в ход прекрасный гимн,  
 (Молитвенные) потоки с поэтическим видением, (мы,) ищущие помощи.
 </details>
+

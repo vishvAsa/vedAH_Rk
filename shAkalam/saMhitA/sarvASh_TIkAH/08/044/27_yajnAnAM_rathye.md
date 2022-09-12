@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+rathyè ← rathī́- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yajñā́nām ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tigmájambhāya ← tigmájambha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vīḷáve ← vīḷú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+iṣema ← √iṣ- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+stómaiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +141,4 @@ Zu Agni, der die Opfer fährt, den scharfgezahnten, kräftigen, Lasst streben un
 К мощному (богу) с острыми клыками,  
 К Агни мы хотим устремиться с восхвалениями.
 </details>
+

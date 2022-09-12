@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áṅgirasaḥ ← áṅgiras- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhojā́ḥ ← bhojá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vírūpāḥ ← vírūpa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ásurasya ← ásura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+putrā́saḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vīrā́ḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dádataḥ ← √dā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+maghā́ni ← maghá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+viśvā́mitrāya ← viśvā́mitra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sahasrasāvé ← sahasrasāvá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tirante ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Die freigiebigen Angirasen und Virupa's, die Söhne des Himmels, des Asura Manne
 Давая Вишвамитре подарки,  
 На тысячекратном выжимании сомы продлили себе срок жизни.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+samidhānáḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+santya ← santya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+śúkraśoce ← śukráśocis- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+cikitvā́n ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+daívyam ← daívya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jánam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Entzündet fahr, o guter du, hellleuchtender voll Achtsamkeit Hieher das göttli
 О прозрачнопламенный, привози сюда (богов),  
 (Ты,) знающий божественный род!
 </details>
+

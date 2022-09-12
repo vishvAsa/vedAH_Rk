@@ -15,14 +15,42 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+janaya ← √janⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pratnavát ← pratnavát (invariable)  
+{}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jaritúḥ ← jaritár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śr̥ṇudhí ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+máde-made ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vavakṣitha ← √vakṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+sukŕ̥tvane ← sukŕ̥tvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +156,4 @@ Wie früher will ich eine Lobrede dichten, erhöre den Ruf des Sängers! In jede
 Услышь призыв певца!  
 С каждым опьянением ты возрастаешь для творящего благое.
 </details>
+

@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śatadā́vni ← śatadā́van- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+áśvamedhe ← áśvamedha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhārayatam ← √dhr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ajáram ← ajára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +181,4 @@ Indra und Agni, ihr möget dem hundertfach schenkenden AQvamedha Heldenkraft und
 Господство прекрасных мужей (и) власть  
 Высоко, как нестареющее солнце на небе!
 </details>
+

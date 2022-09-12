@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+manoyújaḥ ← manoyúj- (nominal stem)  
+{case:NOM, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+váhantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+náva ← náva- 1 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+navatíḥ ← navatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yuktā́saḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+candréṇa ← candrá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vā́yo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+yāhí ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +180,4 @@ Lass neunundneunzig fahren dich geschirrte, folgend deinem Wink, Auf lichtem Wag
 О Ваю, приезжай на сверкающей  
 Колеснице на питье выжатого сомы!
 </details>
+

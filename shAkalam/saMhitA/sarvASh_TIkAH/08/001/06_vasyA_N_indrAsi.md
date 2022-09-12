@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vásyān ← vásyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ábhuñjataḥ ← ábhuñjant- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+bhrā́tuḥ ← bhrā́tar- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+chadayathaḥ ← √chand- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+samā́ ← samá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rā́dhase ← rā́dhas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vasutvanā́ya ← vasutvaná- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Mehr bist du als ein Vater mir, als karger Bruder, Indra du; Du, guter, und die 
 (Ты) и мать – вы мне кажетесь равными, о благой,  
 Когда речь идет о благе (и) дарении.
 </details>
+

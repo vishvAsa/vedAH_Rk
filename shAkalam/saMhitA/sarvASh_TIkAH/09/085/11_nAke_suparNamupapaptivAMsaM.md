@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nā́ke ← nā́ka- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+suparṇám ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+upapaptivā́ṁsam ← √pat- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+akr̥panta ← √kr̥p- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+venā́nām ← vená- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+matáyaḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pánipnatam ← √panⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rihanti ← √rih- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śíśum ← śíśu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hiraṇyáyam ← hiraṇyáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kṣā́maṇi ← kṣā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śakunám ← śakuná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sthā́m ← sthā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,14 +167,14 @@ I would now take the pf. part. upapaptivā́ṃsam as explicitly anterior to the
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md">
 <details open><summary><h2>09-12 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these four vss. treat the identification of Soma and the sun and are similar to the very enigmatic Vena hymn, X.123, which is attributed to the same poet, Vena Bhārgava.
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/10-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 The two tr. of vená- in 10b ‘seekers’ and 11b ‘trackers’ respectively should be harmonized. I would now tr. ‘seekers’ for both.
@@ -160,3 +206,4 @@ Den Adler, der zur Himmelskuppel hinfliegt, erflehen viele Lieder der begier'gen
 Молитвы лижут замечательного ребенка,  
 Золотистую птицу, находящуюся на земле.
 </details>
+

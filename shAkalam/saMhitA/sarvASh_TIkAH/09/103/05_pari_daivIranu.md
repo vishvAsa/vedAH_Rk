@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+daívīḥ ← daívī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+svadhā́ḥ ← svadhā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sarátham ← sarátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vāghádbhiḥ ← vāghát- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vāghát ← vāghát- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Vereint mit Indra fahre du nach Götter Sitte, flammender, Unsterblicher, du Bet
 С Индрой на одной колеснице,  
 Очищаемый жрецами, жрец, бессмертный (бог)!
 </details>
+

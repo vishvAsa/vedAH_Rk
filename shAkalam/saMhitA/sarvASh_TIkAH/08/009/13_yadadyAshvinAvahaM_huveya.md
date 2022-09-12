@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+aśvínau ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+huvéya ← √hū- (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:MED}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+pr̥tsú ← pŕ̥t- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+turváṇe ← √tūr(v)- ~ tur- (root)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aśvínoḥ ← aśvín- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śréṣṭham ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +177,4 @@ Wenn heut ich werd' die Ritter flehn um reiche Beute zu empfahn, Wenn in dem Kam
 Если бы в боях, чтобы преодолеть (вражескую) силу,  
 То это лучшая помощь Ашвинов.
 </details>
+

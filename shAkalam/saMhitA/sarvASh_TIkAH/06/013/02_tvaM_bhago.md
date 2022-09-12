@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+iṣé ← íṣ- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+dasmávarcāḥ ← dasmávarcas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kṣayasi ← √kṣā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+párijmā ← párijman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bhū́reḥ ← bhū́ri- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kṣattā́ ← kṣattár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāmásya ← vāmá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +250,4 @@ Du bist uns Bhaga; denn nach Schätzen streb' ich; schönglänzend herrschst du 
 О Агни, словно Митра, высоким законом.  
 Ты раздатчик обильного добра, о бог.
 </details>
+

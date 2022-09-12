@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ānaṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ichántī ← √iṣ- 2 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:ACC, gender:N, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sarámā ← sarámā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ádhvā ← ádhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dūré ← dūrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+jáguriḥ ← jáguri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+parācaís ← parācaís (invariable)  
+{}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+asméhitiḥ ← asméhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kā́ ← ká- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+kā́ ← ká- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+páritakmyā ← páritakmya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ataraḥ ← √tr̥̄- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+kathám ← kathám (invariable)  
+{}
+
+páyāṁsi ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rasā́yāḥ ← rasā́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ Mit welchem Ansuchen ist Sarama hierher gekommen? Der Weg so weit in die Ferne i
 Как перебралась ты через воды Расы?  
 Сарама:
 </details>
+

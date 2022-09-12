@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āpím ← āpí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+manye ← √man- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhrā́taram ← bhrā́tar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sádam ← sádam (invariable)  
+{}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+saparyam ← √sapary- (root)  
+{number:SG, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śukrám ← śukrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yajatám ← yajatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Mir gilt als Vater Agni, als Verwandter, als Bruder Agni, stets mir als Genosse,
 Как лик высокого Агни я почитаю  
 Светлый достойный жертв (лик) Сурьи на небе.
 </details>
+

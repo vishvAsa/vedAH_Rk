@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+devayúḥ ← devayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+asr̥kṣata ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+dhā́rāḥ ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mádhoḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+eṣi ← √i- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rébhan ← √ribh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,7 +138,7 @@ The fem. instr. ayā́opening this final vs. seems to fulfill the same role as e
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/13-14.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/13-14.md">
 <details open><summary><h2>13-14 ...{Loading}...</h2></summary>
 
 The last two extra vss. do not allow a detached 4-syllable unit, because the word boundaries don’t coincide.
@@ -135,3 +169,4 @@ So riesle denn den Göttern zu, ergossen ist des Methes Strom, Von allen Seiten 
 Выпущены потоки меда.  
 Распевая, ты кружишь по цедилке со всех сторон.
 </details>
+

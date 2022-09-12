@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+br̥hatī́ḥ ← br̥hánt- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+dyumát ← dyumánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +158,4 @@ Und riesle uns zum Opferwerk, o Indu, reiche Tränke zu Und glanzbegabte Heldenm
 Очищайся, (принося) высокие услады,  
 Блистательное, о капля, обилие сыновей!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+rocanā́ ← rocaná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+yāsi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ucyasi ← √uc- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+īyase ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+rā́trīm ← rā́trī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ubhayátas ← ubhayátas (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+bhavasi ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhármabhiḥ ← dhárman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +222,4 @@ Auch in die drei Lichträume gehst du, Savitar, hinein und labest an der Sonne S
 И ночь ты окружаешь с обеих сторон,  
 И ты являешься Митрой, о бог, по (своим) особенностям.
 </details>
+

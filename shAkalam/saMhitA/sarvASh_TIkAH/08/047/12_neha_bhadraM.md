@@ -18,16 +18,83 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+rakṣasvíne ← rakṣasvín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+avayaí ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+upayaí ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dhenáve ← dhenú- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+gáve ← gáv- ~ gó- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+śravasyaté ← √śravasy- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vīrā́ya ← vīrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+anehásaḥ ← anehás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+suūtáyaḥ ← suūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +247,4 @@ Nicht glück es hier dem Zauberer, zu kommen nicht, noch wegzugehn; Der Kuh sei 
 Безошибочны ваши поддержки,  
 Хорошо поддерживают ваши поддержки.
 </details>
+

@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+bharádvājāya ← bharádvāja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sapráthaḥ ← sapráthas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sahantya ← sahantya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yacha ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+váreṇyam ← váreṇya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,3 +132,4 @@ Dem Bharadvadscha schenke du, gewalt'ger, ausgedehnten Schutz, O Agni, wünschen
 Обширную защиту, о сильный,  
 О Агни, избранное добро!
 </details>
+

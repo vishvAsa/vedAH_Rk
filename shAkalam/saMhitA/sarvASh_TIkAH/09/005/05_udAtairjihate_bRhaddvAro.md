@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́taiḥ ← ā́tā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jihate ← √hā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+út ← út (invariable)  
+{}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dvā́raḥ ← dvā́r- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hiraṇyáyīḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pávamānena ← √pū- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:MED}
+
+súṣṭutāḥ ← súṣṭuta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +139,4 @@ Aus ihren Rahmen öffnen sich die goldnen Götterthore weit, Gepriesen von dem r
 врата  
 Прекрасно восхваленные Паваманой.
 </details>
+

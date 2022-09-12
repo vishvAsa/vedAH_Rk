@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āyasáḥ ← āyasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hárikeśaḥ ← hárikeśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háriśmaśāruḥ ← háriśmaśāru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávardhata ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+haripā́ḥ ← haripā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+turaspéye ← turaspéya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+árvadbhiḥ ← árvant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+háribhiḥ ← hári- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vājínīvasuḥ ← vājínīvasu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+duritā́ ← duritá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+hárī ← hári- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pā́riṣat ← √pr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Des goldnen Trinker, der bei raschem Trunk erwuchs, mit goldnem Bart und goldnem
 Кто, богатый наградами, с булаными скакунами  
 Переправит через все трудности пару буланых (коней).
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhibhū́taram ← abhibhū́tara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náram ← nár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pŕ̥tanāḥ ← pŕ̥tanā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jajanúḥ ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+rājáse ← √rāj- (root)  
+{case:DAT, number:SG}
+
+sajū́s ← sajū́s (invariable)  
+{}
+
+tatakṣuḥ ← √takṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+āmúrim ← āmúri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+váre ← vára- 2 (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+váriṣṭham ← váriṣṭha- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ójiṣṭham ← ójiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tarasvínam ← tarasvín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tavásam ← tavás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +216,4 @@ Den Helden, der allen Feinden überlegen ist, ihn bereiteten sie und zeugten sie
 Лучшего по силе духа, сокрушителя при отражении (врагов),  
 А также грозного, сильнейшего, могучего, деятельного.
 </details>
+

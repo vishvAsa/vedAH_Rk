@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āpíḥ ← āpí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nítyaḥ ← nítya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́gāṁsi ← ā́gas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kr̥ṇávat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+bhujema ← √bhuj- 2 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+énasvantaḥ ← énasvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yakṣin ← yakṣin- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+stuvaté ← √stu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+várūtham ← várūtha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yandhí ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +244,4 @@ Wenn Varuna, dein Freund, der dir doch lieb ist, und dein Genosse an dir Unrecht
 Да не расплатимся мы как виноватые перед тобой, о настигающий!  
 Даруй же защиту тому, кто восхваляет!
 </details>
+

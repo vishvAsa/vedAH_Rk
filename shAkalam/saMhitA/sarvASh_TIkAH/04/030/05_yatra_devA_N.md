@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥ghāyatáḥ ← √r̥ghāy- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
+áyudhyaḥ ← √yudh- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áhan ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vanū́n ← vanú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +149,7 @@ However, I would now be inclined simply to tr. here “I have taken my share at 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 All three vss. of this tṛca begin with yátra. I take them all as subordinated to vs. 3. Geldner [/Witzel Gotō] and Klein (DGRV I.432) take the main clause for all three vss. to be 6c, but Indra’s help for Etaśa does not seem sufficiently significant to carry the whole tṛca. Geldner (/Witzel Gotō) take all three yátra as ‘where’, not ‘when’, but what location they are thinking of I don’t know.
@@ -149,3 +183,4 @@ Als die ergrimmten Götter du bekämpftest, alle du allein, Und Indra du die Str
 Ты поборол совсем один,  
 (И) разбил, о Индра, преследователей...
 </details>
+

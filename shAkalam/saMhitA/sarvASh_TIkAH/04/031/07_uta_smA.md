@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+āhúḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+sma ← sma (invariable)  
+{}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+maghávānam ← maghávan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śacīpate ← śácīpáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ávidīdhayum ← ávidīdhayu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dā́tāram ← dā́tar- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +144,4 @@ Dich nennt man ja, o Herr der Kraft, mit Recht den immer schenkenden, Den Geber,
 Щедрым дарителем,  
 О господин силы, который не раздумывает.
 </details>
+

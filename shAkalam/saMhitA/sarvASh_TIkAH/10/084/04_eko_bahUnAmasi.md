@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bahūnā́m ← bahú- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īḷitáḥ ← √īḍ- ~ √īḷ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+manyo ← manyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+śiśādhi ← √śā- ~ śī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+víśaṁ-viśam ← víś- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yudháye ← √yudh- (root)  
+{case:DAT, number:SG}
+
+ákr̥ttaruk ← akr̥ttaruc- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yujā́ ← yúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dyumántam ← dyumánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ghóṣam ← ghóṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇmahe ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+vijayā́ya ← vijayá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Du wirst, als einz'ger unter vielen, angefleht; begeistre du zum Kampf, o Manju,
 
 -ru-
 </details>
+

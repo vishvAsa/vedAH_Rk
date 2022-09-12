@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+sū́re ← sū́ra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+údite ← √i- 1 (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánāgāḥ ← ánāgas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvā́ti ← √sū- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +146,4 @@ Was bei der Sonne Aufgang heut der heil'ge Mitra, Arjaman, Bhaga und Savitar ver
 Митра, Арьяман (провозгласят нас) безгрешными,  
 (А) Савитар (нас) побудит (к этому, как и) Бхага,
 </details>
+

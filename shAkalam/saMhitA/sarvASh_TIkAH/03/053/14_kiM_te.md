@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+kī́kaṭeṣu ← kī́kaṭa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇvanti ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+āśíram ← āśír- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+duhré ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+gharmám ← gharmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+tapanti ← √tap- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prámagandasya ← prámaganda- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+védaḥ ← védas- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+naicāśākhám ← naicāśākhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+randhaya ← √randh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Was nützen dir die Kühe bei den Kīkatern, nicht lassen sie Mischtrank ströme
 Принеси нам имущество Прамаганды!  
 Найчашакху, о щедрый, отдай нам во власть!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sátpatiḥ ← sátpati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutambharáḥ ← sutambhará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yájamānasya ← √yaj- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+dhiyā́m ← dhī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+udáñcanaḥ ← udáñcana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+víśvāsām ← víśva- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+bhárat ← √bhr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rásavat ← rásavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śiśriye ← √śrī- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ádhi ← ádhi (invariable)  
+{}
+
+anubruvāṇáḥ ← √brū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+svapán ← √svap- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +236,4 @@ Der Beschützer des Opfernden, der den Soma herbeibringt, ist aller Gebete Euter
 Дойная корова приносит полное сока молоко. Оно смешано.  
 Заучивающий (текст) понимает (это) – не тот, кто спит.
 </details>
+

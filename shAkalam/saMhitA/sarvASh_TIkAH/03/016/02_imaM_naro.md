@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+saścata ← √sac- 1 (root)  
+{number:PL, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+vŕ̥dham ← vŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rā́yaḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śévr̥dhāsaḥ ← śévr̥dha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+dūḍhyàḥ ← dūḷhī́- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+ādabhúḥ ← √dabh- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+śátrum ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvā́hā ← viśvā́hā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +196,4 @@ O Marut-Mannen macht euch diesen Segner hold, in welchem werthe Schätze ruhn; D
 (Те,) что в сражениях превосходят злоумышленников  
 (И) всегда уничтожают врага !
 </details>
+

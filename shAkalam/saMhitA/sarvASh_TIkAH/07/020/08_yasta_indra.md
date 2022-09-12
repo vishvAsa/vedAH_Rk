@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dádāśat ← √dāś- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+nireké ← nireká- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+asyā́m ← ayám (pronoun)  
+{case:LOC, gender:F, number:SG}
+
+cániṣṭhāḥ ← cániṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sumataú ← sumatí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ághnataḥ ← ághnant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nŕ̥pītau ← nŕ̥pīti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+syā́ma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+várūthe ← várūtha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Der liebe Mann, o Indra, der dir huldigt, der ist dir nah, o Donnrer, dein Genos
 Да будем мы самыми угодными (тебе) в этой милости твоей!  
 Да будем мы под защитой, под охраной мужей у (тебя,) не убивающего!
 </details>
+

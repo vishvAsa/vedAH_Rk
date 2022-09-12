@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+tarutā́ ← tarutár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vartā́ ← vartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávatha ← √avⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+márutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vā́jasātau ← vā́jasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+tánaye ← tánaya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+toké ← toká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+dártā ← dártar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyóḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pā́rye ← pā́rya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

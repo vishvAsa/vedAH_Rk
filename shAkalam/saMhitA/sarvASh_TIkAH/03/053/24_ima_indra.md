@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bharatásya ← bharatá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+putrā́ḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+apapitvám ← apapitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cikituḥ ← √cit- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+prapitvám ← prapitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áraṇam ← áraṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hinvánti ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+nítyam ← nítya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ājaú ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jyā̀vājam ← jyā̀vāja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nayanti ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

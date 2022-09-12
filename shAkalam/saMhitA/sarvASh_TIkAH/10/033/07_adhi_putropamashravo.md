@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+putra ← putrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+upamaśravaḥ ← upamaśravas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mitrātitheḥ ← mitrātithi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nápāt ← nápat- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vanditā́ ← vanditár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +146,4 @@ Merke auf, o Upamaçravas, du Sohn, du Spross des Mitrātithi, ich bin ein Vereh
 Внук Митратитхи:  
 Я – восхвалитель твоего отца!
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sahasraśás ← sahasraśás (invariable)  
+{}
+
+ayútāni ← ayúta- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+śatā́ni ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+amúṣya ← asaú (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śā́sataḥ ← √śās- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dívam ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+divāvaso ← divāvasu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yayá ← √yā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +171,4 @@ Bring' du uns tausendfach herbei zehntausend Güter hundertfach; Von jenes Herrs
 Повелевая тем небом,  
 Вы отправились на небо, о Дивавасу.
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+saṁsúde ← √svad- (root)  
+{case:DAT, number:SG}
+
+svādúḥ ← svādú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+mádhumān ← mádhumant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tanvè ← tanū́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+hr̥dé ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +159,4 @@ Er sei dir schmackhaft zum Genuss und honigsüss dem Leibe dein, Dem Herzen sei 
 Сладким для тела твоего!  
 Сома пусть будет благом для сердца твоего!
 </details>
+

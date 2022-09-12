@@ -15,13 +15,32 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+hiraṇyáyena ← hiraṇyáya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dravátpāṇibhiḥ ← dravátpāṇi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dhī́javanā ← dhījávana- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,3 +127,4 @@ Mit eurem goldnen Wagen kommt, mit Hufe schwingendem Gespann, O Treue, wie Gedan
 С быстрокопытными конями,  
 О Насатьи, возбуждающие силу прозрения!
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pápriḥ ← pápri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pārayāti ← √pr̥- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+nāvā́ ← naú- ~ nā́v- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+puruhūtáḥ ← puruhūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+dvíṣaḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +159,4 @@ Er als Fährmann fahr uns über, hochgelobt zum Glück auf Schiffen, Indra über
 Благополучно на ладье, Индра  
 Многопризываемый, через проявления враждебности!
 </details>
+

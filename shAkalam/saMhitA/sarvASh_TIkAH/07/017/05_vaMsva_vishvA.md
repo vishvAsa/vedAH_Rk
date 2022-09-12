@@ -14,12 +14,40 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+pracetaḥ ← prácetas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+váṁsva ← √vanⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vā́ryāṇi ← vā́rya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+adyá ← adyá (invariable)  
+{}
+
+āśíṣaḥ ← āśís- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+satyā́ ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,3 +136,4 @@ Uns schenke alle Güter, o du weiser, erfüllet seien heut uns alle Wünsche.
 Добудь все лучшие дары, о прозорливец!  
 Да сбудутся сегодня наши желания!
 </details>
+

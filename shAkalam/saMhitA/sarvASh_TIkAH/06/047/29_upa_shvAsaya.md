@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śvāsaya ← √śvasⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+jágat ← jágat- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+manutām ← √man- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víṣṭhitam ← √sthā- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dundubhe ← dundubhí- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sajū́s ← sajū́s (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+dávīyaḥ ← dávīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dūrā́t ← dūrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sedha ← √sidh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+áṇvīḥ ← áṇvī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+samaryé ← samaryá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gr̥bhṇánti ← √gr̥bhⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yóṣaṇaḥ ← yóṣan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pā́rye ← pā́rya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+svásāraḥ ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +165,4 @@ Ihn fassen zehn verschwisterte, zehn schlanke Jungfraun in den Kampf Am Tage der
 Десять тоненьких женщин –  
 Сестер в решающий день.
 </details>
+

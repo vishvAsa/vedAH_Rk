@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+káyā ← ká- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+tuvīrávān ← tuvīrávant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vāvr̥dhate ← √vr̥dh- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+ajáḥ ← ajá- 2 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékapāt ← ékapad- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥kvabhiḥ ← ŕ̥kvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+suhávebhiḥ ← suháva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áhiḥ ← áhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+budhnyàḥ ← budhnyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hávīmani ← hávīman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śr̥ṇotu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +196,4 @@ Wie wird der weise, rauschende, mit welchem Lied Brihaspati erquickt, mit welche
 
 -ru-
 </details>
+

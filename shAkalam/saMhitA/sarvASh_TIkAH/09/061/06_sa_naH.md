@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīrávatīm ← vīrávant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ī́śānaḥ ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,7 +137,7 @@ Being purified, bring us wealth and refreshment consisting of heroes, while you 
 Note the echo across the b-c pāda boundary: … íṣam / ī́śānaḥ …
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 There are faint signs of unity in this tṛca: the word pavítram ‘filter’ is found in vss. 4 and 5, and both 4 and 6 have pres. mid. participles derived from √pū ‘purify’ (pávamāna- 4a, punāná- 6a), but since this is a Soma Pavamāna hymn, this is hardly remarkable.
@@ -134,3 +168,4 @@ So bring uns rieselnder herbei, o Soma, heldenreiches Gut Und Labung, herrschend
 Богатство, усладу, заключающуюся в мужах,  
 (Ты,) способный (на это), о сома – со всех сторон!
 </details>
+

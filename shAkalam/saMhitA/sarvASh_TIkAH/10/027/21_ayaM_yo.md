@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+purudhā́ ← purudhā́ (invariable)  
+{}
+
+vájraḥ ← vájra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vívr̥ttaḥ ← √vr̥t- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+avás ← avás (invariable)  
+{}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+púrīṣāt ← púrīṣa- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+parás ← parás (invariable)  
+{}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+avyathī́ ← avyathí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+jarimā́ṇaḥ ← jarimán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+taranti ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Dieser Donnerkeil, der vielfach nach verschiedenen Seiten sich bewegt, befindet 
 
 -ru-
 </details>
+

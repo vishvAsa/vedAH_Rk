@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ábodhi ← √budh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+samídhā ← samídh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+āyatī́m ← √i- 1 (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+uṣā́sam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+ujjíhānāḥ ← √hā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+vayā́m ← vayā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yahvā́ḥ ← yahvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ácha ← ácha (invariable)  
+{}
+
+bhānávaḥ ← bhānú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nā́kam ← nā́ka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sisrate ← √sr̥- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Erweckt ist Agni durch der Menschen Brennholz und Uschas naht ihm, einer Milchku
 Словно юные (птенцы), взлетающие на ветку,  
 Лучи спешат вперед к небосводу.
 </details>
+

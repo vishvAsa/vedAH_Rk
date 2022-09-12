@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+prathasva ← √prathⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ū́rṇamradāḥ ← ū́rṇamradas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+arkā́ḥ ← arká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+śubhra ← śubhrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Breit aus dich, wollenweicher Sitz, dir sind Gesänge angestimmt; Sei, reiner, h
 Будь на пользу, о нарядная  
 (жертвенная солома)
 </details>
+

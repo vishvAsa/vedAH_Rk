@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hvayante ← √hvā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bādhitā́saḥ ← √bādhⁱ- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yā́mani ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+antárikṣe ← antárikṣa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pátantaḥ ← √pat- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gónām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Die Dichter rufen Agni an mit Sprüchen, die Männer ihn, wenn sie im Kampf bedr
 Агни – птицы, летающие по воздуху.  
 Агни обходит, (, охраняя) тысячи коров.
 </details>
+

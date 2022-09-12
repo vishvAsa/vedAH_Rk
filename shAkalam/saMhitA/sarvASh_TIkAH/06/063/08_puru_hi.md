@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+deṣṇám ← deṣṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+purú ← purú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+purubhujā ← purubhuj- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ásakrām ← ásakra- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pinvatam ← √pinv- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+mādhvī ← mā́dhvī- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+stútaḥ ← stút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+suṣṭutíḥ ← suṣṭutí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ágman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+rásāḥ ← rása- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rātím ← rātí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,3 +262,4 @@ Denn viel, vielgebende, sind eurer Gaben; den Milchtrank lasst, der nie versiegt
 Для вас и песни, о сладостные, и прекрасное восхваление,  
 И соки (сомы,) которые последовали за вашим даром.
 </details>
+

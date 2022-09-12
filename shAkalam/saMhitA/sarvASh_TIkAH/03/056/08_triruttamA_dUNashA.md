@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dūṇáśā ← dūṇáśa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rocanā́ni ← rocaná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+uttamā́ ← uttamá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ásurasya ← ásura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rājanti ← √rāj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vīrā́ḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dūḷábhāsaḥ ← dūḷábha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iṣirā́ḥ ← iṣirá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tā́vānaḥ ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+trís ← trís (invariable)  
+{}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Dreifach die höchsten schwer erreichten Räume, drei Helden auch des höchsten 
 Преданные закону, деятельные боги,  
 Которых трудно провести, пусть будут трижды в день на месте жертвенных раздач!
 </details>
+

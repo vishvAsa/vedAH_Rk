@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+adābhyā ← ádābhya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+kā́vyebhiḥ ← kā́vya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dyumát ← dyumánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +140,4 @@ Mit Seherkraft, untrügliche, kommt leuchtend her, o Varuna Und Mitra, zu dem So
 Приезжайте, о Варуна, блистательно,  
 О Митра, на питье сомы!
 </details>
+

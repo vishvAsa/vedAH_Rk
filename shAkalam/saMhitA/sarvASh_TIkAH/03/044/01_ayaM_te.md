@@ -16,14 +16,69 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+haryatáḥ ← haryatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+háribhiḥ ← hári- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+háribhiḥ ← hári- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+juṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+háritam ← hárita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tiṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Es sei dir dieser holde Saft von goldnen Steinen ausgepresst, Mit goldnen Rossen
 О Индра, наслаждаясь, приезжай к нам на (своих) золотистых конях!  
 Взойди на золотистую колесницу!
 </details>
+

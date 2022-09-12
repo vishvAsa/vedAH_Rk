@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pávamānāsaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ácha ← ácha (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+ráthāḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sātím ← sātí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yayuḥ ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+ávyam ← ávya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sutā́ḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ácha ← ácha (invariable)  
+{}
+
+harítaḥ ← harít- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hitvī́ ← √hā- 2 (root)  
+{}
+
+vavrím ← vavrí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Zu Indra eilten diese Somatränke, die flammenden, wie Wagen hin zur Beute, Durc
 Выжатые, они проходят через цедилку из овечьей шерсти,  
 Золотистые, оставив (свою) оболочку ради дождя.
 </details>
+

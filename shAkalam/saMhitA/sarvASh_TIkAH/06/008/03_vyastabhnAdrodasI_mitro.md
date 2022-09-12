@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádbhutaḥ ← ádbhuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+astabhnāt ← √stambhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ví ← ví (invariable)  
+{}
+
+akr̥ṇot ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+antarvā́vat ← antarvā́vat (invariable)  
+{}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+avartayat ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+cármaṇī ← cárman- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+dhiṣáṇe ← dhiṣáṇā- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+adhatta ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+vaiśvānaráḥ ← vaiśvānará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣṇyam ← vŕ̥ṣṇya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Den Himmel stützte und die Erd' er wunderbar, der Freund, und hüllte durch das
 Два мира он развернул, как две шкуры.  
 Вайшванара взял себе всю мужскую силу.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+airata ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śravasyā́ ← śravasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahaya ← √mahay- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+samaryé ← samaryá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vasiṣṭha ← vásiṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tatā́na ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ī́vataḥ ← ī́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+upaśrotā́ ← upaśrotár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vácāṁsi ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ Empor schon steigen preisend die Gebete, den Indra preise bei dem Fest, Vasischt
 Кто с силой своей протянулся через все (миры),  
 (Тот) услышит речи (певца,) подобного мне.
 </details>
+

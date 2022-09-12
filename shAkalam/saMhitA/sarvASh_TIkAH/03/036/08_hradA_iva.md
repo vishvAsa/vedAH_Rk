@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hradā́ḥ ← hradá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+kukṣáyaḥ ← kukṣí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+somadhā́nāḥ ← somadhā́na- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ī ← ī (invariable)  
+{}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vivyāca ← √vyac- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ánnā ← ánna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́śa ← √aśⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+avr̥ṇīta ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+jaghanvā́n ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +208,7 @@ As Geldner also comments, the chronological sequence of pāda d seems reversed, 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 The next three vss. ring changes on the theme of large bodies of water and large containers of soma.
@@ -182,3 +240,4 @@ Sein Bauch voll Soma gleicht dem Meeresbecken, und in sich fasst er viel Gebräu
 Когда Индра поглотил первые кушанья,  
 Убив Вритру, он выбрал себе сому.
 </details>
+

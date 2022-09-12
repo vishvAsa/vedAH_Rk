@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vidā́ḥ ← √vid- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+viṣyán ← √sā- ~ si- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+arcínaḥ ← arcín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āyatyā́ḥ ← √i- 1 (root)  
+{case:ABL, gender:F, number:SG, tense:PRS, voice:ACT}
+
+guḥ ← √gā- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+avr̥ta ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+gāt ← √gā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
+vrajínīḥ ← vrajín- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+āvar ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mā́nuṣīḥ ← mā́nuṣa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ Durch Sprüche lösend klug des Himmels Felsen befreite er die Küh' im Stall un
 Она открыла находящихся в загоне (коров). Взошло солнце.  
 Бог раскрыл врата человеческие.
 </details>
+

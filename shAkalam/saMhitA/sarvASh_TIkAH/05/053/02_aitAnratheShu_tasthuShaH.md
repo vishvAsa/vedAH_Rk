@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+etā́n ← eṣá (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+rátheṣu ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+tasthúṣaḥ ← √sthā- (root)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+śuśrāva ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yayuḥ ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+āpáyaḥ ← āpí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kásmai ← ká- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+sasruḥ ← √sr̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sudā́se ← sudā́s- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+íḷābhiḥ ← íḷā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sahá ← sahá (invariable)  
+{}
+
+vr̥ṣṭáyaḥ ← vr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Als sie bestiegen ihr Gefährt, wer hörte sie? wie fuhren sie? Wer war der Reic
 За каким щедрым (человеком) устремились они как союзники  
 Вместе с каплями дождя – жертвенными усладами?
 </details>
+

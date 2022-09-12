@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+góparīṇasā ← góparīṇas- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mandantu ← √mand- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+rā́dhase ← rā́dhas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+gauráḥ ← gaurá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+piba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sáraḥ ← sáras- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ Hier soll'n mit milchgefülltem Trank sie dich zu reichem Lohn erfreun, Den See 
 Пропитанные молоком (соки) на великое дарение!  
 Выпей, как бык, озеро!
 </details>
+

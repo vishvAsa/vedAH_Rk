@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásvapnajaḥ ← ásvapnaj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suśévāḥ ← suśéva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+taráṇayaḥ ← taráṇi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśramiṣṭhāḥ ← áśramiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+átandrāsaḥ ← átandra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+avr̥kā́ḥ ← avr̥ká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+niṣádya ← √sad- (root)  
+{non-finite:CVB}
+
+pāyávaḥ ← pāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sadhryàñcaḥ ← sadhryàñc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+amūra ← ámūra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāntu ← √pā- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,8 +163,6 @@ genre M
 एवंस्वभावास्ते तादृशाः हे अग्ने तव पायवः जगत्पालनशीलाः रश्मयः । 'कृपावाजि' इत्युण्प्रत्ययः । सध्रियञ्चस्सहाञ्चन्तः सम्भूयकारिणः । 'सहस्य सध्रिः' । निषद्य अस्मद्यज्ञे निषीदन्तो भूत्वा सर्वे अस्मद्यज्ञमागत्य त्वयि निषण्णास्त्वामुद्दीपयन्तः नः अस्मान् पान्तु रक्षन्तु । हे अमूर अमोहनशील । मुर्छा मोहसमुच्छ्राययोः, क्विपि 'राल्लोपः', ततो मत्वर्थीयोऽप्रत्ययः । मोहनशीलो मूरः ततोन्योऽमूरः । यद्वा - मूङ् बन्धने, औणादिको रक् । अमूर अबन्धनीय अनिग्राह्य । यद्वा - अमतेरूरन् प्रत्ययः । अमूरः अप्रतिहतगतिः ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -168,3 +212,4 @@ Die schlummerlosen, eilenden, getreuen, sehr holden, die nicht rasten, noch erm�
 Эти защитники твои, о Агни проницательный,  
 Усевшись вместе, пусть защитят нас!
 </details>
+

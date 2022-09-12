@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+matáyaḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+svarvídaḥ ← svarvíd- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+sadhrī́cīḥ ← sadhryàñc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+uśatī́ḥ ← √vaś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jánayaḥ ← jáni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svajante ← √svaj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yáthā ← yáthā (invariable)  
+{}
+
+maghávānam ← maghávan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+máryam ← márya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śundhyúm ← śundhyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Dem Indra jauchzen alle meine Lieder zu nach gleichem Ziel, nach Glück verlange
 Они обнимают щедрого, как жены (своего) мужа,  
 Как нарядного молодого мужчину – для (получения) помощи.
 </details>
+

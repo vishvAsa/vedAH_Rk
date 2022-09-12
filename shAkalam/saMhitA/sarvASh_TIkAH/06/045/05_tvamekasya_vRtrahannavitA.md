@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ékasya ← éka- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dváyoḥ ← dvá- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+īdŕ̥śe ← īdŕ̥ś- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +153,4 @@ Du bist es Vritratödter ja, der einem und der zweien hilft, Auch einem solchen 
 Двоих поддерживаешь,  
 А также такого, как мы.
 </details>
+

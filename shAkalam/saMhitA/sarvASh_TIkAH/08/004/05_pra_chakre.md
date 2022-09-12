@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakre ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+babháñja ← √bhañj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+manyúm ← manyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pr̥tanāyávaḥ ← pr̥tanāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yaho ← yahú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+vr̥kṣā́ḥ ← vr̥kṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yemire ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +207,4 @@ Durch Kraft verschaffte er sich Kraft und brach der Feinde Wuth mit Macht; Vor d
 Все желающие сразиться, о юный Индра,  
 Оцепенели перед тобой, как деревья.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvaryúbhiḥ ← adhvaryú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pañcábhiḥ ← páñca- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+níhitam ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rakṣante ← √rakṣⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+véḥ ← ví- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ajuryā́ḥ ← ajuryá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+madanti ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prā́ñcaḥ ← prā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ukṣáṇaḥ ← ukṣán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+gúḥ ← √gā- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+vratā́ ← vratá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Die sieben Priester [oder Sänger] mit den fünf Gehülfen bewachen des Vogels [
 Обращенные на восток, радуются нестареющие быки:  
 Ведь боги движутся по заветам богов.
 </details>
+

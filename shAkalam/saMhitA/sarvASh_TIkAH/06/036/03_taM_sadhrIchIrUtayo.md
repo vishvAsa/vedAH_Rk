@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sadhrī́cīḥ ← sadhryàñc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vŕ̥ṣṇyāni ← vŕ̥ṣṇya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+niyútaḥ ← niyút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+paúṁsyāni ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+saścuḥ ← √sac- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+uktháśuṣmāḥ ← uktháśuṣma- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+uruvyácasam ← uruvyácas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśanti ← √viś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Mit Indra gingen Labungen im Bunde, wie Wagenzüge Stier- und Manneskräfte; Von
 Словно река в море, усиленные гимнами  
 Хвалебные песни входят в огромного.
 </details>
+

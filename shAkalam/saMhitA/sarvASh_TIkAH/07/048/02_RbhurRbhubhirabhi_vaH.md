@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+r̥bhúbhiḥ ← r̥bhú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+r̥bhúḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+śávāṁsi ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+vibhúbhiḥ ← vibhú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+víbhvā ← víbhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+avatu ← √avⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vā́jaḥ ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jasātau ← vā́jasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+taruṣema ← √taruṣy- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yujā́ ← yúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +206,4 @@ Sei Ribhu mit den Ribhu's, ihr die unsern, mit Vibhu's Vibhvan und mit Kraft die
 Пусть поможет нам Ваджа в завоевании награды!  
 Пусть одолеем мы врага с Индрой-союзником!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápratītaḥ ← ápratīta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhánāni ← dhána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jayati ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+prátijanyāni ← prátijanya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sájanyā ← sájanya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+avasyáve ← avasyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kr̥ṇóti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+várivaḥ ← várivas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+avanti ← √avⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+brahmáṇe ← brahmán- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +198,7 @@ The king who makes wide space for the Formulator seeking aid, him do  the gods a
 The shift from divine to human just noted above in vss. 7-8 comes full circle in this vs. The human Formulator is, it seems, in need of aid from the king (avasyáve … brahmáṇe), but if the king provides this aid he himself receives aid from the gods (tám avanti devā́ḥ).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/09-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
 This last section consisting of two vss. introduces Indra by name for the first time in the hymn. The two divine figures are carefully balanced, as the address to them shows: vs. 10 opens with the name Indra in a reverse Vāyav Indraś ca construction, índraś ca … bṛhaspate, while two independent vocatives open vs. 11, this time with Bṛhaspati first: bṛhaspata indra.
@@ -183,3 +235,4 @@ Unbesiegt gewinnt er alle Schätze der Gegner und den Verwandten; den König, we
 Царю, который создает широкий выход  
 Для брахмана, ищущего помощь, помогают боги.
 </details>
+

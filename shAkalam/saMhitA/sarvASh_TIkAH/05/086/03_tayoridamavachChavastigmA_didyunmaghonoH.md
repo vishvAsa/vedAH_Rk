@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámavat ← ámavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+táyoḥ ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+didyút ← didyút- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+maghónoḥ ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+tigmā́ ← tigmá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+drúṇā ← dā́ru- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+gábhastyoḥ ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+práti ← práti (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+īṣate ← √īṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+vr̥traghné ← vr̥trahán- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +190,4 @@ Denn sie besitzen starke Kraft und scharfen Blitz, die mächtigen; Denn durch de
 (С рукояткой) из дерева, оно возвращается в руки  
 (Господина) коров, убийцы Вритры.
 </details>
+

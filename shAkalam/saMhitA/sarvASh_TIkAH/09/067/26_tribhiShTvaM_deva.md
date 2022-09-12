@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tribhíḥ ← trí- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+dhā́mabhiḥ ← dhā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+várṣiṣṭhaiḥ ← várṣiṣṭha- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dákṣaiḥ ← dákṣa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+punīhi ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,7 +141,7 @@ Initial tribhíḥ matches initial ubhā́bhyām in 25a. Since ubhā́bhyām was
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
 <details open><summary><h2>22-27 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these vss. are a self-contained purificatory spell, with all vss. ending with an act. impv. belonging to the pres. punā́ti: all 2nd sg. punīhi (naḥ) except 22c punātu (naḥ). The means of purification is, in the first instance, the filter (pavítra-), which of course literally means ‘instrument (-tra-) of purification’. 
@@ -140,3 +174,4 @@ Durch die drei höchsten Satzungen Gott Savitar, o Soma du, Durch Weisheit lautr
 Самыми высокими, о сома, формами,  
 О Агни, силами действия очисть нас!
 </details>
+

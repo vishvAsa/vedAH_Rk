@@ -16,14 +16,57 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvarásya ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+iṣkartā́ram ← iṣkartár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prácetasam ← prácetas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kṣáyantam ← √kṣā- 2 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rā́dhasaḥ ← rā́dhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mahī́m ← máh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rātím ← rātí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+subhágām ← subhága- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vāmásya ← vāmá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dádhāsi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sānasím ← sānasí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +181,4 @@ Den weisen preis' ich, der das Opfer wohl versieht und über grossen Lohn verfü
 Ты наделяешь желанным подарком, приносящим счастье,  
 Великой жертвенной усладой, богатством, приносящим добычу.
 </details>
+

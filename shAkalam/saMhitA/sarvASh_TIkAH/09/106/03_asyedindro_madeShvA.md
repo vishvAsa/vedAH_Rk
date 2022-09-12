@@ -15,14 +15,57 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+mádeṣu ← máda- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+grābhám ← grābhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥bhṇīta ← √gr̥bhⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+sānasím ← sānasí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apsujít ← apsujít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +175,7 @@ bharat conjoined by ca (see Klein, DGRV I.233). The published translation takes 
 124), as general presents describing a regularly recurring situation: Indra’s behavior when(ever) he is under the influence of soma. Hence “he grabs … and he carries …” On the phrase sám apsujít, which constitutes an independent 4-syl. pāda in all 3 occurrences (here, VIII.13.2, VIII.36.1-6), see comm. ad VIII.13.2 and Scarlatta’s views cited there.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 All three vss. in this tṛca contain final 4-syllable sequences that could be syntactically distanced from what precedes, hence a likely 8 8 / 8 4 Uṣṇih type (so also Oldenberg). In vs. 1 this piece is svarvídaḥ, the signature word that recurs in the same metrical position in 4 (as svarvídam) and 9.
@@ -165,3 +208,4 @@ Es thue nun von ihm berauscht, Indra den segensreichen Griff, Und trage, siegrei
 Пусть возьмет взятку, обеспечивающую захват,  
 И пусть держит мужественную ваджру, (этот) победитель вод.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ca ← ca (invariable)  
+{}
+
+ghásaḥ ← √ghas- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+puroḷā́śam ← puroḷā́ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+joṣáyāse ← √juṣ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+vadhūyúḥ ← vadhūyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yóṣaṇām ← yóṣaṇā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +157,4 @@ Und unsern Opferkuchen iss, an unserm Lied erquicke dich, Wie an der Braut der B
 И наслаждайся нашими песнями  
 Словно жаждущий жен – юными женами!
 </details>
+

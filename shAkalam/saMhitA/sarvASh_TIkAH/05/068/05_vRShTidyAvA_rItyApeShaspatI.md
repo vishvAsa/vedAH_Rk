@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+rītyā̀pā ← rītyàp- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vr̥ṣṭídyāvā ← vr̥ṣṭídyav- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dā́numatyāḥ ← dā́numant- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+iṣáḥ ← íṣ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+pátī ← páti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+āśāte ← √naś- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gártam ← gárta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +140,4 @@ Die Herrn des thaubegabten Trunks, mit Regenhimmel, Wasserstrom Gelangten zu dem
 Два повелителя услады, приносящей дары,  
 Они достигли высокого трона.
 </details>
+

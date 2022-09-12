@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+ráthāḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svānā́saḥ ← svāná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+árvantaḥ ← árvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śravasyávaḥ ← śravasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+akramuḥ ← √kramⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ Wie Wagen rasselnd eilten sie, wie Renner strebend nach dem Ziel, Die Soma's zu 
 Словно грохочущие колесницы,  
 Словно скакуны, ищущие славы.
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+pūṣṇáḥ ← pūṣán- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+vayā́m ← vayā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥kṣásya ← vr̥kṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rabhāmahe ← √rabh- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +171,4 @@ Wir reissen an uns diese Gunst des Puschan und des Indra nun, Wie von dem Baume 
 И Индры мы хватаемся,  
 Как за ветвь дерева.
 </details>
+

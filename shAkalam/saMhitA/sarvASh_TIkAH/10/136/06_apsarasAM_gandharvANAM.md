@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+apsarásām ← apsarás- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+gandharvā́ṇām ← gandharvá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+cáran ← √carⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+cáraṇe ← cáraṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mr̥gā́ṇām ← mr̥gá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+keśī́ ← keśín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kétasya ← kéta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+madíntamaḥ ← madíntama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svādúḥ ← svādú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +163,4 @@ Auf der Apsarasen, der Gandharven, der wilden Thiere Bahn wandernd ist der Langh
 Аскет понимает (их) волю:  
 Он их милый, самый привлекательный друг.
 </details>
+

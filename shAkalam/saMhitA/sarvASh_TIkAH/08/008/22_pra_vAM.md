@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+prá ← prá (invariable)  
+{}
+
+stómāḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvr̥ktáyaḥ ← suvr̥ktí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vardhantu ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+púrutrā ← purutrā- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vŕ̥trahantamā ← vr̥trahántama- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+bhūtam ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+puruspŕ̥hā ← puruspŕ̥h- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +186,4 @@ Die Lieder mögen euch erfreun, der dargebrachte Lobgesang, O Ritter, Feindverti
 Многоспасающие, лучше всех убивающие врагов,  
 Пусть будете вы для нас многожеланными!
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+devayántaḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+havante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sárasvatīm ← sárasvant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sárasvatīm ← sárasvant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tāyámāne ← √tan- (root)  
+{case:LOC, gender:M, number:SG, tense:PRS, voice:PASS}
+
+ahvayanta ← √hvā- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+sárasvatīm ← sárasvant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sukŕ̥taḥ ← sukŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vā́ryam ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +182,4 @@ Sarasvati, sie rufen an die Frommen, Sarasvati, wenn sie das Opfer weben, Sarasv
 Сарасвати позвали свершители благих деяний,  
 Сарасвати пусть даст почитателю избранный дар!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+sahasyàm ← sahasyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rāyáskāmaḥ ← rāyáskāma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+staut ← √stu- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+viśvápsnyasya ← viśvápsnya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+paprathat ← √prathⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ So hat Vasischtha den gewalt'gen Agni gerühmt voll Lust nach allgestalt'gem Rei
 Пусть он распространит для нас жертвенную усладу, богатство, награду!  
 Защищайте вы нас всегда своими милостями!
 </details>
+

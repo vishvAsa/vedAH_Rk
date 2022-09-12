@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asvaran ← √svar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+hinvatī́ḥ ← √hi- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+jāmáyaḥ ← jāmí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ājā́ ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vípram ← vípra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vivásvataḥ ← vivásvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +147,7 @@ In IX the figure Vivasvant seems to be the prototype sacrificer (see Oldenberg a
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 No particular sign of cohesion either internal or external.
@@ -142,3 +176,4 @@ Die sieben Schwestern rauschten dir entsandt mit den Gebeten zu, Dir Weisem auf 
 
 -ru-
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+śúṣmaiḥ ← śúṣma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vr̥trahábhiḥ ← vr̥trahán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vr̥trahaṇā ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yātám ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ákavebhiḥ ← ákava- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rā́dhobhiḥ ← rā́dhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+bhavatam ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+uttamébhiḥ ← uttamá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Mit siegverleihnden Kräften, Feindbesieger, o Indra-Agni, naht euch durch Gebet
 Вы двое с полноценными дарами, о Индра,  
 О Агни, будьте у нас – с высшими! .
 </details>
+

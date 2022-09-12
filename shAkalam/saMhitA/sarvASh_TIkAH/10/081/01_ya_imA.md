@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+júhvat ← √hu- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ásīdat ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āśíṣā ← āśís- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ichámānaḥ ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ávarān ← ávara- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prathamachát ← prathamachád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viveśa ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +216,4 @@ Der weise Priester, der in alle Wesen sich niederliess als unser Vater opfernd, 
 Он, ища молитвой богатство,  
 Проник в последующие (поколения), скрывая первые.
 </details>
+

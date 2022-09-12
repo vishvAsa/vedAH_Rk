@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+varṣánirṇijaḥ ← varṣánirṇij- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́tatviṣaḥ ← vā́tatviṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+supéśasaḥ ← supéśas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+súsadr̥śaḥ ← súsadr̥ś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yamā́ḥ ← yamá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arepásaḥ ← arepás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aruṇā́śvāḥ ← aruṇā́śva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+piśáṅgāśvāḥ ← piśáṅgāśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+prátvakṣasaḥ ← prátvakṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+urávaḥ ← urú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +209,4 @@ Die Maruts windschnell, eingehüllt in Regenkleid, wie neuvermählte schön zu s
 С золотистыми конями, с алыми конями, беспорочные,  
 Выдающейся силы, величием широкие, словно небо:
 </details>
+

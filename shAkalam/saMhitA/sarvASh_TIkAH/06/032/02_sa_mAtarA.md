@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kavīnā́m ← kaví- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mātárā ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávāsayat ← √vas- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ruját ← √ruj- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ŕ̥kvabhiḥ ← ŕ̥kvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+svādhī́bhiḥ ← svādhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vāvaśānáḥ ← √vaś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+asr̥jat ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+nidā́nam ← nidā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+usríyāṇām ← usríya- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +212,4 @@ Er machte hell der weisen Götter Aeltern durch Sonnenlicht, zerbrach den Fels, 
 Стремясь вместе с благожелательными певцами,  
 Он отпустил привязь у коров.
 </details>
+

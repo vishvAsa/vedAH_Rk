@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+antár ← antár (invariable)  
+{}
+
+aśániḥ ← aśáni- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pátāti ← √pat- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+tigmā́ ← tigmá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+kásmin ← ká- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+muhuké ← muhuká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arya ← aryá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhávāti ← √bhū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ghorā́ ← ghorá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sámr̥tiḥ ← sámr̥ti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+bodhi ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sma ← sma (invariable)  
+{}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +236,4 @@ Wenn dein Geschoss, das scharfe, durch die Luft fliegt auf jeden Mann, o Held, i
 Если будет ужасное столкновение, о благородный,  
 То будь же тогда охранителем нашего тела!
 </details>
+

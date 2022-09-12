@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ahyan ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+medháyā ← medhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vedhā́m ← vedhás- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dyávi ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pávamānam ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+bhū́ridhāyasam ← bhū́ridhāyas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dharṇasím ← dharṇasí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +155,4 @@ Den Ordner, der am Himmel flammt, ihn trieben sie mit Andacht an, Den starken, w
 С помощью мудрости поторопили на небо,  
 Крепкого, кормящего многих.
 </details>
+

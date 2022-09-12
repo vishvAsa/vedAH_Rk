@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dayate ← √dā- 3 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+saniṣyán ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:FUT, voice:ACT}
+
+dā́śat ← √dāś- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+urugāyā́ya ← urugāyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+víṣṇave ← víṣṇu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+satrā́cā ← satrā́ñc- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yájāte ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+āvívāsāt ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT, mood:DES}
+
+etā́vantam ← etā́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náryam ← nárya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Der Mann, der Gut begehrt, bereut es nimmer, wenn Vischnu, dem weitschreitenden,
 Кто жертвует первым с сосредоточенным духом,  
 (И кто) хотел бы покорить бы столь мужественного.
 </details>
+

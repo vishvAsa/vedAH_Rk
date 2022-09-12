@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nr̥patī ← nr̥páti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+voḷhā́ ← voḷhár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+trivandhuráḥ ← trivandhurá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+usráyāmā ← usráyāman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásumān ← vásumant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+úpa ← úpa (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+jígāti ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+viśvápsnyaḥ ← viśvápsnya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Mit diesem Wagen, der euch fährt, o Fürsten, der früh erscheint, dreisitzig, 
 Приезжайте на ней к нам, о Насатьи,  
 Когда к вам направляется принимающий разные формы.
 </details>
+

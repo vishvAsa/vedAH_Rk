@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+māyínaḥ ← māyín- (nominal stem)  
+{case:NOM, number:PL}
+
+minanti ← √mī- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+dhruvā́ṇi ← dhruvá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vratā́ ← vratá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+adrúhā ← adrúh- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vedyā́bhiḥ ← vedyā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nináme ← √nam- 1 (root)  
+{case:DAT, number:SG}
+
+párvatāḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tasthivā́ṁsaḥ ← √sthā- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Nicht Zauberer, nicht Weise stören diese, die ersten festen Satzungen der Gött
 Ни обе половины вселенной, не терпящие обмана, (не провести) с помощью (разных) знаний,  
 Ни горы, стоящие (прямо), не согнуть.
 </details>
+

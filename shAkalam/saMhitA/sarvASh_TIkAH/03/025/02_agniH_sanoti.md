@@ -15,13 +15,59 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sanoti ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+vīryā̀ṇi ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+amŕ̥tāya ← amŕ̥ta- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+bhū́ṣan ← √bhūṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sanóti ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+purukṣo ← purukṣú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +194,4 @@ Der kund'ge Agni schenket Heldenkräfte, verleiht Genuss der Götterwelt geschä
 Он добывает награду, готовясь к бессмертию.  
 Привези нам сюда богов, о обильный скотом!
 </details>
+

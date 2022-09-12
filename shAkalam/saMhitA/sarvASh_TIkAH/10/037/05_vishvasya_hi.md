@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+préṣitaḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+rákṣasi ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áheḷayan ← áheḷayant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+svadhā́ḥ ← svadhā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+uccárasi ← √carⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+adyá ← adyá (invariable)  
+{}
+
+sūrya ← sū́rya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+upabrávāmahai ← √brū- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maṁsīrata ← √man- 1 (root)  
+{number:PL, person:3, mood:OPT, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Denn ausgesandt bewachst du jedes Menschen Werk, nach deiner Weise gehst du ohne
 С чем сегодня, о Сурья, мы обращаемся к тебе,  
 Пусть этот замысел наш одобрят боги!
 </details>
+

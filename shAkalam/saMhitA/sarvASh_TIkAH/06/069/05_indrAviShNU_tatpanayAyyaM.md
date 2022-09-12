@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índrāviṣṇū ← índrāvíṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+panayā́yyam ← panayā́yya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+cakramāthe ← √kramⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:MED}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ákr̥ṇutam ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+várīyaḥ ← várīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áprathatam ← √prathⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +193,4 @@ O Indra-Vischnu, das ist hoch zu preisen, dass weiten Raum ihr schuft im Somarau
 Вы сделали воздушное пространство шире,  
 Вы распространили просторы, чтобы (мы) жили.
 </details>
+

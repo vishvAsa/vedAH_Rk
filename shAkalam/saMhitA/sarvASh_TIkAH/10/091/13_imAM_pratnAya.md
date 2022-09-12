@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+návīyasīm ← návīyaṁs- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pratnā́ya ← pratná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śr̥ṇótu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+uśaté ← √vaś- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vocéyam ← √vac- (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+ántarā ← ántara- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhūyā́ḥ ← √bhū- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+hr̥dí ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+nispŕ̥śe ← √spr̥ś- (root)  
+{case:DAT, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jāyā́ ← jāyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pátye ← páti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+suvā́sāḥ ← suvā́sas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uśatī́ ← √vaś- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Dem alten will ich singen dieses neuste Lob, ihm, der es gern hat, möge er erh�
 Да будет это у него в сердце, чтобы приласкать (его),  
 Как любящая жена в прекрасной одежде – (своего) мужа.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ānaśuḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+r̥bhávaḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+apásaḥ ← apás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dadhanvire ← √dhanv- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+mánoḥ ← mánu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nápātaḥ ← nápat- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+amr̥tatvám ← amr̥tatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+īrire ← √īr- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+saudhanvanā́saḥ ← saudhanvaná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śámībhiḥ ← śámī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sukŕ̥taḥ ← sukŕ̥t- (nominal stem)  
+{case:NOM, number:PL}
+
+sukr̥tyáyā ← sukr̥tyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+viṣṭvī́ ← √viṣ- 2 (root)  
+{non-finite:CVB}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Des Indra Freundschaft hat die Ribhuschar erlangt, des Manu Enkel regten sich in
 Сыновья Судханвана приобрели бессмертие,  
 Потрудившись изо (всех) сил, способные созидатели, - с помощью способности к созиданию.
 </details>
+

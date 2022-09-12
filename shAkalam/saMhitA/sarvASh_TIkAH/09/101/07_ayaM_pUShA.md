@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arṣati ← √arṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́manaḥ ← bhū́man- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+akhyat ← √khyā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +162,7 @@ bhū́man- generally means ‘earth’ (as opposed to heaven) or ‘world’. He
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Again, quite straightforward and not particularly cohesive.
@@ -151,3 +194,4 @@ Als Nährer, Spender, reicher Schatz strömt Soma hell entflammt dahin, Als Herr
 Господин всего мироздания  
 Стал вглядываться в обе половины вселенной.
 </details>
+

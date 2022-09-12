@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+nápātam ← nápat- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrjáḥ ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pāvakáśociṣam ← pāvakáśocis- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+svadhvaré ← svadhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yajñé ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +149,4 @@ Den Sohn der Stärke rufe ich, den hellentflammten Agni an Bei diesem opferreich
 Агни с чистым пламенем  
 На это жертвоприношение с прекрасным обрядом.
 </details>
+

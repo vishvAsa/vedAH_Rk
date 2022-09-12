@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+áhabhiḥ ← áhar ~ áhan- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ākenipā́saḥ ← ākenipá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dávidhvataḥ ← √dhū- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śukrám ← śukrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tanvántaḥ ← √tan- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuyujānáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ánu ← ánu (invariable)  
+{}
+
+cetathaḥ ← √cit- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Die Sonne mit geschirrten Rossen eilet schon, die huldvoll schützend alle Tage 
 И солнце запрягает коней и выезжает.  
 Вы двое по своей природе знаете все пути.
 </details>
+

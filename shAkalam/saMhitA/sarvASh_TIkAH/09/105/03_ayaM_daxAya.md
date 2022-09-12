@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dákṣāya ← dákṣa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sā́dhanaḥ ← sā́dhana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śárdhāya ← śárdha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vītáye ← vītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+mádhumattamaḥ ← mádhumattama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Er der zur Kraft Gedeihen gibt, er ist der Marutschar zum Mahl, Und er den Gött
 Он (служит) для приглашения толпы (Марутов),  
 Он выжат, как самый богатый медом для богов.
 </details>
+

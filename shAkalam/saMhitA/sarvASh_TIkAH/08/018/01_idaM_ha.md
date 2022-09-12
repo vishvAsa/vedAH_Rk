@@ -15,14 +15,45 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+bhikṣeta ← √bhaj- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED, mood:DES}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ādityā́nām ← ādityá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ápūrvyam ← ápūrvya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sávīmani ← sávīman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ Jetzt flehe hier der Sterbliche die Güte der Aditja's an, Die grösser sind als
 Милости пусть попросит смертный,  
 О небывалой – по побуждению Адитьев!
 </details>
+

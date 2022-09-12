@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áva ← áva (invariable)  
+{}
+
+cinvatī́ ← √ci- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+maghónī ← maghávan- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+syū́ma ← syū́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pátnī ← pátnī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svásarasya ← svásara- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jánantī ← √janⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+subhágā ← subhága- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sudáṁsāḥ ← sudáṁsas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ántāt ← ánta- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+paprathe ← √prathⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +237,4 @@ Auflösend gleichsam ihren Gurt erscheint sie, die prächt'ge Röthe, Herrin sie
 Порождая свет, счастливая, искусная,  
 Она распространилась до края неба и земли.
 </details>
+

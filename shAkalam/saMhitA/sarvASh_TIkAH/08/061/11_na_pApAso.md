@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+manāmahe ← √man- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+pāpā́saḥ ← pāpá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+árāyāsaḥ ← árāya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jáḷhavaḥ ← jáḷhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+sácā ← sácā (invariable)  
+{}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇávāmahai ← √kr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ Nicht zeigen wir als schlechte uns, als gabenlos und blöden Sinns; Den starken 
 Когда сейчас возле выжатого (сомы) Индру-быка  
 Мы хотим сделать (своим) другом.
 </details>
+

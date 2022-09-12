@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mádantaḥ ← √mad- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+medháyā ← medhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+áśvā ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+cakrúḥ ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+suyújā ← suyúj- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yé ← yá- (pronoun)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dráviṇāni ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+póṣam ← póṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+dhattá ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kṣemayántaḥ ← √kṣemay- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Die kunstvoll ihr dem Indra schuft die Rosse, die leichtgeschirrten, lichten, Sp
 (Пусть дадут) они нам процветание богатства, имущество!  
 О Рибху, заключите (с нами) договор, как те, кто хочет мира!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tirás ← tirás (invariable)  
+{}
+
+āṅgūṣáḥ ← āṅgūṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jáneṣu ← jána- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+maghavānā ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devayā́naiḥ ← devayā́na- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+pathíbhiḥ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dásrau ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+mádhūnām ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+nidháyaḥ ← nidhí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Durch viele Räume drang zu euch, o Ritter, der Lobgesang, o mächt'ge, bei den 
 Приезжайте сюда по путям, исхоженным богами!  
 О удивительные, для вас эти подношения потоков меда.
 </details>
+

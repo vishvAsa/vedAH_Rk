@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arúcaḥ ← arúc- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+rocayat ← √ruc- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+rucānáḥ ← √ruc- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vāsayat ← √vas- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+r̥tayúgbhiḥ ← r̥tayúj- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+carṣaṇiprā́ḥ ← carṣaṇiprā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nā́bhinā ← nā́bhi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+svarvídā ← svarvíd- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +182,7 @@ the other three instances of ṛtayúj- (incl. our vs. 4), all modifying ‘hors
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/039/02-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/039/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
 As noted in the published introduction. (and see comm. ad VI.38.2-4 above), the three middle verses are marked by repeated use of the near deictic in pāda-initial position, beginning every hemistich but 2cd and coming to a crescendo in vs. 4 with three iterations: ayám 2a, ayám 3a, imám 3c, ayám 4a, b, c. The unidentified referent of all these deictic forms is soma — see Oldenberg’s disc. — but soma at least partially identified with Indra, as the opener of the Vala cave. The repeated use of the deitic, pointing to something in the immediate vicinity of the speaker, focuses on soma as the ritual substance on the sacrificial ground.
@@ -169,3 +218,4 @@ Die lichtlos waren, machte licht der lichte, nach heil'gem Brauch erhellte er di
 Этот ездит на конях, запряженных законом,  
 Со ступицей, находящей солнце, (он) переполняющий народы.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+púruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ādídeśati ← √diś- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +154,4 @@ O Indu, solches Menschen Kraft o vielgerufner, schütt' herab, Der wider uns auf
 
 -ru-
 </details>
+

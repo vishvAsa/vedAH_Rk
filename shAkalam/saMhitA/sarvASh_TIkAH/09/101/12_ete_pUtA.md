@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+eté ← eṣá (pronoun)  
+{}
+
+pūtā́ḥ ← √pū- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+vipaścítaḥ ← vipaścít- (nominal stem)  
+{case:NOM, number:PL}
+
+dádhyāśiraḥ ← dádhyāśir- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+darśatā́saḥ ← darśatá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sū́ryāsaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhruvā́ḥ ← dhruvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ghr̥té ← ghr̥tá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+jigatnávaḥ ← jigatnú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+jihātām ← √hā- 1 (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:MED}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+urvī́ ← urú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ánu ← ánu (invariable)  
+{}
+
+dyukṣáḥ ← dyukṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrasakhā ← índrasakhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sahā́saḥ ← sahá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+dharúṇam ← dharúṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhiyádhyai ← √dhā- 1 (root)  
+{case:DAT, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Das mögen beide Welten uns gewähren, das der himmlische Varuna, des Indra Geno
 При(знать) Все(-Боги,) Маруты, которые сильны!  
 Да будем мы основой для заложения богатства!
 </details>
+

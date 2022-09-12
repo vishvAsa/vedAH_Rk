@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mádhu ← mádhu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+matíḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pr̥cyáte ← √pr̥c- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+sicyáte ← √sic- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+antár ← antár (invariable)  
+{}
+
+āsáni ← āsán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+codate ← √cud- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mandrā́janī ← mandrā́janī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+praghnatā́m ← √han- (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+saṁtaníḥ ← saṁtaní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arṣati ← √arṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+drapsáḥ ← drapsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádhumān ← mádhumant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+vā́ram ← vā́ra- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Der Meth ergiesst sich, das Gebet wird zugemischt und regt sich lieblich tönend
 Павамана – словно музыка бьющих (в барабаны).  
 Сладкая капля течет через сито.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dūrám ← dūrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ita ← √i- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+paṇayaḥ ← paṇí- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+várīyaḥ ← várīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+minatī́ḥ ← √mī- 1 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
+yantu ← √i- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ávindat ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nígūḷhāḥ ← √guh- (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+grā́vāṇaḥ ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +208,4 @@ Geht weit hinweg, o Pani's, kommen sollen die Küh' hervor, mit Recht die Stelle
 (Те, что) были спрятаны, когда (их) нашли Брихаспати,  
 Сома, давильные камни и вдохновенные риши.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+nr̥cákṣāḥ ← nr̥cákṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+dhāvasi ← √dhāv- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pávamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+híraṇyavat ← híraṇyavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vásumat ← vásumant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhúvaneṣu ← bhúvana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +204,7 @@ I take the -mat and -vat forms adverbially.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/37-39.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/37-39.md">
 <details open><summary><h2>37-39 ...{Loading}...</h2></summary>
 
 For the first time in this hymn (save for briefly in vs. 18), this tṛca shows some interest in what Soma might do for us, particularly in the 2nd two vss.
@@ -177,3 +235,4 @@ Du bist, o Soma, männerschauend überall, du Stier durchströmst hellleuchtend 
 
 -ru-
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhandánāḥ ← bhandánā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+iyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prajā́vatīḥ ← prajā́vant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+áhardivi ← áhardivi (invariable)  
+{}
+
+subhárāḥ ← subhára- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+viśvā́yuḥ ← viśvā́yu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áśvapastyam ← áśvapastya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+prajā́vat ← prajā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pītáḥ ← √pā- 2 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yācatāt ← √yāc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +210,7 @@ assumes a concrete homestead, which belongs to the speaker and/or his associates
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/40-42.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/40-42.md">
 <details open><summary><h2>40-42 ...{Loading}...</h2></summary>
 
 The focus on our welfare found in the last tṛca is found here in vs. 41 but is otherwise muted.
@@ -184,3 +239,4 @@ Er lässt erstehen kinderreiche Segnungen, die alle stark sind, allbelebend Tag 
 
 -ru-
 </details>
+

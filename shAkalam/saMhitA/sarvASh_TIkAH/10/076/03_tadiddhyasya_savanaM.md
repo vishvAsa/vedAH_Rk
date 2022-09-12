@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+sávanam ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vivéḥ ← √viṣ- 2 (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+áśret ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+purā́ ← purā́ (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+áśvanirṇiji ← áśvanirṇij- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+góarṇasi ← góarṇas- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tvāṣṭré ← tvāṣṭrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+adhvarā́n ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+adhvaréṣu ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+aśiśrayuḥ ← √śri- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +220,4 @@ Denn der von ihm gepresste Saft durchdrang die Flut, wie früher er dem Manu sic
 У сына Тваштара, обладающего морем коров, украшенного конями.  
 Они присоединили одни обряды к другим.
 </details>
+

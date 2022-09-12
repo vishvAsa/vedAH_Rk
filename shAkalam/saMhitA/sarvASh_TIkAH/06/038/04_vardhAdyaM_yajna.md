@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+várdhāt ← √vr̥dh- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+várdhāt ← √vr̥dh- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+áha ← áha (invariable)  
+{}
+
+aktóḥ ← aktú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+várdha ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dyā́vaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́sāḥ ← mā́sa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+várdhān ← √vr̥dh- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +239,7 @@ Although nom. pl. dyā́vaḥ ordinarily refers to ‘heavens’, in this case t
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/02-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
 After the absence of overt referents in vs. 1, starting with 2b we have a form of índra- in every hemistich through vs. 4 (2b índrasya, 2d índram, 3b índram, 3d índre, 4a índram, 4d índram). His name is again absent in the final vs. of the hymn, vs. 5, suggesting that this pattern is deliberate and a species of ring composition, marked by absence not presence. The next hymn (VI.39) also shows this structure, with the three middle verses (2-4) united by the shared initial deictic ayám and the first and last (1, 5) standing out against this pattern.
@@ -200,3 +270,4 @@ Den Indra, welchen Opfer stärk' und Soma, ihn stärke Andacht, Lieder, Sprüche
 Укрепи же этого Индру с приходом Ушас из ночи!  
 Пусть укрепят Индру месяцы, осени, дни!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+putrā́saḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víbhr̥trāḥ ← víbhr̥tra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+barhíṣaḥ ← barhís- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sadantu ← √sad- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+sā́nau ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+anaktu ← √añj- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vidathyā̀m ← vidathyà- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+viśvā́cī ← viśvā́cī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devátātā ← devátāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mŕ̥dhaḥ ← mŕ̥dhas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Wie Söhne um die Mutter rings, so mögen die Götter sitzen auf des Polsters R�
 Повсюду успевающая (жертвенная ложка) пусть окропит (твое пламя,) предназначенное для обряда!  
 О Агни, не допусти к нам презрения со стороны богов!
 </details>
+

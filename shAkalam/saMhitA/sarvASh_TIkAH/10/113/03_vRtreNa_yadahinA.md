@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhinā ← áhi- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́yudhā ← ā́yudha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bíbhrat ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥tréṇa ← vr̥trá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āvíde ← √vid- 1 (root)  
+{case:DAT, number:SG}
+
+samásthithāḥ ← √sthā- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:MED}
+
+śáṁsam ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yudháye ← √yudh- (root)  
+{case:DAT, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sahá ← sahá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+ávardhan ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+indriyám ← indriyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ugra ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Als Waffen tragend mit dem Drachen Vritra du zusammentrafst zum Kampfe, Ruhm dir
 Тогда все Маруты вместе по своему почину  
 Усилили, о грозный, величие, свойственное Индре.
 </details>
+

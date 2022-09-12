@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aniréṇa ← anirá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+phalgvèna ← phalgvà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vácasā ← vácas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+atr̥pā́saḥ ← atr̥pá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kr̥dhúnā ← kr̥dhú- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pratī́tyena ← pratī́tya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vadanti ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+anāyudhā́saḥ ← anāyudhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́satā ← ā́sant- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sacantām ← √sac- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +201,4 @@ Die sich nicht freuen ihres schwachen Liedes, des ab- gebrochenen, flüchtigen u
 Что они могут здесь сказать тебе, о Агни?  
 Безоружные, да соединятся они с небытием!
 </details>
+

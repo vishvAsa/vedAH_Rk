@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kárvaram ← kárvara- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śvás ← śvás (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ācakríḥ ← ācakrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásat ← ásant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+múhur ← múhur (invariable)  
+{}
+
+sát ← √as- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+paryetā́ ← paryetár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váśasya ← váśa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +243,4 @@ Ein andres wirkt er heute, andres morgen, was nicht ist, bringt zum Dasein plöt
 Тут у нас Митра и Варуна, (а также) Пушан  
 Подчиняют себе волю врага.
 </details>
+

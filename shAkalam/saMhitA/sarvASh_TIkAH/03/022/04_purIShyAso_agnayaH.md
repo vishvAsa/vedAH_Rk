@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnáyaḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+purīṣyā̀saḥ ← purīṣyà- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prāvaṇébhiḥ ← prāvaṇá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sajóṣasaḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+adrúhaḥ ← adrúh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+juṣántām ← √juṣ- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:MED}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anamīvā́ḥ ← anamīvá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Die Feuer, die im Dunste sind, nebst denen die im Strome sind, mögen wohlwollen
 Пусть насладятся жертвой, (они,) не терпящие обмана,  
 Великие жертвенные услады, прогоняющие болезни!
 </details>
+

@@ -20,10 +20,10 @@ ChandaH = "अतिशक्वर्यष्टिर्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -32,6 +32,94 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+náryam ← nárya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nr̥to ← nr̥tú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+pravā́cyam ← pravā́cya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áriṇāḥ ← √rī- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ásum ← ásu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+riṇán ← √rī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+ā́devam ← ā́deva- 1 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhúvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śatákratuḥ ← śatákratu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vidā́t ← √vid- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vidā́t ← √vid- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,3 +333,4 @@ Dein ist, o Held, dies Manneswerk, dies erste und dies alte Werk, die That im Hi
 Стоумный нашел питательную силу,  
 Он нашел жертвенную усладу.
 </details>
+

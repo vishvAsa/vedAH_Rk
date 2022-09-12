@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gáyam ← gáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+pātu ← √pā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vásubhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ādityaíḥ ← ādityá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yachatu ← √yam- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥ḷayāti ← √mr̥ḍ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rudráḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rudrébhiḥ ← rudrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gnā́bhiḥ ← gnā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+jinvatu ← √ji- 2 ~ jinv- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +224,4 @@ Es schütze Indra mit den Vasu's unser Haus, mit den Aditja's reiche Aditi uns S
 
 -ru-
 </details>
+

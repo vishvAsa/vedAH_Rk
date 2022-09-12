@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+citrā́ ← citrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dī́dhitiḥ ← dī́dhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yéṣu ← yá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+āsán ← āsán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pā́nti ← √pā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stīrṇám ← √str̥̄- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+svàrṇare ← svàrṇara- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+śrávāṁsi ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +187,4 @@ Bei denen Andacht reich erglänzt, die Sprüche nehmen in den Mund, Dem Glanzesh
 (Чья) жертвенная солома разложена в Сварнаре, –  
 Они покрыли себя славой.
 </details>
+

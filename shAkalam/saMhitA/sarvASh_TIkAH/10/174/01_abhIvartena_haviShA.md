@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+abhīvarténa ← abhīvartá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+abhivāvr̥té ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+brahmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+rāṣṭrā́ya ← rāṣṭrá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vartaya ← √vr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +162,4 @@ Durch Opfer, welches Sieg verleiht, durch das auch Indra Sieg gewann, Durch das 
 Ею сделай нас, о Брахманаспати,  
 Превосходящими (все) – для господства!
 </details>
+

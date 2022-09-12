@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávathaḥ ← √avⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+mártyam ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+bhedati ← √bhid- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+dr̥ḷhā́ ← √dr̥h- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+prá ← prá (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dyumnā́ ← dyumná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+tritáḥ ← tritá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́ṇīḥ ← vā́ṇī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +206,4 @@ Der Sterbliche, den beide ihr in Kämpfen, Indra, Agni, schirmt, Der bricht auch
 (То) он проломит даже прочные  
 Блистательные (крепости врагов), как Трита – голоса.
 </details>
+

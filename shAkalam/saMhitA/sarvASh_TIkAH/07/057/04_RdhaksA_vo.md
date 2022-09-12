@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+didyút ← didyút- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ŕ̥dhak ← ŕ̥dhak (invariable)  
+{}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ā́gaḥ ← ā́gas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kárāma ← √kr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+puruṣátā ← puruṣátā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+bhūma ← √bhū- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+tásyām ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yajatrāḥ ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+cániṣṭhā ← cániṣṭha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sumatíḥ ← sumatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,3 +261,4 @@ Eur Racheblitz sei fern von uns, o Maruts, wenn wir an euch gefehlt nach Mensche
 Да не попадем мы под этот ваш (выстрел), о достойные жертв!  
 Для нас пусть будет ваша самая добрая благосклонность!
 </details>
+

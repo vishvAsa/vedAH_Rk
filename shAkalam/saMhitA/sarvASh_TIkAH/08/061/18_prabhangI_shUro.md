@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prabhaṅgī́ ← prabhaṅgín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tuvī́maghaḥ ← tuvī́magha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kám ← kám (invariable)  
+{}
+
+sámmiślaḥ ← sámmiśla- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīryā̀ya ← vīryà- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+bāhū́ ← bāhú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śatakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+vŕ̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mimikṣátuḥ ← √myakṣ- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +194,4 @@ Der stark du bist, ein Held zerschmetternd, reich an Macht, verbündet uns zur H
 Могучи обе твои длани, о стоумный,  
 Которые хотят сбросить ваджру.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahaté ← mahā́nt- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ráṇāya ← ráṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+satyasatvan ← satyasatvan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhīmám ← bhīmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tiṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tuvinr̥mṇa ← tuvinr̥mṇá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+madrík ← madrík (invariable)  
+{}
+
+prapathin ← prapathín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yāhí ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+carṣaṇíbhyaḥ ← carṣaṇí- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+śrāvaya ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śruta ← √śru- (root)  
+{case:VOC, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Besteige denn den Wagen, wahrhaft starker, zur grossen Schlacht, sehr kräftiger
 Приди же ко мне, путешественник, со (своей) помощью  
 И сделай нас знаменитыми среди людей, о знаменитый!
 </details>
+

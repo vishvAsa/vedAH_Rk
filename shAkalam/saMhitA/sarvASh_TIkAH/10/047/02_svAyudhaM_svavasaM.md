@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+sunīthám ← sunīthá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svávasam ← svávas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svāyudhám ← svāyudhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cátuḥsamudram ← cátuḥsamudra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dharúṇam ← dharúṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+bhū́rivāram ← bhū́rivāra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+carkŕ̥tyam ← carkŕ̥tya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śáṁsyam ← śáṁsya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+citrám ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +206,4 @@ Als wohlbewehrten starken Hort und Führer, als Reichthums-Becken, vier der Meer
 Заслуживающее воспевания (и) восхваления, многожеланное -  
 Нам даруй яркое, мощное богатство!
 </details>
+

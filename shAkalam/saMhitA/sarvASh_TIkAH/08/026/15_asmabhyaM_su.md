@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+vr̥ṣaṇvasū ← vŕ̥ṣaṇvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nr̥pā́yyam ← nr̥pā́yya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yātám ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ūhathuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+viṣudrúhā ← viṣudrúh- (nominal stem)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +172,4 @@ O gehet, heldenstarke ihr, um unsern Hof, der Männer schützt, Zum Opfer fuhrt 
 Прекрасно совершите объезд, охраняющий мужей!  
 Вы ездите на жертвоприношение на песне, как двое рассеивающих зло (?).
 </details>
+

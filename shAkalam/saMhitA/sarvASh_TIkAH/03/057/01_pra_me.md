@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avidat ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vivikvā́n ← √vic- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ágopām ← ágopā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+cárantīm ← √carⁱ- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+práyutām ← √yu- 2 (root)  
+{case:ACC, gender:F, number:SG, non-finite:PPP}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dhāséḥ ← dhāsí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duduhé ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+sadyás ← sadyás (invariable)  
+{}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+panitā́raḥ ← panitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ Mein Geist erwägend fand die Kuh durch Weisheit, die achtlos wandert, unbewacht
 (Ту,) что сразу же дала надоить обильный поток (стихов).  
 Поэтому Индра, Агни (и другие боги) – ее поклонники.
 </details>
+

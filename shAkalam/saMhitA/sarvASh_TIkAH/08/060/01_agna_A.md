@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+agníbhiḥ ← agní- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+anaktu ← √añj- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+havíṣmatī ← havíṣmant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+práyatā ← √yam- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+āsáde ← √sad- (root)  
+{case:DAT, number:SG}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yájiṣṭham ← yájiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +187,4 @@ O Feuer, komm mit Feuern her, wir wählen dich zum Opferer; Der dargereichte But
 Пусть помажет тебя протянутая (ложка,) полная жертвоприношения,  
 Как самого лучшего жертвователя, чтобы ты сел на жертвенную солому!
 </details>
+

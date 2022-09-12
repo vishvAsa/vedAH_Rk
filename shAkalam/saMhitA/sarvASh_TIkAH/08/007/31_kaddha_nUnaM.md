@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ha ← ha (invariable)  
+{}
+
+kadhapriyaḥ ← kadhaprī- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+ájahātana ← √hā- 2 (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ohate ← √uh- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+sakhitvé ← sakhitvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +176,4 @@ Was ist es nun? wer lockte euch, dass Indra ihr verlassen habt? Wer rühmt sich 
 Когда вы бросили Индру?  
 Кто стоит вашей дружбы?
 </details>
+

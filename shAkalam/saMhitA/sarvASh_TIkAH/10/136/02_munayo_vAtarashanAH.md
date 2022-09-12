@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+múnayaḥ ← múni- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́taraśanāḥ ← vā́taraśana- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+málā ← mála- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+piśáṅgā ← piśáṅga- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vasate ← √vas- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ánu ← ánu (invariable)  
+{}
+
+dhrā́jim ← dhrā́ji- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vā́tasya ← vā́ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ávikṣata ← √viś- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +174,4 @@ Die vom Wind umgürteten [d.h. ohne Gurt dem Winde sich aussetzenden] Büsser kl
 Они следует порыву ветра,  
 Когда боги вошли (в них).
 </details>
+

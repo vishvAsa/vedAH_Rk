@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pā́rye ← pā́rya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ŕ̥dhak ← ŕ̥dhak (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+átas ← átas (invariable)  
+{}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+niyútvān ← niyútvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+marúdbhiḥ ← marút- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pāhi ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +243,4 @@ Wenn, Indra, fern du, wenn im höchsten Himmel, wenn in dem eignen Sitz, wo du a
 (Приди) оттуда с упряжками помочь нашей жертве!  
 Пей, о ты, любящий хвалебные песни, единодушный с Марутами!
 </details>
+

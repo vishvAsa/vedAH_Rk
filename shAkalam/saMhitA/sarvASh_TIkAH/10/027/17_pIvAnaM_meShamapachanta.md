@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+apacanta ← √pac- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+meṣám ← meṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pī́vānam ← pī́van- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīrā́ḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+akṣā́ḥ ← akṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+āsan ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dīvé ← dī́v- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+nyùptāḥ ← √vap- 2 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+antár ← antár (invariable)  
+{}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+br̥hatī́m ← br̥hánt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhánum ← dhánu- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dvā́ ← dvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+carataḥ ← √carⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pavítravantā ← pavítravant- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+punántā ← √pū- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Einen fetten Widder brieten sich die Männer, zum Spiele dienten ihnen die niede
 
 -ru-
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ít ← ít (invariable)  
+{}
+
+kr̥ntát ← √kr̥t- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yonyám ← yonyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+girím ← girí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥thúm ← pr̥thú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+triśókāya ← triśóka- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+góbhyaḥ ← gáv- ~ gó- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+níretave ← √i- 1 (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Der dem Triçoka spaltete den breiten Berg mit weitem Schooss, Und freie Bahn de
 Широкую гору, составляющую лоно,  
 Чтобы коровам дать выход.
 </details>
+

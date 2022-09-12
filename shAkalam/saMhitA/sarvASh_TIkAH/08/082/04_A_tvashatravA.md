@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśatro ← aśatrú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+tú ← tú (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+hūyase ← √hū- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+ní ← ní (invariable)  
+{}
+
+ukthā́ni ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+rocané ← rocaná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+upamé ← upamá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +160,7 @@ gíraś ca … ukthā́ca, VIII.33.13 bráhmokthā́ca ... (and the converse
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/082/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/082/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 (ní) … hūyase (4b) and (prá) … hūyate (5c), though built to identical stems, belong to the roots √hvā/hū ‘call’ and √hu ‘pour’ respectively.
@@ -152,3 +189,4 @@ O unbesiegter, komm herbei, zu Sprüchen rufen wir dich her, Auch von dem höchs
 
 -ru-
 </details>
+

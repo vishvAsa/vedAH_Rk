@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+nūnám ← nūnám (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+táviṣīmantam ← táviṣīmant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+gaṇám ← gaṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+návyasīnām ← návyas- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+stuṣé ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ámavat ← ámavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āśvàśvāḥ ← āśvàśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váhante ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yé ← yá- (pronoun)  
+{}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+īśire ← √īś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+svarā́jaḥ ← svarā́j- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Ich will nun preisen die mit Kraft begabte Heerschar der Maruts, dieser neuersta
 Которые ездят неистово на быстрых конях  
 И повелевают, самодержцы, бессмертием.
 </details>
+

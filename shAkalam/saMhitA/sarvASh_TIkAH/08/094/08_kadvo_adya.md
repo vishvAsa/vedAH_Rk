@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mahā́nām ← mahá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vr̥ṇe ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ca ← ca (invariable)  
+{}
+
+dasmávarcasām ← dasmávarcas- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

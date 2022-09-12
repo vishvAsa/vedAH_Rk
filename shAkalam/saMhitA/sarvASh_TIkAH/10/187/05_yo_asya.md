@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pāré ← pārá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ájāyata ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+śukráḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+dvíṣaḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+parṣat ← √pr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +160,4 @@ Der am anderen Ende dieses Luftraumes als der helle Agni geboren wird, der helfe
 Этого пространства, светлый Агни,  
 Да переведет он нас через проявления ненависти!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsan ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+sadhamā́daḥ ← sadhamád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pūrvyā́saḥ ← pūrvyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tā́vānaḥ ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+avindan ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gūḷhám ← √guh- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ajanayan ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+satyámantrāḥ ← satyámantra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uṣā́sam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +187,7 @@ Once again we might consider this an example of poetic repair, given the syntact
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/076/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/076/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these two vss. are defined as an omphalos, and this relationship is signaled by the patterned repetition of their first pādas: 3a tā́nī́d … āsan / 4a tá íd … āsan “just those were …”
@@ -170,3 +219,4 @@ Da waren es der Götter Tischgenossen, die frommgesinnten Seher alter Zeiten; Di
 Отцы нашли спрятанный свет.  
 Они, чьи слова истинны, породили Ушас.
 </details>
+

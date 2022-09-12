@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+hinvanti ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vedhásaḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+girāvŕ̥dham ← girāvŕ̥dh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pávamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+matsarám ← matsará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ So treiben dich, den Liederfreund, die Dichter an, o rieselnder, Der, Indu, Indr
 О Павамана, усиленного песней,  
 О капля, пьянящего для Индры.
 </details>
+

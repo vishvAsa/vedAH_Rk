@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+sahásraśr̥ṅgaḥ ← sahásraśr̥ṅga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samudrā́t ← samudrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+udā́carat ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sahasyèna ← sahasyà- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+jánān ← jána- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+svāpayāmasi ← √svap- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +166,4 @@ Der Stier, der tausend Strahlen wirft, der aus dem Meere stieg empor, durch dies
 С помощью этого могущественного  
 Мы усыпляем людей.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ábhayānām ← ábhaya- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+adhikṣítam ← adhikṣít- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āsā́m ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+gr̥ṇīmasi ← √gr̥̄- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+sváyaśasam ← sváyaśas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+anarváṇam ← anarváṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gnā́bhiḥ ← gnā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+víśvābhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ádha ← ádha (invariable)  
+{}
+
+aktóḥ ← aktú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nr̥máṇāḥ ← nr̥máṇas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yúvānam ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +200,4 @@ Der über diesen furchtbefreiten Stämmen thront in eigner Pracht, den preisen n
 
 -ru-
 </details>
+

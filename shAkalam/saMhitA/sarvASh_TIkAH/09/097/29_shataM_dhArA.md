@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asr̥gran ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+devájātāḥ ← devájāta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dhā́rāḥ ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+enāḥ ← ena- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mr̥janti ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sanítram ← sanítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dhánasya ← dhána- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mahatáḥ ← mahā́nt- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+puraetā́ ← puraetár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +194,7 @@ I take the hapax sanítra- in its full lexical value, as a ‘means of winning�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/28-30.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
 Attributed to Vasukra Vāsiṣṭha, who is not otherwise known - though a Vasukra Aindra is supposedly responsible for the devilish trio of hymns X.27-29.
@@ -176,3 +228,4 @@ Geströmt sind hundert gotterzeugte Tropfen, von tausend Priestern werden sie ge
 О сок сомы, очищаясь, надели нас даром с неба!  
 Ты тот, кто идет впереди великого выигрыша.
 </details>
+

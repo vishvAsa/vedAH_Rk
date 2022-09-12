@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+addhí ← √ad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+havī́ṁṣi ← havís- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+prásthitā ← √sthā- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+cánaḥ ← cánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhiṣva ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
+
+pacatā́ ← pacatá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+haryāmasi ← √hr̥- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+práyasvantaḥ ← práyasvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+kā́māḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+satyā́ḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yájamānasya ← √yaj- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ O Indra, iss die vorgesetzten Speisen, nimm freundlich an die Brühe und den Som
 Приготовив жертвенную усладу, мы радостно тебя встречаем.  
 Пусть сбудутся желания заказчика жертвы!
 </details>
+

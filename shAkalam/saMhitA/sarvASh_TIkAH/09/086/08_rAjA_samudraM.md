@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+gāhate ← √gāh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sacate ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+síndhuṣu ← síndhu- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śritáḥ ← √śri- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ūrmím ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+avyáyam ← avyáya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sā́nu ← sā́nu- ~ snú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dharúṇaḥ ← dharúṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nā́bhā ← nā́bhi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

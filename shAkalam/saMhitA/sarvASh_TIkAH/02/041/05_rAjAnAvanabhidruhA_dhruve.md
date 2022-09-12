@@ -15,13 +15,35 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ánabhidruhā ← ánabhidruh- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rā́jānau ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dhruvé ← dhruvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sádasi ← sádas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+uttamé ← uttamá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+āsāte ← √ās- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+sahásrasthūṇe ← sahásrasthūṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +140,4 @@ Die beiden Herrscher, unverletzt, auf höchstem Sitze thronen sie, Auf festem ta
 Восседают на прочном сидении,  
 Высшем, у которого тысяча столбов.
 </details>
+

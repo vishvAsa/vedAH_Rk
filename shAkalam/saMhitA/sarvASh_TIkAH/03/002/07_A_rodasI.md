@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+apr̥ṇat ← √pr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ádhārayan ← √dhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+apásaḥ ← apás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+adhvarā́ya ← adhvará- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nīyate ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+pári ← pári (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cánohitaḥ ← cánohita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +240,4 @@ Die Welten und den hohen Lichtraum füllte er, als den gebornen pflegten die ges
 Этого поэта ведут для обряда кругом,  
 Словно скакуна – для захвата награды, (его,) установленного на радость (людям).
 </details>
+

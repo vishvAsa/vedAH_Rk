@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+darśatám ← darśatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+péśaḥ ← péśas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śréṣṭham ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+jujuṣṭana ← √juṣ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+stómaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vājāḥ ← vā́ja- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+dhī́rāsaḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sthá ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vipaścítaḥ ← vipaścít- (nominal stem)  
+{case:NOM, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vedayāmasi ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +237,4 @@ Der schönste Schmuck, der prächt'ge ward euch angelegt, das Loblied, Vadscha's
 Ведь вы мудрые поэты, прозорливые.  
 Этой молитвой мы приглашаем вас.
 </details>
+

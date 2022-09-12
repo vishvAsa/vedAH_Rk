@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+sicyate ← √sic- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+indrābr̥haspatī ← índrābŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cā́ruḥ ← cā́ru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +139,4 @@ Euch wird, Indra-Brihaspati, ergossen dieser Somasaft, Der schön zum Trunk und 
 Кругом, о Индра-Брихаспати,  
 Приятный для опьянения, для питья.
 </details>
+

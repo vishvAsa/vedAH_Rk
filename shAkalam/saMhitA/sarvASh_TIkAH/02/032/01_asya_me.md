@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dyāvāpr̥thivī ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+r̥tāyatáḥ ← √r̥tāy- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+avitrī́ ← avitrī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+bhūtám ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+síṣāsataḥ ← √sanⁱ- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+vácasaḥ ← vácas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+pratarám ← pratarám (invariable)  
+{}
+
+purás ← purás (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+yáyoḥ ← yá- (pronoun)  
+{case:GEN, gender:F, number:DU}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+maháḥ ← mahás- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+úpastute ← √stu- (root)  
+{case:ACC, gender:F, number:DU, non-finite:PPP}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vasūyúḥ ← vasūyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Seid Erd' und Himmel meines Liedes Förderer, des heiligen, das Güter zu erlang
 Вы двое, чей век долог, здесь впереди.  
 Вас, прославленных, я, жаждущий благ, мощно привлекаю к себе.
 </details>
+

@@ -16,14 +16,48 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+bahávaḥ ← bahú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sū́racakṣasaḥ ← sū́racakṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+agnijihvā́ḥ ← agnijihvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tāvŕ̥dhaḥ ← r̥tāvŕ̥dh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vidáthāni ← vidátha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+yemúḥ ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+páribhūtibhiḥ ← páribhūti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +170,4 @@ Viel sind's, die mit der Sonne Blick mit Agni's Zung' des Werks sich freun, Und 
 Которые с помощью молитв управляли тремя жертвенными раздачами,  
 Всеми (раздачами) с помощью превосходящих сил.
 </details>
+

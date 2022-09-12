@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+śrutám ← √śru- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vr̥trahántamam ← vr̥trahántama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+śárdham ← śárdha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rā́dhase ← rā́dhas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+śuṣe ← √śvasⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +153,4 @@ Den hehren, feindetödtendsten, den Führer alles Menschenvolks Fach' ich zu gro
 
 -ru-
 </details>
+

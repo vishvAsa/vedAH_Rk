@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ágr̥bhītaḥ ← ágr̥bhīta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kr̥tnúḥ ← kr̥tnú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+udbhít ← udbhíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvajít ← viśvajít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kā́vyena ← kā́vya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +168,4 @@ Dieser thät'ge, unerfasste Soma, quellend, allbesiegend; Dichter, Priester voll
 Которого не схватить, всепобеждающий, разбивающий,  
 Вдохновенный риши благодаря поэтическому дару.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+camū́ ← camū́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+práyasvantaḥ ← práyasvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sutā́ḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kármabhiḥ ← kárman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vardhanti ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Den Indra stärken durch ihr Werk die labereichen Tropfen hier, Der ausgepresste
 
 -ru-
 </details>
+

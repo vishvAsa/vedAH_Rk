@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+samanyavaḥ ← sámanyu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+gantana ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+narā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śáṁsaḥ ← śáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sávanāni ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+áśvām ← áśvā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pipyata ← √pī- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+ū́dhani ← ū́dhar- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jaritré ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kárta ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vā́japeśasam ← vā́japeśas- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +243,4 @@ Zu unsern Bitten kommt, o Marut's, gleichgesinnt; wie Männer-Sang kommt her zu 
 Сделайте набухшей, как кобылицу, (нашу молитву, эту) дойную корову – с (тяжелым) выменем!  
 Сделайте, чтобы молитва (оказалась) для певца украшенной наградой!
 </details>
+

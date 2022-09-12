@@ -13,11 +13,30 @@ ChandaH = "एकपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; line affected by realignment
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+sumné ← sumná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sūríbhiḥ ← sūrí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+syām ← √as- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+váriman ← váriman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -95,3 +114,4 @@ In eurem Schutze sei ich in Sicherheit mit den Fürsten.
 
 Да буду я (жить) у вас в милости (и) безопасности вместе с (моими) покровителями!
 </details>
+

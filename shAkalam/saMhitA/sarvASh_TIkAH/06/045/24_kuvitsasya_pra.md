@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+hí ← hí (invariable)  
+{}
+
+kuvítsasya ← kuvítsa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dasyuhā́ ← dasyuhán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gámat ← √gam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+gómantam ← gómant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+varat ← √vr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +147,7 @@ with his powers he will open it up.
 There is some difference of opinion on the source of the apparent indefinite kuvítsa-, a hapax. Geldner (n. 24a) asserts that sasya is the gen. corresponding to sásmin, enclitic after kuvíd (presumably presupposing a notional word space kuvít sasya). But the standard opinion, already registered by Grassmann (← BR; see also explicitly AiG II.1.327, repeated AiG II.2.924), is that it is derived from the univerbation of a syntactic sequence kuvít sá (roughly “is it indeed this one?”), which is then secondarily inflected. This seems the more likely explanation, and in fact there is such a sequence attested in IV.51.4 kuvít sá. This passage contains a deliberative either/or question “should it be the old course or a new one …?” kuvít sá … sanáyo návo vā yā́maḥ, a context that favors development into an indefinite of the type “someone or other.” In fact, our passage might be more clearly rendered as “to the cattle enclosure of someone or other.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/22-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 This tṛca concerns itself with cows, picking up gómadbhir gopate from the end of the preceding tṛca (21c). In particular 23b vā́jasya gómataḥ “prize of cows” reprises 21bc vā́jebhiḥ … gómadbhiḥ and is then echoed by vrajáṃ gómantam “enclosure of cows” in 24ab.
@@ -144,3 +178,4 @@ Zu einem rinderreichen Stall geh der Dämonentödter hin Und schliess ihn auf f�
 К чьему-нибудь загону, полному коров.  
 Он откроет (его) для нас (своими) силами.
 </details>
+

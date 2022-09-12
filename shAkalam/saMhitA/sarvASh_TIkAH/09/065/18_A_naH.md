@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+júvaḥ ← júvas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+rūpám ← rūpá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+várcase ← várcas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+devávītaye ← devávīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+suṣvāṇáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +148,7 @@ The simile in b, rūpáṃ ná (or rūpáṃ ná várcase), is difficult to inte
 arises from the parallelism between vss. 17 and 18. In the former we ask Soma to bring material goods, esp. livestock. Here in pāda a we request abstract qualities, “strength and speed,” and I suggest that rūpáṃ ná “as if (in) physical form” is assimiliating them to the material goods of the previous vs. Renou’s alt. interpr., given at the end of his n., “apporte-nous force et vitesse, tel un objet-concret,” is similar and preferable to his more elaborate first interpr.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 The tṛca is thematically unified by the journey of Soma and, in vss. 17-18 his conveying good things to us on that journey. Cf. esp. 17 ā́naḥ … váhā and 18 ā́naḥ … bhara. All three vss. end in a purpose dative / dative infinitive: 16 yā́tave, 17 ūtáye, 18 devávītaye.
@@ -143,3 +177,4 @@ Gewandheit bringe her und Kraft wie Schönheit, Soma, uns zum Glanz Zum Götterm
 
 -ru-
 </details>
+

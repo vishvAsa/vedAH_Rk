@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+añjate ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+añjate ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+añjáte ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+añjate ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádhunā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rihanti ← √rih- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+patáyantam ← √pat- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+síndhoḥ ← síndhu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ucchvāsé ← ucchvāsá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ukṣáṇam ← ukṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āsu ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+gr̥bhṇate ← √gr̥bhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+hiraṇyapāvā́ḥ ← hiraṇyapāvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+paśúm ← paśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +209,7 @@ I take the subj. of gṛbhṇate and referent of hiraṇya-pāvā́ḥ in d stil
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/43-45.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/43-45.md">
 <details open><summary><h2>43-45 ...{Loading}...</h2></summary>
 
 This tṛca seems more artful than most of the other, with metaphor layered upon metaphor (vss. 43, 45), varied by similes (vs. 44).
@@ -183,3 +238,4 @@ Sie salben ihn, durchsalben und umsalben ihn, den starken streicheln, salben sie
 
 -ru-
 </details>
+

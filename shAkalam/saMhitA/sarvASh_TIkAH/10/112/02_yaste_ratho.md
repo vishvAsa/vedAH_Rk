@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jávīyān ← jávīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánasaḥ ← mánas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+somapéyāya ← somapéya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dravantu ← √dru- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tū́yam ← tū́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mándamānaḥ ← √mand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vŕ̥ṣabhiḥ ← vŕ̥ṣan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yā́si ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Zum Somatrunke komm mit deinem Wagen, der rascher ist, o Indra, als Gedanken, Sc
 Пусть быстро мчатся сюда твои буланые кони.  
 Жеребцы, на которых ты ездишь, опьяняясь!
 </details>
+

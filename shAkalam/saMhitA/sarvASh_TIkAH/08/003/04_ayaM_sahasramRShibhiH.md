@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥ṣibhiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sáhaskr̥taḥ ← sáhaskr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+paprathe ← √prathⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+samudráḥ ← samudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+gr̥ṇe ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mahimā́ ← mahimán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+viprarā́jye ← viprarā́jya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yajñéṣu ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ Zu grosser Kraft von tausend Sängern angeregt, hat er sich wie ein Meer gedehnt
 Это его истинное величие, сила  
 Воспевается на жертвоприношениях в царстве вдохновенных.
 </details>
+

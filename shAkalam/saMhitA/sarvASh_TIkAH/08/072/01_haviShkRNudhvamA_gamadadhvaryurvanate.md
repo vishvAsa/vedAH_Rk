@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+gamat ← √gam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+adhvaryúḥ ← adhvaryú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+vanate ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+praśā́sanam ← praśā́sana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Bereitet Schmalz, er komme her, aufs neue bringt der Diener dar, Mit seinem Auft
 Адхварью снова привлекает к себе (Агни),  
 Зная его указание.
 </details>
+

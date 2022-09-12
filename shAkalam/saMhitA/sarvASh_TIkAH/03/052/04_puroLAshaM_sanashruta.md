@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D
+#### Morph
+puroḷā́śam ← puroḷā́ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sanaśruta ← sánaśruta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prātaḥsāvé ← prātaḥsāvá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+br̥hán ← br̥hánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+krátuḥ ← krátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Unsern Kuchen geniesse, altberühmter du, bei unserer Morgenspende; denn dir, In
 Наслаждайся на утреннем выжимании у нас!  
 О Индра, ведь твоя сила духа высока.
 </details>
+

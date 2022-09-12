@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+havyájuṣṭim ← havyájuṣṭi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+gávyūtim ← gávyūti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ghr̥taíḥ ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+íḷābhiḥ ← íḷā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ukṣatam ← √ukṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+átra ← átra (invariable)  
+{}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+váram ← vára- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cā́roḥ ← cā́ru- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+divyásya ← divyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pr̥ṇītám ← √pr̥̄- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+udnáḥ ← udán- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Erfreut durch Opfer, Varuna und Mitra, besprengt mit Fett und Labetrunk die Wies
 Я вас при(зываю) сюда по желанию для народа,  
 Наполните (нас) вожделенной небесной водой!
 </details>
+

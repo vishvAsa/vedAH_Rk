@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.
+#### Morph
+dhūrṣú ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+prayújaḥ ← prayúj- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+bhāsā́ ← bhā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jyótiṣmantaḥ ← jyótiṣmant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vyùṣṭiṣu ← vyùṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+riśā́dasaḥ ← riśā́das- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sváyaśasaḥ ← sváyaśas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śyenā́saḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pariprúṣaḥ ← pariprúṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prásitāsaḥ ← √sā- ~ si- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+pravā́saḥ ← pravá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +201,4 @@ Ihr seid wie Rosse, die mit Strängen an die Deichsel geschirrt sind, wie strahl
 Как орлы, обладающие собственным блеском, заботящиеся о чужом,  
 Как парящие (птицы), выпущенные (на простор) (и) поднимающие брызги вокруг.
 </details>
+

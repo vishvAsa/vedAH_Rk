@@ -16,14 +16,54 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+nárā ← nár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+urucákṣasā ← urucákṣas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+várṣiṣṭhakṣatrau ← várṣiṣṭhakṣatra- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dīrghaśrúttamā ← dīrghaśrúttama- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rā́jānā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+bāhútā ← bāhútā (invariable)  
+{}
+
+daṁsánā ← daṁsánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ratharyataḥ ← √rathary- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sākám ← sākám (invariable)  
+{}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +191,4 @@ Die beiden Männer weiten Blickes, höchster Macht, die weitberühmten Könige, 
 Они чудесным образом едут на колеснице, словно (действуя) руками,  
 Будто лучами солнца.
 </details>
+

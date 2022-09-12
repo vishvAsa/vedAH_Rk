@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+práṇītiṣu ← práṇīti- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+práśastiḥ ← práśasti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vitantasā́yyaḥ ← vitantasā́yya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +144,4 @@ In deiner Führung, Indra, nur o Schleuderer, kann recht gedeihn Das Opfer und d
 (И при твоих) прославлениях, о хозяин давильных камней,  
 Бывает успешное жертвоприношение.
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bruvāṇā́ ← √brū- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prayuñjatī́ ← √yuj- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+bodháyantī ← √budh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+duhitúḥ ← duhitár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+āvívāsantī ← √vanⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+manīṣā́ ← manīṣā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yuvatíḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jóhuvānā ← √hū- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+pitŕ̥bhyaḥ ← pitár- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +202,4 @@ Anschirrend kommt vom Himmel freundlich redend die grosse Mutter, achtend auf di
 Юная жена, привлекающая молитвой,  
 Громко зовущая к отцам на сидение (жертвы).
 </details>
+

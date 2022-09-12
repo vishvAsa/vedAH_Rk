@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+vājinīvasū ← vājínīvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gáve ← gáv- ~ gó- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+páśve ← paśú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+tokā́ya ← toká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pī́varīḥ ← pī́van- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+váhatam ← √vah- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ In dem, o güterreiche, bringt, zum Heil für Kinder, Vieh und Rind Uns fette La
 Благополучие для скота, потомства, быка  
 (И) жирные подкрепления!
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dhanaṁjayám ← dhanaṁjayá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+ārujám ← ārujá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dr̥ḷhā́ ← √dr̥h- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ādāríṇam ← ādārín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gáyam ← gáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Denn als erbeutend kennen wir und Festen brechend, Indra, dich, Als den, der uns
 О Индра, проламывающего даже твердыни,  
 Словно налетчик – дом.
 </details>
+

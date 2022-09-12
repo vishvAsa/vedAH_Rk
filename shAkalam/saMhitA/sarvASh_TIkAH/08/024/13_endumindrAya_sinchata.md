@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+siñcata ← √sic- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+píbāti ← √pā- 2 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+somyám ← somyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+codayāte ← √cud- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+mahitvanā́ ← mahitvaná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+rā́dhasā ← rā́dhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Dem Indra giesst den Indu zu, den süssen Soma trinke er; Er treib' uns reiche G
 Пусть пьет он сладость сомы!  
 Пусть восполняет он себя дарением в (своем) могуществе!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+devátamāya ← devátama- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kártvam ← kártva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áśrathnan ← √śrathⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ávradanta ← √vrad- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dr̥ḷhā́ ← √dr̥h- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+vīḷitā́ ← √vīḍ- ~ √vīḷ- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+ábhinat ← √bhid- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ājat ← √aj- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+út ← út (invariable)  
+{}
+
+valám ← valá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+acakṣayat ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ágūhat ← √guh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Das war zu thun dem göttlichsten der Götterschar, morsch ward das Feste und da
 Он выгнал коров, молитвой он расколол Валу,  
 Он спрятал мрак, он сделал солнце видимым.
 </details>
+

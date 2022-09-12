@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line
+#### Morph
+dódhataḥ ← dódhat- (nominal stem)  
+{case:NOM, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+vā́tāḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ayaṁsata ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+pītā́ḥ ← √pā- 2 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+út ← út (invariable)  
+{}
+
+ápām ← √pā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+kuvít ← kuvít (invariable)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +160,4 @@ Wie Wirbelwinde haben mich die Tränke schüttelnd aufgeregt; Hat mich der Soma 
 Понесли меня вверх выпитые (соки сомы) –  
 Не напился ли я сомы?
 </details>
+

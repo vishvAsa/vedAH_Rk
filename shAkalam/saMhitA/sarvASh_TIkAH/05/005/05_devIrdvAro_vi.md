@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+devī́ḥ ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+dvāraḥ ← dvā́r- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+śrayadhvam ← √śri- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suprāyaṇā́ḥ ← suprāyaṇá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+prá-pra ← prá (invariable)  
+{}
+
+pr̥ṇītana ← √pr̥̄- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +161,4 @@ O Götterthore, öffnet euch vorschreitend schön zur Hülfe uns; Das Opfer mach
 Легкопроходимые, нам для поддержки!  
 Сделайте жертву совсем полной!
 </details>
+

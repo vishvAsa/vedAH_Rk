@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bahúḥ ← bahú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bahvīnā́m ← bahú- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+avagátya ← √gam- (root)  
+{non-finite:CVB}
+
+ciścā́ ← ciścā́ (invariable)  
+{}
+
+kr̥ṇoti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sámanā ← sámana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+iṣudhíḥ ← iṣudhí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pŕ̥tanāḥ ← pŕ̥tanā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sáṅkāḥ ← sáṅkā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sárvāḥ ← sárva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jayati ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nínaddhaḥ ← √nah- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+prásūtaḥ ← √sū- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+pr̥ṣṭhé ← pr̥ṣṭhá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +228,4 @@ Der Vater vieler, viel sind seiner Söhne, lässt schwirren sie, sobald er in de
 Колчан во всех схватках и столкновениях  
 Побеждает, привязанный на спине, побужденный (к действию).
 </details>
+

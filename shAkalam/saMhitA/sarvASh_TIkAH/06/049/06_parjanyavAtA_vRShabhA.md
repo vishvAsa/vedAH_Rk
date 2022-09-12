@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+párjanyavātā ← parjányāvā́ta- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vr̥ṣabhā ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ápyāni ← ápya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jinvatam ← √ji- 2 ~ jinv- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+púrīṣāṇi ← púrīṣa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+kavayaḥ ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sátyaśrutaḥ ← satyaśrut- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jágat ← jágat- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jágataḥ ← jágat- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+kr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sthātar ← sthā́tar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +236,4 @@ Beeilt, o Stiere, Wind und Wetterwolke, das wasserreiche Dunstgewölk der Erde; 
 О поэты, слышащие истину, чьими песнями (вы прославляетесь),  
 Предоставьте (ему) живой мир, (и ты,) о возница живого мира!
 </details>
+

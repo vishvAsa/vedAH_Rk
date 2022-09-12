@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line
+#### Morph
+akṣipát- ← akṣipát- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+nahí ← nahí (invariable)  
+{}
+
+áchāntsuḥ ← √chand- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+kr̥ṣṭáyaḥ ← kr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+páñca ← páñca- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ápām ← √pā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+kuvít ← kuvít (invariable)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +148,4 @@ Kaum wie ein Stäubchen dünken mir die Menschenstämme alle fünf; Hat mich der
 Показались мне пять народов –  
 Не напился ли я сомы?
 </details>
+

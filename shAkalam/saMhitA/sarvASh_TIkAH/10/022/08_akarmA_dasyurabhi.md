@@ -16,14 +16,54 @@ ChandaH = "पुरस्ताद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+akarmā́ ← akarmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amantúḥ ← amantú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dásyuḥ ← dásyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ámānuṣaḥ ← ámānuṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyávrataḥ ← anyávrata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amitrahan ← amitrahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+dambhaya ← √dambh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dāsásya ← dāsá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vádhar ← vádhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +194,4 @@ Uns widerstrebt der Dämon schlimm an That und Sinn der Unhold, welcher andern d
 Ты, о убийца недругов, уничтожь  
 Смертельное оружие этого дасы!
 </details>
+

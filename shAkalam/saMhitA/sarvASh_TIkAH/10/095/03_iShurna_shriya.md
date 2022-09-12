@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+iṣudhéḥ ← iṣudhí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+íṣuḥ ← íṣu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+asanā́ ← asanā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+goṣā́ḥ ← goṣā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ráṁhiḥ ← ráṁhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śatasā́ḥ ← śatasā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+avī́re ← avī́ra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+davidyutan ← √dyut- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+krátau ← krátu- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+citayanta ← √cit- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+dhúnayaḥ ← dhúni- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+māyúm ← māyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+úrā ← úran- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +208,4 @@ Wie ein Pfeil des Köchers [fliegt meine Begierde] der Schönheit zu, wie ein sc
 
 -ru-
 </details>
+

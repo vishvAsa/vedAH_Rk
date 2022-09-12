@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+jānīhi ← √jñā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+vā́stoḥ ← vā́stu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+anamīváḥ ← anamīvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+svāveśáḥ ← svāveśá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ī́mahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+cátuṣpade ← cátuṣpad- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dvipáde ← dvipád- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+śám ← śám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +230,7 @@ two-footed, weal for our four-footed.
 On práti √jñā see comm. ad III.45.4.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/054/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/054/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 On práti √juṣ see comm. ad IX.92.1.
@@ -195,3 +262,4 @@ O Wohnungsherr, erkenn uns als die deinen, schaff guten Eingang uns, entfern die
 О чем мы тебя просим, обрадуй нас этим!  
 Да будет счастье нашим двуногим, счастье четвероногим!
 </details>
+

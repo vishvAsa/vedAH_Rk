@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+ghóṣam ← ghóṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pitŕ̥bhyām ← pitár- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+pravídā ← pravíd- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+anayanta ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+mahádbhyām ← mahā́nt- (nominal stem)  
+{case:DAT, gender:M, number:DU}
+
+maháḥ ← máh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śūṣám ← śūṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aktóḥ ← aktú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhā́nam ← dhā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+ukṣā́ ← ukṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+jaritúḥ ← jaritár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+svám ← svá- (pronoun)  
+{case:ACC, gender:N, number:SG}
+
+vavákṣa ← √vakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +236,4 @@ Und sie [die Sänger] führten den beiden grossen Aeltern [Himmel und Erde] weis
 В то время как бык к концу ночи  
 Усилился по своему обычаю певца.
 </details>
+

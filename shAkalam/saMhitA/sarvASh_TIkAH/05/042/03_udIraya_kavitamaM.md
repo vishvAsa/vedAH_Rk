@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+īraya ← √īr- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kavīnā́m ← kaví- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+kavítamam ← kavítama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mádhvā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+unátta ← √ud- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+hitā́ni ← √hi- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+práyatā ← √yam- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vásūni ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+candrā́ṇi ← candrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvāti ← √sū- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Erhebe ihn, den weisesten der weisen, benetzet ihn mit süsser Opferbutter; Gott
 Этот бог Савитар пусть создаст нам  
 Преподнесенные установленные сверкающие блага!
 </details>
+

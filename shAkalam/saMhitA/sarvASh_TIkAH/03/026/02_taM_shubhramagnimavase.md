@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+śubhrám ← śubhrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+mātaríśvānam ← mātaríśvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ukthyàm ← ukthyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaiśvānarám ← vaiśvānará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devátātaye ← devátāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+átithim ← átithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+raghuṣyádam ← raghuṣyád- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrótāram ← śrótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vípram ← vípra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ Den hellen Agni rufen wir zu Hülfe uns, den Männerhort, den preisenswerthen Mu
 Брихаспати, для службы богам (.установленной) Манусом,  
 (Его,) вдохновенного, слушателя, гостя, быстрого бегуна.
 </details>
+

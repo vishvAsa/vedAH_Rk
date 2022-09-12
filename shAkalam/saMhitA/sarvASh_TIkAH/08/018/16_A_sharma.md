@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+párvatānām ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+āré ← āré (invariable)  
+{}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+dyā́vākṣāmā ← dyā́vā-kṣā́mā- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+kr̥tam ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+rápaḥ ← rápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +166,4 @@ Der hohen Berge Schirm und Schutz und der Gewässer wünschen wir; Schafft, Erd'
 Защиту гор, а также вод.  
 О Небо-и-Земля, уберите от нас (телесное) повреждение!
 </details>
+

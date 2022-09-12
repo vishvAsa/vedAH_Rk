@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+puraetā́ ← puraetár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhī́raḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kā́vyena ← kā́vya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+r̥bhúḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uśánā ← uśánā- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+níhitam ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+viveda ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+apīcyàm ← apīcyà- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+gónām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+gúhyam ← gúhya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Der weise Sänger und der Menschen Führer, der kluge Künstler, Uçana an Weish
 Он обнаружил также (то,) что спрятано у этих (коров) -  
 Скрытое, тайное имя коров.
 </details>
+

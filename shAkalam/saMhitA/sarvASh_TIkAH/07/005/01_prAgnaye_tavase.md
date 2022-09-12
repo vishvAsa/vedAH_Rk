@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bharadhvam ← √bhr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+taváse ← tavás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+aratáye ← aratí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gíram ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+amŕ̥tānām ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+víśveṣām ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+jāgr̥vádbhiḥ ← √gr̥- (root)  
+{case:INS, gender:M, number:PL, tense:PRF, voice:ACT}
+
+vaiśvānaráḥ ← vaiśvānará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāvr̥dhé ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +189,4 @@ Tragt eurem starken Agni vor ein Loblied, dem schnellen Diener Himmels und der E
 (Тому,) кто в лоне всех бессмертных  
 Был возвеличен бодрствующими (жрецами) как Вайшванара!
 </details>
+

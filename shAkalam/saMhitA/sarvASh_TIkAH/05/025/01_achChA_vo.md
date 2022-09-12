@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gāsi ← √gā(y)- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vásuḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́sat ← √rā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+r̥ṣūṇā́m ← r̥ṣú- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+dviṣáḥ ← dvíṣ- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+parṣati ← √pr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ Ich rufe euren Agni her, den Gott zur Hülfe, der uns liebt; Er spende uns, der 
 Пусть сын языков пламени дарит (нам блага)!  
 Верный закону пусть перевозит (нас) через враждебность!
 </details>
+

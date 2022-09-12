@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hotrám ← hotrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+potrám ← potrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥tvíyam ← r̥tvíya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+agnít ← agnídh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+neṣṭrám ← neṣṭrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥tāyatáḥ ← √r̥tāy- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+adhvarīyasi ← √adhvarīy- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+praśāstrám ← praśāstrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+brahmā́ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+gr̥hápatiḥ ← gr̥hápati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +243,4 @@ Dein ist des Priesters, Agni, dein des Läuterers rechtmässig Amt, des Führers
 У тебя – служба прашастара, ты действуешь как адхварью,  
 Ты Брахма и господин дома в нашем жилище.
 </details>
+

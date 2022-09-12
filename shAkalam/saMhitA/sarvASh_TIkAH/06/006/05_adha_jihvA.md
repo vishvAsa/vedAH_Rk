@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+jihvā́ ← jihvā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pāpatīti ← √pat- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aśániḥ ← aśáni- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+goṣuyúdhaḥ ← goṣuyúdh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sr̥jānā́ ← √sr̥j- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kṣātíḥ ← kṣātí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+prásitiḥ ← prásiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śū́rasya ← śū́ra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhīmáḥ ← bhīmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dayate ← √di- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+durvártuḥ ← durvártu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vánāni ← vána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Dann schiesset schnell hervor des Stieres Zunge, der kämpft um Kühe, gleich ge
 Пыл Агни, словно выстрел героя;  
 Тот, кого трудно удержать, страшный, он размельчает дрова.
 </details>
+

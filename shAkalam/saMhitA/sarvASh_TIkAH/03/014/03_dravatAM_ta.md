@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+drávatām ← √dru- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+uṣásā ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vājáyantī ← √vājay- 1 (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+
+ácha ← ácha (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pathyā̀bhiḥ ← pathyā̀- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vā́tasya ← vā́ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+añjánti ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+havírbhiḥ ← havís- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sīm ← sīm (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+tasthatuḥ ← √sthā- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vandhúrā ← vandhúra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Auf Windes Pfaden mögen zu dir eilen, dich, Agni, labend, Nacht und Morgenröth
 Когда же его первым мажут жертвенными возлияниями,  
 Обе они поднимаются в (свои) два дома, словно (двое колесничих) на площадки (колесниц).
 </details>
+

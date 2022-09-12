@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śr̥ṇutám ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pitárā ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+putrā́ya ← putrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śikṣatam ← √śak- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
+ájñāḥ ← ájñās- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ámatiḥ ← ámati- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ánāpiḥ ← ánāpi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asajātyā́ ← asajātyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+abhíśasteḥ ← abhíśasti- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+purā́ ← purā́ (invariable)  
+{}
+
+spr̥tam ← √spr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+tásyāḥ ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Ich fleh' euch an, o Ritter, höret meinen Ruf, und seid mir hold, so wie die Ae
 (Я) без друзей, неопытна, без кровных родных, неразумна.  
 Защитите меня от этого проклятия!
 </details>
+

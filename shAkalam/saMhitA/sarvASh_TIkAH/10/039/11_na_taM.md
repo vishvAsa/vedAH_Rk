@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+adite ← áditi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+kútas ← kútas (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+rājānau ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aśnoti ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhayám ← bhayá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+duritám ← duritá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rudravartanī ← rudrávartani- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+suhavā ← suháva- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇutháḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pátnyā ← pátnī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+purorathám ← purorathá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Von keiner Seite trifft Gefahr, o Könige, noch Ungemach und Noth den Mann, o Ad
 Кого, вы, о Ашвины, легкопризываемые, ездящие по дорогам Рудры,  
 Вместе с супругой делаете обладателем первой колесницы.
 </details>
+

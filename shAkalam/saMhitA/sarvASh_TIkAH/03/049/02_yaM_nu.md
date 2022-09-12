@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+svarā́jam ← svarā́j- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+hariṣṭhā́m ← hariṣṭhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nŕ̥tamam ← nŕ̥tama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tárati ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+inátamaḥ ← inátama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sátvabhiḥ ← sátvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śūṣaíḥ ← śūṣá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+amināt ← √mī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dásyoḥ ← dásyu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pr̥thujráyāḥ ← pr̥thujráyas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Den Selbstgebieter, den in Schlachten niemand fürwahr besiegt, den stärksten R
 Кто самый могучий со (своими) отважными воинами  
 Широко продвигающийся, он уменьшил срок жизни дасью.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dróḥ ← dā́ru- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+hárim ← hári- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+siñca ← √sic- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tú ← tú (invariable)  
+{}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+aśmanmáyībhiḥ ← aśmanmáya- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+takṣata ← √takṣ- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vā́śībhiḥ ← vā́śī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kakṣyā̀bhiḥ ← kakṣyà- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+svajadhvam ← √svaj- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+dhúrau ← dhúr- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+práti ← práti (invariable)  
+{}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+váhnim ← váhni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yunakta ← √yuj- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +216,4 @@ Ergiess den goldnen in den Schooss des Holzes, und zimmert ihn mit steingeformte
 Охватите (его) десятью поясами!  
 Впрягайте тяжеловоза в оба дышла!
 </details>
+

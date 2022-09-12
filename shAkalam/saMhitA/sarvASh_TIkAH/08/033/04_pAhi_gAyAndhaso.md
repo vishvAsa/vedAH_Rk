@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+gā́ya ← √gā(y)- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pāhí ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+medhyātithe ← médhyātithi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+háryoḥ ← hári- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+sácā ← sácā (invariable)  
+{}
+
+sámmiślaḥ ← sámmiśla- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hiraṇyáyaḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vajrī́ ← vajrín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +197,4 @@ O trink und sing im Somarausch dem Indra, Medhiatithi, Der mit den Füchsen her 
 (Для того,) кто привержен паре буланых коней, кто - выжатому (соме),  
 (Кто) громовержец, золотая колесница!
 </details>
+

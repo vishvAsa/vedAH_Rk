@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥thú ← pr̥thú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śravā́yyam ← śravā́yya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vivāsasi ← √vanⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +161,4 @@ Drum schenk, o Gott, uns Heldenkraft, die weithin reicht, des Rühmens werth, O 
 О бог, широкое, достойное славы,  
 Высокое обилие прекрасных мужей, о Агни.
 </details>
+

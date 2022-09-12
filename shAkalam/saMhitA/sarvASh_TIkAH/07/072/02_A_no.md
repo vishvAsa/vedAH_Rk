@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sajóṣasā ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hí ← hí (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pítryāṇi ← pítrya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sakhyā́ ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+bándhuḥ ← bándhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samānáḥ ← samāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vittam ← √vid- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Kommt her zu uns, euch nahend mit den Göttern auf eurem Wagen im Verein, o treu
 Ведь с вами у нас дружеские связи, идущие (еще) от отцов,  
 И общее родство. Помните же об этом!
 </details>
+

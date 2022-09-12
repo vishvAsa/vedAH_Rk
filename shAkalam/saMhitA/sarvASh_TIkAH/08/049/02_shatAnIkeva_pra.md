@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+dhr̥ṣṇuyā́ ← dhr̥ṣṇuyā́ (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+jigāti ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+śatā́nīkā ← śatā́nīka- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+hánti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+giréḥ ← girí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pinvire ← √pinv- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+rásāḥ ← rása- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dátrāṇi ← dátra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+purubhójasaḥ ← purubhójas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Gleich hundertschneid'gem Pfeile dringt er kühnlich vor, und schlägt des fromm
 Как потоки с горы, бьют ключом дары  
 Этого многонасыщающего.
 </details>
+

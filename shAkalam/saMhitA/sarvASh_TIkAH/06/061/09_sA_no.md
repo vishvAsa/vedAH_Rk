@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+áti ← áti (invariable)  
+{}
+
+dvíṣaḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+anyā́ḥ ← anyá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+r̥tā́varī ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svásr̥̄ḥ ← svásar- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+áhā ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+átan ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +158,7 @@ The position of anyā́ḥ identifies the sisters as a defined and limited group
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Unlike the preceding tṛca, this one dispenses with repetition and therefore has more room for meat, comparatively speaking.
@@ -152,3 +189,4 @@ Sie dehnt' uns durch der Schwestern Schar und über alle Feinde aus, Die hehre, 
 Верная закону, других сестер  
 Она протянула (для нас), как солнце – дни.
 </details>
+

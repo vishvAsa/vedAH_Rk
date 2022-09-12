@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+enoḥ ← ena- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+gr̥bhṇāti ← √gr̥bhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ámandiṣātām ← √mand- (root)  
+{number:DU, person:3, mood:IND, tense:AOR, voice:MED}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+prasargé ← prasargá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhívr̥ṣṭaḥ ← √vr̥ṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+kániṣkan ← √skand- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+maṇḍū́kaḥ ← maṇḍū́ka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+háritena ← hárita- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pŕ̥śniḥ ← pŕ̥śni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sampr̥ṅkté ← √pr̥c- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Der eine hüpft zum andern hin, umfasst ihn, wenn durch des Wassers Strömen sie
 Когда лягушка яростно прыгает под дождем,  
 (И) пятнистая присоединяет (свой) голос к зеленой!
 </details>
+

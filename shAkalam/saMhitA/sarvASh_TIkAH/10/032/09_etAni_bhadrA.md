@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+etā́ni ← eṣá (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+kalaśa ← kaláśa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kriyāma ← √kr̥- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+dádataḥ ← √dā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kúruśravaṇa ← kuruśrávaṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghā́ni ← maghá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dānáḥ ← dāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+maghavānaḥ ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bíbharmi ← √bhr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+hr̥dí ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Dies Heilvolle wollen wir, o Kalaça, vollbringen, Schätze spendend, o Kuruçra
 А подарком вашим, о щедрые покровители, пусть будет это  
 И тот сома, которого ношу я в сердце!
 </details>
+

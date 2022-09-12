@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+bápsataḥ ← √bhas- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+srákveṣu ← srákva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+dharúṇam ← dharúṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kr̥ṇvaté ← √kr̥- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+agnā́ ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +163,4 @@ Im Munde dessen, der da kaut, verschaffen sie dem Himmel Halt, Dem Indra, Agni E
 Они создают опору неба,  
 Солнце, поклонение для Индры (и) Агни.
 </details>
+

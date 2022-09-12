@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+huvé ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūnúm ← sūnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yúvānam ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádroghavācam ← ádroghavāc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yáviṣṭham ← yáviṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dráviṇāni ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ínvati ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prácetāḥ ← prácetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+adhrúk ← adrúh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+puruvā́raḥ ← puruvā́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvávārāṇi ← viśvávāra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +208,4 @@ Ich rufe euren Sohn der Kraft, den Jüngling, mit Liedern ihn, der Holdes sprich
 Который посылает сокровища, (он,) прозорливец,  
 Все желанные вещи, (он,) обладатель многих желанных вещей, безобманный.
 </details>
+

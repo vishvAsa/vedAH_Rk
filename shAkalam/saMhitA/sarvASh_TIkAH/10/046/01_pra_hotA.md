@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M
+#### Morph
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nabhovít ← nabhovíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+nr̥ṣádvā ← nr̥ṣádvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sīdat ← √sad- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dádhiḥ ← dádhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhā́yi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+váyāṁsi ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tanūpā́ḥ ← tanūpā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vidhaté ← √vidh- (root)  
+{case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+
+yantā́ ← yantár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Der Dunst-umhüllte grosse Priester sitze geboren nun im Wasserschooss bei Männ
 Кто установлен, тот устанавливает тебе жизненные силы.  
 Он наделяет благами того, кто служит ему, охраняет (его) тело.
 </details>
+

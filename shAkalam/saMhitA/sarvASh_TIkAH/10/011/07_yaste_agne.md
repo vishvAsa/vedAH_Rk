@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ákṣat ← √akṣ- 2 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+śr̥ṇve ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+váhamānaḥ ← √vah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ámavān ← ámavant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhūṣati ← √bhūṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dyumā́n ← dyumánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +245,4 @@ Der Mensch, der, Agni, deine Huld erlangt hat, der wird sehr weit berühmt, o So
 Владея успехом, ездя на конях,  
 Этот блистательный (и) могучий – продлевает (свои) дни.
 </details>
+

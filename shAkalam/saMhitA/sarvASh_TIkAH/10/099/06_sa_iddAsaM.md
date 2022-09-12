@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dán ← dám- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dā́sam ← dā́sa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tuvīrávam ← tuvīráva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+damanyat ← √damany- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ṣaḷakṣám ← ṣaḷakṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+triśīrṣā́ṇam ← triśīrṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tritáḥ ← tritá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+áyoagrayā ← áyoagra- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+han ← √han- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+varāhám ← varāhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vipā́ ← víp- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Er, der Hausherr, bezwang den mächtig tobenden Dämon, den sechsäugigen, dreik
 Подкрепленный его силой, Трита  
 Убил кабана стрелой с железным наконечником.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śiprin ← śiprín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sudā́se ← sudā́s- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+rātíḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śáṁsāḥ ← śáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+jahí ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mártyasya ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vádhar ← vádhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vanúṣaḥ ← vanús- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dyumnám ← dyumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +226,4 @@ Dem Sudas schenk als Gabe hundert Hülfen und tausend Hulden, du mit schönem He
 Разбей смертельное оружие завистливого смертного!  
 Нас одари блеском и сокровищем!
 </details>
+

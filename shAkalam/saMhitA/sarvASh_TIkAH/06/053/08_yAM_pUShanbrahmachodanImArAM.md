@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+brahmacódanīm ← brahmacódana- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pūṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yā́m ← yá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+āghr̥ṇe ← ā́ghr̥ṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́rām ← ā́rā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bíbharṣi ← √bhr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hŕ̥dayam ← hŕ̥daya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samasya ← sama- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+táyā ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+kikirā́ ← kikirā́- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+kr̥ṇu ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rikha ← √rikh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

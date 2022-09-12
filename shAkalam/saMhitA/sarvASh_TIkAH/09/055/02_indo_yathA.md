@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stávaḥ ← stáva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+priyé ← priyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sadaḥ ← √sad- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +171,4 @@ Da dein ist, Indu, alles Lob und dein was aus dem Kraut entquoll, So setz dich a
 
 -ru-
 </details>
+

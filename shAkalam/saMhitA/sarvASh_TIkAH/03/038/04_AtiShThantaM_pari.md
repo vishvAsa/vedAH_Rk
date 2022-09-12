@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhūṣan ← √bhūṣ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ātíṣṭhantam ← √sthā- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śríyaḥ ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svárociḥ ← svárocis- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásānaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ásurasya ← ásura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+amŕ̥tāni ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tasthau ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+viśvárūpaḥ ← viśvárūpa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +237,4 @@ Sie alle schmückten den, der nun emporstieg [die Sonne]; in Glanz gekleidet wan
 Вот великое имя быка Асуры:  
 Имея все облики, он достиг бессмертных (сущностей).
 </details>
+

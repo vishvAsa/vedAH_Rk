@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ásum ← ásu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadātu ← √dā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+dadātu ← √dā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+púnar ← púnar (invariable)  
+{}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pathyā̀m ← pathyā̀- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svastíḥ ← svastí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +236,4 @@ Den Odem gebe uns die Erde wieder, die Göttin, uns den Odem Luft und Himmel, Un
 Снова пусть сома дарует нам тело,  
 Снова Пушан – (тот) путь, который счастье!
 </details>
+

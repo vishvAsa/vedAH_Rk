@@ -14,12 +14,40 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+īm ← īm (invariable)  
+{}
+
+ké ← ká- (pronoun)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sánīḷāḥ ← sánīḷa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vyàktāḥ ← √añj- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ádha ← ádha (invariable)  
+{}
+
+máryāḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rudrásya ← rudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sváśvāḥ ← sváśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +153,4 @@ Wer sind die schönen – vereinten Männer, Des Rudra Mannen – mit schönen R
 Кто же (эти) украшенные мужи из одного гнезда,  
 Молодые люди Рудры, к тому же с прекрасными конями?
 </details>
+

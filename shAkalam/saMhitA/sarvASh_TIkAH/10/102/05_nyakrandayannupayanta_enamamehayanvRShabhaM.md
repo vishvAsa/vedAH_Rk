@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+akrandayan ← √krand- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+upayántaḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ājéḥ ← ājí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ámehayan ← √mih- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śatávat ← śatávant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sū́bharvam ← sū́bharva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+jigāya ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+múdgalaḥ ← múdgala- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pradháne ← pradhána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +190,4 @@ Ihm nahend liessen laut den Stier sie brüllen und Wasser lassen mitten auf den 
 
 -ru-
 </details>
+

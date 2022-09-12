@@ -16,14 +16,69 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dīrgháprasadmani ← dīrgháprasadman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+stháḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+adáḥ ~ adó ← asaú (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+rocané ← rocaná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ā́kr̥te ← √kr̥- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+gr̥hé ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+átas ← átas (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Wenn ihr im weiten Erdensitz, wenn dort im Licht des Himmels weilt, Wenn in dem 
 Или же на море в сооруженном доме,  
 Приезжайте оттуда, о Ашвины!
 </details>
+

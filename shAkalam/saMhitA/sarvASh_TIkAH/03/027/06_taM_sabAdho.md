@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+sabā́dhaḥ ← sabā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yatásrucaḥ ← yatásruc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+yajñávantaḥ ← yajñávant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cakruḥ ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +169,4 @@ Den Agni schaffen sich herbei mit rechter Andacht opferreich Die Löffel-Lenker 
 Приносящие жертву вот так вместе с молитвой,  
 Они приготовили этого Агни для помощи.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; 12 = 5+7, ending LHX  
 genre M  
 genre M
+#### Morph
+āsan ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+átra ← átra (invariable)  
+{}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+badhyámāne ← √bandh- (root)  
+{case:LOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+daurgahé ← daurgahá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+ayajanta ← √yaj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+trasádasyum ← trasádasyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ardhadevám ← ardhadevá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vr̥tratúram ← vr̥tratúr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Dort waren diese unsre Väter, die sieben Dichter bei des Durgaha gefangenem Soh
 Они получили за жертву для нее Трасадасью,  
 Подобного Индре покорителя врагов, полубога.
 </details>
+

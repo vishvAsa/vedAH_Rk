@@ -17,15 +17,73 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gr̥ṇé ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vásuḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āyánti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+árvantaḥ ← árvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+raghudrúvaḥ ← raghudrú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+sujātā́saḥ ← sujātá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Ja, Agni ist's, den gut man nennt, zu dem die Kühe alle gehn, die Renner schnel
 С(ходятся) благородные покровители (жертв).  
 Принеси восхвалителям жертвенную усладу!
 </details>
+

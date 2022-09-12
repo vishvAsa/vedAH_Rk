@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+divyā́ni ← divyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pā́rthivā ← pā́rthiva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+antárikṣyā ← antárikṣya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pávatām ← √pū- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +143,4 @@ Er, Soma, riesle alles Gut, was auf der Erd', im Himmel ist Und in der Luft, dem
 
 -ru-
 </details>
+

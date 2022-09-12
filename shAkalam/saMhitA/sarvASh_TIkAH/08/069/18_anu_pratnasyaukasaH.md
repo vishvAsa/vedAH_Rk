@@ -16,14 +16,48 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+ókasaḥ ← ókas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pratnásya ← pratná- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+priyámedhāsaḥ ← priyámedha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+práyatim ← práyati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pū́rvām ← pū́rva- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥ktábarhiṣaḥ ← vr̥ktábarhis- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āśata ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+hitáprayasaḥ ← hitáprayas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mā́nuṣīṣu ← mā́nuṣa- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sīdati ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+gáchan ← √gam- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jāráḥ ← jārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yoṣítam ← yoṣít- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ Und er gleich einem Adler setzt sich auf der Menschen Häuser hin, geht wie der 
 
 -ru-
 </details>
+

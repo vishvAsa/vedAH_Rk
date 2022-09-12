@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bravīmi ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+atti ← √ad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gárbhaḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jā́yamānaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+mātárā ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ciketa ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+prácetāḥ ← prácetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vícetāḥ ← vícetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ Dies eur Gesetz verkünd' ich, Erd' und Himmel: der Sohn verzehrt, geboren, sein
 Я, смертный, не понимаю бога –  
 Только Агни мудрый, он понимающий.
 </details>
+

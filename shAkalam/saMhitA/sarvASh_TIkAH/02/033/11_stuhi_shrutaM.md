@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gartasádam ← gartasád- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrutám ← √śru- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+stuhí ← √stu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yúvānam ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhīmám ← bhīmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mr̥gám ← mr̥gá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+upahatnúm ← upahatnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jaritré ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mr̥ḷá ← √mr̥ḍ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rudra ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stávānaḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+sénāḥ ← sénā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vapantu ← √vap- 2 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 Прославленный, о Рудра, будь милостив к певцу!  
 Другого, а не нас, пусть повергнут долу твои рати!
 </details>
+

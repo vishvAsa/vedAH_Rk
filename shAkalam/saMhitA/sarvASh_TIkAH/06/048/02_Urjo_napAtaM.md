@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+asmayúḥ ← asmayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hiná ← hiná (invariable)  
+{}
+
+nápātam ← nápat- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ūrjáḥ ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+dā́śema ← √dāś- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+havyádātaye ← havyádāti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhúvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+bhúvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+vr̥dháḥ ← vr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tanū́nām ← tanū́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+trātā́ ← trātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Den Sohn der Kraft; denn er ist uns ja wohlgesinnt; ihm dienen wir, der Opfer ni
 Пусть будет он помощником (в завоевании) наград, пусть будет усилителем  
 И защитником нас самих.
 </details>
+

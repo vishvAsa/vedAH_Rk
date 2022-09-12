@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+camvòḥ ← camū́- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+sudakṣa ← sudákṣa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vacyasva ← √vañc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+váhniḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+viśpátiḥ ← viśpáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+rītím ← rītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+gáviṣṭaye ← gáviṣṭi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+jínva ← √ji- 2 ~ jinv- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +193,7 @@ On this usage of ā́√vañc see comm. ad IX.2.2. This same phrase ā́ vacyasv
 I take viśā́m … viśpátiḥ to be a syntagm like gaṇā́nām … gaṇápatim “trooplord of troops” (II.23.1), with the simile váhnir ná interposed. The expression in II.23.1 also has an interposed word, though just a Wackernagel enclitic tvā. Geldner takes the viś- words as part of the simile, “wie ein zu Wagen fahrender Clanfürst” (and folds the gen. pl. viśā́m into its headnoun). He suggests an alternative (n. 10b) closer to mine, though again with the gen. elided: “wie ein Wagenross, du der Clanfürst.” And, with the aid of parentheses, Renou gets three separate NPs out of it: “tel un chef de clan, (maître) des clans, conducteur (du char).” The syntagms vṛṣṭím diváḥ … rītím apā́m exactly replicate the problematic compds vṛṣṭí-dyāvo rīty-ā̀paḥ in nearby IX.106.8. See comm. there. Whether there is any direct functional relationship between the cmpds and the syntagms, the two sequences must be considered together.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/09-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
 These two vss. are syntactically independent but linked by the theme of rain.
@@ -173,3 +225,4 @@ Vom Bretterpaar gepresst, o starker, quill hervor, der Stämme Herr, wie auf der
 Очищаясь, дай дождь с неба, течение вод!  
 Оживи поэтические мысли для поиска коров!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+púṣyate ← √puṣ- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+raṇváḥ ← raṇvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sádā ← sádā (invariable)  
+{}
+
+yávasā ← yávasa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hótrābhiḥ ← hótrā- 1 (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+mánuṣaḥ ← mánuṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svadhvaráḥ ← svadhvará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śaśamānáḥ ← √śamⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ukthyàm ← ukthyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+víprasya ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhū́ribhiḥ ← bhū́ri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sasavā́n ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+upayā́si ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Erfreulich stets wie Wiesen für den Weidenden bist Agni du, schönopfernd mit d
 Или же когда, потрудившись, ты приходишь с многими (дарами),  
 Захватив награду, достойную восхвалений вдохновенного (поэта).
 </details>
+

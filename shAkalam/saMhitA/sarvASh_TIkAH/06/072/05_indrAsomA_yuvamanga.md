@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aṅgá ← aṅgá (invariable)  
+{}
+
+índrāsomā ← índrāsóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tárutram ← tárutra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+apatyasā́cam ← apatyasác- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rarāthe ← √rā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:MED}
+
+śrútyam ← śrútya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+carṣaṇíbhyaḥ ← carṣaṇí- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+náryam ← nárya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+pr̥tanāṣā́ham ← pr̥tanāṣáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+ugrā ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vivyathuḥ ← √vyā- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +182,4 @@ Ihr, Indra-Soma, ihr allein verliehet siegreiche Kraft, berühmte, kinderreiche,
 Вы одели народы в мужественную  
 Отвагу, одолевающую в боях, о грозные.
 </details>
+

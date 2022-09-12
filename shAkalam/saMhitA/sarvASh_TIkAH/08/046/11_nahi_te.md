@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nahí ← nahí (invariable)  
+{}
+
+rā́dhasaḥ ← rā́dhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ántam ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+vindā́mi ← √vid- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+daśasyá ← √daśasy- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+āvitha ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vā́jebhiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +191,4 @@ Denn nimmer finde ich, o Held, ein Ende deiner Spendelust; Sei stets, o mächt'g
 Будь и дальше благосклонен к нам, о щедрый повелитель давильных камней!  
 Ты (всегда) помогал молитвам (своими) наградами.
 </details>
+

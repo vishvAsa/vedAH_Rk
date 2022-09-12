@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánādhr̥ṣṭāni ← ánādhr̥ṣṭa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+āsyat ← √as- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dhr̥ṣitáḥ ← √dhr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ví ← ví (invariable)  
+{}
+
+ádevān ← ádeva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+amr̥ṇat ← √mr̥̄- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ayā́syaḥ ← ayā́sya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nidhī́n ← nidhí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dade ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+māsā́ ← mā́s- 1 (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+púryam ← púrya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+aśr̥ṇāt ← √śr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+virúkmatā ← virúkmant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +209,4 @@ Die unnahbaren Festen schlug er kühn entzwei, der Gottvergessnen Kammern tilgt'
 
 a Неприступные:отважный (anadhrstani dhrsito) – В оригинале образования от одного и того же корня dhrs - дерзать
 </details>
+

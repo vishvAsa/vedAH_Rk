@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+bhū́rṇayaḥ ← bhū́rṇi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+ákramuḥ ← √kramⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ayā́saḥ ← ayā́s- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tveṣā́ḥ ← tveṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+ghnántaḥ ← √han- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+kr̥ṣṇā́m ← kr̥ṣṇá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tvácam ← tvác- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +154,7 @@ This enemy is identified as the “black skin” (kṛṣṇā́m … tvácam). 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/041/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/041/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 These two vss. are somewhat illuminated by IX.73.4-5, containing some very similar expressions: 73.4d padé-pade pāśínaḥ santi sétavaḥ “At every step there are snares that bind”; 73.5bcd … saṃdáhanto avratā́n / … ápa dhamanti … tvácam ásiknīm “…burning up those who follow no commandment, they blow away … the black skin.” Cf. also bhū́rṇayaḥ in 73.4b, corresponding to bhū́rṇayaḥ in our 1a, and note also that ápa dhamanti in 73.5c with “black skin” as its obj. resembles ghnántaḥ … ápa in our 1c, also with “black skin” as object.
@@ -148,3 +185,4 @@ Wie ungestüme Stiere sind die muntern, glänzenden genaht, Verjagend weit die s
 Как возбужденные, неистовые, неутомимые быки,  
 Громя черную кожу.
 </details>
+

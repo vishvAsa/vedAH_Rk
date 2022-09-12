@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhanajíte ← dhanajít- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svarjíte ← svarjít- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+viśvajíte ← viśvajít- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nr̥jíte ← nr̥jít- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+satrājíte ← satrājít- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+urvarājíte ← urvarājít- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+abjíte ← abjít- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+aśvajíte ← aśvajít- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gojíte ← gojít- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+haryatám ← haryatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajatā́ya ← yajatá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +220,4 @@ Dem Allbesieger, der erbeutet alles Gut an Beute, Glanz, an Männern und an Feld
 Завоевывающему коней, завоевывающему коров, завоевывающему воды –  
 Индре, достойному жертв, принеси желанного сому!
 </details>
+

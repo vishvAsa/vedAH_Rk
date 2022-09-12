@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yásyāḥ ← yá- (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+dhāráyante ← √dhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+vratā́ ← vratá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dr̥śé ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+kám ← kám (invariable)  
+{}
+
+sū́ryāmā́sā ← sū́ryāmā́s- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -102,7 +130,7 @@ There are several ways to construe the dual dvandva sū́ryāmā́sā of c. Geld
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 For the somewhat peculiar imagery of these vss., see the published introduction.
@@ -133,3 +161,4 @@ In deren Schoosse all ihr Werk die Götter wohl befestigen Und Sonn' und Mond, u
 Боги поддерживают заветы,  
 (И) солнце и луна, чтобы их было видно.
 </details>
+

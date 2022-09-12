@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́vatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+káṇvam ← káṇva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+priyámedham ← priyámedha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+upastutám ← upastutá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+átrim ← átri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śiñjā́ram ← śiñjā́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,3 +137,4 @@ Wie Kanva eure Hülfe fand, Prijamedha, Upastuta, O Ritter, Atri, Çindschara,
 Приямедхе, Упастуте,  
 Атри, Шинджаре, о Ашвины,
 </details>
+

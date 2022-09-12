@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahitvanā́ ← mahitvaná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+trís ← trís (invariable)  
+{}
+
+paribhū́ḥ ← paribhū́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rocanā́ ← rocaná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+trī́ ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dívaḥ ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+invati ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pr̥thivī́ḥ ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tisráḥ ← trí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tisráḥ ← trí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rakṣati ← √rakṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tribhíḥ ← trí- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vrataíḥ ← vratá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,8 +192,6 @@ He drives the three heavenly and the three earthly realms
 \[and\] with three-fold laws he protects us by himself. 
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -175,3 +234,4 @@ Dreimal umfängt mit seiner Grösse Savitar die Luft, drei dunkle und drei helle
 Он приводит в движение три неба, три земли.  
 Он сам охраняет нас тремя обетами.
 </details>
+

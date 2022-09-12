@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+svā́hākr̥tim ← svā́hākr̥ti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gata ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+pávamānasya ← √pū- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāyúḥ ← vāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sajóṣasaḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +172,4 @@ Zum Heiles-ruf des rieselnden, o Götter, alle kommt herbei, Der Wind, Gebetsher
 Ваю, Брихаспати, Сурья,  
 Агни, Индра единодушные!
 </details>
+

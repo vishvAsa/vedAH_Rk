@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+padavī́yam ← padavī́ya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vācáḥ ← vā́c- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+yajñéna ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+avindan ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+práviṣṭām ← √viś- (root)  
+{case:ACC, gender:F, number:SG, voice:PASS}
+
+ŕ̥ṣiṣu ← ŕ̥ṣi- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+ābhŕ̥tya ← √bhr̥- (root)  
+{non-finite:CVB}
+
+adadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+navante ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+rebhā́ḥ ← rebhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Des Wortes Spur verfolgten sie mit Andacht, und fanden es geborgen in den Dichte
 Принеся ее, они разделили (ее) между многими.  
 Семеро певцов вместе приветствуют ее криками.
 </details>
+

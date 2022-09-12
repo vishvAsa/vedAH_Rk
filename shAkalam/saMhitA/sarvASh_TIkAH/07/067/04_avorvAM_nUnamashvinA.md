@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+avóḥ ← ayám (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+nūnám ← nūnám (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yuvā́kuḥ ← yuvā́ku- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+huvé ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+mādhvī ← mā́dhvī- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vasūyúḥ ← vasūyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sthávirāsaḥ ← sthávira- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vahantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+mádhūni ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+píbāthaḥ ← √pā- 2 (root)  
+{number:DU, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+súṣutā ← súṣuta- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +218,4 @@ Der eure bin ich jetzt, o Ritter, wenn ich euch Holde Gut begehrend ruf beim Saf
 (То) пусть вас привезут могучие кони:  
 Вы будете пить у нас прекрасно выжатые медовые (соки)!
 </details>
+

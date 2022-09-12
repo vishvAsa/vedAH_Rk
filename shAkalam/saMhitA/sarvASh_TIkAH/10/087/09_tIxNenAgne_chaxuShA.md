@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cákṣuṣā ← cákṣus- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rakṣa ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tīkṣṇéna ← tīkṣṇá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naya ← √nī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+pracetaḥ ← prácetas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prā́ñcam ← prā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásubhyaḥ ← vásu- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+hiṁsrám ← hiṁsrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rákṣāṁsi ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śóśucānam ← √śuc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dabhan ← √dabh- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+nr̥cakṣaḥ ← nr̥cákṣas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yātudhā́nāḥ ← yātudhā́na- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Behüt mit scharfem Blick das Opfer, Agni, den guten Göttern führ es vor, o we
 Хищника, спаляющего ракшасов.  
 Тебя не проведут колдуны, о (ты) со взглядом героя!
 </details>
+

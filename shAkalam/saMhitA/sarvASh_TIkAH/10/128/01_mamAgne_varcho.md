@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+várcaḥ ← várcas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vihavéṣu ← vihavá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+índhānāḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+puṣema ← √puṣ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+cátasraḥ ← catúr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+namantām ← √nam- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+pradíśaḥ ← pradíś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ádhyakṣeṇa ← ádhyakṣa- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+jayema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+pŕ̥tanāḥ ← pŕ̥tanā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 Мне пусть поклоняться четыре стороны света!  
 С тобою как с надзирателем пусть мы выиграем сражения!
 </details>
+

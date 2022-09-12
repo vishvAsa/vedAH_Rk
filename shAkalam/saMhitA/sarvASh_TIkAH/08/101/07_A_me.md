@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+údyatā ← √yam- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+vácāṁsi ← vácas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dyumáttamāni ← dyumáttama- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kártvā ← kártva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sajóṣasā ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+havyā́ni ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+vītáye ← vītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +176,4 @@ Zu Liedern, die ich dargereicht, zu schönsten, die ich dichten will, Kommt beid
 О Насатьи, приезжайте вы оба, единодушные,  
 Чтобы принять жертвенные дары!
 </details>
+

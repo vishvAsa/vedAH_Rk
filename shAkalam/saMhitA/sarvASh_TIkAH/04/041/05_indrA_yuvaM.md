@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyā́ḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+bhūtám ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+índrā ← índra- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+varuṇā ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+dhenóḥ ← dhenú- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+dhiyáḥ ← dhī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pretā́rā ← pretár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vr̥ṣabhā́ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+duhīyat ← √duh- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+gatvī́ ← √gam- (root)  
+{non-finite:CVB}
+
+iva ← iva (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+yávasā ← yávasa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+gaúḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sahásradhārā ← sahásradhāra- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +240,4 @@ Nach dieser Andacht, Varuna und Indra, seid voller Brunst, wie nach der Kuh die 
 Пусть она доится для нас, словно пошла она на пастбище  
 Великая корова с тысячью струй молока!
 </details>
+

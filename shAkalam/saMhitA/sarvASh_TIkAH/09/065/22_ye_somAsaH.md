@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+parāváti ← parāvát- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+arvāváti ← arvāvát- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sunviré ← √su- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yé ← yá- (pronoun)  
+{}
+
+adáḥ ~ adó ← asaú (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+śaryaṇā́vati ← śaryaṇā́vant- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +132,7 @@ The location in c is taken by Geldner/Renou as a place name, “in Śaryaṇāva
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/22-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, this tṛca is thematically unified by a listing of the many place in which soma can be pressed in 22-23; all these clauses share a single verb sunviré in 22b. The two vss. are followed by a summary vs. (24) expressing the hope that all these diverse soma types will bring good things to us. The tṛca also shows signs of formal cohesion that are rare in these Gāyatrī assemblages: vss. 22-23 consist of six pāda-length rel. cl., all introduced by yé, with disjunctive vā found in both c pādas, while 24 begins with the resumptive and summarizing correlative té.
@@ -130,3 +161,4 @@ Die Somatränke, welche fern gepresst sind, oder in der Näh Und dort auf somare
 
 -ru-
 </details>
+

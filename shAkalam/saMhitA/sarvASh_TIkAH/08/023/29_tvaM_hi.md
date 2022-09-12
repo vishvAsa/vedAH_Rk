@@ -15,13 +15,56 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+supratū́ḥ ← supratúr- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+gómatīḥ ← gómant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sātím ← sātí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥dhi ← √vr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +175,4 @@ Du, o Agni, bist ja ein starker Eroberer, so eröffne uns denn reiche Labetränk
 Ты нам открой, о Агни,  
 Жертвенные услады, состоящие из коров, достижение великого богатства!
 </details>
+

@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+maghónaḥ ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+stóme ← stóma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vr̥ddháśociṣaḥ ← vr̥ddháśocis- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tuviṣváṇi ← tuviṣván- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+ādadhúḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+aryé ← aryá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +172,4 @@ In seiner Freundschaft, seinem Preis, des reichen, hochaufflammenden, Des rausch
 С громким треском, (с богом,) в котором все  
 (Существа) соединили (свою) ярость, с благородным!
 </details>
+

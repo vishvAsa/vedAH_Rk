@@ -16,14 +16,75 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āśásaḥ ← āśás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tuvikūrmin ← tuvikūrmin- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+hávante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tirás ← tirás (invariable)  
+{}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śáviṣṭha ← śáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śrudhí ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +216,4 @@ Vielwirkender, dir streben viele Wünsche zu, dich, Indra, ladend zum Genuss; Au
 Приходи, о благой, минуя даже выжимания чужого!  
 О самый мощный, услышь мой зов!
 </details>
+

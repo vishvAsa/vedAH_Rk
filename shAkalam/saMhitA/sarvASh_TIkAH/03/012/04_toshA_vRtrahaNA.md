@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+tośā́ ← tośá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vr̥traháṇā ← vr̥trahán- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+áparājitā ← áparājita- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sajítvānā ← sajítvan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+indrāgnī́ ← indrāgní- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vājasā́tamā ← vājasā́tama- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +146,4 @@ Die unbesiegten Sieger ruf' die güt'gen Feindetödter ich, Indrāgni, die erbeu
 Побеждающих, (но) непобедимых,  
 Индру-Агни, лучше всех добывающих награды.
 </details>
+

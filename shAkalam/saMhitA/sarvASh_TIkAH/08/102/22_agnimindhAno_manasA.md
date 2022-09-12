@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índhānaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saceta ← √sac- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īdhe ← √idh- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+vivásvabhiḥ ← vivásvan- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

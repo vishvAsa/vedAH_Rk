@@ -16,14 +16,54 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhiśríyā ← abhiśrī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+bhúvanānām ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+ghr̥távatī ← ghr̥távant- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+madhudúghe ← madhudúgha- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+pr̥thvī́ ← pr̥thú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+supéśasā ← supéśas- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+urvī́ ← urú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+dhármaṇā ← dhárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ajáre ← ajára- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+bhū́riretasā ← bhū́riretas- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+víṣkabhite ← √skambhⁱ- (root)  
+{case:NOM, gender:F, number:DU, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +160,7 @@ pṛthvī́here (and in the same phrase in 4c) is of course a blindingly obvious
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/070/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/070/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, the focus here is on the various liquids associated with Heaven and Earth and their sheer moisture. Vs. 1 has ghee, honey, milk (by implication, in the compd. madhu-dúghe), and semen; in vs. 2 they are said never to dry up (ásaścantī) and possess streams, milk, ghee, and semen. The cmpd.
@@ -154,3 +194,4 @@ Die reich an Fett ihr alle Wesen schön erfüllt, ihr weiten, schönen Welten, H
 Небо-и-Земля по закону Варуны  
 Укреплены порознь, нестареющие, обильные семенем.
 </details>
+

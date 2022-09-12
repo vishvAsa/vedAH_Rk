@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dhā́māni ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́ni ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+kave ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pávamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+r̥túbhiḥ ← r̥tú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +144,7 @@ My interpr. of the du. dhā́manī in 2 as the two cosmic domains allows the con
 The main verb of this clause is pári … asi, in the formula viśvátaḥ pári √as ‘surround entirely’ (on which see my 1998 “Rigvedic viśvátaḥ sīm, Or, Why Syntax Needs Poetics,” Fs. Watkins). Within this phrase we seem to have an embedded rel. cl. yā́ni te “which are yours,” dependent on the obj. dhā́māni, and embedded relatives are generally blocked in the RV. But as we have noted elsewhere (see, e.g., comm. ad VI.21.2, 22.5), nominal rel. clauses are an exception to this rule, and here the yā́ni seems to be displaying (proto-)izafe behavior.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The tṛca shows clear signs of unity, esp. lexically. Not only do all three vss.
@@ -141,3 +175,4 @@ Um alle Stätten, die du hast, o Soma, bist du überall, O Seher, hell zur Opfer
 
 -ru-
 </details>
+

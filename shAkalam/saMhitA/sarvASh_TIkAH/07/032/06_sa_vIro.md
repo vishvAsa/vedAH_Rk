@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápratiṣkutaḥ ← ápratiṣkuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śūśuve ← √śū- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+gabhīrā́ ← gabhīrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sávanāni ← sávana- 1 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dhā́vati ← √dhāv- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sunóti ← √su- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +187,4 @@ Der Mann gedeiht, an Männern stark, durch Indra unbesiegbar stets, Der, Vritrat
 Кто тебе, о убийца Вритры, густые соки сомы  
 Выжимает и разводит.
 </details>
+

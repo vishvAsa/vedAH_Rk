@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́t ← ā́t (invariable)  
+{}
+
+ha ← ha (invariable)  
+{}
+
+indriyám ← indriyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+néme ← néma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yajante ← √yaj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+paktíḥ ← paktí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+puroḷā́śam ← puroḷā́ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+riricyāt ← √ric- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+ásuṣvīn ← ásuṣvi- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+papr̥cyāt ← √pr̥c- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+jujoṣa ← √juṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yájadhyai ← √yaj- (root)  
+{case:DAT, number:SG, tense:PRS}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +228,7 @@ As Oldenberg notes, there are 3 forms of √ric in this hymn, all pf.: pf. part.
 ririkvāṃsaḥ (3b), pf. opt. riricyāt here, and a plupf. (probably) arirecīt (9c). They are all somewhat marked in form and have different contextual meanings. Oldenberg remarks “der Dichter liebte dies Verb.” Certainly he seems to be making a point with it.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 The pile-up of pāda-initial ā́d íd ‘just then, just after that’, beginning with 4d and marking every pāda in 5, conveys the quick succession of events, but switches abruptly from battlefield to sacrifice. The néme constructions of 4d and 5a make it clear, however, that despite the change in venue the same antagonists are in play.
@@ -192,3 +259,4 @@ Dann müssen Indra's Macht die andern ehren, dann muss der Brüh' der Opferkuche
 
 -ru-
 </details>
+

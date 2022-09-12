@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+avocam ← √vac- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+dhiyaṁdhā́ḥ ← dhiyaṁdhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ajáraḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sváśvaḥ ← sváśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sadyás ← sadyás (invariable)  
+{}
+
+yātháḥ ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+bhojám ← bhojá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havíṣmantam ← havíṣmant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+taráṇim ← taráṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Ich hab' euch Ritter andachtsvoll gerufen den ew'gen Wagen mit den schnellen Ros
 На которой за один день вы объезжаете пространства,  
 (Направляясь) к деятельному жертвователю, приготовившему возлияние.
 </details>
+

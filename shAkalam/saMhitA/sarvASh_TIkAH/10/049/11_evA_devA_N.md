@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+evá ← evá (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vivye ← √vī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+cyautnéna ← cyautná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+satyárādhāḥ ← satyárādhas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+śacīvaḥ ← śácīvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+gr̥ṇanti ← √gr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+svayaśaḥ ← sváyaśas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+turā́saḥ ← turá- 1 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ So hat der starke, wahrhaft reiche Indra durch kräft'ge Thaten Gott und Mensch 
 Все эти (дела) твои, о повелитель буланых коней, о могучий,  
 Славят деятельные (жрецы), о обладающий собственным блеском.
 </details>
+

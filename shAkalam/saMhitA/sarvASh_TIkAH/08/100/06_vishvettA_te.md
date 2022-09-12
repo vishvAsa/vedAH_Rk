@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; repeated line  
 popular  
 popular  
 popular
+#### Morph
+ít ← ít (invariable)  
+{}
+
+pravā́cyā ← pravā́cya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sávaneṣu ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+cakártha ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+pā́rāvatam ← pā́rāvata- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+purusambhr̥tám ← purusambhr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+apā́vr̥ṇoḥ ← √vr̥- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ŕ̥ṣibandhave ← ŕ̥ṣibandhu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śarabhā́ya ← śarabhá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +235,4 @@ Alle deine Thaten sind bei den Somafesten zu preisen, die du, o mächtiger Indra
 Когда богатство (народа) Параваты, собранное многими,  
 Ты открыл для Шарабхи, родственника риши.
 </details>
+

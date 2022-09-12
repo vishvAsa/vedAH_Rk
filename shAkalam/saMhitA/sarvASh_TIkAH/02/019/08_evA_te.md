@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+evá ← evá (invariable)  
+{}
+
+gr̥tsamadā́ḥ ← gr̥tsamadá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+avasyávaḥ ← avasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+takṣuḥ ← √takṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+vayúnāni ← vayúna- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+brahmaṇyántaḥ ← √brahmaṇy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+návīyaḥ ← návīyaṁs- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+aśyuḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:OPT, tense:AOR, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sukṣitím ← sukṣití- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ So woben dir, o Held, die Gritsamader Gebet, wie kunstverständ'ge die Gewebe; D
 Пусть благочестивые снова добьются у тебя, о Индра,  
 Жертвенного подкрепления, силы, хорошего жилья, доброго расположения.
 </details>
+

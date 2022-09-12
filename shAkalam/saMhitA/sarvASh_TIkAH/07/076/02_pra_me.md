@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adr̥śran ← √dr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+devayā́nāḥ ← devayā́na- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pánthāḥ ← pánthā- ~ path- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+ámardhantaḥ ← ámardhant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+íṣkr̥tāsaḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+vásubhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ábhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ketúḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purástāt ← purástāt (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+harmyébhyaḥ ← harmyá- (nominal stem)  
+{case:ABL, gender:N, number:PL}
+
+pratīcī́ ← pratyáñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +230,4 @@ Die gottbetretnen Pfade sind mir sichtbar, geschmückt mit Gütern, nimmer irre 
 Возникло и знамя Ушас на востоке.  
 Она вышла (нам) навстречу из (своего) прочного укрытия.
 </details>
+

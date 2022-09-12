@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bhānumádbhiḥ ← bhānumánt- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhāsā́ ← bhā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tatántha ← √tan- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+aktáḥ ← √añj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+citráḥ ← citrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nayat ← √nī- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+támāṁsi ← támas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+auśijáḥ ← auśijá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dī́yan ← √dī- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pátman ← pátman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +239,4 @@ Der Sonne gleich umspanntest du, o Agni, mit Flammenstrahlen, hellem Licht die W
 Яркий, он ведет за пределы мрака, обмазанный (жиром),  
 В полете на (своем) пламени, летя, как сын Ушиджа.
 </details>
+

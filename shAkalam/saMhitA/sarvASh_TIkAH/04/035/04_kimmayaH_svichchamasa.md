@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsa ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+camasáḥ ← camasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣáḥ ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kimmáyaḥ ← kimmáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svit ← svit (invariable)  
+{}
+
+catúraḥ ← catúr- (nominal stem)  
+{}
+
+kā́vyena ← kā́vya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vicakrá ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sávanam ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sunudhvam ← √su- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+mádhunaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pātá ← √pā- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+somyásya ← somyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +198,4 @@ Woraus bestand doch dieser eine Becher, aus dem ihr vier gebildet habt mit Weish
 Так выжимайте выжимание (сомы) для опьянения!  
 Пейте, о Рибху, сладость сомы!
 </details>
+

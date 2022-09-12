@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aviḍḍhi ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+ī́śiṣe ← √īś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+prábhr̥tim ← prábhr̥ti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mahā́ ← máh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+návayā ← náva- 2 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+mīḍhvā́n ← mīḍhváṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stávate ← √stu- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+matím ← matí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sī́ṣadhaḥ ← √sādh- ~ sidh- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +246,4 @@ Nimm huldvoll an dies Opfer, welches dir gebührt, mit diesem neuen grossen Lied
 Чтобы наш щедрый (покровитель), твой друг, был прославлен,  
 О Брихаспати, приведи же к цели нашу молитву!
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+kármaṇā ← kárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+naśat ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+cakā́ra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sadā́vr̥dham ← sadā́vr̥dha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ŕ̥bhvasam ← ŕ̥bhvas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvágūrtam ← viśvágūrta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ádhr̥ṣṭam ← ádhr̥ṣṭa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhr̥ṣṇvòjasam ← dhr̥ṣṇvòjas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +198,4 @@ Ihm kommt an Werken keiner gleich, die er gethan, dem segnenden, Dem vielgeliebt
 
 -ru-
 </details>
+

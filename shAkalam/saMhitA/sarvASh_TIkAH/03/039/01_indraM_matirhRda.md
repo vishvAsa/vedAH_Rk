@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+hr̥dáḥ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+matíḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vacyámānā ← √vañc- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:PASS}
+
+ácha ← ácha (invariable)  
+{}
+
+jigāti ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stómataṣṭā ← stómataṣṭa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jā́gr̥viḥ ← jā́gr̥vi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śasyámānā ← √śaṁs- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:PASS}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jā́yate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+viddhí ← √vid- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Zu Indra eilt das Lied zum Lob gedichtet, zu ihm, dem Herren, von Herzen ausgesp
 (Та,) что бодрствует, произносимая при обряде.  
 О Индра, знай то, что рождается для тебя!
 </details>
+

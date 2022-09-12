@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+parisrútam ← parisrút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+punā́ti ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+duhitā́ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śáśvatā ← śáśvant- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tánā ← tán- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vā́reṇa ← vā́ra- 1 (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +155,4 @@ Der Sonne Tochter reinigt dir den Soma, der in stetem Lauf Hin durch des Widders
 Твоего сому, растекающегося  
 Непрерывной чередой по ситу.
 </details>
+

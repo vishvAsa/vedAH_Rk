@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abibhran ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+paraśū́n ← paraśú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+vánā ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+viḍbhíḥ ← víś- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vr̥ścántaḥ ← √vr̥śc- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+dádhataḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+sudrvàm ← sudrú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vakṣáṇāsu ← vakṣáṇā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+dahanti ← √dah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kŕ̥pīṭam ← kŕ̥pīṭa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Die Götter kamen ihre Aexte tragend, die Bäume fällend mit den Marutstämmen,
 (Там,) где сухостой, они его сжигают.  
 Васукра:
 </details>
+

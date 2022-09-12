@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+rāsva ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+sahásravat ← sahásravant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+puṣṭimát ← puṣṭimánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tokávat ← tokávant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dyumát ← dyumánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánupakṣitam ← ánupakṣita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+várṣiṣṭham ← várṣiṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +185,4 @@ Nun gib uns tausendfaches Gut, an Kindern und an Nahrung reich, Das, Agni, glän
 Сверкающее богатство, о Агни, состоящее из прекрасных мужей,  
 Высшее, непреходящее!
 </details>
+

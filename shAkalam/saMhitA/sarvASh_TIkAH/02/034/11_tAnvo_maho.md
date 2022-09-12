@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+evayā́vnaḥ ← evayā́van- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+eṣásya ← eṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+prabhr̥thé ← prabhr̥thá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+víṣṇoḥ ← víṣṇu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+híraṇyavarṇān ← híraṇyavarṇa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kakuhā́n ← kakuhá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yatásrucaḥ ← yatásruc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+brahmaṇyántaḥ ← √brahmaṇy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śáṁsyam ← śáṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +191,7 @@ implore the prominent ones of golden hue for generosity worthy to  be proclaimed
 See disc. in the published introduction. on this as the climactic vs. of the hymn -- both introducing unambiguous fire references and identifying Apām Napāt as the secret name of Agni.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/10-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 The ends of the d pādas in these vss. are very similar: 10d … ánnam asmai, 11d … ánnam asya. In 10d “The givers of gold give food to him” implies that his food is gold; 11d further makes clear that the gold(en) food is really gold-colored ghee.
@@ -174,3 +223,4 @@ So laden wir euch grosse, eilig gehende, euch Marut's ein zum Trunk des starken,
 (Этих богов) золотистого цвета, выдающихся,  
 Мы с протянутой ложкой, со священными словами молим о милости, достойной прославления.
 </details>
+

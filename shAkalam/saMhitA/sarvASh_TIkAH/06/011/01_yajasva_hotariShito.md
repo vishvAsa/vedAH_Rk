@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hotar ← hótar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iṣitáḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yájasva ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+yájīyān ← yájīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bā́dhaḥ ← bā́dh- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+práyukti ← práyukti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mitrā́váruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+hotrā́ya ← hotrá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vavr̥tyāḥ ← √vr̥t- (root)  
+{number:SG, person:2, mood:OPT, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Aufs beste opfre, Priester, du den Helden, erregt wie durch der Maruts Antrieb, 
 Да повернешь ты Митру-Варуну, Насатьев,  
 Небо и Землю к нашему жертвоприношению!
 </details>
+

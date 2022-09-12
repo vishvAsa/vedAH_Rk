@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhipríyaḥ ← abhiprī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vā́tāḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arṣanti ← √arṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+máhaḥ ← máhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sóma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+várdhanti ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +153,4 @@ Die Flüsse strömen, Soma, dir und dir die Winde hold gesinnt, Sie mehren deine
 Для тебя текут реки.  
 О сома, они увеличивают твою мощь!
 </details>
+

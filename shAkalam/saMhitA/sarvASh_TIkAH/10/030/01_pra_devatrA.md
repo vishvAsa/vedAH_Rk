@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bráhmaṇe ← bráhman- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+devatrā́ ← devatrā́ (invariable)  
+{}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+gātúḥ ← gātú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ácha ← ácha (invariable)  
+{}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mánasaḥ ← mánas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+práyukti ← práyukti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dhāsím ← dhāsí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mahī́m ← máh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pr̥thujráyase ← pr̥thujráyas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rīradhā ← √randh- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+suvr̥ktím ← suvr̥ktí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Den Göttern eile des Gebetes Gang zu, hin zu den Wassern, wie durch Geistes Ant
 Я отдал в распоряжение широкошагающего прекрасный гимн –  
 Великое подкрепление Митры и Варуны.
 </details>
+

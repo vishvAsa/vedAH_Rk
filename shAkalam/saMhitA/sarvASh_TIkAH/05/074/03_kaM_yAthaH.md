@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gachathaḥ ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yāthaḥ ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ácha ← ácha (invariable)  
+{}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuñjāthe ← √yuj- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+raṇyathaḥ ← √ranⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+iṣṭáye ← iṣṭí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+uśmasi ← √vaś- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Wem fahrt ihr zu? wem eilt ihr nach? zu wem schirrt euren Wagen ihr? An wessen B
 Чьи молитвы радуют (вас)?  
 Мы хотим, чтобы вы охотно пришли.
 </details>
+

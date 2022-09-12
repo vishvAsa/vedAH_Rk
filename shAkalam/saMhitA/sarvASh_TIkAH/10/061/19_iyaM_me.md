@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ihá ← ihá (invariable)  
+{}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+nā́bhiḥ ← nā́bhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sadhástham ← sadhástha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sárvaḥ ← sárva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+dvijā́ḥ ← dvijā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prathamajā́ḥ ← prathamajā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+aduhat ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jā́yamānā ← √janⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ Dies ist meine Verwandschaft; hier ist mein Heimatsitz; hier sind meine Götter,
 
 -ru-
 </details>
+

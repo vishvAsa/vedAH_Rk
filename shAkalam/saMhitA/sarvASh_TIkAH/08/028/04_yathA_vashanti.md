@@ -15,13 +15,56 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; 12 = 8+4  
 genre M  
 genre M
+#### Morph
+asat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+táthā ← táthā (invariable)  
+{}
+
+váśanti ← √vaś- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+minat ← √mī- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+árāvā ← árāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ Wie es der Götter Wille fügt, geschieht es, niemand hindert es, Auch nicht der
 Никто этому у них не помешает,  
 Даже скупой смертный.
 </details>
+

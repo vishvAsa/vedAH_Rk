@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stuhí ← √stu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vyaśvavát ← vyaśvavát (invariable)  
+{}
+
+ánūrmim ← ánūrmi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yámam ← yáma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gáyam ← gáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+máṁhamānam ← √maṁh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +163,4 @@ Preis' Indra nach Viaçva's Art, den starken Lenker, der nicht wankt, Der dem Ve
 Правящего неколеблющимся конем, приносящим награду,  
 Раздающего почитателю имущество врага!
 </details>
+

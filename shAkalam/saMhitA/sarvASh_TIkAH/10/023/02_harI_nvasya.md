@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+nú ← nú (invariable)  
+{}
+
+váne ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vidé ← √vid- 1 (root)  
+{case:DAT, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+bhuvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghaíḥ ← maghá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+patyate ← √pat- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+r̥bhúḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥bhukṣā́ḥ ← r̥bhukṣā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́jaḥ ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+dā́sasya ← dā́sa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kṣṇaumi ← √kṣṇu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +246,4 @@ Sein Füchsepaar, das in der Kufe Gut erlangt, der Vritratödter Indra ist an Sc
 Рибху, Ваджа, Рибхукшан, он повелевает силой (, говоря):  
 Я стираю само имя дасы!
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+krátvaḥ ← krátu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pūrṇám ← √pr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+udáram ← udára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+turásya ← turá- 1 (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vidhatáḥ ← √vidh- (root)  
+{case:ACC, gender:M, number:SG, tense:AOR, voice:ACT}
+
+somapā́vnaḥ ← somapā́van- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vr̥traghnáḥ ← vr̥trahán- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +153,4 @@ Mit Krafttrunk ist sein Bauch gefüllt, des mächt'gen, der den Vritra schlägt,
 
 -ru-
 </details>
+

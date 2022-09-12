@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+devayúḥ ← devayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mánuḥ ← mánu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñákāmaḥ ← yajñákāma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+araṁkŕ̥tya ← √kr̥- (root)  
+{non-finite:CVB}
+
+kṣeṣi ← √kṣi- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+támasi ← támas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+devayā́nān ← devayā́na- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kr̥ṇuhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+sugā́n ← sugá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+havyā́ni ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sumanasyámānaḥ ← √sumanasy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+váha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,8 +181,6 @@ popular
 \[varUNa on behalf of the devas said:\] Come O’ agni who dwells in the darkness; manu devoted to the gods desiring to perform sacrifices,waits ready to do rituals. Make clear the paths leading to the northern course of the ecliptic, and bear oblations with good-will.
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -171,3 +218,4 @@ Komm her, der fromme Mensch das Opfer liebend steht schon bereit; was weilst du 
 Отвози жертвы благожелательно настроенный!  
 Агни:
 </details>
+

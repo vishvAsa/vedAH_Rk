@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áṅgaiḥ ← áṅga- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ātatanvā́n ← √tan- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śukrébhiḥ ← śukrá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+kavíbhiḥ ← kaví- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pavítraiḥ ← pavítra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+śocíḥ ← śocís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vásānaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ánūnāḥ ← ánūna- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+br̥hatī́ḥ ← br̥hánt- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mimīte ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+śríyaḥ ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Mit lichten Gliedern dringend durch die Lüfte, durch weises Läutern seinen Sin
 Одеваясь в пламя (и) жизненную силу вод,  
 Он создает свою высокую, совершенную красоту.
 </details>
+

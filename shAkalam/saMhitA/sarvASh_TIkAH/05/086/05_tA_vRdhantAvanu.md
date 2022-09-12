@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+vr̥dhántau ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:DU, tense:AOR, voice:ACT}
+
+adábhā ← adábha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+devaú ← devá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mártāya ← márta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+árhantā ← √arh- (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+purás ← purás (invariable)  
+{}
+
+áṁśā ← áṁśa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+árvate ← árvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+devaú ← devá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +200,4 @@ Sie, welche wachsen Tag für Tag, die Götter, hold dem Sterblichen, Sie, die es
 Хоть они и так достойны, я ставлю их впереди,  
 (Эти) два бога – словно обе части (награды) для скакуна.
 </details>
+

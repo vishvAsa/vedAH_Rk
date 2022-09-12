@@ -17,15 +17,70 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥cā́ ← ŕ̥c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śociṣaḥ ← śocís- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+śúkrasya ← śukrá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dásma ← dasmá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+súścandra ← suścandrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśpate ← viśpáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hávyavāṭ ← havyavā́h- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hūyate ← √hu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Mit Loblied wird dir Opferguss, o Agni, Herr des hellen Lichts, O hehrer Hausher
 О увозящий жертвы, только для тебя совершается.  
 Принеси восхвалителям жертвенную усладу!
 </details>
+

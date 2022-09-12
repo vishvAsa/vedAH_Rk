@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vr̥ṣā́kapim ← vr̥ṣā́kapi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+abhirákṣasi ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+jambhiṣat ← √jambh- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+śvā́ ← śván- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+kárṇe ← kárṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+varāhayúḥ ← varāhayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Den lieben Vrisakapi, den du, Indra, da in Schutz nimmst, den soll gleich der Hu
 
 -ru-
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhíkṣamāṇe ← √bhaj- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED, mood:DES}
+
+índreṣite ← índreṣita- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+prasavám ← prasavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+rathyā̀ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yāthaḥ ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pínvamāne ← √pinv- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+samārāṇé ← √r̥- 1 (root)  
+{case:NOM, gender:F, number:DU, tense:PRF, voice:MED}
+
+ūrmíbhiḥ ← ūrmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+anyā́ ← anyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+anyā́m ← anyá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śubhre ← śubhrá- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Erregt von Indra, schnelle Strömung heischend, wie Wagenlenker eilet ihr zum Me
 Одна из вас входит в другую, о прекрасные!  
 Вишвамитра:
 </details>
+

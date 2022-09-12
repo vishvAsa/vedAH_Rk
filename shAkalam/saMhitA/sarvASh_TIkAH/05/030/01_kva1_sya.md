@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apaśyat ← √paś- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kvà ← kvà (invariable)  
+{}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háribhyām ← hári- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+ī́yamānam ← √i- 2 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:MED}
+
+sukháratham ← sukháratha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ichán ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sutásomam ← sutásoma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vajrī́ ← vajrín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gántā ← gántar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ókaḥ ← ókas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+puruhūtáḥ ← puruhūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +213,7 @@ Despite the distance between them and the syntagms in between, I take rāyā́ a
 It is tempting to interpr gántā in d as a periphrastic future, a temptation yielded to in the published translation
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 Note the reciprocal ‘seeking’ (ichán) of Indra (1c) and his devotee (2b).
@@ -187,3 +245,4 @@ Wo ist der Mann? wer hat geschaut den Indra, der mit den Füchsen fährt auf sch
 Который ищет со (своим) богатством того, кто выжал сому, (он,) громовержец,  
 (И) отправляется в такой дом со (своей) помощью, (он) многопризываемый?
 </details>
+

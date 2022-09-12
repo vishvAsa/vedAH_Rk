@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+indriyā́ṇi ← indriyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śatakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jáneṣu ← jána- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+pañcásu ← páñca- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vr̥ṇe ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +162,4 @@ Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fün
 Которые у тебя среди пяти народов,  
 О Индра, – я выбираю их себе.
 </details>
+

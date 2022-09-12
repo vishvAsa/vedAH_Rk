@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+saṁdŕ̥k ← saṁdŕ̥ś- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śréṣṭhā ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+subhágasya ← subhága- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+citrátamā ← citrátama- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mártyeṣu ← mártya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ághnyāyāḥ ← ághnya- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śúci ← śúci- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+taptám ← √tap- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhenóḥ ← dhenú- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+maṁhánā ← maṁhánā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+spārhā́ ← spārhá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Sein Anblick ist der liebste bei den Menschen von schönstem Glanz, des reichbeg
 Словно разогретый чистый жир коровы,  
 Желанен (его вид), словно щедрый дар дойной коровы.
 </details>
+

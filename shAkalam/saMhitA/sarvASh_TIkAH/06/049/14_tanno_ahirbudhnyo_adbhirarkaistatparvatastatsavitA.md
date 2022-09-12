@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adbhíḥ ← áp- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+áhiḥ ← áhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+budhnyàḥ ← budhnyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cánaḥ ← cánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhāt ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+párvataḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+óṣadhībhiḥ ← óṣadhī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+rātiṣā́caḥ ← rātiṣác- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jinvatu ← √ji- 2 ~ jinv- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+púraṁdhiḥ ← púraṁdhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +245,4 @@ Dies unser Lied nehm an der Wetterdrache, der Berg und Savitar nebst Wassern, Bl
 Так пусть (божества), сопровождающие дарение,  
 Бхага, Пурамдхи вдохнут (в нас) жизнь для (приобретения) богатства!
 </details>
+

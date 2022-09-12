@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+bāhávā ← bāhú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sisr̥tam ← √sr̥- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gávyūtim ← gávyūti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ukṣatam ← √ukṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jáne ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śravayatam ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yuvānā ← yúvan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+hávā ← háva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śrutám ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +221,4 @@ O streckt die Arme vor, damit wir leben, besprengt mit fetter Nahrung unsre Wies
 Сделайте нас знаменитыми в народе, о двое юных!  
 Услышьте эти мои призывы, о Митра-Варуна!
 </details>
+

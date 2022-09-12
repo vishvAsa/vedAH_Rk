@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amŕ̥teṣu ← amŕ̥ta- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ghr̥tásya ← ghr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+médasaḥ ← médas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+stokā́nām ← stoká- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+aśāna ← √aśⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+hótar ← hótar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+niṣádya ← √sad- (root)  
+{non-finite:CVB}
+
+prá ← prá (invariable)  
+{}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Dies unser Opfer bringe zu den Göttern, nimm an, o Wesenkenner, diese Güsse, g
 О Агни, воссевши как хотар, вкушай  
 Первым капли жира, расплавленного масла!
 </details>
+

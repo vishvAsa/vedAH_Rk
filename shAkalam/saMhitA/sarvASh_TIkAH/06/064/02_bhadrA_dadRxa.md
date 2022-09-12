@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhāsi ← √bhā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dadr̥kṣe ← √dr̥ś- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+urviyā́ ← urviyā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+apaptan ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhānávaḥ ← bhānú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śocíḥ ← śocís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+út ← út (invariable)  
+{}
+
+āvís ← āvís (invariable)  
+{}
+
+kr̥ṇuṣe ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+śumbhámānā ← √śubh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+vákṣaḥ ← vákṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devi ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+máhobhiḥ ← máhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+rócamānā ← √ruc- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Du zeigst dich, Liebliche und leuchtest weithin, zum Himmel flogen deines Lichte
 Красуясь, ты обнажаешь грудь,  
 О Ушас божественная, блистая во (всем) великолепии.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+evá ← evá (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+stam ← √as- 1 (root)  
+{number:DU, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+yauṣṭam ← √yu- 2 (root)  
+{number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+aśnutam ← √naś- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+krī́ḷantau ← √krīḍ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+náptr̥bhiḥ ← nápat- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+putraíḥ ← putrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gr̥hé ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+módamānau ← √mud- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +198,4 @@ Hier mögt ihr beide weilen, trennt euch nicht, erreicht die volle Lebensdauer, 
 Играя с сыновьями (и) внуками,  
 Радуясь в собственном доме!
 </details>
+

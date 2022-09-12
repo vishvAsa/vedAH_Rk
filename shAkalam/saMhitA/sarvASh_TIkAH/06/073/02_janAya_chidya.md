@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+ī́vate ← ī́vant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ulokám ← uloká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cakā́ra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+deváhūtau ← deváhūti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+dardarīti ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ghnán ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jáyan ← √ji- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pr̥tsú ← pŕ̥t- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sā́han ← √sah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Brihaspati, der jedem solchen Manne beim Götteranruf weiten Raum verschaffte; D
 Сокрушая препятствия, он взрывает крепости,  
 Побеждая врагов, одолевая в боях недругов.
 </details>
+

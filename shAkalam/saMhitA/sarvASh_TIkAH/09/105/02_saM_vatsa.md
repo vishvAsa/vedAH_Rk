@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+mātŕ̥bhiḥ ← mātár- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+vatsáḥ ← vatsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajyate ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+hinvānáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devāvī́ḥ ← devāvī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+páriṣkr̥taḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +162,4 @@ Wie mit der Mütterschar das Kalb wird Indu fortgeführt, entsandt; Der Rauschtr
 Поторапливаемый сок сомы умащатся (молоком),  
 Пьянящий напиток, приглашающий богов, приготовленный с молитвами.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+tritásya ← tritá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yúdhyataḥ ← √yudh- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+āvan ← √avⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥tratū́rye ← vr̥tratū́rya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +157,4 @@ Des Trita Kraft und Heldenmuth erfrischten in dem Kampfe sie, Den Indra in der V
 Борющегося Триты,  
 (Поддержали) Индру в борьбе с Вритрой.
 </details>
+

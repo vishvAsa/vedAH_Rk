@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ebhíḥ ← ayám (pronoun)  
+{case:INS, gender:M, number:PL}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+imā́n ← ayám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+mánmabhiḥ ← mánman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+spr̥śa ← √spr̥ś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+aṅgiraḥ ← áṅgiras- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+utá ← utá (invariable)  
+{}
+
+devávātā ← devávāta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jareta ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+śastíḥ ← śastí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +238,4 @@ Durch diese Lieder sei uns hold, o Agni, berühr, o Held, erbetner, diese Speise
 А также наслаждайся молитвами, о Ангирас!  
 Пусть имеет успех хвала, угодная богам!
 </details>
+

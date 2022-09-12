@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sahásrāṇi ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śatā́ni ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+dānā́ya ← dāná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+maṁhase ← √maṁh- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+yūthā́ ← yūthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cakr̥ma ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+puraṁdarám ← puraṁdará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vípravacasaḥ ← vípravacas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+gā́yantaḥ ← √gā(y)- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Du gibst uns viele tausend Heerden zum Geschenk, und gibst uns viele hunderte, D
 Проломителя крепостей Индру мы склонили к помощи,  
 Воспевая вдохновенными словами.
 </details>
+

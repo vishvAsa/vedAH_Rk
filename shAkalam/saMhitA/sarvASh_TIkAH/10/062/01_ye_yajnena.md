@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dákṣiṇayā ← dákṣiṇa- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sámaktāḥ ← √añj- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+yajñéna ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+amr̥tatvám ← amr̥tatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ānaśá ← √naś- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aṅgirasaḥ ← áṅgiras- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tébhyaḥ ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+gr̥bhṇīta ← √gr̥bhⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mānavám ← mānavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+sumedhasaḥ ← sumedhás- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Die ihr mit Opfer und mit Opferlohn, versehn des Indra Gunst erlangt habt und Un
 Да будет вам счастье, о Ангирасы!  
 Примите (меня,) сына Ману, о мудрые!
 </details>
+

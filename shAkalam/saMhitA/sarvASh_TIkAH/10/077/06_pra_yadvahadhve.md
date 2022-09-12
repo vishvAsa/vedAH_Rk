@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+parākā́t ← parāká- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+váhadhve ← √vah- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+saṁváraṇasya ← saṁváraṇa- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+rā́dhyasya ← rā́dhya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vidānā́saḥ ← √vid- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+ārā́t ← ārā́t (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+dvéṣaḥ ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sanutár ← sanutár (invariable)  
+{}
+
+yuyota ← √yu- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +198,4 @@ Wenn ihr, o Maruts, von Ferne her vorwärts fahrt, die ihr, o gute, die grosse S
 Достойного приобретения, о Васу,  
 Еще издалека отвратите (от нас) прочь враждебность!
 </details>
+

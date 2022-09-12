@@ -16,14 +16,78 @@ ChandaH = "विराड्रूपा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+dídhiṣāmahe ← √dhā- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+nú ← nú (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+pátyamānāḥ ← √pat- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rékṇaḥ ← rékṇas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadvā́n ← √dā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+púṣyati ← √puṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rékṇaḥ ← rékṇas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āran ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+maghā́ni ← maghá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +226,4 @@ Und wenn wir nun von euch etwas zu erlangen suchen, die wir liebe Habe besitzen,
 Или когда даритель увеличивает наследство,  
 Чтобы его щедрые дары не завершились.
 </details>
+

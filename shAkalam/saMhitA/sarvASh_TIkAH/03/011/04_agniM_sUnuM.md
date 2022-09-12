@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sánaśrutam ← sánaśruta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sūnúm ← sūnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jātávedasam ← jātávedas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+akr̥ṇvata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váhnim ← váhni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +152,4 @@ Den altberühmten Sohn der Kraft, den Agni, der die Wesen kennt, Ersahn zum Fäh
 Знаменитого издревле, Джатаведаса,  
 Боги сделали возницей жертвы.
 </details>
+

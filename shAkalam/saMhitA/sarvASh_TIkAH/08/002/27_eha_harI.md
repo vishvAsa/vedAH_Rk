@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+brahmayújā ← brahmayúj- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ihá ← ihá (invariable)  
+{}
+
+śagmā́ ← śagmá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vakṣataḥ ← √vah- (root)  
+{number:DU, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+gírvaṇasam ← gírvaṇas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrutám ← √śru- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ Starke, liedgeschirrte Rosse mögen bringen den Genossen, Den berühmten liederf
 Мощных, запрягаемых священным словом,  
 Друга, прославленного в песнях, любящего песни!
 </details>
+

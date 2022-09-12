@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prathamám ← prathamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puróhitam ← puróhita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+havíṣmantaḥ ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ghr̥tápr̥ṣṭham ← ghr̥tápr̥ṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śr̥ṇvántam ← √śru- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ukṣáṇam ← ukṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥ṇántam ← √pr̥̄- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pr̥ṇaté ← √pr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +207,4 @@ Den ersten Priester, der des Opfers Fahne ist, den starken Agni flehn die sieben
 Прислушивающегося Агни, жирноспинного, быка,  
 Бога, дарящего богатство из прекрасных сыновей тому, кто дарит.
 </details>
+

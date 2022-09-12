@@ -15,14 +15,54 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+padā́ ← padá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vicakramé ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ā́t ← ā́t (invariable)  
+{}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+haryatā́ ← haryatá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ít ← ít (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vavakṣatuḥ ← √vakṣ- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +157,7 @@ just after that your two beloved fallow bays waxed strong.
 That te in a is a dative of benefit, not a genitive with ójasā is shown by 52.3 yásmai víṣṇus trī́ṇi padā vicakramé.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/25-28.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/25-28.md">
 <details open><summary><h2>25-28 ...{Loading}...</h2></summary>
 
 The phonetic figure noted in VIII.6.36 dominates the next four verses: haryatā́hárī.
@@ -148,3 +188,4 @@ Als Vischnu dann durch deine Kraft der Schritte drei vollendete, Da wuchs empor 
 Прошагал три шага.  
 Только тогда пара твоих любимых буланых коней возросла.
 </details>
+

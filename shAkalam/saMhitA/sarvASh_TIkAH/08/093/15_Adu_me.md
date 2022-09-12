@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́t ← ā́t (invariable)  
+{}
+
+bhuvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+nivaráḥ ← nivará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+adiṣṭa ← √diś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+paúṁsyam ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ájātaśatruḥ ← ájātaśatru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ástr̥taḥ ← ástr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +142,7 @@ Judging from Geldner’s tr. of the first pāda, “Davor sei mir Bewahrung,” 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 The connection among the verses in this tṛca eludes me, though the fact that they are all set in an apparent mythic past and are joined by logical and/or temporal connectors (14a ádha, 15a ā́d u) suggests that they should form a thematic unit.
@@ -140,3 +171,4 @@ Auch da war er Beschützer mir, und Kraft erwies der Vritrafeind, Unwiderstehlic
 
 -ru-
 </details>
+

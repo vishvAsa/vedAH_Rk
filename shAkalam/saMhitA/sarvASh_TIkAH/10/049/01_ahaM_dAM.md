@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+dām ← √dā- 1 (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pū́rvyam ← pū́rvya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+kr̥ṇavam ← √kr̥- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+várdhanam ← várdhana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+bhuvam ← √bhū- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+coditā́ ← coditár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yájamānasya ← √yaj- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+áyajvanaḥ ← áyajvan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bháre ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sākṣi ← √sah- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:MED}
+
+víśvasmin ← víśva- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Ich gab dem Sänger das allererste Gut, ich machte das erbauliche Wort mir zur S
 Я был побудителем жертвователя,  
 Я побеждал в каждой битве тех, кто не приносит жертв.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámateḥ ← ámati- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+asyā́ḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+kṣudháḥ ← kṣúdh- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+abhíśasteḥ ← abhíśasti- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+spr̥dhi ← √spr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+citráyā ← citrá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gātuvít ← gātuvíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śaciṣṭha ← śáciṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śíkṣa ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

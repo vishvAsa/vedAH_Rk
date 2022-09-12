@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ganīganti ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+kárṇam ← kárṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vakṣyántī ← √vac- (root)  
+{case:NOM, gender:F, number:SG, tense:FUT, voice:ACT}
+
+pariṣasvajānā́ ← √svaj- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:MED}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dhánvan ← dhánur ~ dhánvan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+śiṅkte ← √śiñj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vítatā ← √tan- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+jyā́ ← jyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pāráyantī ← √pr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+sámane ← sámana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Als wollt' sie plaudern, nahet sie dem Ohre, umfangen haltend den geliebten Buhl
 Натянутая на лук, она визжит, как женщина,  
 Эта тетива, спасающая в бою.
 </details>
+

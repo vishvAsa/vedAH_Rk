@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+arbhakáḥ ← arbhaká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nahí ← nahí (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+dévāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+kumārakáḥ ← kumāraká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+satómahāntaḥ ← satómahānt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Kein kleiner weilet unter euch, o Götter, und kein zartes Kind, Ihr alle seid a
 О боги, нет подростка:  
 Все (вы) одинаково великие.
 </details>
+

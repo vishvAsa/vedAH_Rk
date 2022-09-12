@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvótāsaḥ ← tvóta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gr̥ṇántaḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+bhejānā́saḥ ← √bhaj- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+br̥háddivasya ← br̥háddiva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ākāyyàsya ← ākāyyà- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+purukṣóḥ ← purukṣú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +199,4 @@ Von dir gefördert, mächt'ger Indra, seien wir Priester dein, die Opferherrn un
 Хотели бы получить долю в богатстве того, кто пребывает на высоком небе  
 В желанном, обильном питанием, (предназначенном) для дарения!
 </details>
+

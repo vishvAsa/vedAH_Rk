@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥tvī́ ← √kr̥- (root)  
+{}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ábhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dyumnī́ ← dyumnín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uttamáḥ ← uttamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+akri ← √kr̥- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhuvam ← √bhū- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+asapatnā́ ← asapatná- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kíla ← kíla (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +202,4 @@ Dasselbe Opfer habe ich vollbracht, durch welches Indra auch, O Götter, einst s
 Ее я совершила для себя, о боги.  
 Воистину не стало у меня соперниц!
 </details>
+

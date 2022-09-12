@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+brahmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhidrohám ← abhidrohá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cárāmasi ← √carⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+āṅgirasáḥ ← āṅgirasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prácetāḥ ← prácetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+dviṣatā́m ← √dviṣ- (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+pātu ← √pā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ Wenn wir, Indra, Brahmanaspati, eine Sünde begehen, so soll uns der vorsorgende
 Провидец из Ангирасов  
 Пусть защитит нас от притеснения ненавистников!
 </details>
+

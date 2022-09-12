@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+dhā́vasi ← √dhāv- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+áti ← áti (invariable)  
+{}
+
+vr̥ṣā́kapeḥ ← vr̥ṣā́kapi- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vyáthiḥ ← vyáthi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vindasi ← √vid- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+anyátra ← anyátra (invariable)  
+{}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Du läufst ja weiter, Indra, über die Verfehlung des Vrisakapi hinweg sehend. A
 
 -ru-
 </details>
+

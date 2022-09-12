@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+hantu ← √han- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+śámyāḥ ← śámī- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ūrmíḥ ← ūrmí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+muñcata ← √muc- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yóktrāṇi ← yóktra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+áduṣkr̥tau ← áduṣkr̥t- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mā́ ← mā́ (invariable)  
+{}
+
+vyènasā ← vyènas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aghnyaú ← aghnyá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+aratām ← √r̥- 1 (root)  
+{number:DU, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+śū́nam ← śū́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +197,4 @@ Die Zapfen schlag' die Well' empor, o Wasser löst die Bänder ab, nicht schädi
 Да не провалятся двое быков,  
 Не сотворивших зла, безгрешных!
 </details>
+

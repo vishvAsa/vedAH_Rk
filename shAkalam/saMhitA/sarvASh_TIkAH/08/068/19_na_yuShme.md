@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ná ← ná (invariable)  
+{}
+
+vājabandhavaḥ ← vājabandhu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yuṣmé ← tvám (pronoun)  
+{case:LOC, number:PL}
+
+caná ← caná (invariable)  
+{}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ninitsúḥ ← ninitsú- (nominal stem)  
+{case:NOM, gender:M, number:SG, mood:DES}
+
+ádhi ← ádhi (invariable)  
+{}
+
+avadyám ← avadyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dīdharat ← √dhr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +140,4 @@ Nicht kann auf euch, o Kampfgenossen, selbst ein tadelsüchtiger Sterblicher ein
 
 -ru-
 </details>
+

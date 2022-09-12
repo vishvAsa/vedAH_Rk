@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ápnasaḥ ← ápnas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+samít ← samídh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ródasī ← ródasī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+viveśa ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+codayat ← √cud- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samátsu ← samád- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dayate ← √di- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Heilbringend sei des thät'gen Agni Flamme, Agni drang ein in beide weiten Welte
 Агни вдохновляет одинакового в сражениях,  
 Агни уничтожает много врагов.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kā́māḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vasūyántaḥ ← √vasūy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+cakānā́ḥ ← √kā- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+sávane ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+svàrmīḷhe ← svàrmīḷha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śaśamānā́saḥ ← √śamⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+śravasyávaḥ ← śravasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ókaḥ ← ókas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+puṣṭíḥ ← puṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+raṇvā́ ← raṇvá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sudŕ̥śī ← sudŕ̥ś- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Zu Indra kamen Wünschende begehrend, das Opfer liebend wie des Glücks Erlangun
 Стремящиеся к славе, услуживающие (своими) гимнами,  
 Радующие, как родной дом, как приятное на вид процветание.
 </details>
+

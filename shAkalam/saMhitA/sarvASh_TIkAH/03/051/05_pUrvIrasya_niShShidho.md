@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mártyeṣu ← mártya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+niṣṣídhaḥ ← niṣṣídh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bibharti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dyā́vaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+jīráyaḥ ← jīrí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+rakṣanti ← √rakṣⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vánāni ← vána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Der Gaben viele hat er für die Menschen, und viele Güter trägt die weite Erde
 Для Индры небеса, растения и воды  
 Хранят богатство, (а также) реки, леса.
 </details>
+

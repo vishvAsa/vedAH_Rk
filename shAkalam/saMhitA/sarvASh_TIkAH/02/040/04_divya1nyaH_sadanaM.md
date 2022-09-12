@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cakré ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sádanam ← sádana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uccā́ ← uccā́ (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+antárikṣe ← antárikṣa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivyā́m ← pr̥thivī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+purukṣúm ← purukṣú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puruvā́ram ← puruvā́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+taú ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+nā́bhim ← nā́bhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+póṣam ← póṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+syatām ← √sā- ~ si- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Der eine schuf am Himmel hoch den Sitz sich, der andre in der Luft und auf der E
 Оба они (пусть даруют) нам процветание богатства  
 Очень желанное, связанное с обильным скотом! Пусть развяжут они у нас пуповину!
 </details>
+

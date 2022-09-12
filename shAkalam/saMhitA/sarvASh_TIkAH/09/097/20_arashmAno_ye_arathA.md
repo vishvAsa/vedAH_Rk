@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+araśmā́naḥ ← araśmán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arathā́ḥ ← arathá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áyuktāḥ ← áyukta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ājaú ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+átyāsaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sasr̥jānā́saḥ ← √sr̥j- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+dhanvanti ← √dhanv- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+eté ← eṣá (pronoun)  
+{}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śukrā́saḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dévāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+píbadhyai ← √pā- 2 (root)  
+{case:DAT, number:SG, tense:PRS}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+yāta ← √yā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +204,7 @@ Note the alliteration of ab araśmā́no yé arathā́áyuktā, átyāso ná sas
 .
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 Attributed to Śakti Vāsiṣṭha, who, unlike most of the other Vasiṣṭhids named by the Anukr. for this hymn, has other vss. attributed to him: VII.32.26, IX.108.3, 14-16. The tṛca is more concerned with the gods’ consumption of soma than previous ones; note the “divine conclave” (devátāte) in 19a, the invitation to the gods to come to the sacrifice to drink soma in 20d, and the pursuit of the gods (devávītim) in 21a. The final verse of the tṛca (21) also begins with a hymnsummarizing evā́and the type of plea for benefits that often end a hymn. The first two vss. of the tṛca also contain forms of √dhanv: impv. dhanva (19b) and dhanvanti (20c), thus continuing the repeated impv. dhanva of the previous tṛca - with this concatenation suggesting a reason for attaching this tṛca here.
@@ -184,3 +236,4 @@ Wie Renner die beim Wettlauf ohne Wagen unangeschirrt und ohne Zügel laufen, So
 Бегут эти чистые соки сомы.  
 О боги, приблизьтесь к ним для питья!
 </details>
+

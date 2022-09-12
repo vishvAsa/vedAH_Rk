@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mádānām ← máda- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+máṁhiṣṭhaḥ ← máṁhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+matsat ← √mad- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+ārúje ← √ruj- (root)  
+{case:DAT, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dr̥ḷhā́ ← √dr̥h- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +156,4 @@ Welch wahrer und erfreuendster der Tränke wird berauschen dich, Dass du auch fe
 Самое щедрое (опьянение) соком опьянит тебя  
 (Настолько, что) ты проломишь даже замкнутые богатства?
 </details>
+

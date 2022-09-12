@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+surā́dhasam ← surā́dhas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+arca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidé ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yáthā ← yáthā (invariable)  
+{}
+
+jaritŕ̥bhyaḥ ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purūvásuḥ ← purūvásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sahásreṇa ← sahásra- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śíkṣati ← √śak- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +182,4 @@ Den Indra will ich preisen euch, der vieles schenkt nach seiner Art, Den mächti
 Который, будучи щедрым, обладая многим добром,  
 Словно тысячей, хочет помочь певцам.
 </details>
+

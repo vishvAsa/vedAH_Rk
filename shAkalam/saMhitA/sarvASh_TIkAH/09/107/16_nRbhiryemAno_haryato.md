@@ -14,12 +14,34 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+haryatáḥ ← haryatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yemānáḥ ← √yam- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samudríyaḥ ← samudríya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

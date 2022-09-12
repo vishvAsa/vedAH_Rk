@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+ásr̥kṣata ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+hí ← hí (invariable)  
+{}
+
+sótoḥ ← √su- (root)  
+{case:ABL, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+amaṁsata ← √man- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+devám ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ámadat ← √mad- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+vr̥ṣā́kapiḥ ← vr̥ṣā́kapi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mátsakhā ← mátsakhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+puṣṭéṣu ← √puṣ- (root)  
+{case:LOC, gender:M, number:PL, non-finite:PPP}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Sie haben abgelassen vom Somapressen, sie achteten Indra nicht als Gott, dort, w
 
 -ru-
 </details>
+

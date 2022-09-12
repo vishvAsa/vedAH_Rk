@@ -15,14 +15,54 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+prátūrtayaḥ ← prátūrti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+juṣanta ← √juṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+nā́bhā ← nā́bhi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vidé ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +179,4 @@ Wol liebte seine kühne Schar des Himmels Sitz, doch legte sie Ihn in des Opfers
 Любят место, которое на небе.  
 Посреди жертвы они, как известно, помирились.
 </details>
+

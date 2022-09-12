@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āpī́ ← āpí- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+asmé ← ahám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+pitárā ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+putrā́ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+nr̥pátī ← nr̥páti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rucā́ ← rúc- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+turyaí ← turí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ugrā́ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+bhujyaí ← bhují- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+íryā ← írya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+kiráṇā ← kiráṇa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+puṣṭyaí ← puṣṭí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gamiṣṭam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+śruṣṭīvā́nā ← śruṣṭīván- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +241,4 @@ Verwandt seid ihr beide [vâm statt vo zu lesen?] uns, wie die beiden Aeltern, w
 Как деятельных – для процветания, как две губы (?) для наслаждения.  
 Как двое услужливых, придите на (мой) зов!
 </details>
+

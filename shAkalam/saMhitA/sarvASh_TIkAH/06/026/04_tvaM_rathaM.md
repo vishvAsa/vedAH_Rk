@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bharaḥ ← √bhr̥- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥ṣvám ← r̥ṣvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yodhám ← yodhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́vaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dáśadyum ← dáśadyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yúdhyantam ← √yudh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ahan ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+sácā ← sácā (invariable)  
+{}
+
+túgram ← túgra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vetasáve ← vetasú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gr̥ṇántam ← √gr̥̄- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tújim ← túji- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tūtoḥ ← √tū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +216,7 @@ On tūtos, tūtot as belonging to a redup. aor., not the perfect (contra Wh Rts,
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/03-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/03-06.md">
 <details open><summary><h2>03-06 ...{Loading}...</h2></summary>
 
 These vss. are tr. and discussed by Hoffman (Injunk., 183-84).
@@ -187,3 +248,4 @@ Du fördertest den hohen Wagenkämpfer, du halfst dem Stier, dem kämpfenden Da�
 Ты в союзе с Ветасу убил Тугру,  
 Ты, о Индра, усилил восхваляющего Туджи.
 </details>
+

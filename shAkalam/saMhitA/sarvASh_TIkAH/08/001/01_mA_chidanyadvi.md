@@ -16,14 +16,69 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+śaṁsata ← √śaṁs- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+riṣaṇyata ← √riṣaṇy- (root)  
+{number:PL, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sácā ← sácā (invariable)  
+{}
+
+stota ← √stu- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+múhur ← múhur (invariable)  
+{}
+
+śaṁsata ← √śaṁs- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Nichts anderes verkündet sonst, nicht preist, o Freunde, fehlerhaft; Nur Indra 
 Восхваляйте лишь Индру-быка у выжатого сомы  
 И исполняйте гимны постоянно!
 </details>
+

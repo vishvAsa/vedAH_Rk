@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+itthā́dhiye ← itthā́dhī- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+púraḥ ← púr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sadyás ← sadyás (invariable)  
+{}
+
+dívodāsāya ← dívodāsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śámbaram ← śámbara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+turváśam ← turváśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yádum ← yádu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -99,7 +127,7 @@ However, this structural argument runs into problems of mythological content. Al
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 This tṛca shows some signs of unity. The 1st two vss. are a syntactic unit, with the objects of the verb in 1c partly postponed to 2ab. The third vs. has as its verb pári … kṣárā, which echoes pári srava in 1a.
@@ -130,3 +158,4 @@ Die Burgen all' und Çambara, dem frommen Divodasa hold, Und auch den Turvaça J
 Чья мысль так (жаждала этого), (убил) Шамбару,  
 А также (спас) Турвашу (и) Яду!
 </details>
+

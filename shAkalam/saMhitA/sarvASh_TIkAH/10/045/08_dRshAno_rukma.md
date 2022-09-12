@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyaut ← √dyut- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dr̥śānáḥ ← √dr̥ś- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+rukmáḥ ← rukmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urviyā́ ← urviyā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+durmárṣam ← durmárṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rucānáḥ ← √ruc- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amŕ̥taḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váyobhiḥ ← váyas- 2 (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+janáyat ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+surétāḥ ← surétas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +245,4 @@ Wie Gold zu schauen glänzt er in die Weite, zum Heile unvergänglich Leben stra
 Агни стал бессмертным благодаря жизненным силам,  
 Когда его породило небо, имея прекрасное семя.
 </details>
+

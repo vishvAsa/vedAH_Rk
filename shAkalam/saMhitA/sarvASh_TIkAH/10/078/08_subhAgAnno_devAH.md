@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+kr̥ṇuta ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+subhāgā́n ← subhāgá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+surátnān ← surátna- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+stotr̥̄́n ← stotár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vāvr̥dhānā́ḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+ádhi ← ádhi (invariable)  
+{}
+
+gāta ← √gā- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sakhyásya ← sakhyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+stotrásya ← stotrá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ratnadhéyāni ← ratnadhéya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sanā́t ← sanā́t (invariable)  
+{}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Macht uns glücklich, o ihr Götter, und schatzreich, o Maruts, uns Sänger erla
 Вспомните о восхвалении, о дружбе –  
 Ведь с незапамятных времен происходят ваши дарения сокровищ!
 </details>
+

@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dhiyāyate ← √dhiyāy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+br̥haté ← br̥hánt- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+devátātaye ← devátāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+amŕ̥tāsaḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́sate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +139,4 @@ Viel heil'ge Werke führt er aus für das erhabne Götterfest, Im Sitze der Unst
 Для высокой службы богам  
 (Там,) где сидят бессмертные.
 </details>
+

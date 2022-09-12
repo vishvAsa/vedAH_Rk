@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+dhārayam ← √dhr̥- (root)  
+{number:SG, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+saptá ← saptá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sravátaḥ ← sravát- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dravitnvàḥ ← dravitnú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pr̥thivyā́m ← pr̥thivī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sīrā́ḥ ← sīrā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+árṇāṁsi ← árṇas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tirāmi ← √tr̥̄- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iṣṭáye ← iṣṭí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vidam ← √vid- 1 (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+yudhā́ ← yúdh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Die sieben Flüsse schützte ich, als starker Held, die eilenden, die Ströme au
 Я, очень способный, пересекаю стремнины.  
 С боем я нашел для Ману путь для поисков.
 </details>
+

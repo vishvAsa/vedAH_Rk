@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+matíḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+návyasī ← návyas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ádhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+mándra ← mandrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sújāta ← sujātá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+súkrato ← sukrátu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ámūra ← ámūra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+átithe ← átithi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dásma ← dasmá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +186,4 @@ Es ist dir dieses neue Lied, o Agni, dargebracht von uns, O holder, edler, wirke
 
 -ru-
 </details>
+

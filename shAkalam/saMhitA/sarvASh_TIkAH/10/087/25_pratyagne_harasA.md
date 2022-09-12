@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+háraḥ ← háras- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hárasā ← háras- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+śr̥ṇīhí ← √śr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yātudhā́nasya ← yātudhā́na- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bálam ← bála- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ruja ← √ruj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+vīryàm ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +175,4 @@ Zerstör von allen Seiten du, o Agni, Glut durch Flammenglut, Zerbrich die Macht
 Раздроби силу мужскую  
 У колдуна, у ракшаса!
 </details>
+

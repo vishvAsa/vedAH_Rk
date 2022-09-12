@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átithim ← átithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+viśó-viśaḥ ← víś- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+purupriyám ← purupriyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājayántaḥ ← √vājay- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dúryam ← dúrya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+mánmabhiḥ ← mánman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+stuṣé ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+śūṣásya ← śūṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +180,4 @@ Erlabt den vielgeliebten Gast, der jedem eurer Häuser naht; Den Hausfreund Agni
 
 -ru-
 </details>
+

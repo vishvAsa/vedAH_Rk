@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anamīvā́saḥ ← anamīvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+íḷayā ← íḷā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mádantaḥ ← √mad- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mitájñavaḥ ← mitájñu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+váriman ← váriman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ādityásya ← ādityá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+upakṣiyántaḥ ← √kṣi- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sumataú ← sumatí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +186,4 @@ Von Krankheit frei, uns frischer Kraft erfreuend, und starken Knies auf dem Rund
 Живя в завете Адитьи,  
 Да будем мы в милости у Митры!
 </details>
+

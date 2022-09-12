@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhū́rīṇi ← bhū́ri- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+déva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+svadhāvaḥ ← svadhā́vant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+māyā́ḥ ← māyā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+māyínām ← māyín- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+viśvaminva ← viśvaminvá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+pr̥ṣṭabandho ← pr̥ṣṭabandhu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+saṁdadhúḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ O Agni, viele Namen, Wesenkenner, sind dir, o Gott, unsterblicher Beherrscher; I
 А те чудесные силы у обладателей чудесных сил, о всепобуждающий (бог), –  
 (Их,) многочисленных они собрали в тебе, о тот, о чьем родстве вопрошают!
 </details>
+

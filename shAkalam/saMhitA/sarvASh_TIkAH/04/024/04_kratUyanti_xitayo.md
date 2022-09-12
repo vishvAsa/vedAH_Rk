@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kratūyánti ← √kratūy- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣitáyaḥ ← kṣití- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ugra ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yóge ← yóga- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+árṇasātau ← árṇasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+āśuṣāṇā́saḥ ← √śvasⁱ- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+mithás ← mithás (invariable)  
+{}
+
+ávavr̥tranta ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:PASS}
+
+sám ← sám (invariable)  
+{}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yudhmā́ḥ ← yudhmá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhī́ke ← abhī́ka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+indrayante ← √indray- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+néme ← néma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +194,7 @@ Most tr. give a more neutral rendering of ávavṛtranta, but my “have rolled 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 The pile-up of pāda-initial ā́d íd ‘just then, just after that’, beginning with 4d and marking every pāda in 5, conveys the quick succession of events, but switches abruptly from battlefield to sacrifice. The néme constructions of 4d and 5a make it clear, however, that despite the change in venue the same antagonists are in play.
@@ -173,3 +225,4 @@ Die Völker mühn sich bei dem Werk, o Starker, im Kampfgewühle aufeinander sch
 
 -ru-
 </details>
+

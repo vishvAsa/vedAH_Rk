@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áṅgirasām ← áṅgiras- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+jujuṣvā́n ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ucáthā ← ucátha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iṣṇán ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tūtot ← √tū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+muṣṇán ← √muṣⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+stavā́n (?) ← stavā́n (?) (invariable)  
+{}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+áśnasya ← áśna- 1 (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+pūrvyā́ṇi ← pūrvyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śiśnathat ← √śnathⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Gebet erfüllte Indra, nahm die Sprüche, der Angirasen an, den Wohlstand förde
 Восхваленный, он отнял солнце у утренних зорь,  
 Он разбил прежние твердыни Ашны.
 </details>
+

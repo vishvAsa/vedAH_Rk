@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gr̥ṇádbhyaḥ ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vidathyàm ← vidathyà- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yugé-yuge ← yugá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+návyasīm ← návyas- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yaśásam ← yaśás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+agháśaṁsam ← agháśaṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ajara ← ajára- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pavyā́ ← paví- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+nīcā́ ← nyàñc- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+téjasā ← téjas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vanínam ← vanín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥śca ← √vr̥śc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +238,4 @@ Zu jeder Zeit verleih den Sängern, Agni du, den neusten schönen Reichthum, der
 Словно ободом, о царь, злоречивца, о нестареющий,  
 Сокруши до основания, как дерево – острием (топора)!
 </details>
+

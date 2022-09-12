@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhūṣa ← √bhūṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śucipāḥ ← śucipā́- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vāyo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+niyútaḥ ← niyút- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+viśvavāra ← viśvávāra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ándhaḥ ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ayāmi ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+mádyam ← mádya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+dadhiṣé ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pūrvapéyam ← pūrvapéya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,8 +221,6 @@ _______________
 आ वायो इति त्रिष्टुप् ॥ इयं व्याख्याता ग्रहेषु । हे वायो शुचिपाः अस्मानुपेत्य आभूषय! हे **विश्ववार** यस्य ते **सहस्रं नियुतं** अश्वाः । तस्य **ते अन्धः** अन्नं **मद्यं** मदहेतुं **उपायामि** उपगच्छामि । हे **देव यस्य** च **पूर्वपेयं दधिषे** दधासि तत् संपादयामीति ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -207,7 +266,6 @@ For thee this sweet drink hath been drawn,
 Whereof, O god, thou hast the first drink.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Mach dich, Vayu, Trinker des Klaren, für uns fertig; du hast tausend Niyutgespanne, du Allbegehrter. Dir ward der berauschende Trank hingesetzt, dessen Ersttrunk du Gott als Vorrecht besitzest.
@@ -225,3 +283,4 @@ Komm her, o Vaju, du des Reinen Trinker, o gabenreicher, tausend Rosse lenkst du
 Для тебя выставлен пьянящий сок,  
 Который ты, о бог, берешь себе первым для питья.
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+pū́ṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+vraté ← vratá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+kádā ← kádā (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+riṣyema ← √riṣ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+smasi ← √as- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+stotā́raḥ ← stotár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +157,4 @@ In deiner Obhut werden wir, o Puschan, Schaden leiden nie; Wir bleiben deine Sä
 Да не потерпим мы никогда ущерба!  
 Мы здесь твои восхвалители.
 </details>
+

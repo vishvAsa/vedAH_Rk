@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhíṣṭau ← abhíṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+avóḥ ← ayám (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+chardíṣaḥ ← chardís- (nominal stem)  
+{}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+áskr̥dhoyu ← áskr̥dhoyu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mitrāvaruṇau ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+ánu ← ánu (invariable)  
+{}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥jipyám ← r̥jipyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sphurā́n ← √sphr̥̄- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dhr̥ṣṇúm ← dhr̥ṣṇú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ráṇe ← ráṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yunájan ← √yuj- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +197,7 @@ The first hemistich lacks a verb, but something like ‘we seek’ is a reasonab
 
 Geldner produces an elaborate interpr. of cd as a portrayal of battle: ‘cows’ = bow string, ‘straight-flying one’ = arrow. Although such tropes would be at home in other parts of the RV, I see no martial context in this hymn that would encourage such a reading. Better to interpr. the hemistich within a ritual context, since this has been prominent in the hymn. The cows can, as so often, be the milk meant to be mixed with the soma; the ‘straight-flying one’ (ṛjipyá-, on which see comm. ad IV.27.4) can be the soma, or, as in IV.27.4, the falcon that carried the soma, and the bull in d is also the soma. Renou follows Geldner’s battle interpr., though (in his comm.) he also sees it overlaid with soma imagery.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/067/09-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/067/09-11.md">
 <details open><summary><h2>09-11 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these vss. seem to concern themselves with rival sacrificers.
@@ -174,3 +229,4 @@ Fürwahr bei euch in eures Schutzes Obhut ist reiches Gut, o Varuna und Mitra, W
 Когда (тетивы) из коровьих (ремней) торопят (полет) кидающейся вперед (стрелы),  
 Когда для боя запрягут отважного быка.
 </details>
+

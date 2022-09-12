@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áceti ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitā́ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+maghónī ← maghávan- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+paśyanti ← √paś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vibhātī́m ← √bhā- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yujyámānam ← √yuj- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:PASS}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áśvāsaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suyújaḥ ← suyúj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váhanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Erschienen ist des Himmels reiche Tochter, und alle schau'n die helle Morgenröt
 Она поднялась на запрягающуюся по своей воле колесницу,  
 Которую везут хорошо запряженные кони.
 </details>
+

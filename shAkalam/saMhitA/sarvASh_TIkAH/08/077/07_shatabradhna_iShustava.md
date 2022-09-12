@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+íṣuḥ ← íṣu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śatábradhnaḥ ← śatábradhna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sahásraparṇaḥ ← sahásraparṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cakr̥ṣé ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yújam ← yúj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +168,4 @@ An hundert Spitzen hat dein Pfeil, und tausend Federn er allein, Den Indra du di
 С тысячей перьев (была) единственной,  
 Кого, о Индра, ты сделал себе союзником.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+arca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+bárhiṣṭham ← bárhiṣṭha- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gámat ← √gam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sadat ← √sad- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+yájiṣṭhaḥ ← yájiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Besingen will ich euren Gott, den Agni, auf das kräftigste; Er komme mit den G�
 Да приидет он к нам с богами!  
 Да усядется на солому как лучший жертвователь!
 </details>
+

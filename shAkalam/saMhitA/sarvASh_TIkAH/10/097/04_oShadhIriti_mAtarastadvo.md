@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+íti ← íti (invariable)  
+{}
+
+mātaraḥ ← mātár- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+bruve ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+devīḥ ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sanéyam ← √sanⁱ- (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+vā́saḥ ← vā́sas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ātmā́nam ← ātmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pūruṣa ← pū́ruṣa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Ihr Mütterchen, ihr himmlischen, ihr Kräuter all, ich sag' es euch: Ross, Rind
 Я хочу добыть коня, корову, одежду –  
 (И) твой жизненный дух, о человек!
 </details>
+

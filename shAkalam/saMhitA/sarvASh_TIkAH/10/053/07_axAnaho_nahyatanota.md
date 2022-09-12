@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+akṣānáhaḥ ← akṣānáh- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+nahyatana ← √nah- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+somyāḥ ← somyá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+íṣkr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+piṁśata ← √piś- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+raśanā́ḥ ← raśanā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+abhítas ← abhítas (invariable)  
+{}
+
+aṣṭā́vandhuram ← aṣṭā́vandhura- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vahata ← √vah- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+ánayan ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +206,4 @@ Des Wagens Stränge schirret, die ihr Soma liebt: die Zügel macht zurecht und s
 Поезжайте навстречу (нам) на колеснице с восемью сиденьями,  
 На которой боги привезли приятное (для нас)!
 </details>
+

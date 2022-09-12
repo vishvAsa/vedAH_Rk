@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+indhé ← √idh- 1 (root)  
+{number:SG, mood:IND, tense:PRS, voice:MED}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+ā́hutam ← √hu- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prátīkam ← prátīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+havyébhiḥ ← havyá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+īḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sabā́dhaḥ ← sabā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+aśoci ← √śuc- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+uṣásām ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +203,4 @@ Mit Ehrfurcht ward entflammt der treue König, sein Angesicht mit Opferschmalz b
 Мужи настойчиво вызывают его жертвенными дарами.  
 Агни засверкал во главе утренних зорь.
 </details>
+

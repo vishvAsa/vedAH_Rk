@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+havyaíḥ ← havyá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+jātébhiḥ ← √janⁱ- (root)  
+{case:INS, gender:M, number:PL, non-finite:PPP}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+asr̥jat ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+usríyāḥ ← usríya- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+út ← út (invariable)  
+{}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+bhárantī ← √bhr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ghr̥távat ← ghr̥távant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+urūcī́ ← uruvyáñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+duduhe ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+gaúḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jényā ← jénya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+svā́dma ← svā́dman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +244,4 @@ Durch die Söhne [des Angiras, also durch die Angirasen ?, (Säyana: durch die M
 Широко шагающая домашняя корова, несущая для него  
 (Молоко,) полное жира, доится медовой сладостью.
 </details>
+

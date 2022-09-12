@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śr̥ṇutá ← √śru- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+antárikṣe ← antárikṣa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dyávi ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sthá ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+agnijihvā́ḥ ← agnijihvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+yájatrāḥ ← yájatra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+āsádya ← √sad- (root)  
+{non-finite:CVB}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mādayadhvam ← √mad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +219,7 @@ The disjunctive pairing yé agnijihvā́utá vā yájatrāḥ is puzzling if we 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 I consider these three vss. as a tṛca. They are thematically unified, by their focus on the gods in general and (esp. vss. 13 and 15) by their classification of the gods into groups based on their location and type. On the supposed Jagatī meter of vs. 14, which would not match its tṛca partners, see ad loc. </details>
@@ -185,3 +249,4 @@ Ihr Götter alle, höret hier mein Rufen, die ihr im Himmel und in weiter Luft s
 Или же (те) достойные жертв, для кого Агни (служит) языком!  
 Веселитесь, сев на эту жертвенную солому!
 </details>
+

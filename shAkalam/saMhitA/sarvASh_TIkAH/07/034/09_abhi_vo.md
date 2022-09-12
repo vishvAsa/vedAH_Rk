@@ -14,12 +14,43 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+dadhidhvam ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRF, voice:MED}
+
+devī́m ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+devatrā́ ← devatrā́ (invariable)  
+{}
+
+kr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ So richtet hin denn – die Himmelsandacht, und zu den Göttern – lasst unser 
 Запрягите вы себе божественное произведение!  
 Отправьте впереди вас речь к богам!
 </details>
+

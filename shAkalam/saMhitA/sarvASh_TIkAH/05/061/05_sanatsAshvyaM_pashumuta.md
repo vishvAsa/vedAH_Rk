@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvyam ← áśvya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+paśúm ← paśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+sánat ← √sanⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+gávyam ← gávya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatā́vayam ← śatā́vaya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+śyāvā́śvastutāya ← śyāvā́śvastuta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+dóḥ ← dós- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+upabárbr̥hat ← √br̥h- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+vīrā́ya ← vīrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +183,4 @@ Es empfange einen Viehstand, reich an Rossen und Rindern, hundert Schafe zählen
 (Та,) что подкладывает руку (под голову)  
 Мужу, прославленному Шьявашвой.
 </details>
+

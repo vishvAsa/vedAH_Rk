@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+iva ← iva (invariable)  
+{}
+
+nimnéna ← nimná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhū́rṇayaḥ ← bhū́rṇi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ghnántaḥ ← √han- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asr̥gram ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +147,4 @@ Wie Flüsse am Gesenke hin, die Feinde tödtend, eifervoll Sind schnelle Soma's 
 Бурные, убивающие врагов  
 Соки сомы потекли, стремительные.
 </details>
+

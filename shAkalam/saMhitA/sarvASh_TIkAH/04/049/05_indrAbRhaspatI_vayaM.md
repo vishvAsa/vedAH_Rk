@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+índrābŕ̥haspátī ← índrābŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,3 +131,4 @@ Wir laden euch durch Lieder ein beim Saft, Indra-Brihaspati, Zu trinken diesen S
 Зовем (вас) песнями к выжатому (соме),  
 Для питья этого сомы.
 </details>
+

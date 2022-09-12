@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aryamyàm ← aryamyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitryàm ← mitryà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhrā́taram ← bhrā́tar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sádam ← sádam (invariable)  
+{}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+áraṇam ← áraṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nítyam ← nítya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+veśám ← veśá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́gaḥ ← ā́gas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cakr̥má ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+sīm ← sīm (invariable)  
+{}
+
+śiśráthaḥ ← √śrathⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +249,4 @@ Welch Unrecht wir gethan am Busenfreunde, am liebenden Genossen, was am Bruder, 
 Соседу, своему или чужому, о Варуна,  
 Мы причинили зло – отпусти это (нам)!
 </details>
+

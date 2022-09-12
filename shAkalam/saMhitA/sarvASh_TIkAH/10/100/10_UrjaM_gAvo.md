@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+attana ← √ad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gāvaḥ ← gáv- ~ gó- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+pī́vaḥ ← pī́vas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yávase ← yávasa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+aṅgdhvé ← √añj- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:MED}
+
+kóśe ← kóśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+bheṣajám ← bheṣajá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+tanū́ḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sarvátātim ← sarvátāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Geniesst, o Kühe, auf der Weide Fett und Kraft, die ihr euch schmückt im Eimer
 
 -ru-
 </details>
+

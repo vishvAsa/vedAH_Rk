@@ -16,14 +16,54 @@ ChandaH = "पदपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ebhíḥ ← ayám (pronoun)  
+{case:INS, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+arvā́ṅ ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ánīkaiḥ ← ánīka- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvebhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +189,4 @@ Durch diese Lieder – sei nah' uns immer, – wie Glanz des Himmels, Mit allen 
 Как свет солнца,  
 Благожелательный всеми (своими) ликами!
 </details>
+

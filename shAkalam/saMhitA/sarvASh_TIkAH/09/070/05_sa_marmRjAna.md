@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhā́yase ← dhā́yas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+indriyā́ya ← indriyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+marmr̥jānáḥ ← √mr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+antár ← antár (invariable)  
+{}
+
+harṣate ← √hr̥ṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+hitáḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+bādhate ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+durmatī́ḥ ← durmatí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śúṣmeṇa ← śúṣma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ādédiśānaḥ ← √diś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+śaryahā́ ← śaryahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śurúdhaḥ ← śurúdh- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Wenn für den Indra er zum Trunk gereinigt ist, so jubelt zwischen Erd' und Himm
 Бык прогоняет (своим) неистовством злые мысли,  
 Нацеливаясь на добычу, как тот, кто убивает стрелой.
 </details>
+

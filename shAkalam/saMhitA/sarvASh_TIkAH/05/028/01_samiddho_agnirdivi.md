@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśret ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sámiddhaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+śocíḥ ← śocís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhāti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pratyáṅ ← pratyáñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urviyā́ ← urviyā́ (invariable)  
+{}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+éti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+prā́cī ← prā́ñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+viśvávārā ← viśvávāra- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ghr̥tā́cī ← ghr̥tā́ñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ī́ḷānā ← √īḍ- ~ √īḷ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Entflammt liess Agni Glanz zum Himmel steigen; er strahlet weit dem Morgenroth e
 Неся все желанные дары, сопровождаемая поклонениями, движется на восток,  
 Призывая богов, (жертвенная ложка,) полная жира с жертвоприношением.
 </details>
+

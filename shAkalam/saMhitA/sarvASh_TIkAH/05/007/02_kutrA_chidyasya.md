@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+kútra ← kútra (invariable)  
+{}
+
+sámr̥tau ← sámr̥ti- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nr̥ṣádane ← nr̥ṣádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+raṇvā́ḥ ← raṇvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+árhantaḥ ← √arh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+indhaté ← √idh- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+jantávaḥ ← jantú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saṁjanáyanti ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +172,4 @@ Bei dessen Einkehr sich erfreun die Männer stets im Männerrath, Ihm, den entz�
 Которого зажигают только достойные,  
 (Которого) (все) люди порождают вместе:
 </details>
+

@@ -15,13 +15,56 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vīvijaḥ ← √vij- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+bībhiṣathāḥ ← √bhīṣ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:MED}
+
+mā́ ← mā́ (invariable)  
+{}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+hā́rdi ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+tviṣā́ ← tvíṣ- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vadhīḥ ← √vadhⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +172,4 @@ Setz uns nicht in Schrecken, Soma, lass uns fürchten nicht, o König, Schlag ni
 Не напугай нас, о царь!  
 Не убей вспышкой у нас в сердце!
 </details>
+

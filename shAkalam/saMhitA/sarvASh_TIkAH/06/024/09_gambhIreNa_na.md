@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amatrin ← amatrin- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gambhīréṇa ← gambhīrá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+urúṇā ← urú- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+iṣáḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sutapāvan ← sutapā́van- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yandhi ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+áriṣaṇyan ← áriṣaṇyant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sthā́ḥ ← √sthā- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+aktóḥ ← aktú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+páritakmyāyām ← páritakmya- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vyùṣṭau ← vyùṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ In tiefem, weitem Krug, o krugbegabter, reich Tränk' und Speisen uns, o Somatri
 Стой совсем прямо, (своею) помощью охраняя от вреда,  
 При рассвете ночи, в решающий час!
 </details>
+

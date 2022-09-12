@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ihá ← ihá (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+marutvaḥ ← marútvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pāhi ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ápibaḥ ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+śāryāté ← śāryātá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+yáthā ← yáthā (invariable)  
+{}
+
+práṇītī ← práṇīti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śárman ← śárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suyajñā́ḥ ← suyajñá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vivāsanti ← √vanⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,8 +189,6 @@ genre M
 तद्विषयेन प्रणयनेन तवैव **शर्मन्** शर्मणि शरणभावे । निमित्तसप्तमी, भावेसुखे वा निमित्ते सप्तमी । त्वमेव शरणं मे यथा भवसि, तदर्थं **सुयज्ञाः** शोभन-यज्ञाः **कवयो** मेधाविनस् त्वाम् एवाविवासन्ति परिचरन्ति । तस्मात्त्वामेव प्रार्थयामहे ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -182,7 +235,6 @@ The singers skilled in sacrifice are fain to serve.
 
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Indra, Marutbegleiteter, trink hier den Soma, wie du bei Saryata vom Safte trankst! Unter deiner Führung, in deinem Schutze, du Held, laden die Weisen mit schönem Opfer ein.
@@ -200,3 +252,4 @@ Hier trinke Soma mit den Maruts, Indra, wie bei Çarjata du den Saft getrunken; 
 Под твоим предводительством, под твоей защитой, о герой,  
 Поэты с прекрасными жертвами стремятся к завоеванию.
 </details>
+

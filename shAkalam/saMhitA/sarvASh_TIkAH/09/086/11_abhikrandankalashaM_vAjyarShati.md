@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhikrándan ← √krand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+arṣati ← √arṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kaláśam ← kaláśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śatádhāraḥ ← śatádhāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sádaneṣu ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+sīdati ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ávibhiḥ ← ávi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+marmr̥jānáḥ ← √mr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+síndhubhiḥ ← síndhu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +179,7 @@ I do not know why the seats are identified as those of Mitra. I doubt that Lüde
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 Following a pattern we’ve met earlier, the first vs. of the new tṛca echoes the previous one. In particular, the beginning of 10a jyótir yajñásya pavate is almost identical to 7a yajñásya ketúr pavate, with ketú- = jyótis- semantically and the order of the first two elements flipped. As for intra-tṛca connections, 10b #pitā́ devā́nām is picked up by 11b #pátir diváḥ. There is also a fair amount of repetition of vocabulary and even phraseology from earlier in the hymn (e.g., 6cd … mṛjyáte háriḥ … kaláśeṣu sīdati and 11cd háriḥ … sádaneṣu sīdati, marmṛjānáḥ), but most of this involves material so ubiquitous in soma discourse that it doesn’t mean much.
@@ -159,3 +208,4 @@ Dem Trog entgegenwiehernd eilt das schnelle Ross in hundert Strömen leuchtend r
 
 -ru-
 </details>
+

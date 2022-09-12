@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vyáñjanam ← vyáñjana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+abhyáñjanam ← abhyáñjana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hiraṇyáyā ← hiraṇyáya- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+manā́ ← manā́- 2 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +150,4 @@ O bringe Schmuck und Rinder uns und Rosse und Geschmeide her Zugleich mit golden
 
 -ru-
 </details>
+

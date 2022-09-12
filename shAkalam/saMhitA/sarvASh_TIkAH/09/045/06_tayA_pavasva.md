@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+táyā ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+pītáḥ ← √pā- 2 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vicákṣase ← √cakṣ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stotré ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Mit solchem Strome riesle du, durch den, getrunken, Indu du Dem Sänger Heldenkr
 
 -ru-
 </details>
+

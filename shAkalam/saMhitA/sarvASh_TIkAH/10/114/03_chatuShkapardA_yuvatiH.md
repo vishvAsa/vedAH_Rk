@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+cátuṣkapardā ← cátuṣkaparda- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+supéśāḥ ← supéśas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yuvatíḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ghr̥tápratīkā ← ghr̥tápratīka- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vaste ← √vas- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vayúnāni ← vayúna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+sedatuḥ ← √sad- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+suparṇā́ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tásyām ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:F, number:SG}
+
+vŕ̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+bhāgadhéyam ← bhāgadhéya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhiré ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +206,4 @@ Die vierlockige schöngestaltige Jungfrau [nach Sāy. der Altar], mit Butter im 
 На нее уселись два мужественные орла  
 (Там,) где боги получили наделение долей.
 </details>
+

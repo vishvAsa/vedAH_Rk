@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+dábhat ← √dabh- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+dábhyam ← dábhya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+ásaram ← √sr̥- 1 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+dūtī́ḥ ← dūtī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+parākā́t ← parāká- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+gabhīrā́ḥ ← gabhīrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gūhanti ← √guh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+sravátaḥ ← sravát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+hatā́ḥ ← √han- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+paṇayaḥ ← paṇí- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śayadhve ← √śī- (root)  
+{number:PL, person:2, mood:SBJV, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +239,4 @@ Ich kenne ihn nicht als einen, der sich betören läßt; er betört andere, als 
 Лежать вам, Пани, убитыми Индрой!  
 Пани:
 </details>
+

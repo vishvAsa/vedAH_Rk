@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádite ← áditi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+mítra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mr̥ḷa ← √mr̥ḍ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+váruṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́gaḥ ← ā́gas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cakr̥má ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ábhayam ← ábhaya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aśyām ← √naś- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+dīrghā́ḥ ← dīrghá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+naśan ← √naś- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+támisrāḥ ← támisrā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +250,4 @@ Aditi, Mitra, Varuna vergebt uns, was irgend wir an euch für Unrecht übten; La
 О Индра, я хочу достигнуть широкого света, исключающего страх!  
 Да не погубит нас долгий мрак!
 </details>
+

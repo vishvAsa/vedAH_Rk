@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+candrámāḥ ← candrámas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mánasaḥ ← mánas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ajāyata ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+cákṣoḥ ← cákṣu- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+múkhāt ← múkha- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ajāyata ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+prāṇā́t ← prāṇá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vāyúḥ ← vāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +196,4 @@ Aus seinem Geiste entsprang der Mond, aus seinem Auge die Sonne, aus seinem Mund
 Из уст – Индра и Агни.  
 Из дыхания родился ветер.
 </details>
+

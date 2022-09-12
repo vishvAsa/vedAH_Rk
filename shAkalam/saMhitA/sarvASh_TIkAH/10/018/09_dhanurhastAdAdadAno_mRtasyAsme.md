@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ādádānaḥ ← √dā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dhánuḥ ← dhánur ~ dhánvan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+hástāt ← hásta- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mr̥tásya ← √mr̥- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+bálāya ← bála- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+kṣatrā́ya ← kṣatrá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+várcase ← várcas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+suvī́rāḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+abhímātīḥ ← abhímāti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jayema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Den Bogen nehm' ich aus der Hand des Todten, für uns zur Herrschaft, uns zu Gla
 Здесь вот – ты. Тут – мы. Храбрые герои,  
 Пусть победим мы всю враждебность (и) происки!
 </details>
+

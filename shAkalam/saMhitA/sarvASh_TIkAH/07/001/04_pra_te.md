@@ -15,13 +15,53 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agnáyaḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+agníbhyaḥ ← agní- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+nís ← nís (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+váram ← vára- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dyumántaḥ ← dyumánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śośucanta ← √śuc- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+suvī́rāsaḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+samā́sate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sujātā́ḥ ← sujātá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +176,4 @@ Erstrahlen mögen schöner deine Feuer als andre Feuer, heldenreich und glänzen
 Принося мужественных героев, сверкая  
 (Там,) где сидят вместе высокородные мужи.
 </details>
+

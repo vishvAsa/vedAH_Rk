@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+abandhávaḥ ← abandhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bándhumantam ← bándhumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víprāsaḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yemimá ← √yam- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhā́māni ← dhā́man- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tébhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+víśvebhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Denn wir verwaiste Priester ziehen, Indra, dich, dess Sippe gross ist, fest an u
 Какие есть формы проявления у тебя, о бык,  
 Во всех них явись на питье сомы!
 </details>
+

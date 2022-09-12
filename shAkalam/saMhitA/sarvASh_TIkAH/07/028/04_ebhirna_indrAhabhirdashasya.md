@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhabhiḥ ← áhar ~ áhan- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+daśasya ← √daśasy- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ebhíḥ ← ayám (pronoun)  
+{case:INS, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+durmitrā́saḥ ← durmitrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+kṣitáyaḥ ← kṣití- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pávante ← √pū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+anenā́ḥ ← anenás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánr̥tam ← ánr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cáṣṭe ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+māyī́ ← māyín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sāt ← √sā- ~ si- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ In diesen Tagen sei uns hülfreich, Indra; denn Feindesscharen strömen her im G
 Когда безгрешный (Варуна) разглядит неправду,  
 Да развяжет нас сразу же чудодейственный Варуна!
 </details>
+

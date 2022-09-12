@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mā́danam ← mā́dana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+gāyata ← √gā(y)- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+háryaśvāya ← háryaśva- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+somapā́vne ← somapā́van- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +136,4 @@ Dem Indra singt ein Jubellied, der mit den goldnen Rossen fährt, Dem Somatrinke
 (Песнь), для повелителя буланых коней,  
 Друзья – для пьющего сому!
 </details>
+

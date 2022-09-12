@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tárat ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ūrmíṇā ← ūrmí- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+árṣat ← √arṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+dhármaṇā ← dhárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hinvānáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +183,7 @@ On Soma identified as “truth” (ṛtám), see IX.97.23, IX.108.8, and Lüders
 The Pp. analyses árṣan opening c as injunc. árṣat, while the published translation assumes a nom. sg. pres. part. árṣan. Either is of course possible, but the parallelism with vs. initial tárat may support the finite verb interpr., as Oldenberg points out. So an alt. tr. would be: “he rushes …” See Hoffmann (117) on this vs.; he is surely right that the two injunctives should receive the same interpr., rather than Renou’s indic. pres. tárat, modal árṣat, and Hoffmann’s “general” pres. interpr. seems apt here for both.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/14-16.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/14-16.md">
 <details open><summary><h2>14-16 ...{Loading}...</h2></summary>
 
 Like vss. 1-3, this pragātha has a two-pāda addition (vs. 16), also 12 8. Both 14 and 15 contain the part. pávamāna-; all three vss. contain forms of samudrá-, samudríya-, while 16 repeats the phrase rā́jā deváḥ from 15b. In 16 haryatáḥ recalls the same word in 13a, and vicakṣaṇáḥ those in 3b, 5d. The voc. of this stem is found in vs. 24.
@@ -166,3 +215,4 @@ Das Meer durchschreite rieselnd mit der Welle er, er, König, Gott und hehres Re
 Пусть течет он по установлению Митры (и) Варуны,  
 Посылаемый вперед, высокий закон.
 </details>
+

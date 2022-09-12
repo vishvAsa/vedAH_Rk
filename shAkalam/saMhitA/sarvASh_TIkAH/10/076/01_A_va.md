@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+r̥ñjase ← √r̥j- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ūrjā́m ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vyùṣṭiṣu ← vyùṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+anaktana ← √añj- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+áhanī ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sacābhúvā ← sacābhū́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:N, number:DU}
+
+yáthā ← yáthā (invariable)  
+{}
+
+sádaḥ-sadaḥ ← sádas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+udbhídā ← udbhíd- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+varivasyā́taḥ ← √varivasy- (root)  
+{number:DU, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +204,4 @@ Ich wünsche euch herbei nun beim Erstehn der Kraft, benetzt die Marut's, Indra 
 Чтобы обе половины суток (,день и ночь), связанные вместе,  
 Бьющие ключом, сделали широким каждое (жертвенное) сидение!
 </details>
+

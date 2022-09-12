@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dātā́ ← dātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pŕ̥ṣatīnām ← pŕ̥ṣant- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+hiraṇyavī́nām ← hiraṇyavī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+riṣat ← √riṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +149,4 @@ Der reiche König, ein Geber mir von buntgefleckten, Goldschmuck tragenden Stute
 Пятнистых покрытым Золотов (коров),  
 Да не потерпит он, щедрый, вреда!
 </details>
+

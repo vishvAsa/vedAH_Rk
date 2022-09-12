@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́ṅ ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hváyāmasi ← √hvā- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+áram ← áram (invariable)  
+{}
+
+bhavāti ← √bhū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tanvè ← tanū́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+mādáyasva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+śátakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sutéṣu ← √su- (root)  
+{case:LOC, gender:M, number:PL, non-finite:PPP}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ava ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +224,4 @@ Wir rufen dich, o Indra, komm herbei nun; willkommen sei der Soma deinem Leibe, 
 О стомудрый, радуйся выжатым струям!  
 Помоги нам в боях, по(моги) с (нашими) соплеменниками!
 </details>
+

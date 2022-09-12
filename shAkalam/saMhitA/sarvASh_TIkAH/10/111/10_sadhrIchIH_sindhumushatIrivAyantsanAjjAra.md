@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+sadhrī́cīḥ ← sadhryàñc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+síndhum ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uśatī́ḥ ← √vaś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+āritáḥ ← √ār- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+jāráḥ ← jārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūrbhít ← pūrbhíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sanā́t ← sanā́t (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ástam ← ásta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pā́rthivā ← pā́rthiva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:LOC, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jagmuḥ ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sūnŕ̥tāḥ ← sūnŕ̥ta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +221,4 @@ Vereinigt gingen sie zum Meer wie Bräute; stets wird geehrt ihr Buhle, der Durc
 Домой к тебе при(шли) земные блага.  
 К нам, о Индра, пришли многие (твои) милости.
 </details>
+

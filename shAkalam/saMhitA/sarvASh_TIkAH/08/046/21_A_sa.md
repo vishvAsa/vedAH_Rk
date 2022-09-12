@@ -17,15 +17,70 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ī́vat ← ī́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ādadé ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ádevaḥ ← ádeva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūrtám ← pūrtá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aśvyáḥ ← aśvyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+váśaḥ ← √vaś- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
+kānīté ← kānītá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pr̥thuśrávasi ← pr̥thuśrávas- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ādadé ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+asyā́ḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+vyúṣi ← vyúṣ- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Es zeige sich der gottlose [oder fromme wenn âdevah gelesen wird], welcher so r
 У Притхушраваса, сына Каниты,  
 Получил сегодня на рассвете.
 </details>
+

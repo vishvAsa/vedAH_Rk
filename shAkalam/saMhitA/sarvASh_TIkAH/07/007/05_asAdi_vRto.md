@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ājaganvā́n ← √gam- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ásādi ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+váhniḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥táḥ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+brahmā́ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥ṣádane ← nr̥ṣádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vidhartā́ ← vidhartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vāvr̥dhā́te ← √vr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvávāram ← viśvávāra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yájati ← √yaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Er kam und setzte sich, erwählt als Fährmann beim Männerfest, der Beter, Ordn
 (Тот,) кого взрастили Небо и Земля,  
 Кому хотар приносит жертвы, (ему,) наделяющему всем желанным.
 </details>
+

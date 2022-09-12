@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+atharvavát ← atharvavát (invariable)  
+{}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+manthanti ← √manthⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vedhásaḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ánayan ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+aṅkūyántam ← √aṅkūy- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ámūram ← ámūra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śyāvyā̀bhyaḥ ← śyāvyā̀- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +177,4 @@ Hier diesen Agni reiben nach Atharvan's Art die Ordner hervor, den in Windungen 
 Петляющего, не заблуждающегося,  
 Которого они привели из черных (глубин).
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+prātár ← prātár (invariable)  
+{}
+
+śraddhā́m ← śraddhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+madhyáṁdinam ← madhyáṁdina- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+śraddhā́m ← śraddhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nimrúci ← nimrúc- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śraddhā́m ← śraddhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhāpaya ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śráddhe ← śraddhā́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+śrát ← śrád ( √dhā-, √kr̥-) (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +177,4 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 Веру – при заходе солнца.  
 О Вера, сделай (так,) чтобы нам здесь верили!
 </details>
+

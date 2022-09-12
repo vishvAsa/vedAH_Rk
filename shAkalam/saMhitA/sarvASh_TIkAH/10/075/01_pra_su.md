@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āpaḥ ← áp- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+uttamám ← uttamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+kārúḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vivásvataḥ ← vivásvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vocāti ← √vac- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+cakramúḥ ← √kramⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+saptá-sapta ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tredhā́ ← tredhā́ (invariable)  
+{}
+
+áti ← áti (invariable)  
+{}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+síndhuḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sŕ̥tvarīṇām ← sŕ̥tvan- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ O Wasserströme, eure höchste Herrlichkeit verkünde nun der Sänger in Vivasva
 Ведь они двинулись вперед (числом) трижды семь.  
 Впереди струящихся (вод), пре(восходя) (их) силой, (течет) Синдху.
 </details>
+

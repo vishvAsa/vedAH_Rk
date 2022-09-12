@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+juhvàḥ ← juhū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+ghr̥tā́cīḥ ← ghr̥tā́ñc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+haryata ← haryatá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yantu ← √i- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +157,4 @@ Dir mögen meine Löffel nahn, mit Schmalz gefüllt, o lieblicher; nimm, Agni, u
 Полные жира, приблизятся к тебе, о желанный!  
 О Агни, наслаждайся нашими жертвенными возлияниями!
 </details>
+

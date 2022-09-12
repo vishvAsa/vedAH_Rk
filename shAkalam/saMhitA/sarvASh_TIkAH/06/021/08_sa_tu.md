@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nū́tanasya ← nū́tana- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śrudhi ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+tú ← tú (invariable)  
+{}
+
+brahmaṇyatáḥ ← √brahmaṇy- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kārudhāyaḥ ← kārúdhāyas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vīra ← vīrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+āpíḥ ← āpí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+pitr̥̄ṇā́m ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pradívi ← pradív- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+babhū́tha ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+éṣṭau ← éṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śáśvat ← śáśvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suhávaḥ ← suháva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Du aber, Indra, höre auf den Beter, der jetzt dich anfleht, Held, o Dichterpfle
 Ты же от века был близким другом отцов (наших),  
 Всегда легко призываемым – по (первому) желанию.
 </details>
+

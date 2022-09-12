@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+vasūyávaḥ ← vasūyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sahasānám ← sahasāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vavandima ← √vandⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+dvíṣaḥ ← dvíṣ- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+nāvā́ ← naú- ~ nā́v- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+párṣat ← √pr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +197,4 @@ So haben wir voll Schatzbegier, den mächt'gen Agni hoch gerühmt; Schönwirkend
 Да переправит он нас через все враждебные происки,  
 Словно на лодке (через реку), он, обладающий прекрасной силой духа!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jūtím ← jūtí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+raṁhate ← √raṁh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+urugāyásya ← urugāyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+krī́ḷantam ← √krīḍ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mimate ← √mā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+parīṇasám ← parīṇasá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tigmáśr̥ṅgaḥ ← tigmáśr̥ṅga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dádr̥śe ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+dívā ← dívā (invariable)  
+{}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥jráḥ ← r̥jrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +216,7 @@ Acdg. to Geldner (n. 9cd), Renou, Lüders (267), pāda d depicts Soma as sun and
 This may well be, but I wonder if the source of the contrastive image is not the Overnight (atirātrá) soma ritual.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 This tṛca is attributed to Vṛṣagaṇa Vāsiṣṭha, whose given name was obviously extracted from vs. 8. All three vss. contain wild (or semi-wild) animals: a boar in 7d, geese in 8a, and a “sharp-horned” (tigmáśṛṅga-) one in 9c, a descriptor of vṛṣabhá-s generally.
@@ -196,3 +248,4 @@ Er übertrifft des Weithinschreiters Eile, dem muntern Springer folgen kaum die 
 Остророгий (бык) приобретает полноту.  
 Днем он выглядит буланым, ночью серым.
 </details>
+

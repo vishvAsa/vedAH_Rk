@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśmānam ← áśman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kṣipa ← √kṣip- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+uccā́ ← uccā́ (invariable)  
+{}
+
+mandasānáḥ ← mandasāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nijū́rvāḥ ← √jūrv- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+śátrum ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+bhū́reḥ ← bhū́ri- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sātaú ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+tánayasya ← tánaya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tokásya ← toká- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ardhám ← ardhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+gónām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥ṇutāt ← √kr̥- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Vom Himmel hoch wirf nieder deinen Blitzstein, mit dem du lustig niederbrennst d
 Когда дойдет до завоевания обильного продолжения рода коров,  
 Сделай (так, чтобы нам досталась) половина, о Индра!
 </details>
+

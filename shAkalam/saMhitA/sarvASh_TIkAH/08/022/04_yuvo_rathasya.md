@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+ráthasya ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+īrmā́- ← īrmā́ (invariable)  
+{}
+
+iṣaṇyati ← √iṣaṇ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ácha ← ácha (invariable)  
+{}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+patī ← páti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śubhaḥ ← śúbh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+sumatíḥ ← sumatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhāvatu ← √dhāv- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Es dreht sich eures Wagens eines Rad herum, schnell fördert euch das andre auch
 К нам ваша благожелательность, о повелители красоты,  
 Пусть поспешит, как дойная корова (к теленку)!
 </details>
+

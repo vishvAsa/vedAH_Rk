@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+adyá ← adyá (invariable)  
+{}
+
+sadhástutim ← sadhástuti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tú ← tú (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sákhyuḥ ← sákhi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vāvā́tuḥ ← vāvā́tar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+avatu ← √avⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+maghónām ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+úpastutiḥ ← úpastuti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vaśmi ← √vaś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +185,7 @@ The phraseology of this verse echoes some previous ones: its opening ā́tv àdy
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/001/14-17.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/001/14-17.md">
 <details open><summary><h2>14-17 ...{Loading}...</h2></summary>
 
 Note the concentration of nominal forms of the root √stu ‘praise’ in these verses: stómam 14d, 15a, sadhástutim 16a, úpastutiḥ 16c, suṣṭutím 16d. The appearance of sómam in 17a signals a sort of ring-composition by variant, echoing the two forms of stómam in successive pādas of 14 and 15.
@@ -165,3 +217,4 @@ Komm heute zu dem Lobgesang das liebenden Genossen her; Erfreuen möge dich der 
 Похвала щедрых дарителей пусть поддержит тебя!  
 Поэтому я желаю тебе прекрасного восхваления.
 </details>
+

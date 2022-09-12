@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svādávaḥ ← svādú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śrītā́ḥ ← √śrī- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ŕ̥ṣīvaḥ ← r̥ṣīvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śácīvaḥ ← śácīvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śíprin ← śiprín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+nā́yám? ← nā́yám? (invariable)  
+{}
+
+sadhamā́dam ← sadhamā́da- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +190,4 @@ Süss sind diese Tränke, komme, starker Trinker, Sänger liebend Zu dem neuen R
 О прекрасногубый, повелитель риши, сильный –  
 Нет его здесь! – (приезжай) на совместное пиршество!
 </details>
+

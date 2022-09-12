@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sr̥jyámānaḥ ← √sr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+váne ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+nadī́ṣu ← nadī́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+pā́jāṁsi ← pā́jas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahatáḥ ← mahā́nt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+upabdíḥ ← upabdí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yúdhvā ← yúdhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+íyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūrmím ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ Wie Agni, welcher auf das Holz sich stürzet, erregt er rasch in Strömen seinen
 Топот великого (сомы) – словно (шагает) воинственный народ;  
 Сома-Павамана поднимает волну.
 </details>
+

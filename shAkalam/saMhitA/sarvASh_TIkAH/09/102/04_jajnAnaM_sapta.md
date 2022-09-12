@@ -15,14 +15,48 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+jajñānám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+mātáraḥ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aśāsata ← √śās- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vedhā́m ← vedhás- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dhruváḥ ← dhruvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+cíketa ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +182,4 @@ Es wiesen sieben Mütter ihn, das holde Kind, zum Heile an; Er ist der Güter fe
 Наставили для блеска устроителя обряда.  
 Он прочно (укоренился) в богатствах, потому что понимает в (этом).
 </details>
+

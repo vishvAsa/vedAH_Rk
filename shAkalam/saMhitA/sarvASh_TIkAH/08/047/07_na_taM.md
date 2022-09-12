@@ -18,16 +18,83 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+caná ← caná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tigmám ← tigmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tyájaḥ ← tyájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+drāsat ← √drā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+gurú ← gurú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+sapráthaḥ ← sapráthas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+yásmai ← yá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ā́dityāsaḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+árādhvam ← √rā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:MED}
+
+anehásaḥ ← anehás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+suūtáyaḥ ← suūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +251,4 @@ Und den ereilt kein scharf Geschoss, noch stürzt auf den ein wuchtiges, Wem ihr
 Безошибочны ваши поддержки,  
 Хорошо поддерживают ваши поддержки.
 </details>
+

@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pravā́cyam ← pravā́cya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vácasaḥ ← vácas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+hitám ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+niṇík ← niṇík (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+vadanti ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+usríyāṇām ← usríya- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vā́r ← vā́r- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vrán ← √vr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pā́ti ← √pā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rupáḥ ← rúp- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+véḥ ← ví- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,3 +263,4 @@ Was soll ich verkünden von diesem Wort? Das ins Ver- borgene gesetzte reden sie
 Когда они открыли, как сокровище (?), (тайну) коров,  
 (Стало известно,) что он охраняет приятную вершину земли, след птицы.
 </details>
+

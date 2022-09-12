@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line
+#### Morph
+párasyāḥ ← pára- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+atirócate ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+dhánva ← dhánvan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
+áti ← áti (invariable)  
+{}
+
+dvíṣaḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+parṣat ← √pr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Und du, o Wind, bist Vater uns, du bist uns Bruder, bist uns Freund, Drum schaff
 Сверкает через пустыню,  
 Да перевезет он нас через проявления ненависти!
 </details>
+

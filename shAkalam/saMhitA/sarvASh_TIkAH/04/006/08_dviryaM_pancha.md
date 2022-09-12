@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dvís ← dvís (invariable)  
+{}
+
+jī́janan ← √janⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+páñca ← páñca- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saṁvásānāḥ ← √vas- 2 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́nuṣīṣu ← mā́nuṣa- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+svásāraḥ ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+atharyàḥ ← atharī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+dántam ← dánta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+uṣarbúdham ← uṣarbúdh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+paraśúm ← paraśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śukrám ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svā́sam ← svā́s- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tigmám ← tigmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Den zweimal fünf im Haus vereinte Schwestern erzeugten, Agni, in der Menschen H
 Среди человеческих племен, сверкающего, подобно зубцу пламени  
 (Бога) с прекрасным ртом, острого, как топор.
 </details>
+

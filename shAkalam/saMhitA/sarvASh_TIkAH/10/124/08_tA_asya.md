@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+indriyám ← indriyá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+jyéṣṭham ← jyéṣṭha- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sacante ← √sac- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+kṣeti ← √kṣi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mádantīḥ ← √mad- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+rā́jānam ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vr̥ṇānā́ḥ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+ápa ← ápa (invariable)  
+{}
+
+atiṣṭhan ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bībhatsúvaḥ ← bībhatsú- (nominal stem)  
+{case:NOM, gender:F, number:PL, mood:DES}
+
+vr̥trā́t ← vr̥trá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +233,4 @@ Sie folgen nun der höchsten Macht des Indra, er wohnt in ihnen, die in Wonne ta
 Выбираем его, как царя племен,  
 Испытывающие отвращение, они отстранились от Вритры.
 </details>
+

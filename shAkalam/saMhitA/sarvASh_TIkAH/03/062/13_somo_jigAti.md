@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+gātuvít ← gātuvíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jigāti ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+niṣkr̥tám ← niṣkr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsádam ← √sad- (root)  
+{case:ACC, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -82,7 +110,6 @@ genre M
 **गातुवित्**। गातुः वेदिमार्गः । तं जानानः **सोमो** **जिगाति** गच्छति । गन्तव्यं स्थानं दर्शयति । **देवानां** संबन्धि **निष्कृतं** संस्कृतम् **आसदं** सर्वैरासदनीयम् **ऋतस्य** यज्ञस्य **योनिं** स्थानं हविर्धानाख्यम् **एति** प्राप्नोति ॥ जिगाति । • गा स्तुतौ ' । जुहोत्यादिः ॥
 </details>
 
-
 <details><summary>भट्टभास्करटीका</summary>
 
 **गातुर्** मार्गः । गाङ् गतौ, 'कमिमनिजनि' इत्यादिना तुप्रत्ययः । गातुं वेत्ति विन्दतीति वा **गातुवित्** । क्विपि कृदुत्तरपदप्रकृतिस्वरत्वम् । ईदृशोयं सोमो जिगाति गच्छति । गा स्तुतौ छन्दसि इति जुहोत्यादिकः उदात्तेत्, 'बहुलं छन्दसि' इत्यभ्यासस्येत्वम् । इह त्व् अयं गतिकर्मा गतिकर्मसु हि जिगातीति निरुक्तकाराः पठन्ति ।
@@ -115,7 +142,6 @@ He approacheth the place of the gods,
 To sit on the birthplace of Order .
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Soma kommt seinen Weg findend, er gelangt in die Gesellschaft der Götter, um sich in den Schoß des rechten Brauches zu setzen.
@@ -132,3 +158,4 @@ Der Soma geht, des Wegs bewusst, zum Ort der Götter dringt er hin, Zu sitzen au
 Он идет на свидание с богами,  
 Чтобы осесть в лоне закона.
 </details>
+

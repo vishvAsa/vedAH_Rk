@@ -15,13 +15,53 @@ ChandaH = "अनुष्टुप्पिपीलिकमध्या"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+mádāmasi ← √mad- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sutám ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+mahé ← mahá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+samaryarā́jye ← samaryarā́jya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+gāhase ← √gāh- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+pavamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +175,4 @@ Denn dir gepresstem jauchzen wir, o Soma, zu im grossen festlichen Bereich, Du t
 В великом царстве состязания.  
 Ты ныряешь вперед к наградам, о Павамана.
 </details>
+

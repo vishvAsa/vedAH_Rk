@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śrudhí ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+tiṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+híraṇyapāṇe ← híraṇyapāṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prábhr̥tau ← prábhr̥ti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+amátim ← amáti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pr̥thvī́m ← pr̥thú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sr̥jānáḥ ← √sr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+urvī́m ← urú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+martabhójanam ← martabhójana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nŕ̥bhyaḥ ← nár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+suvānáḥ ← √sū- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ O Savitar, goldhändiger, erheb dich, und hör auf diesen bei des Opfers Weihung
 Далеко (и) широко развертывая (свой) образ,  
 Вызывая к жизни для мужей пищу, (подобающую) смертным!
 </details>
+

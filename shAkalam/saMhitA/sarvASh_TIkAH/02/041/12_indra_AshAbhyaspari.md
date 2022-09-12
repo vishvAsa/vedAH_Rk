@@ -15,13 +15,41 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́śābhyaḥ ← ā́śā- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+ábhayam ← ábhaya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+karat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sárvābhyaḥ ← sárva- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
+jétā ← jétar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vícarṣaṇiḥ ← vícarṣaṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +153,4 @@ Es schaffe Indra Sicherheit von allen Seiten uns herbei; Die Feinde schlage thä
 Создает (нам) отсутствие страха,  
 Победитель врагов, выделяющийся среди народов!
 </details>
+

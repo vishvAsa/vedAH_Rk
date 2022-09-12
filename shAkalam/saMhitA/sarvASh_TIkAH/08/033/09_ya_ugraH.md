@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ániṣṭr̥ta ← ániṣṭr̥ta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ráṇāya ← ráṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sáṁskr̥taḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sthiráḥ ← sthirá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śr̥ṇávat ← √śru- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+stotúḥ ← stotár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yádi ← yádi (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gamat ← √gam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yoṣati ← √yu- 2 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Wenn zu der Schlacht gerüstet er, der starke, nie gestürzte Held, Der mächt'g
 Если щедрый услышит зов восхвалителя.  
 Индра не останется в стороне – он придет.
 </details>
+

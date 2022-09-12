@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ījé ← √yaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+śámībhiḥ ← śámī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śaśamé ← √śamⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yajñébhiḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dadāśa ← √dāś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+r̥dhádvārāya ← r̥dhádvāra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ájuṣṭiḥ ← ájuṣṭi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yaśásām ← yaśás- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mártam ← márta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+naśate ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+prádr̥ptiḥ ← prádr̥pti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Wer Opfer opfernd und mit Werken wirkend, dem Gütermehrer Agni stets gedient ha
 В таком случае этого смертного никогда не настигнет  
 Ни недовольство видных (людей), ни нужда, ни безумие.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+mahā́ntam ← mahā́nt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+arṣanti ← √arṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vāsayiṣyáse ← √vas- 2 (root)  
+{number:SG, person:2, mood:IND, tense:FUT, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,7 +136,7 @@ the finite future, is relatively rare in the RV, and, curiously, it tends to hav
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/002/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/002/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 These two vss. introduce the trope of “clothing,” a metaphor for mixing the soma juice with various substances: after the pressing proper the soma is mixed first with water (vs. 3) and then with milk (vs. 4), the latter accounting for the ubiquitous “cows” of the IXth Maṇḍala. Thus, though an expression “clothe himself with cows” initially strikes the inexperienced reader as ludicrous, it makes perfect sense in the tightly constructed verbal realm of the Soma hymns: clothing = mixing and cows = waters.
@@ -136,3 +167,4 @@ Es strömen Wasserfluten dir, dem grossen grosse Ströme nach, Wenn du in Milch 
 Великие воды, реки,  
 Когда ты хочешь рядиться в коровье молоко.
 </details>
+

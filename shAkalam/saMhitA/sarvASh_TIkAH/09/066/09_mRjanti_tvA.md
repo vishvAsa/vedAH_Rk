@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agrúvaḥ ← agrū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mr̥jánti ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ávye ← ávya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jīraú ← jīrí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sváni ← sváni- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ajyáse ← √añj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+rebháḥ ← rebhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váne ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +161,7 @@ The presence of ávye at the beg. of the pāda would set the audience’s expect
 In c I take rebháḥ … ajyáse as a pun, dependent on the literal sense of √ribh, which, rather than being ‘sing’ as it generally is glossed, is really ‘creak, rasp’. See comm. ad VI.3.6. Here Soma is as usual ‘anointed’ (ajyase) with milk, and in that regard he is identified as a rebhá-, a ritual officiant with a particular voice quality. But as disc. ad VI.3.6, in a TS passage √ribh is used for a squeaky wheel, and of course the way to fix such a wheel is to “grease” it (√añj). So the unmarked comparison here is “(as) a squeaky (wheel) is greased.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 No particular sign of cohesion either internal or external.
@@ -153,3 +190,4 @@ Es reinigt dich der Jungfraun Schar im Strom, der durch die Wolle rauscht, Wenn 
 
 -ru-
 </details>
+

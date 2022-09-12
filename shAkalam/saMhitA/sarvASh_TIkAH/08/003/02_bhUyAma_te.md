@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhūyā́ma ← √bhū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+sumataú ← sumatí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:GEN, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+abhímātaye ← abhímāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+star ← √str̥- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+abhíṣṭibhiḥ ← abhíṣṭi- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+avatāt ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+citrā́bhiḥ ← citrá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sumnéṣu ← sumná- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yāmaya ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ In deiner Gnade seien reichgesegnet wir, nicht wirf uns dem Verfolger hin; Mit m
 Нам помоги блистательными поддержками!  
 Удержи нас в (своем) добром расположении!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+sómārudrā ← somārudra- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ví ← ví (invariable)  
+{}
+
+víṣūcīm ← víṣvañc- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥hatam ← √vr̥h- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ámīvā ← ámīvā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+āvivéśa ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+gáyam ← gáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+āré ← āré (invariable)  
+{}
+
+bādhethām ← √bādhⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+nírr̥tim ← nírr̥ti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+parācaís ← parācaís (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sauśravasā́ni ← sauśravasá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +201,4 @@ O Soma-Rudra, treibt nach allen Seiten die Krankheit, die in unser Haus gedrunge
 Прогоните далеко прочь Гибель!  
 Да будут у нас (вещи,) приносящие счастье (и) добрую славу!
 </details>
+

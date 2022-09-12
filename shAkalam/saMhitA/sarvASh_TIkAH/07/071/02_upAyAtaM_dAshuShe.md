@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mártyāya ← mártya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+upā́yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+váhantā ← √vah- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ámīvām ← ámīvā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ánirām ← ánirā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+yuyutám ← √yu- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dívā ← dívā (invariable)  
+{}
+
+mādhvī ← mā́dhvī- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+trā́sīthām ← √trā- (root)  
+{number:DU, person:2, mood:OPT, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +190,4 @@ O kommt herbei zum sterblichen Verehrer, im Wagen fahrend schönes Gut, o Ritter
 Держите в стороне от нас бессилие (и) болезнь  
 Днем и ночь, о любители меда, и охраняйте нас!
 </details>
+

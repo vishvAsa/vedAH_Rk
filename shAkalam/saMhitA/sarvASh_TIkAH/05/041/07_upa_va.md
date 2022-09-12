@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+éṣe ← éṣa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śūṣaíḥ ← śūṣá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vándyebhiḥ ← vándya- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+citáyadbhiḥ ← √cit- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yahvī́ ← yahvī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+uṣā́sānáktā ← uṣā́sānáktā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vidúṣī ← √vid- 2 (root)  
+{case:NOM, gender:F, number:DU, tense:PRF, voice:ACT}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ha ← ha (invariable)  
+{}
+
+mártyāya ← mártya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vahataḥ ← √vah- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Ich geh euch an mit preisenswerthen Liedern; mit lichten Strahlen fahren jedes O
 Ушас и Ночь, как две ведуньи, (знающие) всё,  
 Пусть привезут жертву для смертного!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āṅgirasáḥ ← āṅgirasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+nákṣamāṇaḥ ← √nakṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+aryamáṇam ← áryaman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+nināya ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+anakti ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dámpatī ← dámpati- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+jáne ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ājaú ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+āśū́n ← āśú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+vājáya ← √vājay- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +214,4 @@ Sich nahend schenkt der Angiras-entsprossne wie Bhaga Kühe seinem Busenfreunde,
 Как друг племени он умащает мужа и жену.  
 О Брихаспати, пришпорь (их), как коней на состязании!
 </details>
+

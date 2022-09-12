@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+divojā́ḥ ← divojā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+duhitā́ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+syā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ajīgar ← √gr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+kṣitī́ḥ ← kṣití- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mā́nuṣīḥ ← mā́nuṣa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+uchántī ← √vas- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+bhānúnā ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rāmyā́su ← rā́myā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+rúśatā ← rúśant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ájñāyi ← √jñā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+aktū́n ← aktú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+támasaḥ ← támas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Schon hat erweckt uns diese Himmelstochter, hellleuchtend alle menschlichen Gesc
 (Та,) что сверкающим лучом в ночах  
 Дала о себе знать даже сквозь тени тьмы.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+ácha ← ácha (invariable)  
+{}
+
+vidúṣṭaraḥ ← vidúṣṭara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vocaḥ ← √vac- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+śrát ← śrád ( √dhā-, √kr̥-) (invariable)  
+{}
+
+vā́ryā ← vā́rya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +170,4 @@ Und ruf uns, Gott, die Götter her, der du am besten es verstehst, Und alles Gut
 
 -ru-
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+suṣváyantī ← √suṣvay- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+
+úpāke ← úpāka- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yajaté ← yajatá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ní ← ní (invariable)  
+{}
+
+sadatām ← √sad- (root)  
+{number:DU, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+uṣā́sānáktā ← uṣā́sānáktā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+br̥hatī́ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+divyé ← divyá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+surukmé ← surukmá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yóṣaṇe ← yóṣaṇā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dádhāne ← √dhā- 1 (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+śríyam ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śukrapíśam ← śukrapíś- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Die eng verbundnen hehren Nacht und Morgen, sie mögen eilend auf den Platz sich
 Две божественные юные жены, высокие, с чудесными золотистыми украшениями,  
 Облачающиеся в красоту сверкающих драгоценностей!
 </details>
+

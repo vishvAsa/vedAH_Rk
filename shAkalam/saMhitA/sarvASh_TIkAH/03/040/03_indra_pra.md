@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+dhitā́vānam ← dhitā́van- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+víśvebhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stavāna ← √stu- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+tirá ← √tr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+viśpate ← viśpáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +157,4 @@ Mit allen Göttern fördere das gabenreiche Opfer uns, Gelobter Hausherr, Indra 
 Той, в которую вложено (возлияние),  
 Вместе со всеми богами, о прославленный!
 </details>
+

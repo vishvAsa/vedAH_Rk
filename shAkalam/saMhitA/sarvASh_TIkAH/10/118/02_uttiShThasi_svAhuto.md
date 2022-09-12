@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+svā̀hutaḥ ← svā̀huta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tiṣṭhasi ← √sthā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+ghr̥tā́ni ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+modase ← √mud- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+samásthiran ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+srúcaḥ ← srúc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ Du steigest schön getränkt empor, eilst jauchzend zu der Butter hin, Wenn dir 
 Радуешься потокам жира,  
 Когда с тобой встретились ложки.
 </details>
+

@@ -16,15 +16,58 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+pári ← pári (invariable)  
+{}
+
+pātha ← √pā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+priyé ← priyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śármaṇi ← śárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yuṣmā́kam ← tvám (pronoun)  
+{case:GEN, number:PL}
+
+supraṇītayaḥ ← supráṇīti- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+syā́ma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+dvíṣaḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +185,4 @@ Ihr seid es, die ihr jeden schützt Varuna, Mitra, Arjaman; Lasst uns in eurem l
 Под вашей любимой защитой  
 Мы хотим быть, о прекрасные вожди – через проявления враждебности!
 </details>
+

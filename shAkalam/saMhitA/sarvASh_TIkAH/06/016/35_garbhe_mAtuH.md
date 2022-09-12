@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+gárbhe ← gárbha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+akṣáre ← akṣára- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vididyutānáḥ ← √dyut- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sī́dan ← √sad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +165,4 @@ Des Vaters Vater, strahlend hell im Mutterleib, im Aetherraum Sich setzend in de
 Ярко сверкая на непреходящем (месте),  
 Сидя в лоне закона,
 </details>
+

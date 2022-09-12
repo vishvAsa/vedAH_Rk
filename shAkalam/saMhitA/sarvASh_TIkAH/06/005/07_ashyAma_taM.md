@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+aśyā́ma ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+aśyā́ma ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayivaḥ ← rayivánt- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suvī́ram ← suvī́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+aśyā́ma ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājáyantaḥ ← √vājay- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ajara ← ajára- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ajáram ← ajára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aśyā́ma ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+dyumnám ← dyumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +239,6 @@ May we win booty, seeking for booty;
 May we win, O deathless, undying glory.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Wir möchten diesen Wunsch durch deine Gnade erlangen, o Agni; wir möchten Reichtum an guten Söhnen, du Reicher, erlangen; wir möchten deinen nicht alternden Glanz erlangen, du Alterloser!
@@ -199,3 +256,4 @@ Erfülle, Agni, diesen Wunsch uns hülfreich; lass Labung uns empfahn, die Labun
 Пусть достигнем мы награды, стремясь к награде!  
 Пусть достигнем мы твоего блеска нестареющего, о нестареющий!
 </details>
+

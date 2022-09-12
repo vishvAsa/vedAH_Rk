@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhāti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+uṣásām ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+asthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+devayā́ḥ ← devayā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+út ← út (invariable)  
+{}
+
+vā́caḥ ← vā́c- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+víprāṇām ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+arvā́ñcā ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ihá ← ihá (invariable)  
+{}
+
+nūnám ← nūnám (invariable)  
+{}
+
+rathyā ← rathī́- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ácha ← ácha (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gharmám ← gharmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pīpivā́ṁsam ← √pī- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Agni bestrahlt der Morgenröthen Antlitz; es stiegen auf der Sänger fromme Lied
 В наши края приезжайте сейчас, о двое колесничих,  
 О Ашвины, к закипевшему горячему молоку!
 </details>
+

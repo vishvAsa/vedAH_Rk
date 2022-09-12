@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D;; Vālakhilya  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya
+#### Morph
+bhāgadhéyāni ← bhāgadhéya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+imā́ni ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+sisrate ← √sr̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+índrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sutéṣu ← √su- (root)  
+{case:LOC, gender:M, number:PL, non-finite:PPP}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+bhuraṇyáthaḥ ← √bhuraṇy- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yajñé-yajñe ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śíkṣathaḥ ← √śak- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yájamānāya ← √yaj- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Es strömen diese eure Opfertheile vor, beim Somamahl zur Lust euch, Indra-Varun
 Ведь на каждом жертвоприношении вы набрасываетесь на выжимания,  
 Когда хотите поддержать жертвователя, выжимающего сок.
 </details>
+

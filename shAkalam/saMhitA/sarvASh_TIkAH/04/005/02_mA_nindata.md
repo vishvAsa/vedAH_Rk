@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+nindata ← √nid- (root)  
+{number:PL, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+rātím ← rātí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dadaú ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártyāya ← mártya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svadhā́vān ← svadhā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amŕ̥taḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gŕ̥tsaḥ ← gŕ̥tsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pā́kāya ← pā́ka- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vícetāḥ ← vícetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nŕ̥tamaḥ ← nŕ̥tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaiśvānaráḥ ← vaiśvānará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yahváḥ ← yahvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Nicht schmähet den, der diese grosse Gabe dem Sterb- lichen der Gott als Herrsc
 Простодушного – умудренный, бессмертный прозорливец,  
 Вайшванара самый мужественный, юный Агни.
 </details>
+

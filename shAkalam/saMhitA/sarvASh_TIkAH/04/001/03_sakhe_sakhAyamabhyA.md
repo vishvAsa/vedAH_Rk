@@ -19,10 +19,10 @@ ChandaH = "धृतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,97 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sákhe ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vavr̥tsva ← √vr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
+
+āśúm ← āśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cakrám ← cakrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ráṁhyā ← ráṁhi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ráthyā ← ráthya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dasma ← dasmá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ráṁhyā ← ráṁhi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mr̥ḷīkám ← mr̥ḷīká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+váruṇe ← váruṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vidaḥ ← √vid- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+marútsu ← marút- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+viśvábhānuṣu ← viśvábhānu- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+śám ← śám (invariable)  
+{}
+
+śuśucāna ← √śuc- (root)  
+{case:VOC, gender:M, number:SG, tense:PRF, voice:MED}
+
+tokā́ya ← toká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tujé ← túj- 2 (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dasma ← dasmá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+śám ← śám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,3 +337,4 @@ Ihn den Genossen wende her, Genosse du, so wie ein rasches Wagenrad in schnellem
 Создай счастье для продолжения рода, о пылающий!  
 Для нас, о чудесный, создай счастье!
 </details>
+

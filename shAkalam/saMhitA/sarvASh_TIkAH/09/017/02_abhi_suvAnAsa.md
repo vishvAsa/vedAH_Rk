@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvānā́saḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥ṣṭáyaḥ ← vr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+akṣaran ← √kṣar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +139,4 @@ Zu Indra rann der Somatrank, wie Regen auf die Erde strömt, Die ausgepressten T
 Как капли дождя – на землю,  
 Соки сомы полились к Индре.
 </details>
+

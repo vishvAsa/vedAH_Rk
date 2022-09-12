@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gr̥hápatiḥ ← gr̥hápati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+pótā ← pótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prácetāḥ ← prácetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+viśvavāra ← viśvávāra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+vā́ryam ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+véṣi ← √vī- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+yákṣi ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +194,4 @@ Du, Agni, bist des Hauses Herr und Priester bei dem Opfer uns; O güterreicher, 
 Ты потар прозорливый, о дающий все лучшее.  
 Жертвуй и отправляйся за лучшим даром (для нас)!
 </details>
+

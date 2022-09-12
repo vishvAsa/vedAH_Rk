@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámamaduḥ ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+gr̥hā́t ← gr̥há- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+tvāyā́ ← tvám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+parāśaráḥ ← parāśará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śatáyātuḥ ← śatáyātu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhojásya ← bhojá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mr̥ṣanta ← √mr̥ṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+sudínā ← sudína- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sūríbhyaḥ ← sūrí- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+uchān ← √vas- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Die liebend dich vom Hause her begrüssten, Paraçara, Vasischtha, Çatajatu, Ve
 Не забудут дружбы с тобою, радушным!  
 Теперь воссияют счастливые дни для (наших) покровителей!
 </details>
+

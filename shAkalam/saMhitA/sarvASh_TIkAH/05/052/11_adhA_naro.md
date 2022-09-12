@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+ohate ← √uh- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+ádha ← ádha (invariable)  
+{}
+
+niyútaḥ ← niyút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ohate ← √uh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ádha ← ádha (invariable)  
+{}
+
+íti ← íti (invariable)  
+{}
+
+pā́rāvatāḥ ← pā́rāvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+citrā́ ← citrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dárśyā ← dárśya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rūpā́ṇi ← rūpá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +183,4 @@ Die Männer, ja sie achten drauf und ihre Vielgespanne auch, Sie, die man aus de
 И (люди говорят): Издалека они.  
 (Когда) становятся видными (их) яркие фигуры.
 </details>
+

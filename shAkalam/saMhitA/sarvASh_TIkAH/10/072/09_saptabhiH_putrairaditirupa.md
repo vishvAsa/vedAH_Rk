@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+putraíḥ ← putrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+saptábhiḥ ← saptá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ait ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yugám ← yugá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mr̥tyáve ← mr̥tyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prajā́yai ← prajā́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+tvat ← tva- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mārtāṇḍám ← mārtāṇḍá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +184,4 @@ Sieb'n Söhne führte Aditi dem alten Götterstamme zu; Bald zur Geburt, zum Tod
 К потомству, как и к смерти,  
 Она снова привела Мартанду.
 </details>
+

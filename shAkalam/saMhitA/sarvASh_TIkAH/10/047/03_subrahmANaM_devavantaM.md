@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devávantam ← devávant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+subráhmāṇam ← subráhman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gabhīrám ← gabhīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pr̥thúbudhnam ← pr̥thúbudhna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+urúm ← urú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhimātiṣā́ham ← abhimātiṣáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrutár̥ṣim ← śrutár̥ṣi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+citrám ← citrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +204,4 @@ Gib viel erbetnen, gottbeschirmten Reichthum, der weit und tief auf breitem Bode
 Состоящее из прославленных риши, грозное, осиливающее противников –  
 Нам даруй яркое, мощное богатство!
 </details>
+

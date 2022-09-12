@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+hí ← hí (invariable)  
+{}
+
+śáśvat ← śáśvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sudānavaḥ ← sudā́nu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ā́dityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+bubhujmáhe ← √bhuj- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:MED}
+
+nūnám ← nūnám (invariable)  
+{}
+
+purā́ ← purā́ (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +145,4 @@ Denn stets, Aditja's, haben wir genossen eure Hülfen, jetzt Und früher, reichl
 Адитьи, мы подкреплялись вашими  
 Поддержками – прежде (и) сейчас
 </details>
+

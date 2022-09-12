@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+adāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+adāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ajámāyuḥ ← ajámāyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gómāyuḥ ← gómāyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+háritaḥ ← hárita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pŕ̥śniḥ ← pŕ̥śni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dádataḥ ← √dā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+maṇḍū́kāḥ ← maṇḍū́ka- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śatā́ni ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sahasrasāvé ← sahasrasāvá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tirante ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +235,4 @@ Der stiergleich brüllt, der wie die Ziege meckert, | der bunte gab, der gelbe g
 Лягушки, дающие сотни коров  
 При тысячном выжимании (сомы), продлили (за это) срок (своей) жизни.
 </details>
+

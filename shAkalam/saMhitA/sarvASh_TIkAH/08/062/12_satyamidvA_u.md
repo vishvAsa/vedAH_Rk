@@ -17,15 +17,73 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ít ← ít (invariable)  
+{}
+
+satyám ← satyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+vaí ← vaí (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ánr̥tam ← ánr̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+stavāma ← √stu- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ásunvataḥ ← ásunvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vadháḥ ← vadhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jyótīṁṣi ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sunvatáḥ ← √su- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bhadrā́ḥ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rātáyaḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Ihn, den wahrhaften, preisen wir, den Indra, welcher nimmer trügt; Den somalose
 Много света (бывает) у выжимающего.  
 Дары Индры несут счастье.
 </details>
+

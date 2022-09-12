@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+trā́yamāṇaḥ ← √trā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+híraṇyapāṇiḥ ← híraṇyapāṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jagamyāt ← √gam- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+yajatáḥ ← yajatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dátravān ← dátravant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prátīkam ← prátīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vā́ryāṇi ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vyūrṇuté ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +181,7 @@ With Geldner and Renou, I take the simile uṣáso ná prátīkam as a nominativ
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/050/08-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/050/08-10.md">
 <details open><summary><h2>08-10 ...{Loading}...</h2></summary>
 
 These three vss. contain a series of perfect optatives, jagamyāt (8b), vavṛtyāt (9b), jagmyātam (10a), but they do not show any peculiarities of register or usage. The connection among the vss. is also signaled by utá, which opens the second two. Klein (DGRV I.424) notes the co-occurrence of the “optative series” (he does not mention that they are belong to the pf.) and the utá’s.
@@ -164,3 +213,4 @@ Es komme her Gott Savitar, der hehre, zu uns mit goldnen Händen der Beschützer
 Который, имея дары, словно лик Ушас,  
 Раскрывает перед почитающим (его) избранные богатства.
 </details>
+

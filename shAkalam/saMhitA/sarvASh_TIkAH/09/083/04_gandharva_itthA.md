@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+gandharváḥ ← gandharvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rakṣati ← √rakṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ádbhutaḥ ← ádbhuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+jánimāni ← jániman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pā́ti ← √pā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gr̥bhṇā́ti ← √gr̥bhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nidhā́patiḥ ← nidhā́pati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nidháyā ← nidhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ripúm ← ripú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āśata ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+bhakṣám ← bhakṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádhunaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sukŕ̥ttamāḥ ← sukŕ̥ttama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +226,4 @@ Gandharva ist es, der des Soma Ort bewacht, und unsichtbar der Götter Stämme h
 Он хватает обманщика силком как господин силка.  
 Лучше всех действующие (на жертвоприношении) достигли вкушения меда.
 </details>
+

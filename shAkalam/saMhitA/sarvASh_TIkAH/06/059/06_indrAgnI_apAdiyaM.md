@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apā́t ← apád- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+padvátībhyaḥ ← padvánt- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
+pū́rvā ← pū́rva- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cárat ← √carⁱ- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+hitvī́ ← √hā- 2 (root)  
+{non-finite:CVB}
+
+jihváyā ← jihvā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vā́vadat ← √vadⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+akramīt ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+padā́ ← padá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+triṁśát ← triṁśát- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +221,4 @@ O Indra-Agni, diese, welche fusslos ist [die Morgenröthe], erschien früher als
 Без головы он странствует, громко возглашая языком,  
 В то время как (тот) сделал тридцать шагов.
 </details>
+

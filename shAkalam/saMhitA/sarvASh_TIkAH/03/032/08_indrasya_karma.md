@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kárma ← kárman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+súkr̥tā ← súkr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+minanti ← √mī- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dādhā́ra ← √dhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+jajā́na ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sudáṁsāḥ ← sudáṁsas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +237,4 @@ Viel sind des Indra schön vollbrachte Werke; die Götter alle stören sein Gese
 Кто держит землю и это небо.  
 (Он) породил солнце, утреннюю зарю, (бог,) с замечательными чудесами.
 </details>
+

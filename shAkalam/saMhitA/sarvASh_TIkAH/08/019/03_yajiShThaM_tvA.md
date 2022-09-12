@@ -15,13 +15,44 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vavr̥mahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:MED}
+
+yájiṣṭham ← yájiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ámartyam ← ámartya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devatrā́ ← devatrā́ (invariable)  
+{}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+sukrátum ← sukrátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +153,4 @@ Als besten Opfrer wählten wir den ew'gen Gott, den Priester unter Göttern dich
 Как божественного хотара среди богов, бессмертного,  
 Для этого жертвоприношения, как обладающего прекрасной силой духа;
 </details>
+

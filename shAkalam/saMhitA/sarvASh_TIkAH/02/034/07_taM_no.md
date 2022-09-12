@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dāta ← √dā- 1 (root)  
+{number:PL, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āpānám ← √āp- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+citáyat ← √cit- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kāráve ← kārú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+vr̥jáneṣu ← vr̥jána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+áriṣṭam ← áriṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+duṣṭáram ← duṣṭára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+medhā́m ← medhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+saním ← saní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ O gebt, ihr Marut's, wie ein Ross am Wagen uns, Gebet das durchdringt, euch erin
 Жертвенную усладу – восхвалителям в жертвенных общинах, певцу –  
 Вознаграждение (и) мудрость – (эту) невредимую, неодолимую силу!
 </details>
+

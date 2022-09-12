@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yuṣmā́n ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+dívā ← dívā (invariable)  
+{}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+yuṣmā́n ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+prayatí ← √i- 1 (root)  
+{case:LOC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yuṣmā́n ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Euch rufen wir bei Tage an und euch um Hülfe in der Nacht, Euch bei des Opferfe
 Вас – среди дня,  
 Вас – когда начинается обряд.
 </details>
+

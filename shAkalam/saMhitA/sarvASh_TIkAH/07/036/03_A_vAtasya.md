@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dhrájataḥ ← √dhraj- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ityā́ḥ ← ityā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ranta ← √rā- 3 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+vā́tasya ← vā́ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ápīpayanta ← √pī- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PLUPRF, voice:MED}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sū́dāḥ ← sū́da- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jā́yamānaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ácikradat ← √krand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+sásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+ū́dhan ← ū́dhar- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +222,4 @@ Es kommen her des schnellen Windes Züge, wie Kühe strömten reichlich süsse T
 Рождаясь в сиденье великого неба,  
 Взревел бык в том же вымени.
 </details>
+

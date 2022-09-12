@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+gachasva ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+pitŕ̥bhiḥ ← pitár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+yaména ← yamá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+iṣṭāpūrténa ← iṣṭāpūrtá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vyòman ← vyòman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ástam ← ásta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+avadyám ← avadyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hitvā́ya ← √hā- 2 (root)  
+{non-finite:CVB}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+púnar ← púnar (invariable)  
+{}
+
+gachasva ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+suvárcāḥ ← suvárcas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Vereine dich mit Jama und den Vätern, mit jedes Wunschs Gewähr im höchsten Hi
 Оставив (все) греховное, снова возвращайся домой!  
 Соединись с телом, полный жизненной силы!
 </details>
+

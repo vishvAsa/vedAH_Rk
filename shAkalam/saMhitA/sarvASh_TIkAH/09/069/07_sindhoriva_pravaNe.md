@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+nimné ← nimná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pravaṇé ← pravaṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+síndhoḥ ← síndhu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+āśata ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádāsaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥ṣacyutāḥ ← vŕ̥ṣacyuta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cátuṣpade ← cátuṣpad- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dvipáde ← dvipád- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+niveśé ← niveśá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+kr̥ṣṭáyaḥ ← kr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tiṣṭhantu ← √sthā- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vā́jaḥ ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Die schnellen Tränke haben wie in Stromes Sturz, die stiergepressten, ihren Lau
 Благо нашим двуногим (и) четвероногим при возвращении (домой)!  
 На нашей стороне пусть будут, о сома, награды (и) народы.
 </details>
+

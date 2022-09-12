@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+arṣanti ← √arṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asaścátaḥ ← asaścát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+divyā́ḥ ← divyá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+gachati ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sátvabhiḥ ← sátvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ánibhr̥ṣṭataviṣiḥ ← ánibhr̥ṣṭataviṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hanti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+kr̥ṇuté ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáṁ-yam ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yújam ← yúj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Und unversieglich rinnen Himmelswasser ihm, zuerst erbeutet Rinder er mit tapfre
 С неослабной силой мощно поражает тот,  
 Кого Брахманаспати делает (своим) союзником.
 </details>
+

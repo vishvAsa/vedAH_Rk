@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+áśvyam ← áśvya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+gavyáyam ← gavyáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+paśúm ← paśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hiraṇyáyam ← hiraṇyáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purīṣíṇam ← purīṣín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sā́yakena ← sā́yaka- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śiśāmi ← √śā- ~ śī- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ámandiṣuḥ ← √mand- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ukthínaḥ ← ukthín- (nominal stem)  
+{case:NOM, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +204,4 @@ Ich treibe Ross- und Rinderheerden schnell herbei und reichversehnen goldnen Sch
 Много тысяч я повергаю ниц для почитающего (меня),  
 Когда меня опьянили соки сомы, сопровождаемые восхвалениями.
 </details>
+

@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ásamaḥ ← ásama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayujáḥ ← ayujá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ayā́syaḥ ← ayā́sya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṣṭī́ḥ ← kr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vāvr̥dhe ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+jātā́ni ← √janⁱ- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bhadrā́ḥ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rātáyaḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Er, ohne Gleichen, unerreicht von Männern, überragt allein Die vielen Völker 
 Многие народы, все существа.  
 Дары Индры несут счастье.
 </details>
+

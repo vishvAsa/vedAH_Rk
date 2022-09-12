@@ -15,13 +15,56 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ní ← ní (invariable)  
+{}
+
+śátroḥ ← śátru- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vŕ̥ṣṇyam ← vŕ̥ṣṇya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tira ← √tr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánti ← ánti (invariable)  
+{}
+
+dūré ← dūrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+satáḥ ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +174,4 @@ Vernichte, Soma, Macht und Muth des Feindes, seine Jugendkraft, Mag nahe oder fe
 По(дави его) неистовство, подави силу жизни,  
 Будь он вблизи или далеко!
 </details>
+

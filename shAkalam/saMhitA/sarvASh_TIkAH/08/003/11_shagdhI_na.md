@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śagdhí ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yā́mi ← √yā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śagdhí ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+síṣāsate ← √sanⁱ- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+vā́jāya ← vā́ja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pūrvya ← pūrvyá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śagdhí ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+stómāya ← stóma- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +197,4 @@ Sei hold uns, Indra, wenn ich dich um Reichthum bitt' und Heldenkraft, Verhilf z
 Постарайся с наградой для того, кто первым хочет добыть (ее)!  
 Постарайся с восхвалением, о (ты) самый первый!
 </details>
+

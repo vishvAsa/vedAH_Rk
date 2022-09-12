@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śiva ← śivá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā́yo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yāhí ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+sváśvyam ← sváśvya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váhasva ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+maháḥ ← mahá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thupákṣasā ← pr̥thupákṣas- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+váhasva ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +173,4 @@ Vom Himmel, holder Vaju komm, und fahre Rossbesitz herbei; Die breiten Ross' am 
 Благополучно привези нам обладание конями!  
 Привези с огромного (неба) пару ширококрылых коней при колеснице!
 </details>
+

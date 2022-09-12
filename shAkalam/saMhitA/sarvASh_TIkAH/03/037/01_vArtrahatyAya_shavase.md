@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+śávase ← śávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vā́rtrahatyāya ← vā́rtrahatya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+pr̥tanāṣā́hyāya ← pr̥tanāṣā́hya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vartayāmasi ← √vr̥t- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,3 +132,4 @@ Wir wenden, Indra dich herbei zur Stärke, die den Vritra schlägt, Und zu der F
 И для победы в сражениях,  
 О Индра, мы привлекаем тебя (сюда).
 </details>
+

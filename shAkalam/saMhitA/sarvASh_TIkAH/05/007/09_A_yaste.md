@@ -16,14 +16,66 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+sarpirāsute ← sarpírāsuti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhā́yase ← dhā́yas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dyumnám ← dyumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+eṣu ← ayám (pronoun)  
+{case:LOC, number:PL}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cittám ← √cit- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+mártyeṣu ← mártya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Welch Gut du zu vertheilen hast, o fettgetränkter Agni du, Das schenke diesen S
 Таким смертным дай  
 Блеск, славу и ум!
 </details>
+

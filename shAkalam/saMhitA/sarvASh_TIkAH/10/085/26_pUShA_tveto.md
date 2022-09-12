@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+hastagŕ̥hya ← hastagŕ̥hya (invariable)  
+{non-finite:CVB}
+
+itás ← itás (invariable)  
+{}
+
+nayatu ← √nī- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vahatām ← √vah- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ásaḥ ← √as- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+gacha ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gr̥hā́n ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+gr̥hápatnī ← gr̥hápatnī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vadāsi ← √vadⁱ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+vaśínī ← vaśín- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vidátham ← vidátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +243,4 @@ Puschan führe dich von hier, dich an der Hand ergreifend; die beiden Açvinen m
 Отправляйся в дом, чтобы стать хозяйкой дома!  
 Да будешь ты провозглашать жертвенную раздачу как повелительница!
 </details>
+

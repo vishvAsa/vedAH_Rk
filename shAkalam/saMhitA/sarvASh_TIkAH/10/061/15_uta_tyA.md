@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arcimántā ← arcimánt- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+raúdrau ← raúdra- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+tyā́ ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+utá ← utá (invariable)  
+{}
+
+gūrtáye ← gūrtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nā́satyau ← nā́satya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yájadhyai ← √yaj- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+manuṣvát ← manuṣvát (invariable)  
+{}
+
+rárāṇā ← √rā- 1 (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:MED}
+
+vr̥ktábarhiṣe ← vr̥ktábarhis- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+hitáprayasā ← hitáprayas- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+mandū́ ← mandú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yájyū ← yájyu- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +188,4 @@ Auch jene beiden prächtigen, glänzenden Nā satja's, o Indra, sollen auf mein 
 
 -ru-
 </details>
+

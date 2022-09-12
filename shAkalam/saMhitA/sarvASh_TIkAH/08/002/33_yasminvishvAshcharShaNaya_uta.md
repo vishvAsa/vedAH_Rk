@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+carṣaṇáyaḥ ← carṣaṇí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+cyautnā́ ← cyautná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jráyāṁsi ← jráyas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+gha ← gha (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+maghónaḥ ← maghávan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+mandī́ ← mandín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +164,4 @@ Er, in welchem alle Wesen, alle Kräfte sind und Räume, Er ist's, der erfreut d
 А также потрясающие деяния и набеги...  
 Когда же он в опьянении, (он радует) щедрых покровителей.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+kṣeti ← √kṣi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+madacyút ← madacyút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sā́dane ← sā́dana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+síndhoḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūrmā́ ← ūrmí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vipaścít ← vipaścít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+gaurī́ ← gaurī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śritáḥ ← √śri- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Begeistert, Rausch erregend weilt in Stromes Wellen in dem Sitz Der Soma mit der
 В волне реки, (этот) прозорливец  
 Сома, покоящийся на (шкуре) буйвола.
 </details>
+

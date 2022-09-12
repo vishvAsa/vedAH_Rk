@@ -15,14 +15,54 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+svarantu ← √svar- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+rudrā́saḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sakṣata ← √sac- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+śríyam ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+marútvatīḥ ← marútvant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+víśaḥ ← víś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+práyaḥ ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +184,4 @@ Her rausche auch die Rudraschar, begleitend deine schöne Pracht, Die Marutstäm
 Рудры, которые сопровождают (твой) блеск.  
 Племена марутовы (пусть) тоже (придут) к жертвенной пище!
 </details>
+

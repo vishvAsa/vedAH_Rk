@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+anindrā́n ← anindrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+átra ← átra (invariable)  
+{}
+
+dárśan ← √dr̥ś- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+śr̥tapā́n ← śr̥tapā́- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bāhukṣádaḥ ← bāhukṣád- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pátyamānān ← √pat- 2 (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:MED}
+
+śárave ← śáru- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ghŕ̥ṣum ← ghŕ̥ṣu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ninidúḥ ← √nid- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+eṣu ← ayám (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+paváyaḥ ← paví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+vavr̥tyuḥ ← √vr̥t- (root)  
+{number:PL, person:3, mood:OPT, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Sieh hier die Knicker, sieh die Brühetrinker, die Indrafeinde für den Pfeil ge
 
 -ru-
 </details>
+

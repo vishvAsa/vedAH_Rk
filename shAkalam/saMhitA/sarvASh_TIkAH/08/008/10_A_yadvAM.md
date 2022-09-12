@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yóṣaṇā ← yóṣaṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+átiṣṭhat ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+vājinīvasū ← vājínīvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+agachatam ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dhītā́ni ← √dhī- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +174,4 @@ Als eure holde Braut bestieg, o labungsreiche, eur Gefährt, O Ritter, da schon 
 Вы, о Ашвины, достигли  
 Всех заветных целей.
 </details>
+

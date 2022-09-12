@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,91 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+paṇīnā́m ← paṇí- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vidaḥ ← √vid- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+marjayasi ← √mr̥j- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mātŕ̥bhiḥ ← mātár- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+sā́ma ← sā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dhītáyaḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ráṇanti ← √ranⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
+áruṣībhiḥ ← áruṣī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tridhā́tubhiḥ ← tridhā́tu- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+rócamānaḥ ← √ruc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,3 +316,4 @@ Du fandest jenen reichen Schatz der Diebe auf, verherrlichst mit den Müttern ih
 С помощью трехчастных красноватых (коров) ты получил жизненную силу,  
 Сверкая, ты получил жизненную силу.
 </details>
+

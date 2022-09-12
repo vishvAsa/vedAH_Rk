@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+áśvyā ← áśvya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+priyā́ ← priyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mitra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prayāthána ← √yā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+turā́ḥ ← turá- 1 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ādityā́saḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sadantu ← √sad- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ O Maruts, Mitra zu den lieben Opfern kommt, die passend sind für eur Gespann, A
 Пусть Индра, Варуна, могучие мужи  
 Адитьи усядутся у нас на жертвенную солому!
 </details>
+

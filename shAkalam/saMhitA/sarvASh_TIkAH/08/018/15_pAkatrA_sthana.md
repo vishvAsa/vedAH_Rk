@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+pākatrā́ ← pākatrā́ (invariable)  
+{}
+
+sthana ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hr̥tsú ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+jānītha ← √jñā- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mártyam ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádvayum ← ádvayu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dvayúm ← dvayú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +160,4 @@ Ihr seid, o Götter, ohne Arg und kennt im Geist den Sterblichen, Wer falsch ist
 Ведь в сердце вы знаете смертного:  
 Кто двоедушен, а кто недвоедушен, о Васу.
 </details>
+

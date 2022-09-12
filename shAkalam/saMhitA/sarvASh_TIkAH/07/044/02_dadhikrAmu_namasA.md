@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+bodháyantaḥ ← √budh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+dadhikrā́m ← dadhikrā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+udī́rāṇāḥ ← √r̥- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+upaprayántaḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+devī́m ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+íḷām ← íḷā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sādáyantaḥ ← √sad- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+huvema ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+suhávā ← suháva- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+víprā ← vípra- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +185,4 @@ Den Dadhikravan durch Gebet erweckend, aufstehend und zum Opfer vorwärts schrei
 Усаживая богиню Иду на жертвенную солому,  
 Мы хотим поизвать Ашвинов. вдохновенных, легко призываемых.
 </details>
+

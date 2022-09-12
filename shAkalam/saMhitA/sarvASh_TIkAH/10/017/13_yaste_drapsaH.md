@@ -16,14 +16,72 @@ ChandaH = "अनुष्टुप्पुरस्ताद्बृहती
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+aṁśúḥ ← aṁśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+drapsáḥ ← drapsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+skannáḥ ← √skand- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+avás ← avás (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+parás ← parás (invariable)  
+{}
+
+srucā́ ← srúc- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́dhase ← rā́dhas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+siñcatu ← √sic- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +214,4 @@ Dein Tropfen, dein Saft, der später und früher mit dem Löffel [ausgegossen is
 Этот бог Брихаспати  
 Пусть сольет его для жертвенного дара!
 </details>
+

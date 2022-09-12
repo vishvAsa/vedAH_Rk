@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+avyáyā ← avyáya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+vā́rāṇi ← vā́ra- 1 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+añjānáḥ ← √añj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+arṣati ← √arṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sadhásthā ← sadhástha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+trī́ ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +169,4 @@ Mit Milch gesalbt ergiesst er sich nun durch des Widders wollnes Haar, Geläuter
 Умащенный коровьим молоком.  
 Очищаемый, он создает себе три стоянки, (этот) буланый.
 </details>
+

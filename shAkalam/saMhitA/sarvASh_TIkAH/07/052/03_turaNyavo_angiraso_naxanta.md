@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áṅgirasaḥ ← áṅgiras- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nakṣanta ← √nakṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+turaṇyávaḥ ← turaṇyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+iyānā́ḥ ← √yā- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yájatraḥ ← yájatra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+juṣanta ← √juṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+sámanasaḥ ← sámanas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Die eifervollen Angirasen nahmen das Gut des Gottes Savitar, ihn bittend; Ein gl
 И пусть отец наш, великий, достойный жертв,  
 (И) все боги единодушные радуются (этому) для нас!
 </details>
+

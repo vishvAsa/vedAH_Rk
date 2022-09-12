@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mádhūnām ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+piba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+díviṣṭiṣu ← díviṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sutám ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vāyo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+pūrvapā́ḥ ← pūrvapā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +166,4 @@ O trink der süssen Tränke Seim; den Saft, o Vaju, bei dem Fest; Denn dir gebü
 Выжатый, о Ваю, на жертвоприношениях, ищущих неба!  
 Ты ведь первый из пьющих!
 </details>
+

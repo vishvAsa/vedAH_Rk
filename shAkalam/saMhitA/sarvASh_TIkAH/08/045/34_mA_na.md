@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́gasi ← ā́gas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ékasmin ← éka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+dváyoḥ ← dvá- (nominal stem)  
+{case:LOC, gender:N, number:DU}
+
+mā́ ← mā́ (invariable)  
+{}
+
+triṣú ← trí- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+bhū́riṣu ← bhū́ri- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vádhīḥ ← √vadhⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +162,4 @@ Nicht tödte uns um einen Fehl, noch auch um zweie oder drei, Auch nicht um viel
 Ни за два или три,  
 Ни за много не убивай нас, о герой!
 </details>
+

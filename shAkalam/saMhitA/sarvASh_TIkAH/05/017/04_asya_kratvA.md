@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vícetasaḥ ← vícetas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dasmásya ← dasmá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+hávyaḥ ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvāsu ← víśva- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śasyate ← √śaṁs- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +186,4 @@ Auf seinem Wagen ist das Gut des hehren, weisen an Verstand, Darum ist Agni anzu
 А еще у всех племен Агни  
 Прославляется как (бог,) достойный призывов.
 </details>
+

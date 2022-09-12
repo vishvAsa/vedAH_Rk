@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+anyé ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cáturdaśa ← cáturdaśa (invariable)  
+{}
+
+mahimā́naḥ ← mahimán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nayanti ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vācā́ ← vā́c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́pnānam ← ā́pnāna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+tīrthám ← tīrthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vocat ← √vac- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+prapíbante ← √pā- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Vierzehn andere grosse [Lieder?] sind bei demselben [Wagen = Opfer], sieben Weis
 Кто здесь провозгласит дорогу к алтарю,  
 Путь, благодаря которому они начинают пить выжатый (сок)?
 </details>
+

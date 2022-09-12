@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+akrata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+dyávi ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+suparṇā́ḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ākharé ← ākhará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+anartiṣuḥ ← √nr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+iṣirā́ḥ ← iṣirá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kŕ̥ṣṇāḥ ← kŕ̥ṣṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+niṣkr̥tám ← niṣkr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nyàk ← nyàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+úparasya ← úpara- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+rétaḥ ← rétas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sūryaśvítaḥ ← sūryaśvít- (nominal stem)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Zum Himmel schallt der schnellen Vögel lauter Sang, die muntern Rehe tanzen in 
 
 -ru-
 </details>
+

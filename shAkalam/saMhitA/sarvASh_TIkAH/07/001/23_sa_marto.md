@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+revā́n ← revánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svanīka ← svanīka- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ājuhóti ← √hu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ámartye ← ámartya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dadhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devátā ← devátā (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vasuvánim ← vasuváni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+arthī́ ← arthín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+éti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pr̥chámānaḥ ← √praś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sūríḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Der Mann wird reich, o schönentflammter Agni, der dir Unsterblichem das Opfer z
 Он устанавливает (тебя) как добытчика добра среди богов,  
 К кому идет, вопрошая, (наш) покровитель, обращаясь с просьбой.
 </details>
+

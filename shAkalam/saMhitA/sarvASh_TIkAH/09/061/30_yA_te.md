@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́yudhā ← ā́yudha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bhīmā́ni ← bhīmá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+dhū́rvaṇe ← √dhūrv- (root)  
+{case:DAT, number:SG}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tigmā́ni ← tigmá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nidáḥ ← níd- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+rákṣa ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+samasya ← sama- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,7 +141,7 @@ On the construction of dhū́rvane here, see Keydana, Infin. 247, though the arb
 
 As is shown by IX.29.5 rákṣa ... svanā́t samasya kásya cit (cited by Geldner), nidáḥ must be an abl. (as we would expect in any case with a form of √rakṣ) with a dependent gen., the indefinite samasya.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/28-30.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
 The last tṛca continues the concentration on combat and victory.
@@ -138,3 +172,4 @@ Mit deinen Waffen, welche scharf und furchtbar zum Verwunden sind, Beschütze un
 Которое есть у тебя, чтобы сражать,  
 Защити нас (им) от любой хулы!
 </details>
+

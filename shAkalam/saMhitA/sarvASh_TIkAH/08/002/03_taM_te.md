@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+yávam ← yáva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+akarma ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+śrīṇántaḥ ← √śrī- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+svādúm ← svādú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sadhamā́de ← sadhamā́da- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +177,4 @@ Mischend haben wir versüsst ihn jetzt mit Milch wie Gerstenkuchen, Indra, dir b
 Смешивая, словно ячмень с молоком.  
 О Индра, (мы зовем) тебя на это совместное пиршество.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+duṣṭáraḥ ← duṣṭára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śravā́yyaḥ ← śravā́yya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvavāra ← viśvávāra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tarutā́ ← tarutár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śaviṣṭha ← śáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gaméma ← √gam- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+gómati ← gómant- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vrajé ← vrajá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

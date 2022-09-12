@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyā́ḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+mā́hināyāḥ ← mā́hina- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+vyúṣi ← vyúṣ- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+áṅgirasaḥ ← áṅgiras- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+návanta ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:INJ, tense:IPRF, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sadhásthe ← sadhástha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+útsaḥ ← útsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sarámā ← sarámā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vidat ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +198,7 @@ The 2nd hemistich brings another syntactic problem: in c the Pp. interprets úts
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 Here the mythic model of the dawn accompanying the dawn ritual, the opening of the Vala cave through the verbal efforts of the Aṅgirases, is spelled out. Note the variant versions of the phrase “Saramā found the cows”: 7c sarámā gā́avindat, with augmented imperfect; 8d sarámā vidad gā́ḥ, with aor. injunctive (per Pp.) or aor. indicative (sarámāvidad, with augmented avidat is a possible reading). For Hoffmann’s interpr. of this vs. pair see Injunk. 164-65.
@@ -175,3 +230,4 @@ Als da bei dieser grossen Göttin Leuchten die Angirasen mit den Kühen brüllte
 Их источник (находился) в отдаленнейшем месте.  
 На правильном пути Сарама нашла коров.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+aśvínoḥ ← aśvín- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+chadayat ← √chand- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vápuḥ ← vápus- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+virúkmān ← virúkmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yujānáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+iṣayádhyai ← √iṣay- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+tánayāya ← tánaya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tmáne ← tmán- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yātháḥ ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Der Wagen der Açvinen dünkt mich herrlich, der leuchtende, durch Geistes Macht
 На которой, о два мужа Насатьи, вы совершаете обьезд,  
 Чтоб утешалось (наше) потомство и мы сами.
 </details>
+

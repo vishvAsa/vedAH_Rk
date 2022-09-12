@@ -15,13 +15,53 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+drava ← √dru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+pūṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+āghr̥ṇe ← ā́ghr̥ṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+apikarṇé ← apikarṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+śáṁsiṣam ← √śaṁs- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+aghā́ḥ ← aghá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+árātayaḥ ← árāti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +153,7 @@ The little nominal clause aghā́aryó árātayaḥ with its unremarkable sentim
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
 <details open><summary><h2>14-19 ...{Loading}...</h2></summary>
 
 On these Pūṣan vss., see published introduction.
@@ -144,3 +184,4 @@ Komm aus der Ferne du herbei, o Puschan, eile her zu mir; Vor deinen Ohren will 
 Я хочу сейчас сказать тебе на ухо, о пылкий:  
 Плоха недоброжелательность чужого!
 </details>
+

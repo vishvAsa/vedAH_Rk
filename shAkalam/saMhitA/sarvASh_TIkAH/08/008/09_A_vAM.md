@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áhvat ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+stómebhiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áriprā ← ariprá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vŕ̥trahantamā ← vr̥trahántama- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+bhūtam ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mayobhúvā ← mayobhū́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ Gerufen hat der Dichter hier zu Hülf' euch Ritter durch Gesang; Euch reine, fei
 Беспорочные, лучше всех убивающие врагов,  
 Будьте для нас благодатными!
 </details>
+

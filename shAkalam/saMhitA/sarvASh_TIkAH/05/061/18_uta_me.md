@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+íti ← íti (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vocatāt ← √vac- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ráthavītau ← ráthavīti- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sutásome ← sutásoma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+kā́maḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+veti ← √vī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,7 +143,7 @@ The Rathavīti phrase is in the loc.; the published translation renders it as if
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/17-19.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/17-19.md">
 <details open><summary><h2>17-19 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, the patron’s name Rathavīti (‘pursuit of the chariot’?) in 18, 19 is punned upon. In 17 (before he is explicitly mentioned, though the patronymic Dārbhya would presumably evoke him) Night is asked to carry the hymns “like a charioteer” (rathī́r iva); in 18 the 2nd cmpd. member -vīti- is derived from the same root √vī ‘pursue’ that supplies the verb ápa veti ‘goes off track’.
@@ -140,3 +174,4 @@ Und so sage zu mir: „Wenn Räthaviti 8oma presst, so wendet sich mein Verlange
 У Ратхавити, выжавшего сому:  
 Желание не оставляет меня.
 </details>
+

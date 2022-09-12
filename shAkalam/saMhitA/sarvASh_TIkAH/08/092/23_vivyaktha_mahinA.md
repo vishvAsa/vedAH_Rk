@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vivyáktha ← √vyac- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+vr̥ṣan ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhakṣám ← bhakṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jāgr̥ve ← jā́gr̥vi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jaṭháreṣu ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +147,4 @@ Mit deiner Gröss' umfängst, o Stier, den Trank des Soma's, munter, du, Der, In
 
 -ru-
 </details>
+

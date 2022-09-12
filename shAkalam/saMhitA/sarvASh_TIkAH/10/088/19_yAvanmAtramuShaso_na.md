@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ná ← ná (invariable)  
+{}
+
+prátīkam ← prátīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yāvanmātrám ← yāvanmātrá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mātariśvaḥ ← mātaríśvan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suparṇyàḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vásate ← √vas- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+āyán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dadhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tā́vat ← tā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávaraḥ ← ávara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+brāhmaṇáḥ ← brāhmaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótuḥ ← hótar- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+niṣī́dan ← √sad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +190,4 @@ So lang die schönbeschwingten, Matariçvan! sich kleiden in der Morgenröthe St
 В это время действует брахман,  
 Приходящий на жертвоприношение (и) садящийся ниже хотара.
 </details>
+

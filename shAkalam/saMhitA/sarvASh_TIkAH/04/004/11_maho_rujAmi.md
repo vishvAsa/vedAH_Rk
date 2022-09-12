@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bandhútā ← bandhútā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rujāmi ← √ruj- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vácobhiḥ ← vácas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+gótamāt ← gótama- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+iyāya ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cikiddhi ← √cit- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vácasaḥ ← vácas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dámūnāḥ ← dámūnas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótar ← hótar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sukrato ← sukrátu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yaviṣṭha ← yáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,10 +216,10 @@ Oldenberg (SBE), Renou think that the poet’s lineage (bandhútā) is with Agni
 
 The next question is what to do with maháḥ. Oldenberg (SBE) takes it as acc. pl.
 
-object of rujāmi; Geldner (/Witzel Gotō) as gen. sg. with vácobhiḥ, referring to the poet’s great (father). With Renou I prefer to take maháḥ as adverbial. Although this leaves rujāmi without an object, an object is easily supplied: the root √ruj is typed for the breaking of the Vala cave, particularly in this group of hymns so dominated by that myth. Cf. > 2.15
+object of rujāmi; Geldner (/Witzel Gotō) as gen. sg. with vácobhiḥ, referring to the poet’s great (father). With Renou I prefer to take maháḥ as adverbial. Although this leaves rujāmi without an object, an object is easily supplied: the root √ruj is typed for the breaking of the Vala cave, particularly in this group of hymns so dominated by that myth. Cf. &gt; 2.15
 ... áṅgiraso bhavema, ádriṃ rujema ...
 
-> “Might we become Aṅgirases; might
+&gt; “Might we become Aṅgirases; might
 we break the rock.”
 
 On grounds of sense I don’t think maháḥ is gen. with vácobhiḥ because I think the poet is asserting the power of his own poetic gift: he acquired this gift from his father (pāda b), but he is not using his father’s words but his own -- or so I take his proud boast. By casting himself as the subject of the Vala-breaking verb, he is also implicitly asserting his identification with the Aṅgirases, who broke into Vala with their words. Like the speaker(s) of IV.2.15 he seems to be saying “might I become an Aṅgiras.”
@@ -203,3 +261,4 @@ Durch meiner Sippe Lieder schlag' ich Helden; das kam auf mich von Gotama, dem V
 Обрати внимание на эту нашу речь  
 Как друг дома, о хотар, самый юный, обладающий прекрасной силой духа!
 </details>
+

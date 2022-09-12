@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhūvan ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dŕ̥hya ← √dr̥h- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yāmakośā́ḥ ← yāmakośá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sákhibhyaḥ ← sákhi- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+śikṣa ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
+yajñā́ya ← yajñá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+durévāḥ ← duréva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+durmāyávaḥ ← durmāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mártyāsaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hántvāsaḥ ← hántva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+niṣaṅgíṇaḥ ← niṣaṅgín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ripávaḥ ← ripú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +198,4 @@ Erstark' o Indra, Wegelag'rer kamen, dem Opfer hilf, dem Sänger und den Freunde
 Обладающие колдовской силой смертные, чинящие зло,  
 Мошенники с колчанами должны быть убиты!
 </details>
+

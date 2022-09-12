@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrjā́ ← ū́rj- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+aviṣṭu ← √avⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+mā́hinaḥ ← mā́hina- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhúvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vā́jānām ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vr̥dháḥ ← vr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śr̥ṇavat ← √śru- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +173,4 @@ Den Wagen, der uns Nahrung bringt, ihn treib der starke Puschan her, Er sei der 
 Да будет он (нам) умножителем наград!  
 Да услышит он этот наш зов!
 </details>
+

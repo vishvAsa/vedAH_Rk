@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+caná ← caná (invariable)  
+{}
+
+mámat ← mámat (invariable)  
+{}
+
+parā́sa ← √as- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yuvatíḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+jagā́ra ← √gr̥̄- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kuṣávā ← kuṣávā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mámat ← mámat (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+mámat ← mámat (invariable)  
+{}
+
+mamr̥ḍyuḥ ← √mr̥ḍ- (root)  
+{number:PL, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+śíśave ← śíśu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+atiṣṭhat ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mámat ← mámat (invariable)  
+{}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +213,7 @@ Still, I am somewhat unsatisfied by this interpr. On the one hand, as Klein poin
 *(waters/streams and) the rivers.” Strikingly svágūrta-, which occurs only 4x total in the RV, appears two vss. later (10c) in the same metrical position with the same
 sandhi form. It there modifies ápāṃsi ‘labors’. Is it too fanciful to suggest that that phrase, svágūrtā, ápāṃsi, is meant to invoke *(svá)gūrtā, *apáḥ here? For further disc. see also Oldenberg ad loc. 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md">
 <details open><summary><h2>06-09 ...{Loading}...</h2></summary>
 
 For my interpr. of the speakers in these vss. and the role of the waters in the myth, see published introduction. Most tr. take the vss. as all spoken by Indra’s mother (Geldner [/Witzel Gotō], Doniger), whereas I distribute them to a variety of voices: 6 Indra, 7 Indra’s mother, 8 waters, 9 Indra’s mother. As I see it, in 6 Indra prompts his mother to ask the waters questions; in 7 she rather sarcastically and belittlingly asks questions about them, whom she seems to accuse of trying to lay claim to her son. They respond directly to him in 8, reminding him of his mother’s dereliction of maternal duty and suggesting that they are better at mothering him than she is. So that she rather defiantly points out in 9 that subsequent negative things that happened to him were not her fault.
@@ -181,3 +245,4 @@ Jetzt stiess dich aus die jugendliche Mutter, und jetzt verschlang dich Kuschava
 Только из-за меня воды сжалились над ребенком.  
 Только из-за меня поднялся сразу Индра.
 </details>
+

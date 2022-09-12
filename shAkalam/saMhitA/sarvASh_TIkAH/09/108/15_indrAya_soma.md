@@ -15,13 +15,41 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pā́tave ← √pā- 2 (root)  
+{case:DAT, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+madíntamaḥ ← madíntama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+svāyudháḥ ← svāyudhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yatáḥ ← √yam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mádhumattamaḥ ← mádhumattama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -99,7 +127,7 @@ As pointed out in the published introduction, the beginning of vs. 1, pávasva m
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/15-16.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/15-16.md">
 <details open><summary><h2>15-16 ...{Loading}...</h2></summary>
 
 No particular signs of cohesion, but see the ring compositional elements connecting vs. 15 to the 1st vs. of the hymn.
@@ -130,3 +158,4 @@ Dem Indra riesle du zum Trunk, gelenkt von Männern, schönbewehrt, du süsseste
 Направленный мужами, хорошо вооруженный,  
 Самый пьянящий, самый полный меда!
 </details>
+

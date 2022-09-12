@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cetayat ← √cit- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yajñábandhuḥ ← yajñábandhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahyā́ ← máh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+nayanti ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+raśanáyā ← raśanā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dúryāsu ← dúrya- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+kṣeti ← √kṣi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sā́dhan ← √sādh- ~ sidh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+āpa ← √āp- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártasya ← márta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sadhanitvám ← sadhanitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,3 +246,4 @@ Das Opfer liebend trieb er an die Menschen; sie leiten vorwärts ihn am grossen 
 Он живет в его доме, приводя к цели (жертвы).  
 Бог добился для смертного (возможности) быть отведенным вместе (с ним на небо).
 </details>
+

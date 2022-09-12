@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvaréṣu ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ī́ḍyam ← ī́ḍya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśó-viśaḥ ← víś- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ádr̥ptakratum ← ádr̥ptakratu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aratím ← aratí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvatyóḥ ← yuvatí- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+śíśum ← śíśu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sūnúm ← sūnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aruṣám ← aruṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yájadhyai ← √yaj- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +202,4 @@ Der preisenswerth beim Opfer jedes Stammes den beiden Jungfraun dient bedachten 
 Дитя неба, сына силы – Агни,  
 Алое знамя жертвы, я хочу почитать.
 </details>
+

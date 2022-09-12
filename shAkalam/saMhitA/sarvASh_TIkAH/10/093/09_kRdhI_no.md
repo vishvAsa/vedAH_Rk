@@ -16,14 +16,78 @@ ChandaH = "अक्षरैः पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+áhrayaḥ ← áhraya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥dhí ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+maghónām ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+stuṣe ← √stu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+sahá ← sahá (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+váhnibhiḥ ← váhni- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+raśmím ← raśmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yoyuve ← √yu- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +239,4 @@ Wirke kühn für uns, o Gott [savitar ist Glosse, wie das Versmass zeigt], als s
 
 -ru-
 </details>
+

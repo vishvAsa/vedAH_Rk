@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+agnínā ← agní- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+satā́ ← √as- 1 (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vípreṇa ← vípra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhyā ← sákhi- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+samidhyáse ← √idh- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -94,8 +128,6 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अग्ने त्वमग्निनाभ्युद्धृतेन समिध्यसे सम्यगेवेध्यसे । कीदृशः कीदृशेनेत्याह - विप्रो मेधावी विप्रेण मेधाविना समिध्यसे । अयमकेस्समिन्धनहेतुः । किञ्च - सन् प्राज्ञः स तादृशेनाग्निना समिध्यसे । 'हि च' इति निघातप्रतिषेधः, 'तिङि चोदात्तवति' इति गतेरनुदात्तत्वं, 'उहात्तवता तिङा' इति समासः, अदुपदेशाल्लसार्वधातुकानुदात्तत्वे यक उदात्तत्वम् । ईदृशस्त्वमभ्युद्धरणदोषमुपशमयेति शेषः ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -132,7 +164,6 @@ The sage by the sage, the good by the good,
 The comrade by the comrade, art kindled.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Denn du, Agni, wirst an Agni, der Redekundige an dem Redekundigen, der Treffliche an dem Trefflichen, der Freund an dem Freund entzündet.
@@ -149,3 +180,4 @@ Vom Weisen wirst du Weiser ja, o Glut, von Glut, vom Helden Held, Ein Freund vom
 Вдохновенный – вдохновенным, настоящий – настоящим,  
 Друг – другом зажигается.
 </details>
+

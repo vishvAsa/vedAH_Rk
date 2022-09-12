@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+émi ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+prasphurán ← √sphr̥̄- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhmātáḥ ← √dhmā- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+dŕ̥tiḥ ← dŕ̥ti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+mr̥ḷá ← √mr̥ḍ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mr̥ḷáya ← √mr̥ḍ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sukṣatra ← sukṣatrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Wenn schnaufend, wie ein Blasebalg, ich schwankend geh', o Schleuderer, Sei gnä
 Раздувшийся, словно мехи, о хозяин давильных камней,  
 Прости, о добрый повелитель, помилуй!
 </details>
+

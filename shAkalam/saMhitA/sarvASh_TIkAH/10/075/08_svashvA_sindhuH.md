@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+síndhuḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+suráthā ← surátha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+suvā́sāḥ ← suvā́sas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sváśvā ← sváśva- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+hiraṇyáyī ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+súkr̥tā ← súkr̥ta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vājínīvatī ← vājínīvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sīlámāvatī ← sīlámāvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ū́rṇāvatī ← ū́rṇāvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yuvatíḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+madhuvŕ̥dham ← madhuvŕ̥dh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+subhágā ← subhága- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vaste ← √vas- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +208,4 @@ Mit schönen Rossen, Wagen, Kleidern schöngeformt ist Sindhu reich an Gold und 
 Богата шерстью (эта) юница, богата (растением) силама,  
 А одевается счастливая в (кустарник) мадхувридх.
 </details>
+

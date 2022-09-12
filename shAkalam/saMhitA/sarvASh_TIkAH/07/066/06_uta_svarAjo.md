@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svarā́jaḥ ← svarā́j- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+ádabdhasya ← ádabdha- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vratásya ← vratá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+īśate ← √īś- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+rā́jānaḥ ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Denn die Aditja's, deren Recht niemand versehrt, die mächtigen, Sind Herrscher 
 Которые (хранители) обета, не поддающегося обману,  
 (Эти) цари имеют огромную (власть).
 </details>
+

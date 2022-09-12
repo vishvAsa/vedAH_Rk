@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+mártyeṣu ← mártya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+ninditā́ ← ninditár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+yodhā́ḥ ← yodhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dr̥ṁhitā́ ← √dr̥h- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́hināvān ← mā́hināvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+daṁsánāvān ← daṁsánāvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gotrā́ṇi ← gotrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sasr̥je ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Der Menschen keiner schmähet unsre Väter, sie, welche kämpften um Besitz der 
 Индра великолепный выпустил их  
 Крепко замкнутые стада, (он,) совершающий чудеса.
 </details>
+

@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+turváśāyádū ← turváśāyádu- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+tyā́ ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+utá ← utá (invariable)  
+{}
+
+asnātā́rā ← asnātár- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śácīpátiḥ ← śácīpáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apārayat ← √pr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,7 +129,7 @@ Witzel Gotō render asnātā́rā as “ohne dass sie untertauchen,” flg. Tich
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details open><summary><h2>08-21 ...{Loading}...</h2></summary>
 
 These vss. are tr. by Hoffmann (Injunk., 184-86).
@@ -135,3 +160,4 @@ Und beide, Turvaça, Jadu fuhr Indra unbenetzt hindurch, Er, der's versteht, der
 Которые не умели плавать, повелитель силы  
 Индра умело переправил на другой берег.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dákṣiṇam ← dákṣiṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hástam ← hásta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jagr̥bhmá ← √gr̥bhⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+vasupate ← vásupati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vasūyávaḥ ← vasūyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gónām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+gópatim ← gópati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+citrám ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ Wir haben deine rechte Hand ergriffen, nach Schätzen lüstern, Indra, Herr der 
 Ведь мы знаем тебя, о герой, как господина коров.  
 Нам даруй яркое, мощное богатство!
 </details>
+

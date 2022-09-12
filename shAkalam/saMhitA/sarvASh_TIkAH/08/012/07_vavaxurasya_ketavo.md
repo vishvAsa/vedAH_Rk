@@ -15,14 +15,48 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ketávaḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vavakṣúḥ ← √vakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+gábhastyoḥ ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+utá ← utá (invariable)  
+{}
+
+vájraḥ ← vájra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ávardhayat ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +165,4 @@ Es wuchsen seine Lichter auf, und in den Armen ihm der Blitz, Als Erd' und Himme
 И дубина грома в руках,  
 Когда он, как солнце, две половины вселенной усилил.
 </details>
+

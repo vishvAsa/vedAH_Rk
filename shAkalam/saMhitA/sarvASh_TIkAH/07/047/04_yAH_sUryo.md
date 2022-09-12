@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ātatā́na ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+áradat ← √rad- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūrmím ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́bhyaḥ ← yá- (pronoun)  
+{case:DAT, gender:F, number:PL}
+
+dhātana ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sindhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+várivaḥ ← várivas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Die ihr durchstrahlt seid von der Sonne Lichtern, und denen Indra weite Bahn geb
 Вы, о реки, создайте нам широкий простор!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
+

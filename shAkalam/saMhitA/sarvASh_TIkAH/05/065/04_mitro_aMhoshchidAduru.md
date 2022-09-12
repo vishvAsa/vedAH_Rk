@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aṁhóḥ ← aṁhú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kṣáyāya ← kṣáya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vanate ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+hí ← hí (invariable)  
+{}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pratū́rvataḥ ← √tūr(v)- ~ tur- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sumatíḥ ← sumatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vidhatáḥ ← √vidh- (root)  
+{case:GEN, gender:M, number:SG, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +175,4 @@ Mitra befreit aus jeder Noth, und schenkt den Gang zu sicherm Sitz; Denn dem Ver
 Ведь благожелательность Митры,  
 Прорывающегося вперед, принадлежит почитателю.
 </details>
+

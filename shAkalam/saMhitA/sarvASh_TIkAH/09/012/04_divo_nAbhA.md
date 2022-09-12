@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+nā́bhā ← nā́bhi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávyaḥ ← ávi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mahīyate ← √mahīy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vā́re ← vā́ra- 1 (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ Gewaltig zeigt der weise sich im Himmelssitz, im Widderfell, Ein Seher Soma, sta
 Он красуется в сите из овечьей шерсти,  
 Сома, который поэт с прекрасной силой духа.
 </details>
+

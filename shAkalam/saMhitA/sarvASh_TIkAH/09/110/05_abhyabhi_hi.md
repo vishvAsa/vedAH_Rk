@@ -15,13 +15,56 @@ ChandaH = "ऊर्ध्वबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+abhy-àbhi ← abhí (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+śrávasā ← śrávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tatárditha ← √tr̥d- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ákṣitam ← ákṣita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+janapā́nam ← janapā́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+útsam ← útsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bháramāṇaḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+gábhastyoḥ ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+śáryābhiḥ ← śáryā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +180,7 @@ Both Geldner and Renou take the whole pāda as the simile, comparing Soma to an 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 A very challenging tṛca, esp. the last two vss.
@@ -168,3 +211,4 @@ Denn fort und fort hast ruhmvoll du eröffnet uns jedweden Mensch-getrunknen, un
 Будто какой неиссякающий источник, из которого пьют люди,  
 Словно (воин,) несущий в руках (лук) со стрелами.
 </details>
+

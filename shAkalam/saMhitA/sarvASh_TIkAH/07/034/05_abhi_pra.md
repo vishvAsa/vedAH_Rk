@@ -14,12 +14,46 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+áhā ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+sthāta ← √sthā- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hinota ← √hi- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+pátman ← pátman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yā́tā ← yā́tar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -100,14 +134,14 @@ sá śardhad aryó víṣuṇasya jantóḥ, where the second phrase shows (or a
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 Note the chiasmic verb sequence 4b dádhāta [… 5a sthāta] ... 5d tmánā hinota ... 6ab tmánā … hinóta ... 6c dádhāta, with one interruption.
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 The 2nd pl. impvs. in these two vss., 5a abhí prá sthāta, 5d hinota, 6b hinóta, 6c dádhāta, all take the sacrifice (yajñám, explicitly 5b, 6b) as object and make the identification of the subject as the priests/poets, suggested ad vs. 4, more likely. 44
@@ -136,3 +170,4 @@ Wohlan, so kommt denn – herbei zum Opfer, im Fluge fahrend, – beeilt euch se
 Подступите к жертве, словно дни!  
 Сами поторапливайте (ее), словно ездок в пути!
 </details>
+

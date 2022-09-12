@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaṁsate ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+vīrávat ← vīrávant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáśaḥ ← yáśas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́hutaḥ ← √hu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+dyumnī́ ← dyumnín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sámiddhaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kuvít ← kuvít (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+návīyasī ← návīyaṁs- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sumatíḥ ← sumatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+āgámat ← √gam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+vā́jebhiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +191,4 @@ Der mächtige verschaffe heldenreichen Ruhm, entflammt, beopfert, glanzbegabt; O
 Конечно, вместе с наградами придет  
 К нам его новая благожелательность!
 </details>
+

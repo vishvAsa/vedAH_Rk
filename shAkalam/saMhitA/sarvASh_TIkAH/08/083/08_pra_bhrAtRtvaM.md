@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+bhrātr̥tvám ← bhrātr̥tvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sudānavaḥ ← sudā́nu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ádha ← ádha (invariable)  
+{}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+samānyā́ ← samāná- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+bharāmahe ← √bhr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+gárbhe ← gárbha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +147,4 @@ Wir tragen eure Brüderschaft gemeinsam, o schöngebende, An uns schon in der Mu
 
 -ru-
 </details>
+

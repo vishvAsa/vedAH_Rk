@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+devajanā́ḥ ← devajaná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+punántu ← √pū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+punántu ← √pū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vásavaḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+punītá ← √pū- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+jā́tavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+punīhí ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +163,7 @@ Let the godly folk purify me; let the Vasus purify me with insight. O All Gods, 
 This last vs. of the purificatory spell is in a different meter (Anuṣṭubh) and makes reference to a larger variety of personnel - both often signs of finality.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
 <details open><summary><h2>22-27 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these vss. are a self-contained purificatory spell, with all vss. ending with an act. impv. belonging to the pres. punā́ti: all 2nd sg. punīhi (naḥ) except 22c punātu (naḥ). The means of purification is, in the first instance, the filter (pavítra-), which of course literally means ‘instrument (-tra-) of purification’. 
@@ -157,3 +197,4 @@ Mich läutere der Götter Schar, die Vasu's mich durch frommen Sinn; Ihr Götter
 О Все-Боги, очистите меня!  
 О Джатаведас, очисть меня!
 </details>
+

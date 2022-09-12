@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áparasyāḥ ← ápara- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+asyā́ḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+nr̥ṇā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nŕ̥tamasya ← nŕ̥tama- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nr̥taú ← nr̥tí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+ávahan ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+triśókaḥ ← triśóka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+kútsena ← kútsa- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sasavā́n ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +225,4 @@ Wir gehn voran dir männlichstem der Männer bei dieses und des spätern Morgens
 Тришока привез с собой сотню мужей на колеснице,  
 Которая станет победительницей благодаря Кутсе.
 </details>
+

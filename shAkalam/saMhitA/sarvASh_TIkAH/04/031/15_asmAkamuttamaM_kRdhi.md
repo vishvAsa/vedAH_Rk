@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Strophic
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+uttamám ← uttamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sūrya ← sū́rya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+upári ← upári (invariable)  
+{}
+
+várṣiṣṭham ← várṣiṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ Verschaff, o Sonnengott, uns Ruhm, den höchsten bei der Götterschar Und schön
 Высшей среди богов, о Сурья,  
 Самой высокой, словно небо над (нами)!
 </details>
+

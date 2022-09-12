@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+antárikṣāṇi ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rocanā́ ← rocaná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+svàrṇaram ← svàrṇara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dyā́vābhū́mī ← dyā́vābhū́mī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+skambhuḥ ← √skambhⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+maháyantaḥ ← √mahay- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+pr̥kṣā́ḥ ← pr̥kṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+surātáyaḥ ← surātí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mánuṣāya ← mánuṣa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+stavante ← √stu- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +188,4 @@ Den Glanzesherrn, die Lüfte und des Lichtes Raum, den Himmel und die Erde stüt
 
 -ru-
 </details>
+

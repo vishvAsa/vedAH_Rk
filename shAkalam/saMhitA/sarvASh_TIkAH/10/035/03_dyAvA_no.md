@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+ánāgasaḥ ← ánāgas- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+mātárā ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+trāyetām ← √trā- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:MED}
+
+aghám ← aghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+bādhatām ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+uchántī ← √vas- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+samidhānám ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Als schuldlos mögen heute Erd' und Himmel uns, die reichen Mütter helfen uns z
 Ушас воспламеняющаяся пусть прогонит прочь зло!  
 К Агни зажженному мы обращаемся за благом.
 </details>
+

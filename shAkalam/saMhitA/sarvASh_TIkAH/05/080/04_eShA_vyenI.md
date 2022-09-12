@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dvibárhāḥ ← dvibárhas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+vyènī ← vyènī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+āviṣkr̥ṇvānā́ ← √kr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+purástāt ← purástāt (invariable)  
+{}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sādhú ← sādhú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+díśaḥ ← díś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+mināti ← √mī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+prajānatī́ ← √jñā- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cikite ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+dakṣiṇā́ ← dakṣiṇā́ (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+savyā́ ← savyá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ādityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+paścā́ ← paścā́ (invariable)  
+{}
+
+prācī́nam ← prācī́na- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+dhīryā̀ ← dhīryà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pākyā̀ ← pākyā̀- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ábhayam ← ábhaya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aśyām ← √naś- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yuṣmā́nītaḥ ← yuṣmā́nīta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +235,4 @@ Zur Rechten nicht, zur Linken nicht erscheinet Gefahr, Aditja's, vorne nicht noc
 И в неразумии, и в мудрости, о Васу,  
 Пусть достигну я света, исключающего страх, ведомый вами!
 </details>
+

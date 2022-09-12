@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+atr̥ṇat ← √tr̥d- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gandharvám ← gandharvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abudhnéṣu ← abudhná- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+rájassu ← rájas- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+brahmábhyaḥ ← brahmán- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+vr̥dhé ← vŕ̥dh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +146,7 @@ I take the phrase giríbhya ā́as expressing the freeing of the odanám from th
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 The name índraḥ is identically positioned in all three verses of this tṛca, at the beginning of the final pāda.
@@ -146,3 +177,4 @@ Im bodenlosen Raum der Luft durchbohrte den Gandharven er, Den Betern Indra zum 
 В бездонных пространствах,  
 Индра – для укрепления брахманов.
 </details>
+

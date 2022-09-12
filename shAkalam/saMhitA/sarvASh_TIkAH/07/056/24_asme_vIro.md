@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śuṣmī́ ← śuṣmín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vidhartā́ ← vidhartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sukṣitáye ← sukṣití- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+tárema ← √tr̥̄- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+ókaḥ ← ókas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+svám ← svá- (pronoun)  
+{case:ACC, gender:N, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Bei uns, o Maruts, sei der starke Kriegsheld, der Edle, welcher Gut den Leuten a
 С кем мы пересечем воды для счастливого поселения!  
 И пусть добьемся мы у вас собственного места для жилья!
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+gaṇám ← gaṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥ṣe ← ŕ̥ṣi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dānā́ ← dāmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yoṣáṇā ← yoṣáṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhr̥ṣṇavaḥ ← dhr̥ṣṇú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+iṣaṇyata ← √iṣaṇ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+stutā́ḥ ← √stu- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +209,4 @@ Auf, Sänger, hin zur Marutschar mit Gaben wie zum Freund die Braut; Ihr kühnen
 Или же, о отважные, с (вашей) силой с неба  
 Поспешите, восхваленные молитвой.
 </details>
+

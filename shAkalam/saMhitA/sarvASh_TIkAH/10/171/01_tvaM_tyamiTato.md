@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+iṭátas ← iṭátas (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ā́vaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sutā́vataḥ ← sutā́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áśr̥ṇoḥ ← √śru- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+somínaḥ ← somín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +147,4 @@ Vom saftbegabten Schilfteich her o Indra, kamst gefahren du, Vernahmst des Somap
 Колеснице Итата, выжимавшего сому,  
 Ты услышал призыв жертвователя сомы.
 </details>
+

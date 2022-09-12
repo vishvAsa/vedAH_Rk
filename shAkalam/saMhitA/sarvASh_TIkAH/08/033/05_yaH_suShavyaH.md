@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sudákṣiṇaḥ ← sudákṣiṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suṣavyáḥ ← suṣavyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gr̥ṇé ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ináḥ ← iná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ākaráḥ ← ākará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śatā́maghaḥ ← śatā́magha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āritáḥ ← √ār- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūrbhít ← pūrbhíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Der stark an rechter, linker Hand als weiser Herr gepriesen wird, Der reich an h
 Кто рассыпает тысячи, кто дарит сотни,  
 Индра, который действует как арья, проломитель крепостей!
 </details>
+

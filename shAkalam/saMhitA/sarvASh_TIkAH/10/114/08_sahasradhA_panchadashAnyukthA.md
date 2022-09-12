@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+pañcadaśā́ni ← pañcadaśá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sahasradhā́ ← sahasradhā́ (invariable)  
+{}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ít ← ít (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tā́vat ← tā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yā́vat ← yā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahimā́naḥ ← mahimán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sahasradhā́ ← sahasradhā́ (invariable)  
+{}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tā́vatī ← tā́vant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vā́k ← vā́c- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+víṣṭhitam ← √sthā- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yā́vat ← yā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ An tausend Orten sind die funfzehn Sprüche, so weit Himmel und Erde reichen, so
 Тысячи видов (бывает) тысяча величин.  
 Насколько распространилось священное слово, настолько и речь.
 </details>
+

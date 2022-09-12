@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nyáyanam ← nyáyana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nivéśanam ← nivéśana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samudrásya ← samudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+itás ← itás (invariable)  
+{}
+
+kr̥ṇuṣva ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+váśān ← váśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +181,4 @@ Hier ist das Herabkommen der Gewässer, das Eingehen des Meeres; schaffe dir ein
 Приготовь себе иной путь, чей этот,  
 По нему и двигайся по своей воле!
 </details>
+

@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hatī́ ← br̥hánt- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+mahī́ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+suśilpé ← suśilpá- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vr̥ṣaṇyati ← √vr̥ṣaṇy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+darśaté ← darśatá- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+náktoṣā́sā ← náktoṣā́s- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +142,4 @@ Auf Nacht und Morgen stürzt als Stier, die schönen, weiten, herrlichen, Die gr
 Ночь-и-Ушас  
 , словно двух прекрасных (женщин).
 </details>
+

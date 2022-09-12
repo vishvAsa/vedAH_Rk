@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+divaḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitaraḥ ← duhitár- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vibhātī́ḥ ← √bhā- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+asmā́su ← ahám (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+devīḥ ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+prajā́vantam ← prajā́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yachata ← √yam- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+pratibúdhyamānāḥ ← √budh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+syonā́t ← syoná- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+pátayaḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvī́ryasya ← suvī́rya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +190,4 @@ O Himmelstöchter, glänzende, verleihet, Göttinnen ihr, uns kinderreichen Wohl
 Пробуждаемые вашим (светом) с мягкого (ложа),  
 Да будем мы обладателями прекрасных сыновей!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gavyatā́ ← √gavy- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+seduḥ ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+amr̥tatvā́ya ← amr̥tatvá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇvānā́saḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+sádanam ← sádana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ásiṣāsan ← √sanⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT, mood:DES}
+
+mā́sān ← mā́sa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +232,4 @@ Sie [die Angirasen] setzten sich nieder mit brünstigem Geiste, durch Lieder sic
 Это самое сидение и сейчас часто (бывает) у них –  
 Закон, с помощью которого (долгие) месяцы они хотели добыть (коров).
 </details>
+

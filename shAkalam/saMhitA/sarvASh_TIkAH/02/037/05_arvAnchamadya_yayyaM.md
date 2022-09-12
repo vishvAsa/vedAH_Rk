@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+arvā́ñcam ← arvā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nr̥vā́haṇam ← nr̥vā́haṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yayyàm ← yayī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vimócanam ← vimócana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuñjāthām ← √yuj- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gatám ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+havī́ṁṣi ← havís- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+kam ← kam (invariable)  
+{}
+
+mádhunā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pr̥ṅktám ← √pr̥c- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+pibatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājinīvasū ← vājínīvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +222,4 @@ Auf, rüstet euch den Wagen, der euch Ritter fährt, der schnell sich nahet, hie
 Ведь вы же кропите жертвоприношения медом – поезжайте  
 И пейте сому, о двое несущих награду!
 </details>
+

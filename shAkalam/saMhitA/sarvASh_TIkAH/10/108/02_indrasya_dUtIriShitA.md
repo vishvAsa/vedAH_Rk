@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+carāmi ← √carⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+dūtī́ḥ ← dūtī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+iṣitā́ ← √iṣ- 1 (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+ichántī ← √iṣ- 2 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+maháḥ ← máh- (nominal stem)  
+{case:ACC, number:PL}
+
+nidhī́n ← nidhí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+paṇayaḥ ← paṇí- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+atiṣkádaḥ ← √skand- (root)  
+{case:ABL, number:SG}
+
+āvat ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhiyásā ← bhiyás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ataram ← √tr̥̄- 1 (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+páyāṁsi ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rasā́yāḥ ← rasā́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+táthā ← táthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Als Indra´s Botin komme ich abgesandt, eure großen Schätze suchend, ihr Pani�
 Так я перебралась через воды Расы.  
 Пани:
 </details>
+

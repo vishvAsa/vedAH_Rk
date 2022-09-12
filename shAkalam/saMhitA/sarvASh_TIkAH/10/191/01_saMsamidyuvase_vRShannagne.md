@@ -16,14 +16,66 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+ít ← ít (invariable)  
+{}
+
+sáṁ-sam ← sám (invariable)  
+{}
+
+vr̥ṣan ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yuvase ← √yu- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+idhyase ← √idh- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+iḷáḥ ← íḍ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Aus der entflammten Feuersglut entspross die Wahrheit und das Recht; Daraus ents
 Тебя зажигают на месте жертвенного возлияния.  
 Принеси нам сокровища!
 </details>
+

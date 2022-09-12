@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+duduhre ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+āśíram ← āśír- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pūrvyé ← pūrvyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+satyā́m ← satyá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vyòmani ← vyòman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+anyā́ ← anyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+catvā́ri ← catúr- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+nirṇíje ← nirṇíj- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ávardhata ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+cakre ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+cā́rūṇi ← cā́ru- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+r̥taíḥ ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Es liessen sieben Kühe dreimal strömen ihm den wahren Milchtrank in dem höchs
 Четыре другие милые сущности  
 Он сделал себе праздничным нарядом, когда возрастал от истин.
 </details>
+

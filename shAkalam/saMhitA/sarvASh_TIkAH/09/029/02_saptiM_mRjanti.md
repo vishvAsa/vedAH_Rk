@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+mr̥janti ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sáptim ← sápti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vedhásaḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gr̥ṇántaḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+kārávaḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jajñānám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ukthyàm ← ukthyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +140,4 @@ Die Ordner, reinigen das Ross, die Sänger preisend mit Gesang Der Menschen rüh
 Певцы, воспевающие в песне  
 (Его,) родившегося как светило, достойное гимна.
 </details>
+

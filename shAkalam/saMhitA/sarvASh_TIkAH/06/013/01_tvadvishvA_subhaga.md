@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+saúbhagāni ← saúbhaga- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+subhaga ← subhága- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vanínaḥ ← vanín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vayā́ḥ ← vayā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śruṣṭī́ ← śruṣṭí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vā́jaḥ ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥tratū́rye ← vr̥tratū́rya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ī́ḍyaḥ ← ī́ḍya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rītíḥ ← rītí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ Von dir gehn aus, wie Zweige von dem Waldbaum, beglückter Agni, alle Glückesg�
 Желание услышать просьбу, богатство, награда при победе над врагами,  
 Дождь с неба, течение вод – (ты) достоин призывов.
 </details>
+

@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+viśvavārā ← viśvávāra- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+avāci ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+prá ← prá (invariable)  
+{}
+
+pr̥thivyā́m ← pr̥thivī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sthā́nam ← sthā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+áśvaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śunápr̥ṣṭhaḥ ← śunápr̥ṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhruváse ← dhruvás- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sedáthuḥ ← √sad- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,3 +262,4 @@ Kommt her zu uns, o gabenreiche Ritter, gepriesen ist euch dieser Ort auf Erden;
 Он встал, словно конь, завоевывающий награды, неся удачу на спине,  
 Когда вы уселись будто бы на лоно, чтобы остаться.
 </details>
+

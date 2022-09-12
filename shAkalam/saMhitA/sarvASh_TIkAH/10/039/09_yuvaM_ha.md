@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gúhā ← gúhā (invariable)  
+{}
+
+ha ← ha (invariable)  
+{}
+
+hitám ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+rebhám ← rebhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+airayatam ← √īr- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mamr̥vā́ṁsam ← √mr̥- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+átraye ← átri- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+r̥bī́sam ← r̥bī́sa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+taptám ← √tap- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+utá ← utá (invariable)  
+{}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+cakrathuḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ómanvantam ← ómanvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saptávadhraye ← saptávadhri- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Ihr Helden hobt den Rebha, der im Wasser lag, hervor, o Ritter, als er fast gest
 А также раскаленную печь  
 Вы сделали приятной для Атрии Саптавадхри.
 </details>
+

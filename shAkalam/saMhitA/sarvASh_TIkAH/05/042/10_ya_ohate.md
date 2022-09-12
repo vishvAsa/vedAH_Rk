@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devávītau ← devávīti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+óhate ← √uh- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+acakrébhiḥ ← acakrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yāta ← √yā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+níndāt ← √nid- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+śámīm ← śámī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śaśamānásya ← √śamⁱ- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kā́mān ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+karate ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+siṣvidānáḥ ← √svid- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+tuchyā́n ← tuchyá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Wer bei dem Festmahl auf Unholde Acht gibt, den fahrt, o Maruts, nieder ohne Rä
 Кто вздумает хулить труд потрудившегося (на жертвоприношении),  
 Пусть лелеет пустые желания, даже если он и попотел (принося жертву)!
 </details>
+

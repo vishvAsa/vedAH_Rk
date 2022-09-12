@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arapat ← √rap- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mamandúṣī ← √mand- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+yuvatíḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+śyāvā́ya ← śyāvá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vartaním ← vartaní- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+purumīḷhā́ya ← purumīḷhá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+róhitā ← róhita- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ví ← ví (invariable)  
+{}
+
+yematuḥ ← √yam- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dīrgháyaśase ← dīrgháyaśas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+víprāya ← vípra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +186,4 @@ Und mir, dem ^java [oben, Vers 5, nennt sich der Dichter ^javaagva], pries die e
 Оба рыжих коня побежали во весь дух к Пурумилхе,  
 Вдохновленному, обладающему
 </details>
+

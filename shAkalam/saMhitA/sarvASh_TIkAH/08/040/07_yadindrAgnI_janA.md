@@ -18,16 +18,68 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+indrāgnī́ ← indrāgní- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+jánāḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tánā ← tán- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vihváyante ← √hvā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+asmā́kebhiḥ ← asmā́ka- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+pr̥tanyatáḥ ← √pr̥tany- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sāsahyā́ma ← √sah- (root)  
+{number:PL, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+vanuṣyatáḥ ← √vanuṣ(y)- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vanuyā́ma ← √vanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +224,4 @@ Wenn Indra-Agni, diese hier euch rufen mit beständ'gem Preis, So lasst durch un
 Пусть мы одержим верх над соперниками!  
 Пусть лопнут все ничтожные другие!
 </details>
+

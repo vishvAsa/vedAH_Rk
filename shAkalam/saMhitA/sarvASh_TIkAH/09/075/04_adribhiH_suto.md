@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+cánohitaḥ ← cánohita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mātárā ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+prarocáyan ← √ruc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávyā ← ávya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dhāvati ← √dhāv- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rómāṇi ← róman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+samáyā ← samá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+dhā́rā ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mádhoḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pínvamānā ← √pinv- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Gepresst von Steinen, durch Gebet geneigt gemach, durchleuchtend hell die Welten
 Он пробегает посредине сквозь овечьи волоски,  
 Поток сладости, набухающий день ото дня.
 </details>
+

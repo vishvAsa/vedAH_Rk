@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dī́dhitī ← dī́dhiti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gī́ḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śáṁtamā ← śáṁtama- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+váruṇam ← váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+aśyāḥ ← √naś- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+bhágam ← bhága- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+páñcahotā ← páñcahotar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pŕ̥ṣadyoniḥ ← pŕ̥ṣadyoni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śr̥ṇotu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átūrtapanthāḥ ← átūrtapanthā- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mayobhúḥ ← mayobhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +214,4 @@ Vor dringe nun das liebste Lied mit Andacht zu Aditi, Varuna, Mitra, Bhaga, Es h
 Да услышит (ее бог,) пребывающий в крапчатом (жире), с пятью хотарами,  
 Ободряющий Асура, чей путь недоступен!
 </details>
+

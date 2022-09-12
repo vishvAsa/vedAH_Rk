@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+maitrāvaruṇáḥ ← maitrāvaruṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vasiṣṭha ← vásiṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+brahman ← brahmán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mánasaḥ ← mánas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+urváśyāḥ ← urváśī- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+daívyena ← daívya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+drapsám ← drapsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+skannám ← √skand- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+adadanta ← √dad- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+púṣkare ← púṣkara- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +207,7 @@ I take drapsáṃ skannám as a nominal clause, rather than taking cd as a singl
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/033/10-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/033/10-13.md">
 <details open><summary><h2>10-13 ...{Loading}...</h2></summary>
 
 Oldenberg discusses Vasiṣṭha’s two births and suggests that they are presented in reverse chronological order. The birth depicted in vs. 10 is the second birth, while 11-13 treat the first. In the first birth Mitra and Varuṇa emit semen at a Sattra, which falls into a pot and ultimately gives rise to the seer Agastya. But a drop of this semen is taken into a lotus, somehow comes to the Apsaras Urvaśī, who somehow conceives and gives birth to Vasiṣṭha “from mind.” In the second birth the wondrously conceived divine being of the 1st birth is received into a human Gotra.
@@ -186,3 +241,4 @@ Du stammst von Mitra -Varuna, o Vasischtha, erzeugt, o Beter, durch des Geistes 
 Каплю, пролитую под божественное священное слово, -  
 Тебя все боги удержали в лотосе.
 </details>
+

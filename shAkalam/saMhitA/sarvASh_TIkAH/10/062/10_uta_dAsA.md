@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dāsā́ ← dāsá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+parivíṣe ← √viṣ- 2 (root)  
+{case:DAT, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+góparīṇasā ← góparīṇas- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+smáddiṣṭī ← smáddiṣṭi- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+māmahe ← √maṁh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+turváḥ ← turvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáduḥ ← yádu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +141,4 @@ Und zwei Knechte zum Dienste, leicht zu lenkende, nebst einer Menge von Kühen v
 Имеющих подготовку, вместе с множеством коров  
 Дал великодушно Яду и Турва.
 </details>
+

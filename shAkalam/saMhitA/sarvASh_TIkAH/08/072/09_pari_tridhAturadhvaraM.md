@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+tridhā́tuḥ ← tridhā́tu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jūrṇíḥ ← jūrṇí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+návīyasī ← návīyaṁs- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+añjate ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+hótāraḥ ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádhvā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ Die dreigetheilte Glut umgibt, die Opferfeier neu entflammt; Die Priester salben
 Самый новый жар (Агни).  
 Хотары смазывают (огонь) сладостью.
 </details>
+

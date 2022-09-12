@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jágataḥ ← jágat- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śīrṣṇáḥ-śīrṣṇaḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tasthúṣaḥ ← √sthā- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samáyā ← samá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+svásāraḥ ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+harítaḥ ← harít- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+váhanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +201,4 @@ Den Herrn jedweden Wesens, was da geht und steht, ihn ziehn im Nu durch allen Ra
 Везут Сурью семь сестер –  
 Буланые кобылицы (, запряженные) в колесницу – (везут) для прекрасного путешествия.
 </details>
+

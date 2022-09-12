@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+kāṇvásya ← kāṇvá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sātā́ni ← √sanⁱ- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+abhídyubhiḥ ← abhídyu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+priyámedhaiḥ ← priyámedha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+aje ← √aj- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ánu ← ánu (invariable)  
+{}
+
+nírmajām ← nírmaj- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ṣaṣṭím ← ṣaṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nís ← nís (invariable)  
+{}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yūthā́ni ← yūthá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +188,4 @@ Die durch die Gebete des opferreichen Kanvasprosses von den frommen Prijamedha's
 Награжденного потомка Канвы, полученных за молитвы  
 Приямедхами, стремящимися к небу.
 </details>
+

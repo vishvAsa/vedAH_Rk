@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āghr̥ṇe ← ā́ghr̥ṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+irasyaḥ ← √irasy- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+pūṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+rā́san ← √rā- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+rātiṣā́caḥ ← rātiṣác- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+várūtrī ← várūtrī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+árvantaḥ ← árvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mayobhúvaḥ ← mayobhū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+pāntu ← √pā- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dadātu ← √dā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+párijmā ← párijman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Entzieh uns nicht, o glutenreicher Puschan, was uns Varutri und die Spender gebe
 Да защитят нас скакуны, приносящие радость!  
 Пусть Вата, разъезжающий кругом, даст (нам) дождь!
 </details>
+

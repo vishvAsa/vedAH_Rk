@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asmayúḥ ← asmayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vásūni ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vīrávat ← vīrávant- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +135,7 @@ Inclined toward us, encompass for us all goods with your strength. Protect for u
 The opening of pāda a #pári no yāhi gets remixed into c #pāhi naḥ.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 The first two vss. of this tṛca both contain nom. ‘drops’ (índavaḥ) and their acc. goal, the sea (samudrám); their first pādas also both contain nom. pl. pres. middle athem. participles with the extended ending -āsaḥ, hinvānā́saḥ and marmṛjānā́saḥ respectively. The third vs. stands apart.
@@ -130,3 +164,4 @@ Behütend geh, uns holdgesinnt, mit Kraft um alle Güter uns, Schirm unser männ
 
 -ru-
 </details>
+

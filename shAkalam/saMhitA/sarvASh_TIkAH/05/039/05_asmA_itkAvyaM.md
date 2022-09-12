@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+ásmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+kā́vyam ← kā́vya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śáṁsyam ← śáṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ukthám ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bráhmavāhase ← bráhmavāhas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+átrayaḥ ← átri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vardhanti ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+átrayaḥ ← átri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śumbhanti ← √śubh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +209,4 @@ Dem Indra ist zu sprechen stets zuerst des Dichters Wort und Spruch; Ihm, der Ge
 Люди из рода Атри усиливают хвалебные песни,  
 Люди из рода Атрй украшают хвалебные песни.
 </details>
+

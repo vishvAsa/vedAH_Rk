@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+mātáraḥ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śundhayantu ← √śudh- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ghr̥tapvàḥ ← ghr̥tapū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+punantu ← √pū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+praváhanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+riprám ← riprá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ābhyaḥ ← ayám (pronoun)  
+{case:DAT, gender:F, number:PL}
+
+emi ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+pūtáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +236,4 @@ Die Gewässer, die Mütter, mögen uns reinigen, die Butter läuternden mögen u
 Ведь все грязное увозят богини,  
 И выхожу я из них очищенный и чистый!
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+akhyat ← √khyā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+āyatī́ ← √i- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+rā́trī ← rā́trī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+akṣábhiḥ ← ákṣi ~ akṣán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+adhita ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+śríyaḥ ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +165,4 @@ Schon naht die Nacht, die Göttin schaut aus ihren Augen überall Mit allem Schm
 Во все стороны, богиня, множеством глаз.  
 Она надела на себя все украшения.
 </details>
+

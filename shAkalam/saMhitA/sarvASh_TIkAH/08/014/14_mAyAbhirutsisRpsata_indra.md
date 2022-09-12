@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+māyā́bhiḥ ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+utsísr̥psataḥ ← √sr̥p- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT, mood:DES}
+
+ārúrukṣataḥ ← √ruh- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT, mood:DES}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+adhūnuthāḥ ← √dhū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:MED}
+
+áva ← áva (invariable)  
+{}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,3 +132,4 @@ Du, Indra, schütteltest herab Dämonen, listig schleichende, Empor zum Himmel s
 (И) хотевших подняться на небо,  
 Ты, о Индра, стряхнул вниз.
 </details>
+

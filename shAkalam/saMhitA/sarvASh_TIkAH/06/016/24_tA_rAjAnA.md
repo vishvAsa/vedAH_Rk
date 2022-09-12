@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+rā́jānā ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śúcivratā ← śúcivrata- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+ādityā́n ← ādityá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+gaṇám ← gaṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+váso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yákṣi ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Das reingesinnte Königspaar, Aditja's und die Marutschar, Die Welten ehr, o Gut
 Адитьям, толпе Марутов,  
 О Васу, принеси здесь жертву, (а также) двум мирам!
 </details>
+

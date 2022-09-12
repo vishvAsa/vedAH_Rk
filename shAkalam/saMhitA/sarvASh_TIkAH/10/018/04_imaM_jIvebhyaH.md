@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dadhāmi ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+jīvébhyaḥ ← jīvá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+paridhím ← paridhí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áparaḥ ← ápara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+gāt ← √gā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+jīvantu ← √jīv- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+purūcī́ḥ ← purūcī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+dadhatām ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+mr̥tyúm ← mr̥tyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+párvatena ← párvata- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Die Schutzwehr setz' ich hier für die, die leben, dass ihrer keiner lauf nach d
 Да проживут они сотню обильных осеней!  
 Да закроют они смерть (этой) горой!
 </details>
+

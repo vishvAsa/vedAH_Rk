@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+darśatám ← darśatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+vápuḥ ← vápus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pratihvaré ← pratihvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+āśúḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+étaśaḥ ← étaśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+váhati ← √vah- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áram ← áram (invariable)  
+{}
+
+cákṣase ← cákṣas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+víśvasmai ← víśva- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +196,4 @@ Schon steigt empor die Glanzgestalt dort an des Himmels Niederhang, Vom Gott gez
 Когда везет его быстрый божественный Эташа,  
 Чтобы каждый мог (его) увидеть.
 </details>
+

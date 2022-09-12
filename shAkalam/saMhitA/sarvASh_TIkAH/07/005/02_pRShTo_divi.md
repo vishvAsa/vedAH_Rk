@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhā́yi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pr̥ṣṭáḥ ← √praś- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+pr̥thivyā́m ← pr̥thivī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+netā́ ← netár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+síndhūnām ← síndhu- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+stíyānām ← stíyā- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+bhāti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mā́nuṣīḥ ← mā́nuṣa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+víśaḥ ← víś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vaiśvānaráḥ ← vaiśvānará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váreṇa ← vára- 1 (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vāvr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Begehrt nahm Agni Platz in Erd' und Himmel, der Ströme Führer und der Herr der
 Он ярко освещает людские племена,  
 Вайшванара, возвеличенный по (своему) выбору.
 </details>
+

@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+viśé ← víś- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yachati ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vyānaśé ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vyòmani ← vyòman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+átas ← átas (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+saṁyátaḥ ← saṁyát- (nominal stem)  
+{gender:F}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +234,7 @@ In d note the play in the phrase sáṃ yāti saṃyátaḥ, which belong to dif
 ‘feste Aufstellung’. But saṃyát- is generally an adj., usually in the pl. of liquids (V.34.9 ā́paḥ saṃyátaḥ, VIII.100.9); esp. pertinent are two passages in our own hymn: vs. 18 in the next tṛca saṃyátam pipyúṣīm íṣam “continuous, swelling refreshment” and, by implication, in vs. 47 dhā́rāḥ … saṃyátaḥ “continuous streams.” On the basis of these passages, I supply “streams” here as well. See, e.g., vs. 8.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 This tṛca is characterized by increasingly larger claims for Soma’s cosmic reach. It has fewer connections to previous tṛcas, save for the echo in 15b dhā́ma prathamám vyānaśe of 5a and c, on which see comm. there.
@@ -196,3 +263,4 @@ Dem Stamme dessen reichet grossen Schatz er dar, der hin zu seiner ersten Opfers
 
 -ru-
 </details>
+

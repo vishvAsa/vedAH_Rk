@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āste ← √ās- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+póṣam ← póṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pupuṣvā́n ← √puṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+r̥cā́m ← ŕ̥c- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+tvaḥ ← tva- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gāyati ← √gā(y)- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gāyatrám ← gāyatrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śákvarīṣu ← śákvan- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+tvaḥ ← tva- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+brahmā́ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jātavidyā́m ← jātavidyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tvaḥ ← tva- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vádati ← √vadⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mā́trām ← mā́trā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mimīte ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tvaḥ ← tva- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Der eine sitzt, der Lieder Blüten treibend, der andre singt Gesang in vollen We
 Кто-то – брахман – провозглашает знание происхождения (начал),  
 А кто-то измеряет меру жертвоприношения.
 </details>
+

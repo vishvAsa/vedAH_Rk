@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+devā = ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+puróhitiḥ ← puróhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yuvábhyām ← tvám (pronoun)  
+{case:INS, number:DU}
+
+akāri ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+mitrāvaruṇau ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yajñéṣu ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+durgā́ ← durgá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pipr̥tam ← √pr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tirás ← tirás (invariable)  
+{}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Dies Priesterwerk ist euch vollbracht, o Götter, bei diesen Opfern, Varuna und 
 Переправьте нас через все трудности!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
+

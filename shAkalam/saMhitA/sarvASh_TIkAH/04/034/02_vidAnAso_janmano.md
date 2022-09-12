@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jánmanaḥ ← jánman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vājaratnāḥ ← vā́jaratna- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vidānā́saḥ ← √vid- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+mādayadhvam ← √mad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+r̥túbhiḥ ← r̥tú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+ágmata ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+mádāḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+púraṁdhiḥ ← púraṁdhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+īrayadhvam ← √īr- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+suvī́rām ← suvī́ra- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Und ihr, schon von Geburt an Reichthumspender, berauschet euch zur Opferzeit, o 
 Ваши опьяняющие соки слились, с(лилась с вами) Пурамдхи.  
 Приведите для нас в действие богатство, состоящее из прекрасных мужей!
 </details>
+

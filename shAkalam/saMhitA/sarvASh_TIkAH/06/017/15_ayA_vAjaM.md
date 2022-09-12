@@ -14,12 +14,34 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line
+#### Morph
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+deváhitam ← deváhita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sanema ← √sanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádema ← √mad- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+śatáhimāḥ ← śatáhima- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvī́rāḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +133,4 @@ So lass uns gottbestimmte Kraft erlangen, froh sei'n wir, reich an Söhnen, hund
 Этой (песней) да завоюем мы награду, установленную богами!  
 Да будем мы радоваться сто зим, имея прекрасных сыновей!
 </details>
+

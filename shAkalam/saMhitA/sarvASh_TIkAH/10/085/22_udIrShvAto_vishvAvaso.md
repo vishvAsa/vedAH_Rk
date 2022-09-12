@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+átas ← átas (invariable)  
+{}
+
+īrṣva ← √r̥- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+út ← út (invariable)  
+{}
+
+viśvāvaso ← viśvā́vasu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+īḷāmahe ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+anyā́m ← anyá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+icha ← √iṣ- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prapharvyàm ← prapharvī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jāyā́m ← jāyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pátyā ← páti- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sr̥ja ← √sr̥j- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ Erhebe dich von hier, o Viçvāvasu, wir verehren dich in Demuth; eine andere ü
 Ищи другую – готовую (для этого).  
 Соедини жену с мужем!
 </details>
+

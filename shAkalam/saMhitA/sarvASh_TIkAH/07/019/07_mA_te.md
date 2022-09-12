@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyā́m ← ayám (pronoun)  
+{case:LOC, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+páriṣṭau ← páriṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sahasāvan ← sahasāvan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+aghā́ya ← aghá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+bhūma ← √bhū- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+parādaí ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+avr̥kébhiḥ ← avr̥ká- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+trā́yasva ← √trā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+várūthaiḥ ← várūtha- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+priyā́saḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sūríṣu ← sūrí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Nicht überlass in dieser Noth, o mächt'ger, dem Bösen uns, o Lenker goldner R
 Заслони нас (твоими) надежными щитами!  
 Пусть будем мы любимы (нашими) покровителями, как твои любимцы!
 </details>
+

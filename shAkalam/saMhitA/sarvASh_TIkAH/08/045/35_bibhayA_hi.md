@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+bibháya ← √bhī- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+tvā́vataḥ ← tvā́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhiprabhaṅgíṇaḥ ← abhiprabhaṅgín- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ugrā́t ← ugrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+dasmā́t ← dasmá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+r̥tīṣáhaḥ ← r̥tīṣáh- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,3 +129,4 @@ Denn ich bin voller Furcht vor dir der du so stark bist, so zerbrichst, Und, heh
 Грозного проломителя,  
 Я – чудесного (бога,) отражающего нападения.
 </details>
+

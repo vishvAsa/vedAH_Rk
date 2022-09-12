@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+subāhúḥ ← subāhú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svaṅguríḥ ← svaṅgurí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+bahusū́varī ← bahusū́van- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+suṣū́mā ← suṣū́ma- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tásyai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:F, number:SG}
+
+viśpátnyai ← viśpátnī- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+juhotana ← √hu- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sinīvālyaí ← sinīvālī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Die schön an Fingern, schön an Arm, die leicht gebiert, die viel gebiert, Der 
 Этой госпоже племени  
 Возлейте жертвенное возлияние!
 </details>
+

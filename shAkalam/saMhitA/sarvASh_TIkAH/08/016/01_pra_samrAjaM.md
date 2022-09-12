@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+samrā́jam ← samrā́j- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+návyam ← návya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stota ← √stu- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+máṁhiṣṭham ← máṁhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+náram ← nár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nr̥ṣā́ham ← nr̥ṣáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +146,4 @@ Preist den preisenswerthen Indra, der die Welt beherrscht, mit Liedern, Ihn, den
 Индру хвалебными песнями,  
 Мужа, одолевающего мужей, самого щедрого,
 </details>
+

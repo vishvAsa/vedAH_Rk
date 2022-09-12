@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+rocané ← rocaná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+samudrásya ← samudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+viṣṭápi ← viṣṭáp- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+pā́rthive ← pā́rthiva- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vr̥trahantama ← vr̥trahántama- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+antárikṣe ← antárikṣa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Wenn du im Licht des Himmels weilst, wenn auf des Meeres Fläche du, Wenn, beste
 Когда на земном сиденье, о лучше всех убивающий врагов,  
 Когда в воздухе – приезжай!
 </details>
+

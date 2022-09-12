@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ŕ̥dhat ← √r̥dh- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sudā́nave ← sudā́nu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śaśámate ← √śamⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:MED}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dviṣáḥ ← dvíṣ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tarati ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +178,7 @@ A minor support for the interpr. of ṛ́dhat as finite subjunctive, not adverbi
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/002/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/002/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 These two vss. are in some ways an expansion of VI.1.9: 4ab are the equivalent of VI.1.9a (for disc. see below); 5ab corresponds to VI.1.9bc. Note esp.
@@ -166,3 +212,4 @@ Der Mann gedeihet, welcher dir, dem reichen, dienet andachtsvoll; Er, durch des 
 Благодаря поддержке высокого неба  
 Он пересекает проявления враждебности, словно узкое место.
 </details>
+

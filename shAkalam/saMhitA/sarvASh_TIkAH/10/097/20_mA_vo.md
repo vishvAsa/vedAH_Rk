@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+khanitā́ ← khanitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+riṣat ← √riṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+khánāmi ← √khanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yásmai ← yá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+cátuṣpat ← cátuṣpad- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dvipát ← dvipád- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+anāturám ← anāturá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sárvam ← sárva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +186,4 @@ Nicht nehme Schaden wer euch gräbt, noch der, für den ich grabe euch; Was zwei
 Двуногие (и) четвероногие наши  
 Да будут все здоровы!
 </details>
+

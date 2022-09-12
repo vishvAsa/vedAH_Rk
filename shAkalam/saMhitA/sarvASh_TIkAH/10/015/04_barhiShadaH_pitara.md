@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bárhiṣadaḥ ← barhiṣád- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+pitaraḥ ← pitár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+cakr̥ma ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+juṣádhvam ← √juṣ- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:MED}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+gata ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+śáṁtamena ← śáṁtama- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+arapáḥ ← arapás- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+dadhāta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+yós ← yós (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ O Väter, auf der Streu, mit Hülfe naht euch; hier haben wir euch Trank gebraut
 Придите сюда с самой благотворной поддержкой,  
 А также дайте нам счастье и благо без повреждения!
 </details>
+

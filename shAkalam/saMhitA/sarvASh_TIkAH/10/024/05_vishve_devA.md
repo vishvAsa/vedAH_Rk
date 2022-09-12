@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+akr̥panta ← √kr̥p- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+niṣpátantyoḥ ← √pat- 1 (root)  
+{case:LOC, gender:F, number:DU, tense:PRS, voice:ACT}
+
+samīcyóḥ ← samyáñc- (nominal stem)  
+{case:LOC, gender:F, number:DU}
+
+abruvan ← √brū- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nā́satyau ← nā́satya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+íti ← íti (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+vahatāt ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +166,4 @@ Die Götter alle jammerten, als da das Weltenpaar zerstob; »Ihr Treuen« sprach
 Боги сказали Насатьям:  
 Привезите (их) обратно!
 </details>
+

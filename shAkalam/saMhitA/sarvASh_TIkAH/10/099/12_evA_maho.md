@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+asura ← ásura- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vakṣáthāya ← vakṣátha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+paḍbhíḥ ← pád- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sarpat ← √sr̥p- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+vamrakáḥ ← vamraká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+iyānáḥ ← √yā- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+karati ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svastím ← svastí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhār ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sukṣitím ← sukṣití- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ So nahte sich, o Gott, zu des grossen Kräftigung Vamraka dem Indra demüthig mi
 Попрошенный (об этом), пусть он даст ему счастье!  
 Подкрепление, питательную силу, хорошее место для жилья – все он принес.
 </details>
+

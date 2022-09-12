@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+devátātaye ← devátāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prayatí ← √i- 1 (root)  
+{case:LOC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samīké ← samīká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vanínaḥ ← vanín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhánasya ← dhána- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +178,4 @@ Zur Feier rufen Indra wir, den Indra in des Fests Verlauf, Den Indra voll Verlan
 Индру – умоляя во время сражения,  
 Индру – при захвате богатства.
 </details>
+

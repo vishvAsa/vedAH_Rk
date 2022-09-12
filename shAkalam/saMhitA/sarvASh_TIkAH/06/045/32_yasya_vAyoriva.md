@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dravát ← dravát (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+vāyóḥ ← vāyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rātíḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sahasríṇī ← sahasrín- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dānā́ya ← dāná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+máṁhate ← √maṁh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sadyás ← sadyás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +148,4 @@ Er, dessen tausendfache Gabe wie im Fluge des Windes sogleich zum Lohne geschenk
 Благожелательность, приносящая счастье, приносящая тысячи,  
 Сразу же приводит к дарению.
 </details>
+

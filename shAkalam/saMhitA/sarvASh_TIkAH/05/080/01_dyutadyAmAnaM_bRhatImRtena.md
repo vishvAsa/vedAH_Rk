@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hatī́m ← br̥hánt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dyutádyāmānam ← dyutádyāman- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+aruṇápsum ← aruṇápsu- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥tā́varīm ← ŕ̥tāvan- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vibhātī́m ← √bhā- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+āváhantīm ← √vah- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+devī́m ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jarante ← √gr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+víprāsaḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +188,4 @@ Die leuchtend geht, durch heil'ges Werk erhaben, die heilige mit rothem Glanze, 
 Богиню Ушас, привозящую солнце,  
 Вдохновенные пробуждают молитвами.
 </details>
+

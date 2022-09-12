@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rāsan ← √rā- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+rātiṣā́caḥ ← rātiṣác- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+śr̥ṇotu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+varuṇānī́ ← varuṇānī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suśaraṇáḥ ← suśaraṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+várūtrībhiḥ ← várūtrī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+dadhātu ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+rā́yaḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+sudátraḥ ← sudátra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Die Spenderinnen mögen uns Güter spenden; es höre uns Rodasi [des Rudra Gatti
 С (этими) покровительницами пусть будет нам Тваштар  
 Хорошей защитой; (он,) дающий прекрасные дары, пусть распределяет богатства!
 </details>
+

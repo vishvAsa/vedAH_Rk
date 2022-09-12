@@ -15,14 +15,51 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+arśasānám ← arśasāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+oṣati ← √uṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sāsahíḥ ← sāsahí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vánā ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vāvr̥dhe ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +173,4 @@ Den Frevler brennet Indra weg wie mit der Sonne Strahlenglut; Wie Feuer, das den
 Сжигает дотла Аршасану,  
 Как Агни – деревья. Победоносный усилился.
 </details>
+

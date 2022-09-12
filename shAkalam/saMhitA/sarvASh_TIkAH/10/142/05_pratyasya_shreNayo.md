@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dadr̥śre ← √dr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+śréṇayaḥ ← śréṇi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bahávaḥ ← bahú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+niyā́nam ← niyā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ráthāsaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+anumármr̥jānaḥ ← √mr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+bāhū́ ← bāhú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+anvéṣi ← √i- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bhū́mim ← bhū́mi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nyàṅ ← nyàñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uttānā́m ← uttāná- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +198,4 @@ Es wurden sichtbar seine Wagenreihen, nur eine Strasse, aber viele Wagen; Wenn A
 Когда, о Агни, мощно растирая руками (землю),  
 Направленный вниз, ты движешься по простертой (под тобой) земле.
 </details>
+

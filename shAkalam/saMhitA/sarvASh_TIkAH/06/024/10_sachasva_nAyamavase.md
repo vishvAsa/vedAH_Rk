@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+abhī́ke ← abhī́ka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+nāyám ← nāyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sácasva ← √sac- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+itás ← itás (invariable)  
+{}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+riṣáḥ ← ríṣ- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+amā́ ← amā́ (invariable)  
+{}
+
+áraṇye ← áraṇya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+riṣáḥ ← ríṣ- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+mádema ← √mad- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+śatáhimāḥ ← śatáhima- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvī́rāḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Dem Führer hilf zu Kräftigung im Kampfe, beschütze hier, o Indra, ihn vor Sch
 И дома его, и в глуши защити от вреда!  
 Да будем мы радоваться сотни зим, имея прекрасных сыновей!
 </details>
+

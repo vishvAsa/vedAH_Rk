@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ajáram ← ajára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kurmáḥ ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ríṣyāḥ ← √riṣ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
+yuktáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+átha ← átha (invariable)  
+{}
+
+sumanasyámānaḥ ← √sumanasy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vahāsi ← √vah- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+havíṣaḥ ← havís- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sujāta ← sujātá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,8 +200,6 @@ popular
 \[varUNa on behalf of the devas said:\] O agni jAtadvedas we establish for you undecaying life, so that when you are thus employed you are not harmed. So, well-born one you shall with good-will bear to the gods their share of oblations.
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -184,3 +237,4 @@ Wir schaffen dir, o Agni, ew'ge Jugend, dass, Wesenkenner, du im Dienst nicht le
 Для богов (их) долю жертвы, о прекраснорожденный.  
 Агни:
 </details>
+

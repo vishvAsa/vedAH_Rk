@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dā́śema ← √dāś- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yaho ← yahú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+voce ← √vac- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +156,4 @@ Mit welchem frommen Geiste dir, o Sohn der Stärke, huldigen? Wie soll ich sprec
 Мы хотим почтить (тебя), о юный сын силы?  
 Что за поклонение мне выразить?
 </details>
+

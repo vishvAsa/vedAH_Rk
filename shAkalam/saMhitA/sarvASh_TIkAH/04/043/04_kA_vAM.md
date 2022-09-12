@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+kā́ ← ká- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+káyā ← ká- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+úpamātiḥ ← úpamāti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gamathaḥ ← √gam- (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+hūyámānā ← √hū- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:PASS}
+
+abhī́ke ← abhī́ka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:ABL, number:SG}
+
+tyájasaḥ ← tyájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+dasrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mādhvī ← mā́dhvī- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+uruṣyátam ← √uruṣy- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +232,4 @@ Welch Zuruf mag auch sein, durch den gerufen ihr Ritter beide euch zu uns begebe
 Кто из вас двоих в грозный час (спасет) даже от великой беды?  
 Выручите нас, о любители меда, о удивительные, (своими) поддержками!
 </details>
+

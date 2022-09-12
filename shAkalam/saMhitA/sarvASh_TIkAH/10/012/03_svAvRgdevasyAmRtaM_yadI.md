@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+svā́vr̥k ← svā́vr̥j- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yádi ← yádi (invariable)  
+{}
+
+átas ← átas (invariable)  
+{}
+
+dhārayante ← √dhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+jātā́saḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+urvī́ ← urú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ánu ← ánu (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+guḥ ← √gā- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yájuḥ ← yájus- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+divyám ← divyá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+duhé ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+énī ← éta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vā́r ← vā́r- 1 (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +247,4 @@ Wenn leicht vom Gott der Trank der Kuh erlangt wird, dann stützen die erquickte
 Все-Боги пусть последуют этому твоему жертвенному речению,  
 Чтобы пестрая (корова) доилась небесным жиром, водой.
 </details>
+

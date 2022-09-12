@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cékitānaḥ ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+rocate ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+kaviśastáḥ ← kaviśastá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sudā́nuḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ī́ḍyam ← ī́ḍya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvavídam ← viśvavíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ádadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+adhvaréṣu ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+havyavā́ham ← havyavā́h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +205,4 @@ Geboren leuchtet Agni hell erstrahlend, der schnelle, rege, von den Sängern gep
 Кого боги поставили как призванного, всезнающего,  
 Увозящего жертву на жертвоприношениях.
 </details>
+

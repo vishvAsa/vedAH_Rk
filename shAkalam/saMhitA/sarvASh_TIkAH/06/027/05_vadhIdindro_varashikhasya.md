@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śéṣaḥ ← śéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vádhīt ← √vadhⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+varáśikhasya ← varáśikha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+abhyāvartíne ← abhyāvartín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cāyamānā́ya ← cāyamāná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śíkṣan ← √śak- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+hariyūpī́yāyām ← hariyūpī́yā- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vr̥cī́vataḥ ← vr̥cī́vant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áparaḥ ← ápara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árdhe ← árdha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bhiyásā ← bhiyás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dárt ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+hán ← √han- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +207,4 @@ Indra erschlug des Varaçikha Anhang, dem Abhjavartin Tschajamana helfend, Als d
 Когда у Хариюпийи он разбил передний ряд  
 Вричиватов, а задний рассыпался от страха.
 </details>
+

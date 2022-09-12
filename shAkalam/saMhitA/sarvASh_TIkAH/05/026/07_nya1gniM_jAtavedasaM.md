@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jātávedasam ← jātávedas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+hotravā́ham ← hotravā́h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáviṣṭhyam ← yáviṣṭhya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dádhāta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tvíjam ← r̥tvíj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +143,4 @@ Den Wesenkenner Agni setzt, den jüngsten Opferfahrer hin, Den Gott, der richtig
 Увозящего жертвы, самого юного,  
 Божественного жреца!
 </details>
+

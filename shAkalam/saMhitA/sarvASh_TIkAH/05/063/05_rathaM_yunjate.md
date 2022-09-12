@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śubhé ← śúbh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sukhám ← sukhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuñjate ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+gáviṣṭiṣu ← gáviṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+citrā́ ← citrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tanyávaḥ ← tanyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+samrājā ← samrā́j- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ukṣatam ← √ukṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Den raschen Wagen schirrn die Maruts an zum Prunk, wie in den Schlachten, Mitra-
 Пронзительные громы раскатываются по (небесным) просторам.  
 О самодержцы, окропите нас молоком неба!
 </details>
+

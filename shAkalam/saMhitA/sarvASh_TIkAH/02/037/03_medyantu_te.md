@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ī́yase ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+médyantu ← √med- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+váhnayaḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+áriṣaṇyan ← áriṣaṇyant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vanaspate ← vánaspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vīḷayasva ← √vīḍ- ~ √vīḷ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+abhigū́rya ← √gr̥̄- 1 (root)  
+{non-finite:CVB}
+
+āyū́ya ← √yu- 1 (root)  
+{non-finite:CVB}
+
+dhr̥ṣṇo ← dhr̥ṣṇú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+draviṇodaḥ ← draviṇodas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+neṣṭrā́t ← neṣṭrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+r̥túbhiḥ ← r̥tú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +191,7 @@ Note that the havirdhāna carts are the subject of the last tṛca of nearby II.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/037/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/037/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The d pādas of the first three vss. have a rigid structure: PRIEST’S CUP sómaṃ draviṇodaḥ píbartúbhiḥ. Noteworthy is only that píba is accented in all three vss., though there is no obvious reason for this, and the last three vss. (4-6), which also contain imperatives to √pā, though of different form (4d pibatu, 5d pibatam, 6d pāyayā), in syntactically variant constructions, lack such accent. I have no explanation (and it seems not to have attracted any attention) beyond the suggestion that píbartúbhiḥ is treated as a detachable refrain, even though what precedes it in the pāda must be construed with it. See now also remarks ad III.32.1.
@@ -171,3 +223,4 @@ Die Schar der Rosse werde feist, mit der du fährst, o säume nicht und stärke 
 Удерживая (его для себя), о дерзкий, превознося, ты,  
 О Дравинодас, пей сому из кубка нештара в (свое) время!
 </details>
+

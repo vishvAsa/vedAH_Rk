@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pathaḥ ← pánthā- ~ path- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ayujmahi ← √yuj- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:MED}
+
+dhiyé ← dhī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+pūṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +179,4 @@ Wir haben dich, o Pfades Herr, wie Wagen zu dem Preisgewinn, O Puschan, zum Gebe
 Словно колесницу для завоевания награды,  
 Запрягли тебя, о Пушан, для (победы) в поэтическом искусстве.
 </details>
+

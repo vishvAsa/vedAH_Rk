@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+satsi ← √sad- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+vakṣi ← √vah- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+aratíḥ ← aratí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváspr̥thivyóḥ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+yuvatyóḥ ← yuvatí- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sutúkaḥ ← sutúka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutúkebhiḥ ← sutúka- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gamyāḥ ← √gam- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+ihá ← ihá (invariable)  
+{}
+
+rábhasvadbhiḥ ← rábhasvant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+rábhasvān ← rábhasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Fahr herrliches uns her und lass dich nieder, als Diener du des Weltenpaars, der
 Агни порывистый с порывистыми конями,  
 Неистовый с неистовыми пусть примчится сюда!
 </details>
+

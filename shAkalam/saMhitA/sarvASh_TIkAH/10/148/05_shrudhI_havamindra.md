@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pŕ̥thyāḥ ← pŕ̥thī- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śrudhí ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+stavase ← √stu- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+utá ← utá (invariable)  
+{}
+
+venyásya ← venyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ásvār ← √svar- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ghr̥távantam ← ghr̥távant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dravayanta ← √dru- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+nimnaíḥ ← nimná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ūrmíḥ ← ūrmí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vákvāḥ ← vákva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +220,4 @@ Du, Indra, hör, o Held, den Ruf des Prithi und lass dich preisen durch des Freu
 Кто звучанием приблизился к твоему лону, полному жира.  
 Подобно волне через низины, мчались бурные (мелодии).
 </details>
+

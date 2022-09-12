@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+iyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pītáḥ ← √pā- 2 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+út ← út (invariable)  
+{}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ajīgar ← √gr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+uśatī́m ← √vaś- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+amimīta ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dhī́raḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ṣáṭ ← ṣáṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+urvī́ḥ ← urú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+āré ← āré (invariable)  
+{}
+
+bhúvanam ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yā́bhyaḥ ← yá- (pronoun)  
+{case:DAT, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +217,7 @@ It is not clear what noun to supply with fem. pl. urvī́ḥ, though something l
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/03-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/03-05.md">
 <details open><summary><h2>03-05 ...{Loading}...</h2></summary>
 
 As noted in the published introduction. as well as above, the praise of soma modulates towards praise of Indra in this sequence, starting in the 2nd half of vs. 3. The first half of 3 clearly identifies soma as referent with the ppl. pītáḥ ‘when drunk’, but the cosmogonic deeds of 3d and of at least the first half of 4 begin to sound Indraic. We are brought abruptly back to soma in 4d (sómo dādhāra), but this almost seems like a trick or a feint to keep us from drifting further. And vs. 5 again sounds Indraic, esp.
@@ -185,3 +249,4 @@ Getrunken reget dieser mir das Wort auf, und hat geweckt das sehnsuchtsvolle Lie
 Этот мудрый измерил шесть широких (пространств),  
 Без которых нет никакой вселенной.
 </details>
+

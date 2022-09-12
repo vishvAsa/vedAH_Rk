@@ -17,15 +17,73 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+arcáyaḥ ← arcí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sma ← sma (invariable)  
+{}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhūmínaḥ ← dhūmín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+samyák ← samyáñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+saṁyánti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+áha ← áha (invariable)  
+{}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+tritáḥ ← tritá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dhámati ← √dhamⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhmā́tā ← dhmā́tar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+dhmātári ← dhmātár- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śíśīte ← √śā- ~ śī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yathā ← yathā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Und dessen Flammen rauchumhüllt zusammen wandern im Verein, Wenn Trita in der H
 Раздувает его, словно раздуватель (мехов),  
 Он оттачивает (пламя), как при выдувании (металла).
 </details>
+

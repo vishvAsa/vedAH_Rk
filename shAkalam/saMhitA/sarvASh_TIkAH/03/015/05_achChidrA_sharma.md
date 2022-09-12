@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áchidrā ← áchidra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jaritar ← jaritár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ácha ← ácha (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dī́dyānaḥ ← √dī- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+sumedhā́ḥ ← sumedhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sásniḥ ← sásni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vakṣi ← √vah- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+suméke ← suméka- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ O Sänger Agni, bringe viele sichre Beschirmung, weiser, auf die Götter achtend
 Как колесница, захватывающая добычу, вези (нас) к награде!  
 О Агни, (привези) нам обе прочно установленные половины вселенной!
 </details>
+

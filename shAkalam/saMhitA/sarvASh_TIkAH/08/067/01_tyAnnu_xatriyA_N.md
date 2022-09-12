@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kṣatríyān ← kṣatríya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+tyā́n ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+ādityā́n ← ādityá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yāciṣāmahe ← √yāc- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+abhíṣṭaye ← abhíṣṭi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sumr̥ḷīkā́n ← sumr̥ḷīká- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,3 +135,4 @@ Wir flehen jene Herrscher nun um Hülfe, die Aditja's, an, Sie, die zum Beistand
 Тех владык Адитьев,  
 Очень милосердных, – чтоб они (нас) поддержали.
 </details>
+

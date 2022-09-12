@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+marútvantam ← marútvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāvr̥dhānám ← √vr̥dh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:MED}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ákavārim ← ákavāri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+divyám ← divyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śāsám ← śāsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+nū́tanāya ← nū́tana- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+viśvāsā́ham ← viśvāsáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+huvema ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+ihá ← ihá (invariable)  
+{}
+
+sahodā́m ← sahodā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +219,6 @@ All-powerful, the dread, giver of strength,
 For present aid let us invoke.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Den erstarkten Bullen in Begleitung der Marutschar, der kein geiziger Herr ist, den himmlischen Gebieter Indra, den Allbezwinger, den gewaltigen Siegverleiher, den wollen wir zu erneutem Beistand hierher rufen.
@@ -191,3 +236,4 @@ Den Marutherrscher Indra, den erstarkten, der nimmer geizt, den himmlischen Gebi
 Всепобеждающего, грозного, дающего силу, –  
 Его мы здесь хотим призвать, чтобы он сейчас помог.
 </details>
+

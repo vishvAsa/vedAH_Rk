@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+tanū́nām ← tanū́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+trātā́ram ← trātár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+adhivaktā́ram ← adhivaktár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmayúm ← asmayú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávaspartar ← avaspartar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+barhaya ← √br̥h- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devanídaḥ ← devaníd- (nominal stem)  
+{case:ACC, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+durévāḥ ← duréva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naśan ← √naś- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
+úttaram ← úttara- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +201,4 @@ Dich, den Beschützer unsrer Leiber rufen wir, Erretter du, der holdgesinnt für
 О Брихаспати, повергни ниц хулителей богов!  
 Пусть не добьются злодеи большей милости, (чем мы)!
 </details>
+

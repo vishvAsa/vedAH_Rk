@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mandráḥ ← mandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidáthāni ← vidátha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kavítamaḥ ← kavítama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vedhā́ḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yájvā ← yájvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vidyúdrathaḥ ← vidyúdratha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśret ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+pā́jaḥ ← pā́jas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥thivyā́m ← pr̥thivī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śocíṣkeśaḥ ← śocíṣkeśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Den Opferraum betrat der holde Priester, der recht verehrt, der weiseste Verwalt
 Сын силы, Агни с колесницей-молнией,  
 Пламенновласый, распространил (свой) блеск по земле.
 </details>
+

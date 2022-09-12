@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánimiṣantaḥ ← ánimiṣant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arháṇā ← arháṇā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+nr̥cákṣasaḥ ← nr̥cákṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+amr̥tatvám ← amr̥tatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ānaśuḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áhimāyāḥ ← áhimāya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánāgasaḥ ← ánāgas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jyotī́rathāḥ ← jyotī́ratha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+varṣmā́ṇam ← varṣmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vasate ← √vas- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +191,4 @@ Die nimmer schlummernd Männer schaun, die Götter sind zu hohem ew'gen Dasein n
 
 -ru-
 </details>
+

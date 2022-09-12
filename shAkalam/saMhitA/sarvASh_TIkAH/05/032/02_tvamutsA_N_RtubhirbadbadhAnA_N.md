@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+badbadhānā́n ← √bādhⁱ- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:MED}
+
+r̥túbhiḥ ← r̥tú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+útsān ← útsa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áraṁhaḥ ← √raṁh- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+párvatasya ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+práyutam ← √yu- 2 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+śáyānam ← √śī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ugra ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+adhatthāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:MED}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jaghanvā́n ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+táviṣīm ← táviṣī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Du liessest frei, o Blitzer, die zu Zeiten gesperrten Brunnen, sie des Berges Eu
 А когда самого змея, лежавшего беззаботно, о грозный,  
 Ты убил, о Индра, (тут) ты приложил (свою) силу.
 </details>
+

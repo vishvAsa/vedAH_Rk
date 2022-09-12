@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bándhanāsaḥ ← bándhana- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ripáve ← ripú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dyumántaḥ ← dyumánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+pāyávaḥ ← pāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saniṣanta ← √sanⁱ- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ánr̥tasya ← ánr̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dhāsím ← dhāsí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+pānti ← √pā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́sataḥ ← ā́sant- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+santi ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vácasaḥ ← vácas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Welch' Schatz, o Agni, beut sich deinem Feinde? welch' hehre Hüter werden ihm s
 Кто те, о Агни, что охраняют источник беззакония?  
 Кто те, что пестуют неправедные речи?
 </details>
+

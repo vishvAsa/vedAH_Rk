@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+supravācanám ← supravācaná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yachata ← √yam- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ādityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+chardíḥ ← chardís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nr̥pā́yyam ← nr̥pā́yya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+subháram ← subhára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+páśve ← paśú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tánayāya ← tánaya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tokā́ya ← toká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+samidhānám ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ O Götter reicht uns solchen preisenswerthen Schutz, Aditja's ihr, der kräftig 
 Чтобы жили скот, дети и внуки!  
 К Агни зажженному мы обращаемся за благом.
 </details>
+

@@ -15,13 +15,32 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+tū́rvaye ← tū́rvi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vāvr̥dhānā́ya ← √vr̥dh- (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:MED}
+
+pávante ← √pū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sahásrapājasaḥ ← sahásrapājas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,3 +126,4 @@ Die Somatränke rieseln hell zur Kraft dem grossen mächtigen, Mit tausendfachem
 
 -ru-
 </details>
+

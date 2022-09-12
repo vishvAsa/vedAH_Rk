@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śaraṇé ← śaraṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+ayaṁsta ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́hutaḥ ← √hu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+samidhānáḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+śukráḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +174,4 @@ Schon strahlte dieser Sonnengott sein Licht zum Himmels-Zelt empor, Wie Agni hel
 Ввысь (свой) свет под защитой неба,  
 Сверкающий, как Агни, когда он зажжен (и) полит (маслом).
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+viddhí ← √vid- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+nr̥pate ← nr̥páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vájrabāhuḥ ← vájrabāhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+maghónaḥ ← maghávan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rákṣa ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sūrī́n ← sūrí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+abhíṣṭau ← abhíṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+anehásaḥ ← anehás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +214,4 @@ Und du, o Indra, verhilf uns zum Besitze grossen Gutes, o Männerherr, der du de
 
 -ru-
 </details>
+

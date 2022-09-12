@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śundhyúvam ← śundhyú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vimadā́ya ← vimadá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ní ← ní (invariable)  
+{}
+
+purumitrásya ← purumitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ūhathuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+yóṣaṇām ← yóṣaṇā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+agachatam ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vadhrimatyā́ḥ ← vadhrimatī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+cakrathuḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+púraṁdhaye ← púraṁdhi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+súṣutim ← súṣuti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Auf eurem Wagen fuhret ihr dem Vimada als Gattin zu des Purumitra schmucke Maid;
 Вы отправились на зов Вадхримати,  
 Вы создали удачное зачатие для Пурамдхи.
 </details>
+

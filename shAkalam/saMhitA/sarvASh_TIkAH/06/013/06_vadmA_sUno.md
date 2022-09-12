@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vadmā́ ← vadmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víhāyāḥ ← víhāyas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tánayam ← tánaya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tokám ← toká- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vājí ← vājín- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+aśyām ← √naś- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+pūrtím ← pūrtí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víśvābhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+mádema ← √mad- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+śatáhimāḥ ← śatáhima- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvī́rāḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +238,4 @@ Als kräft'ger Rufer schenk, o Sohn der Kraft uns, o Agni, Kinder, Enkel, reich 
 Пусть достигну я с помощью всех песен полноты (даров)!  
 Пусть мы ликуем, живя сто зим, имея прекрасных мужей!
 </details>
+

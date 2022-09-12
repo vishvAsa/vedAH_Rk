@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bandhveṣé ← bandhveṣá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vócanta ← √vac- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pŕ̥śnim ← pŕ̥śni- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vocanta ← √vac- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+ádha ← ádha (invariable)  
+{}
+
+iṣmíṇam ← iṣmín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rudrám ← rudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śíkvasaḥ ← śíkvas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vocanta ← √vac- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +217,4 @@ Die, als ich nach der Sippschaft frug, als Mutter nannten Priçni mir, als Vater
 Затем отцом они провозгласили  
 Рудру, пускающего стрелы, (эти) искусные.
 </details>
+

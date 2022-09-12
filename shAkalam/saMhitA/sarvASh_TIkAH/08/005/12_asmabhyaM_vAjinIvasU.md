@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asmábhyam ← ahám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+vājinīvasū ← vājínīvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+maghávadbhyaḥ ← maghávan- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sapráthaḥ ← sapráthas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádābhyam ← ádābhya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+chardíḥ ← chardís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yantam ← √yam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +137,4 @@ Uns und den Opferherrn verleiht, o güterreiche, euren Schutz, Den weiten, unver
 И (нашим) щедрым покровителям,  
 Даруйте широкую защиту, безобманную!
 </details>
+

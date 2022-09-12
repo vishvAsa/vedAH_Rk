@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+áruhan ← √ruh- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+venā́ḥ ← vená- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́sīnam ← √ās- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+haryatásya ← haryatá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pr̥ṣṭhé ← pr̥ṣṭhá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+avocat ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+hr̥dé ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+ácikradan ← √krand- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śíśumantaḥ ← śíśumant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +243,4 @@ Wenn mich bestieg des heil'gen Werks Verlangen, der einsam auf des Himmels Höh'
 Рассудок ответил моему сердцу:  
 Кричали друзья (мои) вместе с детьми.
 </details>
+

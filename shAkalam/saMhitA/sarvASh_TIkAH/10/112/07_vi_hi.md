@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jánāsaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+purudhā́ ← purudhā́ (invariable)  
+{}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+hitáprayasaḥ ← hitáprayas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hváyante ← √hvā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+mádhumattamāni ← mádhumattama- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+bhuvan ← √bhū- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+harya ← √hr̥- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+imā́ ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+téṣu ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ An vielen Orten rufen zwar die Menschen, Held Indra, dich zum Mahl, das sie bere
 Наши выжимания пусть будут  
 Самыми сладкими для тебя! Радуйся им!
 </details>
+

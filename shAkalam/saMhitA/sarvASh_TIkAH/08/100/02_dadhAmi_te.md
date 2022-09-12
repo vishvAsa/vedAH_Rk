@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bhakṣám ← bhakṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dádhāmi ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+mádhunaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+bhāgáḥ ← bhāgá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hitáḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ásaḥ ← √as- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+dakṣiṇatáḥ ← dakṣiṇatáḥ (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jaṅghanāva ← √han- (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +217,7 @@ Then we two will keep smiting obstacles in abundance.”
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 As I argue in the published introduction, the heavy emphasis on Indra’s designating a portion of soma at the beginning of the sacrifice for “you,” the speaker of vs. 1, points strongly at Vāyu as this speaker, rather than Viṣṇu, as Geldner suggests.
@@ -187,3 +251,4 @@ Ich schenke dir zuerst den Trank des Methes, dein Antheil sei gesetzt, gebraut d
 И если ты хочешь стать моим другом справа,  
 То мы разобьем множество врагов.
 </details>
+

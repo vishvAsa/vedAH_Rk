@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásūta ← √sū- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+jyā́yān ← jyā́yaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pū́rvaḥ ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+santi ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śurúdhaḥ ← śurúdh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+dívaḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+napātā ← nápat- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vidáthasya ← vidátha- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dadhāthe ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pradívaḥ ← pradív- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+rājānā ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +216,4 @@ Geboren ward der erste Held, der ältere [Varuna]; hier sind seine vielen Stärk
 О двое отпрысков неба, два царя, силой молитв  
 Во время обряда от века вы пользуетесь властью.
 </details>
+

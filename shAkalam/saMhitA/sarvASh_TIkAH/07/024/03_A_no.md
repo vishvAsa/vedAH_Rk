@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+r̥jīṣin ← r̥jīṣín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+somapéyāya ← somapéya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+madryàñcam ← madryàñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+váhantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ácha ← ácha (invariable)  
+{}
+
+āṅgūṣám ← āṅgūṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tavásam ← tavás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Vom Himmel her und von der Erde komme auf diese Streu zum Somatrunke eilend; Zu 
 Пусть привезут тебя в мою сторону буланые кони  
 На похвалу, (тебя,) сильного, для опьянения!
 </details>
+

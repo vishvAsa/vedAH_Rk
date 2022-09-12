@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dákṣam ← dákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sácante ← √sac- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+havíṣmantaḥ ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+saniṣyántaḥ ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:FUT, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Den Heil'gen, dessen Kräfte stärkt das Weltenpaar, das Opferwerk, Ihn flehn di
 (Люди) с жертвенными возлияниями призывают его,  
 (Они,) стремящиеся добыть (награду,) его – для поддержки.
 </details>
+

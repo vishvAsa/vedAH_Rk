@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+sáhūtī ← sáhūti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dānáḥ ← dāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yamate ← √yam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+ánūnā ← ánūna- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dákṣiṇā ← dákṣiṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pīpā́ya ← √pī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+abhívītā ← √vī- 1 (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+nŕ̥bhyaḥ ← nár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sákhibhyaḥ ← sákhi- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ Stets schenket Indra bei vereintem Anruf, der reiche Spender, Labung zum Genuss 
 (Тот,) чья совершенная отплата переполнена добром,  
 Желанная для мужей, для товарищей.
 </details>
+

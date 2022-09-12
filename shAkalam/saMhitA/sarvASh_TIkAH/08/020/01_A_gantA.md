@@ -15,13 +15,50 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ganta ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+riṣaṇyata ← √riṣaṇy- (root)  
+{number:PL, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+prásthāvānaḥ ← prásthāvan- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+samanyavaḥ ← sámanyu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sthāta ← √sthā- (root)  
+{number:PL, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+namayiṣṇavaḥ ← namayiṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sthirā́ ← sthirá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +164,4 @@ O kommt herbei und säumet nicht, o gleichgesinnte, brechet auf, nicht bleibet f
 О выезжающие (боги), не останьтесь вдалеке, о (вы,) одинаково яростные,  
 Сгибающие даже (самые) твердые (вещи)!
 </details>
+

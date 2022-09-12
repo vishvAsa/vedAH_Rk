@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśmāsyam ← áśmāsya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avatám ← avatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+átr̥ṇat ← √tr̥d- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mádhudhāram ← mádhudhāra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+papire ← √pā- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+svardŕ̥śaḥ ← svardŕ̥ś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bahú ← bahú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sākám ← sākám (invariable)  
+{}
+
+sisicuḥ ← √sic- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+udríṇam ← udrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+útsam ← útsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Den Fels-verschlossenen Brunnen, den Brihaspati mit Kraft erschloss, den ströme
 К нему ведь припадали все, кто видит солнце.  
 Обильно черпали они (все) вместе из полноводного источника.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ánuṣṭutiḥ ← ánuṣṭuti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+cakr̥ṣé ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+paúṁsyā ← paúṁsya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+āvaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+cakrásya ← cakrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vartaním ← vartaní- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +162,4 @@ Und dies ist nun dein hohes Lob, du führtest diese Thaten aus, Des Rades Umlauf
 Ты совершил эти мужественные деяния.  
 Ты помог колесу катиться.
 </details>
+

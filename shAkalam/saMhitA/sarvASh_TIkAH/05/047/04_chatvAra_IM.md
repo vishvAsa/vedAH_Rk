@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bibhrati ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+catvā́raḥ ← catúr- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+kṣemayántaḥ ← √kṣemay- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+caráse ← √carⁱ- (root)  
+{case:DAT, number:SG}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhāpayante ← √dhā- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+paramā́ḥ ← paramá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tridhā́tavaḥ ← tridhā́tu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ántān ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+sadyás ← sadyás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +205,7 @@ Still, Agni seems a better, though not perfect, candidate.
 Pāda d, with diváḥ … ántān# “the ends of heaven,” echoes 3d rájasaḥ … ántau# “the two ends of the airy realm,” and both contrast with the “endless” (anantā́saḥ) paths of 2cd. The dual in 3d points to a straight trajectory from one end to the other, reinforced by the verb ví cakrame ‘he strode’ (though it’s not in the same clause with the ends): the sun’s journey across the sky from one horizon to the other. The plural in 4d is more diffuse, as is the verb caranti pári “they wander/circle around.” The phrase divó ánta- [pl.] “the ends of heaven” is quite common, but I am not sure what the plural conveys -- that there are numerous divisions of heaven, each with its own boundaries? that heaven is effectively end-less (like the anantá- paths of 2) because there are always more ends? In any case the sun’s purposeful trip from one place to another in vs. 3 seems contrasted with the more comprehensive travels of the subject of caranti in 4d. Is that subject the threefold cows of 4c? If so, many of the possible triads suggested above are eliminated. Save for the ‘threefold’ (and, I guess, the cows), Agni’s plumes of smoke would make the most sense in d. But I confess bafflement.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/047/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/047/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 Note the parallel openings of 4a catvā́ra īm bibhrati … and 5c dvé yád īm bibhṛtáḥ … But this parallelism gains complexity from the fact that √bhṛ is used in two different senses: in 4 it means ‘carry’, but in 6 it refers to the bearing of children.
@@ -185,3 +237,4 @@ Vier tragen ihn im Arm, ihm Rast gewährend, zehn säugen auf das Kind, bis dass
 Трояки высшие его коровы,  
 За один день обходят они границы неба.
 </details>
+

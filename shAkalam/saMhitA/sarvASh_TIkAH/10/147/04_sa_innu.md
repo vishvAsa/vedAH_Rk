@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cākanat ← √kanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+súbhr̥tasya ← súbhr̥ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cíketati ← √cit- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+mádam ← máda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ráṁhyam ← ráṁhya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dāśvàdhvaraḥ ← dāśvàdhvara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā́vr̥dhaḥ ← tvā́vr̥dha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bharate ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+dhánā ← dhána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Der freue nun des schönerlangten Reichthums sich, der dir den Rauschtrank zu be
 (Кто) подкреплен тобой, о щедрый, (и) почитает (тебя) обрядами,  
 Тот быстро приносит добычу (и) награды со (своими) мужами.
 </details>
+

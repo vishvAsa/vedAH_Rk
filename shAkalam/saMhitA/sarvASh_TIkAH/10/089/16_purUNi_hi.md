@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+gr̥ṇatā́m ← √gr̥̄- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+mándan ← √mand- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ŕ̥ṣīṇām ← ŕ̥ṣi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+āghóṣan ← √ghuṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+sáhūtim ← sáhūti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+árcataḥ ← √r̥c- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+arvā́ṅ ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +205,4 @@ Wenn dich auch vieler Menschen Tränke locken; Gebete auch der Sänger, die dich
 Прислушиваясь с удовольствием к этому общему призыву,  
 Минуя всех воспевающих, приходи в наши края!
 </details>
+

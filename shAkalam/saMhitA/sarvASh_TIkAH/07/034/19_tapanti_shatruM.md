@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+bhū́ma ← bhū́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śátrum ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tápanti ← √tap- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ámebhiḥ ← áma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+mahā́senāsaḥ ← mahā́sena- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +143,4 @@ Den Feind erhitzen, – wie Glut die Erde, die Heer umscharten – mit ihren Sch
 Они жгут врага, словно солнце землю,  
 С большим войском, со своими вспышками ярости.
 </details>
+

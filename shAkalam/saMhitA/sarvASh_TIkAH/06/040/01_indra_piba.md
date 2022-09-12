@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+muca ← √muc- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sákhāyā ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sya ← √sā- ~ si- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gaṇé ← gaṇá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+gāya ← √gā(y)- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+niṣádya ← √sad- (root)  
+{non-finite:CVB}
+
+prá ← prá (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajñā́ya ← yajñá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +254,4 @@ Trink, Indra, dir ist Saft gepresst zum Rausche, spann ab die Füchse, löse die
 И включись в пение, усевшись среди толпы (певцов),  
 А также дай силу певцу для жертвоприношения!
 </details>
+

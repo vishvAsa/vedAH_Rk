@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ī́ḷānayā ← √īḍ- ~ √īḷ- (root)  
+{case:INS, gender:F, number:SG, tense:PRS, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+duvasyúvā ← duvasyú- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cikít ← cikít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vibhāno ← vibhānu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +163,4 @@ Die Götter, fahre kundig her, o heller Agni, mit dem Lied, Das sie verehrt und 
 Привези нам богов, о Агни,  
 Как понимающий (в этом), о ярко-пламенный!
 </details>
+

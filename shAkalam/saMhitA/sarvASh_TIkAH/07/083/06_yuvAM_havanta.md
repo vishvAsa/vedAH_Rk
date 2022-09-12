@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ājíṣu ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+havante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ubháyāsaḥ ← ubháya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+váruṇam ← váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+daśábhiḥ ← dáśa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+níbādhitam ← √bādhⁱ- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+rā́jabhiḥ ← rā́jan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+ā́vatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sahá ← sahá (invariable)  
+{}
+
+sudā́sam ← sudā́s- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tŕ̥tsubhiḥ ← tŕ̥tsu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Euch riefen beide Heere in den Kämpfen an um Sieg und Beute, Indra und den Varu
 Поскольку вы помогли осажденному десятью  
 Царями Судасу вместе с тритсу.
 </details>
+

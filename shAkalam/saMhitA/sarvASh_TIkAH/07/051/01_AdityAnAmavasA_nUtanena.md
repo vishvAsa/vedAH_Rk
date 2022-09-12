@@ -16,14 +16,54 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ādityā́nām ← ādityá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nū́tanena ← nū́tana- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sakṣīmáhi ← √sac- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+śáṁtamena ← śáṁtama- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śármaṇā ← śárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+adititvé ← adititvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+anāgāstvé ← anāgāstvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+turā́saḥ ← turá- 1 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dadhatu ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+śróṣamāṇāḥ ← √śruṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +172,4 @@ Wir möchten theilhaft sein der neusten Hülfe, des segensreichsten Schutzes der
 Пусть сильные (боги) поместят эту жертву  
 В безгрешность, в несвязность (с виной), услышав (их)!
 </details>
+

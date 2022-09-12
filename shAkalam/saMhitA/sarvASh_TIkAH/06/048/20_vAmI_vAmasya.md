@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhūtayaḥ ← dhū́ti- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vāmásya ← vāmá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vāmī́ ← vāmá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+práṇītiḥ ← práṇīti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sūnŕ̥tā ← sūnŕ̥ta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mártyasya ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+ījānásya ← √yaj- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+
+prayajyavaḥ ← práyajyu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +174,4 @@ Des lieben liebe Führung sei uns wonnig, ihr Erschütterer, sei Gott er oder St
 Бога ли, о Маруты, или смертного  
 Жертвователя, о получающие жертву сначала,
 </details>
+

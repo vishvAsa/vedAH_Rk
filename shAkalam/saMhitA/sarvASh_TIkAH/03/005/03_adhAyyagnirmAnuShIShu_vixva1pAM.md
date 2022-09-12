@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́nuṣīṣu ← mā́nuṣa- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+gárbhaḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sā́dhan ← √sādh- ~ sidh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+haryatáḥ ← haryatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sā́nu ← sā́nu- ~ snú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yajatáḥ ← yajatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ábhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+hávyaḥ ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+matīnā́m ← matí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+u ← u (invariable)  
+{}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +232,4 @@ Gesetzt ist Agni in der Menschen Häuser, der Wasser Spross, der Freund nach Bra
 Желанный, достойный жертв, он взошел на вершину.  
 Вот стал вдохновенный достойным призывов молитв.
 </details>
+

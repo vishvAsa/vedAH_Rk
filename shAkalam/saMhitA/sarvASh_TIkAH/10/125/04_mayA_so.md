@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+atti ← √ad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+máyā ← ahám (pronoun)  
+{case:INS, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vipáśyati ← √paś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+prā́ṇiti ← √anⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śr̥ṇóti ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+uktám ← √vac- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+amantávaḥ ← amantú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kṣiyanti ← √kṣi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+śraddhivám ← śraddhivá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śrudhí ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+śruta ← √śru- (root)  
+{case:VOC, gender:M, number:SG, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vadāmi ← √vadⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +240,4 @@ Ich bin's, durch die man Speise isst und athmet, durch die man sieht und das ges
 Не отдавая себе отчета, они живут мною,  
 Внимай, о прославленный, глаголю тебе достойное веры!
 </details>
+

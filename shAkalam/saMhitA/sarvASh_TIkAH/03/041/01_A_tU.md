@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+madryàk ← madryàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tú ← tú (invariable)  
+{}
+
+huvānáḥ ← √hū- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+háribhyām ← hári- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ O komm doch, Indra, her zu mir, gerufen zu dem Somatrunk, Mit deinen Füchsen, S
 Когда тебя зовут на питье сомы,  
 На паре буланых коней, о повелитель давильных камней!
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ratheṣṭhā́m ← ratheṣṭhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+váhantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rathayújaḥ ← rathayúj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aryám ← aryá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+sávanāni ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tirás ← tirás (invariable)  
+{}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+anyéṣām ← anyá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śatakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +182,4 @@ Dich, Wagenlenker, fahre her die angeschirrte Füchseschar, Vorüber an den Soma
 Мимо чужого (властелина), мимо выжимании (сомы),  
 Которые принадлежат другим, о убийца Вритры, о стоумный!
 </details>
+

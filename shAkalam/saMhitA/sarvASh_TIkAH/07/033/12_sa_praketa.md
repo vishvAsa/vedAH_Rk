@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+praketáḥ ← praketá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pravidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ubháyasya ← ubháya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sádānaḥ ← sádāna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásradānaḥ ← sahásradāna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+paridhím ← paridhí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tatám ← √tan- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+vayiṣyán ← √u- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:FUT, voice:ACT}
+
+yaména ← yamá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+apsarásaḥ ← apsarás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jajñe ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +197,7 @@ Klein (DGRV II.169) follows Geldner’s interpr. of sádānaḥ without mentioni
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/033/10-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/033/10-13.md">
 <details open><summary><h2>10-13 ...{Loading}...</h2></summary>
 
 Oldenberg discusses Vasiṣṭha’s two births and suggests that they are presented in reverse chronological order. The birth depicted in vs. 10 is the second birth, while 11-13 treat the first. In the first birth Mitra and Varuṇa emit semen at a Sattra, which falls into a pot and ultimately gives rise to the seer Agastya. But a drop of this semen is taken into a lotus, somehow comes to the Apsaras Urvaśī, who somehow conceives and gives birth to Vasiṣṭha “from mind.” In the second birth the wondrously conceived divine being of the 1st birth is received into a human Gotra.
@@ -182,3 +231,4 @@ Er, der kundige Erleuchter beider Welten, der tausend Gaben austheilt und reich 
 Васиштха был рожден от апсарас,  
 Чтобы ткать по раме, натянутой Ямой.
 </details>
+

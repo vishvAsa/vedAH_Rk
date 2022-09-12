@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+háryaśvāya ← háryaśva- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kútsāḥ ← kútsa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śūṣám ← śūṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devájūtam ← devájūta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iyānā́ḥ ← √yā- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+suhánā ← suhána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥trā́ ← vr̥trá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sanuyāma ← √sanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+tárutrāḥ ← tárutra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Um Stärkung flehn den Indra diese Kutsa's, um gotterregte Kraft den Füchselenk
 Сделай, о герой, врагов сразу легкоубиваемыми!  
 Победоносные, мы хотели бы завоевать награду!
 </details>
+

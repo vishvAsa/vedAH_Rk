@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhā́yasā ← dhā́yas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+kṣódasā ← kṣódas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sasre ← √sr̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ā́yasī ← āyasá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dharúṇam ← dharúṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pū́ḥ ← púr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+prabā́badhānā ← √bādhⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+rathyā̀ ← rathī́- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+anyā́ḥ ← anyá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+síndhuḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Mit nahrungsreichen Wogen strömte diese Sarasvati, die eh'rne Burg, die Feste, 
 Река мчится, словно по проезжей дороге,  
 Мощно обгоняя (своим) напором все другие воды.
 </details>
+

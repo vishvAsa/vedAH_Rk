@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+enyàḥ ← éta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pátanti ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánapasphuraḥ ← ánapasphur- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sudúghāḥ ← sudúgha- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+apasphúram ← apasphúr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥bhāyata ← √gr̥bhⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pā́tave ← √pā- 2 (root)  
+{case:DAT, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Wenn kommt der bunten Kühe Schar, die ohne Sträuben Milch ergiesst, So fasst d
 
 -ru-
 </details>
+

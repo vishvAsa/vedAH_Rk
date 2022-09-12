@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kárasi ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+śr̥tám ← √śr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+dattāt ← √dā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+pitŕ̥bhyaḥ ← pitár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ásunītim ← ásunīti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+etā́m ← eṣá (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+gáchāti ← √gam- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+bhavāti ← √bhū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vaśanī́ḥ ← vaśanī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Wenn du ihn gar gemacht, o Wesenkenner, dann sollst du ihn den Vätern übergebe
 Когда отправится он в этот путь, уводящий от жизни,  
 То станет он подвластен богам.
 </details>
+

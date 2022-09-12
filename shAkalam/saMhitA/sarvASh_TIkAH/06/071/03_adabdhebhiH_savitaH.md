@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádabdhebhiḥ ← ádabdha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pāyúbhiḥ ← pāyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+gáyam ← gáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+śivébhiḥ ← śivá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+híraṇyajihvaḥ ← híraṇyajihva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+návyase ← návyas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+agháśaṁsaḥ ← agháśaṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īśata ← √īś- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+mā́kis ← mā́kis (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rákṣa ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +183,6 @@ genre M
 किञ्च - नः अस्माकं कश्चिदप्यघशंसः अघे शंसनमभिलाषो यस्य तादृशो माकिरीशिता मा ईशिष्ट । माकिरिति छान्दस उपजनः; निपातान्तरं वा, यथाह गणकारः - 'यत्र माकिर्नकिर्नभ' इति । ईष्टेर्लङि विकरणव्यत्ययेन च्लेरङादेशः । 'अनुदात्ते च कुधपरे' इति संहितायां प्रकृतिभावः । 'द्व्यचोतस्तिङः' इति रक्षेत्यस्य दीर्घः । इत्थं प्रार्थयमानानामस्माकं न कश्चिदप्यनिष्टकृत्स्यादित्यर्थः ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -176,7 +230,6 @@ Golden-tongued do thou protect us for new prosperity;
 May no plotter of evil overpower us.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Mit deinen unfehlbaren, freundlichen Schützern schütze heute unser Haus, Savitri! Du, der Goldzungige, schütze uns zu erneuter Wohlfahrt! Kein Lästerer soll über uns Macht haben.
@@ -194,3 +247,4 @@ Mit unbethörter heilbegabter Hüterschar, o Savitar, beschütze heute unser Hau
 О златоязыкий, храни (нас) для новой удачи!  
 Да не овладеет нами никакой злоречивец!
 </details>
+

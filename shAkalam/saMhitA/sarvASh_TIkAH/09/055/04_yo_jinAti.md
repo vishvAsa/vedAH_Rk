@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+jinā́ti ← √jyā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jī́yate ← √jyā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhī́tya ← √i- 1 (root)  
+{non-finite:CVB}
+
+hánti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śátrum ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sahasrajit ← sahasrajít- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +162,4 @@ Der stets du siegst, nie unterliegst, den Feind erreichst und ihn erschlägst, V
 
 -ru-
 </details>
+

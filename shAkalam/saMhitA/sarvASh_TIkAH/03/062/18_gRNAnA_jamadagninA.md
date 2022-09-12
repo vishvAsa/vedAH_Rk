@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+gr̥ṇānā́ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+jamádagninā ← jamádagni- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sīdatam ← √sad- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pātám ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+r̥tāvr̥dhā ← r̥tāvŕ̥dh- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +138,4 @@ Von Dschamadagni hochgelobt nehmt Platz ihr auf des Opfers Schooss, Den Soma tri
 Садитесь в лоно закона!  
 Пейте сому вдвоем, о укрепляющие закон!
 </details>
+

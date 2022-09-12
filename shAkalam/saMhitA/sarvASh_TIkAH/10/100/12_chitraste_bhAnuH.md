@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhiṣṭíḥ ← abhiṣṭí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhānúḥ ← bhānú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+citráḥ ← citrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kratuprā́ḥ ← kratuprā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ádhr̥ṣṭāḥ ← ádhr̥ṣṭa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jaraṇiprā́ḥ ← jaraṇiprā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+paśváḥ ← paśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rájiṣṭhayā ← rájiṣṭha- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+rájyā ← ráji- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+duvasyúḥ ← duvasyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+tū́tūrṣati ← √tūr(v)- ~ tur- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Hell ist dein Glanz und Kraft verleihend dein Beistand; ohnmächtig sind die mut
 
 -ru-
 </details>
+

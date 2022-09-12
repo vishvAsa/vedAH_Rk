@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asunvā́m ← asunvá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+saṁsádam ← saṁsád- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+anāśayaḥ ← √naś- 2 (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+víṣūcīm ← víṣvañc- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bhávan ← √bhū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+somapā́ḥ ← somapā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +154,4 @@ Die somalose Rotte triebst du auseinander, Indra, rings, Und schlugst, o Somatri
 Ты разогнал в разные стороны,  
 Одерживая верх как пьющий сому.
 </details>
+

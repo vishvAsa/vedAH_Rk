@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhúvanā ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jajā́na ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+abhicákṣāṇaḥ ← √cakṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sómāpūṣaṇau ← somāpūṣán- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+jayema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+pŕ̥tanāḥ ← pŕ̥tanā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yuvā́bhyām ← tvám (pronoun)  
+{case:INS, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Der eine war's, der alle Wesen zeugte, der andre wandert, alles rings beschauend
 О Сома-Пушан, помогите моей поэтической мысли!  
 Да победим мы во всех сражениях вместе с вами!
 </details>
+

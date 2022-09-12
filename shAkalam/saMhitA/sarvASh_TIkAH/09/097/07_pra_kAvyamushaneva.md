@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bruvāṇáḥ ← √brū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+kā́vyam ← kā́vya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+uśánā ← uśánā- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+jánima ← jániman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vivakti ← √vañc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+máhivrataḥ ← máhivrata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pāvakáḥ ← pāvaká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúcibandhuḥ ← śúcibandhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+padā́ ← padá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rébhan ← √ribh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+varāháḥ ← varāhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +210,7 @@ However, it is also possible and, I now think, desirable to interpr. it as an in
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 This tṛca is attributed to Vṛṣagaṇa Vāsiṣṭha, whose given name was obviously extracted from vs. 8. All three vss. contain wild (or semi-wild) animals: a boar in 7d, geese in 8a, and a “sharp-horned” (tigmáśṛṅga-) one in 9c, a descriptor of vṛṣabhá-s generally.
@@ -190,3 +242,4 @@ Wie Uçana erhabne Weisheit sprechend, verkündet er, der Gott, der Götter Ursp
 С великими заветами, с чистым родством, очищающий,  
 Кабан, распевая, отправляется на (свои) места.
 </details>
+

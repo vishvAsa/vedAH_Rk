@@ -14,12 +14,40 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+pínvanta ← √pinv- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+pr̥thvī́ḥ ← pr̥thú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+máṁsante ← √man- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+śū́rāḥ ← śū́ra- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ugrā́ḥ ← ugrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vr̥tréṣu ← vr̥trá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ Dem Indra schwollen – die breiten Ströme; bei Feinden sahn ihn – die starke
 Это воды набухли для него, широкие:  
 В битвах с врагами они считаются отважными, грозными.
 </details>
+

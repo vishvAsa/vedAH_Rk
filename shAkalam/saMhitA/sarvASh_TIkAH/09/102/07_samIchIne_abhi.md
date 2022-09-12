@@ -15,14 +15,48 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+samīcīné ← samīcīná- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mātárā ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yahvī́ ← yahvī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+tanvānā́ḥ ← √tan- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+añjaté ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +167,4 @@ Und vom vereinten Weltenpaar den regen Müttern heil'gen Werks, Die stets des Op
 Две юные матери вселенского закона,  
 Протягивая жертву по порядку, когда (его) умащают.
 </details>
+

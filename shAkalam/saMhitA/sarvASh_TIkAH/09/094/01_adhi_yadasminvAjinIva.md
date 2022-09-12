@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+asmin ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+śúbhaḥ ← śúbh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vājíni ← vājín- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+spárdhante ← √spr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sū́rye ← sū́rya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kavīyán ← √kavīy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vr̥ṇānáḥ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+paśuvárdhanāya ← paśuvárdhana- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Gebete eifern um ihn wie ums Streitross die schmückenden, wie Menschen um die S
 Он очищается, выбирая воды, действуя как поэт,  
 (Делая чистым) произведение, словно загон для разведения скота.
 </details>
+

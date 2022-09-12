@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+áraṇyāni ← araṇyāní- ~ araṇyānī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+áraṇyāni ← araṇyāní- ~ araṇyānī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+asaú ← asaú (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+náśyasi ← √naś- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+grā́mam ← grā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pr̥chasi ← √praś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bhī́ḥ ← bhī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vindati ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +197,4 @@ O Waldesfrau, o Waldesfrau, es scheint, dass du dich ganz verirrst; Was frägst 
 Как же ты не спросишь про деревню?  
 Не нападает ли на тебя что-то похожее на страх?
 </details>
+

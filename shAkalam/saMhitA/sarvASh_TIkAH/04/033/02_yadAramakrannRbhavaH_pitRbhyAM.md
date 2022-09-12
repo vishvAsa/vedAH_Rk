@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ákran ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+áram ← áram (invariable)  
+{}
+
+pitŕ̥bhyām ← pitár- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+r̥bhávaḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+daṁsánābhiḥ ← daṁsánā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+páriviṣṭī ← páriviṣṭi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+veṣáṇā ← veṣáṇa- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+avahan ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dhī́rāsaḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+manā́yai ← manā́- 1 (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+puṣṭím ← puṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Als sie den Aeltern ihre Dienste thaten mit Wunderkraft die Ribhu's eifrig wirke
 Только тогда достигли они дружбы богов.  
 Умелые, они принесли процветание поэтическому искусству.
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+nirekám ← nireká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+dárṣi ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhr̥ṣatā́ ← √dhr̥ṣ- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dhr̥ṣṇo ← dhr̥ṣṇú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stávamānaḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +169,4 @@ Erschliesse du, o Indra, denn den Menschen liebes Eigenthum, Das bring', o kühn
 И приятное людям имущество –  
 Дерзко, о дерзкий! Принеси (его), восхваленный!
 </details>
+

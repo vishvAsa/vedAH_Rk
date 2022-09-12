@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+jāyā́ ← jāyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+maṁhase ← √maṁh- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+pátyau ← páti- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śéva ← śéva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+brávīmi ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+garbha ← gárbha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pájrāyāḥ ← pajrá- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+śr̥ṇuhí ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+cara ← √carⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+vā́ṇīṣu ← vā́ṇī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+anindyáḥ ← anindyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jāgr̥hi ← √gr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥jáne ← vr̥jána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +233,4 @@ Wie beim Gemahl die Gattin bist du froh, o lieblicher, o Sohn der feisten, höre
 Под музыку (голосов) упорно продвигайся вперед внутри (нас), чтобы мы жили!  
 Безупречный, бодрствуй в общине, о сома!
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+kadā́ ← kadā́ (invariable)  
+{}
+
+taugryáḥ ← taugryá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vidhat ← √vidh- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+jahitáḥ ← √hā- 2 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pátāt ← √pat- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+víbhiḥ ← ví- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Wann rief des Tugra Sohn euch an, ins Meer gestürzt, o Männer, dass Eur Wagen 
 Брошенный в море, о два мужа,  
 Чтобы ваша колесница прилетела на птицах?
 </details>
+

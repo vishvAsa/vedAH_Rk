@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dūrā́t ← dūrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+satī́ ← √as- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aruṇápsuḥ ← aruṇápsu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áśiśvitat ← √śvit- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+atanat ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhānúm ← bhānú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+viśvádhā ← viśvádhā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +159,4 @@ Da sie von ferne hier erschien und hell die rothe leuchtete, so strahlte weithin
 Как будто она находится здесь,  
 Повсюду она распространила (свой) блеск.
 </details>
+

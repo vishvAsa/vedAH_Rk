@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pradívaḥ ← pradív- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vídānāḥ ← √vid- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+r̥bhúḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víhāyāḥ ← víhāyas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣaparvā ← vŕ̥ṣaparvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+gr̥bhāya ← √gr̥bhⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+prayamyámānān ← √yam- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:PASS}
+
+sú ← sú (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vŕ̥ṣadhūtasya ← vŕ̥ṣadhūta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +217,4 @@ Dem Indra ist von je geweiht der Soma, durch den er kunstreich, gliederstark und
 Прими же их, когда их настойчиво предлагают!  
 О Индра, пей быка, которого полоскали быки!
 </details>
+

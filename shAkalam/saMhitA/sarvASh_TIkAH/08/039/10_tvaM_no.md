@@ -18,16 +18,74 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+āyúṣu ← āyú- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+pūrvya ← pūrvyá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+irajyasi ← √irajy- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+parisrútaḥ ← parisrút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+svásetavaḥ ← svásetu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Des Gutes waltest du allein, o Agni, bei uns Menschen hier Und bei den Göttern,
 Текут вокруг, имея собственные плотины.  
 Пусть лопнут все ничтожные другие!
 </details>
+

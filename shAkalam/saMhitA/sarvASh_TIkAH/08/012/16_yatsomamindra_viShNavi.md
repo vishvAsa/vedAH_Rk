@@ -15,14 +15,60 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víṣṇavi ← víṣṇu- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āptyé ← āptyá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+trité ← tritá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mándase ← √mand- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+marútsu ← marút- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+índubhiḥ ← índu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +182,4 @@ Ob du beim Vischnu, Indra, dich ob bei dem Trita Aptia, Bei Maruts dich des Soma
 Или же когда у Триты Аптьи,  
 Или когда у Марутов опьяняешься соками,
 </details>
+

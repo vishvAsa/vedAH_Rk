@@ -18,16 +18,83 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahatā́m ← mahā́nt- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mítra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+váruṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ādityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+druháḥ ← drúh- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+aghám ← aghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+naśat ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+rákṣatha ← √rakṣⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+anehásaḥ ← anehás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+suūtáyaḥ ← suūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +248,4 @@ Ihr grossen reichet grossen Schutz dem Frommen, Mitra-Varuna; Wen ihr Aditja's v
 Безошибочны ваши поддержки,  
 Хорошо поддерживают ваши поддержки.
 </details>
+

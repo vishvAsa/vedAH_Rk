@@ -16,14 +16,63 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átrim ← átri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bharádvājam ← bharádvāja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gáviṣṭhiram ← gáviṣṭhira- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āhavé ← āhavá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+āvat ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+káṇvam ← káṇva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+trasádasyum ← trasádasyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havate ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+puróhitaḥ ← puróhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥ḷīkā́ya ← mr̥ḷīká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+puróhitaḥ ← puróhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +191,4 @@ Dem Atri, Bharadvādscha und Gavischthira, dem Kanva, Trasadasju half er in der 
 Агни призывает Васиштха, поставленный впереди (обряда),  
 Для милости – поставленный впереди (обряда).
 </details>
+

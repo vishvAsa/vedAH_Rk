@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+r̥té ← r̥té (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vindate ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yudháḥ ← yúdh- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ádhvanaḥ ← ádhvan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sugébhiḥ ← sugá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárātayaḥ ← sárāti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sajóṣasaḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+trā́yante ← √trā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +185,4 @@ Auch ohne Kampf gewinnt er Gut, geht auf gebahnten Pfaden hin, Wen gleich an Hul
 (Тот,) кого Арьяман, Митра, Варуна, одинаково готовые дарить,  
 Охраняют в согласии.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cātáyasva ← √cat- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+dásyum ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+vadhéna ← vadhá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+kr̥ṇvānáḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+svā́yai ← svá- (pronoun)  
+{case:DAT, gender:F, number:SG}
+
+tanvè ← tanū́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+píparṣi ← √pr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+putra ← putrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+nr̥tama ← nŕ̥tama- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vā́je ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +241,4 @@ Mit deiner Keule treibe weg den Dämon, dem eignen Leibe frische Kraft verschaff
 Раз ты, о сын силы, выручаешь богов,  
 Сохрани нас, о самый мужественный Агни, для награды!
 </details>
+

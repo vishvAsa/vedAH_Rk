@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+práyasvān ← práyasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āditya ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śíkṣati ← √śak- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vraténa ← vratá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hanyate ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+jīyate ← √jyā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+tvótaḥ ← tvóta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ántitas ← ántitas (invariable)  
+{}
+
+aśnoti ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dūrā́t ← dūrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +251,4 @@ Der Mensch, o Mitra, sei vor allen glücklich, der dir, Aditja, dient nach deine
 Неистребим (и) непобедим поддерживаемый тобою,  
 Не настигнет его беда ни вблизи, ни издалека.
 </details>
+

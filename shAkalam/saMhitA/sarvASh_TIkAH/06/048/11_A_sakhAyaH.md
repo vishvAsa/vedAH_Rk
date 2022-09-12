@@ -15,13 +15,44 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+sabardúghām ← sabardúgha- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sakhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ajadhvam ← √aj- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+návyasā ← návyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánapasphurām ← ánapasphura- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sr̥jádhvam ← √sr̥j- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -100,7 +131,7 @@ On návyasā vácaḥ # see comm. ad VIII.39.2, I.26.2.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/11-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/11-13.md">
 <details open><summary><h2>11-13 ...{Loading}...</h2></summary>
 
 On these three vss., see published introduction.
@@ -131,3 +162,4 @@ Führt her die nektarmilchende, stromreiche, opferschmückende, Die Milchkuh, Fr
 Корову пригоните сюда с помощью новой речи,  
 Подпустите (теленка к ней,) не брыкающейся,
 </details>
+

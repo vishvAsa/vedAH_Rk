@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ī́ḷe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+svávasam ← svávas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cayat ← √ci- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prasattáḥ ← √sad- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ví ← ví (invariable)  
+{}
+
+bhare ← √bhr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+ráthaiḥ ← rátha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vājayádbhiḥ ← √vājay- 2 (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pradakṣiṇít ← pradakṣiṇít (invariable)  
+{}
+
+r̥dhyām ← √r̥dh- (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Den güt'gen Agni preis' ich mit Verehrung, hierher gesetzt vertheil er unser Op
 Я отправляюсь, словно на колесницах, стремящихся к добыче.  
 (С Агни) с правой стороны я хочу дать процветание хвале Марутов!
 </details>
+

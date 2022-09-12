@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aiṭṭa ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+upasthā́ya ← √sthā- (root)  
+{non-finite:CVB}
+
+abhí ← abhí (invariable)  
+{}
+
+apaśyat ← √paś- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tigmám ← tigmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+acarat ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+anyā́n ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+gŕ̥tsaḥ ← gŕ̥tsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prayāváyan ← √yu- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+cakre ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+mahā́ni ← mahá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+purudhápratīkaḥ ← purudhápratīka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +187,7 @@ Clever, he took care to keep away the others; of manifold countenances,  he perf
 It is not clear who the “others” (anyā́n) are whom he keeps away, but the medial pf. in the next pāda (cakre) implicitly claims that he did the great things (mahā́ni; cf. vīryā̀ṇi … mahā́ni in III.36.1cd) by himself, that is, without the help of others.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/048/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/048/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 I assume that purudhá-pratīka- in 3d refers to Indra’s shape-shifting powers; the cmpd seems to be “unpacked” in 4b “he made this body as he wished” (yathāvaśáṃ tanvàṃ cakra eṣáḥ).
@@ -170,3 +219,4 @@ Hineilend bat die Mutter er um Speise, den scharfen Soma sah er da, das Euter; V
 Ловкий, он бродил, отгоняя других.  
 Великие (дела) совершил многоликий.
 </details>
+

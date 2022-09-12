@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+devávītaye ← devávīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+arṣati ← √arṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ávyaḥ ← ávi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vā́rebhiḥ ← vā́ra- 1 (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+sāhvā́n ← √sah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ Zum Göttermahle strömet er, der Weise, durch die Wolle hin, Die Feinde alle b�
 Из овечьей шерсти для приглашения богов,  
 Превзойдя всех противников.
 </details>
+

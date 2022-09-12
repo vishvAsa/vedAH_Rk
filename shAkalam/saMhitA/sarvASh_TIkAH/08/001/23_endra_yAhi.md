@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mátsva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+citréṇa ← citrá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rā́dhasā ← rā́dhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prāsi ← √prā- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+sápītibhiḥ ← sápīti- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sáraḥ ← sáras- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+udáram ← udára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+sómebhiḥ ← sóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sphirám ← sphirá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ Komm her mit mannichfachem Schatz, o Indra, Gott, berausche dich; Du füllst den
 Вместе с сотрапезниками наполни живот  
 Соками сомы – большой, толстый (живот)!
 </details>
+

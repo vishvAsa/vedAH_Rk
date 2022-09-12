@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+dvimātā́ ← dvimātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+parástāt ← parástāt (invariable)  
+{}
+
+śayúḥ ← śayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abandhanáḥ ← abandhaná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vatsáḥ ← vatsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asuratvám ← asuratvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +231,4 @@ Dort ferne ruhend, hier in Zweiten Müttern, das eine Kalb, es wandert ungefesse
 Таковы заветы Митры, Варуны.  
 Велико могущество богов, единственно.
 </details>
+

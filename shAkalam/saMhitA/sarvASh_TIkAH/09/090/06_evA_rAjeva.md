@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ámena ← áma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+krátumān ← krátumant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+duritā́ ← duritá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ghánighnat ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sūktā́ya ← sūktá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vácase ← vácas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ So ströme hell gleich einem mächt'gen König, durch deinen Andrang alle Noth v
 О сок, дай силу жизни хорошо сказанной речи!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ándhaḥ ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sutám ← √su- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+súpūrṇam ← súpūrṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+udáram ← udára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánābhayin ← anābhayin- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rarimá ← √rā- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +150,4 @@ Trank ist dir gebraut, o guter, trink daran den Bauch recht voll dir, Dir ist er
 Пей, переполнив живот! –  
 Мы поднесли тебе, о бесстрашный.
 </details>
+

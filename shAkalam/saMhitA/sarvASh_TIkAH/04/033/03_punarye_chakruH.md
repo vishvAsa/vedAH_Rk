@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakrúḥ ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pitárā ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+púnar ← púnar (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+yúvānā ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+jaraṇā́ ← jaraṇá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sánā ← sána- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śáyānā ← √śī- (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:MED}
+
+yū́pā ← yū́pa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+índravantaḥ ← índravant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥bhúḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vā́jaḥ ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víbhvān ← víbhvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+avantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+mádhupsarasaḥ ← mádhupsaras- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Die wieder jung die alten Aeltern machten, als sie da lagen wie zwei morsche Pfe
 Эти Ваджа, Вибхван, Рибху, сопровождающие Индру,  
 Наслаждающиеся сладостью (сомы), да помогут нашей жертве!
 </details>
+

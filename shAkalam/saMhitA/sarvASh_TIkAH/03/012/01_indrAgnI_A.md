@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sutám ← √su- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+nábhaḥ ← nábhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váreṇyam ← váreṇya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+iṣitā́ ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+pātam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,8 +141,6 @@ genre M
 **धिया** बुद्ध्यास्मदीयया इषिता इषितौ अद्वेषितौ प्रार्थितौ युवां पिबतम् । 'सावेकाचः' इति धियो विभक्तिरुदात्ता । 'तीषसहलुभ' इतीडागमः । यद्वा - इषगतौ, धिया इषितौ प्राप्तौ ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -144,7 +176,6 @@ For our prayers to the pressed drink, the delightful fumes
 Drink ye of it, impelled by our prayer.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Indra und Agni! Kommet auf meine Lobreden zu dem ausgepreßten, zu dem vorzüglichen Gewölk. Trinket davon, durch die Dichtkunst angeregt!
@@ -161,3 +192,4 @@ Indrāgni kommt zu diesem Saft, durch Lieder zu dem schönen Duft, O trinkt ihn,
 (Привлеченные моими) песнями, к превосходной туче (сомы)!  
 Пейте его, возбужденные поэтическим искусством!
 </details>
+

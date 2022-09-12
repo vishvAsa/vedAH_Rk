@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ghr̥táhastā ← ghr̥táhasta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+íḷā ← íḷā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yéṣām ← yá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+ápi ← ápi (invariable)  
+{}
+
+niṣī́dati ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prātā́ ← √prā- (root)  
+{case:NOM, gender:F, number:SG, voice:PASS}
+
+druháḥ ← drúh- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+nidáḥ ← níd- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+sahasya ← sahasyà- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+trāyasva ← √trā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+dīrghaśrút ← dīrghaśrút- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yácha ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ In wessen Hause Ida, Butter in der Hand, sich reich gefüllet niederlässt, Den 
 Спаси тех (людей), о сильный, от обмана, от хулы!  
 Даруй нам (твою) защиту, прославленную далеко!
 </details>
+

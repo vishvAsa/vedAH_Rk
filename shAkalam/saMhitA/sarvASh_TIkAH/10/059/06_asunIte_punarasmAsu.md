@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asmā́su ← ahám (pronoun)  
+{case:LOC, number:PL}
+
+ásunīte ← ásunīti- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+bhógam ← bhóga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prāṇám ← prāṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+jyók ← jyók (invariable)  
+{}
+
+paśyema ← √paś- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uccárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ánumate ← ánumati- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+mr̥ḷáya ← √mr̥ḍ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Gib wieder uns das Auge, Asunīti, den Odem wieder, schenke uns Genuss hier; Der
 Пусть мы долго видим, как восходит солнце!  
 О Анумати, помилуй нас на счастье!
 </details>
+

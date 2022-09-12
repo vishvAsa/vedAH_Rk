@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+manāmahe ← √man- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+sūktaíḥ ← sūktá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sū́re ← sū́ra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+údite ← √i- 1 (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+óhate ← √uh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+rathyaḥ ← rathī́- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +187,4 @@ Bei Sonnenaufgang denken wir, an das, was heute euch erfreut, Mit Liedern, Mitra
 (То,) что одобряет Варуна, Митра, Арьяман.  
 Вы колесничие закона.
 </details>
+

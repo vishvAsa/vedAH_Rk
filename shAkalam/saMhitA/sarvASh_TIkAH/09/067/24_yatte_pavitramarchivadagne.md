@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+arcivát ← arcivánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+punīhi ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+brahmasavaíḥ ← brahmasavá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+punīhi ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +150,7 @@ This vs. has both physical and conceptual purifying instruments: the flame-sieve
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
 <details open><summary><h2>22-27 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these vss. are a self-contained purificatory spell, with all vss. ending with an act. impv. belonging to the pres. punā́ti: all 2nd sg. punīhi (naḥ) except 22c punātu (naḥ). The means of purification is, in the first instance, the filter (pavítra-), which of course literally means ‘instrument (-tra-) of purification’. 
@@ -149,3 +183,4 @@ Welch lichtes Läutrungsnetz du hast, mit dem, o Agni, läutre uns, Mit Andachts
 О Агни, ею очисть нас!  
 Побуждениями священных слов очисть нас!
 </details>
+

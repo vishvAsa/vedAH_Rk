@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+īrayasva ← √īr- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+pūṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śivátamām ← śivátama- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+bī́jam ← bī́ja- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+manuṣyā̀ḥ ← manuṣyà- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vápanti ← √vap- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yásyām ← yá- (pronoun)  
+{case:LOC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ūrū́ ← ūrú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+uśatī́ ← √vaś- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+viśráyāte ← √śri- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+prahárāma ← √hr̥- 3 (root)  
+{number:PL, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+śépam ← śépa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uśántaḥ ← √vaś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yásyām ← yá- (pronoun)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +200,4 @@ Schaffe uns, o Puschan, diese heilbringendste herbei, in die die Menschen ihren 
 Кто с желанием раздвигает для нас бедра,  
 В кого с желанием мы вводим уд.
 </details>
+

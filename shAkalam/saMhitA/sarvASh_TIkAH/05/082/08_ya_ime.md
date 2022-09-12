@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+áhanī ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+imé ← ayám (pronoun)  
+{case:ACC, gender:N, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:N, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áprayuchan ← áprayuchant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+éti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+purás ← purás (invariable)  
+{}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svādhī́ḥ ← svādhī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -98,7 +129,7 @@ and with good intentions: god Savitar.
 With regard to áprayuchan see disc. of áprāyu- ad V.80.3.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/082/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/082/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 There are no overt main clauses in these last two vss., whose vs.-init. rel.
@@ -131,3 +162,4 @@ Der diesen beiden geht voran, dem Tag, der Nacht, ohn' Unterlass, Voll Achtsamke
 Этих двух половин дня,  
 Бог Савитар с добрыми намерениями:
 </details>
+

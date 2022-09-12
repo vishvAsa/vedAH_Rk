@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ápasaḥ ← ápas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pári ← pári (invariable)  
+{}
+
+dhītáyaḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+pathyā̀ḥ ← pathyā̀- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ Indrāgni, vor dem Werke her ergehen die Gebete sich; Des Gottesdienstes Pfad' e
 Мысли удаляются  
 По пути закона.
 </details>
+

@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+aśvāvatī́m ← áśvāvant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+somāvatī́m ← somāvánt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+údojasam ← údojas- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ūrjáyantīm ← √ūrjay- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+avitsi ← √vid- 1 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sárvāḥ ← sárva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ariṣṭátātaye ← ariṣṭátāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+asmaí ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +149,4 @@ Das wäss'rige, das milchige, das nährende, das kräftige – Beisammen sind si
 Я нашел все (эти) растения,  
 Чтобы он был невредим!
 </details>
+

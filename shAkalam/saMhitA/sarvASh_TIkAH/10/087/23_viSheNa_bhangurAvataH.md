@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+bhaṅgurā́vataḥ ← bhaṅgurā́vant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+viṣéṇa ← viṣá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+daha ← √dah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sma ← sma (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tigména ← tigmá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+r̥ṣṭíbhiḥ ← r̥ṣṭí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tápuragrābhiḥ ← tápuragra- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +163,4 @@ Vertilge die verderblichen, durch Gift und Brand die Geisterschar, Mit flammensp
 О Агни, резким пламенем,  
 Копьями с раскаленными концами!
 </details>
+

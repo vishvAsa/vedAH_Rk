@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+karṇaśóbhanā ← karṇaśóbhana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhr̥ṣṇo ← dhr̥ṣṇú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+śr̥ṇviṣé ← √śru- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Und viele Ohrgehänge auch, o Kühner, bringe uns herbei; Denn als den guten rü
 
 -ru-
 </details>
+

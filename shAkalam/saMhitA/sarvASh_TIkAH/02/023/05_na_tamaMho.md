@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+duritám ← duritá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kútas ← kútas (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+árātayaḥ ← árāti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dvayāvínaḥ ← dvayāvín- (nominal stem)  
+{case:NOM, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+titiruḥ ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+asmāt ← ayám (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+bādhase ← √bādhⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+dhvarásaḥ ← dhvarás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+brahmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rákṣasi ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sugopā́ḥ ← sugopā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +236,4 @@ Den trifft nicht Noth noch Misgeschick, von wo es sei, nicht Feinde, nicht Zweiz
 Ведь всех плетущих козни ты гонишь прочь от того,  
 Кого ты защищаешь, как добрый пастух, о Брахманаспати.
 </details>
+

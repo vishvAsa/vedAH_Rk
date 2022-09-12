@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ī́śiṣe ← √īś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+gómataḥ ← gómant- (nominal stem)  
+{case:GEN, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā́jasya ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mahī́m ← máh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yandhi ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +163,4 @@ Denn du allein, o Indra, bist des rinderreichen Gutes Herr, So schenke grosse La
 О Индра, наградой, состоящей из коров.  
 Даруй нам великую питательную силу!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+samidhānáḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+han ← √han- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+járūtham ← járūtha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+púraṁdhim ← púraṁdhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yákṣi ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+jarasva ← √gr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+puruṇīthā́ ← puruṇīthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +200,4 @@ Du, angezündet, Agni, als der beste, erschlag den Dämon, schaff des Reichthums
 Бодрствуй, о Джатаведас, под воспевания на многие лады!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
+

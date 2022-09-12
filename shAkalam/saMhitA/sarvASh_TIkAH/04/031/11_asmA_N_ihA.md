@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+vr̥ṇīṣva ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+divítmate ← divítmant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,3 +135,4 @@ Uns wähle zur Genossenschaft, uns hier zu schönem Wohlergehn, Zu glänzendem B
 Для дружбы, для счастья,  
 Для великого сверкающего богатства!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śvás ← śvás (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sāvīḥ ← √sū- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhū́reḥ ← bhū́ri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+kṣáyasya ← kṣáya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vāmásya ← vāmá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vāmabhā́jaḥ ← vāmabhā́j- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,3 +258,4 @@ Gut führ uns heute zu und Gut auch morgen, und Tag für Tag, o Savitar, uns Gut
 Ведь ты властвуешь, о бог, много над чем хорошим.  
 Да получим мы долю в хорошем благодаря этой молитве!
 </details>
+

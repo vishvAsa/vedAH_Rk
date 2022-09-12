@@ -15,13 +15,44 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+adyá ← adyá (invariable)  
+{}
+
+divispŕ̥śam ← divispŕ̥ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sidhrám ← sidhrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yachatām ← √yam- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +145,4 @@ Es mögen Erd' und Himmel heut dies Opfer lenken götterwärts, Das wohl gelingt
 Вручат богам эту нашу жертву,  
 Стремящуюся к цели, достигающую неба!
 </details>
+

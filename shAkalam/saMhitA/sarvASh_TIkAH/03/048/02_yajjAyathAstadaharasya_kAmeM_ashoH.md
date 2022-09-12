@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhar ~ áhaḥ ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+jā́yathāḥ ← √janⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:MED}
+
+kā́me ← kā́ma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aṁśóḥ ← aṁśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+apibaḥ ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+giriṣṭhā́m ← giriṣṭhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pīyū́ṣam ← pīyū́ṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jánitrī ← jánitrī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+asiñcat ← √sic- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +246,4 @@ Am Tage schon, da du geboren, trankst du voll Gier des Krautes bergentsprungne B
 Твоя мать, юная женщина, родительница, налила  
 Тебе его в доме великого отца в (самом) начале.
 </details>
+

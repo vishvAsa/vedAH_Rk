@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+gr̥ṇanti ← √gr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kārávaḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pradakṣiṇít ← pradakṣiṇít (invariable)  
+{}
+
+r̥tuthā́ ← r̥tuthā́ (invariable)  
+{}
+
+śakúntayaḥ ← śakúnti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vádantaḥ ← √vadⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+sāmagā́ḥ ← sāmagā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+vā́cau ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+vadati ← √vadⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+gāyatrám ← gāyatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rājati ← √rāj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+traíṣṭubham ← traíṣṭubha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Zu rechter Hand singen die Sänger, so auch die ^akunti- Vögel, welche zu recht
 Обе речи ведет она, словно исполнитель самана:  
 Она владеет и (речью) размером гаятри и (речью) размером триштубх.
 </details>
+

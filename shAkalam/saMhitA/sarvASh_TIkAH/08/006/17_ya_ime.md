@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+imé ← ayám (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+mahī́ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ródasī ← ródasī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+samájagrabhīt ← √gr̥bhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+samīcī́ ← samyáñc- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+guhaḥ ← √guh- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+támobhiḥ ← támas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +149,4 @@ Der dieses grosse Weltenpaar umspannend fest zusammenschloss, Den hülltest du i
 Вместе охватил собой,  
 Того Индра погрузил во мрак.
 </details>
+

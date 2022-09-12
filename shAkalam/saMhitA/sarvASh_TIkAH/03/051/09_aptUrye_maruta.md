@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āpíḥ ← āpí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aptū́rye ← aptū́rya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+eṣáḥ ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ámandan ← √mand- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+dā́tivārāḥ ← dā́tivāra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pibatu ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sākám ← sākám (invariable)  
+{}
+
+tébhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+vr̥trakhādáḥ ← vr̥trakhādá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dāśúṣaḥ ← dāśváṁs- (nominal stem)  
+{case:GEN, number:SG}
+
+sadhásthe ← sadhástha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutám ← √su- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Im schnellen Werk war er ein Freund euch, Maruts, dem Indra jauchzten zu die gab
 Пусть пьет вместе с ними пожиратель Вритры  
 Сому, выжатого в собственном жилище почитателя!
 </details>
+

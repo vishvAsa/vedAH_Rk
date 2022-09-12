@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+divyā́ḥ ← divyá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+aharvidā ← aharvíd- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+síndhūn ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+dvā́rā ← dvā́r- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+varṣathaḥ ← √vr̥- (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +164,4 @@ Und schliesset nun wie Thore uns des Himmels Labetränke auf Und seine Ströme, 
 Словно врата, небесные подкрепления  
 И реки, о знающие (урочный) час!
 </details>
+

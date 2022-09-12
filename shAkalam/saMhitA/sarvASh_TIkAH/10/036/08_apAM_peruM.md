@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+bharāmahe ← √bhr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+jīvádhanyam ← jīvádhanya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pérum ← péru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adhvaraśríyam ← adhvaraśrī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devāvyàm ← devāvī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suhávam ← suháva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indriyám ← indriyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suraśmím ← suraśmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yamīmahi ← √yam- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+adyá ← adyá (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Den Flutdurchdringer, Lebensschaffer bringen wir, der Götter Lust, des Opfers S
 Мы хотим править предназначенным для Индры сомой с прекрасными поводьями!  
 Сегодня мы просим об этой милости богов!
 </details>
+

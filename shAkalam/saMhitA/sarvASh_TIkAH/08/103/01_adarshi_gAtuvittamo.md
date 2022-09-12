@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádarśi ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+gātuvíttamaḥ ← gātuvíttama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ādadhúḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+ā́ryasya ← ā́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+várdhanam ← várdhana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nakṣanta ← √nakṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Der Wohlfahrt spendendste erschien, dem alle ihre Dienste weihn, Den Agni, den e
 К Агни, только что родившемуся подкрепителю ария,  
 Пусть приблизятся наши хвалебные песни!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ihá ← ihá (invariable)  
+{}
+
+jyéṣṭhe ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bhavatām ← √bhū- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+rucā́ ← rúc- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śucáyadbhiḥ ← √śuc- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+br̥hatī́ ← br̥hánt- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+sīm ← sīm (invariable)  
+{}
+
+váriṣṭhe ← váriṣṭha- 2 (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+viminván ← √mi- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+paprathānébhiḥ ← √prathⁱ- (root)  
+{case:INS, gender:M, number:PL, tense:PRF, voice:MED}
+
+ruvát ← √rū- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ukṣā́ ← ukṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Die beiden grossen Erd' und Himmel waren die schönsten hier an Glanz und lichte
 Когда бык, воздвигающий две широчайшие, высокие (глыбы),  
 Ревет, распространяясь в движении.
 </details>
+

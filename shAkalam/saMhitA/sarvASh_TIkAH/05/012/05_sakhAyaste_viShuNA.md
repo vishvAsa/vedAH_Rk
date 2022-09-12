@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víṣuṇāḥ ← víṣuṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhūvan ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+áśivāḥ ← áśiva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sántaḥ ← √as- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+śivā́saḥ ← śivá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádhūrṣata ← √dhūrv- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+svayám ← svayám (invariable)  
+{}
+
+vácobhiḥ ← vácas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+bruvántaḥ ← √brū- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+r̥jūyaté ← √r̥jūy- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥jinā́ni ← vr̥jiná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +201,4 @@ Sie, einst dir Freunde, sind von dir gewichen, sie, einst dir hold, sind unhold 
 Сами себе навредили словами эти  
 Говорившие праведному лукавые (слова).
 </details>
+

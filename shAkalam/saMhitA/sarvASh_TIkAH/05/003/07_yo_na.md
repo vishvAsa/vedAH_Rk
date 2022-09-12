@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+ā́gaḥ ← ā́gas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhárāti ← √bhr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+énaḥ ← énas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+aghám ← aghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+agháśaṁse ← agháśaṁsa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dadhāta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+abhíśastim ← abhíśasti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+cikitvaḥ ← √cit- (root)  
+{case:VOC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+etā́m ← eṣá (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+jahí ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dvayéna ← dvayá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+marcáyati ← √mr̥c- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Wer Sünd' und Frevel wider uns will üben, wer Unheil sinnt, der ernte selbst d
 Разбей, о внимательный, этот наговор  
 (У того,) о Агни, кто нам вредит двоедушием!
 </details>
+

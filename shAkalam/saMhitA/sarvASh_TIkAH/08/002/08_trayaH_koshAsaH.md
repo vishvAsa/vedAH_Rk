@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+kóśāsaḥ ← kóśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ścotanti ← √ścut- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+camvàḥ ← camū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+súpūrṇāḥ ← súpūrṇa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+bhā́rman ← bhā́rman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+samāné ← samāná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +147,4 @@ Drei der Krüge stehen triefend, drei der Schalen ganz gefüllet, Sie, vereint a
 Три жертвенные ложки переполнены  
 При одном и том же приношении.
 </details>
+

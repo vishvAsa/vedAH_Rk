@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yádi ← yádi (invariable)  
+{}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+jujuṣé ← √juṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+námasvān ← námasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śárdhāya ← śárdha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+samīcī́ḥ ← samyáñc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+viśvátra ← viśvátra (invariable)  
+{}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+dā́śat ← √dāś- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+gātúḥ ← gātú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pūrvī́ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sūnŕ̥tāyai ← sūnŕ̥ta- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +201,4 @@ Wenn nun zu eurer beider [des Mitra-Varuna] starken Freundschaft mit uns der Anb
 
 -ru-
 </details>
+

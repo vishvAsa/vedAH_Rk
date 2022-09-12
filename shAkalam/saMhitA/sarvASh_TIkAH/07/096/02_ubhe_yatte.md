@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M;; repeated line
+#### Morph
+ándhasī ← ándhas- 2 (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śubhre ← śubhrá- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:N, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+adhikṣiyánti ← √kṣi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pūrávaḥ ← pūrú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+avitrī́ ← avitrī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bodhi ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+marútsakhā ← marútsakhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+códa ← √cud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+maghónām ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +212,4 @@ Wenn deine beiden Rasenufer, Schöne du, das Volk umwohnt in grosser Kraft, So s
 Будь нам защитницей, имея Марутов друзьями!  
 Заостри способность дарить у щедрых покровителей!
 </details>
+

@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+pánipnatam ← √panⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+āhutīvŕ̥dham ← āhutīvŕ̥dh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yúvānam ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áganma ← √gam- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+bíbhrataḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +126,7 @@ The hapax āhutī-vṛ́dh- could be either passive (as in the published transla
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/28-29.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/28-29.md">
 <details open><summary><h2>28-29 ...{Loading}...</h2></summary>
 
 It’s not clear why we return to purely Soma vss. at this point, but the aoristic summary in 29 (úpa … áganma bíbhrato námaḥ “up to him have we come bearing homage”) is another typical hymn-ender, summarizing the hymn that precedes.
@@ -132,3 +157,4 @@ Dem lieben, wunderherrlichen dem Jüngling, der am Guss sich freut Sind Ehr' erw
 Юноше, усиливающемуся от возлияний,  
 Мы подошли, неся поклонение.
 </details>
+

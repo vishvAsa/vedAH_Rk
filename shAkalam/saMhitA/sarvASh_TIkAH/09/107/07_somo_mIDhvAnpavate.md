@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+gātuvíttamaḥ ← gātuvíttama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mīḍhvā́n ← mīḍhváṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhavaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+devavī́tamaḥ ← devavī́tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rohayaḥ ← √ruh- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +177,7 @@ You became the sage poet who best pursues the gods. You made the sun  mount in h
 The two splvs ending the a and c pādas show a nice phonological relationship: (gātu-)vít-tama- and (deva-)vī́-tama, with interchange between long vowel + single cons. and short vowel + geminate in otherwise identical phonetic seequences, an effect reminiscent of MIA quantitative trade-offs.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/06-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 The c pādas of these two vss. are identically constructed: tváṃ vípro [6] / kavír [7] abhavo SPLV. Vs. 7 repeats the word vípra- along with ṛṣí- in 7b, so the pragātha seems to have a preoccupation with the varieties of poet.
@@ -163,3 +209,4 @@ Der Soma rieselt huldvoll, schaffend freiste Bahn, der weise Sänger weiten Blic
 Ты стал поэтом, лучше всех приглашающий богов.  
 Ты поднял солнце на небо.
 </details>
+

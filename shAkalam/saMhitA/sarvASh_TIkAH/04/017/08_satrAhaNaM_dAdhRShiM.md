@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dā́dhr̥ṣim ← dā́dhr̥ṣi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+satrāháṇam ← satrāhán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+túmram ← túmra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apārám ← apārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahā́m ← máh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvájram ← suvájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hántā ← hántar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sánitā ← sánitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dā́tā ← dā́tar- 1 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghā́ni ← maghá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+surā́dhāḥ ← surā́dhas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Den tilgenden, unendlich grossen Indra, den kühnen, feisten Stier mit starkem B
 (Того,) кто убийца Вритры, а также захватчик добычи,  
 Даритель щедрых наград, щедрый, с прекрасными подарками.
 </details>
+

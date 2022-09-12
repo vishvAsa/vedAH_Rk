@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+īḷe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+níyatam ← √yam- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+āmā́ ← āmá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mádhumat ← mádhumant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pakvám ← pakvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+dhāsínā ← dhāsí- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+kr̥ṣṇā́ ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rúśatā ← rúśant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+satī́ ← √as- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+jā́maryeṇa ← jā́marya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pīpāya ← √pī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +210,7 @@ The hapax jā́marya- is opaque; see EWA s.v. My tr. follows Janert’s analysis
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/09-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/09-12.md">
 <details open><summary><h2>09-12 ...{Loading}...</h2></summary>
 
 Each of these vss. begins with the resonant and charged instr. ṛténa ‘by truth’, the usual introduction to a truth formulation. Each of the vss. does seem to express a mystical truth about the ritual or its mythic background. There is no obvious connection to the group of vss. that precede (the question vss. of 4cd-8), but if I am correct that we should supply ‘thought’ or ‘thoughts’ in 8cd, where we ask Agni to send them all the way to heaven, it may not be fanciful to think that vss. 9-12 are these very thoughts.
@@ -189,3 +247,4 @@ Durch Recht erstreb' ich rechte Gab' der Milchkuh, die rohe strebt nach garem s�
 Будучи черной, она набухла  
 От белой струи, земного (?) молока.
 </details>
+

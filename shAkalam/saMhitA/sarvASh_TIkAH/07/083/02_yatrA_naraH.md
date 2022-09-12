@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kr̥tádhvajaḥ ← kr̥tádhvaj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+samáyante ← √i- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yátra ← yátra (invariable)  
+{}
+
+ājā́ ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bhávati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+caná ← caná (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+bháyante ← √bhī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+bhúvanā ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+svardŕ̥śaḥ ← svardŕ̥ś- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+indrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tátra ← tátra (invariable)  
+{}
+
+vocatam ← √vac- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +243,4 @@ Wo Banner tragend Männer sich entgegengehn im Kampf, wo alles liebe auf dem Spi
 Где испытывают страх существа, видящие солнце,  
 Вступитесь та за нас, о Индра-Варуна!
 </details>
+

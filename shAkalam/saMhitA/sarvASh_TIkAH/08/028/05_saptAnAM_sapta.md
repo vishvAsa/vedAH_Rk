@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+r̥ṣṭáyaḥ ← r̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saptānā́m ← saptá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+dyumnā́ni ← dyumná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śríyaḥ ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Die sieben führen sieben Speer' und sieben Schätze haben sie, Die sieben legte
 Семь у них знаков великолепия,  
 Семь красот они надели на себя.
 </details>
+

@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line
+#### Morph
+svā́hākr̥tasya ← svā́hākr̥ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tr̥mpatam ← √tr̥p- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+devau ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+avasyúḥ ← avasyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dhattám ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rátnāni ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Erquickt euch am geweihten Trank, o Götter, am gepressten Kraut, Fahrt her o Ri
 Жаждя помощи, я к вам взываю!  
 Наделите сокровищами (вашего) почитателя!
 </details>
+

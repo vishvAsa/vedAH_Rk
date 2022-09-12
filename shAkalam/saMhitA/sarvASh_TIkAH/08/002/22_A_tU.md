@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+káṇvamantam ← káṇvamant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+siñca ← √sic- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tú ← tú (invariable)  
+{}
+
+gha ← gha (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+śavasānā́t ← śavasāná- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vidma ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+śatámūteḥ ← śatámūti- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yaśástaram ← yaśástara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +142,4 @@ Giess ihm ein den Trank der Kanva's; denn wir kennen keinen bessern, Als den sta
 Не знаем мы более славного,  
 Чем сильный с сотней поддержек.
 </details>
+

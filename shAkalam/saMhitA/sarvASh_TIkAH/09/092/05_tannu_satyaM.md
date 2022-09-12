@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+pávamānasya ← √pū- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kārávaḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saṁnásanta ← √nas- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yátra ← yátra (invariable)  
+{}
+
+áhne ← áhar ~ áhan- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ákr̥ṇot ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ulokám ← uloká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhī́kam ← abhī́ka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āvat ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dásyave ← dásyu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mánum ← mánu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,3 +253,4 @@ Das sei uns nun der wahre Ort des Flammers, an dem die Sänger alle sich vereine
 Что он создал свет дня и пространство!  
 Он помог Ману, он оказал сопротивление дасью.
 </details>
+

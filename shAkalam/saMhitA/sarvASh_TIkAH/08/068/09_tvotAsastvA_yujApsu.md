@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+tvā́ ← tvám (pronoun)  
+{case:INS, number:SG}
+
+tvótāsaḥ ← tvóta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yujā́ ← yúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+dhánam ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sū́rye ← sū́rya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jáyema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+pr̥tsú ← pŕ̥t- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vajrivaḥ ← vajrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +149,4 @@ Von dir beschützt, mit dir vereint, wird grosser Preis in Kämpfen uns Um Licht
 
 -ru-
 </details>
+

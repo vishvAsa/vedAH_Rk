@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+r̥bhukṣāḥ ← r̥bhukṣā́- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vājāḥ ← vā́ja- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+dévāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+devayā́naiḥ ← devayā́na- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pathíbhiḥ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yātá ← √yā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+āsú ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+dadhidhvé ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:MED}
+
+raṇvāḥ ← raṇvá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sudíneṣu ← sudína- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Zu unsrer Feier kommt Ribhukschan's, Vadscha's, auf gottbetretnen Pfaden her, o 
 Как принимали вы у этих племен жертву  
 Мануса, о приносящие радость, в счастливые дни!
 </details>
+

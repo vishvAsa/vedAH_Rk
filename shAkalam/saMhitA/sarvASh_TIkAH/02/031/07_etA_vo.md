@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+etā́ ← eṣá (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+údyatā ← √yam- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vaśmi ← √vaś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+yajatrāḥ ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+átakṣan ← √takṣ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+návyase ← návyas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+cakānā́ḥ ← √kā- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+śravasyávaḥ ← śravasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+aśyāḥ ← √naś- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+dhītím ← dhītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ráthyaḥ ← ráthya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáptiḥ ← sápti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +206,4 @@ Ich bring' mit Lust euch die geweihten Lieder, die Männer schufen kunstvoll sie
 Кто жаждет славы, кто стремится к награде,  
 Пусть достигнет цели, словно упряжка колесницы!
 </details>
+

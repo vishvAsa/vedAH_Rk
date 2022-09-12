@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+nápātam ← nápat- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrjáḥ ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+aratím ← aratí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cétiṣṭham ← cétiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svadhvarám ← svadhvará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Mit diesem Liede rufe ich den Agni an, den Sohn der Kraft, Den lieben weisen, de
 Любимого, самого внимательного посланника (?), устроителя прекрасного обряда,  
 Всеобщего вестника бессмертного.
 </details>
+

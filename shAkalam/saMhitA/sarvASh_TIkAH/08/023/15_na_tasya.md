@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+caná ← caná (invariable)  
+{}
+
+māyáyā ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+īśīta ← √īś- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ripúḥ ← ripú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dadā́śa ← √dāś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+havyádātibhiḥ ← havyádāti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Dess wird nicht Herr durch Zauber selbst ein feindgesinnter Sterblicher, Wer, Ag
 Даже с помощью колдовства обманщик-смертный,  
 Который почитал Агни дарами возлияний!
 </details>
+

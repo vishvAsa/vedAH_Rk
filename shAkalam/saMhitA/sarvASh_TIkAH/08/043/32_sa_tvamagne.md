@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vibhā́vasuḥ ← vibhā́vasu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sr̥ján ← √sr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jighnase ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+śárdhan ← √śardh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+támāṁsi ← támas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ O Agni, glanzbegabter du, der sonnengleich du Strahlen wirfst, Du scheuchest kü
 Бросающийся (пламенем), как солнце – лучами,  
 Лихо разгоняешь мрак.
 </details>
+

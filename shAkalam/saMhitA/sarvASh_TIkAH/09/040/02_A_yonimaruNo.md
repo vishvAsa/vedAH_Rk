@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aruṇáḥ ← aruṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ruhat ← √ruh- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gámat ← √gam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhruvé ← dhruvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sádasi ← sádas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sīdati ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +167,4 @@ Der flammende bestieg den Schooss, zu Indra kam der Stier, erzeugt, Er setzt sic
 
 -ru-
 </details>
+

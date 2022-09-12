@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhūtá ← √bhū- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+pī́voaśvāḥ ← pī́voaśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śucádrathāḥ ← śucádratha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áyaḥśiprāḥ ← áyaḥśipra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suniṣkā́ḥ ← suniṣká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vājinaḥ ← vājín- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+napātaḥ ← nápat- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śavasaḥ ← śávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+agriyám ← agriyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+ceti ← √cit- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +220,4 @@ Denn feiste Rosse, lichten Wagen habt ihr, o starke, eh'rne Helm' und schönen H
 О сын Индры, о отпрыски силы,  
 За вами признан лучший (сома) для опьянения!
 </details>
+

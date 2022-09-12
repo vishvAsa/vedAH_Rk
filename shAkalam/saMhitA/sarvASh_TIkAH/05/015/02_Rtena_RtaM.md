@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhārayanta ← √dhr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+dharúṇam ← dharúṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śāké ← śāká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vyòman ← vyòman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhárman ← dhárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dharúṇe ← dharúṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sedúṣaḥ ← √sad- (root)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+ájātān ← ájāta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jātaíḥ ← √janⁱ- (root)  
+{case:INS, gender:M, number:PL, non-finite:PPP}
+
+nanakṣúḥ ← √nakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Durch Heil'ges stützen sie den heil'gen Stützer im Werk des Opfers in dem höc
 (Те,) что достигли вместе с рожденными нерожденных -  
 Мужей, сидящих в основе неба, в основании (закона).
 </details>
+

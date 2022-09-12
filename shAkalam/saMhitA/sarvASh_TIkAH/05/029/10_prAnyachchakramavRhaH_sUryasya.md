@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+avr̥haḥ ← √vr̥h- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+akar ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kútsāya ← kútsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+várivaḥ ← várivas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yā́tave ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
+amr̥ṇaḥ ← √mr̥̄- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+anā́saḥ ← anā́s- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vadhéna ← vadhá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+āvr̥ṇak ← √vr̥j- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+duryoṇé ← duryoṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mr̥dhrávācaḥ ← mr̥dhrávāc- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +236,4 @@ Du rolltest vor das eine Rad der Sonne, und triebst das andre an zum Heil des Ku
 Безротых дасью ты разбил смертным оружием.  
 В другое место ты сбросил злоречивых.
 </details>
+

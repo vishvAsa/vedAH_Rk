@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amucat ← √muc- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ā́ryaḥ ← ā́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dāsā́ya ← dāsá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pratimā́nam ← pratimā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidát ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ásurasya ← ásura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dr̥ḷhā́ni ← √dr̥h- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+māyínaḥ ← māyín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+píproḥ ← pípru- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+āsyat ← √as- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+cakr̥vā́n ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥jíśvanā ← r̥jíśvan- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Die Sonne spannte Mittags ihren Wagen aus, der Arjer fand den Helden, der Barbar
 
 a Сурья распряг – В РВ не раз упоминается о сотязании Индры и Сурьи, когда Индра сорвал колесо солнца I, rv10.138.121
 </details>
+

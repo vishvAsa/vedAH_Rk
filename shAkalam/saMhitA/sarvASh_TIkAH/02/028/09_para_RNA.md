@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+mátkr̥tāni ← mátkr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+párā ← párā (invariable)  
+{}
+
+r̥ṇā́ ← r̥ṇá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sāvīḥ ← √sū- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+anyákr̥tena ← anyákr̥ta- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+bhojam ← √bhuj- 2 (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ávyuṣṭāḥ ← ávyuṣṭa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhū́yasīḥ ← bhū́yaṁs- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+uṣā́saḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jīvā́n ← jīvá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śādhi ← √śās- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tā́su ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,3 +260,4 @@ Nimm meine eignen Missethaten von mir, lass nicht, o König, fremde Schuld mich 
 Много ведь еще не зажегшихся зорь:  
 Определи нам жить при них, о Варуна!
 </details>
+

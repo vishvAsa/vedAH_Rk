@@ -15,14 +15,48 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+ukthávāhasaḥ ← ukthávāhas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+abhipramandúḥ ← √mand- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āsáni ← āsán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pipye ← √pī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,7 +140,7 @@ The question is what is the relationship between ab and c. Properly speaking, th
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 Lüders (Varuṇa 450) comments about the tṛca that it concerns only the songs sung to Indra; therefore in the refrain ṛtá- can only refer to “die Wahrheit des Liedes,” and the refrain ṛtásya yád is paraphrase for “das Lied.” I agree that the refrain refers to the verbal product offered to Indra, but prefer to supply ukthá- ‘(solemn) speech’, extracted from ukthá-vāhas- in 13a for 13c and 14c.
@@ -137,3 +171,4 @@ Ihm, den die muntre Sängerschar durch Sprüche recht erheitert hat, Ihm schwill
 Исполнители гимнов Аю,  
 (Для того) в устах, словно жир, сочится (речь), которая истинна.
 </details>
+

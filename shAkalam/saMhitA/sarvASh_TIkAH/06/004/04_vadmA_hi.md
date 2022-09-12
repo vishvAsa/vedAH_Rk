@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+admasádvā ← admasádvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vadmā́ ← vadmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ájma ← ájman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cakré ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+janúṣā ← janúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ūrjasane ← ūrjasani- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+avr̥ké ← avr̥ká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jeḥ ← √ji- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+kṣeṣi ← √kṣi- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,3 +260,4 @@ Denn Sänger bist, o Sohn, du, Tischgenosse; nach seiner Weise schuf die Bahn si
 Ты, о наделяющий питательной силой, надели нас питательной силой!  
 Словно царь, победил ты и мирно живешь в безопасности от волков.
 </details>
+

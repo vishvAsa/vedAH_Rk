@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhaithe ← √dhā- 1 (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:MED}
+
+jaṭháram ← jaṭhára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥ṇádhyai ← √pr̥̄- 1 (root)  
+{case:DAT, number:SG, tense:PRS}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+vigrám ← vigrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+pr̥ṇánti ← √pr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sábhr̥tayaḥ ← sábhr̥ti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sádma ← sádman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ávātāḥ ← ávāta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mr̥ṣyante ← √mr̥ṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+yuvatáyaḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhárante ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+viśvajinvā ← viśvajinva- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ So nehmt den starken Trank, den Bauch zu füllen, wenn euren Sitz die Speisebrin
 Непревзойденные юные жены не забывают (своего дела),  
 Когда распределяют молоко, о (вы,) всеоживляющие.
 </details>
+

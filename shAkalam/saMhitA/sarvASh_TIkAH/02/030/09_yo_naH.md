@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jighatnúḥ ← jighatnú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sánutyaḥ ← sánutya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhikhyā́ya ← √khyā- (root)  
+{non-finite:CVB}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tigiténa ← tigitá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vidhya ← √vyadh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́yudhaiḥ ← ā́yudha- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jeṣi ← √ji- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+druhé ← drúh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rī́ṣantam ← √riṣ- (root)  
+{case:ACC, gender:M, number:SG, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Wer aus der Ferne, oder in der Nähe uns tödten will, den triff mit scharfem St
 О Брихаспати, оружием победи врагов!  
 Выдай обману желающего навредить, о царь!
 </details>
+

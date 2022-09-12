@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+payovŕ̥dhā ← payovŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+sú ← sú (invariable)  
+{}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+utá ← utá (invariable)  
+{}
+
+mākī́ ← mākī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+naptyā̀ ← naptī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ráṇasya ← ráṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+janitvanā́ya ← janitvaná- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+māmahe ← √maṁh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +153,4 @@ Und diese beiden milchreichen ausgedehnten [Welten?], die aus der Freude entspro
 Моих (?) дочерей наслаждения  
 Он щедро даровал (мне) в жены.
 </details>
+

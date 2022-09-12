@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+táviṣīm ← táviṣī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+varāte ← √vr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+ápratītaḥ ← ápratīta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bharate ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+dhánā ← dhána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+jráyasaḥ ← jráyas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+bhiyásā ← bhiyás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jihāte ← √hā- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+ójasaḥ ← ójas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Wer ist's, der seiner Wuth und Stärke trotze? er unbesiegt trägt fort allein d
 И вот даже эти две богини уступают  
 Место из страха перед силой Индры.
 </details>
+

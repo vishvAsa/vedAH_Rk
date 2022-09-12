@@ -15,13 +15,53 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+devāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+gata ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śr̥ṇutá ← √śru- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sīdata ← √sad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +176,4 @@ O Götter alle, kommt herbei, vernehmet diesen meinen Ruf, Und setzet euch auf d
 Услышьте этот мой зов!  
 Сядьте здесь на жертвенную солому!
 </details>
+

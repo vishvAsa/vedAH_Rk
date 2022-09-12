@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+pata ← √pat- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sākám ← sākám (invariable)  
+{}
+
+yakṣma ← yákṣma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cā́ṣeṇa ← cā́ṣa- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+kikidīvínā ← kikidīví- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dhrā́jyā ← dhrā́ji- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sākám ← sākám (invariable)  
+{}
+
+vā́tasya ← vā́ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+naśya ← √naś- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+nihā́kayā ← nihā́kā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sākám ← sākám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +166,4 @@ So fliege Krankheit, flieg davon, mit Elstern, mit den Hähern flieg, Auf Windes
 Исчезни с порывом ветра,  
 Вместе с бурей!
 </details>
+

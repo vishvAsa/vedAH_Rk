@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arocata ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ghnán ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ávindat ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +166,4 @@ Geboren glänzte Agni, schlug durch Licht Dämonen, Finsterniss, Fand Kühe, Was
 Убивая дасью, (разгоняя) мрак светом.  
 Он нашел коров, вoды, солнце.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyā́ḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vyùṣṭau ← vyùṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+bodhi ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sū́re ← sū́ra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+údite ← √i- 1 (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+jánma ← jánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+nítyam ← nítya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tánayam ← tánaya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sujāta ← sujātá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +242,4 @@ Sei du bei dieser Morgenröthe Leuchten, sei uns Behüter bei der Sonne Aufgang;
 Как рождению собственного ребенка, радуйся  
 Всем существом моей хвале, о Агни прекраснорожденный!
 </details>
+

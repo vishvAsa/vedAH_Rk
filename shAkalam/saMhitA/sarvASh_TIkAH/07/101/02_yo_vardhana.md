@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+óṣadhīnām ← óṣadhī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+várdhanaḥ ← várdhana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ī́śe ← √īś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+jágataḥ ← jágat- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śaraṇám ← śaraṇá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tridhā́tu ← tridhā́tu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yaṁsat ← √yam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+svabhiṣṭí ← svabhiṣṭí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+trivártu ← trivártu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +237,4 @@ Der Mehrer der Gewächse und der Wasser, der Gott, der über alle Welt gebietet,
 Пусть дарует он тройную защиту-укрытие,  
 Тройной свет, благоприятный для нас!
 </details>
+

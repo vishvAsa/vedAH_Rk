@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ágan ← √gam- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhiṣva ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
+
+duṣṭáram ← duṣṭára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dyumnám ← dyumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tirāmasi ← √tr̥̄- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +165,4 @@ Du, Indra kamst zu hohem Ruhm, nimm an die schwer bezwungne Kraft, Wir steigern 
 Достигни непреодолимого блеска!  
 Мы возвышаем твое неистовство.
 </details>
+

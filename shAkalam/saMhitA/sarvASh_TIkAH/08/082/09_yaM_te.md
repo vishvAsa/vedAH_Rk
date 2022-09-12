@@ -15,13 +15,56 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ábharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+padā́ ← pád- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+áspr̥tam ← áspr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tirás ← tirás (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+īśiṣe ← √īś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +181,4 @@ Den unbestrittnen, den der Aar dir trug am Fusse durch die Luft, Den trinke, dir
 
 -ru-
 </details>
+

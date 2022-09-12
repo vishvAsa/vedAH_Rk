@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+aṣṭa ← √naś- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+gī́ḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+váruṇam ← váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āvat ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+tánaye ← tánaya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+toké ← toká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tū́tujānā ← √tuj- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:MED}
+
+devávītim ← devávīti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+gamema ← √gam- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+surátnāsaḥ ← surátna- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Dies Lied erreiche Varuna und Indra, es helfe schnell zu Kindern mir und Enkeln;
 С прекрасными сокровищами пусть пойдем мы на приглашение богов.  
 Защищайте вы нас всегда (своими) милостями!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+párvatāḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+táne ← tán- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+tujé ← túj- 2 (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+svaítavaḥ ← svaítu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vásavaḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vīrā́ḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+āptyáḥ ← āptyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+panitáḥ ← √panⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sádā ← sádā (invariable)  
+{}
+
+yajatáḥ ← yajatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhíṣṭau ← abhíṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+náryaḥ ← nárya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śáṁsam ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+várdhāt ← √vr̥dh- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +236,4 @@ Für Kind und Enkel sei'n uns hold die Berge, und die wie edle Männer eignen We
 Да будет восхваляем всегда у нас Аптья, достойный жертв!  
 Да усилит он. мужественный, нашу речь, отдавая (ей) предпочтение!
 </details>
+

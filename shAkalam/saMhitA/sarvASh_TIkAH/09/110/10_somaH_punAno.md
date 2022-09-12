@@ -15,13 +15,50 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+avyáye ← avyáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́re ← vā́ra- 1 (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+akṣār ← √kṣar- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+krī́ḷan ← √krīḍ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+śíśuḥ ← śíśu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásradhāraḥ ← sahásradhāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śatávājaḥ ← śatávāja- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

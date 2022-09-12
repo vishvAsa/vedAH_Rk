@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vardháyan ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+abhímātīḥ ← abhímāti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sáhamānaḥ ← √sah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asadat ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+sadhástham ← sadhástha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,3 +134,4 @@ Vermehrend unsre Lebenskraft, bewältigend die Gegner, nimmt Der Soma Platz auf 
 Одолевая злоумышленников,  
 Сома уселся на (свое) место.
 </details>
+

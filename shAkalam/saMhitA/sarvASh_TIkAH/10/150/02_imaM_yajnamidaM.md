@@ -16,14 +16,51 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jujuṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+upā́gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+mártāsaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+samidhāna ← √idh- 1 (root)  
+{case:VOC, gender:M, number:SG, tense:AOR, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+mr̥ḷīkā́ya ← mr̥ḷīká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +162,4 @@ Komm her und nimm du gnädig an dies unser Opfer und dies Lied, Dich, o entflamm
 Мы смертные, о зажженный, тебя призываем,  
 Для милости призываем.
 </details>
+

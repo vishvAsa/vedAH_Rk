@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ádravat ← √dru- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ajiráḥ ← ajirá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áyaḥśīrṣā ← áyaḥśīrṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máderaghuḥ ← máderaghu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ Der schnelle Bote, welcher euch voranlief, Mitra-Varuna, Mit eh'rnem Haupte lust
 О Митра-Варуна, который помчался вперед  
 С железной головой, безумно спешащий,
 </details>
+

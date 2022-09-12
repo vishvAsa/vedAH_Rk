@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+cara ← √carⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+svadhā́ḥ ← svadhā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+āhúvaḥ ← āhū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+kr̥ṣṭīnā́m ← kr̥ṣṭí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sutā́nām ← √su- (root)  
+{case:GEN, gender:M, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +155,4 @@ Geh schnell dahin nach deiner Lust, wohin der Menschen Schar dich ruft, Und von 
 На приглашения народов!  
 О Индра, испей выжатых соков (сомы)!
 </details>
+

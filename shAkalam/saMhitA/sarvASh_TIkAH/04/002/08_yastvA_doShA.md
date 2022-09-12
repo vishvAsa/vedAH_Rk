@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+doṣā́ ← doṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+praśáṁsāt ← √śaṁs- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+uṣási ← uṣás- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+havíṣmān ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇávate ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áśvaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+hemyā́vān ← hemyā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+dāśvā́ṁsam ← dāśváṁs- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pīparaḥ ← √pr̥- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +249,4 @@ Wer dich besingt am Abend, wer am Morgen, wer opferreich willkommnes dir erweise
 Того почитателя пусть вывезешь ты из беды  
 В своем собственном доме, словно погоняемый конь!
 </details>
+

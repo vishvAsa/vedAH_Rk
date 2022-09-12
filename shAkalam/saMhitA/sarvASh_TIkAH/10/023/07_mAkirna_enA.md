@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+mā́kis ← mā́kis (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sakhyā́ ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yauṣuḥ ← √yu- 2 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ŕ̥ṣeḥ ← ŕ̥ṣi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vimadásya ← vimadá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+jāmivát ← jāmivánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prámatim ← prámati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+sakhyā́ ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+śivā́ni ← śivá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +245,4 @@ Nimmer mögen diese Genossenschaften sich auflösen zwischen dir, o Indra, und d
 Ведь мы знаем, о бог, твою заботу.  
 У нас пусть будут твои добрые дружеские чувства!
 </details>
+

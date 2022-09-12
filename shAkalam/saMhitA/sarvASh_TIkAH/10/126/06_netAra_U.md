@@ -16,15 +16,61 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nétāraḥ ← nétar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+tirás ← tirás (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+duritā́ ← duritá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+rā́jānaḥ ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+dvíṣaḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +187,4 @@ Sie führen sicher uns hindurch; Varuna, Mitra, Arjaman, Die Könige des Mensche
 Через все беды,  
 (Эти) цари народов, через проявления враждебности!
 </details>
+

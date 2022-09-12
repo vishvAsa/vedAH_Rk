@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indrayúḥ ← indrayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+parjányaḥ ← parjánya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣṭimā́n ← vr̥ṣṭimánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +143,4 @@ Uns riesle, Indra-liebender, o Indu, mit des Methes Strom Der regenschwangern Wo
 Очищайся потоком сладости,  
 Словно Парджанья, несущий дождь!
 </details>
+

@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dádāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhye ← sákhi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pitváḥ ← pitú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sacābhúve ← sacābhū́- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sácamānāya ← √sac- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+ápa ← ápa (invariable)  
+{}
+
+asmāt ← ayám (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iyāt ← √i- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ókaḥ ← ókas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áraṇam ← áraṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+ichet ← √iṣ- 2 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+pr̥ṇántam ← √pr̥̄- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +252,4 @@ Das ist kein Freund, wer nicht dem Freunde mittheilt, der zu ihm kommt und ihn u
 Пусть (товарищ) уйдет прочь от него: это не место (для него)!  
 Пусть он ищет другого дарителя, даже если это чужой!
 </details>
+

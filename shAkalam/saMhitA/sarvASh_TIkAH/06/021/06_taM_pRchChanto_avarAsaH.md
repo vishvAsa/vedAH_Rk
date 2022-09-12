@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávarāsaḥ ← ávara- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+párāṇi ← pára- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pr̥chántaḥ ← √praś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pratnā́ ← pratná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śrútyā ← śrútya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yemuḥ ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+árcāmasi ← √r̥c- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+brahmavāhaḥ ← bráhmavāhas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vīra ← vīrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+mahā́ntam ← mahā́nt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tā́t ← tā́t (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+yā́t ← yā́t (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Die jüngern, fragend nach den frühern Thaten, o Indra, strebten nach den altbe
 Мы воспеваем тебя, о герой, привлекаемый молитвой,  
 Как великого – насколько мы (это) понимаем.
 </details>
+

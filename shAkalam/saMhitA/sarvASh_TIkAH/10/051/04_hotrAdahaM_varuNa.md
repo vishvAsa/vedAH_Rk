@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+āyam ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+bíbhyat ← √bhī- (root)  
+{case:NOM, gender:M, number:SG, voice:ACT}
+
+hotrā́t ← hotrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+evá ← evá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yunájan ← √yuj- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+bahudhā́ ← bahudhā́ (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+níviṣṭāḥ ← √viś- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ciketa ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,8 +224,6 @@ popular
 \* yoke me= enjoin to the sacrificial rite
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -197,3 +265,4 @@ Aus Furcht vor dem Hotri-Amt bin ich gegangen, Varuna, damit mich nicht die Göt
 Я, Агни, (больше) не забочусь об этом деле.  
 Боги:
 </details>
+

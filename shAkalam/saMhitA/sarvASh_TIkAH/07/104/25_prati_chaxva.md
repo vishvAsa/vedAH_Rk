@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+cakṣva ← √cakṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+cakṣva ← √cakṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jāgr̥tam ← √gr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asyatam ← √as- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rákṣobhyaḥ ← rákṣas- (nominal stem)  
+{case:DAT, gender:N, number:PL}
+
+vadhám ← vadhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśánim ← aśáni- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yātumádbhyaḥ ← yātumánt- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +170,4 @@ Blick hin, blick um dich, o Indra und Soma, seid wachsam, werft euren Mordstrahl
 Швырните оружие в ракшасов,  
 Удар грома в колдующих!
 </details>
+

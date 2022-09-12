@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jyótiṣām ← jyótis- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+śréṣṭham ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uttamám ← uttamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhanajít ← dhanajít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ucyate ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+viśvajít ← viśvajít- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhrājáḥ ← bhrājá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dr̥śé ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvabhrā́ṭ ← viśvabhrā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ácyutam ← ácyuta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+paprathe ← √prathⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +238,4 @@ Dies schönste Licht der Lichter, das erhabendste, das allbesiegend Beute macht,
 Сверкающий во все стороны, мощно сверкающий Сурья, чтоб было видно,  
 Широко распространил (свою) мощь, (свою) непоколебимую силу.
 </details>
+

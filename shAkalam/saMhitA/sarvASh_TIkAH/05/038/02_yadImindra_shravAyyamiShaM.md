@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+īm ← īm (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śravā́yyam ← śravā́yya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dadhiṣé ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śaviṣṭha ← śáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dīrghaśrúttamam ← dīrghaśrúttama- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+paprathé ← √prathⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+duṣṭáram ← duṣṭára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+híraṇyavarṇa ← híraṇyavarṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +168,4 @@ Wenn, stärkster Indra, Labung du erlangt hast, rühmenswerthe Kraft, Dann wird 
 (Это) распространяется, (став) самым знаменитым,  
 Неотразимым, о ты цвета золота!
 </details>
+

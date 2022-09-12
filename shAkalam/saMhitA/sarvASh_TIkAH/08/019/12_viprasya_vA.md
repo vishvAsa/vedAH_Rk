@@ -16,14 +16,54 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+stuvatáḥ ← √stu- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+víprasya ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yaho ← yahú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+makṣū́tamasya ← makṣū́tama- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rātíṣu ← rātí- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+avódevam ← avódeva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+upárimartyam ← upárimartya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vividúṣaḥ ← √vid- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +161,7 @@ Both Geldner and Renou take the hapax avódevam, modifying vácaḥ, as meaning 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/11-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
 
 The VP cáno dadhīta “should take delight” takes complements in two different cases (both found independently elsewhere), acc. stómam (11b), havyā́ (11c) and loc. rātíṣu (12b), all connected by vā (11c, 12a). Another ex. of the poets’ enjoyment of syntactically licensed case disharmony.
@@ -155,3 +195,4 @@ Des Priesters oder Sängers Wort, o Sohn der Kraft, der eifervoll mit Spenden is
 Сделай речь нашедшего (сокровенное), о Васу,  
 Ниже богов – выше людей!
 </details>
+

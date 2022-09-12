@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+antár ← antár (invariable)  
+{}
+
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rocanā́ ← rocaná- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+apānatī́ ← √anⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+prāṇā́t ← prāṇá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+akhyat ← √khyā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dívam ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahiṣáḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ Dem Wesenkenner bringe ich, dem heldbesungnen, gnädigen Ein grosses schönes Lo
 Вдыхая (жизнь) из его выдоха.  
 Буйвол разглядывал небо.
 </details>
+

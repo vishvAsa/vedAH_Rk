@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nūnám ← nūnám (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+havyā́ni ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+hitā́ ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+imā́ ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ádhi ← ádhi (invariable)  
+{}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+turváśe ← turváśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yádau ← yádu- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+káṇveṣu ← káṇva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ O Ritter, kommet eilig her, die Speisen sind euch aufgestellt, Hier diese Soma's
 Вот соки сомы у Турваши (и) Яду,  
 А вот (они) для вас у Канвов.
 </details>
+

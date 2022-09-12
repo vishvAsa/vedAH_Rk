@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ślókaḥ ← ślóka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ácha ← ácha (invariable)  
+{}
+
+ávobhiḥ ← ávas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+niṣiktapā́m ← niṣiktapā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víṣṇum ← víṣṇu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+prajā́yai ← prajā́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +226,4 @@ Zu euch, o Maruts, dringe dieses Loblied, zu Vischnu auch, der Leibesfrucht besc
 И пусть дадут они силу потомству (и) певцу!  
 Защищайте вы нас всегда (своими) милостями.
 </details>
+

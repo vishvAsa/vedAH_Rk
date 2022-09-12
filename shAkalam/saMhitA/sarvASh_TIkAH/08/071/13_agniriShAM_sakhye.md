@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadātu ← √dā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+iṣā́m ← íṣ- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ī́śe ← √īś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+vā́ryāṇām ← vā́rya- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+śáśvat ← śáśvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tánaye ← tánaya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+toké ← toká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tanūpā́m ← tanūpā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásum ← vásu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ In Freundschaft schenk uns Agni von den Labungen, der über Güter frei verfügt
 
 -ru-
 </details>
+

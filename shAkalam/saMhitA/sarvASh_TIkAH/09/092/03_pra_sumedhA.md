@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gātuvít ← gātuvíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sumedhā́ḥ ← sumedhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvádevaḥ ← viśvádeva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nítyam ← nítya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sádaḥ ← sádas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhúvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+kā́vyeṣu ← kā́vya- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+rántā ← rántar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśveṣu ← víśva- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+dhī́raḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jánān ← jána- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+páñca ← páñca- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yatate ← √yat- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,3 +244,4 @@ Zum eignen Sitz geht flammend, vorwärtsdringend der weise Soma, allen Göttern 
 Он наслаждается всеми поэтическими произведениями.  
 Он приводит в порядок пять народов, (этот) умный (бог).
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+jaganvā́n ← √gam- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+saṁdŕ̥śam ← saṁdŕ̥ś- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+maṁsi ← √man- 1 (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:MED}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+adhipā́ḥ ← adhipā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ándhaḥ ← ándhas- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áśman ← áśman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+dr̥śáye ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+ninīyāt ← √nī- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+vápuḥ ← vápus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +239,4 @@ Und nun, da ich zu seinem Anblicke gekommen bin, so halte ich ihn für das Antli
 Солнце, которое в скале, и мрак пусть верховный защитник  
 Приведет ко мне, чтоб я увидел чудо.
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+sapráthāḥ ← sapráthas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥táḥ ← r̥tá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+trātar ← trātár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dīdivaḥ ← √dī- 1 (root)  
+{case:VOC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+samidhāna ← √idh- 1 (root)  
+{case:VOC, gender:M, number:SG, tense:AOR, voice:MED}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+víprāsaḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+vedhásaḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vivāsanti ← √vanⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +186,4 @@ O Agni, du bist umfangreich, ein rechter Seher, Retter du; Dich stimmen freundli
 Вдохновенные (поэты), о ярко сверкающий, когда (ты) зажжен,  
 Хотят привлечь тебя к себе, (эти) устроители обряда.
 </details>
+

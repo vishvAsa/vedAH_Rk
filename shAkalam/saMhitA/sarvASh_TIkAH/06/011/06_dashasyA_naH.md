@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+daśasyá ← √daśasy- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+hotar ← hótar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+purvaṇīka ← purvaṇīka- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+agníbhiḥ ← agní- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+idhānáḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vāvasānā́ḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+srasema ← √sraṁs- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+vr̥jánam ← vr̥jána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Sei hülfreich uns, o vielgestalt'ger Priester, entflammt durch Feuer, Agni mit 
 О сын силы, рядясь в богатства,  
 Пусть выскользнем мы из беды, как из окружения!
 </details>
+

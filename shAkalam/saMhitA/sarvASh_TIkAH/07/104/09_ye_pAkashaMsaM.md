@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pākaśaṁsám ← pākaśaṁsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vihárante ← √hr̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yé ← yá- (pronoun)  
+{}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dūṣáyanti ← √dūṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+svadhā́bhiḥ ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+áhaye ← áhi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pradádātu ← √dā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dadhātu ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+nírr̥teḥ ← nírr̥ti- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Wer den, der arglos redet, tückisch anfällt, den glücklichen beschädiget mit
 Пусть Сома выдаст их змею,  
 Или пусть он поместит их в лоно небытия!
 </details>
+

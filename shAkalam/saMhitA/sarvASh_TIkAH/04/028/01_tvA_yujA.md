@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tvā́ ← tvám (pronoun)  
+{case:INS, number:SG}
+
+yujā́ ← yúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sasrútaḥ ← sasrút- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+áhan ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áriṇāt ← √rī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+síndhūn ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+ápihitā ← √dhā- 1 (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+avr̥ṇot ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+khā́ni ← khá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +241,4 @@ Mit dir vereint, o Soma, dir gesellet, liess Indra strömen Wasser für den Mens
 Он убил змея, пустил течь семь рек,  
 Раскрыл отверстия, которые были словно заперты.
 </details>
+

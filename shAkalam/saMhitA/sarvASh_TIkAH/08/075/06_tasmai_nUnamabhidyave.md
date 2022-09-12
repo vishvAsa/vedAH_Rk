@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhídyave ← abhídyu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+nítyayā ← nítya- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vācā́ ← vā́c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+virūpa ← vírūpa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+codasva ← √cud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ Beeile diesem Stiere nun dem Himmelsstürmer Lobgesang, Virupa, siegend fort und
 
 -ru-
 </details>
+

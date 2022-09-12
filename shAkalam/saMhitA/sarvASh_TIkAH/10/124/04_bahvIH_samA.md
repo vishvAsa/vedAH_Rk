@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+akaram ← √kr̥- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+asmin ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+bahvī́ḥ ← bahú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sámāḥ ← sámā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jahāmi ← √hā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṇānáḥ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cyavante ← √cyu- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+avāmi ← √avⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+āyán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+paryā́vart ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+rāṣṭrám ← rāṣṭrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Verlebt hab' ich bei jenem viele Jahre, den Indra wählend geb' ich auf den Vate
 Перевернулась власть. Я поддерживаю это, приходя (сюда).  
 Индра:
 </details>
+

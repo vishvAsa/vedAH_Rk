@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+hárīṇām ← hári- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+abravam ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+dákṣam ← dákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥ñcántam ← √pr̥c- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+aśvyásya ← aśvyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+śrudhi ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+stuvatáḥ ← √stu- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +167,4 @@ Ich rief den Herrn der Füchse an, ihn, welcher Tüchtigkeit verleiht; So höre 
 Искусному, дарящему.  
 Прислушайся сейчас к восхваляющему потомку Ашвы!
 </details>
+

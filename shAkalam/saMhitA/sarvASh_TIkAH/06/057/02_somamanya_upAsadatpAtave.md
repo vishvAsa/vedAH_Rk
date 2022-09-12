@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asadat ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+camvòḥ ← camū́- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+pā́tave ← √pā- 2 (root)  
+{case:DAT, number:SG}
+
+sutám ← √su- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ichati ← √iṣ- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+karambhám ← karambhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Zum Soma setzt der eine sich, zu trinken aus dem Becherpaar, Der andre wünschet
 Чтобы пить (сок,) выжатый между двух досок,  
 Другой ищет каши.
 </details>
+

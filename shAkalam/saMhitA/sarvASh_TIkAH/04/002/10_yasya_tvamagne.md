@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jújoṣaḥ ← √juṣ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártasya ← márta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rárāṇaḥ ← √rā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+súdhitam ← súdhita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+hótrā ← hótrā- 1 (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+prītā́ ← √prī- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+yaviṣṭha ← yáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ásāma ← √as- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+vidhatáḥ ← √vidh- (root)  
+{case:GEN, gender:M, number:SG, tense:AOR, voice:ACT}
+
+vr̥dhā́saḥ ← vr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +238,4 @@ Welch' Opfer du, o Agni, huldreich annimmst, als Gott des Menschen reiches Mahl 
 Приятна пусть будет (тебе) эта служба хотара,  
 Да будем мы теми, кто усиливает этого устроителя (обряда)!
 </details>
+

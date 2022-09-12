@@ -15,13 +15,41 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+śárdhaṁ-śardham ← śárdha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+gaṇáṁ-gaṇam ← gaṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suśastíbhiḥ ← suśastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vrā́taṁ-vrātam ← vrā́ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+krāmema ← √kramⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +165,4 @@ Drum wollen wir euch Schar für Schar und Trupp für Trupp und Schwarm für Schw
 Каждую группу, каждую толпу  
 Мы сопроводим восхвалениями, молитвами.
 </details>
+

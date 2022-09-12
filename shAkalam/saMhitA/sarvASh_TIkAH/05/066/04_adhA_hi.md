@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+kā́vyā ← kā́vya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+adbhutā ← ádbhuta- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pūrbhíḥ ← púr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ketúnā ← ketú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+cikéthe ← √ci- 3 (root)  
+{number:DU, person:2, voice:MED}
+
+pūtadakṣasā ← pūtádakṣas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ Dann zeiget Seherweisheit ihr in Geistes Fülle, Herrliche; Und in der Menschen 
 Благодаря озарению людей  
 Воспринимаете поэтические прозрения, о вы, с чистым разумом!
 </details>
+

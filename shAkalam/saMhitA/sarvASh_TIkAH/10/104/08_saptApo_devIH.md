@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámr̥ktāḥ ← ámr̥kta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+suráṇāḥ ← suráṇa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+átaraḥ ← √tr̥̄- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pūrbhít ← pūrbhíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+síndhum ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+náva ← náva- 1 (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+navatím ← navatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+srávantīḥ ← √sru- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+srotyā́ḥ ← srotyā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mánuṣe ← mánus- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vindaḥ ← √vid- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +218,4 @@ Die sieben reinen, muntern Himmelsfluten, durch die burgbrechend Indra du zum Me
 
 -ru-
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+atithínīḥ ← atithín- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+iṣirā́ḥ ← iṣirá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sādhvaryā́ḥ ← sādhvaryá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+anavadyárūpāḥ ← anavadyárūpa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+spārhā́ḥ ← spārhá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+suvárṇāḥ ← suvárṇa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+párvatebhyaḥ ← párvata- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+vitū́rya ← √tūr(v)- ~ tur- (root)  
+{non-finite:CVB}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+nís ← nís (invariable)  
+{}
+
+sthivíbhyaḥ ← sthiví- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+ūpe ← √vap- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yávam ← yáva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +201,4 @@ Die vorwärts streben wandernd, munter eilend, die viel begehrten schön an Form
 Брихаспати, проведя (их) сквозь горы,  
 Высыпал коров, как зерно из корзин.
 </details>
+

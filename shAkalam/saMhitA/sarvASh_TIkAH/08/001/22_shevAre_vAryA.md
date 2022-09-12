@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+purú ← purú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śévāre ← śévāra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā́ryā ← vā́rya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártāya ← márta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+rāsate ← √rā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+stuvaté ← √stu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ariṣṭutáḥ ← ariṣṭutá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvágūrtaḥ ← viśvágūrta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +192,4 @@ Für sterbliche Verehrer hat der Gott viel Gut in seinen Schatz; Dem Sänger und
 Пусть подарит он выжимающему сому и восхваляющему  
 (Этот) всеми воспетый, преданно восхваленный!
 </details>
+

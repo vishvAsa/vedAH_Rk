@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sadhásthe ← sadhástha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śrudhí ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dravitnúm ← dravitnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yukṣvá ← √yuj- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+deváputre ← deváputra- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+bhūḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+mā́kis ← mā́kis (invariable)  
+{}
+
+syāḥ ← √as- 1 (root)  
+{number:SG, person:2, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Hör, Agni, uns in deinem Sitz und Hause, den schnellen Wagen schirr des Götter
 Привези нам две половины вселенной, чьи сыновья - боги!  
 Да не отсутствуешь ты среди богов, да будешь ты здесь!
 </details>
+

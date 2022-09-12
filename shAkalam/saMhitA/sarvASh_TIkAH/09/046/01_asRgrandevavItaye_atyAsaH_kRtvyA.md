@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ásr̥gran ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+devávītaye ← devávīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+átyāsaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+kŕ̥tvyāḥ ← kŕ̥tvya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kṣárantaḥ ← √kṣar- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+parvatāvŕ̥dhaḥ ← parvatāvŕ̥dh- (nominal stem)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +134,4 @@ Ergossen sind zum Göttermahl wie kraftbegabte Rosse sie, Die rinnend sich der S
 
 -ru-
 </details>
+

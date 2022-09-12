@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+madhuṣúttamaḥ ← madhuṣúttama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuvā́kuḥ ← yuvā́ku- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+pātam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+kárikrat ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+várpaḥ ← várpas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́gamiṣṭhaḥ ← ā́gamiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+niṣkr̥tám ← niṣkr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sutā́vataḥ ← sutā́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ Euch ist gebraut der süsseste, o Ritter, den Soma trinkt, und kommt zu unserm H
 А колесница ваша, принимающая много обликов,  
 Охотнее всего приезжает на свидание с тем, у кого выжат (сома).
 </details>
+

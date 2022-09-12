@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+dhanasā́m ← dhanasā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥jīṣíṇam ← r̥jīṣín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vīrám ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dūré ← dūrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sumatíḥ ← sumatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svā́diṣṭhā ← svā́diṣṭha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+yathā ← yathā (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mumócatam ← √muc- (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sakhyā́ ← sakhyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yauṣṭam ← √yu- 2 (root)  
+{number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +243,4 @@ Und diesen Helden, der Beute gewinnt und vorwärts dringt, den rufen wir zu Hül
 Чья милость сладчайшая, как у отца.  
 Не уклоняйтесь от дружбы с нами! Распрягайте (коней)!
 </details>
+

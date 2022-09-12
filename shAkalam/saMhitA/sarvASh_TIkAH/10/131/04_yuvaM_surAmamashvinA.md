@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+surā́mam ← surā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+āsuré ← āsurá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+námucau ← námuci- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+patī ← páti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śubhaḥ ← śúbh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vipipānā́ ← √pā- 3 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+āvatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kármasu ← kárman- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Ihr Açvinen beide, nachdem ihr den freudereichen [Soma] zugleich mit dem dämon
 Выделив (сому), о повелители красоты,  
 Помогли Индре в (его) деяниях.
 </details>
+

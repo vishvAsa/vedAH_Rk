@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dr̥ṣṭvā́ya ← √dr̥ś- (root)  
+{non-finite:CVB}
+
+kitavám ← kitavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stríyam ← strī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tatāpa ← √tap- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+anyéṣām ← anyá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+jāyā́m ← jāyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+súkr̥tam ← súkr̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+babhrū́n ← babhrú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+pūrvāhṇé ← pūrvāhṇá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yuyujé ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ánte ← ánta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+papāda ← √pad- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣaláḥ ← vr̥ṣalá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +244,4 @@ Es schmerzt den Spieler, wenn er nur ein Weib sieht, die Gattin und den schönen
 Но ведь он с раннего утра запряг коричневых коней,  
 (И вот) лег он перед огнем, как слуга.
 </details>
+

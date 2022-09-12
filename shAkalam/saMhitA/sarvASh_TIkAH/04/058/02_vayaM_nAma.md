@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+bravāma ← √brū- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+ghr̥tásya ← ghr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+dhārayāma ← √dhr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yajñé ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+brahmā́ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śasyámānam ← √śaṁs- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:PASS}
+
+śr̥ṇavat ← √śru- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+avamīt ← √vamⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+cátuḥśr̥ṅgaḥ ← cátuḥśr̥ṅga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gauráḥ ← gaurá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Wir wollen nun der Butter Wesen preisen, bei diesem Opfer demuthsvoU es hegen; D
 Пусть прислушивается брахман, когда оно произносится.  
 Четырехрогий бык-гаура изверг его из себя.
 </details>
+

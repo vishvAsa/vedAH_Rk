@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pā́rthivāḥ ← pā́rthiva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vāvr̥dhánta ← √vr̥dh- (root)  
+{number:PL, person:3, mood:INJ, tense:PRF, voice:MED}
+
+yé ← yá- (pronoun)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+antárikṣe ← antárikṣa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+uraú ← urú- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+nadī́nām ← nadī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+vr̥jáne ← vr̥jána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+sadhásthe ← sadhástha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +189,4 @@ Die sich auf Erden zeigen gross und in dem weiten Luftgebiet, Im Bett der Wolken
 Или в излучине рек,  
 Или в просторе великого неба:
 </details>
+

@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+áṁsayoḥ ← áṁsa- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+r̥ṣṭáyaḥ ← r̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+bāhvóḥ ← bāhú- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+bálam ← bála- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hitám ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ā́yudhā ← ā́yudha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+nr̥mṇā́ ← nr̥mṇá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rátheṣu ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śīrṣásu ← śíras- ~ śīrṣán- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+pipiśe ← √piś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+śrī́ḥ ← śrī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tanū́ṣu ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +245,4 @@ Auf euren Schultern tragt, o Maruts, Speere ihr, Sieg, Kraft und Stärke ist in 
 Мужество – в головы, оружие – в колесницы ваши.  
 Вся краса запечатлена на ваших телах.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 12 = 5+7, ending LHX  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 11 = 4+7, ending HLX  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+duḥśī́me ← duḥśī́ma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pŕ̥thavāne ← pŕ̥thavāna- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vené ← vená- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ásure ← ásura- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+maghávatsu ← maghávan- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+rāmé ← rāmá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vocam ← √vac- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+asmayú ← asmayú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+páñca ← páñca- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śatā́ ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+yuktvā́ya ← √yuj- (root)  
+{non-finite:CVB}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+viśrā́vi ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +207,4 @@ Dies habe ich vor dem Duççīma, dem Prithavāna, Vena, Rāma, dem Asura, den F
 
 -ru-
 </details>
+

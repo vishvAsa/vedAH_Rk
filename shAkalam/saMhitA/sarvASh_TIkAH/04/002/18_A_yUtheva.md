@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+akhyat ← √khyā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+kṣumáti ← kṣumánt- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+paśváḥ ← paśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yūthā́ ← yūthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ánti ← ánti (invariable)  
+{}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+jánima ← jániman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ugra ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+akr̥pran ← √kr̥p- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+cit ← cit (invariable)  
+{}
+
+mártānām ← márta- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+urváśīḥ ← urváśī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+aryáḥ ← arí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+āyóḥ ← āyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+úparasya ← úpara- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vr̥dhé ← vŕ̥dh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +240,4 @@ Er hat sie wie die Viehherden bei einem Viehbesitzer gezählt, da die Geschlecht
 Урваши и ей подобные затосковали даже по смертным,  
 Когда речь зашла об усилении благородного (господина) будущего человека.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+stutā́saḥ ← √stu- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+ácha ← ácha (invariable)  
+{}
+
+jigāta ← √gā- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sarvátātā ← sarvátāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sūrī́n ← sūrí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śatínaḥ ← śatín- (nominal stem)  
+{case:NOM, number:PL}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vardháyanti ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Kommt her, o Maruts, ihr gepries'nen alle, mit Huld und Segensfülle zu den Für
 Которые сами нас поддерживают, имея сотни!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
+

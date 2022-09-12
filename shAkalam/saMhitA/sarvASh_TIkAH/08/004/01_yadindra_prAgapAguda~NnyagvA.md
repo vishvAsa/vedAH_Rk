@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápāk ← ápāñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prā́k ← prā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+údak ← údañc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+hūyáse ← √hū- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nyàk ← nyàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+ā́nave ← ā́nava- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+nŕ̥ṣūtaḥ ← nŕ̥ṣūta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+síma ← simá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+praśardha ← praśardha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+turváśe ← turváśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +198,4 @@ Wenn, Indra, du in Ost und West, in Nord und Süd gerufen wirst; Denn alle Männ
 То сам ты часто бываешь у предводителя Ану, побуждаемый (его) мужами,  
 Ты бываешь, о смелый, у Турваши.
 </details>
+

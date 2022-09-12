@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iṣitáḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tū́yam ← tū́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bādhasva ← √bādhⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sáhasvān ← sáhasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+aktáḥ ← √añj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+dyúbhiḥ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śasyáse ← √śaṁs- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+vácobhiḥ ← vácas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ghóṣi ← √ghuṣ- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+jaritúḥ ← jaritár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +244,4 @@ Drum thu dies schnell, zur That erregt, o Agni, verjag die Feinde durch Gewalt, 
 Когда восхваляют тебя (целыми) днями, умащенный речами,  
 Наслаждайся этой (речью) певца, услышь произведение!
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śrudhí ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+tiraścyā́ḥ ← tiraścī́- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+saparyáti ← √sapary- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gómataḥ ← gómant- (nominal stem)  
+{case:GEN, number:SG}
+
+suvī́ryasya ← suvī́rya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūrdhi ← √pr̥̄- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +184,4 @@ Erhöre des Tiraçtschi Ruf, o Indra, welcher dich verehrt, Und schenke Gut, das
 Переполни (его) богатством из прекрасного потомства,  
 Из коров. Ты велик.
 </details>
+

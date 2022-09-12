@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+citra ← citrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mehánā ← mehánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tvā́dātam ← tvā́dāta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vidadvaso ← vidádvasu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ubhayāhastí ← ubhayāhastí(n)- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +167,7 @@ The Pp. reads ubhayāhastí with short -í, which is assigned to an -i-stem by G
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/039/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/039/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 In the refrain (1-3cd) the pl. ‘bulls’ (vṛ́ṣabhiḥ) accompanying Indra were identified with the Maruts already by Sāyaṇa. Since this section culminates in the Midday Pressing (4d), this identification makes sense, since that pressing is shared by Indra and the Maruts.
@@ -155,3 +198,4 @@ Welch Gut dir, Indra, reichlich ist, das du verschenkst, o Schleuderer, O lichte
 Ты его нам, о находящий блага,  
 Принеси обеими руками!
 </details>
+

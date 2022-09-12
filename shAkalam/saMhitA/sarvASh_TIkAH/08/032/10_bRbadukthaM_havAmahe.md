@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+br̥báduktham ← br̥báduktha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+sr̥prákarasnam ← sr̥prákarasna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+kr̥ṇvántam ← √kr̥- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sā́dhu ← sā́dhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +141,4 @@ Den hochgelobten rufen wir, der weit den Arm zur Hülfe streckt, Den segenwirken
 Того, чьи руки гибки – на помощь,  
 Того, кто поступает правильно, – для поддержки,
 </details>
+

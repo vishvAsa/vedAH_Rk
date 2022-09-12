@@ -16,14 +16,63 @@ ChandaH = "जगती त्रिष्टुब्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhánvasu ← dhánvan- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pathyā̀su ← pathyā̀- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+svastí ← svastí- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+svàrvati ← svàrvant- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+svastí ← svastí- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥jáne ← vr̥jána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+putrakr̥théṣu ← putrakr̥thá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+svastí ← svastí- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yóniṣu ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dadhātana ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svastí ← svastí- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Schafft Heil uns auf den Wegen, Heil uns auf dem Land, Heil auf dem Wasser, Heil
 
 -ru-
 </details>
+

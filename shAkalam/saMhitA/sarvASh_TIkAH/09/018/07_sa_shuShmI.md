@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; line affected by realignment;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+kaláśeṣu ← kaláśa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śuṣmī́ ← śuṣmín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+acikradat ← √krand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mádeṣu ← máda- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sarvadhā́ḥ ← sarvadhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,7 +134,7 @@ He, tempestuous in the tubs, kept roaring while being purified.
 
 Because of the rel. cl. / main cl. structure of vss. 4-7 (see above), I would lightly emend to the tr. to “he/that one, tempestuous in the tubs, kept roaring …,” to display this structure more clearly.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/04-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/04-07.md">
 <details open><summary><h2>04-07 ...{Loading}...</h2></summary>
 
 Vss. 4-6 all (save for the refrain pāda) consist of rel. clauses headed by yáḥ and couched in the 3rd ps.; the main clause appears to be vs. 7, with the resumptive prn. sá and 3rd ps. verb.
@@ -134,3 +165,4 @@ Er wieherte, der feurige, gereiniget den Schalen zu; Bei den Gelagen schenkst du
 Громко заревел в кувшинах.  
 В опьянениях ты даешь все.
 </details>
+

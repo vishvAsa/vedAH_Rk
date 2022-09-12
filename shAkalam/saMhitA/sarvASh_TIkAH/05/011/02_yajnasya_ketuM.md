@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prathamám ← prathamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puróhitam ← puróhita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īdhire ← √idh- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+triṣadhasthé ← triṣadhasthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sarátham ← sarátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sī́dat ← √sad- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajáthāya ← yajátha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Den ersten Priester und des Opfers Fahne ihn, den Agni fachten Männer in drei S
 (Отправившись) вместе с Индрой, с богами на одной колеснице,  
 Он уселся как хотар на жертвенную солому, чтобы принести жертву, (он,) прекрасный силой духа.
 </details>
+

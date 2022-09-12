@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádam ← máda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádyam ← mádya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pávante ← √pū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+abhí ← abhí (invariable)  
+{}
+
+kóśam ← kóśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+madhuścútam ← madhuścút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Die muntern Soma's lassen hell den Trank hinrieseln, der berauscht, Zur Kufe, di
 Очищаются, (чтоб дать) пьянящее опьянение,  
 (Чтобы попасть) в сосуд, сочащийся сладостью.
 </details>
+

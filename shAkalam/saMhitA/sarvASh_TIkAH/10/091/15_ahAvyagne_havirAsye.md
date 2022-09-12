@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áhāvi ← √hu- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+āsyè ← āsyà- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+camvì ← camū́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+srucí ← srúc- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvī́ram ← suvī́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājasánim ← vājasáni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+praśastám ← √śaṁs- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yaśásam ← yaśás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ In deinen Mund ist, Agni, Trank ergossen, wie Fett in Löffel, wie in Becher Som
 Дай нам богатство, завоевывающее награду,  
 Состоящее из прекрасных сыновей, знаменитое, блистательное, высокое!
 </details>
+

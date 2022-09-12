@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+bráhmakr̥tim ← bráhmakr̥ti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bráhman ← bráhman- (nominal stem)  
+{case:VOC, gender:N, number:SG}
+
+juṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+vīra ← vīrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arvācīnáḥ ← arvācīná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háribhiḥ ← hári- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tū́yam ← tū́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+mādayasva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sávane ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śr̥ṇavaḥ ← √śru- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +228,4 @@ Das Flehn, o Held, vernehmend beim Gebete, komm rasch herbei, mit deinen Füchse
 Опьяняйся хорошенько на этом выжимании!  
 Прислушайся к этим нашим молитвам!
 </details>
+

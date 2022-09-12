@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śr̥ṇvantu ← √śru- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhūma ← √bhū- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+saṁdŕ̥śi ← saṁdŕ̥ś- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śū́ne ← śū́na- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aśīmahi ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jaraṇā́m ← jaraṇā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jī́vantaḥ ← √jīv- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ Es höre Erd' und Himmel diesen unsern Ruf, die Wasser, Indra und die Maruts die
 Да не лишимся мы видения солнца!  
 Живя счастливо, пусть достигнем мы старости!
 </details>
+

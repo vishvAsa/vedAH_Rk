@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+viṣṇo ← víṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+viśvájanyām ← viśvájanya- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áprayutām ← áprayuta- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+evayāvaḥ ← evayā́van- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+matím ← matí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bhū́reḥ ← bhū́ri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+párcaḥ ← √pr̥c- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+suvitásya ← suvitá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+áśvāvataḥ ← áśvāvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+puruścandrásya ← puruścandrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Erweis', o Vischnu, allen Menschen Güte, schnellgehender, und unabläss'ge Sorg
 Чтобы ты нас наполнил большой удачей,  
 Богатством из коней и обильного золота!
 </details>
+

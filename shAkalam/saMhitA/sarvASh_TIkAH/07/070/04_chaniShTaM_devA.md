@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+caniṣṭám ← √kanⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+devau ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+óṣadhīṣu ← óṣadhī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+aśnávaithe ← √naś- 1 (root)  
+{number:DU, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+ŕ̥ṣīṇām ← ŕ̥ṣi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yogyā́ḥ ← yogyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dádhatau ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+rátnā ← rátna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+cakhyathuḥ ← √khyā- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+pū́rvāṇi ← pū́rva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yugā́ni ← yugá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ So kommt, erfreut an Kräutern euch und Fluten, dass Götter ihr erlangt der Sä
 Оставляя многие сокровища у нас,  
 Вы оглядываетесь на прежние поколения.
 </details>
+

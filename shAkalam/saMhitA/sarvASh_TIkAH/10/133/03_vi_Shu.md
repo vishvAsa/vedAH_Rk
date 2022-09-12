@@ -19,10 +19,10 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,85 @@ genre M
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+árātayaḥ ← árāti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+naśanta ← √naś- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ástā ← ástar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śátrave ← śátru- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vadhám ← vadhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jíghāṁsati ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dadíḥ ← dadí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rātíḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+anyakéṣām ← anyaká- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dhánvasu ← dhánur ~ dhánvan- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+jyākā́ḥ ← jyāká- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +269,4 @@ Bald schwinde hin der Bösen Schar und unsres Gegners Pläne all', Die Waffe wir
 Пусть лопнут у других людишек  
 (Их) жалкие тетивы на луках!
 </details>
+

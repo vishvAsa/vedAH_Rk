@@ -15,14 +15,48 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+sajóṣasaḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vraté ← vratá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+adrúhaḥ ← adrúh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+bhavanti ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rántayaḥ ← ránti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+spārhā́ḥ ← spārhá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+juṣánta ← √juṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +164,4 @@ Die Götter alle im Verein, die treuen sind in seinem Dienst Erfreuer des Begehr
 Все боги безобманные.  
 Желанны бывают наслаждения, потому что они доставляют удовольствие.
 </details>
+

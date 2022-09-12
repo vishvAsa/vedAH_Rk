@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+cit ← cit (invariable)  
+{}
+
+dhr̥ṣát ← √dhr̥ṣ- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+dhr̥ṣatáḥ ← √dhr̥ṣ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥ṇóṣi ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+saparyatáḥ ← √sapary- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sómaiḥ ← sóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tīvraíḥ ← tīvrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+pratibhū́ṣataḥ ← √bhūṣ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bhadrā́ḥ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rātáyaḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ Noch kühner wird des kühnen Muth, wenn du, o Indra, ihn erregst, Dem, der mit 
 Служащего (тебе) поклонениями,  
 Дары Индры несут счастье.
 </details>
+

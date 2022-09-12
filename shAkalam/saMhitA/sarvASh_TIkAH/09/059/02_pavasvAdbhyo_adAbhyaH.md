@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ádābhyaḥ ← ádābhya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adbhyáḥ ← áp- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+óṣadhībhyaḥ ← óṣadhī- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+dhiṣáṇābhyaḥ ← dhiṣáṇā- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,3 +125,4 @@ Trugloser, riesle aus der Flut und riesle aus den Kräutern her Und aus den Scha
 
 -ru-
 </details>
+

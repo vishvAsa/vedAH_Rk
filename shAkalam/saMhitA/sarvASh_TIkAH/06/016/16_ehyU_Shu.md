@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+brávāṇi ← √brū- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ítarāḥ ← ítara- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+ebhíḥ ← ayám (pronoun)  
+{case:INS, gender:M, number:PL}
+
+índubhiḥ ← índu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vardhāse ← √vr̥dh- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +180,4 @@ Komm her, nun will ich singen gern noch andre Lieder, Agni, dir; Erquick an dies
 О Агни, другие песни – просто так.  
 Этими соками сомы подкрепляйся!
 </details>
+

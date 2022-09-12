@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+sadhástutyāya ← sadhástutya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sūríṣu ← sūrí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+átūrtadakṣā ← atūrtadakṣa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vr̥ṣaṇvasū ← vŕ̥ṣaṇvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Ich rufe euren Wagen her zum Chorlied bei der edlen Schar, O heldenstarke Helden
 Для совместного восхваления у покровителей,  
 О два быка с непревзойденной силой действия, о обладатели мощного богатства!
 </details>
+

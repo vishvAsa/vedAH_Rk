@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dákṣiṇāvantaḥ ← dákṣiṇāvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+uccā́ ← uccā́ (invariable)  
+{}
+
+aśvadā́ḥ ← aśvadā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sahá ← sahá (invariable)  
+{}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+amr̥tatvám ← amr̥tatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhajante ← √bhaj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+hiraṇyadā́ḥ ← hiraṇyadā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tirante ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+vāsodā́ḥ ← vāsodā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Hoch zum Himmel haben sich die Geber des Opferlohnes erhoben; die Geber der Ross
 Дарители золота вкушают бессмертие,  
 Дарители одежды, о сома, продлевают срок жизни.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vyódane ← vyódana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+kramiṣṭa ← √kramⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+urú ← urú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dade ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+paśváḥ ← paśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yávam ← yáva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +167,4 @@ Beim Strömen dieses Stieres schritt er mächtig aus, zu stärken sich, Nahm ihn
 Он широко шагнул вперед, чтобы жить:  
 Он забрал его себе, как скот – ячмень.
 </details>
+

@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+rā́sabham ← rā́sabha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yuñjā́thām ← √yuj- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vīḍvàṅge ← vīḍvàṅga- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vr̥ṣaṇvasū ← vŕ̥ṣaṇvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +145,4 @@ An euren festen Wagen schirrt den Esel, heldenstarke ihr, Zum Trunk des süssen 
 С прочными частями, о полные мужских сил,  
 Чтобы пить сладкого сому!
 </details>
+

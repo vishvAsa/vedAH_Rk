@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amimīta ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sadyás ← sadyás (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+purogā́ḥ ← purogā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+hótuḥ ← hótar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pradíśi ← pradíś- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vācí ← vā́c- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+adantu ← √ad- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svā́hākr̥tam ← svā́hākr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Geboren kaum vollzog das Opfer Agni der Götter Führer ward er, diese mögen Na
 Пусть боги вкушают возлияние, сопровождаемое возгласом:  
 Свага!
 </details>
+

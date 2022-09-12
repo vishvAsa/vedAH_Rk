@@ -16,14 +16,54 @@ ChandaH = "पुरस्ताद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+codayaḥ ← √cud- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vr̥trahátye ← vr̥trahátya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+kārpāṇé ← kārpāṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vajrivaḥ ← vajrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+kavīnā́m ← kaví- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yádi ← yádi (invariable)  
+{}
+
+nákṣatraśavasām ← nákṣatraśavas- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +190,4 @@ O feure, blitzbewehrter Held, die Männer an in Feindesschlacht, im Schwerterkam
 Если ты тайно принадлежишь провидцам,  
 Как людям, сильным властью.
 </details>
+

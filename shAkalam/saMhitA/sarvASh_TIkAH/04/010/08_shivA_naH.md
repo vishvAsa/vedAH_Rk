@@ -16,14 +16,57 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sakhyā́ ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śivā́ ← śivá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhrātrā́ ← bhrātrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sántu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yuṣmé ← tvám (pronoun)  
+{case:LOC, number:PL}
+
+nā́bhiḥ ← nā́bhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+ū́dhan ← ū́dhar- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +206,4 @@ Zum Heile sein wir – Genossen, Brüder – mit euch den Göttern, – Das sei 
 О Агни, с вами, богами!  
 Для нас это пуповина, (благодаря которой мы) в одном и том же месте (с вами), у одного вымени.
 </details>
+

@@ -15,14 +15,51 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+somapā́tamaḥ ← somapā́tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cétati ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mádaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śaviṣṭha ← śáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+atríṇam ← atrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+háṁsi ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +158,7 @@ Although it is Indra whom we expect to be the best soma-drinker, here the epithe
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 This tṛca is unified by a series of relative clauses (mostly introduced by yéna) whose antecedent in the main clause is the tám that opens the refrain. The presumed referent of all the relative pronouns (and the tám’s) is mádaḥ in 1b, although it could be any power or capacity of Indra’s that comes to mind.
@@ -152,3 +189,4 @@ Welch Rausch, Indra, der stärkste ist, vom Somatrunk erregteste, Durch den du n
 Проявляется как больше всех поглощающее сому, о сильнейший,  
 Благодаря которому ты разбиваешь Атрина – мы просим о нем.
 </details>
+

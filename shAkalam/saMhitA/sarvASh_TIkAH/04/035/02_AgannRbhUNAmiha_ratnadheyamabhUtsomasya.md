@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agan ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+ratnadhéyam ← ratnadhéya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥bhūṇā́m ← r̥bhú- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ábhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+pītíḥ ← pītí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+súṣutasya ← súṣuta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+sukr̥tyáyā ← sukr̥tyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+svapasyáyā ← svapasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+camasám ← camasá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+caturdhā́ ← caturdhā́ (invariable)  
+{}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vicakrá ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ Es kam hierher der Ribhu's reiche Spende; des schöngepressten Soma's Trunk erfo
 Потому что благодаря вашему прекрасному трудолюбию и мастерству  
 Вы сделали из одного кубка четыре.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+divyásya ← divyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+īśāthe ← √īś- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+pā́rthivasya ← pā́rthiva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+dhattám ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kīráye ← kīrí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stuvaté ← √stu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Ihr beide ja, Brihaspati und Indra, besitzt das Gut des Himmels und der Erde; de
 Дайте богатство восхвалителю, даже если тот слаб!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
+

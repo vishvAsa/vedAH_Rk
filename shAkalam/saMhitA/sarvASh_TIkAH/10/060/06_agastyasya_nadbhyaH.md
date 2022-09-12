@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+agástyasya ← agástya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nádbhyaḥ ← nápat- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+róhitā ← róhita- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sáptī ← sápti- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yunakṣi ← √yuj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+akramīḥ ← √kramⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+paṇī́n ← paṇí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+arādhásaḥ ← arādhás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ Den Sielen des Agastja schirrst dein rothes Zwiegespann du an, Die gabenlosen Kn
 Ты наступил на Пани,  
 На всех скупцов, о царь.
 </details>
+

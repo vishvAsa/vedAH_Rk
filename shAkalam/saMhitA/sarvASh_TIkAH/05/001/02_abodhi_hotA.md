@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ábodhi ← √budh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajáthāya ← yajátha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+prātár ← prātár (invariable)  
+{}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adarśi ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+pā́jaḥ ← pā́jas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rúśat ← rúśant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sámiddhasya ← √idh- 1 (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+amoci ← √muc- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+támasaḥ ← támas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Es ward erweckt zum Gottesdienst der Priester, und auf stand Agni wohlgesinnt am
 Стала видна светящаяся поверхность зажженного:  
 Великий бог освободился из тьмы.
 </details>
+

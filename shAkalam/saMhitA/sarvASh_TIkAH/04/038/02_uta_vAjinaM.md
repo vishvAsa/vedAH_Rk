@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+puruniṣṣídhvānam ← puruniṣṣídhvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadathuḥ ← √dā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+dadhikrā́m ← dadhikrā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+viśvákr̥ṣṭim ← viśvákr̥ṣṭi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āśúm ← āśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pruṣitápsum ← pruṣitápsu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥jipyám ← r̥jipyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śyenám ← śyená- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+carkŕ̥tyam ← carkŕ̥tya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nr̥pátim ← nr̥páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śū́ram ← śū́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Ihr gabt das Ross, das viele Gaben spendet, den Dadhikra, der allen Menschen zuk
 Коршуна, распластанного в полете, брызжущего благами, стремительного,  
 Достойного воспевания у господина, отважного, словно царь,
 </details>
+

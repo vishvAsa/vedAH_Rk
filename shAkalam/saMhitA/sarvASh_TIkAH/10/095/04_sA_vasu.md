@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+dádhatī ← √dhā- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+śváśurāya ← śváśura- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ántigr̥hāt ← ántigr̥ha- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+váṣṭi ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yádi ← yádi (invariable)  
+{}
+
+ástam ← ásta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cākán ← √kanⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRF, voice:ACT}
+
+nanakṣe ← √nakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+dívā ← dívā (invariable)  
+{}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śnathitā́ ← √śnathⁱ- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+vaitaséna ← vaitasá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Sie, dem Schwiegervater aus der Nähe des Hauses Gut und Nahrung bringend, so of
 
 -ru-
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+pūṣáṇam ← pūṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+yuvāmahe ← √yu- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+abhī́śūn ← abhī́śu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+sā́rathiḥ ← sā́rathi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahyaí ← máh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +140,4 @@ Den Puschan ziehn wir fest an uns, wie Zügel, wer den Wagen lenkt, Und Indra un
 Как возница – вожжи,  
 (И) Индру на великое счастье.
 </details>
+

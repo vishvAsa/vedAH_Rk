@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+párāsaḥ ← pára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+āśuṣāṇā́ḥ ← √śvasⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+pratnā́saḥ ← pratná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ayan ← √i- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+dī́dhitim ← dī́dhiti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+śúci ← śúci- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ukthaśā́saḥ ← ukthaśás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+aruṇī́ḥ ← aruṇá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+bhindántaḥ ← √bhid- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+kṣā́ma ← kṣā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vran ← √vr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,3 +251,4 @@ Als unsre Väter, sie die frühern, alten, anfachten einst das heil'ge Feur, o A
 Сказители гимнов уйдут в чистую (область), в мир видения.  
 Раскалывая землю, они откроют алых (коров).
 </details>
+

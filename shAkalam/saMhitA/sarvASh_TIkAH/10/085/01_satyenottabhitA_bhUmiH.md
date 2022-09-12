@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+bhū́miḥ ← bhū́mi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+satyéna ← satyá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+úttabhitā ← √stambhⁱ- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+úttabhitā ← √stambhⁱ- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+ādityā́ḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tiṣṭhanti ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ádhi ← ádhi (invariable)  
+{}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śritáḥ ← √śri- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +177,4 @@ Durch Wahrheit steht die Erde fest, | der Himmel durch den Sonnengott, | durch R
 Законом существуют Адитьи  
 (И) Сома устроен на небе.
 </details>
+

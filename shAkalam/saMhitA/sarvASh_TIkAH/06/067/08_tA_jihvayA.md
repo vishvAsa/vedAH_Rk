@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jihváyā ← jihvā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sádam ← sádam (invariable)  
+{}
+
+sumedhā́ḥ ← sumedhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aratíḥ ← aratí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́t ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+r̥té ← r̥tá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ghr̥tānnau ← ghr̥tā́nna- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mahitvám ← mahitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cayiṣṭam ← √ci- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,3 +265,4 @@ Nehmt stets ihn mit der Zunge, wenn der Opfrer, der weise, gute euch beim Fest e
 В этом должно быть ваше величие, о питающиеся жиром:  
 Рассейте вы беду для почитающего вас!
 </details>
+

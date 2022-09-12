@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devayántaḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svādhyàḥ ← svādhī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+áśiśrayuḥ ← √śri- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+devátātā ← devátāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+rathayúḥ ← rathayú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mātárā ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+pūrvī́ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+rihāṇé ← √rih- (root)  
+{case:ACC, gender:F, number:DU, tense:PRS, voice:MED}
+
+śíśum ← śíśu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agrúvaḥ ← agrū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+añjan ← √añj- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+sámaneṣu ← sámana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Beim Gottesdienste öffneten die Thore dem Wagenzuge andachtsvoll die Frommen; S
 Словно две матери, облизывающие теленка,  
 Словно девицы (украшающиеся) на празднествах, они умащают многие (врата).
 </details>
+

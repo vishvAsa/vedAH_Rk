@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mimāti ← √mā- 2 ~ mī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+ukṣā́ ← ukṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+niṣkr̥tám ← niṣkr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+akramīt ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+árjunam ← árjuna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+avyáyam ← avyáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́ram ← vā́ra- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+átkam ← átka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avyata ← √vyā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+niktám ← √nij- (root)  
+{case:NOM, gender:M, number:SG, voice:PASS}
+
+pári ← pári (invariable)  
+{}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +220,7 @@ In c the earthly soma is still at issue - here protecting the commandments (vrat
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/069/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/069/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 There is considerable chaining between these two vss.: pári … avyata (4d), pári vyata (5b); niktám (4d), nirṇijānáḥ (5b), nirṇíje (5c), all referring to Soma’s clothing himself in milk. On the connections with the next hymn, see comm. ad IX.70.1.
@@ -188,3 +252,4 @@ Es brüllt der Stier, die Kühe gehn entgegen ihm, zum Stelldichein des Gottes g
 Он перешагнул через белое сито из овечьей шерсти.  
 Словно в свежевыстиранное одеяние, облачился сома (в молоко).
 </details>
+

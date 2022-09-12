@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+áśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+márutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+víṣṇo ← víṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yāta ← √yā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mā́kīnayā ← mā́kīna- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pū́ṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saniṣyúbhiḥ ← saniṣyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yātu ← √yā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+gr̥ṇé ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ O kommt herbei, ihr Maruts, Vischnu, Ritterpaar, Puschan, durch mein Gebet geloc
 О Индра, приезжай первым вместе со стремящимися к добыче (Марутами),  
 (Этот) бык, которого воспевают как убийцу Вритры!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bharadhvam ← √bhr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mánīṣiṇaḥ ← manīṣín- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+matáyaḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+nr̥ṇā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yáthā-yathā ← yáthā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īrayāma ← √īr- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+kr̥tébhiḥ ← √kr̥- (root)  
+{case:INS, gender:M, number:PL, non-finite:PPP}
+
+satyaíḥ ← satyá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+girvaṇasyúḥ ← girvaṇasyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vídānaḥ ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +227,4 @@ Ihr weisen Sänger, traget den Gesang vor je nach der Männer mannichfachen Wün
 Индру мы хотим привлечь (его) истинными подвигами -  
 Ведь этот герой известен как любитель хвалебных песен.
 </details>
+

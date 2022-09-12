@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+aviḍḍhi ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sárasvati ← sárasvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+dhr̥ṣatī́ ← √dhr̥ṣ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+jeṣi ← √ji- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+marútvatī ← marútvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+śárdhantam ← √śardh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+taviṣīyámāṇam ← √taviṣīy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+hanti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śáṇḍikānām ← śáṇḍika- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Sarasvatī, du stehe uns zur Seite, besieg' die Feinde kühnlich mit den Maruts,
 Даже этого заносчивого, показывающего (свою) силу  
 Предводителя шандиков убивает Индра.
 </details>
+

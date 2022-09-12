@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+devau ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+kumāráḥ ← kumārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sāhadevyáḥ ← sāhadevyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dīrghā́yuḥ ← dīrghā́yuṣ- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómakaḥ ← sómaka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +149,4 @@ Dieser junge Sohn des Sahadeva, Somaka, möge lange leben durch euch, o Açvinen
 Царевич Сомака Сахадевья  
 Получит у вас долгий срок жизни!
 </details>
+

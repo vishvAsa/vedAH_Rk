@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+vraté ← vratá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bíbhrataḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tanū́ṣu ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+prajā́vantaḥ ← prajā́vant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sacemahi ← √sac- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +145,4 @@ In deinem Dienste mögen wir, o Soma, reich an Kindern, sein, Den Geist bewahren
 Неся дух в телах,  
 Имея потомство, принадлежать (ему)!
 </details>
+

@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ásmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+pratiháryate ← √hr̥- 2 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+jā́tavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vícarṣaṇe ← vícarṣaṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jánāmi ← √janⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +138,4 @@ Drum dir, dem gern empfangenden, o Wesenkenner, rüstiger, O Agni, zeug' ich Lob
 О Джатаведас, движущийся в разные стороны,  
 О Агни, я порождаю прекрасную хвалу.
 </details>
+

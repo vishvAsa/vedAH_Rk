@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+paścā́ ← paścā́ (invariable)  
+{}
+
+yájatram ← yájatra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ámartyasya ← ámartya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhūnā́ ← bhūmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+garútmān ← garútmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+suparṇáḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhárma ← dhárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+pū́rvaḥ ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Darauf entstand dies andre, hocherhabne, durch reiche Fülle dessen, was unsterb
 Конечно, птица Савитара Гарутмант  
 Была рождена раньше, и она тоже по его закону.
 </details>
+

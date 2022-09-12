@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+babhūva ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+prátirūpaḥ ← prátirūpa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rūpáṁ-rūpam ← rūpá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+praticákṣaṇāya ← praticákṣaṇa- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+rūpám ← rūpá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+māyā́bhiḥ ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+pururū́paḥ ← pururū́pa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+śatā́ ← śatá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yuktā́ḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +223,7 @@ Each constituency is shown a different form—hence the āmreḍita rūpáṃ-r�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/15-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/15-18.md">
 <details open><summary><h2>15-18 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, this section, which concerns Indra’s fickle attentions to various clients in turn, is marked grammatically by āmreḍitas and intensives (i.e., iterative/frequentatives), expressing the constantly shifting nature of the actions and their objects. See the published introduction. for the continuity of content I see in this section.
@@ -203,3 +255,4 @@ Gleich an Gestalt ward jeglicher Gestalt er, so ist zu schauen die Gestalt des I
 Благодаря волшебным способностям Индра ходит во многих обликах –  
 Ведь запряжено для него десять сотен буланых коней.
 </details>
+

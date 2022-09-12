@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anyā́ḥ ← anyá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+anyā́ḥ ← anyá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yánti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pr̥ṇanti ← √pr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+samānám ← samāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrvám ← ūrvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dīdivā́ṁsam ← √dī- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śúcim ← śúci- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+nápātam ← nápat- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+tasthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,8 +197,6 @@ genre M
 Some streams unite themselves and others join them: as rivers, they flow together to propitiate Urva (the fire within water). On every side the bright streams have encompassed the bright and resplendent apAM napAt.
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -183,3 +242,4 @@ Vereint gehn diese, jene beieinander, dasselbe Becken füllen an die Ströme; Un
 Этого чистого, ярко сверкающего Апам Напата  
 Окружили чистые воды.
 </details>
+

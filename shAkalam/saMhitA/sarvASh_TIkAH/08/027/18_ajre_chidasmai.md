@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ájre ← ájra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+kr̥ṇutha ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+nyáñcanam ← nyáñcana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+durgé ← durgá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+susaraṇám ← susaraṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aśániḥ ← aśáni- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+asmāt ← ayám (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+parás ← parás (invariable)  
+{}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ásredhantī ← ásredhant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+naśyatu ← √naś- 2 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +241,4 @@ Auf ebner Flur auch schafft ihr eine Zuflucht ihm und im Gebirge schöne Bahn; D
 Пусть эта самая молния исчезнет  
 Далеко от него, не причиняя вреда!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+arvan ← árvan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nídāyāḥ ← nídā- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+agníbhiḥ ← agní- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+idhānáḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+víśvebhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+duchúnāḥ ← duchúnā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+véṣi ← √vī- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+yāsi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mádema ← √mad- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+śatáhimāḥ ← śatáhima- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvī́rāḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +195,7 @@ You pursue riches; you drive across misfortunes. – Having good heroes  might w
 In the first pāda as transmitted (metrically faulty), there is a hapax nídāyā(ḥ) supposed built to a fem. nídā- ‘scorn’. There is no verb to govern this word, so “protect” vel sim. must be supplied. Geldner adduces nearby VI.14.5 nidáḥ … uruṣyáti, while Grassmann suggests II.34.15 nidó muñcátha. I am now somewhat more sympathetic to these makeshifts than I was when I produced the published translation, but the fact remains that protection from scorn would be rather intrusive in the passage, in a hymn that focuses almost exclusively on Agni’s travel and speed. In the published translation I suggest a different analysis of the sequence, which I still favor: arvann íd *ā́yāḥ, resegmenting the Pp. analysis and taking āyā(ḥ) to ā́√yā ‘drive here’. This requires an alteration of the Saṃhitā text by accenting ā́yāḥ. The posited verb form could be an impf., injunc., or subj. to the root pres. to this root, or an indic. or injunc. to the s-aorist. Since no other such forms occur unambiguously in the RV, it could have been reanalyzed and lost accent. For a possibly similar form see yā́(ḥ) in V.33.2 and comm. ad loc. Although the particle íd would be slightly oddly positioned after a voc., it is fairly regular in pre-verbal position when the verb is final in its pāda (e.g., in this maṇḍala
 
 
-> 19.13
+&gt; 19.13
 śátroḥ-śatror úttara ít syāma, 42.3 dhr̥ṣát tám-tam íd éṣate, 45.7 yó grṇ̥ atā́m íd ā́sitha).
 
 Note also the phonetic figure closing a and b: nídāyā(ḥ)# ...
@@ -174,3 +226,4 @@ Befreie uns, o Renner, von Verleumdung, o Agni du, entflammt durch alle Feuer; B
 Ты направляешься к богатствам, ты минуешь несчастья.  
 Пусть мы ликуем, живя сто зим, имея прекрасных мужей!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; 12 = 5+7, ending LHX  
 popular
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mithunā́ ← mithuná- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śápātaḥ ← √śap- (root)  
+{number:DU, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+janáyanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+rebhā́ḥ ← rebhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tr̥ṣṭám ← tr̥ṣṭá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vācáḥ ← vā́c- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jā́yate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mánasaḥ ← mánas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+manyóḥ ← manyú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śaravyā̀ ← śaravyā̀- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+hŕ̥daye ← hŕ̥daya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+táyā ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+vidhya ← √vyadh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yātudhā́nān ← yātudhā́na- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Wenn paarweis' heut die Bösen fluchen, Agni, wenn redend rauhe Worte sie erzeug
 Что, как град стрел, рождается из мысли в гневе,  
 Пронзи колдунов этим в сердце!
 </details>
+

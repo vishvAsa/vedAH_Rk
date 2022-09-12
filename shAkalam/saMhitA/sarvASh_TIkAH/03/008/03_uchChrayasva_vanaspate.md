@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+śrayasva ← √śri- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+út ← út (invariable)  
+{}
+
+vanaspate ← vánaspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+várṣman ← várṣman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mīyámānaḥ ← √mā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+súmitī ← súmiti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+várcaḥ ← várcas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajñávāhase ← yajñavāhas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +169,4 @@ Erhebe du, o Waldesherr auf dieser Erde Fläche dicli, mit rechtem Mass gemessen
 Воздвигаемое прекрасным воздвиганием,  
 Придай блеск отвозящему жертву!
 </details>
+

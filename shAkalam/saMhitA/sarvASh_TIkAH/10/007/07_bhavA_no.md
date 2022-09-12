@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vayaskŕ̥t ← vayaskŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vayodhā́ḥ ← vayodhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+havyádātim ← havyádāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rā́sva ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+sumahaḥ ← sumahas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áprayuchan ← áprayuchant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+trā́sva ← √trā- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +239,4 @@ Sei du uns, Agni, Helfer und Beschützer, verschaffe uns, verleih uns Jugendstä
 И даруй нам, о замечательный, жертвенный дар,  
 А также храни нас самих неустанно!
 </details>
+

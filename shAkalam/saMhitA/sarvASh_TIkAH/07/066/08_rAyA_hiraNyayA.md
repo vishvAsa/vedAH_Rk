@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+hiraṇyayā́ ← hiraṇyayā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+matíḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+avr̥kā́ya ← avr̥ká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+śávase ← śávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+medhásātaye ← medhásāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+víprā ← vípra- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +142,4 @@ Durch goldnen Reichthum sei dies Lied ein Quell der unversehrten Kraft Und, weis
 Она – для силы, защищающей от волка,  
 Она, вдохновенная, для приобретения мудрости.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śaviṣṭha ← śáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+somyám ← somyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nā́yám? ← nā́yám? (invariable)  
+{}
+
+śr̥ṇávat ← √śru- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +214,4 @@ O Indra, komm zu trinken her den süssen Soma, kräftigster, Es höre diese Lied
 Не (только) здесь пусть щедрый прислушивается к хвалебным песням,  
 Священным словам и гимнам, (бог) с прекрасной силой духа!
 </details>
+

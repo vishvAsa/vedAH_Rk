@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+dr̥ḷhā́ ← √dr̥h- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rujá ← √ruj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádāṁsi ← sádas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ūrṇuhi ← √vr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+tujatā́ ← √tuj- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+upáriṣṭāt ← upáriṣṭāt (invariable)  
+{}
+
+vadhéna ← vadhá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vr̥ścá ← √vr̥śc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ánti ← ánti (invariable)  
+{}
+
+dūrā́t ← dūrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+upanāyám ← upanāyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Zerbrich auch der Gespenster feste Sitze, eröffne Güter, Indu, hell erstrahlen
 Сверху раскрои брошенным смертельным оружием  
 (Демонов,) что вблизи (и что пришли) издалека, их предводителя!
 </details>
+

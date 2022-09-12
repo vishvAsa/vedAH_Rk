@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dámpatī ← dámpati- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sámanasā ← sámanas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dhā́vataḥ ← √dhāv- 2 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sunutáḥ ← √su- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+āśírā ← āśír- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dévāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+nítyayā ← nítya- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Das Ehepaar, was gleichen Sinn's den Soma presst und knetend spült, O Götter, 
 Выжимают и прополаскивают (сому),  
 О боги, (смешивая его) с необходимым добавлением молока,
 </details>
+

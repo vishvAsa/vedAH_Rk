@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+indhaté ← √idh- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+jánāsaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+aṅgirastama ← áṅgirastama- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+manuṣvát ← manuṣvát (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bodhi ← √budh- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +155,4 @@ O Agni, bester Angiras, den Menschen nach des Manus Art Entzünden, achte auf me
 Подобно Ману, о лучший из Ангирасов,  
 О Агни, заметь мою речь!
 </details>
+

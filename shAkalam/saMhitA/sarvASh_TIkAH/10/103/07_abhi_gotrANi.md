@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
 popular
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+gā́hamānaḥ ← √gāh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+gotrā́ṇi ← gotrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+adayáḥ ← adayá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śatámanyuḥ ← śatámanyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayudhyáḥ ← ayudhyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+duścyavanáḥ ← duścyavaná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥tanāṣā́ṭ ← pr̥tanāṣáh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+avatu ← √avⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sénāḥ ← sénā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yutsú ← yúdh- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +186,4 @@ Der mit Gewalt sich in die Ställe eintaucht, Held Indra ohne Mitleid vielfach z
 
 -ru-
 </details>
+

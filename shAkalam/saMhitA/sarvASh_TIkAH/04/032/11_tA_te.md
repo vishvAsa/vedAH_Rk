@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+gr̥ṇanti ← √gr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vedhásaḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cakártha ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+paúṁsyā ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yā́ni ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sutéṣu ← √su- (root)  
+{case:LOC, gender:M, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Die Mannesthaten rühmen dir die Sänger, die du hast vollbracht, Beim Soma, Ind
 Которые ты совершил, воспевают устроители (обряда).  
 При выжатых (соках сомы), о Индра, любящий хвалебные песни.
 </details>
+

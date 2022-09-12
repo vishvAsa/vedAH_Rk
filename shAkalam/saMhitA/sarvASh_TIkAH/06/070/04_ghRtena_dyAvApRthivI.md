@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhī́vr̥te ← √vr̥- (root)  
+{case:NOM, gender:F, number:DU, non-finite:PPP}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ghr̥tapŕ̥cā ← ghr̥tapŕ̥c- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ghr̥taśríyā ← ghr̥taśrī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ghr̥tāvŕ̥dhā ← ghr̥tāvŕ̥dh- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+hotr̥vū́rye ← hotr̥vū́rya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pr̥thvī́ ← pr̥thú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+puróhite ← puróhita- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+urvī́ ← urú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+īḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+iṣṭáye ← iṣṭí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +214,4 @@ Den Himmel und die Erde, die mit Fett umhüllt, mit Fett durchtränkt, Fett sche
 Далекие, широкие, (они как) двое, поставленных во главе при выборах хотара.  
 Это их зовут вдохновенные в поисках милости.
 </details>
+

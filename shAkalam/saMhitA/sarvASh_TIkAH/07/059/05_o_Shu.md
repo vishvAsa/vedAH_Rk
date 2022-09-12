@@ -16,14 +16,72 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ghr̥ṣvirādhasaḥ ← ghr̥ṣvirādhas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ándhāṁsi ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yātána ← √yā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+kam ← kam (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+raré ← √rā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+anyátra ← anyátra (invariable)  
+{}
+
+gantana ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Ihr, deren Gaben uns erfreun, kommt her zum Trunk des Somakrauts, O Maruts, dies
 Эти возлияния, о Маруты, я ведь поднес вам.  
 Только не отправляйтесь в другое место!
 </details>
+

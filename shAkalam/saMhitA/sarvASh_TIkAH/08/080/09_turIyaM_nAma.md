@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+turī́yam ← turī́ya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yajñíyam ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+káraḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+uśmasi ← √vaś- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ohase ← √uh- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +177,4 @@ Dass deinen vierten Namen du preiswürdig machst, das wünschen wir; Denn Güter
 
 -ru-
 </details>
+

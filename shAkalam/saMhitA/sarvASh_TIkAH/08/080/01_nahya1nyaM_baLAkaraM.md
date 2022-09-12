@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ákaram ← √kr̥- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+baḷā́ ← baḷā́ (invariable)  
+{}
+
+nahí ← nahí (invariable)  
+{}
+
+marḍitā́ram ← marḍitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mr̥ḷaya ← √mr̥ḍ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +157,4 @@ Ich wählte, keinen andern je, o starker, zum Erfreuer mir, Du, Indra, sei uns h
 
 -ru-
 </details>
+

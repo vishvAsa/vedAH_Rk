@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+samīcīnā́ḥ ← samīcīná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hárim ← hári- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hinvanti ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sīdata ← √sad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +141,4 @@ Vereinigt haben sie gejauchzt, durch Steine spornen sie das Ross; Nun setzt euch
 
 -ru-
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+sáṁgatā ← √gam- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+saúbhagā ← saúbhaga- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+áparihvr̥tā ← áparihvr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sudā́tu ← sudā́tu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +147,4 @@ In dir, o Indra, sind vereint die Güter, alle Herrlichkeit, Vieltheilig, unbesc
 
 -ru-
 </details>
+

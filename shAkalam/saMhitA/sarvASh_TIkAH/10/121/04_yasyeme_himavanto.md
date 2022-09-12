@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+himávantaḥ ← himávant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+āhúḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+rasáyā ← rasā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bāhū́ ← bāhú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+pradíśaḥ ← pradíś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+kásmai ← ká- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +207,4 @@ In dessen Macht die schneebedeckten Berge, das Meer, der Weltstrom sind nach sic
 Чьи эти стороны света, чьи руки (они образуют) –  
 Какого бога мы почтили жертвенным возлиянием?
 </details>
+

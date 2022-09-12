@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aptúram ← aptúr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yantúram ← yantúr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vanúṣaḥ ← vanús- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yóge ← yóga- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+indhate ← √idh- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+vā́jaiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +160,4 @@ Den raschen Lenker, Agni, ihn entflammen hell zur Opferzeit Mit Speisen Priester
 Ревностные поклонники, вдохновенные, зажигают  
 С помощью наград, чтобы пустить в ход закон.
 </details>
+

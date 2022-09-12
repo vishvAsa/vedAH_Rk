@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sváśvā ← sváśva- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yaśásā ← yaśás- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dásrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mádhumantam ← mádhumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nidhím ← nidhí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pibāthaḥ ← √pā- 2 (root)  
+{number:DU, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vadhvā̀ ← vadhū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ví ← ví (invariable)  
+{}
+
+yā́damānaḥ ← √yād- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ántān ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bādhate ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vartaníbhyām ← vartaní- (nominal stem)  
+{case:INS, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +207,4 @@ O kommt herbei auf schönen Rossen herrlich, geniesst das süsse Mahl, ihr wunde
 Ваша колесница, везущая юную жену,  
 (Своими) колеями раздвигает края неба.
 </details>
+

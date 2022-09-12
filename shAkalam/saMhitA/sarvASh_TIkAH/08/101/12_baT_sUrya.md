@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+báṭ ← báṭ (invariable)  
+{}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śrávasā ← śrávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sūrya ← sū́rya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+asuryàḥ ← asuryà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+puróhitaḥ ← puróhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádābhyam ← ádābhya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vibhú ← vibhú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +184,7 @@ Presumably the sun’s light is ‘undeceivable’ (adābhyàm) because the sun 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/101/11-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/101/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, the banality of these vss. is a surprising aberration in RVic style. I will note that pāda-final mahā́m̐asi “you are great,” found 5x in these two vss. (once mid-pāda), is something of a signature of the late VIIIth Maṇḍala (60.6, 19; 64.2, 95.4, 98.2), though it's found occasionally elsewhere.
@@ -167,3 +216,4 @@ Ja, Sonnengott, an Herrlichkeit bist du gross, nach allen Seiten, o Gott, bist d
 Благодаря величию (ты,) асурский, поставлен впереди богов  
 Как выдающийся неистребимый свет.
 </details>
+

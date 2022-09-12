@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+prá ← prá (invariable)  
+{}
+
+śukrā́saḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vayojúvaḥ ← vayojū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hinvānā́saḥ ← √hi- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+sáptayaḥ ← sápti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+mr̥ñjata ← √mr̥j- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+śrīṇānā́ḥ ← √śrī- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -97,7 +125,7 @@ On the relationship of vayojúvaḥ in pāda a and sáho júvaḥ in 18a, see co
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/25-27.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 All three vss. in this tṛca contain a middle form of √hi ‘impel’ (25c hinvānaḥ, 26b hinvānā́saḥ, 27b hinvire, the first two passive, the third transitive. In addition the tṛca opens and closes with a form of páva- (25a pávate, 27c pavasva).
@@ -126,3 +154,4 @@ Die hellen Kraft erregenden, wie angespornte Rosse sind Mit Milch gemischt in Fl
 
 -ru-
 </details>
+

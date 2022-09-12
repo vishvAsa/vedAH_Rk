@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ámataye ← ámati- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+avī́ratāyai ← avī́ratā- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+rīradhaḥ ← √randh- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+agótāyai ← agótā- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+nidé ← níd- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+putra ← putrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+dvéṣāṁsi ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +228,4 @@ Gib, Agni, nicht dem Mangel uns, nicht hin der Kinderlosigkeit, Dem Rindermangel
 Ни бескоровности, о сын силы, ни глумлению!  
 Устрани проявления ненависти!
 </details>
+

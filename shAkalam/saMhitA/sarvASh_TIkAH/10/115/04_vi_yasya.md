@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajara ← ajára- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jrayasānásya ← jrayasāná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ácyutāḥ ← ácyuta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhákṣoḥ ← dhákṣu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́tāḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+raṇvā́saḥ ← raṇvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+satvanám ← satvaná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yúyudhayaḥ ← yúyudhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iṣṭáye ← iṣṭí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+naśanta ← √naś- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+śiṣántaḥ ← √śās- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:ACT}
+
+tritám ← tritá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +228,4 @@ Dich, ewig junger, den, wenn du dich weit erstreckst, die mächt'gen Winde nimme
 Словно радующиеся битве солдаты (приходят) к воину (-предводителю),  
 Они пришли к Трите, призывая (его) к поискам.
 </details>
+

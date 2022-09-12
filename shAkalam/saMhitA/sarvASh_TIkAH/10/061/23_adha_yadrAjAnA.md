@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+gáviṣṭau ← gáviṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+rājānā ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jaraṇyúḥ ← jaraṇyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kāráve ← kārú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+saraṇyúḥ ← saraṇyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárat ← √sr̥- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+babhū́va ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+préṣṭhaḥ ← préṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG, mood:OPT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+enān ← ena- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+párā ← párā (invariable)  
+{}
+
+parṣat ← √pr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+vákṣat ← √vah- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +224,4 @@ Und wenn dann bei der Opferhandlung, o ihr beiden Könige [Mitra-Varuna], zu euc
 
 -ru-
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+suśévau ← suśéva- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tigmáhetī ← tigmáheti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tigmā́yudhau ← tigmā́yudha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ihá ← ihá (invariable)  
+{}
+
+mr̥ḷatam ← √mr̥ḍ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sómārudrau ← somārudra- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sú ← sú (invariable)  
+{}
+
+muñcatam ← √muc- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pā́śāt ← pā́śa- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gopāyátam ← √gopāy- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sumanasyámānā ← √sumanasy- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +217,4 @@ Die scharfen Spiess ihr tragt und scharfe Lanze, seid gnädig uns, ihr holden, S
 Освободите нас от петли Варуны!  
 Охраняйте нас благожелательно!
 </details>
+

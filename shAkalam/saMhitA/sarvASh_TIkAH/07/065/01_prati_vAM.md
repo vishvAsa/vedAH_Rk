@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+práti ← práti (invariable)  
+{}
+
+sūktaíḥ ← sūktá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sū́re ← sū́ra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+údite ← √i- 1 (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pūtádakṣam ← pūtádakṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váruṇam ← váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ákṣitam ← ákṣita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asuryàm ← asuryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jyéṣṭham ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáyoḥ ← yá- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+ācítā ← ācít- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+jigatnú ← jigatnú- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Euch ruf' mit Liedern ich bei Sonnenaufgang, den reingesinnten Varuna und Mitra,
 У которых нерушимая высшая асурская сила,  
 (Вас двоих,) замечающих каждого при (вашем) выезде, спешащих (выезжать).
 </details>
+

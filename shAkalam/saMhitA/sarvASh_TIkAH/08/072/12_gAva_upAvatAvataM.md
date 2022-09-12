@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+avata ← √avⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+avatám ← avatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+rapsúdā ← rapsúd- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hiraṇyáyā ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+kárṇā ← kárṇa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ Erfrischt, ihr Kühe, diesen Born, gross ist des Opfers Becherpaar, Die beiden H
 Велика:жертвы –  
 Оба уха золотые.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+maghónaḥ ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+priyásya ← priyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+āpéḥ ← āpí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhūridā́vnaḥ ← bhūridā́van- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śū́nam ← śū́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidam ← √vid- 1 (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sthām ← √sthā- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+suyámāt ← suyáma- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suvī́rāḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vadema ← √vadⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +236,4 @@ Nicht lass es mir an mächt'gen Freunden mangeln, o Varuna, an lieben, gabenreic
 Не хотел бы я лишиться, о царь, легко управляемого богатства!  
 Мы хотим провозгласить жертвенную раздачу, (чтобы иметь) прекрасных мужей!
 </details>
+

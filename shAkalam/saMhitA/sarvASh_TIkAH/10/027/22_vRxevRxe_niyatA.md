@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+gaúḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mīmayat ← √mā- 2 ~ mī- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+níyatā ← √yam- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+vr̥kṣé-vr̥kṣe ← vr̥kṣá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+patān ← √pat- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+pūruṣā́daḥ ← pūruṣā́d- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tátas ← tátas (invariable)  
+{}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+átha ← átha (invariable)  
+{}
+
+bhayāte ← √bhī- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+bhúvanam ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ŕ̥ṣaye ← ŕ̥ṣi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śíkṣat ← √śak- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+sunvát ← √su- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ An jedem Baume angebunden brüllt die Kuh [des Todes, vgl. Vers 20], von dort he
 
 -ru-
 </details>
+

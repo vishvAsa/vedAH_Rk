@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+juhurāṇā́ ← √hr̥̄- (root)  
+{case:NOM, gender:M, number:DU, tense:AOR, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+manyethām ← √man- 1 (root)  
+{number:DU, person:2, mood:OPT, tense:PRS, voice:MED}
+
+vr̥ṣaṇvasū ← vŕ̥ṣaṇvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+áti ← áti (invariable)  
+{}
+
+dvíṣaḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+párṣathaḥ ← √pr̥- (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+rudrā ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +156,4 @@ Nehmt wahr auch, was beschädigt ist, o Ritter, heldenstarke ihr, Denn über Fei
 Подумайте (о нас), о обладатели мощного богатства:  
 Ведь вы, о два Рудры, должны перевозить через проявления ненависти!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+turváśāya ← turváśa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yádave ← yádu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+áramayaḥ ← √ram- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pāráḥ ← pārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sudúghāḥ ← sudúgha- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ávahaḥ ← √vah- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ayātam ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+kútsam ← kútsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áranta ← √r̥- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+uśánā ← uśánā- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +218,7 @@ Although most take atrá- as a PN, I still prefer the older derivation (see, e.g
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 The recital of Indra’s deeds now reverts to the past tense, to a series of insistently augmented imperfects: 7b ámimīthāḥ, 7c agṛbhṇāḥ, 7d asedhaḥ, 8b áramayaḥ, 8c ayātam, ávahaḥ. (In 8d the Pp. reads unaug. áranta, but in its sandhi situation [uśánā́ranta] it could as easily be ā́ranta; the accent should be on the augment because it’s in a subordinate cl., but ā + áranta would come out this way.
@@ -195,3 +256,4 @@ Du liessest ruhn dem Turvaça und Jadu die Stromesflut, sie überführend, Indra
 Вы оба отправились к грозному. Это ты вез Кутсу,  
 Когда вас обоих боги охотно направили к Ушанасу.
 </details>
+

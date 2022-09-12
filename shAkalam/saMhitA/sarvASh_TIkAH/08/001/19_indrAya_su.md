@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+madíntamam ← madíntama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sota ← √su- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+váreṇyam ← váreṇya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+pīpayat ← √pī- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+śakráḥ ← śakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvayā ← víśva- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hinvānám ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+vājayúm ← vājayú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +186,4 @@ Dem Indra presset Soma schön, den herrlichsten, berauschendsten, Durch jede And
 С каждой молитвой пусть могучий сделает, чтоб он прибывал,  
 Как торопят (коня,) рвущегося к награде!
 </details>
+

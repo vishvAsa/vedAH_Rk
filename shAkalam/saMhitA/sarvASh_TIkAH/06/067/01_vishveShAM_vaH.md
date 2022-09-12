@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jyéṣṭhatamā ← jyéṣṭhatama- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+satā́m ← √as- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+víśveṣām ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+mitrā́váruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vāvr̥dhádhyai ← √vr̥dh- (root)  
+{case:DAT, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+raśmā́ ← raśmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+yamátuḥ ← √yam- (root)  
+{number:DU, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+yámiṣṭhā ← yámiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ásamā ← ásama- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+bāhúbhiḥ ← bāhú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dvā́ ← dvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+jánān ← jána- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+svaíḥ ← svá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Die von euch guten allen sind die besten, Varuna-Mitra preis' ich nun mit Lieder
 (Тех двоих) несравненных, правящих лучше всех,  
 Что вместе правили народами, словно уздой, своими руками.
 </details>
+

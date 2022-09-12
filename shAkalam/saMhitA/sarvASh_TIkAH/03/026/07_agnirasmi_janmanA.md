@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+jánmanā ← jánman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jātávedāḥ ← jātávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsán ← āsán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+arkáḥ ← arká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tridhā́tuḥ ← tridhā́tu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vimā́naḥ ← vimā́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ájasraḥ ← ájasra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+gharmáḥ ← gharmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +242,4 @@ Ich bin Agni, von Geburt des Jatavedas. Das Schmalz ist mein Auge, in meinem Mun
 Трехчастная песнь, мера пространства,  
 Неистощимый жар, жертвенное возлияние – (вот что) я по имени.
 </details>
+

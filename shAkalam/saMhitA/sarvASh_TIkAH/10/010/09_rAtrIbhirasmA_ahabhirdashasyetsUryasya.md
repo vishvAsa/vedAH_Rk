@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+áhabhiḥ ← áhar ~ áhan- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+daśasyet ← √daśasy- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+rā́trībhiḥ ← rā́trī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mimīyāt ← √mī- 2 (root)  
+{mood:OPT, tense:PRS}
+
+múhur ← múhur (invariable)  
+{}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+divā́ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mithunā́ ← mithuná- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pr̥thivyā́ ← pr̥thivī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sábandhū ← sábandhu- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ájāmi ← ájāmi- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+bibhr̥yāt ← √bhr̥- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+yamásya ← yamá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yamī́ḥ ← yamī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Sie würde ihm Tag und Nacht gefällig sein, sie würde für ein Weilchen das Au
 Ями взяла бы (на себя) (поступок) Ямы, не подобающей родне.  
 Яма:
 </details>
+

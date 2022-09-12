@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular;; repeated line  
 popular  
 popular
+#### Morph
+āste ← √ās- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+nr̥cákṣāḥ ← nr̥cákṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āpaprivā́n ← √prā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+abhí ← abhí (invariable)  
+{}
+
+caṣṭe ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ghr̥tā́cīḥ ← ghr̥tā́ñc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+viśvā́cīḥ ← viśvā́cī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+antarā́ ← antarā́ (invariable)  
+{}
+
+áparam ← ápara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pū́rvam ← pū́rva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Er sass an Himmels Mitte, Männer schauend, mit Licht erfüllend Himmel, Luft un
 Он смотрит на обращенные во все стороны полные жира (ложки)  
 Между восточным и западным знаком.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+arámatim ← arámati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mahī́m ← máh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devī́m ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+gnā́m ← gnā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rātáhavyām ← rātáhavya- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+br̥hatī́m ← br̥hánt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mádhoḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+r̥tajñā́m ← r̥tajñā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devayā́naiḥ ← devayā́na- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pathíbhiḥ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Fahr her uns, Agni, gleichgesinnt, die grosse, erhab'ne Andacht, die des Werkes 
 Для опьянения сладким (соком), могучую, знающую закон,  
 О Агни, по путям, изъезженным богами!
 </details>
+

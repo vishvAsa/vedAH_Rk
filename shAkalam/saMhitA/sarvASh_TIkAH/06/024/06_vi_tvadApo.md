@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+párvatasya ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pr̥ṣṭhā́t ← pr̥ṣṭhá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+anayanta ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ukthébhiḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ābhíḥ ← ayám (pronoun)  
+{case:INS, gender:F, number:PL}
+
+suṣṭutíbhiḥ ← suṣṭutí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vājáyantaḥ ← √vājay- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ājím ← ājí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+girvāhaḥ ← gírvāhas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jagmuḥ ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +225,7 @@ Putting all this together, I offer the revised translation: “He is master of t
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 Each of these vss. contains at least one derivative of nṛ́- ‘(superior) man’: 6a nṛmṇám, 6c nṛváti, 7c nṛ́tamāsaḥ, 8d nṛṣáhye.
@@ -196,3 +257,4 @@ Von dir wie Wasser von des Berges Rücken ging aus der Priester Schar mit Spruch
 К тебе пришли они, жаждя награды, с этими прекрасными хвалами,  
 Словно кони на ристалище, о привлекаемый хвалебными песнями,
 </details>
+

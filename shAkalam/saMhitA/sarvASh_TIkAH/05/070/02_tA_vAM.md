@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+adruhvāṇā ← adruhvan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+samyák ← samyáñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+aśyāma ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+dhā́yase ← dhā́yas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rudrā ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +155,4 @@ Von euch zugleich erbitten wir, o holde, Labung zum Genuss, Uns werde sie, o gl�
 (Вашей) жертвенной услады мы хотели бы добиться, чтобы вкусить (ее)!  
 Да будем мы такими, о два Рудры!
 </details>
+

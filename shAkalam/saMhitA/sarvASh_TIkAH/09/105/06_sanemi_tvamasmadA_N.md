@@ -15,13 +15,56 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+sánemi ← sánemi- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ádevam ← ádeva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+atríṇam ← atrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+bā́dhaḥ ← bā́dh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dvayúm ← dvayú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+sāhvā́n ← √sah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +174,4 @@ O jage ganz von uns hinweg den Frevler, jeden fressenden, O Indu, rings bewälti
 Безбожник, любой атрин!  
 Одерживая верх, о сок сомы, (гони) прочь притеснения вокруг, (гони) двоедушного!
 </details>
+

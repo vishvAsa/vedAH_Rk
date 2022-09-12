@@ -16,14 +16,75 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́hutim ← ā́huti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+subhaga ← subhága- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+védim ← védi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+cakrire ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sótum ← sótu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+dhánam ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+jigyuḥ ← √ji- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vā́jebhiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nyeriré ← √īr- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +243,4 @@ Die, die, o sel'ger, schafften sich zum Himmel hin ihr Opfer, Somatrunk, Altar; 
 Это они благодаря наградам выиграли великую ставку,  
 (Те,) что сосредоточили в тебе желание.
 </details>
+

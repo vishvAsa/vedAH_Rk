@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+sadyojúvaḥ ← sadyojū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vā́jāḥ ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+viśváścandrāḥ ← viśváścandra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+jarante ← √gr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+váśaiḥ ← váśa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +155,4 @@ Deine reichgeschmückten Gaben kommen zu uns her in Eile, Durch Gebete nahen sch
 
 -ru-
 </details>
+

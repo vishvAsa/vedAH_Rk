@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+pavā́ ← pavā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vásūni ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+dhanva ← √dhanv- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mām̐ścatvé ← mām̐ścatvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sárasi ← sáras- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+bradhnáḥ ← bradhná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+jūtáḥ ← √jū- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+náram ← nár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purumédhaḥ ← purumédha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tákave ← táku- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +229,7 @@ In d both Geldner and Renou take the hapax táku- as referring to a horse (Renne
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/52-54.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/52-54.md">
 <details open><summary><h2>52-54 ...{Loading}...</h2></summary>
 
 The simplistic repetition of the previous tṛca contrasts markedly with the contents of this one, which is mind-bogglingly difficult and opaque. Oldenberg pronounces it “grösstenteils hoffnungslos.” Thematically it seems to deal with the distribution of wealth in a ritual/martial context, and it also shows signs of lexical cohesion, esp. the hapaxes mām̐ścatvá- (52b) and mā́m̐ścatva- (54b), also vásūni (52a, 53c), and of varied formulaic repetition: ayā́pavā́pavasvainā́(52a) / enā́ pavayā́pavasva (53a). My interpr. of this tṛca, in its many obscure details and in its entirety, is very different from the standard ones. In places it pushes the morphology, syntax, and semantics perhaps further than is warranted, and it may seems at times far-fetched. But it has, I think, a richer semantics than the other accounts, and above all it deliberately avoids the refuge taken by others, to make the difficult words into proper nouns.
@@ -197,3 +261,4 @@ Mit diesem Lichtstrom flamme Güter her uns, zum See lauf Indu wenn der Mond erb
 Вот здесь совсем рыжий быстрый, как ветер, (конь):  
 Пусть очень мудрый даст хозяина скаковому коню!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhiṣáṇā ← dhiṣáṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jajā́na ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vivéṣa ← √viṣ- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áhnaḥ ← áhar ~ áhan- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pā́ryāt ← pā́rya- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+purā́ ← purā́ (invariable)  
+{}
+
+stávai ← √stu- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pīpárat ← √pr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
+yátra ← yátra (invariable)  
+{}
+
+havante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+nāvā́ ← naú- ~ nā́v- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ubháye ← ubháya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yā́ntam ← √yā- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Wenn mich der Trunk ergriffen und erregt hat, dann preis' ich Indra vor dem Tag 
 Чтобы он спас нас тогда от узости.  
 Обе (стороны) взывают к нему, как (стоящие на берегу) - к тому, кто едет на лодке.
 </details>
+

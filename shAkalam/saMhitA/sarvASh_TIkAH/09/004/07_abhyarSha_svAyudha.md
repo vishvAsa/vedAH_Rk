@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+arṣa ← √arṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+svāyudha ← svāyudhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dvibárhasam ← dvibárhas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sóma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vásyasaḥ ← vásyaṁs- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +160,4 @@ O schönbewehrter, ströme her, o Soma, zwiefach grossen Schatz Und mach' uns re
 Сома, богатство двойной прочности  
 И сделай нас лучше!
 </details>
+

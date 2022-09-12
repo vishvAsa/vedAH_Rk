@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhrā́tar ← bhrā́tar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sáhaskr̥ta ← sáhaskr̥ta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+róhidaśva ← rohídaśva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śúcivrata ← śúcivrata- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +151,4 @@ O Agni, Bruder, krafterzeugt, mit rothen Rossen, lichtem Werk, Nimm dies mein Lo
 О хозяин красных коней, (бог) чистых заветов!  
 Возрадуйся этой хвале моей!
 </details>
+

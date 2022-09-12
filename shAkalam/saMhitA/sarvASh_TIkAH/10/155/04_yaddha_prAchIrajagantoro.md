@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+ájaganta ← √gam- (root)  
+{number:PL, person:2, mood:IND, tense:PLUPRF, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+prā́cīḥ ← prā́ñc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+maṇḍūradhāṇikīḥ ← maṇḍūradhāṇika- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+úraḥ ← úras- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hatā́ḥ ← √han- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śátravaḥ ← śátru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+budbudáyāśavaḥ ← budbudáyāśu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sárve ← sárva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +167,4 @@ Ihr Hexen mit befleckter Scham, als feindlich auf die Brust ihr drangt, Da lagen
 (Тогда) убиты были враги Индры,  
 Все (эти) с водянистым семенем.
 </details>
+

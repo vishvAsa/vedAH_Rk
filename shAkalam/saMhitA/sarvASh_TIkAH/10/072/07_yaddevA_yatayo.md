@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yátayaḥ ← yáti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yathā ← yathā (invariable)  
+{}
+
+ápinvata ← √pinv- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+átra ← átra (invariable)  
+{}
+
+gūḷhám ← √guh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ajabhartana ← √bhr̥- (root)  
+{number:PL, person:2, mood:IND, tense:PLUPRF, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +173,4 @@ Als dann wie starke Herrscher ihr, o Götter, schwellen liesst die Welt, Da hobt
 То спрятанное в море  
 Солнце вы извлекли наружу.
 </details>
+

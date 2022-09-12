@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+áśnaiḥ ← áśna- 2 (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dhūtáḥ ← √dhū- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ávyaḥ ← ávi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+páripūtaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vā́raiḥ ← vā́ra- 1 (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áśvaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nadī́ṣu ← nadī́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+niktáḥ ← √nij- (root)  
+{case:NOM, gender:M, number:SG, voice:PASS}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +153,4 @@ Steingepresst, gespült von Männern, und durch Widders Fell gereinigt, Rossen g
 Через цедилки из овечьей шерсти процеженный,  
 Словно конь, выкупанный в речных потоках:
 </details>
+

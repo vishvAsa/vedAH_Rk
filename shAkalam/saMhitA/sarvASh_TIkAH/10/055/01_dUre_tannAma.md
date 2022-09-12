@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+dūré ← dūrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+gúhyam ← gúhya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+parācaís ← parācaís (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áhvayetām ← √hvā- (root)  
+{number:DU, person:3, mood:IND, tense:IPRF, voice:MED}
+
+bhīté ← √bhī- (root)  
+{case:NOM, gender:F, number:DU, non-finite:PPP}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vayodhaí ← vayodhā́- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhī́ke ← abhī́ka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+astabhnāḥ ← √stambhⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+út ← út (invariable)  
+{}
+
+bhrā́tuḥ ← bhrā́tar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+putrā́n ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+titviṣāṇáḥ ← √tvíṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ In weiter Ferne war dein Sein verborgen, als furchtsam dich um Kraft die Welten 
 Ты укрепил одновременно небо и землю,  
 Возбудив, о щедрый, сыновей брата.
 </details>
+

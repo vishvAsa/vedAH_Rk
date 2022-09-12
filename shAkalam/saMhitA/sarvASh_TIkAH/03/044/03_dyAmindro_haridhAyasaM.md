@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+háridhāyasam ← háridhāyas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hárivarpasam ← hárivarpas- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ádhārayat ← √dhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhójanam ← bhójana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+harítoḥ ← harít- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+antár ← antár (invariable)  
+{}
+
+cárat ← √carⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáyoḥ ← yá- (pronoun)  
+{case:LOC, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +190,4 @@ Der Himmel, der die goldnen nährt, die Erde, golden anzuschaun; Viel Nahrung hi
 (Он поддержал) обильную пищу (тех) обоих золотистых,  
 Между которыми бродит золотистый (бог).
 </details>
+

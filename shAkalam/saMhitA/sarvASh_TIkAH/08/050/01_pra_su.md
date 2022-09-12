@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+prá ← prá (invariable)  
+{}
+
+śrutám ← √śru- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sú ← sú (invariable)  
+{}
+
+surā́dhasam ← surā́dhas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhíṣṭaye ← abhíṣṭi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+árca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śakrám ← śakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kā́myam ← kā́mya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stuvaté ← √stu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+máṁhate ← √maṁh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sahásreṇa ← sahásra- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +187,4 @@ Den hehren, starken preis' ich nun zur Hülfe mir, der vieles schenkt, Der vielb
 (Того,) кто выжимающему (сому и) восхваляющему щедро дарует  
 Желанное добро, словно тысячей (награждает).
 </details>
+

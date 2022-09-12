@@ -17,15 +17,70 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+īśe ← √īś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+rámbate ← √ramb- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+antarā́ ← antarā́ (invariable)  
+{}
+
+kápr̥t ← kápr̥th- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sakthyā̀ ← sakthī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+īśe ← √īś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+romaśám ← romaśá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+niṣedúṣaḥ ← √sad- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+vijŕ̥mbhate ← √jr̥mbh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Nicht der ist stark, dessen Glied schlaff zwischen den Schenkeln herabhängt; so
 
 -ru-
 </details>
+

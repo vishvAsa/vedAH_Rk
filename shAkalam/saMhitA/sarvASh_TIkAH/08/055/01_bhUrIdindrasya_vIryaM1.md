@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+vīryàm ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+ákhyam ← √khyā- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ayati ← √i- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+dasyave ← dásyu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vr̥ka ← vŕ̥ka- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +164,4 @@ Des Indra [des mit Indra vergleichbaren Fürsten] grosse Heldenkraft habe ich er
 Я узрел. Пусть придет  
 (Твой) дар, о Дасьяве Врика!
 </details>
+

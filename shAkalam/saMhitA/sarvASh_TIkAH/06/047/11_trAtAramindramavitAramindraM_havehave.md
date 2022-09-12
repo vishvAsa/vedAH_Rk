@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avitā́ram ← avitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+trātā́ram ← trātár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+háve-have ← háva- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suhávam ← suháva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śū́ram ← śū́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hváyāmi ← √hvā- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puruhūtám ← puruhūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śakrám ← śakrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhātu ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +195,7 @@ I call on Indra, the able one, called on by many. Let bounteous Indra  establish
 √hvā is the signature word here.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
 <details open><summary><h2>11-13 ...{Loading}...</h2></summary>
 
 The first pāda of 12 recasts that of 11: with sutrā́mā matching trātā́ram and s u vávām̐ávobhiḥ matching avitā́ram; 13a then repeats sutrā́mā su vávān. The connections between 12-13 and neighboring vss. in this hymn make it less likely (at least to me) that they are direct evidence of the Sautrāmaṇī ritual here, instead of being pressed into service of that ritual later. See published introduction.
@@ -175,3 +227,4 @@ Den Retter Indra und den Helfer Indra, der jeden Ruf erhört, den Helden Indra, 
 Я зову могучего много раз призванного Индру.  
 Счастье пусть даст нам щедрый Индра!
 </details>
+

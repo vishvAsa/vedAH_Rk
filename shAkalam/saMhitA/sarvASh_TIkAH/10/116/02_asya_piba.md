@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kṣumátaḥ ← kṣumánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+piba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prásthitasya ← √sthā- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+váram ← vára- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mādayasva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+svastidā́ḥ ← svastidā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arvācīnáḥ ← arvācīná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+reváte ← revánt- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+saúbhagāya ← saúbhaga- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +189,4 @@ Vom dargebotnen trink, dem nahrungsreichen, nach Lust, o Indra, vom gebrauten So
 Даруя счастье, опьяняйся мыслью,  
 Расположенный к богатой милости для нас!
 </details>
+

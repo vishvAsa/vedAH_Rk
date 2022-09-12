@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índrāviṣṇū ← índrāvíṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+madānām ← máda- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+madapatī ← madapati- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dádhānā ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+dráviṇaḥ ← dráviṇas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+aktúbhiḥ ← aktú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+añjantu ← √añj- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+matīnā́m ← matí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+sám ← sám (invariable)  
+{}
+
+śasyámānāsaḥ ← √śaṁs- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:PASS}
+
+stómāsaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ O Indra-Vischnu, ihr der Tränke Trankherrn, kommt her zum Soma, Schätze uns ve
 Пусть намажут вас мазями (поэтических) мыслей,  
 Пусть на(мажут) вас восхваления, произносимые в гимнах!
 </details>
+

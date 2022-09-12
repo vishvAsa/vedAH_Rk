@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arṇavám ← arṇavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náram ← nár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śākínam ← śākín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatákratum ← śatákratu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+aptúram ← aptúr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pūrbhídam ← pūrbhíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tū́rṇim ← tū́rṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājasánim ← vājasáni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhiṣā́cam ← abhiṣác- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhāmasā́cam ← dhāmasác- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svarvídam ← svarvíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Dem hundertkräft'gen, wildbewegten, starken Mann, dem Indra eilen allseits mein
 К захватывающему добычу, раскалывающему крепости, быстро переправляющемуся через воды,  
 Следующему установлениям, расположенному (к нам), находящему солнце.
 </details>
+

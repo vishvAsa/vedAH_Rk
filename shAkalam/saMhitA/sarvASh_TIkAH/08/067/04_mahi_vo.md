@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahatā́m ← mahā́nt- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+áryaman ← áryaman- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mítra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+váruṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ávāṁsi ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +147,4 @@ Eur Schutz ist gross, die gross ihr seid, Varuna, Mitra, Arjaman Wir wünschen e
 О Варуна, Митра, Арьяман.  
 Мы выбираем себе (вашу) помощь.
 </details>
+

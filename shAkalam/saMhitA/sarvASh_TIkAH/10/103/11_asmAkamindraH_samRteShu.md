@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
 popular
+#### Morph
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+dhvajéṣu ← dhvajá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sámr̥teṣu ← √r̥- 1 (root)  
+{case:LOC, gender:M, number:PL, non-finite:PPP}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+íṣavaḥ ← íṣu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jayantu ← √ji- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+úttare ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vīrā́ḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+avata ← √avⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+háveṣu ← háva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +208,4 @@ Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen,
 
 -ru-
 </details>
+

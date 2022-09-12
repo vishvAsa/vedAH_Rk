@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+áyuddhaḥ ← áyuddha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+vŕ̥tam ← vŕ̥t- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yudhā́ ← yúdh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ajati ← √aj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sátvabhiḥ ← sátvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yéṣām ← yá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+yúvā ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ Ja, unverwehrt verjagt durch Kampf der Held den Feind durch tapfere, Die lieb de
 Герой со (своими) воинами вражеское войско,  
 Кому Индра – юный друг.
 </details>
+

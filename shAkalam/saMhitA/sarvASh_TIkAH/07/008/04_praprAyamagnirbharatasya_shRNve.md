@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bharatásya ← bharatá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prá-pra ← prá (invariable)  
+{}
+
+śr̥ṇve ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+bhā́ḥ ← bhā́s- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rócate ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+pūrúm ← pūrú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tasthaú ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+átithiḥ ← átithi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+daívyaḥ ← daívya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyutānáḥ ← √dyut- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+śuśoca ← √śuc- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +240,4 @@ Hier wird der Agni Bharata's gepriesen, wenn wie die Sonne hell sein Licht erstr
 Кто подавил Пуру в сражениях,  
 (Этот) сияющий небесный гость пламенеет всегда.
 </details>
+

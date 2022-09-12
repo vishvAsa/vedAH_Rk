@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+medhásātau ← medhásāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vipra ← vípra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhánāya ← dhána- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+hinóṣi ← √hi- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+gántā ← gántar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +183,4 @@ Welchem, Weiser du, beim Wettkampf hilfst, dass er den Preis erringe, Der gelang
 
 -ru-
 </details>
+

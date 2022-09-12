@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+venā́ḥ ← vená- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+íyakṣanti ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+prácetasaḥ ← prácetas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ávicetasaḥ ← ávicetas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+májjanti ← √majj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -82,7 +104,7 @@ The seekers have cried out to (him); the discerning wish to attain (him). The un
 On vená- see comm. ad VIII.100.5.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 The undiscerning (ápracetasaḥ) in 20c are contrasted with the discerning (prácetasaḥ 21b) and the undiscriminating (ávicetasaḥ 21c). The first vs. (19) of the tṛca does not participate.
@@ -111,3 +133,4 @@ Die Freunde haben ihn gerühmt, die Weisen opfern ihm mit Lust, Zu Grunde geht d
 
 -ru-
 </details>
+

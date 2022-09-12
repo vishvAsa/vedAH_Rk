@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+pathyā̀ḥ ← pathyā̀- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svā́ḥ ← svá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+juṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+mandráḥ ← mandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+nadáyan ← √nad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+sā́nu ← sā́nu- ~ snú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śúṣmaiḥ ← śúṣma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+jámbhebhiḥ ← jámbha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+uśádhak ← uśádhak (invariable)  
+{}
+
+vánāni ← vána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +216,4 @@ Komm, Agni, her auf deinen Himmelspfaden, vergnügten Sinns, der Götter Freunds
 (Своими) вспышками заставляя звучать спину земли,  
 Всё (перемалывающий) челюстями, неистово сжигающий деревья.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āśúḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhīmáḥ ← bhīmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śíśānaḥ ← √śā- ~ śī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ghanāghanáḥ ← ghanāghaná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣóbhaṇaḥ ← kṣóbhaṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+animiṣáḥ ← animiṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ekavīráḥ ← ekavīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saṁkrándanaḥ ← saṁkrándana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajayat ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sākám ← sākám (invariable)  
+{}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sénāḥ ← sénā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +193,4 @@ Der schnelle, der gleich wildem Stier erregt ist, der starke Kämpfer, der die M
 
 -ru-
 </details>
+

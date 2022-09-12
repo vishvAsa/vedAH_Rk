@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+raśmínā ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ántān ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+mamé ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+paprau ← √prā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ Er, welcher misst mit seinem Strahl der Erde und des Himmels Saum, Mit seiner Gr
 Неба (и) земли измерил,  
 (Своим) величием заполнил обе половины вселенной.
 </details>
+

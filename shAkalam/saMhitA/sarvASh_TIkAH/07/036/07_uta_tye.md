@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mandasānā́ḥ ← mandasāná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+avantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tokám ← toká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ákṣarā ← ákṣarā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cárantī ← √carⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+khyat ← √khyā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+ávīvr̥dhan ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yújyam ← yújya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +235,4 @@ Und diese muntern, starken Maruts mögen beschützen unsre Andacht, unsre Kinder
 Да не проглядит нас пасущаяся корова!  
 Они увеличили предназначенное нам богатство.
 </details>
+

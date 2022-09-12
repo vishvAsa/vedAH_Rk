@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bhojáḥ ← bhojá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dádāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gr̥háve ← gr̥hú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ánnakāmāya ← ánnakāma- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cárate ← √carⁱ- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kr̥śā́ya ← kr̥śá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+áram ← áram (invariable)  
+{}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yā́mahūtau ← yā́mahūti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+aparī́ṣu ← aparī́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Nur der geniesset recht, der Armen mittheilt, die Dürft'gen speiset, die nach S
 Он пойдет ему навстречу, когда (тот) окликнет (его) на дороге,  
 И на будущее приобретет друга.
 </details>
+

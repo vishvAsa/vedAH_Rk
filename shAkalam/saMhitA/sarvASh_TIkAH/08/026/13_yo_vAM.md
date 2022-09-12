@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́vr̥taḥ ← √vr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yajñébhiḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ádhivastrā ← ádhivastra- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+vadhū́ḥ ← vadhū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+cakrāte ← √kr̥- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
+saparyántā ← √sapary- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+śubhé ← śúbh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +168,4 @@ Wer sich in eure Opfer hüllt, gleich wie die Braut in ihr Gewand, Den schaffen 
 Как невеста, убранная нарядом,  
 (Того) Ашвины, почитая, приближают к блеску.
 </details>
+

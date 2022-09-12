@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rákṣa ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+rī́ṣataḥ ← √riṣ- (root)  
+{case:ABL, gender:M, number:SG, tense:AOR, voice:ACT}
+
+sma ← sma (invariable)  
+{}
+
+ajáraḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+daha ← √dah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tápiṣṭhaiḥ ← tápiṣṭha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +155,4 @@ Behüt, o Agni, uns vor Noth, o Gott, verbrenn die Schädiger Mit Gluten, unverg
 (Кидайся) же навстречу вредителю, о бог,  
 Сожги (его), о нестареющий, самыми жаркими (языками пламени)!
 </details>
+

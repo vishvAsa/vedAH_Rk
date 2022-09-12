@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhiyā́ ← bhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pā́rthivāni ← pā́rthiva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ácyutā ← ácyuta- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+cyāvayante ← √cyu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dyā́vākṣā́mā ← dyā́vā-kṣā́mā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+párvatāsaḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vánāni ← vána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ájman ← ájman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bhayate ← √bhī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+dr̥ḷhám ← √dr̥h- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ Aus Furcht vor dir erbebt der Raum der Erde, das Unbewegte, Indra, und der Luftr
 Земля и небо, горы (и) леса,  
 Все твердое боится, когда ты наступаешь.
 </details>
+

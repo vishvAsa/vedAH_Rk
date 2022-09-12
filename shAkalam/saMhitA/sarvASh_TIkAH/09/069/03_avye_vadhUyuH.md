@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávye ← ávya- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tvací ← tvác- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vadhūyúḥ ← vadhūyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áditeḥ ← áditi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+naptī́ḥ ← naptī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śrathnīté ← √śrathⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yaté ← √i- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+akrān ← √krand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saṁyatáḥ ← √yam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yajatáḥ ← yajatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahiṣáḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nr̥mṇā́ ← nr̥mṇá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śíśānaḥ ← √śā- ~ śī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+śobhate ← √śubh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ Die Braut begehrend strömt er zu dem Widderfell, Aditi's Tochter folgt ihm, wen
 Золотистый заржал, крепко взятый под узды, достойный жертв пьянящий напиток.  
 Оттачивая (свои) мужские силы, он прекрасен, как буйвол.
 </details>
+

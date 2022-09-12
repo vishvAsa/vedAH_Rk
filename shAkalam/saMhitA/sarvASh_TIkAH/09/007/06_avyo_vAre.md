@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ávyaḥ ← ávi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́re ← vā́ra- 1 (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sīdati ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+váneṣu ← vána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+matī́ ← matí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+rebháḥ ← rebhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vanuṣyate ← √vanuṣ(y)- (root)  
+{case:VOC, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ Hin durch die Widderwolle setzt das liebe Ross sich in das Holz, Der Sänger eif
 Золотистый осаждается в деревянных (сосудах).  
 Певец воодушевляется молитвой.
 </details>
+

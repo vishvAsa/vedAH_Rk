@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+svayám ← svayám (invariable)  
+{}
+
+yajasva ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ápracetāḥ ← ápracetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇavat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+pā́kaḥ ← pā́ka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+áyajaḥ ← √yaj- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥túbhiḥ ← r̥tú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+sujāta ← sujātá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yajasva ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ Im Himmel opfre selbst, o Gott, den Göttern; was kann der Thor im Unverstand di
 Как жертвовал ты богам, о бог, в положенное время,  
 Так жертвуй самому себе, о прекраснорожденный!
 </details>
+

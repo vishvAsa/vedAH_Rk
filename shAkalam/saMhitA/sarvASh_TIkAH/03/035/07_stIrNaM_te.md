@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stīrṇám ← √str̥̄- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+áttave ← √ad- (root)  
+{case:DAT, number:SG}
+
+dhānā́ḥ ← dhānā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+háribhyām ← hári- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+kr̥tā́ḥ ← √kr̥- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+puruśā́kāya ← puruśā́ka- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tádokase ← tádokas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+havī́ṁṣi ← havís- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+marútvate ← marútvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rātā́ ← √rā- 1 (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +229,4 @@ Gestreut ist Streu, gepresst der Soma, Indra, gekocht der Brei zur Speise deinen
 Для тебя, находящего в этом удовольствие, быка,  
 Который может многое, (бога,) сопровождаемого Марутами, пожертвованы возлияния.
 </details>
+

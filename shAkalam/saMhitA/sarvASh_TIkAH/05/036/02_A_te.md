@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+hánū ← hánu- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śípre ← śíprā- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+párvatasya ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pr̥ṣṭhé ← pr̥ṣṭhá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+rúhat ← √ruh- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+árvataḥ ← árvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hinván ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+madema ← √mad- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +242,4 @@ O Herr der Füchse, dir in Lipp' und Backen mög' Soma steigen wie auf Bergesrü
 Подзадоривая тебя, о царь, словно скакунов (на ристалище),  
 Все мы хотим опьянять (тебя) хвалебными песнями, о многопризываемый.
 </details>
+

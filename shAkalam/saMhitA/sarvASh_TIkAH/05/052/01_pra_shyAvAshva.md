@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhr̥ṣṇuyā́ ← dhr̥ṣṇuyā́ (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+śyāvāśva ← śyāvā́śva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+árca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+marúdbhiḥ ← marút- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ŕ̥kvabhiḥ ← ŕ̥kvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+adroghám ← adroghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+anuṣvadhám ← anuṣvadhám (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+mádanti ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajñíyāḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Auf, Çjavaaçva, stimme kühn in den Gesang der Maruts ein, Die treugesinnt aus
 Которые бесхитростно, по своему обычаю,  
 Опьяняются славой, достойные жертвы!
 </details>
+

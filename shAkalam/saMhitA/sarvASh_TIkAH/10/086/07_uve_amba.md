@@ -17,15 +17,76 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+amba ← amba (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sulābhike ← sulābhika- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+uvé ← √u- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+bhaviṣyáti ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:FUT, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+amba ← amba (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+bhasát ← bhasád- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sákthi ← sákthi- ~ sákthan- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hr̥ṣyati ← √hr̥ṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ Ich spreche, o leicht zu gewinnende Mutter, wie es bald geschehen wird. Mein Hin
 
 -ru-
 </details>
+

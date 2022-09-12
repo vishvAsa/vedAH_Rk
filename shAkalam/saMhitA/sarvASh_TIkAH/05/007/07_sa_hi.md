@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́kṣitam ← ā́kṣita- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dhánva ← dhánvan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dā́tā ← dā́tar- 2 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dā́ti ← √dā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+paśúḥ ← paśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+híriśmaśruḥ ← híriśmaśru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúcidan ← śúcidant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánibhr̥ṣṭataviṣiḥ ← ánibhr̥ṣṭataviṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥bhúḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +192,4 @@ Auch immer grüne Auen mäht er ab, wie keine Heerd' es kann, mit hellem Zahn un
 Златобородый, со сверкающими зубами,  
 Рибху с неоскудевающей силой.
 </details>
+

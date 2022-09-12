@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+napāt ← nápat- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā́m ← ahám (pronoun)  
+{case:NOM, number:DU}
+
+vimucaḥ ← vimúc- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+ā́ghr̥ṇe ← ā́ghr̥ṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sacāvahai ← √sac- 1 (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rathī́ḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Komm her, o der Befreiung Sohn, lass uns vereint sein, strahlender, Sei Lenker u
 О пламенный, мы двое будем держаться вместе!  
 Будь для нас колесничим закона!
 </details>
+

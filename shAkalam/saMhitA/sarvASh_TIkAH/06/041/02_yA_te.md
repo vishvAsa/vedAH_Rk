@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kākút ← kākúd- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+súkr̥tā ← súkr̥ta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+váriṣṭhā ← váriṣṭha- 2 (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+píbasi ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+śáśvat ← śáśvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ūrmím ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+adhvaryúḥ ← adhvaryú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+pāhi ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+táyā ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+gavyúḥ ← gavyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vájraḥ ← vájra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vartatām ← √vr̥t- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,3 +266,4 @@ Welch Schlund dir ist, sehr weit und schön gebildet, mit dem du stets des Methe
 Заглатывай ею (и сейчас)! Адхварью выступил вперед для тебя.  
 Пусть будет с тобой, о Индра, твоя ваджра, жаждующая коров!
 </details>
+

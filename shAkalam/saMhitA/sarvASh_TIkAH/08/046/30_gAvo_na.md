@@ -14,12 +14,46 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+vádhrayaḥ ← vádhri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yūthám ← yūthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mā ← ahám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vádhrayaḥ ← vádhri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,3 +144,4 @@ Wie Rinder zur Heerde kommen mir herbei verschnittene [Ochsen?], herbei kommen z
 Словно стадо быков приближаются холощеные,  
 Ко мне приближаются холощеные.
 </details>
+

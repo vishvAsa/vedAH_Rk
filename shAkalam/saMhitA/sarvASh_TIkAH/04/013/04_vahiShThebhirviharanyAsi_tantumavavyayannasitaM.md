@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+tántum ← tántu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váhiṣṭhebhiḥ ← váhiṣṭha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+viháran ← √hr̥- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yāsi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ásitam ← ásita- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+avavyáyan ← √vyā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vásma ← vásman- 1 (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dávidhvataḥ ← √dhū- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+raśmáyaḥ ← raśmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+adhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+cárma ← cárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Gewebe lösend fährst du mit den schnellsten, abwickelnd nun, o Gott, den schwa
 Лучи: Сурьи, сотрясая мрак,  
 Словно (выделываемую) кожу, низвергли (его) в воды.
 </details>
+

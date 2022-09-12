@@ -14,12 +14,43 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+krúdhmī ← krúdhmi- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mánāṁsi ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śubhráḥ ← śubhrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúṣmaḥ ← śúṣma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+dhr̥ṣṇóḥ ← dhr̥ṣṇú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhúniḥ ← dhúni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+múniḥ ← múni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śárdhasya ← śárdha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Eur Muth ist strahlend, – erregt die Herzen, Wie wildes Brausen – des kühne
 Блистательно ваше неистовство, яростны помыслы  
 Дерзкой толпы, словно бушующий одержимый.
 </details>
+

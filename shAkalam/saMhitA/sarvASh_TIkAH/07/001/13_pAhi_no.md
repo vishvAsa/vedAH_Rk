@@ -15,13 +15,56 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ájuṣṭāt ← ájuṣṭa- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+aghāyóḥ ← aghāyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áraruṣaḥ ← árarivaṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhūrtéḥ ← dhūrtí- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+pr̥tanāyū́n ← pr̥tanāyú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+syām ← √as- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+tvā́ ← tvám (pronoun)  
+{case:INS, number:SG}
+
+yujā́ ← yúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +180,4 @@ Beschütz uns, Agni, vor dem schlimmen Nachtgeist und vor dem Leid des geiz'gen 
 Защити от обмана скупого злоумышленника!  
 С тобой как с союзником пусть одержу я верх над нападающими (на нас!)
 </details>
+

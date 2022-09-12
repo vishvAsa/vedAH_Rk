@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+muñcāmi ← √muc- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+pā́śāt ← pā́śa- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ábadhnāt ← √bandh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suśévaḥ ← suśéva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+loké ← loká- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sukr̥tásya ← sukr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+áriṣṭām ← áriṣṭa- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dadhāmi ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+pátyā ← páti- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Ich löse dich [o Braut] von dem Stricke des Varuna, mit dem dich der sehr theur
 В лоне закона, в мире бдагого деяния  
 Я утверждаю тебя, невредимую, с супругом.
 </details>
+

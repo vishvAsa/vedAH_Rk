@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+údbhr̥tam ← √bhr̥- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+ā́bhr̥tam ← √bhr̥- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+pári ← pári (invariable)  
+{}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vánaspátibhyaḥ ← vánaspáti- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ā́vr̥tam ← √vr̥- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ojmā́nam ← ojmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yaja ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +200,7 @@ The awkward ‘strongness’ in English tr. is meant to represent the difference
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
 <details open><summary><h2>26-31 ...{Loading}...</h2></summary>
 
 These vss. are repeated in the Aśvamedha section of several early Vedic ritual texts, directly after the 1st 14 vss. of the weapon hymn VI.75 (e.g., VS XXIX.52-57, TS IV.6.6.
@@ -174,3 +232,4 @@ Die von der Erde und dem Himmel entnommene Kraft, die von den Bäumen hergenomme
 Энергию вод, перехваченную коровьими ремнями,  
 Дубину грома Индры, колесницу почитай жертвенным возлиянием.
 </details>
+

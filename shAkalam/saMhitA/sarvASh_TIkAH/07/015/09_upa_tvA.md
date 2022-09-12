@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+víprāsaḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ákṣarā ← ákṣarā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sahasríṇī ← sahasrín- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +149,4 @@ Dich gehen um Erlangung an, die weisen Männer mit Gebet, Die tausendfache Rede 
 Мужи с произведениями, чтобы покорить (тебя),  
 При(ближается) речь, приносящая тысячи.
 </details>
+

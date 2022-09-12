@@ -16,14 +16,69 @@ ChandaH = "सतो विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stuhi ← √stu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+vandasva ← √vandⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+dhúnīnām ← dhúni- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+arā́ṇām ← ára- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+caramáḥ ← caramá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dānā́ ← dāmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Verehre, preise diese Maruts; denn sie sind laut rauschend Rades Speichen gleich
 Нет последнего, как среди спиц (колеса)!  
 Это от их щедрости, от их величия.
 </details>
+

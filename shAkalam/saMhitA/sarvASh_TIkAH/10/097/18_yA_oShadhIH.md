@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sómarājñīḥ ← sómarājan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+bahvī́ḥ ← bahú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śatávicakṣaṇāḥ ← śatávicakṣaṇa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tā́sām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+uttamā́ ← uttamá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+áram ← áram (invariable)  
+{}
+
+hr̥dé ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+kā́māya ← kā́ma- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śám ← śám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +185,4 @@ Der Kräuter in des Soma Reich, der vielen hundertfach an Art, All dieser bist d
 Ты среди них высшее:  
 Прямо по желанию (даешь) благо сердцу.
 </details>
+

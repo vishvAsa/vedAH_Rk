@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+juṣásva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+āpíḥ ← āpí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávasaḥ ← ávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+bodhí ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+nū́tanasya ← nū́tana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+jaritŕ̥bhyaḥ ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sákhe ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Dir wurden Bitten, dir, o Indra, Lieder vereint gebracht, nimm an sie, Herr der 
 Будь союзником, (настройся) на помощь сейчас!  
 О друг, о Васу, надели певцов жизненной силой!
 </details>
+

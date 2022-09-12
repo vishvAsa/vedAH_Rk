@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ā́t ← ā́t (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mághavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+manyumáttamaḥ ← manyumáttama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áha ← áha (invariable)  
+{}
+
+atiraḥ ← √tr̥̄- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+dā́num ← dā́nu- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,7 +143,7 @@ I supply “lying there” with Dānu, because in two of the four singular passa
 sense ‘pass over’ fits having the prostrate enemy as the object.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 My interpr. of the structural relationship of these two vss. and of the internal structure of vs. 8 differs considerably from the standard. Because of the parallelism of the openings of these vss., both with utá smā, I think that there should be two parallel clauses. But vs. 7 is a hí clauses with accented verb (āhúḥ), whereas the only verb in vs. 8 is maṃhase in pāda c. I am also puzzled by the pári in 8a, which is difficult to construe with the rest. There is no pári √maṃh elsewhere, and pári is in any case not situated where we would expect a preverb in tmesis. Witzel Gotō tr.
@@ -141,3 +178,4 @@ Wie warst auch da, du Vritraheld, o starker, ganz von Zorn entbrannt, Als du den
 О щедрый, (по-прежнему) самый неистовый?  
 Вот в ту пору ты поборол Дану.
 </details>
+

@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+r̥tā́vānam ← ŕ̥tāvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vícetasam ← vícetas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+páśyantaḥ ← √paś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+stŕ̥bhiḥ ← stár- ~ tár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+adhvarā́ṇām ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+víśveṣām ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+dáme-dame ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+haskartā́ram ← haskartár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +169,4 @@ Da sie den reinen glänzen sahn dem sterngeschmückten Himmel gleich, Ihn, der d
 (Бога,) при всех обрядах  
 Вызывающего веселье, в каждом доме,...
 </details>
+

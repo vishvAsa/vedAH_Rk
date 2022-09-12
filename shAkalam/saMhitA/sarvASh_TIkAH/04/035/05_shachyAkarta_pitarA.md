@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+akarta ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
+
+pitárā ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śácyā ← śácī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yúvānā ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+akarta ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
+
+camasám ← camasá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devapā́nam ← devapā́na- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śácyā ← śácī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ataṣṭa ← √takṣ- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dhánutarau ← dhánutar- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+hárī ← hári- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śácyā ← śácī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+indravā́hau ← indraváh- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vājaratnāḥ ← vā́jaratna- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +214,4 @@ Durch Kunst habt jung gemacht ihr eure Aeltern, durch Kunst gemacht den gottgetr
 (Своею) силой вытесали пару быстрых коней,  
 Возящих Индру, о Рибху, награждающие сокровищами.
 </details>
+

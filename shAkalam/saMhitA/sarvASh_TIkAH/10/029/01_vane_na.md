@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+cākán ← √kanⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+váne ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ajīgar ← √gr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhuraṇau ← bhuraṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+stómaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+purudíneṣu ← purudína- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kṣapā́vān ← kṣapā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+náryaḥ ← nárya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥ṇā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nŕ̥tamaḥ ← nŕ̥tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +237,4 @@ Dem Vogel gleich, der fröhlich auf dem Baum sitzt, hat, muntre, euch erweckt da
 У кого Индра много дней (вкушал жертвы),  
 Мужественный среди мужей, самый мужественный властелин.
 </details>
+

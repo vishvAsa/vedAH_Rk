@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āhávanāni ← āhávana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ásan ← √as- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+ánīkaiḥ ← ánīka- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+bhúvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvebhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+śr̥ṇviṣe ← √śru- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+stutáḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sujāta ← sujātá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+svayám ← svayám (invariable)  
+{}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vardhasva ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Dir sollen werden viele Opfergüsse, sei wohlgesinnt durch alle deine Strahlen; 
 Хоть ты слывешь прославленным, о Агни, тебя и сейчас воспевают:  
 Усиль же сам (свое) тело, о прекраснорожденный!
 </details>
+

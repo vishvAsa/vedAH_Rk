@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ātutóda ← √tud- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kr̥ṣṇáḥ ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śakunáḥ ← śakuná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+pipīláḥ ← pipīlá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sarpáḥ ← sarpá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śvā́padaḥ ← śvā́pada- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+agadám ← agadá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇotu ← √kr̥- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+viśvā́t ← viśvā́d- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āvivéśa ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+brāhmaṇā́n ← brāhmaṇá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Wenn dich gebissen hat der schwarze Häher, Ameise, Schlange oder auch ein Raubt
 Пусть всепожирающий Агни сделает это невредимым,  
 И сома, который вошел в брахманов.
 </details>
+

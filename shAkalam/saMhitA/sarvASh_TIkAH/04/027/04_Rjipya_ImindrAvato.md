@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhujyúm ← bhujyú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+índrāvataḥ ← índrāvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+r̥jipyáḥ ← r̥jipyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:ABL, number:SG}
+
+jabhāra ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+snóḥ ← sā́nu- ~ snú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+parṇám ← parṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+patat ← √pat- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+patatrí ← patatrín- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+prásitasya ← √sā- ~ si- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+véḥ ← ví- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yā́mani ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +242,4 @@ Vordringend trug der Aar vom hohen Gipfel ihn fort, wie einst des Indra Schar de
 Тут между (небом и землей) отлетело это маховое перо у этой  
 Птицы, промчавшейся (своим) путем.
 </details>
+

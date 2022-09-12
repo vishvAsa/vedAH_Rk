@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+taviṣā́ṇi ← taviṣá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+práyāṁsi ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sadhásthāni ← sadhástha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+aptū́ryam ← aptū́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hitám ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Indrāgni, ihr besitzet Kraft, ihr feste Sitze, Freuden ihr, In euch ist rasches
 Обители и жертвенные услады.  
 Вам положена переправа через воды.
 </details>
+

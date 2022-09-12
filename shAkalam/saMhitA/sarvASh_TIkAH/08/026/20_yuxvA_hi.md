@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+rathāsáhā ← rathāsáh- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yukṣvá ← √yuj- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+póṣyā ← póṣya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yuvásva ← √yu- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ā́t ← ā́t (invariable)  
+{}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+piba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vāyo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +198,4 @@ Auf, schirre dir die feisten an, o guter, die den Wagen ziehn, O Vaju, trinke un
 И пей тогда, о Ваю, нашу сладость!  
 На наши выжимания (сомы) приезжай!
 </details>
+

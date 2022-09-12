@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+jásamānāya ← √jas- (root)  
+{case:DAT, gender:M, number:SG, tense:AOR, voice:MED}
+
+śaktam ← √śak- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vŕ̥kāya ← vŕ̥ka- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+hūyámānā ← √hū- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:PASS}
+
+śayáve ← śayú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śrutam ← √śru- (root)  
+{number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+aghnyā́m ← aghnyá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ápinvatam ← √pinv- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+yaú ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śaktī́ ← śaktí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+staryàm ← starī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +204,4 @@ Auch dem erschöpften Vrika gabet Kraft ihr, und angefleht erhörtet ihr den Ça
 (Вы.) которые сделали набухшей словно воды, (его) корову,  
 (Хотя она была) яловой, (своим) искусством, о Ашвины, (и) помощами.
 </details>
+

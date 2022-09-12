@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+jaritā́ram ← jaritár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nīvyā̀bhiḥ ← nīvyā̀- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+mahádbhiḥ ← mahā́nt- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+maháḥ ← mahá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúṣmaiḥ ← śúṣma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vā́jebhiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kṣitīnā́m ← kṣití- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+puruvī́rābhiḥ ← puruvī́ra- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +226,4 @@ So schreite vor zum Sänger mit Geschenken, mit grossen Kräften, mit des grosse
 С дарами в виде многих сыновей, о бык народов,  
 О ты, любящий хвалебные песни, иди на благо!
 </details>
+

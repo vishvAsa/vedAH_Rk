@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhrā́jadr̥ṣṭayaḥ ← bhrā́jadr̥ṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+práyajyavaḥ ← práyajyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+rukmávakṣasaḥ ← rukmávakṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āśúbhiḥ ← āśú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ī́yante ← √i- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+suyámebhiḥ ← suyáma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+avr̥tsata ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ráthāḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúbham ← śúbh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yātā́m ← √yā- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +215,4 @@ Die schnellen Maruts angethan mit blankem Speer, Gold an den Brüsten haben gros
 Они мчатся на легкоуправляемых быстрых конях.  
 У выезжающих для блеска (Марутов) колесницы последовали (одна за другой).
 </details>
+

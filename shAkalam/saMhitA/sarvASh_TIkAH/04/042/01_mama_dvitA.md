@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+kṣatríyasya ← kṣatríya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+rāṣṭrám ← rāṣṭrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+amŕ̥tāḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+viśvā́yoḥ ← viśvā́yu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sacante ← √sac- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kr̥ṣṭéḥ ← kr̥ṣṭí- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+rā́jāmi ← √rāj- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+upamásya ← upamá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vavréḥ ← vavrí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Die Herrschaft gehört aufs neue mir, dem lebenslänglichen Fürsten, wie alle U
 Боги следуют решению Варуны.  
 Я правлю народом, чье тело наилучшего вида.
 </details>
+

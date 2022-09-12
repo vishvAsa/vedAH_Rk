@@ -15,13 +15,47 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; 12 = 8+4  
 genre M
+#### Morph
+ádhrigāvaḥ ← ádhrigu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádhrigū ← ádhrigu- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áhnaḥ ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+hávāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+idā́ ← idā́ (invariable)  
+{}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+vipanyávaḥ ← vipanyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +162,4 @@ Wenn unaufhaltsam heut am Tag die Ritter, die unhemmbar sind, mit Liedern wir he
 Ашвинов зовем сегодня днем  
 Хвалебными песнями, (мы,) восхищающиеся,
 </details>
+

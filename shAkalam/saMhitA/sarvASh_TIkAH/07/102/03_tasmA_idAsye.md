@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+āsyè ← āsyà- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+juhóta ← √hu- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mádhumattamam ← mádhumattama- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+íḷām ← íḷā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+karat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+saṁyátam ← saṁyát- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ Ihm giesset recht in seinen Mund den honigsüssen Opferguss, Er schaffe stete Na
 Жертвенное возлияние, самое сладкое!  
 Пусть создаст он нам непрерывное подкрепление!
 </details>
+

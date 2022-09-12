@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+aruṇápsavaḥ ← aruṇápsu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+citrā́ḥ ← citrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īrate ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yā́mebhiḥ ← yā́ma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+snúnā ← sā́nu- ~ snú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vāśrā́ḥ ← vāśrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +163,4 @@ Schon brechen dort die glänzenden, rothschimmernden in Zügen auf, Lauttosend a
 Яркие, взмывают ввысь во время походов,  
 Ревя над вершиной неба.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+prastokáḥ ← prastoká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́dhasaḥ ← rā́dhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+adāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kóśayīḥ ← kóśayī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+atithigvásya ← atithigvá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dívodāsāt ← dívodāsa- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+agrabhīṣma ← √gr̥bhⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+śāmbarám ← śāmbará- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Prastoka gab nun von deinem Schatz, o Indra, zehn Truhen voll und zehn schnelle 
 От Диводасы, (сына) Атитхигвы мы получили  
 Как почетный дар добро Шамбары.
 </details>
+

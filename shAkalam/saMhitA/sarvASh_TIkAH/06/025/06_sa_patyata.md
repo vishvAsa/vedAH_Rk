@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayóḥ ← ayám (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+nr̥mṇám ← nr̥mṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+patyate ← √pat- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ubháyoḥ ← ubhá- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+hávante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+samithé ← samithá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vedhásaḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yádi ← yádi (invariable)  
+{}
+
+kṣáye ← kṣáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+nr̥váti ← nr̥vánt- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+vr̥tré ← vr̥trá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vitantasaíte ← √taṁs- (root)  
+{number:DU, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+vyácasvantā ← vyácasvant- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yádi ← yádi (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +204,4 @@ Er waltet über Kraft der beiden Schlachtreih'n, wenn ihn die Führer rufen in d
 Или если две растянувшиеся (шеренги врагов) спорят  
 Ожесточенно или из вражды, или из-за жилья, удобного для людей.
 </details>
+

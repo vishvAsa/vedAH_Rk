@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dīrgháprasadmani ← dīrgháprasadman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gómataḥ ← gómant- (nominal stem)  
+{case:GEN, number:SG}
+
+ī́śe ← √īś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+vā́jasya ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aviṣásya ← aviṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ī́śe ← √īś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+pitváḥ ← pitú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +163,4 @@ Der Weltraum hat im weiten Sitz der Erde Labung reich an Milch; Denn er vermag z
 Дает право на награду из коров;  
 Ведь оно дает право на то, чтоб была дана неотравленная пища.
 </details>
+

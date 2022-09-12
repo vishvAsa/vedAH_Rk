@@ -14,12 +14,46 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular
+#### Morph
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prajā́m ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ādityaíḥ ← ādityá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+cīkl̥pāti ← √kl̥p- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +149,4 @@ Das Opfer und uns selbst und unsre Kinder mög' Indra segnen, er mit den Aditja'
 И жертву нашу, и тело, и потомство  
 Индра вместе с Адитьями пусть приведут в порядок!
 </details>
+

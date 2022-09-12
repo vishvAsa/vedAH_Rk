@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line
+#### Morph
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+nahí ← nahí (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+pakṣám ← pakṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+ápām ← √pā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+kuvít ← kuvít (invariable)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +160,4 @@ Auch Erd' und Himmel beide sind nicht meiner einen Hälfte gleich; Hat mich der 
 Ничто против одного моего крыла –  
 Не напился ли я сомы?
 </details>
+

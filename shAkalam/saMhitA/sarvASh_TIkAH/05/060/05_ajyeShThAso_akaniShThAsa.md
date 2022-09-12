@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajyeṣṭhā́saḥ ← ajyeṣṭhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ákaniṣṭhāsaḥ ← ákaniṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+bhrā́taraḥ ← bhrā́tar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+saúbhagāya ← saúbhaga- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vāvr̥dhuḥ ← √vr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rudráḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svápāḥ ← svápas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yúvā ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marúdbhyaḥ ← marút- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+pŕ̥śniḥ ← pŕ̥śni- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sudínā ← sudína- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sudúghā ← sudúgha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +220,4 @@ Zu hohem Glück erwuchsen sie als Brüder zugleich, es war kein ältester noch j
 Их юный искусный отец Рудра  
 (и) легко доящаяся Пришни (приготовили) Марутам счастливые дни.
 </details>
+

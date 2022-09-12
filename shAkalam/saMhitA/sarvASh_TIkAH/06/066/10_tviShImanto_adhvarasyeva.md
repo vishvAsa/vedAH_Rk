@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvarásya ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+didyút ← didyút- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+tvíṣīmantaḥ ← tvíṣīmant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+juhvàḥ ← juhū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+tr̥ṣucyávasaḥ ← tr̥ṣucyávas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arcátrayaḥ ← arcátri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhúnayaḥ ← dhúni- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vīrā́ḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádhr̥ṣṭāḥ ← ádhr̥ṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhrā́jajjanmānaḥ ← bhrā́jajjanman- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

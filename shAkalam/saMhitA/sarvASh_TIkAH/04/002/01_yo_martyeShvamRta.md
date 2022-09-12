@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+amŕ̥taḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártyeṣu ← mártya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+aratíḥ ← aratí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+nidhā́yi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śucádhyai ← √śuc- (root)  
+{case:DAT, number:SG, tense:AOR}
+
+yájiṣṭhaḥ ← yájiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havyaíḥ ← havyá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+īrayádhyai ← √īr- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +212,4 @@ Der heilige, bei Sterblichen unsterblich, bei Göttern Gott, ist eingesetzt als 
 Как хотар, лучше всех жертвующий, – пусть он мощно горит,  
 Пусть Агни придет в движение благодаря жертвенным возлияниям человека!
 </details>
+

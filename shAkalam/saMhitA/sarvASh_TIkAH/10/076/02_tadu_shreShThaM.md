@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sávanam ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śréṣṭham ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sunotana ← √su- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+ádriḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hástayataḥ ← hástayata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sotári ← sotár- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+abhíbhūti ← abhíbhūti- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+paúṁsyam ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidát ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+árvataḥ ← árvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tarute ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +230,4 @@ Auf, keltert diesen segensreichsten Somasaft; der Stein beim Presser gleicht dem
 Ведь оно находит мужество, более высокое, чем у врага,  
 (То,) что мощно одерживает верх над (его) скакунами ради богатства.
 </details>
+

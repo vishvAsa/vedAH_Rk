@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cakr̥ma ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+duṣkr̥tám ← duṣkr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+āvíṣṭyam ← āvíṣṭya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devahéḷanam ← devahéḷana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ánr̥tasya ← ánr̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mā́kis ← mā́kis (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+várpasaḥ ← várpas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sarvátātim ← sarvátāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Nicht im Verborgnen haben wir der Sünde viel, noch offnen Frevel an euch Götte
 
 -ru-
 </details>
+

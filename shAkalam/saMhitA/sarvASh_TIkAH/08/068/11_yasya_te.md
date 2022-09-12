@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svādú ← svādú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+práṇītiḥ ← práṇīti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svādvī́ ← svādú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vitantasā́yyaḥ ← vitantasā́yya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,3 +135,4 @@ Dich, dessen Freundschaft lieblich ist, und dessen Leitung, Schleuderer, Und des
 
 -ru-
 </details>
+

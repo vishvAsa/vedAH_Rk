@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vāvárta ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yéṣām ← yá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+hiraṇyáyī ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yuktā́ ← √yuj- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+nemádhitā ← nemádhiti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+paúṁsyā ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+viṣṭā́ntā ← viṣṭā́nta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +171,4 @@ Deren mit Gut beladene goldene Achse, die mit beiden [Enden durch die Naben] geh
 
 -ru-
 </details>
+

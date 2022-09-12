@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ácha ← ácha (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+práyāṁsi ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vītáye ← vītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +163,4 @@ O komme her und fahre uns die Götter zu dem Somatrunk, Zum Mahle, zu den Speise
 (Богов) для приглашения (их) к жертвенным усладам,  
 Богов для питья сомы!
 </details>
+

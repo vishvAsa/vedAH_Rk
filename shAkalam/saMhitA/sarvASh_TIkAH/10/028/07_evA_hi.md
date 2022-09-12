@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+evá ← evá (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+jajñúḥ ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+tavásam ← tavás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kárman-karman ← kárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mandasānáḥ ← mandasāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vádhīm ← √vadhⁱ- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vam ← √vr̥- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +239,4 @@ Denn so erzeugten als gewalt'gen starken die Götter mich, den Stier, bei jedem 
 Я мощью (своей) открыл благочестивому загон для скота!  
 Индра:
 </details>
+

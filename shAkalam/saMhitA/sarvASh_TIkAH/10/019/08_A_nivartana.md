@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+nivartana ← nivártana- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vartaya ← √vr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+nivartana ← nivártana- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vartaya ← √vr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bhū́myāḥ ← bhū́mi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+cátasraḥ ← catúr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pradíśaḥ ← pradíś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+enāḥ ← ena- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+tā́bhyaḥ ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:F, number:PL}
+
+vartaya ← √vr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +173,4 @@ Heimführer, fuhr sie wieder her Heimführer, führ sie wieder heim Aus den vier
 Четыре стороны земли –  
 Из них верни их!
 </details>
+

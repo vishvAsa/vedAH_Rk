@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śréṣṭham ← śréṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váreṇyam ← váreṇya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ratnadhā́ḥ ← ratnadhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+suva ← √sū- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bruve ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+dhiṣáṇām ← dhiṣáṇā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jánitrīm ← jánitrī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+úpa ← úpa (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+samidhānám ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +243,4 @@ Schaff heut uns her, o Savitar, das schönste Theil, das wonnige, denn Schatzver
 Я уговариваю Дхишану, родительницу богатства.  
 К Агни зажженному мы обращаемся за благом.
 </details>
+

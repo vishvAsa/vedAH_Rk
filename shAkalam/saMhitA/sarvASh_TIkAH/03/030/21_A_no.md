@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dardr̥hi ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+gopate ← gópati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gotrā́ ← gotrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+sanáyaḥ ← saní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́jāḥ ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yantu ← √i- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+divákṣāḥ ← divákṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satyáśuṣmaḥ ← satyáśuṣma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+bodhi ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+godā́ḥ ← godā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Erschliess die Ställ' und Rinder, Herr der Rinder, uns mögen kommen Gaben und 
 Ты – небожитель, о бык, чье неистовство истинно.  
 Будь нам хорошим дарителем коров, о щедрый!
 </details>
+

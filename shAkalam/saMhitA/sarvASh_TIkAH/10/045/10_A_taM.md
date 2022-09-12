@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhaja ← √bhaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sauśravaséṣu ← sauśravasá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhaja ← √bhaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śasyámāne ← √śaṁs- (root)  
+{case:LOC, gender:N, number:SG, tense:PRS, voice:PASS}
+
+ukthá-ukthe ← ukthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+agnā́ ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bhavāti ← √bhū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sū́rye ← sū́rya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bhinádat ← √bhid- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+jánitvaiḥ ← jánitva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+jāténa ← √janⁱ- (root)  
+{case:INS, gender:M, number:SG, non-finite:PPP}
+
+út ← út (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +241,4 @@ Dem theile zu, o Agni, reichen Segen, bei jedem Spruch, den er dir nennt, gewäh
 Любимым у Сурьи, любимым у Агни пусть будет он!  
 Пусть он бурно проявиться в рожденном (потомстве) и в тех, кто должен родиться!
 </details>
+

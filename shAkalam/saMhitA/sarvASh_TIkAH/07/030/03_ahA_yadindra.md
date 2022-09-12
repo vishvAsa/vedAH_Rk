@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhā ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sudínā ← sudína- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vyuchā́n ← √vas- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dádhaḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samátsu ← samád- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+upamám ← upamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+sīdat ← √sad- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+huvānáḥ ← √hū- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+subhágāya ← subhága- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Uns mögen hell die Tage leuchten, Indra, wenn hoch du hebst die Fahne in den K�
 Пусть Агни займет свое место хотара, как Асура,  
 Зовя сюда богов для любимого (покровителя нашего)!
 </details>
+

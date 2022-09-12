@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+áva ← áva (invariable)  
+{}
+
+gárgaraḥ ← gárgara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svarāti ← √svar- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+godhā́ ← godhā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+saniṣvaṇat ← √svanⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+caniṣkadat ← √skand- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+píṅgā ← píṅgā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+údyatam ← √yam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ Es klinge hell der Harfe Ton, erschalle laut der Saite Klang, Die Sehne schwinge
 
 -ru-
 </details>
+

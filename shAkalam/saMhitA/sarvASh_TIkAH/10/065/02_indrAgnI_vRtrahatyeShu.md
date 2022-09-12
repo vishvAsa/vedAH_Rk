@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indrāgnī́ ← indrāgní- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sátpatī ← sátpati- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vr̥trahátyeṣu ← vr̥trahátya- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+hinvānā́ ← √hi- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+mithás ← mithás (invariable)  
+{}
+
+sámokasā ← sámokas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+papruḥ ← √prā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ghr̥taśrī́ḥ ← ghr̥taśrī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īráyan ← √īr- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +207,4 @@ Die Helden Indra, Agni in der Vritraschlacht, einander fördernd, miteinander en
 
 -ru-
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+áśiśvīḥ ← áśiśu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dhunayantām ← √dhunay- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+ápradugdhāḥ ← ápradugdha- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sabardúghāḥ ← sabardúgha- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śaśayā́ḥ ← śaśayá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhávantīḥ ← √bhū- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+návyā-navyāḥ ← návya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yuvatáyaḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asuratvám ← asuratvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +203,4 @@ Die Kühe, frei des Kalbes, mögen rauschen, neumilchend, ungemolken, immerströ
 Становящиеся юными снова и снова.  
 Велико могущество богов, единственно.
 </details>
+

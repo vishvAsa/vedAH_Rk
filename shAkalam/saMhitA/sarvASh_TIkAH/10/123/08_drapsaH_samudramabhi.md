@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+drapsáḥ ← drapsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jígāti ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cákṣasā ← cákṣas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+gŕ̥dhrasya ← gŕ̥dhra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+páśyan ← √paś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vídharman ← vídharman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bhānúḥ ← bhānú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cakānáḥ ← √kā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śukréṇa ← śukrá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+cakre ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+priyā́ṇi ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rájasi ← rájas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tr̥tī́ye ← tr̥tī́ya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Wenn er als Funke zu dem Meere hingeht, am Himmel blickend mit des Geiers Auge, 
 (То) солнце, радуясь чистому пламени,  
 В третьем пространстве приобрело любимые (имена).
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asurya ← asuryà- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prácetasaḥ ← prácetas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ānaśuḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yajñíyam ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+maháḥ ← mahá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+usrā́ḥ ← usrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bráhmaṇām ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+janitā́ ← janitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśveṣām ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Die weisen Götter, himmlischer Gebetes Herr; erlangten göttliche Verehrung ers
 Как могучее солнце (своим) светом – утренние зори,  
 (Так) ты породил все до одной молитвы.
 </details>
+

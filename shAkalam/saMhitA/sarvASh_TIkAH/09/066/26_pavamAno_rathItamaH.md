@@ -15,13 +15,32 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+rathī́tamaḥ ← rathī́tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śubhráśastamaḥ ← śubhráśastama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śubhrébhiḥ ← śubhrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+háriścandraḥ ← háriścandra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marúdgaṇaḥ ← marúdgaṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -99,7 +118,7 @@ Unfortunately “gold-glittering” for háriścandra- obscures its relationship
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/25-27.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 Each vs. opens with a form of pávamāna-, which also connects it with the preceding tṛca (see above). An even stronger link to the previous tṛca is the gen. intens. part.
@@ -130,3 +149,4 @@ Der flammende, bestfahrende, sehr glänzend mit den glänzenden, Marut-umschart,
 
 -ru-
 </details>
+

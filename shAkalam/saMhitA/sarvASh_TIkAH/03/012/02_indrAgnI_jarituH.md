@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+jaritúḥ ← jaritár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+cétanaḥ ← cétana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jigāti ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+pātam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sutám ← √su- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +162,4 @@ Zu euch Indrāgni geht zugleich des Sängers herrlich Opfer hin, So trinket denn
 Привлекающая внимание жертва певца.  
 (Возбужденные) этим (поэтическим искусством), пейте этого выжатого (сому)!
 </details>
+

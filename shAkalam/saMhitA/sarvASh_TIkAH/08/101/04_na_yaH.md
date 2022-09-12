@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hávītave ← √hū- (root)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+sampŕ̥che ← √praś- (root)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rámate ← √ram- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+saṁvādā́ya ← saṁvādá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sámr̥teḥ ← sámr̥ti- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+tásmāt ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+uruṣyatam ← √uruṣy- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bāhúbhyām ← bāhú- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+uruṣyatam ← √uruṣy- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Der nicht begrüssen, nicht zurück sich rufen lässt, und nicht sich am Gesprä
 Спасите нас сегодня от столкновения с ним,  
 (Своими) руками нас спасите!
 </details>
+

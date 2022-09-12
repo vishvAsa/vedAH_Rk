@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+aṁśúḥ ← aṁśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+drapsáḥ ← drapsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+skándati ← √skand- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bāhúcyutaḥ ← bāhúcyuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhiṣáṇāyāḥ ← dhiṣáṇā- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+upásthāt ← upástha- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+adhvaryóḥ ← adhvaryú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+pavítrāt ← pavítra- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+juhomi ← √hu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+váṣaṭkr̥tam ← váṣaṭkr̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +232,4 @@ Dein Tropfen, welcher herabfällt, dein von den Armen in Bewegung gesetzter Saft
 Или же у адхварью, или из цедилки,  
 Его я мыслью приношу в жертву с возгласом: Вашат!
 </details>
+

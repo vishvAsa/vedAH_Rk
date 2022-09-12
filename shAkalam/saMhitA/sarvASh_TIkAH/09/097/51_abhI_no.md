@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+arṣa ← √arṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+divyā́ ← divyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vásūni ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+pā́rthivā ← pā́rthiva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pūyámānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+aśnávāma ← √naś- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ārṣeyám ← ārṣeyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jamadagnivát ← jamadagnivánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +186,7 @@ Geldner again supplies “zu gewinnen” in both hemistichs. I once again see no
 arṣa (the play also noted by Geldner, n. 51d). ārṣeyá- is found only here in the RV, though it is extremely common in Vedic prose.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/49-51.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/49-51.md">
 <details open><summary><h2>49-51 ...{Loading}...</h2></summary>
 
 In contrast to the tṛcas with faint or no signs of cohesion, this one is over-determined. The verbal lexeme that dominates is abhí √ṛṣ: the preverb abhí opens every one of the 12 pādas, and the impv. arṣa/ā is found in the first pāda of every vs. (49a, 50a, 51a). The part. pūyámānaḥ ends the first hemistich of each vs. Most of the rest of the material consists of acc. goals of motion. The goals in the first vs. of the tṛca are gods, in the first half of the 2nd vs. the substances with which Soma will be mixed, and in the rest of the tṛca those things that we want Soma to provide us. The result is a tṛca of utmost banality, enlivened by a small play of words in the last pāda.
@@ -166,3 +218,4 @@ O ströme uns herbei des Himmels Güter und alle irdischen, o hellentflammter, W
 (Струи то,) с помощью чего мы достигнем богатства,  
 (Струи) нам знание риши, как у Джамадагни!
 </details>
+

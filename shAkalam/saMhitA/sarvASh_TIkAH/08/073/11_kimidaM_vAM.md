@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+purāṇavát ← purāṇavát (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+járatoḥ ← járant- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+śasyate ← √śaṁs- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+ánti ← ánti (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhūtu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+sát ← √as- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +178,4 @@ Was ist es, das nach alter Art ihr rühmt, als wäret Alte ihr? Es sei uns eure 
 Как на старый лад, как у двоих стариков?  
 Пусть ваша помощь будет рядом!
 </details>
+

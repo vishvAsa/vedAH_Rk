@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devīḥ ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+kuvít ← kuvít (invariable)  
+{}
+
+návaḥ ← náva- 2 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sanáyaḥ ← sanáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+adyá ← adyá (invariable)  
+{}
+
+babhūyā́t ← √bhū- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+uṣasaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yā́maḥ ← yā́ma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áṅgire ← áṅgira- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dáśagve ← dáśagva- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+návagve ← návagva- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+revatīḥ ← revánt- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+saptā́sye ← saptā́sya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ūṣá ← √vas- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Wird euer alter oder neuer Wagen erscheinen heut, Göttinnen Morgenröthen, Mit 
 Благодаря которому вы (некогда), о богатые, воссветили богатство  
 Навагве, Ангире, Дашагве семиротому?
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+návyasā ← návyas- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūnúm ← sūnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ichámānaḥ ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+yajñéna ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+kr̥ṣṇáyāmam ← kr̥ṣṇáyāma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rúśantam ← rúśant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ścádvanam ← vr̥ścádvana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+divyám ← divyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jigāti ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vītī́ ← vītí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ Wer Gunst begehrt und Wohlergehn, der eilet mit neuem Opfer hin zum Sohn der St�
 Он идет к небесному хотару с приглашением,  
 К срубающему деревья, пролагающему черный путь, к сверкающему.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ca ← ca (invariable)  
+{}
+
+gavéṣaṇam ← gavéṣaṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+gaṇám ← gaṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sīṣadhaḥ ← √sādh- ~ sidh- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+ārā́t ← ārā́t (invariable)  
+{}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pūṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śrutáḥ ← √śru- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +154,4 @@ Und lasse diese unsre Schar, die Kühe wünscht, erlangen sie, O Puschan, weit b
 Отряд приведи к цели – к захвату!  
 Ты прославлен издалека, о Пушан.
 </details>
+

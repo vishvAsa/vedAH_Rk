@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ákr̥ṇvan ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sīm ← sīm (invariable)  
+{}
+
+támase ← támas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vipŕ̥ce ← √pr̥c- (root)  
+{case:DAT, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ánavasyantaḥ ← ánavasyant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhruvákṣemāḥ ← dhruvákṣema- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+harítaḥ ← harít- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yahvī́ḥ ← yahvī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jágataḥ ← jágat- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+spáśam ← spáś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vahanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +235,4 @@ Den zu des Dunkels Scheuchung sie erschufen, die sicher wohnen, nicht vom Ziele 
 Этого Сурью везут семь юных буланых  
 Кобылиц, наблюдателя всего мира.
 </details>
+

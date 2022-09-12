@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+etā́ḥ ← eṣá (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+prajā́patiḥ ← prajā́pati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rárāṇaḥ ← √rā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pitŕ̥bhiḥ ← pitár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+saṁvidānáḥ ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+víśvaiḥ ← víśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+akar ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+goṣṭhám ← goṣṭhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+satī́ḥ ← √as- 1 (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+śivā́ḥ ← śivá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+prajáyā ← prajā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sadema ← √sad- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+tā́sām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Mir schenkte sie Pradschāpati im Einklang mit allen Göttern und mit unsern Ahn
 Пригнал в наш коровник (этих) благосклонных.  
 Мы хотим получить от них потомство!
 </details>
+

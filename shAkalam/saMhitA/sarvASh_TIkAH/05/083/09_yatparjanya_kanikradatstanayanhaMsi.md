@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+kánikradat ← √krand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+parjanya ← parjánya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+duṣkŕ̥taḥ ← duṣkŕ̥t- (nominal stem)  
+{case:ACC, number:PL}
+
+háṁsi ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+stanáyan ← √stanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+modate ← √mud- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+pr̥thivyā́m ← pr̥thivī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Wenn, o Pardschanja, brüllend du und donnernd schlägst der Frevler Schar, so f
 Это встречает ликованием все,  
 Что только есть на земле.
 </details>
+

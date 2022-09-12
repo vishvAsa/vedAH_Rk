@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pinvatām ← √pinv- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sudáṁsasā ← sudáṁsas- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+viśvavídā ← viśvavíd- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+saṁrarāṇé ← √rā- 1 (root)  
+{case:NOM, gender:F, number:DU, tense:PRF, voice:MED}
+
+viśváśambhuvā ← viśváśambhū- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+invatām ← √i- 2 (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+saním ← saní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Die Erd', der Himmel mögen stärken unsre Kraft, als Mutter, Vater, alles schen
 Два мира, вместе дарящие (богатство), благодатные для всех,  
 Пусть подтолкнут к нам успех, добычу, богатство!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devayajyā́ ← devayajyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hinóta ← √hi- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dhánānām ← dhána- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+hinóta ← √hi- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sanáye ← saní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+syadhvam ← √sā- ~ si- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yóge ← yóga- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+āpaḥ ← áp- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+bhūtana ← √bhū- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+śruṣṭīvárīḥ ← śruṣṭīván- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Durch Dienst der Götter fördert unser Opfer, zur Schatzerlangung fördert die 
 Расслабьте (свое) вымя при осуществлении (вселенского) закона!  
 Будьте послушны нам, о воды!
 </details>
+

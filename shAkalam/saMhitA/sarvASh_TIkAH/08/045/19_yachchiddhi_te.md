@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ápi ← ápi (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vyáthiḥ ← vyáthi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ámanmahi ← √man- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+jaganvā́ṁsaḥ ← √gam- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+bodhi ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+godā́ḥ ← godā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +185,4 @@ Denn wenn wir je dir waren werth als die, die deine Wege gehn, So schenke, Indra
 Что колебались в отношении тебя,  
 Все же стань для нас, о Индра, дарителем коров!
 </details>
+

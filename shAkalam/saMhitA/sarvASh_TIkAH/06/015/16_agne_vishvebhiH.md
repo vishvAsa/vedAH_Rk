@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+svanīka ← svanīka- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvebhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sīda ← √sad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ū́rṇāvantam ← ū́rṇāvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ghr̥távantam ← ghr̥távant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kulāyínam ← kulāyín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+savitré ← savitár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+naya ← √nī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sādhú ← sādhú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yájamānāya ← √yaj- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +207,4 @@ O Agni, mit allen Göttern setze dich, o schöner, zuerst in den wollenweichen S
 Образующее гнездо, полное жира! К Савитару  
 Веди прямо жертву для жертвователя!
 </details>
+

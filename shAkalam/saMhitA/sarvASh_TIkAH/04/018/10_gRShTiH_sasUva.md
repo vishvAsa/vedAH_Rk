@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+gr̥ṣṭíḥ ← gr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sasūva ← √sū- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+stháviram ← sthávira- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tavāgā́m ← tavāgā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anādhr̥ṣyám ← anādhr̥ṣyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+túmram ← túmra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+árīḷham ← árīḷha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+caráthāya ← carátha- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ichámānam ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+svayám ← svayám (invariable)  
+{}
+
+tanvè ← tanū́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Die junge Kuh gebar den starken, raschen, den feisten Stier, den unbezwungnen In
 Необлизанного теленка мать (пустила) бегать,  
 (Того,) кто сам себе ищет путь.
 </details>
+

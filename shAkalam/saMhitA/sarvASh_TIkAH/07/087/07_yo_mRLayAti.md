@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́gaḥ ← ā́gas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cakrúṣe ← √kr̥- (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+mr̥ḷáyāti ← √mr̥ḍ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ánāgāḥ ← ánāga- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+váruṇe ← váruṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+áditeḥ ← áditi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+r̥dhántaḥ ← √r̥dh- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:ACT}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ O wären wir vor Varuna doch schuldlos, vor ihm, der auch des Sünders sich erba
 Который способен простить даже совершенный грех!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
+

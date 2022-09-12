@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ghóṣān ← √ghuṣ- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+kr̥ṇvate ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+tīvrā́n ← tīvrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vŕ̥ṣapāṇayaḥ ← vŕ̥ṣapāṇi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ráthebhiḥ ← rátha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sahá ← sahá (invariable)  
+{}
+
+vājáyantaḥ ← √vājay- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+avakrā́mantaḥ ← √kramⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+prápadaiḥ ← prápada- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ánapavyayantaḥ ← ánapavyayant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kṣiṇánti ← √kṣī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +212,4 @@ Mit starken Hufen lärmen laut die Rosse, in schnellem Laufe mit den Wagen eilen
 Топча недругов ногами,  
 Они без устали уничтожают врагов.
 </details>
+

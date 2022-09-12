@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhímātim ← abhímāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+manyo ← manyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sáhasva ← √sah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mr̥ṇán ← √mr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+pramr̥ṇán ← √mr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ruján ← √ruj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+nanú ← nanú (invariable)  
+{}
+
+pā́jaḥ ← pā́jas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rurudhre ← √rudh- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ekaja ← ekajá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nayase ← √nī- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+váśam ← váśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaśī́ ← vaśín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +234,4 @@ Besiege, Manju, unsre Widersacher; geh vor, den Feind zerbrechend, tödtend, til
 
 -ru-
 </details>
+

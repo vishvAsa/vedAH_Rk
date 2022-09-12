@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+syāt ← √as- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+yajñā́ya ← yajñá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+āré ← āré (invariable)  
+{}
+
+bhū́reḥ ← bhū́ri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duritásya ← duritá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+mártyasya ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tujatáḥ ← √tuj- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+barháṇāvat ← barháṇāvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+supārā́saḥ ← supārá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Dem Opfer werde Licht in beiden Welten, wir mögen fern von vielem Unglück blei
 Даже для смертного, совсем не дающего покоя,  
 Грубого, (будьте) спасителями, о Васу!
 </details>
+

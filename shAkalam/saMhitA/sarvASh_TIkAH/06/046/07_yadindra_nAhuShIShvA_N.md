@@ -16,14 +16,69 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nā́huṣīṣu ← nā́huṣa- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+kr̥ṣṭíṣu ← kr̥ṣṭí- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+nr̥mṇám ← nr̥mṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dyumnám ← dyumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kṣitīnā́m ← kṣití- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+páñca ← páñca- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+paúṁsyā ← paúṁsya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +190,7 @@ satrā́reappears once again (cf. 2d, 3a).
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 This pragātha is stitched together by the yád (vā) construction (7a, c, 8a, b).
@@ -166,3 +221,4 @@ Was unter Nachbarvölkern ist an Mannheit, Indra, und an Macht, Welch Gut bei de
 Или блеск, что у пяти народов, принеси  
 Целиком – все мужские силы!
 </details>
+

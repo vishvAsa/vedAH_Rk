@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+brahmā́ṇam ← brahmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bráhmavāhasam ← bráhmavāhas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+r̥gmíyam ← r̥gmíya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+doháse ← √duh- (root)  
+{case:DAT, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +154,4 @@ Den Beter, der Gebet empfängt, mit Liedern den gepriesnen Freund Ruf wie die Ku
 Друга, достойного гимнов, я призываю  
 Хвалебными песнями, как корову для доения,
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+revántam ← revánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vindase ← √vid- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+pī́yanti ← √pī- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+surāśvàḥ ← surāśū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+kr̥ṇóṣi ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+nadanúm ← nadanú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+ūhasi ← √ūh- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+ā́t ← ā́t (invariable)  
+{}
+
+hūyase ← √hū- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Den Reichen nicht erwählst du zur Genossenschaft, verhasst sind dir die Trunken
 Когда ты издаешь военный клич, ты сплачиваешь (людей),  
 И тогда тебя зовут, словно отца.
 </details>
+

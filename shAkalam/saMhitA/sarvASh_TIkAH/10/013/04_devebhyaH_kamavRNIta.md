@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+avr̥ṇīta ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+kám ← kám (invariable)  
+{}
+
+mr̥tyúm ← mr̥tyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+avr̥ṇīta ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+kám ← kám (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+prajā́yai ← prajā́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+akr̥ṇvata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ŕ̥ṣim ← ŕ̥ṣi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+arirecīt ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+priyā́m ← priyá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yamáḥ ← yamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ Um der Götter willen wählte Jama den Tod [d.h. um bei den Göttern zu sein], u
 Риша Брихаспати они сделали себе жертвой.  
 Яма продолжил (свое) милое тело.
 </details>
+

@@ -18,16 +18,74 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+bhárāṇām ← bhára- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+mádhyam ← mádhya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+adhikṣitáḥ ← √kṣi- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+indrāgnī́ ← indrāgní- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+kavī́ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+kavitvanā́ ← kavitvaná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+taú ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+u ← u (invariable)  
+{}
+
+pr̥chyámānā ← √praś- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:PASS}
+
+sakhīyaté ← √sakhīy- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+aśnutam ← √naś- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhītám ← √dhī- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sám ← sám (invariable)  
+{}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +238,4 @@ Denn Indra-Agni weilen ja recht in der Opfer Mittelpunkt; So kommt mit Weisheit,
 (Внутренее) видение, о два мужа!  
 Пусть лопнут все ничтожные другие!
 </details>
+

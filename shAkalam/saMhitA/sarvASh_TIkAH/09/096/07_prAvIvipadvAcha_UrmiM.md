@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avīvipat ← √vip- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+síndhuḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūrmím ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vācáḥ ← vā́c- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+manīṣā́ḥ ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+ávarāṇi ← ávara- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+páśyan ← √paś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥jánā ← vr̥jána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+jānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tiṣṭhati ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Das Lied erregt er, wie der Strom die Welle, Gesänge Soma rieselnd und Gebete, 
 Заглядывая внутрь этих ближних общин,  
 Бык влезает на коров, зная (в этом толк).
 </details>
+

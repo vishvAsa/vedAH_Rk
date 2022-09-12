@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árhantaḥ ← √arh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sudā́navaḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ásāmiśavasaḥ ← ásāmiśavas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñíyebhyaḥ ← yajñíya- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+arca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+marúdbhyaḥ ← marút- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +167,4 @@ Den Männern preis das Opfer an, was den zu ehrenden gebührt, Die reichlich reg
 Запевай жертвенную песнь достойным жертв  
 Марутам, (повелителям) неба!
 </details>
+

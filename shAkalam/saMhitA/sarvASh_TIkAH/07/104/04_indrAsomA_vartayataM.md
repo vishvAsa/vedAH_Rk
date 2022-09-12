@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índrāsomā ← índrāsóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vadhám ← vadhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vartáyatam ← √vr̥t- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+agháśaṁsāya ← agháśaṁsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+tárhaṇam ← tárhaṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+párvatebhyaḥ ← párvata- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+svaryàm ← svaryà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+takṣatam ← √takṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+nijū́rvathaḥ ← √jūrv- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+rákṣaḥ ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vāvr̥dhānám ← √vr̥dh- (root)  
+{case:NOM, gender:N, number:SG, tense:PRF, voice:MED}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Vom Himmel schleudert, Indra-Soma, eur Geschoss, das von der Erde tilge den, der
 Вытешите звучную (дубину грома) из гор,  
 Которую вы спалите ракшаса растущего!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yájamānāḥ ← √yaj- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+vā́ryāṇi ← vā́rya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ichámānāḥ ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+sahá ← sahá (invariable)  
+{}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+gómantam ← gómant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uśíjaḥ ← uśíj- (nominal stem)  
+{case:NOM, number:PL}
+
+vavruḥ ← √vr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Die dich, o Agni, Tag für Tag verehren, die haben alles schöne Gut empfangen; 
 Стремясь с тобою к богатству,  
 Ревностные открыли загон с коровами.
 </details>
+

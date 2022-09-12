@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dróṇe ← dróṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kárma ← kárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+abhūvan ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+punānā́saḥ ← √pū- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+ŕ̥jyantaḥ ← √r̥j- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+papīyāt ← √pā- 2 (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+pūrvyáḥ ← pūrvyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyukṣáḥ ← dyukṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádasya ← máda- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+somyásya ← somyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,14 +200,14 @@ heaven-ruling king of soma’s exhilaration.
 Accented asyá in c presupposes the gen. phrase in d mádasya somyásya, even though the two genitives are construed differently: the one in c as (partitive) gen. with √pā ‘drink’, the one in d dependent on rā́jā.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/037/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/037/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 On the shift in referent between the hárayaḥ in 1b (Indra’s horses) and the one in 2a (soma drops) see published introduction.
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/037/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/037/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 The implicit identification of Indra’s horses with the soma drops is reinforced by the use of the part. ṛ́jyantaḥ for both (2b, 3c).
@@ -184,3 +239,4 @@ Zum Werke schritten vor die goldgefärbten, sie schossen hin gereinigt in die Ku
 Пусть Индра первым у нас напьется его,  
 Небесный царь хмельного напитка из сомы!
 </details>
+

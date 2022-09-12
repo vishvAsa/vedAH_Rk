@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+keśínā ← keśín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+somapéyāya ← somapéya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vakṣataḥ ← √vah- (root)  
+{number:DU, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+surā́dhasam ← surā́dhas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +155,4 @@ Den Indra fahr' zum Somatrunk das Füchsepaar, das mähnige, Zum Opfer den, der 
 Должна привезти для питья сомы  
 На жертвоприношение, (его,) очень щедрого.
 </details>
+

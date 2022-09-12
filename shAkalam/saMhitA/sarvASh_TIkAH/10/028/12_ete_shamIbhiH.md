@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhūvan ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+eté ← eṣá (pronoun)  
+{}
+
+śámībhiḥ ← śámī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+suśámī ← suśámī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hinviré ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sóme ← sóma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+māhi ← √mā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nr̥vát ← nr̥vánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vádan ← √vadⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dadhiṣe ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Die haben schön gewirkt mit ihren Werken, die sich mit Sprüchen hin zum Soma w
 Вещая, как муж, отмерь нам награды!  
 На небе снискал ты славу, имя героя!
 </details>
+

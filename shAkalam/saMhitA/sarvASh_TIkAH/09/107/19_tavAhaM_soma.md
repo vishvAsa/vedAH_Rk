@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+rāraṇa ← √ranⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+babhro ← babhrú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+paridhī́n ← paridhí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +200,7 @@ In the last pāda it is Soma who is urged to “go past the barriers” (paridh�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/19-20.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/19-20.md">
 <details open><summary><h2>19-20 ...{Loading}...</h2></summary>
 
 This is the first and only place in the hymn in which the 1st person is found. The speaker’s eagerness for fellowship with Soma, who is addressed directly, and his admission of his troubles give an intimate and almost confessional tone. Both vss. have the 1st sg. prn. ahám, a form of sakhyá-, a form of dív- ‘day’, and the voc. to babhrú- ‘brown one’ and are tightly connected, also structurally (see disc. ad 20).
@@ -180,3 +232,4 @@ Ich freue, Soma, Tag für Tag, o Indu, deiner Freundschaft mich; O flammendrothe
 Много (неприятностей), о бурый, обрушиваются на меня:  
 Пройди сквозь эти преграды!
 </details>
+

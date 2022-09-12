@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+hárī ← hári- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tíṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yujyámānā ← √yuj- (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:PASS}
+
+ácha ← ácha (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+niyútaḥ ← niyút- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vāyúḥ ← vāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yāhí ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+abhísr̥ṣṭaḥ ← √sr̥j- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ándhaḥ ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+píbāsi ← √pā- 2 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rarimá ← √rā- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+svā́hā ← svā́hā (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Besteig die Füchse, die den Wagen ziehen, komm zu uns wie der Wind mit seinen R
 Помчавшись к нам, ты будешь пить сому.  
 О Индра, Свага! – мы дали тебе (питья) для опьянения.
 </details>
+

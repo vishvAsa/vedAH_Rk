@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+hiraṇyáye ← hiraṇyáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yuktā́ḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+brahmayújaḥ ← brahmayúj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+keśínaḥ ← keśín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+váhantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +191,4 @@ Her mögen hunderttausende, gebetgeschirrte Füchse dich, An goldnem Wagen anges
 Запрягаемых священным словом буланых, о Индра,  
 Повезут на питье сомы!
 </details>
+

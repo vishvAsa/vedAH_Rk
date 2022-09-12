@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+avitsi ← √vid- 1 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+pitr̥̄́n ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+suvidátrān ← suvidátra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+nápātam ← nápat- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vikrámaṇam ← vikrámaṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víṣṇoḥ ← víṣṇu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+barhiṣádaḥ ← barhiṣád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ā́gamiṣṭhāḥ ← ā́gamiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhájanta ← √bhaj- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+ihá ← ihá (invariable)  
+{}
+
+pitváḥ ← pitú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Ich hab' entdeckt die gabenreichen Väter, die Kinder und den höchsten Schritt 
 (Те) сидящие на жертвенной соломе, что по своему желанию вкушают  
 Выжатый напиток, они сюда приходят охотнее всех.
 </details>
+

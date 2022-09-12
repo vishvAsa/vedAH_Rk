@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asaścátā ← asaścát- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+bhūtám ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+maghávadbhyaḥ ← maghávan- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+junánti ← √jū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+maghadéyam ← maghadéya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+bándhum ← bándhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sūnŕ̥tābhiḥ ← sūnŕ̥ta- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tiránte ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yé ← yá- (pronoun)  
+{}
+
+áśvyā ← áśvya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+gávyā ← gávya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+maghā́ni ← maghá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pr̥ñcántaḥ ← √pr̥c- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ Denn unerschöpflich seid ihr für die Reichen, die reichen Lohn aus ihrer Füll
 Которое благодеяниями увеличивает (круг своих) приверженцев,  
 Раздавая щедрые дары из коров и коней.
 </details>
+

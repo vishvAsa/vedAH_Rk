@@ -15,13 +15,56 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prácetāḥ ← prácetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sūnúḥ ← sūnú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+tánā ← tán- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+viśvávedāḥ ← viśvávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cikitvaḥ ← √cit- (root)  
+{case:VOC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+ŕ̥dhak ← ŕ̥dhak (invariable)  
+{}
+
+yaja ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +192,4 @@ Du, Agni, bist der weise Sohn des Himmels und Spross der Erde, der du alles kenn
 А также всеведущий отпрыск земли.  
 Принеси здесь правильно жертву богам, о внимательный!
 </details>
+

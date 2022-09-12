@@ -15,13 +15,44 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havyádātibhiḥ ← havyádāti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āvívāsati ← √vanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sudákṣam ← sudákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+ajiráśociṣam ← ajiráśocis- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vā ← vā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Wer den gewalt'gen Agni sich durch Opfergaben oder durch Gebet gewinnt, Durch Li
 Жертвенными дарами или поклонениями, (его) с прекрасной силой действия,  
 Или хвалебной песнью – (его) с подвижным пламенем,
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dharúṇaḥ ← dharúṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+samudráḥ ← samudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+bhū́rijanmā ← bhū́rijanman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+caṣṭe ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+hr̥dáḥ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+niṇyóḥ ← niṇyá- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+síṣakti ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+níhitam ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+útsasya ← útsa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+véḥ ← ví- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Auf ihn, der Schätze einz'ges Meer und Becken, den vielgebornen, schaun wir hin
 Он следует за выменем в лоне двоих затаившихся.  
 Посреди источника сокрыт след птицы!
 </details>
+

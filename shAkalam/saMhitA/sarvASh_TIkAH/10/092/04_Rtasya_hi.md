@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+prásitiḥ ← prásiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vyácaḥ ← vyácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+arámatiḥ ← arámati- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pánīyasī ← pánīyaṁs- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cikitrire ← √cit- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūtádakṣasaḥ ← pūtádakṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +221,4 @@ Des Rechts Verbreitung und des Himmels weiter Raum, die grosse Ehrfurcht, Andach
 
 -ru-
 </details>
+

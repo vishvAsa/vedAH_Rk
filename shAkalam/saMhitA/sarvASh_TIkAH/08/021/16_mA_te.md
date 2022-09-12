@@ -16,14 +16,81 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arāma ← √r̥- 1 (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+godatra ← godatra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+nís ← nís (invariable)  
+{}
+
+rā́dhasaḥ ← rā́dhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+gr̥hāmahi ← √gr̥h- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:MED}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+dr̥ḷhā́ ← √dr̥h- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+mr̥śa ← √mr̥ś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+ādábhe ← √dabh- (root)  
+{case:DAT, number:SG}
+
+dāmā́naḥ ← dāmán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,3 +256,4 @@ O Kuhvertheiler, nicht entzieh uns dein Geschenk, o Indra, uns ergreife nicht; A
 Принеси (их)!  
 Дары твои не для того, чтобы их повредить!
 </details>
+

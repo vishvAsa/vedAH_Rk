@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+mártaiḥ ← márta- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sahá ← sahá (invariable)  
+{}
+
+sūríbhiḥ ← sūrí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+stave ← √stu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sūnáraḥ ← sūnára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásuḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitrā́saḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+r̥tāyávaḥ ← r̥tāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+súdhitāḥ ← súdhita- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+dyā́vaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dyumnaíḥ ← dyumná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+mā́nuṣān ← mā́nuṣa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +229,4 @@ So wird der gute Agni von den Sterblichen, das Kind der Kraft gepriesen von den 
 Которые, хорошо принятые, как друзья, преданы закону,  
 Превосходят блеском людей, как небеса (-землю).
 </details>
+

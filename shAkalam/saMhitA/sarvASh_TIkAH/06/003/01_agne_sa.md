@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kṣeṣat ← √kṣi- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+r̥tapā́ḥ ← r̥tapā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tejā́ḥ ← r̥tejā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+devayúḥ ← devayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naśate ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mitréṇa ← mitrá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+déva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mártam ← márta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pā́si ← √pā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tyájasā ← tyájas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,3 +258,4 @@ Der wohnt in Frieden, Agni, dir ergeben, der glänzet weit, wer fromm ist, fromm
 Тот смертный, кого ты (как) Варуна, единодушный с Митрой,  
 О бог, хранишь от беды, вызванной отречением.
 </details>
+

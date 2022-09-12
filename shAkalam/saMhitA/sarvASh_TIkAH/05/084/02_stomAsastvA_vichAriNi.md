@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+stómāsaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vicāriṇi ← vicārin- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+aktúbhiḥ ← aktú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+stobhanti ← √stubh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+héṣantam ← √heṣ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+arjuni ← árjuna- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ásyasi ← √as- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+perúm ← perú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +187,4 @@ Dich preisen, o durchwanderte, Loblieder in der Tage Glanz, Die, schimmernde, de
 (Тебе,) которая отбрасывает излияние (неба),  
 Словно (кобылица) ржущего коня, о светлая.
 </details>
+

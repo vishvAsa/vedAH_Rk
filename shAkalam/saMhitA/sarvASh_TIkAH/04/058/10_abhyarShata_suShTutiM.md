@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+ājím ← ājí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+arṣata ← √arṣ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gávyam ← gávya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asmā́su ← ahám (pronoun)  
+{case:LOC, number:PL}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dhatta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dráviṇāni ← dráviṇa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+devátā ← devátā (invariable)  
+{}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nayata ← √nī- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhā́rāḥ ← dhā́rā- 1 (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ghr̥tásya ← ghr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mádhumat ← mádhumant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pavante ← √pū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

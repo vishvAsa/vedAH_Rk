@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kathā́ ← kathā́ (invariable)  
+{}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+r̥tā́ya ← r̥tá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śárdhāya ← śárdha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+br̥haté ← br̥hánt- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+pr̥chyámānaḥ ← √praś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+sūré ← svàr- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+áditaye ← áditi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+bravaḥ ← √brū- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+turā́ya ← turá- 1 (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cikitvā́n ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sā́dha ← √sādh- ~ sidh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +180,7 @@ Pāda d poses some syntactic challenges. The first is that sā́dhā, by all acc
 requires a slight emendation, from sā́dhā diváḥ to *sā́dhā́diváḥ -- that is, sā́dha ā́ diváḥ, with ā́+ ABL in the meaning “all the way to.” Cf. I.92.17 yaú … ślókam ā́ diváḥ … cakráthuḥ “you two who made your signal-call (reach) all the way to heaven”; sim. III.61.4. See comm. ad locc. An asterisk should be inserted before “all the way.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
 <details open><summary><h2>05-08 ...{Loading}...</h2></summary>
 
 The list of gods to whom Agni will tattle on us follows a certain pattern.
@@ -172,3 +221,4 @@ Wie gibst der heil'gen Marutschar du Antwort, wenn du gefragt wirst? wie der hoh
 (Как) ответишь ты Адити, могучему (богу)?  
 Иди прямо к цели, о Джатаведас, в небе!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ubháyān ← ubháya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ā́ryā ← ā́rya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+dā́sā ← dā́sa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+átkaiḥ ← átka- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+súdhitebhiḥ ← súdhita- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vádhīḥ ← √vadhⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+vánā ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+darṣi ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+nr̥ṇā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nr̥tama ← nŕ̥tama- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pr̥tsú ← pŕ̥t- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Du Indra schlägst die beiderseit'gen Feinde, die arischen, o Held, und die Barb
 Убивай, как (рубят) деревья, с помощью хорошо сложенных гимнов.  
 Разбей (врагов) в битвах, о самый мужественный из мужей!
 </details>
+

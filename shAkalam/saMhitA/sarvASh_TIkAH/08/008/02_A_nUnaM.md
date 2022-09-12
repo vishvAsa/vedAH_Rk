@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nūnám ← nūnám (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sū́ryatvacā ← sū́ryatvac- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+bhújī ← bhují- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+híraṇyapeśasā ← híraṇyapeśas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gámbhīracetasā ← gambhīracetas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+kávī ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +163,4 @@ Auf eurem Wagen, Ritter, kommt nun her, der wie die Sonne glänzt, Mit Gold gesc
 О несущие радость, украшенные золотом,  
 Два поэта с глубоким прозрением!
 </details>
+

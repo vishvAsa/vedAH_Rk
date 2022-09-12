@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+iva ← iva (invariable)  
+{}
+
+kavím ← kaví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prácetasam ← prácetas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ādadhúḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mártyeṣu ← mártya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ Der weise wie ein Seher ist, und den die Götter lange schon Bei Menschen haben 
 (Того,) кого боги с самого начала  
 Устроили среди смертных.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dŕ̥tiḥ ← dŕ̥ti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+mádhunaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́hitaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+rathacárṣaṇe ← rathacárṣaṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pibatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tátas ← tátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +150,4 @@ Aus eurem Schlauch des süssen Tranks, der in den Wagenkasten euch, Gelegt ist, 
 Погрузили, (вылейте его) в колею колесницы!  
 Пейте оттуда, о Ашвины!
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+bhūyā́ma ← √bhū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+tvā́vataḥ ← tvā́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+gómataḥ ← gómant- (nominal stem)  
+{case:GEN, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ghŕ̥ṣvaye ← ghŕ̥ṣvi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vā́jāya ← vā́ja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yújaḥ ← yúj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +147,4 @@ Dich liebend, Indra, seien wir Genossen dir, an Rindern reich, Vereint zu lust'g
 О Индра, такого, как ты, повелитель коров,  
 Союзниками – ради вожделенной награды!
 </details>
+

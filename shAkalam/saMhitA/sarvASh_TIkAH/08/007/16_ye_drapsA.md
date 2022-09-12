@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+drapsā́ḥ ← drapsá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yé ← yá- (pronoun)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+dhámanti ← √dhamⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vr̥ṣṭíbhiḥ ← vr̥ṣṭí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ákṣitam ← ákṣita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+duhántaḥ ← √duh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+útsam ← útsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -97,7 +128,7 @@ milking the unfailing wellspring,
 However odd the expression drapsā́ḥ … dhámanti “the droplets blow their blast” may seem, it is found twice elsewhere: the extremely enigmatic VIII.96.13 and the somewhat clearer IX.73.1. The latter is a noise-making context, as this may be.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/16-17.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/16-17.md">
 <details open><summary><h2>16-17 ...{Loading}...</h2></summary>
 
 16c útsaṃ duhántaḥ reprises 10bc duduhré … útsam, which in turn reminded us of dhukṣánta in 3c. Other elements in vs. 3 reappear in vs. 17: pṛ́śnimātaraḥ in 17c was the subj. of dhukṣánta in 3b, and 17ab úd u … īrate … úd u vāyúbhiḥ reminds us of 3a úd īrayanta vāyúbhiḥ (cf. also 7ab).
@@ -135,3 +166,4 @@ Sie, die den unerschöpften Born ergiessend alle Welt besprühn mit Regen wie de
 Каплями дождя, словно капли сомы,  
 Выдаивая неистощимый источник...
 </details>
+

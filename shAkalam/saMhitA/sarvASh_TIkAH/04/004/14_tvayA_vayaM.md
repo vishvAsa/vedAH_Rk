@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sadhanyàḥ ← sadhanī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+tvótāḥ ← tvóta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+aśyāma ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+práṇītī ← práṇīti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śáṁsā ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+satyatāte ← satyatāti- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sūdaya ← √sūd- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+ahrayāṇa ← áhrayāṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+anuṣṭhuyā́ ← anuṣṭhuyā́ (invariable)  
+{}
+
+kr̥ṇuhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +156,6 @@ genre M
 यद्वा - तनोतेः क्तिनि छान्दसं दीर्घत्वम् । हे सत्यविस्तार । उभा शंसा उभौ शंस ?? आयौ अर्थावैहिकमामुष्मिकं च । 'सुपां सुलुक्' इत्यकारः । तौ सूदय आनय । षूद क्षरणे । अनुष्ठुया अनुक्रमेण स्थितौ कृणुहि कुरु । 'उतश्च प्रत्ययाच्छन्दो वा वचनम्' इति हेर्लुगभावः । अनुक्रमेण स्थापनमनुष्ठु । 'अपदुस्सुषु स्थः' इति विधीयमानः कुप्रत्ययो व्यत्ययेनानुपूर्वादपि भवति, सूषामादित्वात् षत्वम्, ततः परस्यास्तृतीयायाः 'सुपां सुलुक्' इति याजादेशः । अह्रयाण भक्तानां अह्रेपयितः, विजयकरत्वात् । जिह्रेतेर्व्यत्ययेन शपो लुक्, 'छन्दस्युभयथा' इति चानशः आर्धधातुकत्वात् ङित्त्वाभावः । व्यत्ययेन वा शपि मुगभावः ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -134,7 +179,6 @@ Aided by thee with thee may we be wealthy, may we gain strength with thee to gui
 
 In thy companionship we dwell, protected by thee. Under thy guidance let us acquire gain. Accomplish both praises 1, O (thou who art the) truth! Do so by thy present power, O fearless one!
 </details>
-
 
 <details><summary>Keith</summary>
 
@@ -161,3 +205,4 @@ Von dir geleitet mögen wir erlangen, von dir geschützt, durch deine Führung, 
 Приготовь обе хвалы, о воплощение истины!  
 Поступай по обычаю, о решительный!
 </details>
+

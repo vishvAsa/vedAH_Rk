@@ -15,13 +15,41 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aganma ← √gam- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+sóbharayaḥ ← sóbhari- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sahásramuṣkam ← sahásramuṣka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svabhiṣṭím ← svabhiṣṭí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samrā́jam ← samrā́j- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+trā́sadasyavam ← trāsadasyavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +143,4 @@ Ihn baten jetzt wir Sobhari's, der vielen hilft und tausend Kräfte hat, um Guns
 У которого тысяча мошонок, к прекрасно поддерживающему, за помощью,  
 К вседержителю, связанному с Трасадасью.
 </details>
+

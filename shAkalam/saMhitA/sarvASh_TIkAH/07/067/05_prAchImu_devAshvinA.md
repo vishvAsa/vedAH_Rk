@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+devā ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+prā́cīm ← prā́ñc- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+ámr̥dhrām ← ámr̥dhra- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kr̥tam ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vasūyúm ← vasūyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aviṣṭam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+púraṁdhīḥ ← púraṁdhi- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vā́je ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śacīpatī ← śácīpáti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śaktam ← √śak- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ Mein Frühgebet, das Gut erfleht, o Götter, lasst tüchtig sein, o Ritter, zum 
 Поддержите все силы вдохновения при (завоевании) награды!  
 Помогите вы нам, о повелители помощи, (своими) помощами!
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+brahmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vítatam ← √tan- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+eṣi ← √i- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+gā́trāṇi ← gā́tra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+prabhúḥ ← prabhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+āmáḥ ← āmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśnute ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+átaptatanūḥ ← átaptatanū- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āśata ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+śr̥tā́saḥ ← √śr̥- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+váhantaḥ ← √vah- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +244,4 @@ Dein Läutrungsnetz, Gebetes Herr, ist ausgespannt, durch seine Glieder gehst du
 С непылающим телом, сырой этого не достигает  
 Вареные же, везущие (речь) этого достигли полностью.
 </details>
+

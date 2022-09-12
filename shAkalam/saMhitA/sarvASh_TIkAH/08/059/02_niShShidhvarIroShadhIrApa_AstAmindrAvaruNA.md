@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D;; Vālakhilya  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya
+#### Morph
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+āstām ← √as- 1 (root)  
+{number:DU, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+niṣṣídhvarīḥ ← niṣṣídhvan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́śata ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+índrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádhvanaḥ ← ádhvan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pāré ← pārá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sísratuḥ ← √sr̥- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+ā́devaḥ ← ā́deva- 1 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+óhate ← √uh- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+śátruḥ ← śátru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáyoḥ ← yá- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +201,4 @@ Die Kräuter und die Wasser waren labungsreich, erreichten ihre Grösse, Indra-V
 О (вы, двое), которые спешат по ту сторону пространства, (по ту сторону) пути,  
 Которым ни один не-бог не сочтет себя достойным противником.
 </details>
+

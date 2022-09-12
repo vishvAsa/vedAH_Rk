@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnáyaḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+táviṣībhiḥ ← táviṣī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vā́jāḥ ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yantu ← √i- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ayukṣata ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+pŕ̥ṣatīḥ ← pŕ̥ṣant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sámmiślāḥ ← sámmiśla- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śubhé ← śúbh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+br̥hadúkṣaḥ ← br̥hadúkṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+viśvávedasaḥ ← viśvávedas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádābhyāḥ ← ádābhya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+párvatān ← párvata- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vepayanti ← √vip- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Vor mögen gehn mit Kraft die raschen, Flammen gleich, sie schirrten an zum Schm
 Высоковозросшие Маруты, всеведущие,  
 Сотрясают горы, (эти) не терпящие обмана.
 </details>
+

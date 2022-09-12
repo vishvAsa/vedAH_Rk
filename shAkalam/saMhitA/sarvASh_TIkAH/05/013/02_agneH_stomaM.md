@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+manāmahe ← √man- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+divispŕ̥śaḥ ← divispŕ̥ś- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sidhrám ← sidhrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+draviṇasyávaḥ ← draviṇasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +141,4 @@ Des Agni Lob, das wohl gelingt, des Gottes, der zum Himmel dringt, Ersinnen Scha
 Удачную хвалу для бога,  
 Касающегося неба, (мы,) жаждущие богатства.
 </details>
+

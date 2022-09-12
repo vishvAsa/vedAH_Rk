@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́yudhāni ← ā́yudha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+cakré ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+dāsáḥ ← dāsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+stríyaḥ ← strī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+abalā́ḥ ← abalá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+karan ← √kr̥- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+sénāḥ ← sénā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ákhyat ← √khyā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhéne ← dhénā- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+hí ← hí (invariable)  
+{}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+ait ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+dásyum ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+yudháye ← √yudh- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,3 +280,4 @@ Denn Weiber nahm der Dämon sich zur Heerschar, »Was können thun mir seine sch
 (Думал Индра) – он разглядел-таки внутри обе его женские груди.  
 И тут выступил Индра, чтобы побороть Дасью.
 </details>
+

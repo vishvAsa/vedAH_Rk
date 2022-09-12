@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ádrogham ← ádrogham (invariable)  
+{gender:N, number:SG}
+
+uśatáḥ ← √vaś- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yaviṣṭhya ← yáviṣṭhya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ajasra ← ájasra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vītáye ← vītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+práyāṁsi ← práyas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+súdhitā ← súdhita- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+hitáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mándasva ← √mand- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +198,4 @@ O jüngster, fahr die Götter freundlich her zum Mahl, o ewiger, die willigen, O
 Приезжай на хорошо приготовленные жертвенные услады, о Васу!  
 Радуйся, возбужденный поэтическими произведениями!
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+divispŕ̥śam ← divispŕ̥ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sumánmabhiḥ ← sumánman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vā́yo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yāhí ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śrīṇānáḥ ← √śrī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+upári ← upári (invariable)  
+{}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ayāmi ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+śukráḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +202,4 @@ Zum Opfer, das zum Himmel dringt, o Vāju mit den Weisen komm; Im Sieb geklärt,
 В цедилке, украшенный сверху (молоком)  
 Этот светлый (сок) вручен тебе.
 </details>
+

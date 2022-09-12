@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+arṣasi ← √arṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vásānaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ratnadhā́ḥ ← ratnadhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sīdasi ← √sad- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hiraṇyáyaḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+útsaḥ ← útsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

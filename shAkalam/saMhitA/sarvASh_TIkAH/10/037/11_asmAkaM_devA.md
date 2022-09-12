@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+jánmane ← jánman- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ubháyāya ← ubháya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+cátuṣpade ← cátuṣpad- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dvipáde ← dvipád- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yachata ← √yam- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+adát ← √ad- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+ā́śitam ← √aśⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+píbat ← √pā- 2 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+ūrjáyamānam ← √ūrjay- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+arapáḥ ← arapás- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dadhātana ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śám ← śám (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yós ← yós (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Gewährt, o Götter, Schutz unserm beiderseitigen Geschlecht, dem zweifüssigen 
 Едящими, пьющими, подкрепляющимися, насытившимися (пусть будут они)!  
 Дайте нам это счастье (и) благо невредимым!
 </details>
+

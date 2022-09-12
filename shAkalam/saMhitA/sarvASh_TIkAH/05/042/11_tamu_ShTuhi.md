@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+stuhi ← √stu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sudhánvā ← sudhánvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sviṣúḥ ← sviṣú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bheṣajásya ← bheṣajá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+kṣáyati ← √kṣā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rudrám ← rudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saumanasā́ya ← saumanasá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yákṣva ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+ásuram ← ásura- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+duvasya ← √duvasy- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Den preise, welcher schöne Pfeil und Bogen und im Besitz hat alle Arzeneien; Zu
 Приноси жертвы Рудре для великого благожелательства!  
 Награди бога, Асуру, поклонениями!
 </details>
+

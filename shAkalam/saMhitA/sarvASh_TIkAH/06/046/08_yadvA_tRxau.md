@@ -16,14 +16,75 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+druhyaú ← druhyú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jáne ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tr̥kṣaú ← tr̥kṣí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+pūraú ← pūrú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vŕ̥ṣṇyam ← vŕ̥ṣṇya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+nr̥ṣā́hye ← nr̥ṣā́hya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+rirīhi ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pr̥tsú ← pŕ̥t- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+turváṇe ← √tūr(v)- ~ tur- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +201,7 @@ grant that to us fully at (the time of) the conquering of men, for us to  vanqui
 On the verbal rection of turváṇe see Keydana (Inf., 245-47). Note also that the circumstantial loc. nṛṣā́hye “at the conquering of men” and the purpose infinitival phrase amitrā́n … turváṇe “to vanquish our foes” have the same semantic structure, though different syntax.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 This pragātha is stitched together by the yád (vā) construction (7a, c, 8a, b).
@@ -171,3 +232,4 @@ Und was bei Trikschi, starker, was beim Druhju-Volk, beim Purustamm an Stiereskr
 Нам ее отдай при покорении мужей,  
 Чтобы преодолеть недругов в сражениях!
 </details>
+

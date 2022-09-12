@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+viśvámanasaḥ ← viśvámanas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vr̥trahantama ← vr̥trahántama- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+praṇetar ← praṇetár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+úgra ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +171,4 @@ O nahe, feindetödtendster, durch des Viçvamanas Gebet All unserm Thun, o stark
 (Молитвы) Вишваманаса, о (ты,) лучший убийца врагов,  
 Грозный предводитель, Васу!
 </details>
+

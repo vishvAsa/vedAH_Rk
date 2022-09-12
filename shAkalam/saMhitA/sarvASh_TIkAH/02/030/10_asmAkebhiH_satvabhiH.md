@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmā́kebhiḥ ← asmā́ka- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sátvabhiḥ ← sátvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śū́raiḥ ← śū́ra- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kártvāni ← kártva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vīryā̀ ← vīryà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yā́ni ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+abhūvan ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ánudhūpitāsaḥ ← √dhū- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+jyók ← jyók (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+hatvī́ ← √han- (root)  
+{non-finite:CVB}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +235,4 @@ Durch unsre tapfere Helden, o du tapfrer, vollbring' die kühnen Thaten, die du 
 (Тех) давно (уже) выкурили.  
 Убей (их) и принеси нам (их) добро!
 </details>
+

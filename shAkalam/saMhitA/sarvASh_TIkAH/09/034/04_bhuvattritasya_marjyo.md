@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+bhúvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+márjyaḥ ← márjya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tritásya ← tritá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhúvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+matsaráḥ ← matsará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajyate ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rūpaíḥ ← rūpá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +151,7 @@ The published translation does not reflect the possible pun on sám … ajyate t
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/034/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/034/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 The final words of these two vss. are the phonologically similar háriḥ and havíḥ, both referring to soma -- though one is masc. nom. and the other neut. acc. </details>
@@ -149,3 +180,4 @@ Dem Trita sei zu läutern er, dem Indra sei berauschend er, Mit Schönheit wird 
 Да будет он пьянящим для Индры!  
 Золотистый украшается всеми (своими) формами.
 </details>
+

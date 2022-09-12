@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+aruṇī́ḥ ← aruṇá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+āváhantī ← √vah- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+cékitānā ← √cit- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+citrā́ ← citrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+prabodháyantī ← √budh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+suyújā ← suyúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Herfahrend kam mit Glanz die Morgenröthe, die grosse, lichte, hell mit Strahlen
 Пробуждая (все существа), богиня Ушас  
 Отправляется в счастливое путешествие на прекрасно запряженной колеснице.
 </details>
+

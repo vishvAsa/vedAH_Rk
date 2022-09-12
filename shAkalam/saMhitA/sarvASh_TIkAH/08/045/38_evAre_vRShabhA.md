@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+evā́re ← evā́ra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ásinvan ← ásinvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āvayaḥ ← √āvay- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cáran ← √carⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+nivátā ← nivát- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śvaghnī́ ← śvaghnín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +141,7 @@ Note also the lengthened voc. vṛṣabhā (also in 22a). Lengthened vocatives a
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/045/37-38.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/045/37-38.md">
 <details open><summary><h2>37-38 ...{Loading}...</h2></summary>
 
 For my interpretation of this bit of dialogue, see the published introduction.
@@ -141,3 +172,4 @@ Beim Soma, nimmersatter Stier, der recht dir ist, verschlangst du viel, Dem Spie
 Ты много поглощал, не насыщаясь,  
 Словно удачливый игрок (в кости), действующий понизу.
 </details>
+

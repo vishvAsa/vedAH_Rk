@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+brahmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suvr̥ktíḥ ← suvr̥ktí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+akāri ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+bráhma ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vajríṇe ← vajrín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+aviṣṭám ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jigr̥tám ← √gr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+púraṁdhīḥ ← púraṁdhi- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+árātīḥ ← árāti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+aryáḥ ← arí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jajastám ← √jas- (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+vanúṣām ← vanús- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Dies reine Lied ist euch bereitet beiden, Brihaspati und Indra, der den Blitz h�
 Поддержите (наши) молитвы, пробудите полноту вдохновенья!  
 Истощите враждебные замыслы чужого (и) завистников!
 </details>
+

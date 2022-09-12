@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+kíyatī ← kíyant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+maryatás ← maryatás (invariable)  
+{}
+
+vadhūyóḥ ← vadhūyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pányasā ← pányaṁs- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+páriprītā ← √prī- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+vā́ryeṇa ← vā́rya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+supéśāḥ ← supéśas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vadhū́ḥ ← vadhū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+jáne ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+svayám ← svayám (invariable)  
+{}
+
+vanute ← √vanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Was ist das für ein Mädchen, das durch das kostbare Geschenk des Liebhabers un
 
 -ru-
 </details>
+

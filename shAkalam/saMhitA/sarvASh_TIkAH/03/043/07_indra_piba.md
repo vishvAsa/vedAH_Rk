@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vŕ̥ṣadhūtasya ← vŕ̥ṣadhūta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jabhā́ra ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+uśaté ← √vaś- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+cyāváyasi ← √cyu- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+kr̥ṣṭī́ḥ ← kr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+gotrā́ ← gotrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vavártha ← √vr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Vom starken trink, den, Indra, starke brauten, den dir der Adler brachte, dem be
 В опьянении которым ты сотрясаешь народы,  
 В опьянении которым ты открыл загоны для коров.
 </details>
+

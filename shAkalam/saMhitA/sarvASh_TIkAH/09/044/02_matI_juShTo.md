@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hitáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+juṣṭáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+matī́ ← matí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hinve ← √hi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+parāváti ← parāvát- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víprasya ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Erfreut durch Lied, Gebet-gespornt wird Soma fernehin gesandt, Der Seher in des 
 Спешит сома в дальние края  
 С потоком (слов) вдохновенного, (этот) поэт,
 </details>
+

@@ -15,14 +15,51 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+ripúm ← ripú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vr̥jinám ← vr̥jiná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+durādhyàm ← durādhī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stenám ← stená- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asya ← √as- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+daviṣṭhám ← daviṣṭhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satpate ← sátpati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥dhí ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sugám ← sugá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +162,7 @@ Vs. 15 also supports my interpr. in another way: kártā naḥ … sugám “mak
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/051/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/051/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, I consider the remaining vss. to belong to a different hymn (or hymns?), appended to the unified, well-structured hymn found in vss. 1-12. Vss. 13-15 are unified by their meter, including an unusual variant of Uṣṇih with the configuration 8 8 / 8 4; see disc. ad vs. 13. Whether vs. 16, in Anuṣṭubh, belongs to this set or was independently appended I don’t know, but it certainly has a “final” feel to it.
@@ -156,3 +193,4 @@ Wirf weit hinweg, o Agni, den trügerischen Feind, den bösegesinnten Dieb, o st
 Вора, о Агни, с дурными замыслами!  
 Создай, о добрый господин, хороший путь как можно дальше от него!
 </details>
+

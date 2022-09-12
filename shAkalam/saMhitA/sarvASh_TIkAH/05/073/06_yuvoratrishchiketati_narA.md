@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átriḥ ← átri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ciketati ← √cit- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+cétasā ← cétas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nárā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sumnéna ← sumná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+arepásam ← arepás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gharmám ← gharmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āsnā́ ← āsán- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+bhuraṇyáti ← √bhuraṇy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +170,4 @@ Mit liebevollem Sinne hat, o Männer, Atri auf euch Acht, Wenn er den reinen Opf
 Когда он ищет ртом  
 Ваше беспорочное горячее молоко, о Насатьи.
 </details>
+

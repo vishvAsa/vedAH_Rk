@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+vicarṣaṇe ← vícarṣaṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+jánīḥ ← jáni- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sáṁvr̥taḥ ← √vr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sarpatu ← √sr̥p- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Und dieser schleiche zu dir hin, wie man verhüllt zu Weibern schleicht, Der Som
 Пусть заползет к тебе, о Индра,  
 Как переодетый (любовник) к женщинам!
 </details>
+

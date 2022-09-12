@@ -16,14 +16,54 @@ ChandaH = "विषमपदा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line
+#### Morph
+sánitar ← sanitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+súsanitar ← susanitar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+úgra ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cétiṣṭha ← cétiṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cítra ← citrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sū́nr̥ta ← sūnŕ̥ta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prāsáhā ← prāsáh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sáhantam ← √sah- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sáhurim ← sáhuri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samrāṭ ← samrā́j- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhujyúm ← bhujyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pū́rvyam ← pū́rvya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +190,4 @@ O [Spender] schönspendender, gewaltiger [glänzender] hellglänzendster, herrli
 О властный вседержитель, – (богатство) победоносное, покоряющее,  
 Доставляющее наслаждение, первое в состязаниях за награду!
 </details>
+

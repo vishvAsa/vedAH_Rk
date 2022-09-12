@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+cit ← cit (invariable)  
+{}
+
+dhánā ← dhána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+íti ← íti (invariable)  
+{}
+
+jáyantam ← √ji- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+anumádanti ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+máde-made ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhr̥ṣṇo ← dhr̥ṣṇú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ójīyaḥ ← ójīyas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sthirám ← sthirá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tanuṣva ← √tan- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+dabhan ← √dabh- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+durévāḥ ← duréva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yātudhā́nāḥ ← yātudhā́na- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Denn so auch, wenn du Schatz erbeutest, jauchzen die Sänger dir bei jedem Mahl 
 Еще сильнее, о отважный, натяни тугой (лук)!  
 Да не обманут тебя колдуны злонамеренные!
 </details>
+

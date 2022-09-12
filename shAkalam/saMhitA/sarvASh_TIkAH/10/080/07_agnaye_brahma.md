@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+r̥bhávaḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tatakṣuḥ ← √takṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avocāma ← √vac- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+mahā́m ← máh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvr̥ktím ← suvr̥ktí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ava ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+jaritā́ram ← jaritár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yaviṣṭha ← yáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajasva ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Dem Agni schufen Künstler das Gebet nun, dem Agni sangen wir das grosse Lied nu
 О Агни, помогай певцу и дальше, о самый юный!  
 О Агни, добудь (нам) жертвой великое богатство!
 </details>
+

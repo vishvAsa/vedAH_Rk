@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+áti ← áti (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+ohate ← √uh- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+śakráḥ ← śakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+áti ← áti (invariable)  
+{}
+
+dvíṣaḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhinát ← √bhid- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+kanī́naḥ ← kanī́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+odanám ← odaná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pacyámānam ← √pac- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+parás ← parás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +201,4 @@ Der starke Indra, er fürwahr, verachtet aller Feinde Trotz, Der Jüngling weist
 
 -ru-
 </details>
+

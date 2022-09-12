@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+ā́hutaḥ ← √hu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+rocate ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+īḷényaḥ ← īḷénya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajyate ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+prátīkam ← prátīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+srucā́ ← srúc- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +150,4 @@ Begossen leuchtet Agni auf, der mit Gesang zu preisen ist, Der Löffel salbt sei
 Агни, которого надо призвать хвалебной песней.  
 Лик (его) умащается ложкой.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pátī ← páti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+samrā́jau ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ugrā́ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vr̥ṣabhā́ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mitrā́váruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vícarṣaṇī ← vícarṣaṇi- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+abhraíḥ ← abhrá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+citrébhiḥ ← citrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+rávam ← ráva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tiṣṭhathaḥ ← √sthā- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+ásurasya ← ásura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+māyáyā ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+varṣayathaḥ ← √vr̥ṣ- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Gewalt'ge Herrscher, Stiere sind sie, Himmels Herrn, Varuna-Mitra, und der Erde,
 С пестрыми тучами вы приближаетесь к грому.  
 Волшебною силой Асуры вы заставляете небо излиться дождем.
 </details>
+

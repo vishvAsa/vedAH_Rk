@@ -18,16 +18,65 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+r̥tvíjam ← r̥tvíj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yajñéṣu ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cā́rum ← cā́ru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sedire ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ghr̥tápratīkam ← ghr̥tápratīka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+akṣábhiḥ ← ákṣi ~ akṣán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+cétiṣṭham ← cétiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śukrám ← śukrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vívakṣase ← √vac- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +209,4 @@ Bei Opfern setzten Agni dich als schönen Priester Menschen ein, Dich, dessen St
 Светлого, лучше всех следящего глазами –  
 В опьянении (сомой) я хочу вам (это) провозгласить.
 </details>
+

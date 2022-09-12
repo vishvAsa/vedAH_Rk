@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+draviṇodā́ḥ ← draviṇodā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+āsícam ← āsíc- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pūrṇā́m ← √pr̥̄- 1 (root)  
+{case:ACC, gender:F, number:SG, non-finite:PPP}
+
+vivaṣṭi ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pr̥ṇadhvam ← √pr̥̄- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+siñcádhvam ← √sic- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+ā́t ← ā́t (invariable)  
+{}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+ohate ← √uh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Der Gott, der Reichthum euch ertheilt, nimmt eure volle Schale an; Bald giesst s
 Налейте доверху или добавьте!  
 Вот тогда бог заметит вас.
 </details>
+

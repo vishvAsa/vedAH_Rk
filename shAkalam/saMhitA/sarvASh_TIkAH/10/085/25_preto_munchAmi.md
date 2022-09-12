@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+amútas ← amútas (invariable)  
+{}
+
+itás ← itás (invariable)  
+{}
+
+muñcā́mi ← √muc- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+amútas ← amútas (invariable)  
+{}
+
+karam ← √kr̥- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+subaddhā́m ← subaddhá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+mīḍhvaḥ ← mīḍhváṁs- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ásati ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+subhágā ← subhága- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+suputrā́ ← suputrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +208,4 @@ Von hier mache ich dich frei, nicht von dort; schön verbunden mache ich dich do
 Чтобы она, о милостивый Индра,  
 Имела прекрасных сыновей (и) была счастливой!
 </details>
+

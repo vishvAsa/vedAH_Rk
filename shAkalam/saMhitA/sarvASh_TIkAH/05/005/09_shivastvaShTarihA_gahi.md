@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+śiváḥ ← śivá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvaṣṭar ← tváṣṭar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+póṣe ← póṣa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vibhúḥ ← vibhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ava ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+út ← út (invariable)  
+{}
+
+yajñé-yajñe ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +180,4 @@ O Tvaschtar komme segnend her an Nahrung reich aus eigner Lust, Bei jedem Opfer 
 Радея о (нашем) процветании, и сам  
 Помогай нам при каждой жертве!
 </details>
+

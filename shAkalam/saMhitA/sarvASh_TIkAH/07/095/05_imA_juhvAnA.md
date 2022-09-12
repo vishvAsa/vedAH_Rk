@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+júhvānāḥ ← √hu- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yuṣmát ← tvám (pronoun)  
+{case:ABL, number:PL}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+sarasvati ← sárasvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+priyátame ← priyátama- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śárman ← śárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śaraṇám ← śaraṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stheyāma ← √sthā- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+vr̥kṣám ← vr̥kṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Zu euch ergossen diese sich mit Andacht, nimm huldreich auf, Sarasvati, die Lied
 Прибегая к твоей самой сладостной защите,  
 Мы хотим, как под деревом, находиться в укрытии!
 </details>
+

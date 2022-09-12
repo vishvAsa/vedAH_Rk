@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mátsi ← √mad- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+mátsi ← √mad- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+váruṇam ← váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mátsi ← √mad- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+pavamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+víṣṇum ← víṣṇu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mátsi ← √mad- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+mátsi ← √mad- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mahā́m ← máh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mátsi ← √mad- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ Berausch, o Soma, Varuna und Mitra, den Indra, Indu, rieselnder, den Vischnu, Be
 Опьяняй толпу Марутову, опьяняй богов,  
 Опьяняй великого Индру, о сок, для опьянения!
 </details>
+

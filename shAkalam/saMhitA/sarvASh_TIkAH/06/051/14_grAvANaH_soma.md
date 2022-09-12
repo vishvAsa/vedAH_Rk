@@ -15,14 +15,57 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+grā́vāṇaḥ ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+kam ← kam (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sakhitvanā́ya ← sakhitvaná- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vāvaśúḥ ← √vaś- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+atríṇam ← atrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jahí ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+paṇím ← paṇí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥kaḥ ← vŕ̥ka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +174,7 @@ See comm. ad vs. 13 for the four-syllable pāda consisting of the nominal senten
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/051/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/051/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, I consider the remaining vss. to belong to a different hymn (or hymns?), appended to the unified, well-structured hymn found in vss. 1-12. Vss. 13-15 are unified by their meter, including an unusual variant of Uṣṇih with the configuration 8 8 / 8 4; see disc. ad vs. 13. Whether vs. 16, in Anuṣṭubh, belongs to this set or was independently appended I don’t know, but it certainly has a “final” feel to it.
@@ -162,3 +205,4 @@ Die Presssteine, o Soma, riefen uns ja recht zur Genossenschaft; schlage nieder 
 Настроились на дружбу.  
 Убей атрина, пани – ведь он волк!
 </details>
+

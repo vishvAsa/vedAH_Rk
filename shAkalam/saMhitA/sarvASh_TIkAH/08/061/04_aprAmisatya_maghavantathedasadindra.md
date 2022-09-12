@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áprāmisatya ← áprāmisatya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táthā ← táthā (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+váśaḥ ← váśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sanéma ← √sanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+śiprin ← śiprín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yántaḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ O ewig wahrer, mächtiger, so soll es sein, wie es dein Sinn, o Indra, will; Wir
 Пусть захватим мы добычу с твоей помощью, о прекрасногубый,  
 Очень быстро двигаясь (к ней), о хозяин давильных камней!
 </details>
+

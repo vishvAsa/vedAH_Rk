@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purás ← purás (invariable)  
+{}
+
+bruve ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+havyavā́ham ← havyavā́h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+sādayāt ← √sad- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +156,4 @@ Als Boten stell' ich Agni an, den Opferfahrer red' ich an, Er setze hier die Gö
 Я обращаюсь к вознице жертв:  
 Пусть усадит он здесь богов!
 </details>
+

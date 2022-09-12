@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́t ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+várdhanaḥ ← várdhana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+miyédhaḥ ← miyédha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutásomaḥ ← sutásoma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ava ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñéna ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yajñíyaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ahihátye ← ahihátya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+āvat ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +240,4 @@ Denn dir, o Indra, war das Opfer Stärkung und die geliebte somareiche Speise; O
 Помогай жертве за жертвой, (ты,) что достоин жертв.  
 Жертва помогла твоей ваджре при убийстве змея.
 </details>
+

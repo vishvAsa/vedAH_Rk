@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+marjayanta ← √mr̥j- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+cā́ru ← cā́ru- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+citrám ← citrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jánima ← jániman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rúdra ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nidhā́yi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+upamám ← upamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víṣṇoḥ ← víṣṇu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gónām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+gúhyam ← gúhya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pāsi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Zu deinem Glänze, o Rudra, schmücken sich die Maruts, welche dein schönes, gl
 Когда запечатлен высший след Вишну,  
 Им ты хранишь тайное имя коров.
 </details>
+

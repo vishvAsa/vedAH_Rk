@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ūrdhvā́saḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhúvan ← √bhū- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+dasmám ← dasmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dyávi ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+kr̥ṣṭáyaḥ ← kr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+namanta ← √nam- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +163,4 @@ Es eilen dir die Indu's nach, am Himmel hoch dem kräftigen; Dich beten alle St�
 Тебе, чудесному, идут на пользу.  
 Народы склоняются вместе перед тобой.
 </details>
+

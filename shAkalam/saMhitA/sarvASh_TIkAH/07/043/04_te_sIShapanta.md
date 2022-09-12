@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+jóṣam ← jóṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sīṣapanta ← √sap- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yájatrāḥ ← yájatra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhā́rāḥ ← dhā́rā- 1 (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dúhānāḥ ← √duh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sudúghāḥ ← sudúgha- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adyá ← adyá (invariable)  
+{}
+
+jyéṣṭham ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+máhaḥ ← máhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gantana ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sámanasaḥ ← sámanas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sthá ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yáti ← yáti (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +245,4 @@ Die heil'gen mögen gern sich dienen lassen, die milchgetränkten Opferströme m
 При(ходите) сегодня на ваш лучший праздник Васу,  
 Приходите единодушные, сколько вас есть!
 </details>
+

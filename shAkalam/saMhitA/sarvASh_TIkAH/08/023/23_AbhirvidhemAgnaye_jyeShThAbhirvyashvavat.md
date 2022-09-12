@@ -15,13 +15,38 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́bhiḥ ← ayám (pronoun)  
+{case:INS, gender:F, number:PL}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+jyéṣṭhābhiḥ ← jyéṣṭha- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vyaśvavát ← vyaśvavát (invariable)  
+{}
+
+máṁhiṣṭhābhiḥ ← máṁhiṣṭha- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śukráśociṣe ← śukráśocis- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +141,4 @@ Last dienen nach Viaçva's Art dem Agni uns, der hell erstrahlt, Mit diesen best
 Наподобие Вьяшвы, этими лучшими  
 Самыми щедрыми молитвами, (ему) с чистым пламенем!
 </details>
+

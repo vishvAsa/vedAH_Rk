@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ájuṣanta ← √juṣ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ápaḥ ← ápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+dī́dhyānāḥ ← √dhī- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sukármā ← sukárman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jaḥ ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+r̥bhukṣā́ḥ ← r̥bhukṣā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víbhvā ← víbhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ An ihrem Werke freuten sich die Götter, als sie's mit Geist und mit Verstand be
 Ваджа стал прекрасным мастером у богов,  
 Рибхукшан у Индры, Вибхван у Варуны.
 </details>
+

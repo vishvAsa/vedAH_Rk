@@ -15,13 +15,56 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+árṇaḥ ← árṇas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sapráthaḥ ← sapráthas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yéṣām ← yá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+bhujé ← bhúj- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śáśvatām ← śáśvant- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tveṣám ← tveṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pítryam ← pítrya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +192,4 @@ Sie, deren Wesen wie das Meer sich wogend ausdehnt allen einzig zum Genuss, des 
 Одно – на пользу каждому из них...  
 (Их) мощь словно телесная сила, идущая от отца.
 </details>
+

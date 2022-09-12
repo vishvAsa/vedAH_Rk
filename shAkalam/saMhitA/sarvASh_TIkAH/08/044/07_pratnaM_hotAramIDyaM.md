@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ī́ḍyam ← ī́ḍya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pratnám ← pratná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+júṣṭam ← júṣṭa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kavíkratum ← kavíkratu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhiśríyam ← abhiśrī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adhvarā́ṇām ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +143,4 @@ Den alten Priester Agni, ihn, der preisenswerth und einsichtsvoll, willkommen un
 Любимого Агни с силой духа поэта,  
 Высшего властителя обрядов...
 </details>
+

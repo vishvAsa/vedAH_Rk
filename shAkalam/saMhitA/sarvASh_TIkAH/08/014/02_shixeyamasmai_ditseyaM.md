@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+dítseyam ← √dā- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:ACT, mood:DES}
+
+śíkṣeyam ← √śak- (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:ACT, mood:DES}
+
+manīṣíṇe ← manīṣín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śácīpate ← śácīpáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+gópatiḥ ← gópati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syā́m ← √as- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +142,4 @@ Ich wollt' ihm helfen, schenken ihm, dem weisen Sänger, Herr der Kraft, Wenn ic
 Мудрого, о господин силы,  
 Если бы я был господином коров.
 </details>
+

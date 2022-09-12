@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhnaḥ ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+idā́ ← idā́ (invariable)  
+{}
+
+mádam ← máda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pītím ← pītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+r̥té ← r̥tá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+śrāntásya ← √śramⁱ- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+nūnám ← nūnám (invariable)  
+{}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+dadhāta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sávane ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tr̥tī́ye ← tr̥tī́ya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +234,4 @@ Sie gaben heut am Tage Trunk und Rausch euch, nicht ohne Mühe wird der Götter 
 Сейчас дайте нам, о Рибху, блага,  
 Во время этого третьего выжимания (сомы)!
 </details>
+

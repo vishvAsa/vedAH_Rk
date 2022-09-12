@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+rócamānāḥ ← √ruc- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+út ← út (invariable)  
+{}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ásthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+rúśantaḥ ← rúśant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ūrmáyaḥ ← ūrmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kr̥ṇóti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sugā́ni ← sugá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+supáthā ← supátha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ábhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dákṣiṇā ← dákṣiṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+maghónī ← maghávan- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+vásvī ← vásu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ Auf stiegen schon der Morgenröthe Strahlen, hell schimmernd wie der Wasser lich
 Она делает все пути счастливыми, легкопроходимыми.  
 Появилась богатая, щедрая Дакшина.
 </details>
+

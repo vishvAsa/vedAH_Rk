@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+parākā́t ← parāká- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+syā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+yujānā́ ← √yuj- (root)  
+{case:NOM, gender:F, number:SG, tense:AOR, voice:MED}
+
+jigāti ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣitī́ḥ ← kṣití- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+páñca ← páñca- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+sadyás ← sadyás (invariable)  
+{}
+
+abhipáśyantī ← √paś- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vayúnā ← vayúna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitā́ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pátnī ← pátnī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Den Wagen schirrend fährt sie aus der Ferne in einem Tage durch die fünf Gesch
 Озирая приметы людей,  
 Дочь неба, госпожа вселенной.
 </details>
+

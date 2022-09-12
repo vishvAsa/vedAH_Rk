@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+namantām ← √nam- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+rudrásya ← rudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sūnávaḥ ← sūnú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádhr̥ṣṭāḥ ← ádhr̥ṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+adyá ← adyá (invariable)  
+{}
+
+hūtā́saḥ ← √hū- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+vásavaḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+árbhe ← árbha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+hitā́saḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+īm ← īm (invariable)  
+{}
+
+mahatí ← mahā́nt- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áhvāma ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+bādhé ← bādhá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ Des Rudra Söhne mögen uns geneigt sein, die heut gerufnen, guten, unbesiegten,
 Когда мы, попав в малое или большое  
 Стеснение, воззвали к Марутам-богам,
 </details>
+

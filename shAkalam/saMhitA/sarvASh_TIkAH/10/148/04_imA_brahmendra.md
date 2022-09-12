@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bráhma ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śaṁsi ← √śaṁs- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dā́ḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+nŕ̥bhyaḥ ← nár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+nr̥ṇā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+cākán ← √kanⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRF, voice:ACT}
+
+sákratuḥ ← sákratu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tébhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+yéṣu ← yá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+gr̥ṇatáḥ ← √gr̥̄- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+stī́n ← stí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+trāyasva ← √trā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+utá ← utá (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Ich habe diese Lieder dir gesungen, o gib, Held Indra, Männerkraft den Männern
 Будь единодушным с теми, в ком находишь удовольствие,  
 И храни певцов и (их) домочавцев!
 </details>
+

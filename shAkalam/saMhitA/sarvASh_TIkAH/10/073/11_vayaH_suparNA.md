@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+seduḥ ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+suparṇā́ḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nā́dhamānāḥ ← √nādh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+priyámedhāḥ ← priyámedha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhvāntám ← √dhvanⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+pūrdhí ← √pr̥̄- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ūrṇuhí ← √vr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+baddhā́n ← √bandh- (root)  
+{case:ACC, gender:M, number:PL, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+mumugdhí ← √muc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+nidháyā ← nidhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Als schön geflügelte Vögel umsassen den Indra die flehenden Sänger, die Prij
 Раскрой тьму! Наполни глаз (светом)!  
 Освободи нас, как (освобождают) связанных петлей!
 </details>
+

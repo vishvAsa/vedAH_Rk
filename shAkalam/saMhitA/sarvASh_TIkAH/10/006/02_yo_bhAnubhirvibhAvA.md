@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M  
 genre M  
 genre M
+#### Morph
+bhānúbhiḥ ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vibhā́ti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vibhā́vā ← vibhā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ájasraḥ ← ájasra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+sákhibhyaḥ ← sákhi- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sakhyā́ ← sakhyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vivā́ya ← √vī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áparihvr̥taḥ ← áparihvr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sáptiḥ ← sápti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Der strahlenreich mit hellen Strahlen leuchtet, der heil'ge Agni, rastlos mit de
 (От тот,) кто друзьям всегда приносит дружеские услуги,  
 Безошибочный, как скакун в упряжке.
 </details>
+

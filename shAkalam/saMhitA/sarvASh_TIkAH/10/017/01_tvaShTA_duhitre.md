@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+duhitré ← duhitár- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+kr̥ṇoti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vahatúm ← vahatú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhúvanam ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+íti ← íti (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+paryuhyámānā ← √vah- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:PASS}
+
+yamásya ← yamá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jāyā́ ← jāyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nanāśa ← √naś- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vívasvataḥ ← vívasvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Tvaschtar richtet seiner Tochter die Hochzeit aus, dazu versammelt sich diese ga
 Мать Ямы, привезенная домой  
 Жена великого Вивасвата исчезла.
 </details>
+

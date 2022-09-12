@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árvā ← árvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadhikrā́vā ← dadhikrā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prajānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ráthānām ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+saṁvidānáḥ ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+uṣásā ← uṣás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ādityébhiḥ ← ādityá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áṅgirobhiḥ ← áṅgiras- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vásubhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ Der erste schnelle Renner Dadhikravan geht an der Wagen Spitze, kennt die Wege, 
 В согласии с Ушас, Сурьей,  
 Адитьями, Васу, Ангирасами.
 </details>
+

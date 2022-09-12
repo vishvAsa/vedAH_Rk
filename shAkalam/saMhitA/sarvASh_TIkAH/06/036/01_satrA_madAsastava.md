@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mádāsaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+táva ← tvám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+viśvájanyāḥ ← viśvájanya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádha ← ádha (invariable)  
+{}
+
+pā́rthivāsaḥ ← pā́rthiva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rā́yaḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+abhavaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+vā́jānām ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vibhaktā́ ← vibhaktár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asuryàm ← asuryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dhāráyathāḥ ← √dhr̥- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Stets war dein Rausch Gemeingut aller Menschen; und alle Güter, die der Erde ei
 Всецело был ты распределителем наград,  
 Так как держал асурскую власть среди богов.
 </details>
+

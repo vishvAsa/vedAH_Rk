@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+jātā́ḥ ← √janⁱ- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+matáyaḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gr̥ṇanti ← √gr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́naṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+bhógam ← bhóga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+dádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sujāta ← sujātá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+váso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Dir sind erzeugt, o Agni, diese Lieder; sie preisen dein Geschenk an Ross und Ri
 Когда смертный достиг твоего расположения,  
 О благой, установил (тебя) с помощью молитв, о прекраснорожденный.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+arṣanti ← √arṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vāśrā́ḥ ← vāśrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadhanviré ← √dhanv- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+gábhastyoḥ ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +139,4 @@ Die Indu's laufen rauschend hin wie Mutterkühe zu dem Kalb, Aus beiden Armen, s
 Текут соки сомы.  
 Они помчались из-под рук (жреца).
 </details>
+

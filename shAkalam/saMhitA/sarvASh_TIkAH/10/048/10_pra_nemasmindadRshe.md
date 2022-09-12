@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+antár ← antár (invariable)  
+{}
+
+dadr̥śe ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+némasmin ← néma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asthā́ ← asthā́ (invariable)  
+{}
+
+āvís ← āvís (invariable)  
+{}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇoti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+némam ← néma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tigmáśr̥ṅgam ← tigmáśr̥ṅga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yúyutsan ← √yudh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+antár ← antár (invariable)  
+{}
+
+baddháḥ ← √bandh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+bahulé ← bahulá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+druháḥ ← drúh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+tasthau ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Bei dem einen zeigt sich der Soma im Innern [des Hauses?]; einen andern macht so
 Желая бороться с остророгим быком,  
 Он оказался пойманным в тугую (петлю) обмана.
 </details>
+

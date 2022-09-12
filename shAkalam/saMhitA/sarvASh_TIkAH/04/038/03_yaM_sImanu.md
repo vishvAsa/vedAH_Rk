@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+drávantam ← √dru- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+pravátā ← pravát- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sīm ← sīm (invariable)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+hárṣamāṇaḥ ← √hr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+mádati ← √mad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pūrúḥ ← pūrú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvaḥ ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gŕ̥dhyantam ← √gr̥dh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+medhayúm ← medhayú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+paḍbhíḥ ← pád- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śū́ram ← śū́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhrájantam ← √dhraj- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+rathatúram ← rathatúr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́tam ← vā́ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Dem, wenn er läuft gleichwie im jähen Sturze, ein jeder Mensch erfreut entgege
 Ногами жадно (покрывая расстояние), словно герой, рвущийся к состязанию в мудрости,  
 (Коня,) обгоняющего колесницы, мчащегося, словно ветер,
 </details>
+

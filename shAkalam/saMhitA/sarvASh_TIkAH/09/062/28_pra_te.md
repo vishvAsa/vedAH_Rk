@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vr̥ṣṭáyaḥ ← vr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asaścátaḥ ← asaścát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dhā́rāḥ ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+śukrā́m ← śukrá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+upastíram ← upastír- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +135,7 @@ The first two pādas are simply a word-order variant of IX.57.1ab prá te dhā́
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/28-30.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
 No overt signs of unity.
@@ -130,3 +164,4 @@ Es schreiten deine Strome vor wie Himmels Regen, flutenreich Zum hellen Ueberwur
 
 -ru-
 </details>
+

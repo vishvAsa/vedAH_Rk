@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádabdhaḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+madíntamaḥ ← madíntama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavase ← √pū- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+ātmā́ ← ātmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhavasi ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dhāsíḥ ← dhāsí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+uttamáḥ ← uttamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+bahávaḥ ← bahú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+manīṣíṇaḥ ← manīṣín- (nominal stem)  
+{case:NOM, number:PL}
+
+svaranti ← √svar- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+niṁsate ← √nas- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+rā́jānam ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Du rieselst lauter, Indu, o berauschendster, des Indra Hauch und beste Labung bi
 Многие хранители мудрости подпевают (хвалебную песню).  
 Они приветствуют царя этого мира.
 </details>
+

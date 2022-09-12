@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dúghānām ← dúgha- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rakṣitā́ram ← rakṣitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+valám ← valá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cakarta ← √kr̥t- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+karéṇa ← kará- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ráveṇa ← ráva- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+āśíram ← āśír- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ichámānaḥ ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+svédāñjibhiḥ ← svédāñji- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+amuṣṇāt ← √muṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+árodayat ← √rud- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+paṇím ← paṇí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Indra zerbrach mit Krachen die Höhle, welche die Milchkühe verschloss, wie mit
 Вместе с (Ангирасами), покрытыми потом, ища молока,  
 Он заставил Пани рыдать: он похитил (его) коров.
 </details>
+

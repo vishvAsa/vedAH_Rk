@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áti ← áti (invariable)  
+{}
+
+tr̥ṣṭám ← tr̥ṣṭá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vavakṣitha ← √vakṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyé ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anyé ← anyá- (nominal stem)  
+{number:PL}
+
+āsate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+prá-pra ← prá (invariable)  
+{}
+
+yánti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śritáḥ ← √śri- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yéṣām ← yá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Dem scharfen Rauch entwuchsest du, und nun bist du recht wohlgemuth; Vor schreit
 Одни проходят и проходят, другие сидят вокруг –  
 (Те,) на чью дружбу ты опираешься.
 </details>
+

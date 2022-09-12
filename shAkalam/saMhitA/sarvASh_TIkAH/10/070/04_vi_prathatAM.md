@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devájuṣṭam ← devájuṣṭa- (nominal stem)  
+{case:VOC, gender:N, number:SG}
+
+prathatām ← √prathⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+tiraścā́ ← tiraścā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+bhūtu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+dīrghám ← dīrghá- (nominal stem)  
+{case:VOC, gender:N, number:SG}
+
+drāghmā́ ← drāghmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+surabhí ← surabhí- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áheḷatā ← áheḷant- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+barhiḥ ← barhís- (nominal stem)  
+{case:VOC, gender:N, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+índrajyeṣṭhān ← índrajyeṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+uśatáḥ ← √vaś- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yakṣi ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Es dehne breit die gottgeliebte Streu sich die langgestreckte sei uns lieblich d
 жертвенная солома  
 Почти жаждущих богов с Индрой во главе.
 </details>
+

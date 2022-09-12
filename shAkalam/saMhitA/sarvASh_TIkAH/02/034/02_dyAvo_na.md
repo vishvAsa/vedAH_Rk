@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+citayanta ← √cit- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+dyā́vaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+khādínaḥ ← khādín- (nominal stem)  
+{gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+stŕ̥bhiḥ ← stár- ~ tár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+abhríyāḥ ← abhríya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dyutayanta ← √dyut- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+vr̥ṣṭáyaḥ ← vr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+rudráḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rukmavakṣasaḥ ← rukmávakṣas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ájani ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+pŕ̥śnyāḥ ← pŕ̥śni- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+śukráḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ū́dhani ← ū́dhar- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,14 +210,14 @@ apā́m when the god is mentioned (1c, 2c, 3d).
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md">
 <details open><summary><h2>02-05 ...{Loading}...</h2></summary>
 
 Note the concentration of pṛSIB forms: 2d pṛ́śni yāḥ, 3d prk̥ ṣám … pṛ́ṣatībhiḥ, 4a prk̥ ṣé, 4c pṛ́ṣadaśva (and scrambled -śiprā in 3c, rapśa- in 5a).
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
 The first words of each hemistich in this series of vss. echo each other: 1a úpem, 1c apā́m, 2a imám, 2c apā́m, 3a sám, 3c tám, 4a tám. Since similar openings are found only in scattered vss. later in the hymn (9a apā́m, 11c yám, 12c sám) I consider the effect deliberate.
@@ -188,3 +249,4 @@ Wie Sternenhimmel leuchteten sie ringgeschmückt, wie Wolkenblitze schimmerte ih
 Когда Рудра породил вас, о Маруты с золотыми пластинками на груди,  
 Бык – в чистом вымени Пришни.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+gāsiṣat ← √gā(y)- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+stoṣat ← √stu- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+gīyámānam ← √gā(y)- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+sā́ma ← sā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śrávat ← √śru- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+jugurat ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+rā́dhasā ← rā́dhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ Rühmlich handelnd stimme ein er, höre die gesungne Weise Und belohne mit Gesch
 
 -ru-
 </details>
+

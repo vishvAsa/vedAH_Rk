@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+vājinīvasū ← vājínīvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvā́bhyām ← tvám (pronoun)  
+{case:INS, number:DU}
+
+adr̥kṣata ← √dr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+stómāḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūhiṣe ← √vah- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -99,7 +127,7 @@ The Pp. analyses the sequence yáthohiṣe as yáthā ohiṣe, which would be, t
 óha- (in my opinion); cf. I.30.4 vácas tád ... ohase “I solemnly proclaim this speech,” with a 1st sg. -se form, as apparently also here. For this passage I assume a form ūhiṣe, built to the presential perf. ūhé. This is also Kümmel’s solution (488-89), though he assigns the form to √vāh ‘anerkennen’, which, acdg. to him, is at least synchronically separate from √oh. Renou and Lubotsky assign the form instead to √vah ‘convey’. For further disc. cf. Oldenberg and Geldner (n. 3c).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/005/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/005/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 Both these vss., though not belonging to the same tṛca, most likely contain 1st sg. -se forms.
@@ -130,3 +158,4 @@ Ihr beide, reich begüterte, vernehmet unsrer Lieder Klang; Wie einen Boten send
 Появились восхваления.  
 Как посланник, я хочу продумать (свою) речь.
 </details>
+

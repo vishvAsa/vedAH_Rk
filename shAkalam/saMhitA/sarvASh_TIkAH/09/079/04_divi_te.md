@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ādadé ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+nā́bhā ← nā́bhi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+paramáḥ ← paramá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kṣípaḥ ← kṣíp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ruruhuḥ ← √ruh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sā́navi ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ádrayaḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bapsati ← √bhas- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+tvací ← tvác- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+duduhuḥ ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+hástaiḥ ← hásta- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+manīṣíṇaḥ ← manīṣín- (nominal stem)  
+{case:NOM, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +241,4 @@ Zum Himmel, der zuhöchst an deinem Nabel steht, zu deiner Erde Gipfel stieg der
 Тебя пожирают камни на шкуре коровы.  
 Хранители мудрости выжимают тебя руками в воду.
 </details>
+

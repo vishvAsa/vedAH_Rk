@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line
+#### Morph
+dānā́ya ← dāná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śíkṣasi ← √śak- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yásmai ← yá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+aśnute ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+póṣam ← póṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+sutā́vantaḥ ← sutā́vant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +200,4 @@ Wem du, o guter, zu Gaben verhilfst, der erlangt Mehrung des Reichthums; darum r
 Тебя, такого, о щедрый Индра, любящий песни,  
 Мы зовем, выжимая (сому).
 </details>
+

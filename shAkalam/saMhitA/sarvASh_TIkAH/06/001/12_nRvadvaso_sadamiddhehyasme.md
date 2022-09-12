@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M
+#### Morph
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+nr̥vát ← nr̥vánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sádam ← sádam (invariable)  
+{}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+paśváḥ ← paśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tánayāya ← tánaya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tokā́ya ← toká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+āréaghāḥ ← āréagha- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+br̥hatī́ḥ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sauśravasā́ni ← sauśravasá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +190,7 @@ Let there be for us many lofty refreshments that keep evil at a distance  and au
 
 I take nṛvát as an adverb, since this neut. is almost always so used. Geldner and Renou instead take it as a full adj. ‘consisting of men, accompanied by men’ modifying a gapped noun (Besitz, la richesse) and implicitly parallel to bhū́ri … paśváḥ “abundance of livestock.” I am not convinced, and curiously the passage Geldner cites in his n. 10a as support for the interpr. contains a nṛvát that must be adverbial. Still, I do have to admit that a few such expressions do exist outside of the neut. sg.: I.92.7 nrváta ̥ ḥ … vā́jān, IX.93.5 rayím ... nrvántam ̥ .
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/001/12-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/001/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
 These two vss. play on the two words purú- ‘many’ and vásu- ‘good’ in this final explosion of begging for a suitable return from the god.
@@ -167,3 +222,4 @@ O guter, gib uns stets an Helden Fülle, und viel des Viehs für Kinder und für
 Многими мощными жертвенными усладами, отталкивающими прочь грехи!  
 Да будут у нас звучания славы, приносящие счастье!
 </details>
+

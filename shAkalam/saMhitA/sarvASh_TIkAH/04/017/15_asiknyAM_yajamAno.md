@@ -13,11 +13,24 @@ ChandaH = "एकपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M
+#### Morph
+ásiknyām ← ásita- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yájamānaḥ ← √yaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -90,3 +103,4 @@ Wie in der schwarzen Nacht der opfernde Priester.
 
 На черную шкуру, словно хотар, приносящий жертву.
 </details>
+

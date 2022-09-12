@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+adharā́t ← adharā́t (invariable)  
+{}
+
+paścā́t ← paścā́t (invariable)  
+{}
+
+purástāt ← purástāt (invariable)  
+{}
+
+údaktāt ← údaktāt (invariable)  
+{}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kā́vyena ← kā́vya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ajáraḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jarimṇé ← jarimán- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sákhe ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártān ← márta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +206,4 @@ Von vorn, von hinten, oben und von unten mit Weisheit, weiser, schütz uns rings
 О друг, друга (ты), нестареющий, (защити) для старости,  
 О Агни, ты, бессмертный, – нас, смертных!
 </details>
+

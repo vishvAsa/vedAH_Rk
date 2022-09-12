@@ -16,15 +16,61 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vīryàm ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+daduḥ ← √dā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhúvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+gópatiḥ ← gópati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+puruṣṭuta ← puruṣṭutá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhadrā́ḥ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rātáyaḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +209,4 @@ Dir stehen alle Götter nach an Weisheit, Indra, und an Kraft, Du bist des Alls 
 Ты стал повелителем всего, о многопрославленный.  
 Дары Индры несут счастье.
 </details>
+

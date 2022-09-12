@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dádhānā ← √dhā- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+návyam ← návya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+syā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+abodhi ← √budh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+gūḍhvī́ ← √guh- (root)  
+{}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áhrayāṇā ← áhrayāṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yuvatíḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+acikitat ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Die Morgenröthe, neues Leben schaffend, das Dunkel bergend, ist erwacht mit Lic
 Юная женщина идет впереди, не стесняясь.  
 Она возвестила о солнце, жертве (и огне).
 </details>
+

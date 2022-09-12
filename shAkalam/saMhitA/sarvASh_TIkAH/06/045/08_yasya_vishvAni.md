@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+hástayoḥ ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+ūcúḥ ← √vac- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pr̥tanāṣáhaḥ ← pr̥tanāṣáh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vīrásya ← vīrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ In dessen beiden Händen ja fürwahr die Güter alle ruhn, Des Helden der die Fe
 (Были) в(ложены) искони все блага,  
 (В руки) героя, осиливающего в боях.
 </details>
+

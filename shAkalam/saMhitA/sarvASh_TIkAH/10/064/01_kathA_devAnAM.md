@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+katamásya ← katamá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+yā́mani ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+manāmahe ← √man- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śr̥ṇvatā́m ← √śru- (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sumántu ← sumántu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+karat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+katamáḥ ← katamá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+máyaḥ ← máyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mr̥ḷāti ← √mr̥ḍ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+katamáḥ ← katamá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vavartati ← √vr̥t- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Welch Gott ist's von den hörenden, dess Namen wir, den rühmlichen, beim Feste 
 
 -ru-
 </details>
+

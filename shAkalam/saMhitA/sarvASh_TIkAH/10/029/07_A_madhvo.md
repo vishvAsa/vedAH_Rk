@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ámatram ← ámatra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asican ← √sic- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pūrṇám ← √pr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+satyárādhāḥ ← satyárādhas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+váriman ← váriman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vāvr̥dhe ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+abhí ← abhí (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+náryaḥ ← nárya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paúṁsyaiḥ ← paúṁsya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ Ergossen ist voll süssen Tranks die Kufe dem Indra, ihm, der wahre Güter spend
 Он возрос во (всю) ширь земли,  
 Пре(восходя ее) силой духа и мужественными силами, (он,) мужественный.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+avicetanā́ni ← avicetaná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vádantī ← √vadⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+vā́k ← vā́c- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mandrā́ ← mandrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+niṣasā́da ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+rā́ṣṭrī ← rā́ṣṭrī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cátasraḥ ← catúr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+duduhe ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+páyāṁsi ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+jagāma ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kvà ← kvà (invariable)  
+{}
+
+paramám ← paramá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svit ← svit (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +196,7 @@ Geldner is understandably reluctant to construe avicetanā́ni with vádantī, s
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 For the possible mythological background of these verses, as adumbrated by Oldenberg, see the published introduction.
@@ -176,3 +228,4 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 Она дала надоить из себя в четыре (струи) питательную силу (и) молоко.  
 Куда же пошла ее основная часть?
 </details>
+

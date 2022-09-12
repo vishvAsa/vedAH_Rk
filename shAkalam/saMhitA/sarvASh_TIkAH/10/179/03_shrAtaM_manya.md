@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agnaú ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+manye ← √man- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+śrātám ← √śrā- (root)  
+{case:NOM, gender:M, number:SG, voice:PASS}
+
+śrātám ← √śrā- (root)  
+{case:NOM, gender:M, number:SG, voice:PASS}
+
+ū́dhani ← ū́dhar- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+manye ← √man- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+návīyaḥ ← návīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+súśrātam ← súśrāta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dadhnáḥ ← dadhán- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mā́dhyaṁdinasya ← mā́dhyaṁdina- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sávanasya ← sávana- 1 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+juṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+purukr̥t ← purukŕ̥t- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Gekocht ist es im Kessel an dem Feuer, dies neue Opfer schön gekocht, so denk' 
 О Индра-громовержец, многое свершивший, испей с удовольствием  
 Кислого молока из полуденного выжимания (сомы)!
 </details>
+

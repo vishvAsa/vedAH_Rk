@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+mát ← ahám (pronoun)  
+{case:ABL, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+strī́ ← strī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+subhasáttarā ← subhasáttara- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhuvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+suyā́śutarā ← suyā́śutara- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mát ← ahám (pronoun)  
+{case:ABL, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+práticyavīyasī ← práticyavīyaṁs- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sákthi ← sákthi- ~ sákthan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+údyamīyasī ← údyamīyaṁs- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +193,4 @@ Es gibt keine Frau mit schönerem Hintern und zum Beischlaf geeigneter als mich,
 
 -ru-
 </details>
+

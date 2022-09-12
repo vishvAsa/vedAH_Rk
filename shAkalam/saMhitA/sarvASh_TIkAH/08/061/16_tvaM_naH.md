@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adharā́t ← adharā́t (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+paścā́t ← paścā́t (invariable)  
+{}
+
+purás ← purás (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+uttarā́t ← uttarā́t (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+āré ← āré (invariable)  
+{}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+bhayám ← bhayá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+daívyam ← daívya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇuhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ádevīḥ ← ádeva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+āré ← āré (invariable)  
+{}
+
+hetī́ḥ ← hetí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Von hinten, unten, oben, vorne schütze du, von allen Seiten, Indra, uns; Der G�
 Прогони прочь от нас страх божий,  
 Прочь – выстрелы противников богов!
 </details>
+

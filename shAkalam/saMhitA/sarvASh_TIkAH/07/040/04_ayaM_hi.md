@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+netā́ ← netár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápaḥ ← ápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhúḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́jānaḥ ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+anarvā́ ← anarvá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+suhávā ← suháva- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áriṣṭān ← áriṣṭa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+parṣan ← √pr̥- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Denn Varuna ist hier des Werkes Lenker, die Herrscher Mitra, Arjaman versahn es;
 (А также) богиня Адити, легко призываемая, неуязвимая.  
 Пусть они переправят нас через беду невредимыми!
 </details>
+

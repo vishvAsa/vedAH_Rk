@@ -17,15 +17,70 @@ ChandaH = "महाबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line
+#### Morph
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+namovāké ← namovāká- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+prásthite ← √sthā- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vivákṣaṇasya ← vivákṣaṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+avasyúḥ ← avasyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dhattám ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rátnāni ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ O Männer, zu dem Opfermahl, zu trinken von dem schwellenden, Fahrt her o Ritter
 Жаждя помощи, я к вам взываю!  
 Наделите сокровищами (вашего) почитателя!
 </details>
+

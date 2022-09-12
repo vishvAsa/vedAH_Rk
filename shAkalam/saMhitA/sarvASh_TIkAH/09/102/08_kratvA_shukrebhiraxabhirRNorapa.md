@@ -15,14 +15,51 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+akṣábhiḥ ← ákṣi ~ akṣán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śukrébhiḥ ← śukrá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+r̥ṇóḥ ← √r̥- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dī́dhitim ← dī́dhiti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+hinván ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +178,4 @@ Mit lichten Augen, weisem Sinn erschlossest du des Himmels Stall; Des Werkes And
 Ты открыл загон неба,  
 Возбуждая силу видения вселенского закона во время обряда.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+návagvāsaḥ ← návagva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sutásomāsaḥ ← sutásoma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+arcanti ← √r̥c- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dáśagvāsaḥ ← dáśagva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+apidhā́navantam ← apidhā́navant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+gávyam ← gávya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrvám ← ūrvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śaśamānā́ḥ ← √śamⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vran ← √vr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ Die Neuner und die Zehner, Soma kelternd, besingen ihn, den Indra, mit Gesängen
 Загон с коровами – хоть он и был заперт –  
 Его все-таки открыли мужи, потрудившись (во время обряда).
 </details>
+

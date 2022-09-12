@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line
+#### Morph
+dvéṣāṁsi ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+íḷām ← íḷā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+inuhí ← √i- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vardháya ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+mádema ← √mad- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+śatáhimāḥ ← śatáhima- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvī́rāḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,3 +135,4 @@ Verjag die Feinde, mehre unsre Labung, froh sei'n wir, reich an Söhnen, hundert
 Прогони прочь проявления враждебности! Усиль возлияние!  
 Да будем мы радоваться, живя сто зим, богатые прекрасными мужами!
 </details>
+

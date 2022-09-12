@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ápi ← ápi (invariable)  
+{}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+divyā́ni ← divyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pā́rthivā ← pā́rthiva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vásu ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+yachatam ← √yam- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvā́yupoṣasam ← viśvā́yupoṣas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +186,4 @@ Bei euch, o Indra-Agni, ist der Erde und des Himmels Gut; O schenket hier uns re
 Даруйте нам здесь богатство,  
 Кормящее весь век!
 </details>
+

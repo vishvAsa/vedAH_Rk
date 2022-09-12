@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+apasyúvaḥ ← apasyú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+marmr̥jyánte ← √mr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śúmbhase ← √śubh- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ Werkthät'ge Lieder werden dir, o Indu, kräftig ausgeschmückt, Mit denen du zu
 Начищают прилежные песни,  
 Которыми ты украшаешься для опьянения.
 </details>
+

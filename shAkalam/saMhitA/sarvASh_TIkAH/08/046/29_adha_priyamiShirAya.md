@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+iṣirā́ya ← iṣirá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asanam ← √sanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ṣaṣṭím ← ṣaṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áśvānām ← áśva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+vŕ̥ṣṇām ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ Dann habe ich, was dem eifervollen lieb ist, sechzigtausend Stiere die [schnell]
 Шестьдесят тысяч (меринов),  
 Как если бы (они были) мужественными конями.
 </details>
+

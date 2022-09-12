@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pratīvyàm ← pratīvī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+índranāsatyā ← indranāsatya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+adyá ← adyá (invariable)  
+{}
+
+devā́ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sacánastamā ← sacánastama- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Zu diesem meinem Mahle kommt mit Indra, o ihr Treuen, her, Ihr Götter mit den G
 Приезжайте, о Индра-Насатьи,  
 Два бога, вместе с богами сегодня с самыми большими радостями!
 </details>
+

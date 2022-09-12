@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+áram ← áram (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+usráyāmṇe ← usráyāman- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ánusrayāmṇe ← ánusrayāman- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+áram ← áram (invariable)  
+{}
+
+asrídhā ← asrídh- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+babhrū́ ← babhrú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yā́meṣu ← yā́ma- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +139,4 @@ Wenn früh ich reise, sind bereit, wenn spät ich reise, mir zur Hand Die Braune
 Готова (для меня), выезжающего поздно,  
 Пара рыжих (коней), не ошибающихся в пути.
 </details>
+

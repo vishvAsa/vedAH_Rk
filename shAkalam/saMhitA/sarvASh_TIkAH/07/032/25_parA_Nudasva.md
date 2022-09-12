@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nudasva ← √nud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+párā ← párā (invariable)  
+{}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suvédā ← suvéda- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bodhi ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mahādhané ← mahādhaná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sákhīnām ← sákhi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vr̥dháḥ ← vr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +198,4 @@ O stosse fort der Feinde Schar, o mächtiger, macht leicht erreichbar uns das Gu
 Нашим помощником будь, когда ставка велика!  
 Будь подкрепителем товарищей (наших)!
 </details>
+

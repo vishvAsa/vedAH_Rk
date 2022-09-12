@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́t ← ā́t (invariable)  
+{}
+
+iṣā́ ← íṣ- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mandasva ← √mand- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+áram ← áram (invariable)  
+{}
+
+manyáve ← manyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+várāya ← vára- 1 (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhúvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+hr̥dé ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +167,4 @@ Am Trank erfreu dich, und er sei recht deinem Wunsch und Sinn gemäss, O Indra, 
 
 -ru-
 </details>
+

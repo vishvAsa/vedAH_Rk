@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ugra ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sámanyavaḥ ← sámanyu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+samáranta ← √r̥- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+sénāḥ ← sénā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bāhvóḥ ← bāhú- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+didyút ← didyút- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+náryasya ← nárya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pátāti ← √pat- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+cārīt ← √carⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+viṣvadryàk ← viṣvadryàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Zur Hülfe flieg' aus deinen Armen, Indra, dein Blitz herbei, des grossen, kühn
 Вылетит стрела из рук мужественного –  
 Да не разбредется твоя мысль во все стороны!
 </details>
+

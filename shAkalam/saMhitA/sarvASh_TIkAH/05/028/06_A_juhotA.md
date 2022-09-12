@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+duvasyáta ← √duvasy- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+juhota ← √hu- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prayatí ← √i- 1 (root)  
+{case:LOC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+havyavā́hanam ← havyavā́hana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṇīdhvám ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +145,4 @@ Begiesst den Agni und beschenkt bei vorgeschrittner Feier ihn, Zum Opferfahrer w
 Агни, когда идет обряд!  
 Выбирайте (его) возницей жертв!
 </details>
+

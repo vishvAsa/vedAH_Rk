@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+āyantā́ram ← āyantár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sthirám ← sthirá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+śravojítam ← śravojít- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhū́reḥ ← bhū́ri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ī́śānam ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +145,4 @@ Der grosses, starkes Gut ertheilt und in den Schlachten Ruhm erwirbt, der über 
 Завоевывающего славу в боях,  
 Владеющего многим благодаря (своей) силе.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pávamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rāsi ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+vīrávat ← vīrávant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+medhā́m ← medhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sána ← √sanⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sána ← √sanⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +157,4 @@ Gib grosses Gut, o rieselnder, gib Rind und Ross und Heldenschar, Und schenke We
 Корову, коня, обладание сыновьями!  
 Добудь мудрость! Добудь солнце!
 </details>
+

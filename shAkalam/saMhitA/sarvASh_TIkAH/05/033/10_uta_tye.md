@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhvanyàsya ← dhvanyà- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+júṣṭāḥ ← júṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+lakṣmaṇyàsya ← lakṣmaṇyà- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+surúcaḥ ← surúc- (nominal stem)  
+{case:GEN, number:SG}
+
+yátānāḥ ← √yat- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+ŕ̥ṣeḥ ← ŕ̥ṣi- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+saṁváraṇasya ← saṁváraṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gman ← √gam- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+práyatāḥ ← √yam- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +196,7 @@ As in 9a “me” should be removed from parens.
 
 The notion of enclosure in cd puns on the name of the Poet Saṃvaraṇa ‘entirely enclosing’ vel sim.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/033/08-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/033/08-10.md">
 <details open><summary><h2>08-10 ...{Loading}...</h2></summary>
 
 As just noted, 7c begins with utá as do vss. 8-10, but those vss. of the dānastuti proper are further unified, all beginning utá tyé mā.
@@ -173,3 +228,4 @@ Und zu mir gelangten die erwünschten [Rosse] des Dhvania, und des Lakschmanja s
 С обилием богатства вошли в загон  
 Риши Самвараны, словно коровы.
 </details>
+

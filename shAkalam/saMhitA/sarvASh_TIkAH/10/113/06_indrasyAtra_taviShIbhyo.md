@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átra ← átra (invariable)  
+{}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+táviṣībhyaḥ ← táviṣī- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+virapśínaḥ ← virapśín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+araṁhayanta ← √raṁh- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+manyáve ← manyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+r̥ghāyatáḥ ← √r̥ghāy- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ávr̥ścat ← √vr̥śc- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bíbhratam ← √bhr̥- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+párīvr̥tam ← √vr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+támasā ← támas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ Da eilte zu des Indra Kraft und Eifer hin, des ungestümen, die gewalt'ge Maruts
 Когда грозный мощно разрубил Вритру,  
 Державшего воды, окруженного мраком.
 </details>
+

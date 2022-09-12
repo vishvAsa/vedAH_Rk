@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+droṇasā́cam ← droṇasác- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sácetasam ← sácetas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dharúṇe ← dharúṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+skambhám ← skambhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrjáḥ ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vr̥ṣāyase ← √vr̥ṣāy- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+ápi ← ápi (invariable)  
+{}
+
+gr̥bhāya ← √gr̥bhⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kr̥ṣva ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+ásaḥ ← √as- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+ináḥ ← iná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kenipā́nām ← kenipá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vr̥dhé ← vŕ̥dh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Fürwahr du stürzest gierig auf den weisen Herrn, den Kraftbegründer, der den 
 Создай себе мощь, сосредоточь (ее) в себе,  
 Чтобы ты стал деятельным в поддержке защищающих вблизи!
 </details>
+

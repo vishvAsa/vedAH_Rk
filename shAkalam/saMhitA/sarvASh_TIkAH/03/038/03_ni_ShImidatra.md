@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átra ← átra (invariable)  
+{}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+gúhyā ← gúhya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+sīm ← sīm (invariable)  
+{}
+
+añjan ← √añj- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+kṣatrā́ya ← kṣatrá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sám ← sám (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+mamiré ← √mā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mā́trābhiḥ ← mā́trā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+urvī́ ← urú- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+yemúḥ ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+dhā́yase ← dhā́yas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mahī́ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+sámr̥te ← √r̥- 1 (root)  
+{case:ACC, gender:F, number:DU, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,3 +253,4 @@ Dort niederlegend das Geheimnissvolle, schmückten sie beide Welten zur Herrscha
 Они измерили мерами, удержали в повиновении оба широких (мира).  
 Они разъяли оба великих слившихся (мира) для удовлетворения (людей).
 </details>
+

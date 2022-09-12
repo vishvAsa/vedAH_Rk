@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+carkr̥ṣe ← √kr̥̄- 2 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+íyakṣan ← √naś- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+vā ← vā (invariable)  
+{}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ródasyoḥ ← ródasī- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+árvantaḥ ← árvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rayimántaḥ ← rayimánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sātaú ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+dhúḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+suśrúṇam ← suśrúṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suśrútaḥ ← suśrút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+vanúm ← vanú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Der Vasu's denkt voll Preis, wer Gut begehret, und beider Welten mit Gebet und O
 Или же скакунов, которые приносят богатство при захвате добычи,  
 Или же (тех,) кто, слыша хорошо, сделал так, чтоб услышали ревностного.
 </details>
+

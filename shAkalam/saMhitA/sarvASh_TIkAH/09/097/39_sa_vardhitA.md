@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+pūyámānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+várdhanaḥ ← várdhana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vardhitā́ ← vardhitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+āvīt ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mīḍhvā́n ← mīḍhváṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+padajñā́ḥ ← padajñā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+svarvídaḥ ← svarvíd- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uṣṇán ← √uṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +227,7 @@ The expression gā́ádrim uṣṇán “burned the cows out of the rock” is, 
 A poet who could deploy the “placer of the sun” formula in the manner he did in the previous vs. is surely capable of such a sly play on words.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/37-39.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/37-39.md">
 <details open><summary><h2>37-39 ...{Loading}...</h2></summary>
 
 I do not see any signs of unity in this tṛca. All three vss. contain a participle of √pū in passive function, pūnāná- in 37, 38, pūyámāna- in 39, but this is hardly remarkable in the Soma maṇḍala.
@@ -198,3 +259,4 @@ Er, der gereinigt, kräftigt und erquicket, der holde Soma hat mit Glanz erfreut
 Благодаря кому наши древние отцы, знающие след,  
 Нашедшие небо, спалили скалу (, чтобы выпустить) коров.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mártyam ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+āstrabudhnā́ya ← āstrabudhná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+venyám ← venyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+manasyáve ← manasyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+múhur ← múhur (invariable)  
+{}
+
+śrathnāḥ ← √śrathⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +142,4 @@ Dem Astrabudhna machtest du, dem andachtsvollen, wieder los Den liebenswerthen S
 Венью в (один) миг освободил  
 Для задумавшего (это) Астрабудхны.
 </details>
+

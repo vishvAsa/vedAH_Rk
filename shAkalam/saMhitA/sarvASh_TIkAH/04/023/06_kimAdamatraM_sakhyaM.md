@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámatram ← ámatra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sákhibhyaḥ ← sákhi- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhrātrám ← bhrātrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bravāma ← √brū- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+sárgāḥ ← sárga- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sudŕ̥śaḥ ← sudŕ̥ś- (nominal stem)  
+{case:GEN, number:SG}
+
+vápuḥ ← vápus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+citrátamam ← citrátama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+iṣe ← iṣe (invariable)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +228,7 @@ IV.23.7-10: The contrast between the ‘lie’ (pāda-initial drúh- 7a) and ṛ
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/023/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/023/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 The root √juṣ encountered in two different forms in 1bc recurs here in the perfect, subjunctive (4d) and indicative (5b).
@@ -192,3 +259,4 @@ Wie ist dann gross die Freundschaft mit den Freunden? wann werden wir als Bruder
 Для блеска – чудесный облик прекрасного, его порывы.  
 Словно ярко сверкающее солнце, приводит (все) в движение (чудесный облик) быка.
 </details>
+

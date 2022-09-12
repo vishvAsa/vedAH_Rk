@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+bodhaya ← √budh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+uṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+devi ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+mahi ← máh- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sūnr̥te ← sūnŕ̥ta- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+yajñahotar ← yajñahotar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +190,4 @@ O Uschas, weck die Ritter auf, o grosse Göttin, liebliche; Erweck, o Opferpries
 Про(буди), о хотар жертвоприношения, вовремя,  
 Про(буди) на радость высокую славу!
 </details>
+

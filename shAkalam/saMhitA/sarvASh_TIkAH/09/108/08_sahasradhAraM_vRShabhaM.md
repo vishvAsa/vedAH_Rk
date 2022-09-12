@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+payovŕ̥dham ← payovŕ̥dh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahásradhāram ← sahásradhāra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jánmane ← jánman- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tájātaḥ ← r̥tájāta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vivāvr̥dhé ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +171,7 @@ who born of truth through truth has grown strong as king, god, and  lofty truth.
 On Soma as truth see IX.97.23, 107.15.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 Once again the 2nd vs. is syntactically dependent on the 1st in this pragātha: 8ab is couched in the acc., continuing the acc. phrase in 7bc, and 8cd is a rel. cl. whose antecedent is the acc. phrase.
@@ -160,3 +203,4 @@ Den tausendström'gen Stier, der sich an Milch erfreut, der lieb dem Stamm der G
 (Того,) кто рожден законом, возрос благодаря закону -  
 Царь, бог, высший закон!
 </details>
+

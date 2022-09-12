@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+bhū́ḥ ← bhū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jajñe ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+uttānápadaḥ ← uttānápad- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ajāyanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ā́śāḥ ← ā́śā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhuváḥ ← bhū́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+áditeḥ ← áditi- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ajāyata ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dákṣaḥ ← dákṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dákṣāt ← dákṣa- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +182,4 @@ Die Welt aus der Gebärerin, der Welten Räume aus der Welt, Dakscha entsprang a
 От Адити родился Дакша,  
 От Дакши же Адити.
 </details>
+

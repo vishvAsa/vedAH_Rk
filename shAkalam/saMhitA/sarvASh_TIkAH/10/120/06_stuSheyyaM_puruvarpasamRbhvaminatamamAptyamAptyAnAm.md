@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+puruvárpasam ← puruvárpas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ŕ̥bhvam ← ŕ̥bhva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stuṣéyyam ← stuṣéyya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āptyám ← āptyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āptyā́nām ← āptyá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+inátamam ← inátama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dā́nūn ← dā́nu- 1 (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+darṣate ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+saptá ← saptá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+pratimā́nāni ← pratimā́na- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sākṣate ← √sah- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Den vielgestalt'gen, starken will ich preisen, ihn, den gewaltigsten der Stromge
 Пусть взорвет он (своей) силой семерых Дану!  
 Пусть осилит он многих равноценных противников!
 </details>
+

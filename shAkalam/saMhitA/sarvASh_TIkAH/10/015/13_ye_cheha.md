@@ -16,14 +16,90 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pravidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+yā́n ← yá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+yā́n ← yá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vettha ← √vid- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+yáti ← yáti (invariable)  
+{}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+súkr̥tam ← súkr̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svadhā́bhiḥ ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,3 +270,4 @@ Die Väter welche hier, und die nicht hier sind, und die wir kennen und die nich
 Ты знаешь, сколько их, о Джатаведас.  
 Наслаждайся по своему обычаю хорошо подготовленной жертвой!
 </details>
+

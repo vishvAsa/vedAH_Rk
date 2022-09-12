@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ókaḥ ← ókas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pradívi ← pradív- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sthā́nam ← sthā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+duroṇám ← duroṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gr̥hā́ḥ ← gr̥há- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:ABL, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+párvatāt ← párvata- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+adbhyáḥ ← áp- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+váhantā ← √vah- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +241,4 @@ Denn hier ist euch seit Alters Stand und Heimat; hier sind die Häuser, hier der
 К нам с высокого неба, с горы,  
 Из вод приезжайте, привозя жертвенную усладу, усиление!
 </details>
+

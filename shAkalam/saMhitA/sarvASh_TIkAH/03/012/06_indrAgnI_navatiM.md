@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+navatím ← navatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+adhūnutam ← √dhū- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dāsápatnīḥ ← dāsápatnī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ékena ← éka- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+kármaṇā ← kárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sākám ← sākám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -94,8 +119,6 @@ genre M
 हे इन्द्राग्नी । षाष्ठिकमाद्युदात्तत्वम् (पा.सू. 6.1.198) । नवतिं नवतिसङ्ख्याकाः पुरः असुराणां पुरीः शत्रूणां वा । दासपत्नीः दासाः उपक्षपयितारः प्रजानां, तादृशाः पतयस्स्वामिनो यासां पुराम् । दंसिः सौत्रो धातुरुपक्षयवृत्तिः । 'दंसेष्टटनौ न आ च' (उ.सू. 698) इति टप्रत्ययः, बहुव्रीहौ 'विभाषा सपूर्वस्य' (पा.सू. 4.1.34) इति नकारः । साकं सहैव एकेन कर्मणा प्रहरणलक्षणेन तादृशीः पुरः अधूनुतं अकम्पयतं नाशितवन्तौ । धूञ् कम्पने स्वादिः, वर्णव्यत्ययेन दीर्घः, क्रैयादिकाद्वा धूञो विकरणव्यत्ययेन श्नुप्रत्ययः । तस्मादेव महानुभावौ युवां इमं यजमानं सङ्ग्रामे जितवन्तमनुगृह्णीतं अस्मिन्निन्द्रियादिकं धत्तम् । 'वि वा एष इन्द्रियेण वीर्येणर्ध्यते' (तै.सं. 2.2.1) इत्यादि ब्राह्मणम् ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -146,3 +169,4 @@ Indrāgni, ihr erschüttertet die neunzig Burgen, die vom Feind Beherrschten, al
 Девяносто крепостей, подчиненных Дасе, –  
 Сразу, одним боевым деянием.
 </details>
+

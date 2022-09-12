@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+káraṇam ← káraṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+prá ← prá (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+atithigvám ← atithigvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āyúm ← āyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kútsam ← kútsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+kṣā́m ← kṣám- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śiśāḥ ← √śā- ~ śī- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+dhr̥ṣatā́ ← √dhr̥ṣ- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ninetha ← √nī- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+tū́rvayāṇam ← tū́rvayāṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +255,4 @@ Heut steh voran dies Werk, das du vollbrachtest, dass du den Kutsa, Aju, Atithig
 Много тысяч (врагов) ты пригвоздил к земле.  
 Смело выручил ты Турваяну.
 </details>
+

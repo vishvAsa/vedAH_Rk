@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+addhā́ ← addhā́ (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vocat ← √vac- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ácha ← ácha (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kā́ ← ká- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+pathyā̀ ← pathyā̀- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+avamā́ ← avamá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dádr̥śre ← √dr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+sádāṁsi ← sádas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+gúhyeṣu ← gúhya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+páreṣu ← pára- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+vratéṣu ← vratá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +251,4 @@ Wer weiss es recht, wer mag es recht verkünden? wo ist der Pfad, der zu den Gö
 Видны (только) их нижние сидения,  
 (А не те,) что (находятся) среди дальних, тайных обетов.
 </details>
+

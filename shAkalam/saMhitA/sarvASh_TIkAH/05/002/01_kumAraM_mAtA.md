@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kumārám ← kumārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sámubdham ← √ubh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yuvatíḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bibharti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dadāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gúhā ← gúhā (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pitré ← pitár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+jánāsaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+minát ← √mī- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+arataú ← aratí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+níhitam ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+paśyanti ← √paś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+purás ← purás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Die junge Mutter trägt im Schooss das Knäblein verborgen noch, nicht gibt sie 
 Лика его измененного люди перед (собой)  
 Не видят – он сокрыт в (солнечном) диске.
 </details>
+

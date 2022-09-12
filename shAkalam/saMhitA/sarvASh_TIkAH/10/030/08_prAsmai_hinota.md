@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+hinota ← √hi- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mádhumantam ← mádhumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ūrmím ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gárbhaḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sindhavaḥ ← síndhu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+útsaḥ ← útsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+adhvaréṣu ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ghr̥tápr̥ṣṭham ← ghr̥tápr̥ṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ī́ḍyam ← ī́ḍya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+revatīḥ ← revánt- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+śr̥ṇutá ← √śru- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Ergiesset ihm die honigsüsse Welle, o Ströme, eure Frucht, des Methes Quelle, 
 Жирноспинную (волну), которую надо призывать на обрядах!  
 О воды богатые, слушайте мой зов!
 </details>
+

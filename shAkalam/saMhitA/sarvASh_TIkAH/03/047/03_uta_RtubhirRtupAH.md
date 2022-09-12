@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pāhi ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+r̥túbhiḥ ← r̥tú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+r̥tupāḥ ← r̥tupā́- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sákhibhiḥ ← sákhi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sutám ← √su- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ábhajaḥ ← √bhaj- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yā́n ← yá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ádadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áhan ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +249,4 @@ Rechtzeit'ger Trinker, trink zur Zeit den Soma, vereint mit Göttern unsern Tran
 С теми Марутами, которым ты выделил долю, которые тебя под (держали):  
 Ты убил Вритру, они придали тебе силу.
 </details>
+

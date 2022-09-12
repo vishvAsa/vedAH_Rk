@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+gha ← gha (invariable)  
+{}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+jánāḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+pŕ̥thak ← pŕ̥thak (invariable)  
+{}
+
+sukṣitáyaḥ ← sukṣití- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+áttave ← √ad- (root)  
+{case:DAT, number:SG}
+
+dhāsím ← dhāsí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hinvanti ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ Dir senden diese Menschen hier, die angesessnen weit und breit, Die Nahrung zum 
 Все прекрасные поселения по отдельности,  
 Готовят питание, чтобы ты ел.
 </details>
+

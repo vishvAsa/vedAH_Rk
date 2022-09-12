@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ajījanat ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+citrám ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tanyatúm ← tanyatú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaiśvānarám ← vaiśvānará- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,7 +137,7 @@ This is certainly possible, though it is not the soma pressing that ordinarily k
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 This tṛca is unified by the simple device of stationing a form of pávamāna- at the beginning of each vs. (16a, 17a, 18a). Note also the two forms of rása- ‘sap’ in 17a and 18a (the two pādas are scramblings of each other: 17a pávamānasya te rásaḥ, 18a pávamāna rásas táva, with different case forms of pávamāna- and enclitic versus full form of the gen. sg. 2nd ps. prn.). And 16c jyótir vaiśvānarám … matched by 18c jyótir víśvam …
@@ -140,3 +168,4 @@ Es hat erzeugt der flammende, des Himmels lautem Donner gleich, Das hehre Licht 
 Высокий свет – Вайшванару,  
 Словно оглушительный гром с неба.
 </details>
+

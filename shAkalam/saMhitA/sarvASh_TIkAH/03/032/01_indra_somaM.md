@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+somapate ← sómapati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cā́ru ← cā́ru- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mā́dhyaṁdinam ← mā́dhyaṁdina- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sávanam ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+praprúthya ← √pruthⁱ- (root)  
+{non-finite:CVB}
+
+r̥jīṣin ← r̥jīṣín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śípre ← śíprā- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ihá ← ihá (invariable)  
+{}
+
+mādayasva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vimúcya ← √muc- (root)  
+{non-finite:CVB}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Trink diesen Soma, Somaherr, o Indra, den Mittagstrunk des Saftes, der dir lieb 
 Почмокав губами, о щедрый (бог,) пьющий выжимки,  
 Распрягай пару буланых коней, опьяняйся здесь!
 </details>
+

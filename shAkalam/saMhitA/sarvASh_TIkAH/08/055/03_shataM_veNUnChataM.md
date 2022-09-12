@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śúnaḥ ← śván- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+veṇū́n ← veṇú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+cármāṇi ← cárman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mlātā́ni ← √mlā- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+balbajastukā́ḥ ← balbajastuká- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áruṣīṇām ← áruṣī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+cátuḥśatam ← cátuḥśata- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +162,4 @@ Hundert Bambusstäbe, hundert Hunde, hundert gegerbte Felle, hundert Geflechte v
 Сотню пучков (травы) балбаджа,  
 Четыре сотни рыжих коров (коров ты) мне (дал).
 </details>
+

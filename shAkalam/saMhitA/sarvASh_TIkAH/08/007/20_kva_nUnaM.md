@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+kvà ← kvà (invariable)  
+{}
+
+nūnám ← nūnám (invariable)  
+{}
+
+sudānavaḥ ← sudā́nu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mádatha ← √mad- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vr̥ktabarhiṣaḥ ← vr̥ktábarhis- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+brahmā́ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+saparyati ← √sapary- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +147,4 @@ Wo doch berauschet ihr euch jetzt, freigieb'ge auf geweihter Streu? Und welcher 
 Опьяняетесь, о те, для кого разложена жертвенная солома?  
 Какой брахман вас почитает?
 </details>
+

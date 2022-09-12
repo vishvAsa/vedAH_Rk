@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pūrvyáḥ ← pūrvyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+iṣitáḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mathāyát ← √mathⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vévijānaḥ ← √vij- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+yuvate ← √yu- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+áha ← áha (invariable)  
+{}
+
+ástuḥ ← ástar- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+bibhyúṣā ← √bhī- (root)  
+{case:INS, gender:N, number:SG, tense:PRF, voice:ACT}
+
+kr̥śā́noḥ ← kr̥śā́nu- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +247,4 @@ Es rieselt hell der alte, den vom Himmel her der Adler holte, schiessend durch d
 Он хватает себе меду, бросаясь прочь,  
 С сердцем, переполненным страхом перед стрелком Кришану.
 </details>
+

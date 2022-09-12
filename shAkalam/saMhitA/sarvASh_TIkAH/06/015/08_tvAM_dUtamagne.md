@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yugé-yuge ← yugá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+havyavā́ham ← havyavā́h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ī́ḍyam ← ī́ḍya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pāyúm ← pāyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jā́gr̥vim ← jā́gr̥vi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mártāsaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sedire ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+vibhúm ← vibhú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśpátim ← viśpáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Als Boten setzten, Agni, dich unsterblichen, als Opferfahrer, werthen Hüter, al
 И боги, и смертные усадили с поклонением  
 Бодрствующего могущественного господина племен.
 </details>
+

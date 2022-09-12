@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ketúḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mūrdhā́ ← mūrdhán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ugrā́ ← ugrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vivā́canī ← vivā́canī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sehānā́yāḥ ← √sah- (root)  
+{case:ABL, gender:F, number:SG, tense:PRF, voice:MED}
+
+upā́caret ← √carⁱ- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +179,4 @@ Ich bin das Licht nun, bin das Haupt, ich bin die strenge Richterin, Nach meinem
 Только мою волю, покорившей (его жены),  
 Муж должен исполнять.
 </details>
+

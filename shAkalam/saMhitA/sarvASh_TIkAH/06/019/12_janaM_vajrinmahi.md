@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+jánam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mányamānam ← √man- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ásmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ebhyáḥ ← ayám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+nŕ̥bhyaḥ ← nár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+randhaya ← √randh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yéṣu ← yá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+ádha ← ádha (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+pr̥thivyā́m ← pr̥thivī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śū́rasātau ← śū́rasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+hávāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+tánaye ← tánaya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Den Mann, der gross sich dünkt, den überliefre den Männern, Blitzesherr, bei 
 Ведь поэтому тебя мы зовем в мужественной борьбе  
 За землю, за продолжение рода, за коров, за воды.
 </details>
+

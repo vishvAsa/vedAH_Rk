@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+paśya ← √paś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+puraetā́ ← puraetár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+naya ← √nī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+pratarám ← pratarám (invariable)  
+{}
+
+vásyaḥ ← vásyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+atipārayáḥ ← atipārayá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+supāráḥ ← supārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+súnītiḥ ← súnīti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vāmánītiḥ ← vāmánīti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,3 +253,4 @@ Blick vor uns her, o Indra, wie ein Führer, und leite weiter uns zu reicherm Gu
 Будь хорошим перевозчиком, который нас перевезет через (опасности)!  
 Будь хорошим вождем и превосходным вождем!
 </details>
+

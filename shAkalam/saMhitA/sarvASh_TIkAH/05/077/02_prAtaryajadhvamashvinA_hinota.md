@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+hinota ← √hi- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prātár ← prātár (invariable)  
+{}
+
+yajadhvam ← √yaj- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ájuṣṭam ← ájuṣṭa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devayā́ḥ ← devayā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sāyám ← sāyám (invariable)  
+{}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+ā́vaḥ ← √vas- 1 (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+yajate ← √yaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pū́rvaḥ-pūrvaḥ ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vánīyān ← vánīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yájamānaḥ ← √yaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Verehret früh, verherrlicht früh die Ritter; nicht opfert Abends man, das ist 
 И другой, кроме нас, приносит жертву тоже, когда рассвело.  
 Самый ранний жертвователь выиграет больше.
 </details>
+

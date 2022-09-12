@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asr̥kṣi ← √sr̥j- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+īm ← īm (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+vacasyā́m ← vacasyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vājayúḥ ← vājayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cánaḥ ← cánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhīta ← √dhā- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+nādyáḥ ← nādyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+āśuhémā ← āśuhéman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kuvít ← kuvít (invariable)  
+{}
+
+nápāt ← nápat- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+jóṣiṣat ← √juṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+karati ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+supéśasaḥ ← supéśas- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +239,4 @@ Voll Schatzbegier ergoss ich meine Dichtkunst; der Ströme Spross nehm gnädig a
 Апам Напат, погоняющий коней, не украсит ли  
 Он (песен)? Ведь он наслаждается (ими).
 </details>
+

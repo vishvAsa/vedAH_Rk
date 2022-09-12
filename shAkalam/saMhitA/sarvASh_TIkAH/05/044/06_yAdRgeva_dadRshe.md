@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dádr̥śe ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+evá ← evá (invariable)  
+{}
+
+tādŕ̥k ← tādŕ̥ś- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ucyate ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+yādŕ̥k ← yādŕ̥ś- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+chāyáyā ← chāyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+sidhráyā ← sidhrá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+jráyaḥ ← jráyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahī́m ← máh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+uruṣā́m ← uruṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ánapacyutam ← ánapacyuta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suvī́ram ← suvī́ra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,3 +253,4 @@ So wie jeder erblickt wird, so wird er auch eingeladen; mit ihrem heilvollen Wid
 Землю, дающую нам широкий (простор), широкий охват,  
 Высокую силу, состоящую из прекрасных мужей, несотрясаемую!
 </details>
+

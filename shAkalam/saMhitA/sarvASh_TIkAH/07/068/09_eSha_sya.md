@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+jarate ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+kārúḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sūktaíḥ ← sūktá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+budhānáḥ ← √budh- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+sumánmā ← sumánman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uṣásām ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+aghnyā́ ← aghnyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iṣā́ ← íṣ- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+páyobhiḥ ← páyas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vardhat ← √vr̥dh- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Auch dieser Dichter naht mit Sprüchen wachsam, gebetreich bei der Morgenröthen
 Пусть усилит (его) корова (своей) усладой – молоком!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
+

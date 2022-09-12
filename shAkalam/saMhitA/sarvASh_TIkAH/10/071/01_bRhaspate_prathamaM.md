@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vācáḥ ← vā́c- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+aírata ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+nāmadhéyam ← nāmadhéya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ariprám ← ariprá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́sīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+śréṣṭham ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āvís ← āvís (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+gúhā ← gúhā (invariable)  
+{}
+
+níhitam ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+preṇā́ ← premán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +240,4 @@ Brihaspati! als einst die Namengeber des Wortes ersten Anfang vorwärts brachten
 Что было у них лучшего, незапятнанного,  
 Это тайно сокрытое в них проявилось с помощью любви.
 </details>
+

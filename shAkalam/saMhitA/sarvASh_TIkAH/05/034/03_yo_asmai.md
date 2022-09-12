@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ghraṁsé ← ghraṁsá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ū́dhani ← ū́dhar- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+bhávati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dyumā́n ← dyumánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sunóti ← √su- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ápāpa ← ápa (invariable)  
+{}
+
+śakráḥ ← śakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tatanúṣṭim ← tatanúṣṭi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūhati ← √ūh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kavāsakháḥ ← kavāsakhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tanū́śubhram ← tanū́śubhra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,3 +256,4 @@ Wer ihm in heitrer, oder wer in trüber Zeit den Soma keltert, der fürwahr ist 
 Могучий отстраняет прочь хвастуна (?),  
 Щедрый – (того,) сверкающего телом, кто друг скупцов.
 </details>
+

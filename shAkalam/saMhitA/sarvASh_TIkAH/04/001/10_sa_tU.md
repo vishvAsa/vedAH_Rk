@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nayatu ← √nī- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+prajānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tú ← tú (invariable)  
+{}
+
+ácha ← ácha (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+devábhaktam ← devábhakta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ákr̥ṇvan ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+amŕ̥tāḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janitā́ ← janitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ukṣan ← ukṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +241,7 @@ main-clause verb (√ukṣ ‘sprinkle’), with the subj. the immortals of c. T
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details open><summary><h2>10-18 ...{Loading}...</h2></summary>
 
 Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
@@ -214,3 +278,4 @@ Uns führe Agni, der des Weges kundig, zu gottertheiltem Schatze, der ihm eigen 
 Которое, благодаря поэтической мысли, все бессмертные сделали  
 Истинным, (а также) Отец-Небо, родитель, о бык!
 </details>
+

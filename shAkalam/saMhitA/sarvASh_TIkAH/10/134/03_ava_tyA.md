@@ -18,16 +18,71 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+áva ← áva (invariable)  
+{}
+
+br̥hatī́ḥ ← br̥hánt- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tyā́ḥ ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+amitrahan ← amitrahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+viśváścandrāḥ ← viśváścandra- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dhūnuhi ← √dhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śakra ← śakrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+víśvābhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ajījanat ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jánitrī ← jánitrī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ajījanat ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jánitrī ← jánitrī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Feindtödter! schüttle du herab durch deine Kraft, o kräftiger, O Indra, reich
 (Тебя) породила богиня-родительница,  
 (Тебя) породила благая родительница.
 </details>
+

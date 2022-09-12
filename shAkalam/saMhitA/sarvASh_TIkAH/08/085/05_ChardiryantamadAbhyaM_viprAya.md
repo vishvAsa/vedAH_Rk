@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ádābhyam ← ádābhya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+chardíḥ ← chardís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yantam ← √yam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+stuvaté ← √stu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+víprāya ← vípra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +143,4 @@ O Männer, reichet sichern Schutz dem Sänger, welcher euch besingt, Zum Trunk d
 Восхваляющему (вас) вдохновенному, о два мужа,  
 Чтобы пить сладкого сому!
 </details>
+

@@ -16,14 +16,48 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śatā́śvam ← śatā́śva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sthūrám ← sthūrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+díviṣṭiṣu ← díviṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+kuruṅgásya ← kuruṅgá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rā́jñaḥ ← rā́jan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rātíṣu ← rātí- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+subhágasya ← subhága- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tveṣásya ← tveṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+amanmahi ← √man- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+turváśeṣu ← turváśa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +165,4 @@ Wir haben das grosse an Rossen reiche Geschenk des Kurunga bei den Opferfesten, 
 Счастливого неистового царя,  
 Среди подарков у людей из рода Турваши.
 </details>
+

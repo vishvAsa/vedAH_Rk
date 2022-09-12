@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ābabhū́va ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+vísr̥ṣṭiḥ ← vísr̥ṣṭi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yátas ← yátas (invariable)  
+{}
+
+dadhé ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+yádi ← yádi (invariable)  
+{}
+
+yádi ← yádi (invariable)  
+{}
+
+ádhyakṣaḥ ← ádhyakṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vyòman ← vyòman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+véda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yádi ← yádi (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +250,4 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 Кто надзирает за этим (миром) на высшем небе.  
 Только он знает или же не знает.
 </details>
+

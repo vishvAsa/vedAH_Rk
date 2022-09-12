@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+hr̥tsú ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pītáḥ ← √pā- 2 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+pitaraḥ ← pitár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āvivéśa ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mártyān ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sómāya ← sóma- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mr̥ḷīké ← mr̥ḷīká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sumataú ← sumatí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Der Indu, Väter, den wir in uns schlürften ging jetzt hinein in Sterbliche uns
 Этому сому мы хотим почтить жертвенным возлиянием.  
 Да будем мы в его милости и благоволении!
 </details>
+

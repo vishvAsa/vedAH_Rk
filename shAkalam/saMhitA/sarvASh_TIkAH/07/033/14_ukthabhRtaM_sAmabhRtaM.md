@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bibharti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sāmabhŕ̥tam ← sāmabhŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ukthabhŕ̥tam ← ukthabhŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bíbhrat ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+grā́vāṇam ← grā́van- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vadāti ← √vadⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ādhvam ← √ās- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+sumanasyámānāḥ ← √sumanasy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gachāti ← √gam- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+pratr̥daḥ ← pratr̥d- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Er bringt den her, der Sprüche darbringt und Lieder ; der den Pressstein bringt
 Почитайте его, настроенные благожелательно!  
 К вам придет, о Пратриды, Васиштха!
 </details>
+

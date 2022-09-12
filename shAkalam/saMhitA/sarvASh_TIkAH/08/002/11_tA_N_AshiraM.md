@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+āśíram ← āśír- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+puroḷā́śam ← puroḷā́ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrīṇīhi ← √śrī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+revántam ← revánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śr̥ṇómi ← √śru- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Diesen Milchguss, diesen Kuchen und den Soma, Indra, mische; Denn ein reicher bi
 Жертвенную лепешку, о Индра, этого сому!  
 Ведь я слышу, что ты богат.
 </details>
+

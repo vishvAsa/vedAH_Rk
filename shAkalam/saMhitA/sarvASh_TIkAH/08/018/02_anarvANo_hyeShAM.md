@@ -15,14 +15,42 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+anarvā́ṇaḥ ← anarván- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+ādityā́nām ← ādityá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pánthāḥ ← pánthā- ~ path- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádabdhāḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pāyávaḥ ← pāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sugevŕ̥dhaḥ ← sugevŕ̥dh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +145,4 @@ Denn ungefährdet ist der Weg der Söhne hier der Aditi; Truglose Hüter sind si
 Пути этих Адитьев  
 Безобманны их хранители, увеличивающие удачу.
 </details>
+

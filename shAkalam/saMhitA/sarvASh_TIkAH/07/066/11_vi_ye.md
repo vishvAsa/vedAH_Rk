@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhar ~ áhaḥ ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+dadhúḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mā́sam ← mā́s- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śarádam ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+aktúm ← aktú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ŕ̥cam ← ŕ̥c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anāpyám ← anāpyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āśata ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rā́jānaḥ ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +213,4 @@ Die ordneten der Jahre, Monde, Tage Lauf, die Nacht, das Opfer, den Gesang; Varu
 Жертву, ночь и гимн,  
 (Эти) Варуна, Митра, Арьяман – Цари достигли недоступной власти.
 </details>
+

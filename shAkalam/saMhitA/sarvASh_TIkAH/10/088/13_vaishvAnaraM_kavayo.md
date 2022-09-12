@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vaiśvānarám ← vaiśvānará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñíyāsaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ajanayan ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ajuryám ← ajuryá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áminat ← áminant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cariṣṇú ← cariṣṇú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+nákṣatram ← nákṣatra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pratnám ← pratná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádhyakṣam ← ádhyakṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+taviṣám ← taviṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yakṣásya ← yakṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +197,4 @@ Den Männerhort, den Agni, der nicht altert, erzeugten sie, die weisen, heil'gen
 Древнюю звезду, движущуюся, не сбиваясь с пути,  
 Сильного, высокого надсмотрщика чуда.
 </details>
+

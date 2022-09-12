@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ayajanta ← √yaj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+bhūnā́ ← bhūmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+jaritā́raḥ ← jaritár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asū́rte ← asū́rta- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+niṣatté ← √sad- (root)  
+{case:LOC, gender:N, number:SG, non-finite:PPP}
+
+rájasi ← rájas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sū́rte ← sū́rta- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bhūtā́ni ← √bhū- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+imā́ni ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+samákr̥ṇvan ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +209,4 @@ Durch Opfer führten ihm die alten Seher als Sänger Schätze zu in reicher Fül
 (Те,) что создали эти существа.  
 Когда осело неосвещенное (и) освещенное пространство.
 </details>
+

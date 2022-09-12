@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prā́caḥ ← prā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+abhibhūte ← abhíbhūti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+ápācaḥ ← ápāñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nudasva ← √nud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+adharā́caḥ ← adharā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+údīcaḥ ← údañc- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+mádema ← √mad- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+śárman ← śárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+uraú ← urú- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +216,4 @@ O Indra, stoss hinweg die Feinde alle, die östlichen, die westlichen, o Sieger,
 От(толкни) северных, от(толкни), о герой, южных,  
 Чтобы радовались мы под твоей широкой защитой!
 </details>
+

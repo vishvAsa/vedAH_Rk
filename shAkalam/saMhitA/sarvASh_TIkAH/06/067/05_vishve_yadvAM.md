@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+maṁhánā ← maṁhánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mándamānāḥ ← √mand- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sajóṣāḥ ← sajóṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhūtháḥ ← √bhū- (root)  
+{number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+urvī́ ← urú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádabdhāsaḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ámūrāḥ ← ámūra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+spáśaḥ ← spáś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Da alle Götter im Verein euch willig und hocherfreut die Herrschaft zugestanden
 Когда вы объяли даже две огромные половины вселенной,  
 Появляются (у вас) соглядатаи, безобманные, мудрые.
 </details>
+

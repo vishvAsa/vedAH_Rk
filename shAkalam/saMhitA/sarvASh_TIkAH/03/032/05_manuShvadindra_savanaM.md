@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+juṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+manuṣvát ← manuṣvát (invariable)  
+{}
+
+sávanam ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śáśvate ← śáśvant- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīryā̀ya ← vīryà- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+haryaśva ← háryaśva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vavr̥tsva ← √vr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+árṇā ← árṇa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+saraṇyúbhiḥ ← saraṇyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sisarṣi ← √sr̥- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Gleich wie ein Mensch lass dir den Soma schmecken, und trink den Saft zu stets e
 Силой жертв повернись сюда, о обладатель буланых коней!  
 С помощью быстро текущих (Марутов) ты пускаешь течь воды, потоки.
 </details>
+

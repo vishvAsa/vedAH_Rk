@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+harīṇām ← hári- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+devápsarastamaḥ ← devápsarastama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+náryaḥ ← nárya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rucé ← rúc- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhye ← sákhi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +175,4 @@ O Indu, unsrer Rosse Herr, du bist der götternährendste, Sei kräftig uns zum 
 О сок сомы, самый пиршественный для богов,  
 Будь, как мужественный друг для друга, – (чтоб мы) блистали!
 </details>
+

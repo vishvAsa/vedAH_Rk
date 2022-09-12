@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+bhúvanā ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cákriḥ ← cákri- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sāsahíḥ ← sāsahí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cákriḥ ← cákri- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dúvaḥ ← dúvas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+suvī́rye ← suvī́rya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yátate ← √yat- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+nr̥ṇā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śáṁse ← śáṁsa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Er, welcher wirkend alle Wesen überwiegt, die Gaben zu den Göttern schafft, De
 Он занимает подобающее место среди богов ради обилия прекрасных мужей,  
 И ради хвалы мужей.
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+evá ← evá (invariable)  
+{}
+
+indrāgníbhyām ← indrāgní- (nominal stem)  
+{case:DAT, gender:M, number:DU}
+
+návīyaḥ ← návīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pitr̥vát ← pitr̥vát (invariable)  
+{}
+
+aṅgirasvát ← aṅgirasvát (invariable)  
+{}
+
+avāci ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+mandhātr̥vát ← mandhātr̥vát (invariable)  
+{}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pātam ← √pā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śármaṇā ← śárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tridhā́tunā ← tridhā́tu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pátayaḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +215,4 @@ So ist dem Indra und Agni aufs neue gesungen nach der Väter Art, nach des Mandh
 Тройной защитой нас защищайте!  
 Да будем мы повелителями богатств!
 </details>
+

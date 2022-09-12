@@ -15,13 +15,47 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+átithiḥ ← átithi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hr̥ṇītām ← √hr̥̄- (root)  
+{mood:INJ, tense:PRS}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣáḥ ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+purupraśastáḥ ← purupraśastá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásuḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suhótā ← suhótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svadhvaráḥ ← svadhvará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +150,7 @@ The mā́prohibitive here takes an apparent impv. hṛṇītām rather than the 
 Pāda-final eṣáḥ is less rare than I would have predicted, though the usual position of nom. sg. eṣá(ḥ) is pāda initial.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/12-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
 Both vss. end identically with svadhvaráḥ, but in 12c it refers to Agni, in 13d to the weakling (kīrí-) who is offering homage to Agni. The use of the same term for both of course implicitly spreads the power and prestige of Agni to his worshiper.
@@ -145,3 +179,4 @@ Nicht möge zürnen Agni uns, der holde Gast, er, dieser vielgepriesene, Der tre
 
 :прекрасный хотар suhota svadhvarah
 </details>
+

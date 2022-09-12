@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+káyā ← ká- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+śáciṣṭhaḥ ← śáciṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śácyā ← śácī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śr̥ṇve ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+kā́ ← ká- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+kr̥ṇóti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+múhu ← múhu (invariable)  
+{}
+
+r̥ṣváḥ ← r̥ṣvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vícayiṣṭhaḥ ← vícayiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+dadhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jaritré ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Durch welche Kraft ist er berühmt als stärkster, durch die der hehre alles pl�
 Для того, кто много почитает (тебя), ты лучше всех убираешь прочь нужду  
 И даешь певцу богатство.
 </details>
+

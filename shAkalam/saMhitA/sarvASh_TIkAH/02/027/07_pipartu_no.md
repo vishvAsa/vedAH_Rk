@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pípartu ← √pr̥- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+rā́japutrā ← rā́japutra- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+dvéṣāṁsi ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sugébhiḥ ← sugá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áriṣṭāḥ ← áriṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+puruvī́rāḥ ← puruvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Uns führe Aditi, die Königsmutter, und Arjaman auf sichrer Bahn durch Feinde, 
 Да будем мы с многими мужами, невредимые,  
 Под высокой защитой Митры (и) Варуны!
 </details>
+

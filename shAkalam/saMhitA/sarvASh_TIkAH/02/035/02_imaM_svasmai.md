@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+hr̥dáḥ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+sútaṣṭam ← sútaṣṭa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kuvít ← kuvít (invariable)  
+{}
+
+mántram ← mántra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+védat ← √vid- 2 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+vocema ← √vac- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+asuryàsya ← asuryà- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+nápāt ← nápat- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aryáḥ ← aryá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhúvanā ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jajāna ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Wir wollen ihm das Lied, das schön im Herzen gefügt ist, sagen, ob er wohl dra
 Благодаря (своему) асурскому величию Апам Напат  
 Благородный породил все существа.
 </details>
+

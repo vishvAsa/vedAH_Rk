@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+pā́jase ← pā́jas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+hárim ← hári- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mr̥janti ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vásānam ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -87,7 +112,7 @@ for vṛ́thā pā́jase see comm. ad IX.76.1. The phrase here is a truncated ve
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 No particular signs of cohesion, though assembled from the usual assortment of soma clichés.
@@ -116,3 +141,4 @@ Den Göttern striegeln – sie dich, das Goldross, mit Lust zum Glanze – den F
 Они начищают тебя, рядящегося в воды буланого коня  
 Для богов (, чтобы ты) охотно (принял должную) форму.
 </details>
+

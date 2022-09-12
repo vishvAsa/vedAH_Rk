@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́yudhā ← ā́yudha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dhatte ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+gábhastyoḥ ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gáviṣṭiṣu ← gáviṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+rathiráḥ ← rathirá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+síṣāsan ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+apasyúbhiḥ ← apasyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+īráyan ← √īr- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ajyate ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+hinvānáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manīṣíbhiḥ ← manīṣín- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Er nimmt die Waffen in die Arme wie ein Held, den Glanz erstrebend, Wagen lenken
 Возбуждающая храбрость Индры, поторапливаемая  
 Деятельными (пальцами) капля смазывается хранителями мудрости.
 </details>
+

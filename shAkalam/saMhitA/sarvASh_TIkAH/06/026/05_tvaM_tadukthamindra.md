@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+barháṇā ← barháṇā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ukthám ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dárṣi ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śatā́ ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+dā́sam ← dā́sa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+giréḥ ← girí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+han ← √han- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+śámbaram ← śámbara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āvaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+citrā́bhiḥ ← citrá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+dívodāsam ← dívodāsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +231,7 @@ Initial áva in c breaks the long pattern of 2nd sg. pronouns beginning the hemi
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/03-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/03-06.md">
 <details open><summary><h2>03-06 ...{Loading}...</h2></summary>
 
 These vss. are tr. and discussed by Hoffman (Injunk., 183-84).
@@ -196,3 +263,4 @@ Dies Preisenswerthe thu mit Macht, o Indra, dass hunderttausend du, o Held, zers
 Ты сбил с горы дасу Шамбару.  
 Ты помог Диводасе замечательными поддержками.
 </details>
+

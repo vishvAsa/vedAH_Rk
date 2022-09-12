@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+cit ← cit (invariable)  
+{}
+
+dabhrám ← dabhrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+tvā́vataḥ ← tvā́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+kṣámi ← kṣám- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śr̥ṇvé ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jígātu ← √gā- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +171,4 @@ Denn auch das kleinste, was du thust, so wie du bist, ist weltberühmt; Dir, Ind
 Становится известным на земле.  
 Пусть мысль твоя обратится к нам, о Индра!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsú ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+pradívaḥ ← pradív- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sīdaḥ ← √sad- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+abhavaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rathī́ḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́ryāṇām ← vā́rya- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+átas ← átas (invariable)  
+{}
+
+cikitvaḥ ← √cit- (root)  
+{case:VOC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+inoṣi ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vidhaté ← √vidh- (root)  
+{case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ In diesen Häusern nahmst du Platz von je her, und warst mit will'gem Geist der 
 Отсюда ты посылаешь (своему) почитателю, о внимательный,  
 Блага по порядку, о Джатаведас.
 </details>
+

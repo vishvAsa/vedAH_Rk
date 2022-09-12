@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+phárvareṣu ← phárvara- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śrayethe ← √śri- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+uṣṭā́rā ← uṣṭár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ithaḥ ← √i- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+prāyogā́ ← prāyogá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śā́suḥ ← śā́sus- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śvā́tryā ← śvā́trya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dūtā́ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hí ← hí (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+jáneṣu ← jána- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+stháḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yaśásā ← yaśás- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ápa ← ápa (invariable)  
+{}
+
+avapā́nāt ← avapā́na- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mahiṣā́ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sthātam ← √sthā- (root)  
+{number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +228,4 @@ Wie zwei Pflugstiere schreitet ihr bei den Säern (?); wie zwei kräftige zum Ma
 Ведь вы как два блистательных вестника среди людей.  
 Не отходите, как буйволы от источника для питья!
 </details>
+

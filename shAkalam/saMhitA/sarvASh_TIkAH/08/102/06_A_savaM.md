@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+savám ← savá- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yathā ← yathā (invariable)  
+{}
+
+bhágasya ← bhága- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhujím ← bhují- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samudrávāsasam ← samudrávāsas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Ihn, der dem Trieb des Savitar und dem Genuss des Bhaga gleicht Agni, den meerum
 Как наслаждение Бхаги, я зову  
 Агни, чья одежда – море.
 </details>
+

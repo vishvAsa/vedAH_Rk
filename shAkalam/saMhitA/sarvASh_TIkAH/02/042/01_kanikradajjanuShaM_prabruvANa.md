@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; 11 = 4+7, ending HLX
+#### Morph
+janúṣam ← janúṣ- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kánikradat ← √krand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+prabruvāṇáḥ ← √brū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+aritā́ ← aritár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+íyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nā́vam ← naú- ~ nā́v- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bhávāsi ← √bhū- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+śakune ← śakuni- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sumaṅgálaḥ ← sumaṅgála- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhibhā́ ← abhibhā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+kā́ ← ká- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vidat ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+víśvyā ← víśvya- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +232,4 @@ Laut kreischend, so verkündend seine Weise, treibt seine Stimm' er, wie das Sch
 Если ты, о птица, предвещаешь добро,  
 Да не найдет тебя нигде никакой враждебный взгляд!
 </details>
+

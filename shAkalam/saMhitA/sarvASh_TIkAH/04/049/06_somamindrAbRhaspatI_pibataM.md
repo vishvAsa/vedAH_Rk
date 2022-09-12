@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+indrābr̥haspatī ← índrābŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dāśúṣaḥ ← dāśváṁs- (nominal stem)  
+{case:GEN, number:SG}
+
+gr̥hé ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+píbatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mādáyethām ← √mad- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+tádokasā ← tádokas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +133,4 @@ So trinkt, Indra-Brihaspati, den Soma in des Frommen Haus; Berauscht euch, wie i
 Сому в доме почитающего (вас)!  
 Опьяняйтесь вы, привыкшие к этому!
 </details>
+

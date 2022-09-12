@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+cikiddhi ← √cit- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jaritar ← jaritár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pratīpám ← pratīpám (invariable)  
+{}
+
+śā́pam ← śā́pa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vahanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+atsār ← √tsar- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+lopāśáḥ ← lopāśá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pratyáñcam ← pratyáñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+siṁhám ← siṁhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+atakta ← √tak- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+kákṣāt ← kákṣa- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+kroṣṭā́ ← kroṣṭár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+varāhám ← varāhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Versteh fein dieses Wort von mir, o Sänger: die Flüsse treiben das Geflöße s
 Шакал кинулся на кабана из засады.  
 Васукра:
 </details>
+

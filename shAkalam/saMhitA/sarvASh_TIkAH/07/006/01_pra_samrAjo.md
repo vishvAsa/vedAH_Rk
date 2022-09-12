@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásurasya ← ásura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+práśastim ← práśasti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+samrā́jaḥ ← samrā́j- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+anumā́dyasya ← anumā́dya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kr̥ṣṭīnā́m ← kr̥ṣṭí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+puṁsáḥ ← púmaṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kr̥tā́ni ← √kr̥- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+prá ← prá (invariable)  
+{}
+
+tavásaḥ ← tavás- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dārúm ← dārú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vándamānaḥ ← √vandⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vánde ← √vandⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+vivakmi ← √vañc- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +198,4 @@ Das Lob des himmlischen Gebieters sing' ich des Völkerhelden, dem mit Recht man
 Деяния могучего, словно (подвиги) Индры, –  
 Приветствую проломителя! – приветствуя, я провозглашаю.
 </details>
+

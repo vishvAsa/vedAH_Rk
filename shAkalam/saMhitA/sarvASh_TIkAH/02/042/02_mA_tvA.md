@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; 11 = 4+7, ending HLX  
 popular
+#### Morph
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+suparṇáḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+út ← út (invariable)  
+{}
+
+vadhīt ← √vadhⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ástā ← ástar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+íṣumān ← íṣumant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vidat ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+kánikradat ← √krand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pítryām ← pítrya- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pradíśam ← pradíś- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bhadravādī́ ← bhadravādín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+sumaṅgálaḥ ← sumaṅgála- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vada ← √vadⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +245,4 @@ Nicht stoss auf dich der Adler, nicht der Geier, nicht treffe dich ein pfeilbega
 Громко крича в сторону, связанную с отцами,  
 Молви здесь, предвещая добро, глаголя счастье!
 </details>
+

@@ -14,12 +14,34 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+mithás ← mithás (invariable)  
+{}
+
+svapū́bhiḥ ← svapū́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vapanta ← √vap- 2 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+aspr̥dhran ← √spr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+śyenā́ḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́tasvanasaḥ ← vā́tasvanas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,3 +129,4 @@ Mit Licht bestreuen – sie selbst einander, Die Adler kämpften – wie Winde b
 Они обрызгивают друг друга самоочищающимися (каплями дождя).  
 Звучащие как (штормовой) ветер соколы стали состязаться.
 </details>
+

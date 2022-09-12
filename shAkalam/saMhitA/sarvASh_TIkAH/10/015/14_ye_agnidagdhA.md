@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agnidagdhā́ḥ ← agnidagdhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánagnidagdhāḥ ← ánagnidagdha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mādáyante ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ásunītim ← ásunīti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+etā́m ← eṣá (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+svarā́ṭ ← svarā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tébhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+kalpayasva ← √kl̥p- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yathāvaśám ← yathāvaśám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +192,4 @@ Mit den verbrannten und den nicht verbrannten, die lustig schwelgen in des Himme
 С ними (отправляйся) как самовластный повелитель в этот путь уводящий от жизни!  
 Создай (новое) тело по желанию!
 </details>
+

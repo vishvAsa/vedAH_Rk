@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dúdhitam ← dúdhita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+néśat ← √naś- 2 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+rócata ← √ruc- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+arta ← √r̥- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+bhānúḥ ← bhānú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devyā́ḥ ← devī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+út ← út (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ájrān ← ájra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:ACC, number:PL}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tiṣṭhat ← √sthā- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+márteṣu ← márta- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+páśyan ← √paś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+r̥jú ← r̥jú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vr̥jinā́ ← vr̥jiná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +210,7 @@ On dúdhita-, a qualifier of darkness, see EWA s.v., with ref. to Schindler (196
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details open><summary><h2>10-18 ...{Loading}...</h2></summary>
 
 Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
@@ -186,3 +247,4 @@ Das trübe Dunkel wich, der Himmel glänzte, aufstieg der Himmelsglanz der Morge
 Поднялся Сурья на высокие равнины,  
 Видящий, что прямо среди людей и что криво.
 </details>
+

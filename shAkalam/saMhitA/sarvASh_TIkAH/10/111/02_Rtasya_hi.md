@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádyaut ← √dyut- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dhītíḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sádasaḥ ← sádas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ānaṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gārṣṭeyáḥ ← gārṣṭeyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+atiṣṭhat ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ráveṇa ← ráva- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+taviṣéṇa ← taviṣá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+mahā́nti ← mahā́nt- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+vivyāca ← √vyac- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +214,4 @@ Das Lied erstrahlte von dem Sitz des Opfers, zu Kühen drang der Stier, der Spro
 Он поднялся с мощным ревом,  
 Он охватил даже огромные пространства.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhūvan ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ásurāḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nírmāyāḥ ← nírmāya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+kāmáyāse ← √kam- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ánr̥tam ← ánr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+viviñcán ← √vic- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́dhipatyam ← ā́dhipatya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+rāṣṭrásya ← rāṣṭrá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +210,4 @@ Die Asura´s sind jetzt ihrer Zauberkraft verlustigt gegangen. Wenn du, Varuna, 
 То, отделяя правое от неправого, о царь,  
 Приди под господство моей власти!
 </details>
+

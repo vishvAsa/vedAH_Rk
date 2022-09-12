@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+nápātam ← nápat- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrjáḥ ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+dīdivā́ṁsam ← √dī- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+dyávi ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īḷe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+kavíkratum ← kavíkratu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +155,4 @@ Den Sohn der Stärke preise ich, ihn, welcher strahlt zum Himmel auf, Den ew'gen
 Во время обряда до (самого) неба,  
 Агни я призываю, наделенного силой духа поэта.
 </details>
+

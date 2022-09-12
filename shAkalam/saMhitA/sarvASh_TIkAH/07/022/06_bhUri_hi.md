@@ -15,13 +15,62 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+mā́nuṣeṣu ← mā́nuṣa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+havate ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+manīṣī́ ← manīṣín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+āré ← āré (invariable)  
+{}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+jyók ← jyók (invariable)  
+{}
+
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +194,4 @@ Denn manch Gelage ist dir bei den Menschen, und viele Bitten rufen dich vor alle
 Много (раз) мудрый (поэт) призывает только тебя.  
 Не медли вдалеке от нас, щедрый!
 </details>
+

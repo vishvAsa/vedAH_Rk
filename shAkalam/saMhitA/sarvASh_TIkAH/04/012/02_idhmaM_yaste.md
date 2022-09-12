@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+idhmám ← idhmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jabhárat ← √bhr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+śaśramāṇáḥ ← √śramⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+saparyán ← √sapary- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+doṣā́m ← doṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+idhānáḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+uṣā́sam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ghnán ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+púṣyan ← √puṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sacate ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +214,7 @@ The overlapping identities of Agni and his worshiper are indirectly signaled in 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/012/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/012/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 On the parallel pres. and pf. subjunctives in these vss. see comm. ad
@@ -190,3 +251,4 @@ Wer emsig wirkend Brennholz dir herbeibringt, dein Angesicht, o Agni, hoch vereh
 Зажигая (тебя) каждую ночь и каждую утреннюю зарю,  
 Тот процветает, соединяется с богатством, убивает недругов.
 </details>
+

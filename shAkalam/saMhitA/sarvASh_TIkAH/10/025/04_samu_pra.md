@@ -18,16 +18,74 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+dhītáyaḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+avatā́n ← avatá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+sárgāsaḥ ← sárga- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+camasā́n ← camasá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dhāráya ← √dhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+vívakṣase ← √vac- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Gebete eilen zu dir hin, wie Heerden zu dem Wasserquell, Fest halte unsre Lebens
 Чтобы (мы) жили, как (держат) кубки (с сомой) –  
 В опьянении (сомой) я хочу вам (это) провозгласить!
 </details>
+

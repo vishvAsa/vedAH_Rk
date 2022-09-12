@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+carṣaṇīdhŕ̥tam ← carṣaṇīdhŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maghávānam ← maghávan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ukthyàm ← ukthyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+br̥hatī́ḥ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puruhūtám ← puruhūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vāvr̥dhānám ← √vr̥dh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:MED}
+
+ámartyam ← ámartya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+járamāṇam ← √gr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +188,4 @@ Dem Menschenhort, dem mächtigen, zu preisenden, dem Indra jauchzen laute Lobges
 (Его) растущего, многопризываемого в прекрасных гимнах,  
 Бессмертного, бодрствующего день за днем.
 </details>
+

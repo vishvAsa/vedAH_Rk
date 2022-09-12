@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+háritvatā ← háritvant- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+várcasā ← várcas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rūpaíḥ ← rūpá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sparśayasva ← √spr̥ś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+śréṣṭhaiḥ ← śréṣṭha- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asmā́bhiḥ ← ahám (pronoun)  
+{case:INS, number:PL}
+
+huvānáḥ ← √hū- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sákhibhiḥ ← sákhi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mādayasva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+niṣádya ← √sad- (root)  
+{non-finite:CVB}
+
+sadhrīcīnáḥ ← sadhrīcīná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +181,4 @@ Bedecke mit dem goldnen Glanz der Sonne und mit den schönsten Farben deinen Lei
 Призываемый нами, о Индра, (твоими) друзьями,  
 Опьяняйся (с нами) вместе, усевшись!
 </details>
+

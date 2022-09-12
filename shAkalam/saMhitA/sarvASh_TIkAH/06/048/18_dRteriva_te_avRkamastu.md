@@ -15,13 +15,44 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+avr̥kám ← avr̥ká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dŕ̥teḥ ← dŕ̥ti- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+áchidrasya ← áchidra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dadhanvátaḥ ← dadhanvánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dadhanvátaḥ ← dadhanvánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+súpūrṇasya ← súpūrṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,7 +137,7 @@ Geldner and Renou take the comparison to be between the partnership and the leat
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
 <details open><summary><h2>14-19 ...{Loading}...</h2></summary>
 
 On these Pūṣan vss., see published introduction.
@@ -137,3 +168,4 @@ Deine Genossenschaft sei uns heilsam wie die eines Schlauches, der unverletzt un
 Без прорех с кислым молоком,  
 Переполненный кислым молоком!
 </details>
+

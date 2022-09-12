@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gāyiṣe ← √gā(y)- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+u ← u (invariable)  
+{}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asuryā̀ ← asuryà- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nadī́nām ← nadī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+mahaya ← √mahay- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sárasvatīm ← sárasvant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+stómaiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vasiṣṭha ← vásiṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +184,4 @@ Ein hohes Lied will singen ich, erheben die Sarasvati, Die himmlischste der Flut
 Сарасвати возвеличь прекрасными гимнами  
 (И) восхвалениями, о Васиштха, две половины вселенной.
 </details>
+

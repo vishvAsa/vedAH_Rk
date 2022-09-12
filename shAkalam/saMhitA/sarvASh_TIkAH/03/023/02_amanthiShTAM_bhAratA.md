@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ámanthiṣṭām ← √manthⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhā́ratā ← bhā́rata- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+deváśravāḥ ← deváśravas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devávātaḥ ← devávāta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sudákṣam ← sudákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+br̥hatā́ ← br̥hánt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+paśya ← √paś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+bhavatāt ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+iṣā́m ← íṣ- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+netā́ ← netár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Den starken Agni zeugten Devavāta, Devaçravas, die Bhārater, durch Reiben, O 
 О Агни, разгляди (нас) с (твоим) высоким богатством!  
 Многие дни будь нам вождем жертвенных подкреплений!
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ābhúvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+rūpā́ ← rūpá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tákṣyā ← tákṣya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yáśasvataḥ ← yáśasvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +155,4 @@ Dass bei uns sei der herrliche mit seiner Kraft, wie Tvaschtar kommt Zu den Gest
 Как Тваштар в формах, которые надо вытесать,  
 Благодаря силе духа у него, блистательного...
 </details>
+

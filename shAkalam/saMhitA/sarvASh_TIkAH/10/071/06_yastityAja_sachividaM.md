@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+sacivídam ← sacivíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tityā́ja ← √tyaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhāgáḥ ← bhāgá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+vācí ← vā́c- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+álakam ← álakam (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+śr̥ṇoti ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śr̥ṇóti ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nahí ← nahí (invariable)  
+{}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pravéda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sukr̥tásya ← sukr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +238,4 @@ Wer seinen Freund verlässt, den treugesinnten, bei dessen Wort ist nimmermehr e
 Что он и слышит, втуне слышит:  
 Он не узнал пути благого деяния.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahatáḥ ← mahā́nt- (nominal stem)  
+{case:ACC, number:PL}
+
+mányamānān ← √man- 1 (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yodháyāḥ ← √yudh- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+bāhúbhiḥ ← bāhú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sā́kṣāma ← √sah- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+śā́śadānān ← √śad- (root)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+abhiyúdhyāḥ ← √yudh- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+vŕ̥taḥ ← vŕ̥t- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ājím ← ājí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jayema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+sauśravasám ← sauśravasá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Wie du die gross sich dünkenden bekämpftest, so lass die Stolzen mit dem Arm u
 Или когда ты намерен побороть со (своими) мужами вражеские ряды,  
 Вместе с тобой пусть выиграем мы это сражение со славой!
 </details>
+

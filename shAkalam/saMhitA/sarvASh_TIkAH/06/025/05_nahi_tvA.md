@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhr̥ṣṇúḥ ← dhr̥ṣṇú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+nahí ← nahí (invariable)  
+{}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+turáḥ ← turá- 1 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+mányamānaḥ ← √man- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yodháḥ ← yodhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuyódha ← √yudh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+jātā́ni ← √janⁱ- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +247,4 @@ Denn nie hat dich ein Held besiegt, ein starker, ein kühner nicht, der sich ein
 О Индра, никто из них не годится против тебя.  
 Ты превосходишь все эти рожденные (существа).
 </details>
+

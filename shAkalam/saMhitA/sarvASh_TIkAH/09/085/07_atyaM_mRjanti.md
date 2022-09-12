@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átyam ← átya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kaláśe ← kaláśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kṣípaḥ ← kṣíp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mr̥janti ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+īrate ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+matáyaḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vā́caḥ ← vā́c- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+víprāṇām ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+arṣanti ← √arṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pávamānāḥ ← √pū- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+madirā́saḥ ← madirá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+viśanti ← √viś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

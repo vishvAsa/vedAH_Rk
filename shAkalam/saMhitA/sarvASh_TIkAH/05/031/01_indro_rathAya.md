@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇoti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pravátam ← pravát- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ráthāya ← rátha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+adhyásthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājayántam ← √vājay- 2 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+paśváḥ ← paśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+unoti ← √u- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+yūthā́ ← yūthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+áriṣṭaḥ ← áriṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+síṣāsan ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +228,4 @@ Es schaffet Indra schnelle Fahrt dem Wagen, der Preis gewinnt und den der Held b
 Он погоняет (ее), словно пастух – стада скота.  
 Невредимая, идет она первой, стремясь к победе.
 </details>
+

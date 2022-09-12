@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+uśánā ← uśánā- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áyātana ← √yā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+rándhram ← rándhra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ukṣṇáḥ ← ukṣán- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhiyā́ ← bhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+cakradat ← √krand- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +169,4 @@ Als ihr von Ferne voll Begier in das Versteck des Stieres drangt, Schrie, wie de
 Прибыли к Укшно Рандхре,  
 Он заревел от страха, как (грохочет) небо.
 </details>
+

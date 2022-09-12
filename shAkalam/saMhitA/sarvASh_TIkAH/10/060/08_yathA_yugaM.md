@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+varatráyā ← varatrā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+yugám ← yugá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dharúṇāya ← dharúṇa- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+kám ← kám (invariable)  
+{}
+
+náhyanti ← √nah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dādhāra ← √dhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+evá ← evá (invariable)  
+{}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+jīvā́tave ← jīvā́tu- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+mr̥tyáve ← mr̥tyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ariṣṭátātaye ← ariṣṭátāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +191,4 @@ Wie man mit Riemen fest das Joch umbindet, dass es halten soll, So halte deinen 
 Для жизни, не для смерти,  
 А также для невредимости.
 </details>
+

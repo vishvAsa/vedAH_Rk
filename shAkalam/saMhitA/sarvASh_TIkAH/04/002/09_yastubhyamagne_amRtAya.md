@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+amŕ̥tāya ← amŕ̥ta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dā́śat ← √dāś- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dúvaḥ ← dúvas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇávate ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+yatásruk ← yatásruc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śaśamānáḥ ← √śamⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+yoṣat ← √yu- 2 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+aghāyóḥ ← aghāyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+varat ← √vr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +251,4 @@ Wer dir Unsterblichem, o Agni, huldigt, die Löffel reichend dir Verehrung zolle
 Тот, трудясь (во время обряда) не лишится богатства,  
 Его не окружит беда, (исходящая) от злоумышленника.
 </details>
+

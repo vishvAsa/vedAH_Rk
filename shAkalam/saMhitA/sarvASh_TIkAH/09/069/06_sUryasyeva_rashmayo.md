@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+drāvayitnávaḥ ← drāvayitnú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+raśmáyaḥ ← raśmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+īrate ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+matsarā́saḥ ← matsará- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prasúpaḥ ← prasúp- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sākám ← sākám (invariable)  
+{}
+
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+sárgāsaḥ ← sárga- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tántum ← tántu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tatám ← √tan- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+caná ← caná (invariable)  
+{}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índrāt ← índra- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+r̥té ← r̥té (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ So wie in schnellem Lauf der Sonne Strahlen, gehn zusammen die berauschenden, be
 Быстрые потоки (мчатся) вокруг протянутой нити.  
 Без Индры не очищается никакая формы (сомы).
 </details>
+

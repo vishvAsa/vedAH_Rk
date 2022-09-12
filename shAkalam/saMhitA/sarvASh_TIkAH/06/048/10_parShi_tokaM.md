@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+párṣi ← √pr̥- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+partŕ̥bhiḥ ← partár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tánayam ← tánaya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tokám ← toká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ádabdhaiḥ ← ádabdha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áprayutvabhiḥ ← áprayutvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+daívyā ← daívya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+héḷāṁsi ← héḷas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yuyodhi ← √yu- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ádevāni ← ádeva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+hvárāṁsi ← hváras- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +194,4 @@ Mit deinen Führern führe Kind und Enkelschar, du mit den treuen, emsigen; O Ag
 О Агни, отведи от нас божественный гнев  
 И безбожные (людские) козни!
 </details>
+

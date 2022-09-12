@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+acaṣṭa ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ánu ← ánu (invariable)  
+{}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+parāyatī́m ← √i- 1 (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+gamāni ← √gam- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+gāni ← √gā- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+apibat ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gr̥hé ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tváṣṭuḥ ← tváṣṭar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+camvòḥ ← camū́- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+śatadhanyàm ← śatadhanyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Er blickte nach der Mutter, da sie hinschied, »Ich nehm' zurück das Wort, dort
 В доме Тваштара Индра напился сомы,  
 Стоящего сотни, выжатого в два сосуда.
 </details>
+

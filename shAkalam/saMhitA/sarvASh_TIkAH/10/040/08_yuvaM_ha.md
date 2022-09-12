@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ha ← ha (invariable)  
+{}
+
+kr̥śám ← kr̥śá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śayúm ← śayú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+uruṣyathaḥ ← √uruṣy- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vidhántam ← √vidh- (root)  
+{case:ACC, gender:M, number:SG, tense:AOR, voice:ACT}
+
+vidhávām ← vidhávā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+saníbhyaḥ ← saní- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+stanáyantam ← √stanⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ápa ← ápa (invariable)  
+{}
+
+saptā́syam ← saptā́sya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrṇuthaḥ ← √vr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Ihr schaffet Glück dem Kriça und dem Çaju ihr o Ritter, dem Verehrer, ihr der
 Вы, о Ашвины, открываете грохочущий  
 Загон семивратный для награждений.
 </details>
+

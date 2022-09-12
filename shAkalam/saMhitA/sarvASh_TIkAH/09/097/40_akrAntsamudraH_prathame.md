@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ákrān ← √krand- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+prathamé ← prathamá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+samudráḥ ← samudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vídharman ← vídharman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+janáyan ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+prajā́ḥ ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ávye ← ávya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sā́no ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvānáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+vāvr̥dhe ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +194,7 @@ Geldner’s tr. of pāda a, “Der Ocean hat gebrüllt bei seiner ersten Ausbrei
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/40-42.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/40-42.md">
 <details open><summary><h2>40-42 ...{Loading}...</h2></summary>
 
 No particular unity detectable in the tṛca, though the 2nd two vss. do focus on Soma’s role in strengthening and exhilarating the gods.
@@ -171,3 +226,4 @@ Das Meer erbrauste in dem ersten Himmel, des Weltalls König, die Geschöpfe zeu
 Бык в цедилке на спине (сита) из овечьей шерсти,  
 Сома мощно возрос, (этот) выжатый сок.
 </details>
+

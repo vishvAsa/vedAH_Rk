@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+jānā́ti ← √jñā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jásurim ← jásuri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+kāmínam ← kāmín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tŕ̥ṣyantam ← √tr̥ṣ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+devatrā́ ← devatrā́ (invariable)  
+{}
+
+kr̥ṇuté ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +149,7 @@ have a tendency to attenuate the third term -- e.g., Klein (DGRV I.432) “the o
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 As indicated in the published translation, I consider these vss. a digression reflecting on the character of women in general, motivated by the introduction of the winning woman in vs. 5.
@@ -146,3 +180,4 @@ Die auf den erschöpften, auf den durstenden, auf den begehrenden achtet, die g�
 Вы(искивает) жаждущего, (вы)искивает желающего  
 (и) направляет (свою) мысль к богам.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+añjíbhiḥ ← añjí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+aruṇébhiḥ ← aruṇá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+kṣoṇī́bhiḥ ← kṣoṇí- ~ kṣoṇī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rudrā́ḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sádaneṣu ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vāvr̥dhuḥ ← √vr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+átyena ← átya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+niméghamānāḥ ← √migh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+pā́jasā ← pā́jas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+supéśasam ← supéśas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suścandrám ← suścandrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+várṇam ← várṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +214,4 @@ Die glänzenden ergötzten an den Fluten sich auf heil'gen Sitzen wie an feurig 
 Мочась благодаря (своей) природе скакового коня,  
 Они приобрели очень блестящий, очень нарядный цвет.
 </details>
+

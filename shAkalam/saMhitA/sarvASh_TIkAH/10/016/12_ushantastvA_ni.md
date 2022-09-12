@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+dhīmahi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+uśántaḥ ← √vaś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+idhīmahi ← √idh- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+uśántaḥ ← √vaś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+uśán ← √vaś- (root)  
+{tense:PRS, voice:ACT}
+
+uśatáḥ ← √vaś- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+áttave ← √ad- (root)  
+{case:DAT, number:SG}
+
+havíṣe ← havís- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+pitr̥̄́n ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +183,4 @@ Begehrend setzen wir dich hin, begehrend zünden wir dich an, Die Väter fahr zu
 Радостный, радостных привози.  
 Отцов для вкушения жертвенной пищи!
 </details>
+

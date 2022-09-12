@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+kruddháḥ ← √krudh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+patayat ← √pat- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+rájassu ← rájas- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ákr̥ṇot ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+aryápatnīḥ ← aryápatnī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+imā́ḥ ← ayám (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+jīrádānave ← jīrádānu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ávindat ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+havíṣmate ← havíṣmant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Die Luft durchflog er wie ein wuthentbrannter Stier, und machte diese Wasser sic
 Этот щедрый нашел свет для Ману,  
 Выжимающего (сому), быстро дающего, жертвенное возлияние.
 </details>
+

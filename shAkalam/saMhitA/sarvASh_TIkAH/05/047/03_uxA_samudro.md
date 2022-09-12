@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aruṣáḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samudráḥ ← samudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suparṇáḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukṣā́ ← ukṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pū́rvasya ← pū́rva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+viveśa ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áśmā ← áśman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+níhitaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+pŕ̥śniḥ ← pŕ̥śni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ántau ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+cakrame ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+pāti ← √pā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Der rothe Stier, lichtflutend, schöngeflügelt, ging ein nun in den Schooss des
 Помещенный посреди неба пестрый камень,  
 Он выступил за (пределы). Он охраняет две границы пространства.
 </details>
+

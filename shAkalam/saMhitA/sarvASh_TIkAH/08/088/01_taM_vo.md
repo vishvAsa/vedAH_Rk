@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dasmám ← dasmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tīṣáham ← r̥tīṣáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mandānám ← √mand- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+vásoḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+svásareṣu ← svásara- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+navāmahe ← √nu- ~ nū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ Wir schreien euren Helden an, der sich des guten Tranks erfreut, Wie in den Stä
 Радующемуся хорошему соку Индре,  
 Как дойные коровы на пастбищах – к теленку.
 </details>
+

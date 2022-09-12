@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇavat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ŕ̥dhak ← ŕ̥dhak (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+jabhā́ra ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+māsáḥ ← mā́s- 1 (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+nahí ← nahí (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+pratimā́nam ← pratimā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+jánitvāḥ ← jánitva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jātéṣu ← √janⁱ- (root)  
+{case:LOC, gender:M, number:PL, non-finite:PPP}
+
+utá ← utá (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,3 +256,4 @@ Was wird vor allem der thun, den die Mutter wol tausend Monde trug und viele Jah
 Ведь нет ему подобного  
 Среди рожденных и тех, кто должен родиться!
 </details>
+

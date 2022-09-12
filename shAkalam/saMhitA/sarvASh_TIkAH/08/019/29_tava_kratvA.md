@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rātíbhiḥ ← rātí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+saneyam ← √sanⁱ- (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+práśastibhiḥ ← práśasti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+prámatim ← prámati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dā́tave ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+hárṣasva ← √hr̥ṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Durch deine Kraft und deine Gaben möge reich beschenkt ich sein nach deiner Gun
 Ведь это тебя, о Васу, называют моим заступником, о Агни,  
 Находи радость в дарении!
 </details>
+

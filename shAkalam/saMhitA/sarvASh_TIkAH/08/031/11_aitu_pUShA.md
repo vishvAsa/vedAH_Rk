@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sarvadhā́tamaḥ ← sarvadhā́tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svastí ← svastí- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ádhvā ← ádhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+urúḥ ← urú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Komm Puschan, Raji, Bhaga her, zum Heil der Segen spendende, Zum Glücke sei der
 Лучше всех наделяющий счастьем и полнотой (здоровья),  
 Широкий путь к счастью,
 </details>
+

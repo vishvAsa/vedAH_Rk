@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+káyā ← ká- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+r̥táyan ← √r̥tay- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+bhúvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+návedāḥ ← návedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+návyaḥ ← návya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ucáthasya ← ucátha- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+r̥tūnā́m ← r̥tú- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+r̥tupā́ḥ ← r̥tupā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+véda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sanitúḥ ← sanitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Wann wirst du uns durch heil'ges Werk, du heil'ger, ein Zeuge Agni unsres neuen 
 Он знает меня, бог, охраняющий время жертвоприношений,  
 А я не знаю господина этого богатства.
 </details>
+

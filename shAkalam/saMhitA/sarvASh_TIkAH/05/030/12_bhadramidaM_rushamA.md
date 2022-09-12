@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+akran ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ruśámāḥ ← ruśáma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+catvā́ri ← catúr- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dádataḥ ← √dā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+maghā́ni ← maghá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+práyatā ← √yam- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+r̥ṇaṁcayásya ← r̥ṇaṁcayá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+agrabhīṣma ← √gr̥bhⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+nr̥ṇā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nŕ̥tamasya ← nŕ̥tama- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Dies machten schön die Ruçamer, o Agni, dass sie mir schenkten viermal tausend
 Мы приняли врученные щедрые дары  
 Ринамчайи, самого мужественного из мужей.
 </details>
+

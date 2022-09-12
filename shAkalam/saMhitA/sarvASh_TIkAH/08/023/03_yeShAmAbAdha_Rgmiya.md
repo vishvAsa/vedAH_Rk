@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ābādháḥ ← ābādhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥gmíyaḥ ← r̥gmíya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yéṣām ← yá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+iṣáḥ ← íṣ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+nigrábhe ← √gr̥bhⁱ- (root)  
+{case:DAT, number:SG}
+
+pr̥kṣáḥ ← pŕ̥kṣ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+upavídā ← upavíd- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+váhniḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vindate ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +166,4 @@ Sie, deren Andrang grade geht, um zu ergreifen Speis' und Trank; Durch Suchen nu
 Предназначен для захвата жертвенных услад и сил наполнения.  
 В поисках возница находит добро.
 </details>
+

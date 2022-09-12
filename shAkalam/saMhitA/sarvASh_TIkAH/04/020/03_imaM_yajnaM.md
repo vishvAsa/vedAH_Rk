@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+purás ← purás (invariable)  
+{}
+
+saniṣyasi ← √sanⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:FUT, voice:ACT}
+
+dhánānām ← dhána- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+sanáye ← saní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śvaghnī́ ← śvaghnín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ājím ← ājí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jayema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ Dies unser Opfer werth du haltend, Indra, wirst Tüchtigkeit du uns verleihn, o 
 Словно игрок для достижения богатств, о носитель ваджры,  
 С тобою мы хотим выиграть состязание у врага!
 </details>
+

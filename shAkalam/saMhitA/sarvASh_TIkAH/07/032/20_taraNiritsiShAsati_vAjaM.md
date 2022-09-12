@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+siṣāsati ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+taráṇiḥ ← taráṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+púraṁdhyā ← púraṁdhi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yujā́ ← yúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+name ← √nam- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+puruhūtám ← puruhūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+nemím ← nemí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sudrvàm ← sudrú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+táṣṭā ← táṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +196,4 @@ Wer eifrig ist, nur der erlangt mit Ueberfluss verbundnes Gut; Den vielgerufnen 
 Я сгибаю для вас многопризываемого Индру с помощью хвалебной песни,  
 Как плотник – обод (колеса) из хорошего дерева.
 </details>
+

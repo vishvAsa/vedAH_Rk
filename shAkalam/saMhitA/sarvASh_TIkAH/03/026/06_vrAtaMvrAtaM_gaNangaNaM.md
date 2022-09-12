@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+gaṇáṁ-gaṇam ← gaṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suśastíbhiḥ ← suśastí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vrā́taṁ-vrātam ← vrā́ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhā́mam ← bhā́ma- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+anavabhrárādhasaḥ ← anavabhrárādhas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pŕ̥ṣadaśvāsaḥ ← pŕ̥ṣadaśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gántāraḥ ← gántar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +211,4 @@ Und Schar für Schar und Trupp für Trupp verehren wir mit Lobgesang den Feuergl
 Их кони-пестрые (антилопы), (их) даров не отнять,  
 (Они) приходят, мудрые, на жертву на места жертвенных раздач.
 </details>
+

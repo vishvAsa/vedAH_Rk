@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhenóḥ ← dhenú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mamire ← √mā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+nā́mabhiḥ ← nā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sákmyam ← sákmya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+anyád-anyat ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asuryàm ← asuryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vásānāḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+asmin ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+mamire ← √mā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+māyínaḥ ← māyín- (nominal stem)  
+{case:NOM, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+rūpám ← rūpá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Sie [die Aditja's] bildeten da nun dieses samenreichen Stieres [Agni] Eigenart d
 Примеряя то одно, то другое качество Асуры,  
 (Эти) кудесники, меряя, придали ему облик.
 </details>
+

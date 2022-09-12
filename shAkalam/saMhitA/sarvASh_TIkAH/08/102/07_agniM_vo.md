@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vr̥dhántam ← √vr̥dh- (root)  
+{case:ACC, gender:M, number:SG, tense:AOR, voice:ACT}
+
+adhvarā́ṇām ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+purūtámam ← purūtáma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+náptre ← nápat- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sáhasvate ← sáhasvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +144,4 @@ Den Agni, der am häufigsten die Opfer fördert, ruf' ich euch, Heil ihm, dem st
 Больше всех (участвующего) в обрядах (я призываю),  
 (Обращаясь) к наделенному силой отпрыску (силы).
 </details>
+

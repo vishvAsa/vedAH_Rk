@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+bhū́t ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+énīm ← éta- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kr̥ṣṇā́m ← kr̥ṣṇá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+várpasā ← várpas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jā́m ← jā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+janáyan ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yóṣām ← yóṣā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bhānúm ← bhānú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stabhāyán ← √stambhⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ūrdhvám ← ūrdhvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aratíḥ ← aratí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhāti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vásubhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Wenn er durch Glanz besiegt die schwarze Hirschkuh, des hohen Vaters holde Tocht
 Укрепляя направленный вверх луч Сурьи,  
 Блистает посланник неба вместе с Васу.
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ádrayaḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+átr̥dilāsaḥ ← átr̥dila- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tr̥dilā́ḥ ← tr̥dilá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ámr̥tyavaḥ ← ámr̥tyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aśramaṇā́ḥ ← aśramaṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśr̥thitāḥ ← áśr̥thita- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ajárāḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ámaviṣṇavaḥ ← ámaviṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anāturā́ḥ ← anāturá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+stha ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+átr̥ṣitāḥ ← átr̥ṣita- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+átr̥ṣṇajaḥ ← átr̥ṣṇaj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+supīvásaḥ ← supīvás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +165,4 @@ Durchlöchert, doch nicht löchrig seid, o Steine ihr, unsterblich, nie zerfalle
 
 -ru-
 </details>
+

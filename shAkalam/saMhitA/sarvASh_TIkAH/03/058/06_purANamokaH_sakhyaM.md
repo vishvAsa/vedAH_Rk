@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M  
 genre M
+#### Morph
+ókaḥ ← ókas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+purāṇám ← purāṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śivám ← śivá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jahnā́vyām ← jahnā́vī- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+kr̥ṇvānā́ḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+púnar ← púnar (invariable)  
+{}
+
+sakhyā́ ← sakhyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śivā́ni ← śivá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+madema ← √mad- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+mádhvā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+sahá ← sahá (invariable)  
+{}
+
+samānā́ḥ ← samāná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Alt ist die Gunst und heilvoll eure Freundschaft, und, Männer, eur Geschenk bei
 Возобновляя добрые дружеские отношения,  
 Мы хотим сейчас опьяниться медом вместе, сообща!
 </details>
+

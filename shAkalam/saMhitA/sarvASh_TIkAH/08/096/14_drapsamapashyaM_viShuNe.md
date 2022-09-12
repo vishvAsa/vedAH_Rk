@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+cárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+drapsám ← drapsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víṣuṇe ← víṣuṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+aṁśumátyāḥ ← aṁśumánt- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+upahvaré ← upahvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+avatasthivā́ṁsam ← √sthā- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+kr̥ṣṇám ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nábhaḥ ← nábhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ājaú ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+íṣyāmi ← √iṣ- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vr̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yúdhyata ← √yudh- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +200,7 @@ Pāda b collects several words that have been prominent in the characterization 
 Note that though cd forms a single clause with two different subjects (“all the worlds” and “heaven and earth”), the dual verb rejete agrees with the nearer one, the decomposed dual dvandva dyā́vā … pṛthivī́ca.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/14-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/14-15.md">
 <details open><summary><h2>14-15 ...{Loading}...</h2></summary>
 
 Both Lüders (Var. 20, 506) and Schlerath (Kö. 139) consider this sequence to be a satyakriya. I can see the point, but if it is a truth-formulation, it is a muted one. The concept is clearest in 15a “Let this truth be protective of me,” esp. since this is the last verse of the hymn. The truth-formulation itself could be either the preceding verse (so Lüders) or the whole hymn (Schlerath allows both possibilities). In the absence of the standard instrumental ṛtéṇa (later satyena) that signals a satyakriya I am reluctant to label it as such, though certainly it is akin.
@@ -160,7 +209,7 @@ Schlerath also point out that the last word of the hymn is rājan.
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 As indicated in the introduction, the identity of the ‘droplet’ (drapsá-) and the purport of this tṛca are quite unclear. Geldner takes both drapsá- and kṛṣṇá- (‘black’) as PNs and the tṛca as their “saga.” Since such a saga is otherwise unknown and both words have lexical meaning, such an approach does not seem to gain us much. 
@@ -196,3 +245,4 @@ Ich sah den Tropfen wandern in der Ferne im Niedergang des somareichen Stromes; 
 
 -ru-
 </details>
+

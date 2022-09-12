@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aṅgá ← aṅgá (invariable)  
+{}
+
+bharatā́ḥ ← bharatá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saṁtáreyuḥ ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gavyán ← √gavy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+grā́maḥ ← grā́ma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrajūtaḥ ← índrajūta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iṣitáḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+áha ← áha (invariable)  
+{}
+
+árṣāt ← √arṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+prasaváḥ ← prasavá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárgataktaḥ ← sárgatakta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vr̥ṇe ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+yajñíyānām ← yajñíya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Wenn nun das Heer der Bharater voll Kampflust beeilt von Indra schnell dich hat 
 Пусть (снова) ринется (твое) течение, устремленное в (едином) порыве!  
 Я хочу милости от вас, достойных жертв.
 </details>
+

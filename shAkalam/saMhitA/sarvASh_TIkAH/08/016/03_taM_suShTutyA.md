@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+suṣṭutyā́ ← suṣṭutí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vivāse ← √vanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+bháre ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jyeṣṭharā́jam ← jyeṣṭharā́j- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥tnúm ← kr̥tnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maháḥ ← mahás- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+saníbhyaḥ ← saní- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ Ihn gewinne ich durch Loblied, der als Feldherr wirkt im Kampfe, Reich an grosse
 Высшего царя, искусного в битве,  
 Приносящего много добычи для наград.
 </details>
+

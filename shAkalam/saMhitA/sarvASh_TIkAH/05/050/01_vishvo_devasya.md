@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+netúḥ ← netár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víśvaḥ ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vurīta ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED}
+
+iṣudhyati ← √iṣudhy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+víśvaḥ ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyumnám ← dyumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+puṣyáse ← √puṣ- (root)  
+{case:DAT, number:SG}
+
+vr̥ṇīta ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +177,4 @@ Freundschaft des Gottes Najitar begehre jeder Sterbliche, Ein jeder zielt nach r
 Каждый нацеливается на богатство:  
 Пусть он выберет себе блеск для процветания!
 </details>
+

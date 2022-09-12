@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dvibárhāḥ ← dvibárhas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sā́ma ← sā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tigmábhr̥ṣṭiḥ ← tigmábhr̥ṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásraretāḥ ← sahásraretas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+túviṣmān ← túviṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápagūḷham ← √guh- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vividvā́n ← √vid- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vocat ← √vac- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,3 +253,4 @@ Der zwiefach starke, scharfgezackte Agni, ] der mächtg'e Stier, der tausendsam'
 Знающий тайное (слово,) подобно следу коровы,  
 Агни открыл мне могучий напев (и) поэтическое вдохновение.
 </details>
+

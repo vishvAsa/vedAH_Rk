@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+viśantu ← √viś- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ricyate ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +159,4 @@ Es mögen in dich dringen ein die Indu's, wie die Ström' ins Meer, Nichts über
 
 -ru-
 </details>
+

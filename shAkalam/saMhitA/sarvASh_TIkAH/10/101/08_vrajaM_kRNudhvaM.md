@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+hí ← hí (invariable)  
+{}
+
+kr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+nr̥pā́ṇaḥ ← nr̥pā́ṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bahulā́ ← bahulá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pr̥thū́ni ← pr̥thú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sīvyadhvam ← √sīv- ~ syū- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+várma ← várman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ádhr̥ṣṭāḥ ← ádhr̥ṣṭa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ā́yasīḥ ← āyasá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+camasáḥ ← camasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dŕ̥ṁhata ← √dr̥h- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+susrot ← √sru- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +240,4 @@ Den Kuhstall rüstet, der den Männern Trunk gibt, und flechtet eure dichten, br
 Сделайте железные крепости неприступными!  
 Да не протечет ваш кубок – сделайте его крепким!
 </details>
+

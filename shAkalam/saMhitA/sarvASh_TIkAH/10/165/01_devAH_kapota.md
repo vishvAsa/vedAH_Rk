@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dévāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ichán ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+iṣitáḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+kapótaḥ ← kapóta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ājagā́ma ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nírr̥tyāḥ ← nírr̥ti- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+arcāma ← √r̥c- (root)  
+{number:PL, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+kr̥ṇávāma ← √kr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+níṣkr̥tim ← níṣkr̥ti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+cátuṣpade ← cátuṣpad- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dvipáde ← dvipád- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+śám ← śám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Ihr Götter, in welcher Absicht die Taube als Bote der Todesgöttin ausgesandt h
 Ему мы пропоем (заклинание), совершив искупление.  
 Да будет счастье нашим двуногим, счастье четвероногим!
 </details>
+

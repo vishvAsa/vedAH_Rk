@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hántā ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+br̥hatī́ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+manīṣā́ ← manīṣā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tavásā ← tavás- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+urukramā́ ← urukramá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vardháyantī ← √vr̥dh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+raré ← √rā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+viṣṇo ← víṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pínvatam ← √pinv- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vr̥jáneṣu ← vr̥jána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +208,4 @@ Dies hohe Lied, euch beide hohen stärkend, die mächtigen, die weit die Schritt
 Я посвятил вам двоим восхваление на жертвенных раздачах, о Вишну.  
 Вы двое сделайте набухшими жертвенные услады в общинах, о Индра!
 </details>
+

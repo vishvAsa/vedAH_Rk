@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+káṇve ← káṇva- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+trasádasyavi ← trasádasyu- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+dáśavraje ← dáśavraja- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pakthé ← pakthá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ásanoḥ ← √sanⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+góśarye ← góśarya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+r̥jíśvani ← r̥jíśvan- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+gómat ← gómant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+híraṇyavat ← híraṇyavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +168,4 @@ Wie, mächtiger, dem Kanva, Trasadasju du, dem Paktha und Daçavradscha, Wie, In
 Как Гошарье, Риджишвану ты добыл,  
 О Индра, богатство из коров, богатство из золота.
 </details>
+

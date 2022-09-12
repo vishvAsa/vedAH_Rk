@@ -15,14 +15,45 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+ihá ← ihá (invariable)  
+{}
+
+sadhamā́dyā ← sadhamā́dya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+tyā́ ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yujānáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+hárī ← hári- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pratádvasū ← pratádvasu- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+abhí ← abhí (invariable)  
+{}
+
+svara ← √svar- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +160,4 @@ Hier diese Festgenossen dir anschirrend zu dem Somatrunk, Das güterreiche Füch
 Тех сотрапезников, пару буланых коней,  
 (Везущих) вперед это добро, включайся в пение, о Индра!
 </details>
+

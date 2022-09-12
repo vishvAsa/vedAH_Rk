@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aganma ← √gam- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+agavyūtí ← agavyūtí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+kṣétram ← kṣétra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+abhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+aṁhūraṇā́ ← aṁhūraṇá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhū́miḥ ← bhū́mi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+satī́ ← √as- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+urvī́ ← urú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cikitsa ← √cit- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
+gáviṣṭau ← gáviṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+jaritré ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saté ← √as- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Wir kamen zu einem weidelosen Lande, o Götter; die Erde, die doch weit ist, war
 О Брихаспати, укажи путь к поискам коров  
 Певцу, действительно, находящемуся (в таком положении)!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+daśasyán ← √daśasy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+náryebhiḥ ← nárya- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dasmáḥ ← dasmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+māyī́ ← māyín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+avedi ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kanī́naḥ ← kanī́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tupā́ḥ ← r̥tupā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ámimīta ← √mī- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+arárum ← aráru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cátuṣpāt ← cátuṣpad- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Er hat sich hülfreich gezeigt mit seinen Manneskräften, wunderthätig mit den 
 Он известен как юноша, пьющий в определенное время.  
 Он прикинулся (?) Арару, который четвероногий.
 </details>
+

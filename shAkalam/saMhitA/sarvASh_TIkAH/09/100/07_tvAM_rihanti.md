@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+mātáraḥ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+rihanti ← √rih- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+adrúhaḥ ← adrúh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hárim ← hári- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pávamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+vídharmaṇi ← vídharman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +148,7 @@ This vs. replicates most of vs. 1 in a different order. I will cite here only th
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/100/06-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/100/06-09.md">
 <details open><summary><h2>06-09 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these vss., constituting a separate hymn, echo and vary the 1st hymn, vss. 1-5.
@@ -143,3 +180,4 @@ Die holden Mütter küssen dich, das goldne Ross, im Läutrungsnetz, Wie Kühe d
 Словно дойные коровы новорожденного теленка,  
 О Павамана, когда ты распространяешься.
 </details>
+

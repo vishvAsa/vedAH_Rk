@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+namovŕ̥dham ← namovŕ̥dh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+háribhiḥ ← hári- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tū́yam ← tū́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+jóhavīmi ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ghr̥táprayāḥ ← ghr̥táprayas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádhūnām ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+sadhamā́de ← sadhamā́da- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Komm Indra schnell vereint mit deinen Füchsen, zu unserm Opfer, das Verehrung f
 Ведь я громко зову тебя молитвами  
 С жертвенной усладой из жира на совместное опьянение медовыми струями!
 </details>
+

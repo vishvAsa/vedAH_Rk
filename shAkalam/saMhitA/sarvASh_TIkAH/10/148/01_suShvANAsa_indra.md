@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stumási ← √stu- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+suṣvāṇā́saḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+sasavā́ṁsaḥ ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+tuvinr̥mṇa ← tuvinr̥mṇá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+cākán ← √kanⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suvitám ← suvitá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+sanuyāma ← √sanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+tánā ← tán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tvótāḥ ← tvóta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Wir preisen dich, o Indra, kräftereicher! nachdem gekeltert wir und Gut erbeute
 Принеси нам удачу, которой ты порадуешься!  
 Сами мы хотим постоянно захватывать с твоей помощью.
 </details>
+

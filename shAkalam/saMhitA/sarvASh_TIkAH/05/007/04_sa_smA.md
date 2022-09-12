@@ -16,14 +16,66 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇoti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+dūré ← dūrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+saté ← √as- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pāvakáḥ ← pāvaká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vánaspátīn ← vánaspáti- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ajáraḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+minā́ti ← √mī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sma ← sma (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Er schaffet Licht auch in der Nacht für den auch, der noch ferne ist, Wenn flam
 Когда чистый уничтожает  
 Деревья, (он) нестареющий.
 </details>
+

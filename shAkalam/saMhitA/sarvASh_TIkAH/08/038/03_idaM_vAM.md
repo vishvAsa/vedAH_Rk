@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+madirám ← madirá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ádhukṣan ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bodhatam ← √budh- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,7 +139,7 @@ Pāda a can of course be in the acc. (not nom. as I take it) and form a single s
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/038/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/038/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The referent of tásya in the refrain pāda is not specified. It must fall into the cultic sphere, but could be ‘sacrifice’ or ‘hymn’ or, perhaps best, since it’s explicit in a nearby hymn by the same poet, ‘call’: VIII.35.4 bódhataṃ hávasya me.
@@ -139,3 +170,4 @@ Die Männer melkten diesen Meth, der euch berauscht, mit Steinen aus, O Indra-Ag
 Мужи выдоили камнями.  
 О Индра-Агни, помните об этом!
 </details>
+

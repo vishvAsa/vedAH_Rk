@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mímātu ← √mā- 2 ~ mī- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vītáye ← vītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+dā́nucitrāḥ ← dā́nucitra- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yatantām ← √yat- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+acucyavuḥ ← √cyu- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+divyám ← divyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+kóśam ← kóśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥ṇānā́ḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥ṣe ← ŕ̥ṣi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rudrásya ← rudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Der weite Himmel spende uns zum Mahle, die Morgenröthen ziehen thauerglänzend;
 Выплеснули небесную бадью эти  
 Маруты, (сыновья) Рудры, о риши, воспетые (нами).
 </details>
+

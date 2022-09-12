@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhánuḥ ← dhánur ~ dhánvan- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+súkr̥tam ← súkr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sūmáyam ← sūmáya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tuvikṣám ← tuvikṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bundáḥ ← bundá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hiraṇyáyaḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sādhúḥ ← sādhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bāhū́ ← bāhú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ráṇyā ← ráṇya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+súsaṁskr̥tā ← súsaṁskr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+r̥dūpé ← r̥dūpā́- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+r̥dūvŕ̥dhā ← r̥dūvŕ̥dh- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +192,7 @@ Although Mayrhofer explicitly rejects this suggestion (KEWA, s.v. sūkará-; EWA
 
 My interpretation of pāda d essentially follows Scarlatta (301, 516); see also EWA, s.v. ARD.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/10-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 On these verses as possible explanatory additions to the Emuṣa version given earlier in the hymn, see published introduction.
@@ -175,3 +224,4 @@ Gut ist dein Bogen, viele tilgend, schönbereitet, gut treffend ist dein goldner
 Обе руки твои доставляют радость, хорошо украшены,  
 Они увеличивают ранимые места даже у того, кто их защищает(?)
 </details>
+

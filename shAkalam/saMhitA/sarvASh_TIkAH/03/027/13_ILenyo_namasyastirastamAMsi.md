@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+īḷényaḥ ← īḷénya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+namasyàḥ ← namasyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+darśatáḥ ← darśatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+támāṁsi ← támas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tirás ← tirás (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+idhyate ← √idh- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+sám ← sám (invariable)  
+{}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ Der preisenswerth, verehrungswerth, hin durch das Dunkel sichtbar ist, Agni, der
 Видимый сквозь мрак  
 Воспламеняется Агни-бык.
 </details>
+

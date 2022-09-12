@@ -16,14 +16,72 @@ ChandaH = "मध्येज्योतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+viśvápsum ← viśvápsu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvávāryam ← viśvávārya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iṣā́ ← íṣ- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+máṁhiṣṭhā ← máṁhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+purubhū́tamā ← purubhū́tama- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+krívim ← krívi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+vāvr̥dhúḥ ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +237,4 @@ Mit Hülfen kommt, o Helden, dann auf meinen Ruf, der allgestaltig, herrlich ist
 С жертвенной усладой как самые щедрые, лучше всех возникающие во многих местах, о два мужа!  
 Какими поддержками вы усилили Криви, с ними (и) приезжайте!
 </details>
+

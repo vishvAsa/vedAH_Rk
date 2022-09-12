@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cáranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+parás ← parás (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+brāhmaṇā́saḥ ← brāhmaṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sutékarāsaḥ ← sutékara- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhipádya ← √pad- (root)  
+{non-finite:CVB}
+
+eté ← eṣá (pronoun)  
+{}
+
+pāpáyā ← pāpá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áprajajñayaḥ ← áprajajñi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sirī́ḥ ← sirī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tántram ← tántra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tanvate ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Die, welche nicht vorwärts, nicht rückwärts schreiten [beim Opfer nicht thät
 Те, плохо владея Речью,  
 Ткут по утку (негодную) тряпку, не сознавая (этого).
 </details>
+

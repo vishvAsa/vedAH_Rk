@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+paruṣā́ḥ ← paruṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+uddharṣáyanti ← √hr̥ṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ukṣáṇaḥ ← ukṣán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśvamedhasya ← áśvamedha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dā́nāḥ ← dā́na- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tryā̀śiraḥ ← tryā̀śir- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +168,4 @@ Dessen hundert buntscheckige Ochsen mich sehr erfreuen, des A^vamedha Gaben sind
 Возбуждают меня,  
 Словно трижды смешанные соки сомы...
 </details>
+

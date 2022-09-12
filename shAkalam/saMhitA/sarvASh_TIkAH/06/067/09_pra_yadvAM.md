@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+spūrdhán ← √spūrdh- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+minánti ← √mī- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+priyā́ ← priyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yuvádhitā ← yuvádhita- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mártāḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+óhasā ← óhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ápyaḥ ← ápya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áyajñasācaḥ ← áyajñasac- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+putrā́ḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +209,7 @@ reasonably well-attested ‘watery’ stem ápi ya- and the accent retracted. As
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/067/09-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/067/09-11.md">
 <details open><summary><h2>09-11 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these vss. seem to concern themselves with rival sacrificers.
@@ -183,3 +241,4 @@ Wenn wider euch, Varuna-Mitra, streiten und eure lieben Satzungen verletzen Die 
 (Те,) кто не боги по уважению (и) не смертные,  
 Не придерживаются жертвоприношений, словно сыновья водяной нимфы,
 </details>
+

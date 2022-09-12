@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+mándamānaḥ ← √mand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+prajā́yai ← prajā́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+r̥tā́t ← r̥tá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iṣirébhiḥ ← iṣirá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sákhibhiḥ ← sákhi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ābhiḥ ← ayám (pronoun)  
+{case:INS, gender:F, number:PL}
+
+ágāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dásyum ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+māyā́ḥ ← māyā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+avapat ← √vap- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+míhaḥ ← míh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+támāṁsi ← támas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tamrā́ḥ ← tamrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +229,4 @@ Erfreut durch das Opfer [förderte] Indra mit den muntern Genossen den Menschen 
 Ведь с помощью этих (волшебных сил) он выступил против колдовских чар, против дасью:  
 Он распространил густой туман (и) мрак.
 </details>
+

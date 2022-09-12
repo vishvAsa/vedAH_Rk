@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+icha ← √iṣ- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jīvā́tum ← jīvā́tu- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+mr̥ḷá ← √mr̥ḍ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+áyasaḥ ← áyas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+codáya ← √cud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhā́rām ← dhā́rā- 2 (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+idám ← ayám (pronoun)  
+{case:ACC, gender:N, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tvāyúḥ ← tvāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vádāmi ← √vadⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+devávantam ← devávant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+kr̥dhí ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +250,4 @@ Sei hold, o Indra, wahre mir das Leben, die Andacht schärfe, wie des Schwertes 
 Когда я, преданный тебе, что-нибудь здесь говорю,  
 Наслаждайся этим! Сделай меня любимцем богов!
 </details>
+

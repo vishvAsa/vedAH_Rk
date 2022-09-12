@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ákṣitam ← ákṣita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bábhro ← babhrú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+duduhré ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ádhi ← ádhi (invariable)  
+{}
+
+sā́navi ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+várṣiṣṭhe ← várṣiṣṭha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Die Kühe strömen fette Milch, die nie versiegt, o rother, dir, Hin auf der Sei
 О бурый, растопленное масло, нетленное молоко  
 На самой высокой вершине.
 </details>
+

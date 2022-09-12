@@ -15,13 +15,59 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+gha ← gha (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+íyat ← íyant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+maghám ← maghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+dadíḥ ← dadí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+subhágā ← subhága- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+citra ← citrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vā ← vā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +189,4 @@ Nur Indra gibt so viel Geschenk oder die reiche Sarasvati so viel Gut, wie du, o
 Или Сарасвати, несущая счастье, дает благо,  
 Или ты, Читра, – жертвователю.
 </details>
+

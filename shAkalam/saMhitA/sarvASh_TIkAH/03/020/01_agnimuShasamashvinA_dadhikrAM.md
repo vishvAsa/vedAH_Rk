@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+dadhikrā́m ← dadhikrā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+havate ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+váhniḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vyùṣṭiṣu ← vyùṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śr̥ṇvantu ← √śru- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sujyótiṣaḥ ← sujyótis- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sajóṣasaḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vāvaśānā́ḥ ← √vaś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +203,4 @@ Den Agni ruft mit Spruch der Priester morgens, das Morgenroth, die Ritter, den D
 Пусть услышат нас боги, прекрасно светящиеся,  
 Единодушно стремящиеся на обряд!
 </details>
+

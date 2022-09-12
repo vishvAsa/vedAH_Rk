@@ -15,13 +15,56 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+nū́tnāḥ ← nū́tna- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+abhūma ← √bhū- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nahí ← nahí (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+párīṇasaḥ ← párīṇas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+purā́ ← purā́ (invariable)  
+{}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +180,4 @@ Denn nicht erst jetzt, o Schleuderer, sind wir als neue, Indra, deiner Huld gena
 Оказались в зависимости от твоей поддержки – ведь мы не знали раньше  
 Твоего полного величия, о хозяин давильных камней!
 </details>
+

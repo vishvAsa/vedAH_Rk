@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śr̥ṇótu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ūrjā́m ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+iṣiráḥ ← iṣirá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nábhaḥ ← nábhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+párijmā ← párijman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tárīyān ← tárīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+púraḥ ← púr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śr̥ṇvántu ← √śru- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+śubhrā́ḥ ← śubhrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ádreḥ ← ádri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+babr̥hāṇásya ← √br̥h- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+srúcaḥ ← srúc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Der Kräfte Herr, der das Gewölk durchfähret, der rege Wandler höre unsre Lie
 Да услышат нас воды, подобные сверкающим крепостям,  
 Жертвенные ложки (для сомы, текущего) кругом из-под мощного камня для выжимания!
 </details>
+

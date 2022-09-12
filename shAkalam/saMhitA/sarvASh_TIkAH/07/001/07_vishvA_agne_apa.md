@@ -15,13 +15,53 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+árātīḥ ← árāti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+daha ← √dah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ádahaḥ ← √dah- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+járūtham ← járūtha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tápobhiḥ ← tápas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+ámīvām ← ámīvā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+cātayasva ← √cat- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+nisvarám ← nisvará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +175,4 @@ O brenne weg uns, Agni, alle Frevler durch Glut, mit der du den Dscharutha brann
 (Тем) жаром, которым ты сжег Джарутху!  
 Сделай, чтоб беззвучно исчезла болезнь!
 </details>
+

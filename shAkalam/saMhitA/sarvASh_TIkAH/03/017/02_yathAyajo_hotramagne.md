@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áyajaḥ ← √yaj- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+hotrám ← hotrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+cikitvā́n ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+anéna ← ayám (pronoun)  
+{case:INS, gender:N, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+evá ← evá (invariable)  
+{}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yakṣi ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+adyá ← adyá (invariable)  
+{}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+manuṣvát ← manuṣvát (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+tira ← √tr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ Wie, Agni, du der Erde Guss geopfert, und wie des Himmels, weiser Wesenkenner, S
 Так (сейчас) пожертвуй богам это возлияние!  
 Как для Мануса, сегодня продвинь эту жертву!
 </details>
+

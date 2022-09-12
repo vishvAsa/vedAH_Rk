@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́hutim ← ā́huti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jóṣi ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+jóṣi ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+samídham ← samídh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+jányam ← jánya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jóṣi ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+jóṣi ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:ACC, number:PL}
+
+r̥túnā ← r̥tú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+víśvebhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pāyaya ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+uśán ← √vaś- (root)  
+{tense:PRS, voice:ACT}
+
+uśatáḥ ← √vaś- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ Nimm an das Brennholz, Agni, und den Opferguss nimm an die Andacht, nimm das sch
 Со всеми (богами) всех богов в (свое) время, о Васу,  
 Желающий – желающих, мощно напои жертвенным возлиянием!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dātrā́ ← dātrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+pū́rvā ← pū́rva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+nitośé ← √tuś- (root)  
+{number:SG, person:3}
+
+pūrúbhyaḥ ← pūrú- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+trasádasyuḥ ← trasádasyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+dadathuḥ ← √dā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+kṣetrāsā́m ← kṣetrāsā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+urvarāsā́m ← urvarāsā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhíbhūtim ← abhíbhūti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dásyubhyaḥ ← dásyu- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ghanám ← ghaná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +231,4 @@ Ihr beide gabt ja einst die alten Gaben, die Trasadasju dann verlieh den Mensche
 Вы даровали завоевателя земель, завоевателя полей,  
 Молот для дасью, грозного покорителя.
 </details>
+

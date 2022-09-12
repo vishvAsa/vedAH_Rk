@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+māmahé ← √maṁh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+r̥jrā́ ← r̥jrá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hiraṇyáyā ← hiraṇyáya- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+tvacā́ ← tvác- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+saúbhagā ← saúbhaga- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+āsaṅgásya ← āsaṅgá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+svanádrathaḥ ← svanádratha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +182,4 @@ Der mir zwei braune Rosse nebst goldner Decke schenkte, Asanga's Sohn Svanadrath
 Тот пусть завладеет всеми благами, приносящми счастье:  
 Сванадратха, (сын) Асанги!
 </details>
+

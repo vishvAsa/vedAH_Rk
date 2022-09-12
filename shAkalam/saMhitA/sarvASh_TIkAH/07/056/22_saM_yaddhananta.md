@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hánanta ← √han- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+jánāsaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+manyúbhiḥ ← manyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+óṣadhīṣu ← óṣadhī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+śū́rāḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yahvī́ṣu ← yahvī́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ádha ← ádha (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rudriyāsaḥ ← rudríya- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sma ← sma (invariable)  
+{}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhūta ← √bhū- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+trātā́raḥ ← trātár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Wenn zornerfüllt die Menschen sich bekämpfen um Strombesitz, um Wiesen und um 
 Тогда будьте нам, о Маруты, сыновья Рудры,  
 Спасителями в битвах с врагом!
 </details>
+

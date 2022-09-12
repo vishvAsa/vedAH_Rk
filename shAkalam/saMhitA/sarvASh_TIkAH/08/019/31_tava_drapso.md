@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+drapsáḥ ← drapsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nī́lavān ← nī́lavant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tvíyaḥ ← r̥tvíya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vāśáḥ ← vāśá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dade ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+índhānaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+siṣṇo ← siṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mahīnā́m ← máh- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+uṣásām ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+kṣapáḥ ← kṣáp- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+rājasi ← √rāj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vástuṣu ← vástu- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +216,4 @@ Dein dunkles Banner, das zur Zeit entzündet rauscht, o Spender, ist dir angeleg
 Ты любимец великих утренних зорь.  
 Ты царствуешь в просветах ночи.
 </details>
+

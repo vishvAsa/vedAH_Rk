@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ihá ← ihá (invariable)  
+{}
+
+purubhū́tamā ← purubhū́tama- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+tyā́ ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+devā́ ← devá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+arvācīnā́ ← arvācīná- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+karāmahe ← √kr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+sú ← sú (invariable)  
+{}
+
+dāśúṣaḥ ← dāśváṁs- (nominal stem)  
+{case:GEN, number:SG}
+
+gántārā ← gántar- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+gr̥hám ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +180,4 @@ Hier diese oft erscheinenden, die Rittergötter wollen wir Zur Hülfe uns recht 
 Мы хотим хорошенько привлечь сюда для помощи,  
 (Их,) навещающих дом почитателя.
 </details>
+

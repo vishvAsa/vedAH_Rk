@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agūhan ← √guh- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+amŕ̥tām ← amŕ̥ta- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+mártyebhyaḥ ← mártya- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+adaduḥ ← √dā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+kr̥tvī́ ← √kr̥- (root)  
+{}
+
+sávarṇām ← sávarṇa- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vívasvate ← vívasvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+abharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ā́sīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+aśvínau ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ájahāt ← √hā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dvā́ ← dvá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+mithunā́ ← mithuná- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+saraṇyū́ḥ ← saraṇyú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Sie verbargen die Unsterbliche vor den Sterblichen, machten eine Gleichaussehend
 А также она носила двоих Ашвинов, когда это случилось.  
 И Саранью покинула двоих, образующих пару.
 </details>
+

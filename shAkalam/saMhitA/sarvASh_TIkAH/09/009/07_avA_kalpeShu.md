@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+áva ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kálpeṣu ← kálpa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pumaḥ ← púmaṁs- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+támāṁsi ← támas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yódhyā ← yódhya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jaṅghanaḥ ← √han- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+punāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Hilf bei den Werken, Soma, uns, o Held, bekämpf' die Finsterniss, O lichter, sc
 Силы мрака, которые надо побороть, о сома,  
 Разбей их, о очищающийся!
 </details>
+

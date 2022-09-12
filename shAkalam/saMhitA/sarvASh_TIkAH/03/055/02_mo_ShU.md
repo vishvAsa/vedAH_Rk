@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+átra ← átra (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+juhuranta ← √hr̥̄- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+padajñā́ḥ ← padajñā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+antár ← antár (invariable)  
+{}
+
+ketúḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purāṇyóḥ ← purāṇá- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+sádmanoḥ ← sádman- (nominal stem)  
+{case:LOC, gender:N, number:DU}
+
+asuratvám ← asuratvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +248,4 @@ Nicht, Agni, mögen jetzt uns Götter täuschen, noch auch die alten wegekund'ge
 Между двумя сиденьями обеих древних (половин вселенной) - (твой) факел.  
 Велико могущество богов, единственно.
 </details>
+

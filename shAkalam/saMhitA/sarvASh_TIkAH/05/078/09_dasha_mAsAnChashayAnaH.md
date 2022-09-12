@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+dáśa ← dáśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+mā́sān ← mā́sa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śaśayānáḥ ← √śī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ádhi ← ádhi (invariable)  
+{}
+
+kumāráḥ ← kumārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mātári ← mātár- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ákṣataḥ ← ákṣata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jīváḥ ← jīvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+niraítu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ádhi ← ádhi (invariable)  
+{}
+
+jīváḥ ← jīvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jī́vantyāḥ ← √jīv- (root)  
+{case:ABL, gender:F, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ Zehn Monde lag die junge Frucht im Mutterleibe hingestreckt; sie gehe unverletzt
 Выйдет живой (и) невредимый,  
 Живой из живущей!
 </details>
+

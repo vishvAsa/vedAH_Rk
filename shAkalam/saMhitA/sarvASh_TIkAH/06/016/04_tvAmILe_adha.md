@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+īḷe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+bharatáḥ ← bharatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śunám ← śuná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vājíbhiḥ ← vājín- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ījé ← √yaj- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+yajñéṣu ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yajñíyam ← yajñíya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,7 +137,7 @@ The ritualistic verbs īḷe ‘reverently invoke’ (a) and ījé ‘sacrifice�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, each vs. in this tṛca begins with a form of the 2nd sg. prn., although all three are slightly different: the acc. sg. t(u)vā́ m in 4a shows distraction; both 5a and 6a contain the nom. sg., but the 1st is undistracted, the 2nd distracted.
@@ -137,3 +168,4 @@ Dich pries zum Heil einst Bharata und mit den reichen opferte Bei Opfern er, dem
 Бхарата на удачу со (своими) победителями.  
 Он жертвовал жертвы достойному жертв.
 </details>
+

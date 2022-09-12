@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadr̥vā́ṁsaḥ ← √dr̥- ~ dr̥̄- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+marmr̥jata ← √mr̥j- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+abhítas ← abhítas (invariable)  
+{}
+
+anyé ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vocan ← √vac- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+arcan ← √r̥c- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+kārám ← kārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+paśváyantrāsaḥ ← paśváyantra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cakr̥pánta ← √kr̥p- (root)  
+{number:PL, person:3, mood:INJ, tense:PRF, voice:MED}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidánta ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +214,7 @@ In terms of the structure of the vs., I now think the odd pādas (a, c) refer to
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details open><summary><h2>10-18 ...{Loading}...</h2></summary>
 
 Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
@@ -196,3 +251,4 @@ Sie schmückten sich, als sie gesprengt den Felsen; dies Werk der Väter priesen
 Когда (их) скот избавился от пут, они запели победную песню:  
 Они нашли свет, сбылись их поэтические мысли.
 </details>
+

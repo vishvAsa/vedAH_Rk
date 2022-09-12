@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+dhúniḥ ← dhúni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhúnimatīḥ ← dhúnimant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+r̥ṇóḥ ← √r̥- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+sīrā́ḥ ← sīrā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+srávantīḥ ← √sru- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+párṣi ← √pr̥- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+pāráya ← √pr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+turváśam ← turváśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yádum ← yádu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Die brausenden Gewässer liessest rauschend du, Indra, rinnen, die wie Ströme f
 Если ты пересекаешь океан, о герой,  
 Переправь благополучно Турвашу и Яду!
 </details>
+

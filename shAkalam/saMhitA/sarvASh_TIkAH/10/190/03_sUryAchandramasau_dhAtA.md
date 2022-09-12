@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+dhātā́ ← dhātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sūryācandramásau ← sūryācandramás- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+akalpayat ← √kl̥p- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+yathāpūrvám ← yathāpūrvám (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dívam ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +159,4 @@ Durch dreissig Stätten strahlet er, und Sang begrüsst den Fliegenden Am frühe
 И небо, и землю,  
 И воздушное пространство, затем свет.
 </details>
+

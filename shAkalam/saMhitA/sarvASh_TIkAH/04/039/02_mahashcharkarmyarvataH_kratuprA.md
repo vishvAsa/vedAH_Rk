@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árvataḥ ← árvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+carkarmi ← √kr̥̄- 2 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+kratuprā́ḥ ← kratuprā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+dadhikrā́vṇaḥ ← dadhikrā́van- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+puruvā́rasya ← puruvā́ra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dīdivā́ṁsam ← √dī- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pūrúbhyaḥ ← pūrú- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+dadáthuḥ ← √dā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+táturim ← táturi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +214,4 @@ Begeistert rühm' ich ihn, den grossen Renner, den gabenreichen Stier, den Dadhi
 Сверкающего, как Агни, (жеребца,) которого Митра-Варуна  
 Даровали людям пуру, (его,) преодолевающего препятствия.
 </details>
+

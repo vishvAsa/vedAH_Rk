@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dīdhye ← √dhī- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+taváse ← tavás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+átavyān ← átavyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+taváse ← tavás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vā́jasātau ← vā́jasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cikéta ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+jáne ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+samaryàḥ ← samaryà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stutáḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Dem grossen, starken Indra leg' ans Herz ich die Männer recht, dem starken ich,
 (Для того,) кто, восхваленный среди народа, окруженный состязающимися (певцами),  
 Проявил милость к этому (певцу) при получении награды.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+amináḥ ← aminá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dvibárhāḥ ← dvibárhas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yātu ← √yā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ándhaḥ ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+háribhyām ← hári- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+páriṣiktam ← √sic- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gávi ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+prábhr̥tasya ← √bhr̥- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aruśahā́ ← aruśahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+khédām ← khédā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+vr̥ṣasva ← √vr̥ṣ- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ Der zwiefach starke Indra dringe kräftig zum rings ergossnen Saft mit seinen F�
 Из поднесенного меду, выжатого на коровьей шкуре,  
 Сразу наливай себе тяжелый груз (?) как убийца черных!
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+puruṣṭuta ← puruṣṭutá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tośase ← √tuś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́yaḥ ← bhū́yaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índrāt ← índra- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+invati ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+káraṇam ← káraṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +168,4 @@ Du legst allein, gepriesener, die Feinde allesammt zur Ruh; Kein andrer fördert
 Один успокаиваешь врагов.  
 Никто другой не продвигает дела больше, чем Индра.
 </details>
+

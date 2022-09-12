@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aryamáṇam ← áryaman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+durévāḥ ← duréva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+minánti ← √mī- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+saṁgíraḥ ← saṁgír- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+váruṇam ← váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+amítreṣu ← amítra- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+túmram ← túmra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vadhám ← vadhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aruṣám ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śiśīhi ← √śā- ~ śī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vŕ̥ṣan ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vŕ̥ṣāṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +223,4 @@ Die bösgesinnt den Arjaman und Mitra und Varuna, die einigen, beleid'gen, Auf s
 Наточи на недругов, о Индра-бык, смертельное оружие,  
 Могучее, бычье, пламенное!
 </details>
+

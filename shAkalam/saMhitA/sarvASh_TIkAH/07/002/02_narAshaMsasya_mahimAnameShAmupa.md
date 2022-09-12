@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nárāśáṁsasya ← nárāśáṁsa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+stoṣāma ← √stu- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+yajatásya ← yajatá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dhiyaṁdhā́ḥ ← dhiyaṁdhā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sukrátavaḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+svádanti ← √svad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ubháyāni ← ubháya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +190,4 @@ Durch Naraçansa's, des erhabnen, Opfer lasst preisen uns die Grösse aller Göt
 (Среди) богов, которые, обладая прекрасной силой духа, чистые, дающие вдохновение,  
 Делают вкусными приношения обоего рода.
 </details>
+

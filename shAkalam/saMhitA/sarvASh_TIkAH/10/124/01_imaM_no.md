@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular;; repeated line  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+páñcayāmam ← páñcayāma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saptátantum ← saptátantu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+trivŕ̥tam ← trivŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ásaḥ ← √as- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+havyavā́ṭ ← havyavā́h- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+purogā́ḥ ← purogā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśayiṣṭhāḥ ← √śī- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:MED}
+
+dīrghám ← dīrghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+jyók ← jyók (invariable)  
+{}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +234,4 @@ Komm, Agni, her zu diesem unserm Opfer, fünf Bahnen hat's, drei Räder, sieben 
 Слишком долго пролежал ты в длительном мраке!  
 Агни:
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+saṁhátaḥ ← saṁhát- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+stīrṇā́ḥ ← √str̥̄- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+viśvárūpāḥ ← viśvárūpa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ghr̥tásya ← ghr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mádhūnām ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+sraváthe ← sravátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ásthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pínvamānāḥ ← √pinv- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+dasmásya ← dasmá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+mātárā ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+samīcī́ ← samyáñc- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +217,4 @@ Die vielgestalt'gen Schichten sind gelegt ihm, im Schoss der Butter, in dem Stro
 Там стояли коровы, набухающие (от молока),  
 (А) великие родители удивительного – два обращенных друг к другу (мира).
 </details>
+

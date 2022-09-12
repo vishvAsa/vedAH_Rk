@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+devatrā́ ← devatrā́ (invariable)  
+{}
+
+jéhamānāḥ ← √jeh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+tātr̥ṣúḥ ← √tr̥ṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hotrāvídaḥ ← hotrāvíd- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+stómataṣṭāsaḥ ← stómataṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arvā́ṅ ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvidátrebhiḥ ← suvidátra- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gharmasádbhiḥ ← gharmasád- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kavyaíḥ ← kavyá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pitŕ̥bhiḥ ← pitár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+satyaíḥ ← satyá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +201,4 @@ Die bei den Göttern sitzend, lechzend dürsten, die Opfer kennend, mit Gesang g
 О Агни, приди с легконаходимыми отцами в наши края,  
 С истинными кавья, сидящими вокруг горячего молока!
 </details>
+

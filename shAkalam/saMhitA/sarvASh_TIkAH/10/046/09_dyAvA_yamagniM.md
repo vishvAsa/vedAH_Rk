@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+jániṣṭām ← √janⁱ- (root)  
+{number:DU, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhŕ̥gavaḥ ← bhŕ̥gu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sáhobhiḥ ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+īḷényam ← īḷénya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mātaríśvā ← mātaríśvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prathamám ← prathamá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tatakṣuḥ ← √takṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yájatram ← yájatra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Den Agni, welchen Erd' und Himmel zeugten, die Wasser, Tvaschtar und mit Macht d
 Как призываемого первым, (его) Матаришван,  
 Боги вытесали для Ману как достойного жертв.
 </details>
+

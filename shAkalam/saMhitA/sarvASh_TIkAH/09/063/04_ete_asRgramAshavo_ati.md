@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asr̥gram ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+babhrávaḥ ← babhrú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hvárāṁsi ← hváras- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -96,7 +124,7 @@ On hváras- see comm. ad IX.3.2.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 Thematically somewhat unified by the journey theme.
@@ -125,3 +153,4 @@ Im Strom des Opfers haben sich ergossen diese flammenden, Die raschen Soma's dur
 
 -ru-
 </details>
+

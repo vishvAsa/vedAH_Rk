@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+āsnáḥ ← āsán- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥kāṇām ← vŕ̥ka- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ā́dityāsaḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mumócata ← √muc- (root)  
+{number:PL, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+adite ← áditi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+baddhám ← √bandh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+stenám ← stená- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Als solche macht, Aditja's ihr, uns aus der Wölfe Rachen los, Aditi, wie gebund
 Нас из пасти волков  
 Как (освобождают) связанного вора, о Адити!
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gharmáḥ ← gharmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+pári ← pári (invariable)  
+{}
+
+sicyate ← √sic- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+stómena ← stóma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mádhumān ← mádhumant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājinīvasū ← vājínīvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+cíketathaḥ ← √cit- (root)  
+{number:DU, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +186,4 @@ Ergossen wird die heisse Milch von Lob begleitet, Ritter, euch; Und, labungsreic
 (И) этот сладкий сома, о богатые наградами,  
 Благодаря которому вы можете представить себе врага.
 </details>
+

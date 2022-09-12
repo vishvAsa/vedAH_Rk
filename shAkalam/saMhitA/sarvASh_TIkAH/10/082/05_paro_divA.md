@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+divā́ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+parás ← parás (invariable)  
+{}
+
+parás ← parás (invariable)  
+{}
+
+pr̥thivyā́ ← pr̥thivī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ásuraiḥ ← ásura- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+parás ← parás (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dadhre ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+prathamám ← prathamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svit ← svit (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+samápaśyanta ← √paś- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +226,4 @@ Was jenseit dieses Himmels, dieser Erde, was jenseit der lebend'gen Götter da i
 Что за первый зародыш восприняли воды,  
 Где виднелись вместе все боги?
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mimyákṣa ← √myakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+rodasī́ ← rodasī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yéṣu ← yá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+abhyardhayájvā ← abhyardhayájvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+síṣakti ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śrutvā́ ← √śru- (root)  
+{non-finite:CVB}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yāthá ← √yā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ádhvani ← ádhvan- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bhū́ma ← bhū́man- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+právikte ← √vij- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+rejante ← √rej- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Bei denen Rodasi, die Göttin, funkelt, und gern der holde Spender Puschan weile
 Когда же, услышав зов, вы выезжаете, о Маруты,  
 Трясутся земли на далеко простирающемся (вашем) пути.
 </details>
+

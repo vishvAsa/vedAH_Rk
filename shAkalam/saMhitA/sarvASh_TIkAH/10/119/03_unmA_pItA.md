@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; repeated line  
 popular  
 popular;; repeated line
+#### Morph
+ayaṁsata ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+pītā́ḥ ← √pā- 2 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+út ← út (invariable)  
+{}
+
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ápām ← √pā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+kuvít ← kuvít (invariable)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +159,4 @@ Die Tränke haben mich erregt, wie schnelle Rosse das Gefährt; Hat mich der Som
 Как быстрые кони – колесницу –  
 Не напился ли я сомы?
 </details>
+

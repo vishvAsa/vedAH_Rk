@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+cit ← cit (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+etā́vataḥ ← etā́vant- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+bhikṣeta ← √bhaj- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED, mood:DES}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádābhyasya ← ádābhya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mánmabhiḥ ← mánman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +149,4 @@ Von ihrer so gewalt'gen Schar erflehe Huld der Sterbliche, Erbittend die Untrüg
 Милость пусть испрашивет у них  
 Смертный своими произведениями!
 </details>
+

@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+dadarśa ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+páśyan ← √paś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tvaḥ ← tva- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+enām ← ena- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śr̥ṇoti ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śr̥ṇván ← √śru- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tvaḥ ← tva- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+sasre ← √sr̥- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tvasmai ← tva- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+jāyā́ ← jāyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pátye ← páti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+suvā́sāḥ ← suvā́sas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uśatī́ ← √vaś- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,3 +259,4 @@ Manch einer sieht es und durchschaut das Wort nicht, manch einer hört es und ve
 А кому-то она отдала (свое) тело,  
 Как страстная нарядная жена – (своему) мужу.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+divé ← dyú- ~ div- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥thivyaí ← pr̥thivī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ichán ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kā́maḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+prajānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+stóme ← stóma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yáyoḥ ← yá- (pronoun)  
+{case:GEN, gender:F, number:DU}
+
+ayóḥ ← ayám (pronoun)  
+{case:LOC, gender:F, number:DU}
+
+mādáyante ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sácā ← sácā (invariable)  
+{}
+
+saparyávaḥ ← saparyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Laut sing' der Erd' ich und dem grossen Himmel, begehrend geht mein Wunsch, des 
 Ведь это при прославлении их двоих во время жертвенных раздач  
 Радуются боги, полные почтения, вместе с ними.
 </details>
+

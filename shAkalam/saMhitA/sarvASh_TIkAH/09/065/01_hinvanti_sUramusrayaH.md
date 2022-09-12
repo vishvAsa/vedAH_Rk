@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+hinvánti ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sū́ram ← sū́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úsrayaḥ ← úsri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jāmáyaḥ ← jāmí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svásāraḥ ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahā́m ← máh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahīyúvaḥ ← mahīyú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -102,7 +130,7 @@ Note that Geldner nodded (slightly) in tr. mahā́n índum as “den grossen Ind
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 No particular signs of unity. Vss. 2 and 3 have forms of the pres. part.
@@ -133,3 +161,4 @@ Die Sonne senden morgenhell, den Gatten die verschwisterten, Den grossen Indu gr
 
 -ru-
 </details>
+

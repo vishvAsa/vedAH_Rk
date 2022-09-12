@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árhanti ← √arh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sudā́navaḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+cáranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mīḷhúṣaḥ ← mīḍhváṁs- (nominal stem)  
+{case:ACC, number:PL}
+
+smát ← smát (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+átas ← átas (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+vásyasā ← vásyaṁs- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+vavr̥dhvam ← √vr̥t- (root)  
+{number:PL, person:2, mood:IMP, tense:PRF, voice:MED}
+
+yúvānaḥ ← yúvan- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Die reich an Gaben selbst den Maruts kommen gleich, und zu den gnäd'gen gehn im
 Оттуда с еще лучшим сердцем к нам  
 Повернитесь, о юноши!
 </details>
+

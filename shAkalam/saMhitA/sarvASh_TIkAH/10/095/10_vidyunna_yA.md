@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+dávidyot ← √dyut- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pátantī ← √pat- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+vidyút ← vidyút- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ápyā ← ápya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhárantī ← √bhr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+kā́myāni ← kā́mya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jániṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+náryaḥ ← nárya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sújātaḥ ← sújāta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dīrghám ← dīrghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+tirata ← √tr̥̄- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+urváśī ← urváśī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Sie, welche wie ein herabstürzender Blitz leuchtete, brachte mir die begehrungs
 
 -ru-
 </details>
+

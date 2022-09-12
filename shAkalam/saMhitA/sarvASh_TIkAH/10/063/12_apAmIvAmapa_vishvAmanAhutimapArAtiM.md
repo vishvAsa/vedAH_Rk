@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámīvām ← ámīvā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ánāhutim ← ánāhuti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+víśvām ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+aghāyatáḥ ← √aghāy- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+árātim ← árāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+durvidátrām ← durvidátra- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+āré ← āré (invariable)  
+{}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+dvéṣaḥ ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yuyotana ← √yu- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yachata ← √yam- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +208,4 @@ Verjagt die Krankheit, jede Opferlässigkeit, verjagt des Bösen frevelhafte Ueb
 
 -ru-
 </details>
+

@@ -15,14 +15,48 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+mitrā́váruṇābhyām ← mitrā́váruṇa- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+sajū́s ← sajū́s (invariable)  
+{}
+
+sajū́s ← sajū́s (invariable)  
+{}
+
+sómena ← sóma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+víṣṇunā ← víṣṇu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+atrivát ← atrivát (invariable)  
+{}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+raṇa ← √ranⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Vereint mit Mitra-Varuna, mit Soma und mit Vischnu auch Komm, Agni, wie zum Atri
 В согласии с Сомой, с Вишну  
 Приходи, о Агни, веселись у выжатого (сомы), как у Атри!
 </details>
+

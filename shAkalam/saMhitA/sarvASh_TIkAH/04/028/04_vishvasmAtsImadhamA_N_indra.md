@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhamā́n ← adhamá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sīm ← sīm (invariable)  
+{}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+akr̥ṇoḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+apraśastā́ḥ ← apraśastá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dā́sīḥ ← dā́sī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśaḥ ← víś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ábādhethām ← √bādhⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:MED}
+
+ámr̥ṇatam ← √mr̥̄- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ápacitim ← ápaciti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ávindethām ← √vid- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:MED}
+
+vádhatraiḥ ← vádhatra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +217,4 @@ Du Indra machtest niedriger als alles die Bösen, die verruf'nen Dämonstämme; 
 Вы оба угнетали, разбивали врагов.  
 Вы нашли возмездие с помощью смертельного оружия.
 </details>
+

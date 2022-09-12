@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prajā́yāḥ ← prajā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+upabdíḥ ← upabdí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váhniḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nagnáḥ ← nagná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sīdat ← √sad- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+idhmám ← idhmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sánitā ← sánitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sánitā ← sánitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhartā́ ← dhartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jajñe ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yavīyút ← yavīyúdh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +235,4 @@ Schnell setzte er sich, wie stürmender Lärm der Volksmenge (?), an das Euter (
 
 -ru-
 </details>
+

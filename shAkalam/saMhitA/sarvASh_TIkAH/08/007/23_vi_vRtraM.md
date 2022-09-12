@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+parvaśás ← parvaśás (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yayuḥ ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+arājínaḥ ← arājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+párvatān ← párvata- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+cakrāṇā́ḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+paúṁsyam ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vŕ̥ṣṇi ← vŕ̥ṣṇi- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +142,7 @@ It is possible that ví √yā should be rendered ‘drive through’, not ‘dr
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/22-23.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/22-23.md">
 <details open><summary><h2>22-23 ...{Loading}...</h2></summary>
 
 The insistently repeated sám in vs. 22 (4x in 3 pādas) is complemented by its opposite ví in 23, though ví needs only two occurrences to continue the pattern.
@@ -147,3 +178,4 @@ Und Glied für Glied zertraten sie den Vritra und die dunklen Höhn, Vollendend 
 Пере(ехали) горы, (оказавшиеся таким образом) без блеска,  
 Совершая бычье мужественное деяние.
 </details>
+

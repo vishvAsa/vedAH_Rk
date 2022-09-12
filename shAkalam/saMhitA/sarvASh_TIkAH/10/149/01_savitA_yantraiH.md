@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+aramṇāt ← √ram- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yantraíḥ ← yantrá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+adr̥ṁhat ← √dr̥h- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+askambhané ← askambhaná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adhukṣat ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhúnim ← dhúni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+atū́rte ← atū́rta- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+baddhám ← √bandh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,8 +172,6 @@ Savitṛ has milked the roaring atmosphere like a horse
 \[and\] bound the sea in unfathomable \[depths\].  
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -165,3 +215,4 @@ Fest hielt mit Bändern Savitar die Erde, den Himmel fest im balkenlosen Raume, 
 Он подоил воздушное пространство, разбушевавшееся, как конь,  
 Море, связанное с непересекаемым (простором), (этот) Савитар.
 </details>
+

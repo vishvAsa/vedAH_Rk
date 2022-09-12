@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jánima ← jániman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+majmánā ← majmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mā́nuṣāṇām ← mā́nuṣa- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ámartyena ← ámartya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+nā́mnā ← nā́man- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sarsre ← √sr̥- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dyumnéna ← dyumná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+nŕ̥tamaḥ ← nŕ̥tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sámokāḥ ← sámokas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīryèṇa ← vīryà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Er dringt mit Macht hindurch durch die Geschlechter der Menschen mit unsterblich
 Он блеском, он силой, а также богатством,  
 Он храбростью наделен, самый мужественный.
 </details>
+

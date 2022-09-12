@@ -16,14 +16,54 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+añjimántaḥ ← añjimánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+purudrapsā́ḥ ← purudrapsá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sudā́navaḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anavabhrárādhasaḥ ← anavabhrárādhas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tveṣásaṁdr̥śaḥ ← tveṣásaṁdr̥ś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+janúṣā ← janúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rukmávakṣasaḥ ← rukmávakṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sujātā́saḥ ← sujātá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+arkā́ḥ ← arká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhejire ← √bhaj- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +187,4 @@ An Tropfen reich und an Geschmeide, schön bethaut, von prächt'gem Ansehn, Reic
 Благородные по рождению, с золотыми пластинками на груди,  
 (Воплощенные) песни неба, они получили в удел бессмертное имя.
 </details>
+

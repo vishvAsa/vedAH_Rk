@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M;; 11 = 4+7, ending HLX
+#### Morph
+grā́vāṇaḥ ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+síndhumātaraḥ ← síndhumātar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ādardirā́saḥ ← ādardirá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádrayaḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+viśváhā ← viśváhā (invariable)  
+{}
+
+krīḷáyaḥ ← krīḷí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śiśū́lāḥ ← śiśū́la- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sumātáraḥ ← sumātár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mahāgrāmáḥ ← mahāgrāmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tviṣā́ ← tvíṣ- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Wie Presssteine sind die stromentsprossnen Fürsten, immerdar wie Felsen zerschm
 Играющие, как дети, у которых добрая мать;  
 Подобные большому отряду в походе, а также (поражающие) сиянием:
 </details>
+

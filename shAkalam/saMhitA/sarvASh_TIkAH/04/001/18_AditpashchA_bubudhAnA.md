@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+akhyan ← √khyā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ā́t ← ā́t (invariable)  
+{}
+
+bubudhānā́ḥ ← √budh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+paścā́ ← paścā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+ā́t ← ā́t (invariable)  
+{}
+
+dhārayanta ← √dhr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+dyúbhaktam ← dyúbhakta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dúryāsu ← dúrya- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+víśvāsu ← víśva- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dhiyé ← dhī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+mítra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +221,7 @@ In d I supply the treasure (in the form of light) as the subj. of satyám astu (
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details open><summary><h2>10-18 ...{Loading}...</h2></summary>
 
 Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
@@ -197,3 +258,4 @@ Da erst erwachend leuchteten fortan sie, da erst erhielten sie den Schatz des Hi
 Все боги – во всех домах.  
 О Митра, о Варуна, да будет истина для (нашей) поэтической мысли!
 </details>
+

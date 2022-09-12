@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+íḷām ← íḷā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+purudáṁsam ← purudáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saním ← saní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hávamānāya ← √hū- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+sādha ← √sādh- ~ sidh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śaśvattamám ← śaśvattamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sūnúḥ ← sūnú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syā́t ← √as- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+tánayaḥ ← tánaya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vijā́vā ← vijā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+bhūtu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+sumatíḥ ← sumatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Dem Beter schaff als Labung wunderreichen Besitz an Rindern fort und fort, o Agn
 Да будет нам сын, продолжающий род, плоть от плоти!  
 О Агни, да будет нам твое благоволение!
 </details>
+

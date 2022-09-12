@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.;; repeated line
+#### Morph
+māsi ← √mā- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mā́hinasya ← mā́hina- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+napāt ← nápat- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ū́rjaḥ ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+jaritŕ̥bhyaḥ ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sákhe ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +151,4 @@ Drum so theile, Sohn der Kraft, uns zu von deinem grossen Reichthum, Du, o guter
 
 -ru-
 </details>
+

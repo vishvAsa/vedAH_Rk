@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+īrayasva ← √īr- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+dyumátīm ← dyumánt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vaíśvānara ← vaiśvānará- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pínvasi ← √pinv- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+viśvavāra ← viśvávāra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mártyāya ← mártya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pr̥thú ← pr̥thú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +201,4 @@ Die Güterfülle sende uns, o Agni, o Männerhort, die schöne, Wesenkenner, Dur
 Благодаря которой ты делаешь щедрость набухшей, о владелец всего желанного,  
 (А также) широкую славу для смертного, почитающего (его)!
 </details>
+

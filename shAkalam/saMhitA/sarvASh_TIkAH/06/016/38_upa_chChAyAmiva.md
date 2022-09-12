@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+chāyā́m ← chāyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ghŕ̥ṇeḥ ← ghŕ̥ṇi- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+áganma ← √gam- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+híraṇyasaṁdr̥śaḥ ← híraṇyasaṁdr̥ś- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ Wir kamen, wie vor Sonnenglut in Schatten, unter deinen Schirm, O Agni, der wie 
 Пришли мы под твою защиту,  
 О Агни с золотистым обликом.
 </details>
+

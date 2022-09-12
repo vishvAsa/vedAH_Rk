@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adhapriyā ← adhapriya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+antárikṣāt ← antárikṣa- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+káṇvasya ← káṇva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+somyám ← somyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suṣā́va ← √su- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +197,4 @@ Vom Himmel kommet her zu uns, und aus der Luft, bei uns beliebt, Der Sohn des Ka
 Сын Канвы здесь для вас двоих  
 Выжал сладость сомы.
 </details>
+

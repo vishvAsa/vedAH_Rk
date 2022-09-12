@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āmā́su ← āmá- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+antár ← antár (invariable)  
+{}
+
+índrāsomā ← índrāsóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pakvám ← pakvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhathuḥ ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+vakṣáṇāsu ← vakṣáṇā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ánapinaddham ← ánapinaddha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsu ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+jagr̥bháthuḥ ← √gr̥bhⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+citrā́su ← citrá- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+jágatīṣu ← jágatī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+rúśat ← rúśant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Die gare Milch, o Indra-Soma, fügtet ihr in die rohen Leiber ein der Kühe, Und
 Вы удерживаете, не привязывая (его), белое (молоко)  
 В этих пестрых самках.
 </details>
+

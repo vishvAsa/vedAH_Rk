@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhenóḥ ← dhenú- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+manvata ← √man- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+paramā́ṇi ← paramá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+vindan ← √vid- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+jānatī́ḥ ← √jñā- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vrā́ḥ ← vrā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+aruṇī́ḥ ← aruṇá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+āvís ← āvís (invariable)  
+{}
+
+bhuvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+yaśásā ← yaśás- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +228,7 @@ Siamak Adhami], 2003, pp. 39-56).
 Because of its accentuation yaśásā should be adjectival; the question is what head noun to supply. Flg. Lüders (Varuṇa, 521, also fld. by Hoffmann, Witzel Gotō), I supply ‘name’, which appears in pāda a and appears to be the topic of the rest of the vs. Geldner and Oldenberg prefer ‘milk’, but this is contextually less likely.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details open><summary><h2>10-18 ...{Loading}...</h2></summary>
 
 Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
@@ -204,3 +265,4 @@ Sie nahmen wahr der Milchkuh ersten Namen, die dreimal sieben herrlichsten der M
 Зная это, ликовала толпа жен (?).  
 Алая заря стала видна благодаря прекрасному (дару) коровы.
 </details>
+

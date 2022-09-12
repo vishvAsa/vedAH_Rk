@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mahé ← mahá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śaṁsiṣam ← √śaṁs- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+haryatám ← haryatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádam ← máda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vanúṣaḥ ← vanús- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vanve ← √vanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+cā́ru ← cā́ru- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+háribhiḥ ← hári- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sécate ← √sic- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hárivarpasam ← hárivarpas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+viśantu ← √viś- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +248,4 @@ Dein goldnes Rosspaar preis' ich nun beim grossen Fest, und rühme deinen holden
 (Тот) чарующий, который льется, как жир, золотистыми (каплями).  
 Тобою, чей вид золотистый, пусть овладеют хвалебные песни!
 </details>
+

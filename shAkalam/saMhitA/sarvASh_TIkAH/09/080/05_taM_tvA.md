@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hastínaḥ ← hastín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádhumantam ← mádhumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+duhánti ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣípaḥ ← kṣíp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+daívyam ← daívya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jánam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mādáyan ← √mad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arṣasi ← √arṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+síndhoḥ ← síndhu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ūrmíḥ ← ūrmí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +203,7 @@ Exhilarating Indra and the divine race, o Soma, purifying yourself, you  rush li
 
 The first two pādas have the same structure as 4ab: they share a verb form of √duh, duhánti in b, with two different subjects, hastínaḥ (a) and dáśa kṣípaḥ (b) again. The “stones” of 4c (grā́vabhiḥ) return, but with different lexical realization (ádribhiḥ).
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/080/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/080/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 Both vss. open with táṃ tvā, echoing yáṃ tvā beginning vs. 2.
@@ -174,3 +235,4 @@ Mit Steinen melken sie geschickt dich süssesten, und die zehn Finger in den Was
 Опьяняя Индру, о сома, (и) божественный род.  
 Ты течешь, о Павамана, как волна реки.
 </details>
+

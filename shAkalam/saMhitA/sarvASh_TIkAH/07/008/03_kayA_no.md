@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+káyā ← ká- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suvr̥ktím ← suvr̥ktí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vasaḥ ← √vas- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+kā́m ← ká- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+r̥ṇavaḥ ← √r̥- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+śasyámānaḥ ← √śaṁs- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+svadhā́m ← svadhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+bhavema ← √bhū- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+pátayaḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sudatra ← sudátra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+duṣṭárasya ← duṣṭára- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sādhóḥ ← sādhú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vantā́raḥ ← vantár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Wie schmückest du, o Agni, unser Lied aus? welch eigne Lust erregst du uns, bes
 Когда сможем мы стать повелителями (богатства), о хозяин щедрых даров,  
 Завоевателями непревзойденного богатства, ведущего прямо к цели?
 </details>
+

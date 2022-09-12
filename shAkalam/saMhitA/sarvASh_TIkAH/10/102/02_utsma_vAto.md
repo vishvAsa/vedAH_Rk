@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+vahati ← √vah- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́saḥ ← vā́sas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádhiratham ← ádhiratha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ájayat ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gáviṣṭau ← gáviṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+mudgalā́nī ← mudgalā́nī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rathī́ḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+acet ← √ci- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bháre ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+indrasenā́ ← indrasenā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +211,4 @@ Der Wind liess ihr Gewand im Kampfe flattern, als sie davontrug tausend Wagenlas
 
 -ru-
 </details>
+

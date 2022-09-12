@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sahásradhāraḥ ← sahásradhāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samudráḥ ← samudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vācamīṅkhayáḥ ← vācamīṅkhayá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +141,7 @@ The phrase samudró vācamīṅkhayáḥ recalls the variant compds in IX.35.2 a
 Note that all 4 pādas begin with s-.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 No particular unity in this tṛca unless the mention of Indra in each vs. counts. After the difficulties of the 1st tṛca, this one is blessedly simple.
@@ -142,3 +173,4 @@ In tausend Strömen rieselt er, ein Meer, der Sang-erregende, Der Soma, er, der 
 Сома, господин богатств,  
 Друг Индры, день за днем.
 </details>
+

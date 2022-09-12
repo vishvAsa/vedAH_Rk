@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sáhyase ← sáhyaṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+supitrya ← supitrya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vājíntamāya ← vājíntama- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+cyávānaḥ ← √cyu- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+jātávedase ← jātávedas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tr̥ṣú ← tr̥ṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+anudré ← anudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dhr̥ṣatā́ ← √dhr̥ṣ- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+saté ← √as- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+váram ← vára- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+aviṣyaté ← √aviṣy- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dhánvanā ← dhánur ~ dhánvan- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+mahíntamāya ← mahíntama- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +196,4 @@ Dem Wesenkenner streb' den Vätern folgend nach, dem labungsreichen, starken rü
 (Тому), кто смело охотно (помогает) находящемуся даже в безводной (местности),  
 Самому могущественному, добывающему пищу даже в пустыне.
 </details>
+

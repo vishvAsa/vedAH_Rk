@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+apasyúvaḥ ← apasyú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+īṅkháyantīḥ ← √īṅkhay- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+āsate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+úpa ← úpa (invariable)  
+{}
+
+bhejānā́saḥ ← √bhaj- (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:MED}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +136,4 @@ Um Indra sass, als er erzeugt, die schaukelnde, werkthät'ge Schar Nachdem sie g
 Новорожденного Индру, ухаживают (за ним),  
 Став причастными к (его) мужеству.
 </details>
+

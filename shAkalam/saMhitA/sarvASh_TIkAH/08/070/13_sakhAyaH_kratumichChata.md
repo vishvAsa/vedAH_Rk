@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+ichata ← √iṣ- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+rādhāma ← √rādh- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+śarásya ← śará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+úpastutim ← úpastuti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áhrayaḥ ← áhraya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhojáḥ ← bhojá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sūríḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +156,4 @@ O Freunde, erstrebt Begeisterung: Wie vollenden wir das Lob des Çara, welcher e
 
 -ru-
 </details>
+

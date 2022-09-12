@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kr̥tā́ni ← √kr̥- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+prá ← prá (invariable)  
+{}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vocam ← √vac- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+cakā́ra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nū́tanā ← nū́tana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+ádevīḥ ← ádeva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ásahiṣṭa ← √sah- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+māyā́ḥ ← māyā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+kévalaḥ ← kévala- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,3 +256,4 @@ Des Indra erste Thaten will ich künden, die neuen auch, die mächtig er vollbra
 Как только он преодолел безбожные колдовские чары,  
 Тут же сома стал принадлежать исключительно ему.
 </details>
+

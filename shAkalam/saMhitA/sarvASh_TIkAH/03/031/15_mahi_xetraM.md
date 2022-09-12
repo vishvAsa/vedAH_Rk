@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kṣétram ← kṣétra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ścandrám ← ścandrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vividvā́n ← √vid- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+airat ← √īr- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ā́t ← ā́t (invariable)  
+{}
+
+carátham ← carátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sákhibhyaḥ ← sákhi- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+ajanat ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dī́dyānaḥ ← √dī- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sākám ← sākám (invariable)  
+{}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ Einen grossen, sehr glänzenden Grundbesitz ertheilend, beförderte er den Freun
 Индра вместе с мужами породил, сверкая,  
 Одновременно солнце, утреннюю зарю, свободный путь, огонь.
 </details>
+

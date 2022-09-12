@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakre ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+cā́ru ← cā́ru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ī́ḍyam ← ī́ḍya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+r̥bhúḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vayúnāni ← vayúna- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+cárma ← cárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ghr̥távat ← ghr̥távant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sasásya ← sasá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+véḥ ← ví- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áprayuchan ← áprayuchant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+rakṣati ← √rakṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Der Künstler machte kund den theuren Namen, der Gott, der sich versteht auf all
 Кожаный мешок с пищей, полный жира, след птицы –  
 Вот что Агни стережет неослабно.
 </details>
+

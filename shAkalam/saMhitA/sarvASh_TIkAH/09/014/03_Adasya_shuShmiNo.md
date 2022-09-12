@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ráse ← rása- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śuṣmíṇaḥ ← śuṣmín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+amatsata ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vasāyáte ← √vasāy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yádi ← yádi (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Dann haben an des starken Saft sich alle Götter stets berauscht, Wenn er mit Mi
 Опьянели Все-Боги,  
 Когда он одевается в коровье молоко.
 </details>
+

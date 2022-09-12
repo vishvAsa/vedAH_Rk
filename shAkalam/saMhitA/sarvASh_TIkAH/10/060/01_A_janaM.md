@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+jánam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tveṣásaṁdr̥śam ← tveṣásaṁdr̥ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́hīnānām ← mā́hīna- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+úpastutam ← √stu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+áganma ← √gam- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+bíbhrataḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +143,4 @@ Dem Mann, der prächtig anzuschaun gerühmt wird in der Götterschar, Sind Andac
 Прославленному среди радующих (нас),  
 Пришли мы, принося поклонение;
 </details>
+

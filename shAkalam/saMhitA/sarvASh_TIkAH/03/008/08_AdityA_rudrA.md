@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ādityā́ḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rudrā́ḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sunīthā́ḥ ← sunīthá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vásavaḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dyā́vākṣā́mā ← dyā́vā-kṣā́mā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+avantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sajóṣasaḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adhvarásya ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇvantu ← √kr̥- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ūrdhvám ← ūrdhvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +206,4 @@ Die Rudra-, Vasu- und Aditjascharen, schönleitend, Himmel, Erde, Luft und Weltk
 Боги единодушные да помогут (нашей) жертве!  
 Да водрузят они знамя обряда!
 </details>
+

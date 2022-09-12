@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ákṣīyamāṇam ← ákṣīyamāṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatádhāram ← śatádhāra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+útsam ← útsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váktvānām ← váktva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vipaścítam ← vipaścít- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádantam ← √mad- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+meḷím ← meḷí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pitróḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pipr̥tam ← √pr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+satyavā́cam ← satyavā́c- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +202,4 @@ Den hundertström'gen Quell, der nie versieget, den geisterfüllten Vater der Ge
 (Того, кто) радостный треск в лоне родителей, –  
 Спасите его, чья речь истинна, о два мира!
 </details>
+

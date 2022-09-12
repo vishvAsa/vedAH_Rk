@@ -16,14 +16,87 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+dhánam ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+jigye ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+párā ← párā (invariable)  
+{}
+
+áva ← áva (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+kádā ← kádā (invariable)  
+{}
+
+mr̥tyáve ← mr̥tyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tasthe ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sunvántaḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yācata ← √yāc- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pūravaḥ ← pūrú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+riṣāthana ← √riṣ- (root)  
+{number:PL, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +251,4 @@ Ich Indra gebe nimmer meine Beute hin; und auch dem Tode falle nimmer ich anheim
 Выжимая сому, просите меня о добре!  
 В дружбе со мной вы, Пуру, не потерпите вреда.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+divā́ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+manye ← √man- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pr̥thivyā́ ← pr̥thivī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ābhíḥ ← ayám (pronoun)  
+{case:INS, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+śámībhiḥ ← śámī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+yajñéna ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+párvatāsaḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+subhvàḥ ← subhū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ubjántu ← √ubj- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+atiyājásya ← atiyājá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hīyatām ← √hā- 2 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:PASS}
+
+ní ← ní (invariable)  
+{}
+
+yaṣṭā́ ← yaṣṭár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +232,7 @@ The vs., at least its 2nd hemistich, has a slangy feel -- with the unusual phono
 The agent noun yaṣṭár- seems like a potential candidate for the role of technical term for ‘Sacrificer’, which was rejected in favor of yájamāna-.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 It is unfortunately impossible to capture in Engl. the play between ánu √man ‘concede’ (1a) and áti √man ‘disdain’ (2a), with the further echo of áti in atiyā́já- (1d).
@@ -200,3 +264,4 @@ Nicht lob' ich dies beim Himmel, bei der Erde, nicht bei dem Opfer, noch bei die
 Пусть раздавят его мощные горы!  
 Пусть проиграет жертвователь чрезмерной жертвы!
 </details>
+

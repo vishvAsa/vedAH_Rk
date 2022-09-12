@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dyumnā́ya ← dyumná- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+śávase ← śávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+nr̥ṣā́hyāya ← nr̥ṣā́hya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śármaṇe ← śárman- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dákṣāya ← dákṣa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pracetasā ← prácetas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +149,4 @@ Hervor zu Reichthum und zur Kraft zum Schutz, der über Männer siegt, Zur Macht
 Вперед для покорения мужей, для (нашей) защиты,  
 Вперед для силы действия, о два прозорливца.
 </details>
+

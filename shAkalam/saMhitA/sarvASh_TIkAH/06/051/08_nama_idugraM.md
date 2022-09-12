@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vivāse ← √vanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+dādhāra ← √dhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+īśe ← √īś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+énaḥ ← énas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vivāse ← √vanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +248,4 @@ Gebet ist mächtig, das Gebet gewinn' ich, Gebet hielt fest den Himmel und die E
 Поклонение – для богов. Поклонение правит ими.  
 Даже содеянный грех я хочу замолить поклонением.
 </details>
+

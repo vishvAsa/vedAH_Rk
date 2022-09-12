@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śuṣmíṇā ← śuṣmín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vā́yo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+patī ← páti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sarátham ← sarátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śavasaḥ ← śávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+niyútvantā ← niyútvant- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +185,4 @@ O Indra-Vaju, muthbegabt, auf gleichem Wagen, Herrn der Kraft, Mit Vielgespannen
 С упряжками (-дарами) приезжайте  
 К нам на помощь, на питье сомы!
 </details>
+

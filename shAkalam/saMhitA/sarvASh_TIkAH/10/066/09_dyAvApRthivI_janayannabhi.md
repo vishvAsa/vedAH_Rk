@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+janayan ← √janⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+vratā́ ← vratá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vanínāni ← vanína- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yajñíyā ← yajñíya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+papruḥ ← √prā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+māmr̥juḥ ← √mr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+tanvì ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+váśam ← váśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +205,4 @@ Zu ihrem Dienste zeugten Erd' und Himmel sie, die Wasser, Kräuter und die heil'
 
 -ru-
 </details>
+

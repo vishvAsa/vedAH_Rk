@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+subhágāsaḥ ← subhága- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vraté ← vratá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+svādhyàḥ ← svādhī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tuṣṭuvā́ṁsaḥ ← √stu- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gómatīnām ← gómant- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+upā́yane ← upā́yana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+uṣásām ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+agnáyaḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+járamāṇāḥ ← √gr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +193,4 @@ In deinem Dienste lass uns hochbeglückt sein, die wir voll Andacht, Varuna, dic
 При приближении богатых коровами утренних зорь  
 Бодрствующие, словно (жертвенные) костры, день за днем!
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ákravihastā ← ákravihasta- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+paraspā́ ← paraspā́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sukŕ̥te ← sukŕ̥t- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+íḷāsu ← íḷā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+trā́sāthe ← √trā- (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:MED}
+
+varuṇā ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+áhr̥ṇīyamānā ← áhr̥ṇīyamāna- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rā́jānā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+bibhr̥thaḥ ← √bhr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dvaú ← dvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sahá ← sahá (invariable)  
+{}
+
+sahásrasthūṇam ← sahásrasthūṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +211,4 @@ Wen ihr mit Händen rein von Blut beschirmet, des Frommen Schutzherrn, Varuna, b
 О два царя, лишенные враждебности, вы несете  
 Власть на тысяче колонн, оба вместе.
 </details>
+

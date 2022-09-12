@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+amátim ← amáti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áśiśret ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+hiraṇyáyīm ← hiraṇyáya- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yā́m ← yá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+suṣṭutī́ ← suṣṭutí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+viśvaminvé ← viśvaminvá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ápi ← ápi (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+jánimāni ← jániman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vavre ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Dies Wesen nun dieses Savitar niemand nennt es mir (?), den goldenen Schimmer, d
 С помощью прекрасной молитвы (он) по (родил) оба мира, все побуждающие к жизни.  
 Он укрыл существа, как женщина (- детей).
 </details>
+

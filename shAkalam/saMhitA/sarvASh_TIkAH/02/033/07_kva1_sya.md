@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kvà ← kvà (invariable)  
+{}
+
+mr̥ḷayā́kuḥ ← mr̥ḷayā́ku- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rudra ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bheṣajáḥ ← bheṣajá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hástaḥ ← hásta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jálāṣaḥ ← jálāṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+apabhartā́ ← apabhartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+daívyasya ← daívya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rápasaḥ ← rápas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+cakṣamīthāḥ ← √kṣam- (root)  
+{number:SG, person:2, mood:OPT, tense:PRF, voice:MED}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Wo ist, o Rudra, deine Hand, die milde, die Heilung schafft und alle Schmerzen l
 Уносящее прочь повреждение, насланное богами?  
 Смилуйся же надо мной, о бык!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+subhágaḥ ← subhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+viśvácakṣāḥ ← viśvácakṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́nuṣāṇām ← mā́nuṣa- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sā́dhāraṇaḥ ← sā́dhāraṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cárma ← cárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+samávivyak ← √vyac- (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+támāṁsi ← támas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Der reiche Gott geht auf, der alles anschaut, der Sonnengott, gemeinsam allen Me
 Глаз Митры (и) Варуны, бог,  
 Который свернул мрак, словно шкуру.
 </details>
+

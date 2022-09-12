@@ -15,13 +15,50 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+abhrātr̥vyáḥ ← abhrātr̥vyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anā́ ← anā́ (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ánāpiḥ ← ánāpi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+janúṣā ← janúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sanā́t ← sanā́t (invariable)  
+{}
+
+āpitvám ← āpitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ichase ← √iṣ- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+yudhā́ ← yúdh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +181,4 @@ Denn du bist ja von Hause aus, ganz ohne Vettern, Indra, und Verwandtschaft auch
 (Но и) без друзей, О Индра, от рождения издревле живешь.  
 Ты ищешь дружбы только в борьбе.
 </details>
+

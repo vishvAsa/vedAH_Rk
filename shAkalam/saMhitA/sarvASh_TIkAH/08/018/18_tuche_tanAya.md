@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+tánāya ← tána- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tucé ← túc- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+drā́ghīyaḥ ← drā́ghīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+ā́dityāsaḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+kr̥ṇótana ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sumahasaḥ ← sumahas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +163,4 @@ Zu langer Lebensdauer dehnt, Aditja's, uns das Alter aus, Für Kinder und für E
 Этот более долгий срок жизни,  
 О Адитьи, очень могущественные!
 </details>
+

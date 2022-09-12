@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sāsahím ← sāsahí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuyujma ← √yuj- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+ádābhyam ← ádābhya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥ṇákātim ← r̥ṇákāti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhr̥mám ← bhr̥má- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+rathī́tamaḥ ← rathī́tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sánitā ← sánitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+véda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+náśat ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Den Sieger in den Schlachten spornten wir zur That, der Frevel rächt, den niema
 Захватчик, лучший из колесничих, он знает ошибку стремящегося к награде,  
 Которого он и настигает.
 </details>
+

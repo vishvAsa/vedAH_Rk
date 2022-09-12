@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhīmahe ← √dhā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+uttamám ← uttamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pápriṇā ← pápri- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sásninā ← sásni- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yujā́ ← yúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+abhidipsúḥ ← abhidipsú- (nominal stem)  
+{case:NOM, gender:M, number:SG, mood:DES}
+
+duḥśáṁsaḥ ← duḥśáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īśata ← √īś- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+suśáṁsāḥ ← suśáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tāriṣīmahi ← √tr̥̄- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Durch dich erlangen wir die höchste Lebenskraft; Brihaspati, durch dich, der vi
 Да не получит власти над нами злоречивый, желающий навредить!  
 Да продвинемся вперед мы, красноречивые, с (нашими) молитвами!
 </details>
+

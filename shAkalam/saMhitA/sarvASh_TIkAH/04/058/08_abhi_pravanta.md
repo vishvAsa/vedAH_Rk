@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+pravanta ← √pru- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+sámanā ← sámana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yóṣāḥ ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kalyāṇyàḥ ← kalyā́ṇa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+smáyamānāsaḥ ← √smi- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+dhā́rāḥ ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ghr̥tásya ← ghr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+nasanta ← √nas- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+samídhaḥ ← samídh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+haryati ← √hr̥- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jātávedāḥ ← jātávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+juṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +175,7 @@ The streams of ghee approach the kindling sticks. (Agni) Jātavedas  delights, t
 The violence of the movement of the ghee-streams in the preceding vs. is abruptly replaced by the placid and benign approach of these same streams in this vs. ### 11
 Renou points out the ring composition of 11d mádhumantaṃ ta ūrmím and 1a ūrmír mádhumān.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
 <details open><summary><h2>05-10 ...{Loading}...</h2></summary>
 
 Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: ūrmáyo ghrtásya ̥ in 6c).
@@ -158,3 +207,4 @@ Sie eilten hin, wie Bräute zur Umarmung, zulächelnd hold dem Agni, sie, die Sc
 Потоки жира ласкают дрова (жертвенного костра).  
 Джатаведас, наслаждаясь, жаждет их.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ábhaye ← ábhaya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śrávobhiḥ ← śrávas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+avadaḥ ← √vadⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dr̥ḷhám ← √dr̥h- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apāré ← apārá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ít ← ít (invariable)  
+{}
+
+kāśíḥ ← kāśí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+saṁgr̥bhṇā́ḥ ← √gr̥bhⁱ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Denn du allein zerschlugst mit Macht das Feste, als Vritratödter, furchtlos, vi
 Даже эти две безграничные половины вселенной, о Индра,  
 Для тебя только пригоршня, о щедрый, когда ты схватил (их).
 </details>
+

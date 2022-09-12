@@ -14,12 +14,43 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+janū́ṁṣi ← janúṣ- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+véda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+janítram ← janítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mithás ← mithás (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vidre ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ Denn ihren Ursprung – erkennt kein andrer, Sie selbst nur kennen – die eigne
 Ведь никто не знает их рождений!  
 Только сами они знают происхождение друг друга!
 </details>
+

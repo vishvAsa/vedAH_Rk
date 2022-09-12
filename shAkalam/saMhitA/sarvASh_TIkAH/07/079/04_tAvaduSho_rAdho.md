@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rāsva ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+tā́vat ← tā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+áradaḥ ← √rad- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+gr̥ṇānā́ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+yā́vat ← yā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jajñúḥ ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ráveṇa ← ráva- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yā́m ← yá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+ádreḥ ← ádri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aurṇoḥ ← √vr̥- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dr̥ḷhásya ← √dr̥h- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ So viel des Guts, o Morgenröthe schenk uns, wie du auch sonst den Sängern gabs
 (Теми,) кто вызвал тебя к жизни ревом быка.  
 Ты закрыла врата замкнутой скалы.
 </details>
+

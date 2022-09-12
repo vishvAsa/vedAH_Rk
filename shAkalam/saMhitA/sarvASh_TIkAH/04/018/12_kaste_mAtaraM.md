@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+acakrat ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vidhávām ← vidhávā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ajighāṁsat ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT, mood:DES}
+
+cárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śayúm ← śayú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mārḍīké ← mārḍīká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ákṣiṇāḥ ← √kṣī- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+pādagŕ̥hya ← pādagŕ̥hya (invariable)  
+{non-finite:CVB}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

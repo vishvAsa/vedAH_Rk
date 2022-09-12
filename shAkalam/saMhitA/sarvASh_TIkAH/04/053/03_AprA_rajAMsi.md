@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aprāḥ ← √prā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+divyā́ni ← divyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pā́rthivā ← pā́rthiva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhármaṇe ← dhárman- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ślókam ← ślóka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svā́ya ← svá- (pronoun)  
+{case:DAT, gender:N, number:SG}
+
+asrāk ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bāhū́ ← bāhú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+sávīmani ← sávīman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aktúbhiḥ ← aktú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+jágat ← jágat- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+niveśáyan ← √viś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+prasuván ← √sū- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Er füllte aus des Himmels, und der Erde Raum; zu eigner Lust erhebt der Gott de
 Савитар простер руки, чтобы привести в действие,  
 Успокаивая живой мир по ночам (и снова) приводя в действие.
 </details>
+

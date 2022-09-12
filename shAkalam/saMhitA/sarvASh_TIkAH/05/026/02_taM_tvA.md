@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ghr̥tasno ← ghr̥tásnu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+cítrabhāno ← citrábhānu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+svardŕ̥śam ← svardŕ̥ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vītáye ← vītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ Dich, schmalzbedeckter, flehn wir an, der sonnengleich du hell erstrahlst, Zum M
 О (бог) с яркими лучами, (тебя) смотрящего (глазом-) солнцем:  
 Привези богов, чтобы (они) наслаждались (жертвой).
 </details>
+

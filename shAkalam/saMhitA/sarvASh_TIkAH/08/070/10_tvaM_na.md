@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+r̥tayúḥ ← r̥tayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+tr̥mpasi ← √tr̥p- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tvānídaḥ ← tvāníd- (nominal stem)  
+{case:ACC, number:PL}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tuvinr̥mṇa ← tuvinr̥mṇá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ūrvóḥ ← ūrú- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+vasiṣva ← √vas- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+dāsám ← dāsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+háthaiḥ ← hátha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+śiśnathaḥ ← √śnathⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Du Indra bist uns Frommen hold, den, der dich hasst, verzehrest du; Dem Dämon z
 
 -ru-
 </details>
+

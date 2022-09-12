@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gha ← gha (invariable)  
+{}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sutā́saḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+várdhasva ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prathamā́ḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+ápibaḥ ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pūrvyā́n ← pūrvyá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sómān ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+adyá ← adyá (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+návīyān ← návīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pāhi ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+pányaḥ ← pánya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ Geniess, erstarke; dein ja sind die Säfte, und, Indra, diese ersten Somatränke
 Как ты пил прежние соки сомы, о Индра,  
 Так же пей сегодня, о Индра, вызывая восхищение, обновленный!
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+idā́ ← idā́ (invariable)  
+{}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vidhaté ← √vidh- (root)  
+{case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+idā́ ← idā́ (invariable)  
+{}
+
+uṣāsaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+vīrā́ya ← vīrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+idā́ ← idā́ (invariable)  
+{}
+
+járate ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víprāya ← vípra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+mā́vate ← mā́vant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+purā́ ← purā́ (invariable)  
+{}
+
+sma ← sma (invariable)  
+{}
+
+vahatha ← √vah- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,13 +218,13 @@ Our problematic expression may have spawned the two ánu forms (in c and d) from
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 There is lexical chaining between 3d and 4a with the identical phrase vidhaté rátnam in the same metrical position.
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 For the repeated opening idā́(4a, 4b, 4c, 5a) see published introduction. The two outer exx. are both idā́hí; the two inner ones are followed by phonologically similar them. datives: 4b idā vīrā́ya / 4c idá víprāya.
@@ -192,3 +256,4 @@ Denn bald wird Reichthum dem, der euch verehret, dem Manne, der euch huldigt, Mo
 Сейчас для вдохновенного (исполнителя), когда поет он гимны.  
 Вы же привозили (сокровище) еще раньше (человеку,) подобному мне.
 </details>
+

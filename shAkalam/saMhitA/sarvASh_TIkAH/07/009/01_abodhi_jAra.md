@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ábodhi ← √budh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+jāráḥ ← jārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+upásthāt ← upástha- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+uṣásām ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kavítamaḥ ← kavítama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mandráḥ ← mandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pāvakáḥ ← pāvaká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dádhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jantóḥ ← jantú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ubháyasya ← ubháya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sukŕ̥tsu ← sukŕ̥t- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +193,4 @@ Erweckt ward aus der Röthen Schooss der Buhle der holde Priester, flammend der 
 Он дает знак обоим родам:  
 Жертвы (приносит) богам, имущество – благочестивым (людям).
 </details>
+

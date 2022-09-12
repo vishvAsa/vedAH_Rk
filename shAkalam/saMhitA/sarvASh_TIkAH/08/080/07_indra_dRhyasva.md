@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dŕ̥hyasva ← √dr̥h- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pū́ḥ ← púr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+niṣkr̥tám ← niṣkr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+dhī́ḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+r̥tvíyāvatī ← r̥tvíyāvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +162,4 @@ Sei stark, du Indra, eine Burg, zu dir hin eilet dies Gebet, Das regelrechte, gl
 
 -ru-
 </details>
+

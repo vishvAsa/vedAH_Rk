@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+soṣavīti ← √sū- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+trís ← trís (invariable)  
+{}
+
+mitrā́váruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rā́jānā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+supāṇī́ ← supāṇí- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+urvī́ ← urú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+bhikṣanta ← √bhaj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+savā́ya ← savá- 1 (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Dreimal des Tags schenkt Savitar uns reichlich, freigiebig Mitra-Varuna, die Her
 Сами воды, сами две широкие половины мироздания  
 Просят о сокровище этого Савитара, чтоб (он его) пробудил.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vádāmasi ← √vadⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+dīdhayaḥ ← √dhī- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+múhur ← múhur (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+dadíḥ ← dadí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kā́māsaḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+smáḥ ← √as- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +236,4 @@ Und rufen dich mit diesem Andachtslied herbei, was säumst du einen Augenblick? 
 Есть желания, о хозяин буланых коней; ты – тот, кто дает,  
 Есть мы, есть наши молитвы.
 </details>
+

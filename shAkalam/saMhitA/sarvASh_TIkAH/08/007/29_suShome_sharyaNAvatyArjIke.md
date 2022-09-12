@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+śaryaṇā́vati ← śaryaṇā́vant- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+suṣóme ← suṣóma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ārjīké ← ārjīká- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pastyā̀vati ← pastyā̀vant- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nícakrayā ← nícakrā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yayúḥ ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,3 +130,4 @@ Zum Somateich, zum Mischgefäss, dem heimischen gelangten sie, Die Männer mit d
 В богатую реками Арджику  
 Отправились мужи – колеса (скользят) вниз.
 </details>
+

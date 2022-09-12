@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+aneṣata ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ahr̥ṣata ← √hr̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+akrata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dadharṣati ← √dhr̥ṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+imā́n ← ayám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +194,4 @@ Die Frommen haben hier die Kuh, und Feuer rings herumgeführt, Und Preis den Gö
 Они создали себе славу среди богов.  
 Кто дерзнет (покуситься) на них?
 </details>
+

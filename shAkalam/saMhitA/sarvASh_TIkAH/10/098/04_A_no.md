@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+drapsā́ḥ ← drapsá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádhumantaḥ ← mádhumant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+viśantu ← √viś- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ádhiratham ← ádhiratha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dehí ← √dā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hotrám ← hotrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+r̥tuthā́ ← r̥tuthā́ (invariable)  
+{}
+
+sīda ← √sad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yajasva ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+devāpe ← devā́pi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+saparya ← √sapary- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ In uns sollen die süßen Tropfen eingehen. Indra, schenke tausend Kühe und ein
 Почитай богов, о Девапи, жертвенным возлиянием!  
 Автор:
 </details>
+

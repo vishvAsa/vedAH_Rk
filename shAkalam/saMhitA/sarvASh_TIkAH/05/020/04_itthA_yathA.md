@@ -17,15 +17,61 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+itthā́ ← itthā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sáhasāvan ← sahasāvan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+r̥tā́ya ← r̥tá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sukrato ← sukrátu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sadhamā́daḥ ← sadhamád- (nominal stem)  
+{case:NOM, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+sadhamā́daḥ ← sadhamád- (nominal stem)  
+{case:NOM, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vīraíḥ ← vīrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +201,4 @@ Wie gern wir wirken Tag für Tag, um dich zu laben, starker Gott, So sein zu ech
 Пусть радостно мы пируем из-за коров!  
 Пусть радостно мы пируем из-за героев!
 </details>
+

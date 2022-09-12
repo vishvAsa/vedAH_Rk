@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nimiṣatáḥ ← √miṣ- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+prāṇatáḥ ← √anⁱ- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+babhū́va ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+jágataḥ ← jágat- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cátuṣpadaḥ ← cátuṣpad- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dvipádaḥ ← dvipád- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ī́śe ← √īś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+kásmai ← ká- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Der des beseelten, schlummernden, belebten allein'ger König ist durch seine Gr�
 Кто правит его двуногими и четвероногими –  
 Какого бога мы почтили жертвенным возлиянием?
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kathā́ ← kathā́ (invariable)  
+{}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pūṣṇé ← pūṣán- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+puṣṭimbharā́ya ← puṣṭimbhará- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+havirdé ← havirdā́- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+rudrā́ya ← rudrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+súmakhāya ← súmakha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+rétaḥ ← rétas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+urugāyā́ya ← urugāyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+víṣṇave ← víṣṇu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+brávaḥ ← √brū- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+br̥hatyaí ← br̥hánt- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+śárave ← śáru- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +208,7 @@ Geldner (n. 7d) points out the contrast between Viṣṇu as creator (c) and Rud
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
 <details open><summary><h2>05-08 ...{Loading}...</h2></summary>
 
 The list of gods to whom Agni will tattle on us follows a certain pattern.
@@ -197,3 +249,4 @@ Was willst dem grossen Nahrungbringer Puschan, dem kampfgeübten Somatrinker Rud
 О каком семени скажешь Вишну широкошагающему?  
 Что, о Агни, высокому выстрелу?
 </details>
+

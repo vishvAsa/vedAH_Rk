@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árjunam ← árjuna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+haryántam ← √hary- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhī́vr̥tam ← √vr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+śukraíḥ ← śukrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+avr̥ṇot ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+háribhiḥ ← hári- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sutám ← √su- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+ājata ← √aj- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+háribhiḥ ← hári- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Indra den hellen, holden Blitz, den rings von Licht umgebenen, Den Saft, gepress
 Нашел Индра (-сому), выжатого золотистыми камнями.  
 Он выгнал коров с помощью золотистых (коней).
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+ápaḥ ← ápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+nadī́nām ← nadī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ābhyaḥ ← ayám (pronoun)  
+{case:DAT, gender:F, number:PL}
+
+áradaḥ ← √rad- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+admasádaḥ ← admasád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+párvatāḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+seduḥ ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dr̥ḷhā́ni ← √dr̥h- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sukrato ← sukrátu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +230,4 @@ Jetzt bleibt und immer dieses Werk der Ströme, als du, o Indra, ihnen brachst d
 Уселись горы, словно сотрапезники.  
 Тобой, о обладатель благой силы духа, укреплены пространства.
 </details>
+

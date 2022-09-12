@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śr̥ṇu ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+váṣṭi ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vavákṣi ← √vaś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vīḷáyāsi ← √vīḍ- ~ √vīḷ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+vīḷú ← vīḷú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +175,4 @@ Und hör, o mächtiger, auf den, der von dir wünscht, das wünsch auch du, Was 
 Кто от тебя хочет (чего-либо), этого хочешь ты.  
 Что хочешь сделать крепким, то крепко.
 </details>
+

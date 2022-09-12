@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jagmúḥ ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+manīṣā́ḥ ← manīṣā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vibhvàḥ ← vibhū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+nūnám ← nūnám (invariable)  
+{}
+
+purā́ ← purā́ (invariable)  
+{}
+
+ŕ̥ṣīṇām ← ŕ̥ṣi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+stutáyaḥ ← stutí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+paspr̥dhré ← √spr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ukthārkā́ ← ukthārká- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,3 +264,4 @@ Zu dir gehn hin, o Indra, viele Lieder, und von dir aus gehn herrliche Gedanken;
 Прежде и теперь восхваления риши:  
 Гимны и песни, состязаются за Индру.
 </details>
+

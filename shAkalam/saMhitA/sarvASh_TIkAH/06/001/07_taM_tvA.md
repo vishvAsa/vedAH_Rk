@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+návyam ← návya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudhyàḥ ← sudhī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+devayántaḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+sumnāyávaḥ ← sumnāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anayaḥ ← √nī- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dī́dyānaḥ ← √dī- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+br̥hatā́ ← br̥hánt- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rocanéna ← rocaná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

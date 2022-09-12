@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hiraṇyáyā ← hiraṇyáya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+ayaṁsta ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+bāhū́ ← bāhú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sávanāya ← sávana- 2 (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+makháḥ ← makhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pāṇī́ ← pāṇí- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pruṣṇute ← √pruṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sudákṣaḥ ← sudákṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vídharmaṇi ← vídharman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yúvā ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Schon streckt empor die Arme Savitar, der Gott, die goldenen, zur Spende kräfti
 Жиром он смачивает ладони, щедрый  
 Юноша с прекрасной силой действия, чтобы распределить (его) в пространстве.
 </details>
+

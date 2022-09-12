@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+āsábhiḥ ← āsán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+madhupébhiḥ ← madhupá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pibatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mádhune ← mádhu- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+yuñjāthām ← √yuj- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jinvathaḥ ← √ji- 2 ~ jinv- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mádhunā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+
+vartaním ← vartaní- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dŕ̥tim ← dŕ̥ti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádhumantam ← mádhumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vahethe ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Den Honig trinket mit den Honiglippen nun, und schirrt den lieben Wagen an zum s
 Вы освежаете медом колею на дороге.  
 Вы везете (кожаный) мешок, полный меда, о Ашвины!
 </details>
+

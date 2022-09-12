@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+sū́dadohasaḥ ← sū́dadohas- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+pŕ̥śnayaḥ ← pŕ̥śni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrīṇanti ← √śrī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+jánman ← jánman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+rocané ← rocaná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+triṣú ← trí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +192,4 @@ Die Kühe strömend süsse Milch, erwärmen seinen Opfertrank; In den drei Himme
 
 -ru-
 </details>
+

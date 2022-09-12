@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvarasya ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hotar ← hótar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+viśáḥ ← víś- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+pā́vakaśoce ← pāvakáśocis- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+véḥ ← √vī- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+yájvā ← yájvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́ḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+r̥tā́ ← r̥tá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yajāsi ← √yaj- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+yaviṣṭha ← yáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,3 +263,4 @@ Wenn zu den Menschen heut, o Opferpriester, mit hellem Licht du kommst – denn 
 Ты должен принести жертву по закону, когда ты развернешься в (полную) величину!  
 Отвези возлияния, о жертвующий лучше всех, которые (совершили) для тебя сегодня!
 </details>
+

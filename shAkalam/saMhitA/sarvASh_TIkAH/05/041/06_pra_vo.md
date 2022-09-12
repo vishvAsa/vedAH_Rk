@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+rathayújam ← rathayúj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vāyúm ← vāyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+panitā́ram ← panitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vípram ← vípra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iṣudhyávaḥ ← iṣudhyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+púraṁdhīḥ ← púraṁdhi- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+r̥tasā́paḥ ← r̥tasáp- (nominal stem)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+átra ← átra (invariable)  
+{}
+
+dhiyé ← dhī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+dhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pátnīḥ ← pátnī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vásvīḥ ← vásu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +245,4 @@ Den Vaju stellt euch an als Wagenschirrer, den Gott als Sänger, der mit Liedern
 (Вы,) стремящиеся получить вознаграждения, поддерживающие закон!  
 Благие жены богов пусть наделят здесь (вдохновением) нашу поэтическую мысль!
 </details>
+

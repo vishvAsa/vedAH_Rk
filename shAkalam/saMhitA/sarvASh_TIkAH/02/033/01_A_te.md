@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+marutām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pitar ← pitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+saṁdŕ̥śaḥ ← saṁdŕ̥ś- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yuyothāḥ ← √yu- 2 (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:MED}
+
+abhí ← abhí (invariable)  
+{}
+
+árvati ← árvant- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kṣameta ← √kṣam- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jāyemahi ← √janⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+prajā́bhiḥ ← prajā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+rudra ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +240,4 @@ Es nahe deine Huld, o Marut-Vater, nicht halte fern uns von der Sonne Anblick; D
 Да пощадит нас герой, когда (речь идет) о коне!  
 Мы хотим возрождаться, о Рудра, через потомство!
 </details>
+

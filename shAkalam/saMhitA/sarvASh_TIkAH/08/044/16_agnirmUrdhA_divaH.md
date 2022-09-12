@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+kakút ← kakúd- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mūrdhā́ ← mūrdhán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+jinvati ← √ji- 2 ~ jinv- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rétāṁsi ← rétas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +156,6 @@ Lord of the earth here,
 He quickeneth the seed of the waters.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Agni ist das Haupt, die Spitze des Himmels, er der Herr der Erde; er kräftigt den Samen der Gewässer.
@@ -142,3 +172,4 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 Он хозяин земли,  
 Он оживляет семена вод.
 </details>
+

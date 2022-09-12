@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śraddhā́m ← śraddhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yájamānāḥ ← √yaj- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+āsate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+vāyúgopāḥ ← vāyúgopa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́kūtyā ← ā́kūti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hr̥dayyàyā ← hr̥dayyà- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śraddhā́m ← śraddhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śraddháyā ← śraddhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vindate ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +168,4 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 Веру – с сердечной склонностью.  
 С помощью веры находят добро.
 </details>
+

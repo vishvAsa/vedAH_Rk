@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pratnám ← pratná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yuṣmé ← tvám (pronoun)  
+{case:LOC, number:PL}
+
+áṅgirobhiḥ ← áṅgiras- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+vádadbhiḥ ← √vadⁱ- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+valám ← valá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+acyutacyut ← acyutacyút- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dasma ← dasmá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hán ← √han- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+iṣáyantam ← √iṣ- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+r̥ṇóḥ ← √r̥- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +248,4 @@ Es sei mit euch uns diese alte Freundschaft; von Angiras besungen, schlugst, o h
 Валу, наслаждающегося (коровами), о удивительный сотрясатель несотрясаемого.  
 Ты раскрыл (его) крепости, все его врата.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ha ← ha (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stutáḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vr̥trā́ ← vr̥trá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+apratī́ni ← apratí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bhū́rīṇi ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hanti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+jaritā́ ← jaritár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śárman ← śárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mártāḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+vāráyante ← √vr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Gepriesen ward der starke Indra, weil er allein erschlägt viel übermächt'ge F
 Ему мил певец, которого под (его) защитой  
 Не потеснят ни боги, ни смертные.
 </details>
+

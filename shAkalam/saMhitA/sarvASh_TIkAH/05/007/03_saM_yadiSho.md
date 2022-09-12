@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iṣáḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+vánāmahe ← √vanⁱ- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mā́nuṣāṇām ← mā́nuṣa- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+dyumnásya ← dyumná- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dade ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+raśmím ← raśmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +188,4 @@ Wenn wir der Menschen Tränke ihm und ihre Opfergüsse weihn, Ergreift des Glanz
 То и он силой вспышки  
 Хватает узду закона.
 </details>
+

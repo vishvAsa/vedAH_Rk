@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+uśatī́ḥ ← √vaś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+asadan ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+devayántīḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+ádhvaryavaḥ ← adhvaryú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sunutá ← √su- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ábhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+devayajyā́ ← devayajyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+suśákā ← suśáka- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +226,4 @@ Die Wasser nahten freudig dieser Streu jetzt, und setzten fromm sich bei dem Fes
 О адхварью, выжимайте сому для Индры!  
 Почитание богов стало легким для вас.
 </details>
+

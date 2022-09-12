@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vr̥trahantama ← vr̥trahántama- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+anumā́dyaḥ ← anumā́dya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukthébhiḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ádbhutaḥ ← ádbhuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pāvakáḥ ← pāvaká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +133,4 @@ O riesle, Feinde-tödtendster, durch Sprüche hoch zu rühmender, Erglänzend, f
 Которого надо приветствовать гимнами,  
 Чистый, очищающий, удивительный!
 </details>
+

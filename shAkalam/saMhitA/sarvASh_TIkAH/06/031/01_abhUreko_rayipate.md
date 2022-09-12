@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ábhūḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rayipate ← rayipáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adhithāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:MED}
+
+hástayoḥ ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥ṣṭī́ḥ ← kr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+sū́re ← sū́ra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tánaye ← tánaya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+toké ← toká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ávocanta ← √vac- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+carṣaṇáyaḥ ← carṣaṇí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vívācaḥ ← vívāc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Du bist der einz'ge Schätzeherr der Schätze, du Indra hast in deiner Hand die 
 Ради продолжения рода, ради вод, ради солнца  
 Состязались в спорах (о тебе) спорящие люди.
 </details>
+

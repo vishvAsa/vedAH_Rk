@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ástam ← ásta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+jāyā́ ← jāyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+yóniḥ ← yóni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vahantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yuktā́ḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ca ← ca (invariable)  
+{}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sunávāma ← √su- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+ácha ← ácha (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhanvāti ← √dhanv- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,3 +264,4 @@ Die Frau ist Heimat, sie der Schooss, o Indra; drum mögen dich geschirrt die F�
 Когда бы мы ни выжимали сому,  
 Пусть Агни помчится к тебе вестником!
 </details>
+

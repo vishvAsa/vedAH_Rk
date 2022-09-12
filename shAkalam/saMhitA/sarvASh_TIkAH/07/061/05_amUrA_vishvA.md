@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámūrā ← ámūra- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vr̥ṣaṇau ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+citrám ← citrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dádr̥śe ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+yakṣám ← yakṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́su ← yá- (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+ánr̥tā ← ánr̥ta- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+drúhaḥ ← drúh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sacante ← √sac- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+abhūvan ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+acíte ← acít- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+niṇyā́ni ← niṇyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Es strafen alle eure Rachegeister, an denen nicht Gestalt noch Schein gesehn wir
 Следуют за беззакониями людей.  
 Тайны не остались для вас непонятными.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+siñcata ← √sic- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sota ← √su- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+aptúram ← aptúr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rajastúram ← rajastúr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+udaprútam ← udaprút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vanakrakṣám ← vanakrakṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,7 +137,7 @@ This vs. contains two sleight-of-hand manoeuvres. The first involves the simile 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 Once again the 2nd vs. is syntactically dependent on the 1st in this pragātha: 8ab is couched in the acc., continuing the acc. phrase in 7bc, and 8cd is a rel. cl. whose antecedent is the acc. phrase.
@@ -134,3 +168,4 @@ Presst aus, ergiesst den emsigen, den Soma, der gleich einem Ross die Luft durch
 Как коня, (эту) хвалу, (его,) пересекающего воды, пересекающего пространство,  
 Шумящего в деревянных (сосудах), плавающего в воде,
 </details>
+

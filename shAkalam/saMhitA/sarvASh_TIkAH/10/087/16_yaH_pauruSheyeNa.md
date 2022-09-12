@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+kravíṣā ← kravís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+paúruṣeyeṇa ← paúruṣeya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+samaṅkté ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áśvyena ← áśvya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+paśúnā ← paśú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yātudhā́naḥ ← yātudhā́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aghnyā́yāḥ ← aghnyá- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhárati ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣīrám ← kṣīrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+hárasā ← háras- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śīrṣā́ṇi ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+vr̥śca ← √vr̥śc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Der Böse, welcher von dem Fleisch des Menschen, des Rosses und des Viehes sich 
 Кто отбирает молоко у коровы, о Агни,  
 Размозжи тем головы (своим) жаром!
 </details>
+

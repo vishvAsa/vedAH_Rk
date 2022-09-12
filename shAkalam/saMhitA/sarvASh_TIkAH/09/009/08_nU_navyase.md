@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+návīyase ← návīyaṁs- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+návyase ← návyas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+sādhaya ← √sādh- ~ sidh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sūktā́ya ← sūktá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+pratnavát ← pratnavát (invariable)  
+{}
+
+rocaya ← √ruc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rúcaḥ ← rúc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +147,4 @@ Dem jüngsten Sang, dem neusten Sang, ihm bahne grade Wege nun, Lass Lichter leu
 Для каждого нового гимна!  
 Как прежде, воссвети свет (вдохновения)!
 </details>
+

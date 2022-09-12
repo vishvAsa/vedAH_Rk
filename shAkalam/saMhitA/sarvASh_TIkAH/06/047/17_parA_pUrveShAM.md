@@ -16,14 +16,54 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+párā ← párā (invariable)  
+{}
+
+pū́rveṣām ← pū́rva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sakhyā́ ← sakhyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vr̥ṇakti ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+áparebhiḥ ← ápara- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vitárturāṇaḥ ← √tūr(v)- ~ tur- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ánānubhūtīḥ ← ánānubhūti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+avadhūnvānáḥ ← √dhū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tartarīti ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +156,7 @@ The hapax ánānubhūtīḥ is not entirely clear, but two things must be kept i
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/15-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/15-18.md">
 <details open><summary><h2>15-18 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, this section, which concerns Indra’s fickle attentions to various clients in turn, is marked grammatically by āmreḍitas and intensives (i.e., iterative/frequentatives), expressing the constantly shifting nature of the actions and their objects. See the published introduction. for the continuity of content I see in this section.
@@ -148,3 +188,4 @@ Er löset auf Genossenschaft der frühern, abwechselnd geht im Bund er mit den s
 Индра оставляет позади много осеней,  
 Стряхивая (их) с себя, чтобы они не ощущались.
 </details>
+

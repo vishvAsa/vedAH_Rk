@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ákṣaḥ ← ákṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhavatām ← √bhū- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+gā́vau ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sthiraú ← sthirá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vīḷúḥ ← vīḷú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īṣā́ ← īṣā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+śāri ← √śr̥̄- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+varhi ← √vr̥h- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+ví ← ví (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+yugám ← yugá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadatām ← √dad- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pātalyè ← pātalyà- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+śárītoḥ ← √śr̥̄- 1 (root)  
+{case:ABL, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+áriṣṭaneme ← áriṣṭanemi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sacasva ← √sac- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

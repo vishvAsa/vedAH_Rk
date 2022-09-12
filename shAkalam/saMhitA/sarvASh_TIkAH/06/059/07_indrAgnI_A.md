@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tanvaté ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+bāhvóḥ ← bāhú- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+dhánvāni ← dhánur ~ dhánvan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mahādhané ← mahādhaná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+gáviṣṭiṣu ← gáviṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+párā ← párā (invariable)  
+{}
+
+varktam ← √vr̥j- 1 (root)  
+{number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +189,4 @@ Die Männer spannen mit dem Arm die Bogen, Indra-Agni, schon; Verlasst uns in de
 Не оставьте нас в этой  
 Великой борьбе в поисках коров!
 </details>
+

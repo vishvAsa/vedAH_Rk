@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+budhánta ← √budh- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+paścā́ ← paścā́ (invariable)  
+{}
+
+paśvā́ ← paśú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+víyutā ← víyuti- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bravīti ← √brū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+rárāṇaḥ ← √rā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vaktári ← vaktár- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+anehā́ḥ ← anehás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kārávaḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vásoḥ ← vásu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vasutvā́ ← vasutvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kṣú ← kṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viveṣṭi ← √viṣ- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Als sie hinterher bemerkten, daß die Festen ihres Viehs beraubt waren, da redet
 
 -ru-
 </details>
+

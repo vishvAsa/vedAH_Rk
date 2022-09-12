@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular;; repeated line  
 popular  
 popular;; repeated line
+#### Morph
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mr̥tyáve ← mr̥tyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+párā ← párā (invariable)  
+{}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+páśyema ← √paś- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uccárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dyúbhiḥ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hitáḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+jarimā́ ← jarimán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+jihītām ← √hā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+nírr̥tiḥ ← nírr̥ti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+parātarám ← parātarám (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +240,4 @@ Nicht gib, o Soma, uns dem Tod zur Beute, noch möchten sehn wir, wie die Sonne 
 Пусть будет благополучной для нас старость с течением дней!  
 Как можно дальше пусть отступит Ниррити!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āntrā́ṇi ← āntrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ávartyā ← ávarti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pece ← √pac- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+śúnaḥ ← śván- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+marḍitā́ram ← marḍitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vivide ← √vid- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+ámahīyamānām ← ámahīyamāna- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ápaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+jāyā́m ← jāyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+jabhāra ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +200,7 @@ IV.19. Indra
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/12-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
 See the published introduction. for uncertainties about the interpr. of these vss. In some sense they seem to enlarge on the theme of “Indra’s disgrace” (índrasyāvadyám) in 7b -- the blood guilt Indra incurs from even sanctioned killing, made far worse by the intra-family slaughter depicted in vs. 12. Which leads to Indra’s extreme loss of status, isolation, and shunning by the other gods in the final vs. ### 12
@@ -181,3 +233,4 @@ Aus Hunger kochte ich des Hundes Eingeweide, ich fand keinen Gott der sich meine
 Я видел, как жену не уважали.  
 И тут орел принес мне сладкий напиток.
 </details>
+

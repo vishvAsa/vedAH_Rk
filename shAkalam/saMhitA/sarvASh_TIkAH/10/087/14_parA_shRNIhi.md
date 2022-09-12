@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
 popular
+#### Morph
+párā ← párā (invariable)  
+{}
+
+śr̥ṇīhi ← √śr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tápasā ← tápas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yātudhā́nān ← yātudhā́na- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hárasā ← háras- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+rákṣaḥ ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śr̥ṇīhi ← √śr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+arcíṣā ← arcís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mū́radevān ← mū́radeva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+párā ← párā (invariable)  
+{}
+
+śr̥ṇīhi ← √śr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+asutŕ̥paḥ ← asutŕ̥p- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+párā ← párā (invariable)  
+{}
+
+śóśucānaḥ ← √śuc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +198,4 @@ Mit Glut durchstoss die Zauberer, o Agni, durchstoss den Nachtgeist mit der Flam
 Разбей пламенем сторонников глупых богов,  
 Сжигая тех, кто уносит дыхание жизни!
 </details>
+

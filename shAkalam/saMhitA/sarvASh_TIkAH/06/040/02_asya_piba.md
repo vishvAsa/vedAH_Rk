@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jajñānáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+piba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ápibaḥ ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+krátve ← krátu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+virapśin ← virapśín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ádriḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+ahyan ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +248,4 @@ So trink von dem, von dem du kaum geboren, o Indra, trankst zu Rausch und Kraft,
 Коровы, мужи, воды, давильный камень приготовили тебе  
 Этот самый сок, чтобы ты пил его.
 </details>
+

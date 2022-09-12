@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+aratíḥ ← aratí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pāvakáḥ ← pāvaká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sumedhā́ḥ ← sumedhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uśík ← uśíj- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amŕ̥taḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+márteṣu ← márta- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+aruṣám ← aruṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bháribhrat ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dhūmám ← dhūmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+íyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ínakṣan ← √naś- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śukréṇa ← śukrá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Verlangend, flammend, emsig, voller Weisheit steht Agni bei den Sterblichen, uns
 Он гонит алый дым, вздымая вихрь,  
 Светлым пламенем стремясь подняться к небу.
 </details>
+

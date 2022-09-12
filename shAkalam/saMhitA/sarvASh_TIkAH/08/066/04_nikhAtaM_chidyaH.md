@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+níkhātam ← √khanⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+purusambhr̥tám ← purusambhr̥tá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+vápati ← √vap- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+háryaśvaḥ ← háryaśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+karat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+suśipráḥ ← suśiprá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vajrī́ ← vajrín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+váśat ← √vaś- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +228,4 @@ Der auch vergrabnen reichlich aufgehäuften Schatz zuschüttet dem Verehrenden, 
 Прекрасногубый громовержец Индра, хозяин буланых коней,  
 Пусть поступает, как хочет, по (своей) воле!
 </details>
+

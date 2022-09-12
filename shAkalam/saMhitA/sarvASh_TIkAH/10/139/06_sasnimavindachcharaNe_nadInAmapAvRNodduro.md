@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+avindat ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+cáraṇe ← cáraṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+nadī́nām ← nadī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sásnim ← sásni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+áśmavrajānām ← áśmavraja- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+avr̥ṇot ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+amŕ̥tāni ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+gandharváḥ ← gandharvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vocat ← √vac- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ahī́nām ← ahī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+dákṣam ← dákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jānāt ← √jñā- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Den Spender fand er auf der Bahn der Ströme, er öffnete der Felsenställe Thü
 Гандхарва провозгласил их бессмертные (имена).  
 Индра точно узнал силу (действия) коров.
 </details>
+

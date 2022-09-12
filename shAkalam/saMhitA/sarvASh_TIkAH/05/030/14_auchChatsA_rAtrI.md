@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aúchat ← √vas- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+páritakmyā ← páritakmya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rā́trī ← rā́trī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+rā́jani ← rā́jan- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+r̥ṇaṁcayé ← r̥ṇaṁcayá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ruśámānām ← ruśáma- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ajyámānaḥ ← √añj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+raghúḥ ← raghú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asanat ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+babhrúḥ ← babhrú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+catvā́ri ← catúr- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +181,7 @@ The primary reading of ajyámānaḥ is surely “being driven,” as the standa
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/13-14.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/13-14.md">
 <details open><summary><h2>13-14 ...{Loading}...</h2></summary>
 
 The two pāda-final sequences páritakmyāyāḥ (13d) and páritakmyā yā́m̐ (14a) in adjacent pādas are puzzling. The published translation reflects emendations of both forms to loc. sg. páritakmyāyām. This loc. occurs 6x, always pāda-final, including in the next hymn, V.31.11 -- by far the most common form to this stem. Moreover, VI.24.9d is identical to 14d, save for having the loc. páritakmyāyām -- a variation that Bloomfield (RVReps) finds “baffling.” The arguments in favor of emendation are the dominance of the loc. sg. and its appearance both in the next hymn and in the otherwise identical pāda in VI.24.9. However, these arguments cut both ways: it is difficult to understand how these forms would have become mangled - especially given the dominance of that same loc. sg. It cannot be claimed that the redactors misunderstood the forms because they had never seen their like. I therefore now feel that we must accept that the forms were in the urtext, deliberately produced by the poet, who was playing games with this well-known pāda-final temporal expression. I still believe that the intent of both forms is the same as the loc., but that the loc. has been deliberately altered, in two different ways, conditioned by the immediate context.
@@ -171,3 +223,4 @@ Als dämmerte die Nacht im Morgendunkel, hat Babhru viermal tausende empfangen, 
 Словно быстрый, победоносный скакун, погоняемый (на ристалище),  
 Бабхру получил четыре тысячи.
 </details>
+

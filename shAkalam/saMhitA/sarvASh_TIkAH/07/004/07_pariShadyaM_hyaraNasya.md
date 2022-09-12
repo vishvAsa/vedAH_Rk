@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+áraṇasya ← áraṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+pariṣádyam ← pariṣádya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rékṇaḥ ← rékṇas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nítyasya ← nítya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pátayaḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+anyájātam ← anyájāta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+śéṣaḥ ← śéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ácetānasya ← ácetāna- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dukṣaḥ ← √duh- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Denn werth des Strebens ist des Feindes Reichthum, doch eignen Guts Besitzer las
 Не потомство, о Агни, то, что рождено другим.  
 Да не исчерпаешь ты пути для неразумного!
 </details>
+

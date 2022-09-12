@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṇīte ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ādityā́n ← ādityá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+īṭṭe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśvínau ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+aṁśóḥ ← aṁśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ávivenam ← ávivenam (invariable)  
+{}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pibanti ← √pā- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Wer wünschet heute sich der Götter Hülfe? fleht Aditi um Licht und die Aditja
 У кого Ашвины, Индра, Агни пьют  
 Выжатый сок растения, не отвращаясь духом?
 </details>
+

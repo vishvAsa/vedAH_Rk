@@ -15,13 +15,50 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ha ← ha (invariable)  
+{}
+
+svit ← svit (invariable)  
+{}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yujā́ ← yúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+bruvīmahi ← √brū- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+śvasántam ← √śvasⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gómataḥ ← gómant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jánasya ← jána- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+saṁsthé ← saṁsthā́- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +164,4 @@ Mit dir im Bunde wollen wir Vergeltung üben an dem Schnaubenden, o Stier, Im Ka
 Хотим дать ответ (этому) сопящему, о бык,  
 В присутствии человека, богатого коровами.
 </details>
+

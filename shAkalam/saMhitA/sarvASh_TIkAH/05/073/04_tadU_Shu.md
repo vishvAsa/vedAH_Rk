@@ -16,14 +16,72 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sú ← sú (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ánu ← ánu (invariable)  
+{}
+
+stáve ← √stu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+arepásā ← arepás- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+jātaú ← √janⁱ- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+nā́nā ← nā́nā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+bándhum ← bándhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īyathuḥ ← √i- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Das habt ihr herrlich hier vollbracht, und alles, was man von euch rühmt; Ihr r
 Родившись в разных местах, беспорочные,  
 Вы вступили с нами в тесную связь.
 </details>
+

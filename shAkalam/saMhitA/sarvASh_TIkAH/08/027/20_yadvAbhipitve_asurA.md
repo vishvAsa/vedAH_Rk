@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhipitvé ← abhipitvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+asurāḥ ← ásura- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yaté ← √i- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+chardíḥ ← chardís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yemá ← √yam- (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+viśvavedasaḥ ← viśvávedas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+stheyāma ← √sthā- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Wenn in der Dämmrung, Götter, ihr habt Schutz gereicht dem Frommen, der zum Op
 О благие всеведущие (боги), мы хотели бы оказаться  
 Под этим вашим (щитом) – (прямо) посередине!
 </details>
+

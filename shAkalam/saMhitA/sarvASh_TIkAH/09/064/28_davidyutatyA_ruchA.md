@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+dávidyutatyā ← √dyut- (root)  
+{case:INS, gender:F, number:SG, tense:PRS, voice:ACT}
+
+rucā́ ← rúc- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+kr̥pā́ ← kŕ̥p- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pariṣṭóbhantyā ← √stubh- (root)  
+{case:INS, gender:F, number:SG, tense:PRS, voice:ACT}
+
+gávāśiraḥ ← gávāśir- (nominal stem)  
+{case:NOM, number:PL}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śukrā́ḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -83,7 +105,7 @@ On pari √stubh see nearby IX.62.24. It is not entirely clear to me how the k�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/28-30.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
 The contrast between the two types of soma drinks, pure and mixed with milk, are highlighted in this tṛca, at least in my view: 28c sómāḥ śukrā́gávāśiraḥ describes them straightforwardly, while 30ab ṛdhák … saṃjagmānáḥ “separately (and) uniting (with milk)” is more cryptic.
@@ -111,3 +133,4 @@ Die milchgemischten Soma's sind erhellt von lichtem Strahlenglanz, Versehn mit r
 
 -ru-
 </details>
+

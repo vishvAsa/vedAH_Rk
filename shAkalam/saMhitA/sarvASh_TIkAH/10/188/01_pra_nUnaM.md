@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+jātávedasam ← jātávedas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hinota ← √hi- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āsáde ← √sad- (root)  
+{case:DAT, number:SG}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +149,4 @@ Zu Agni send' ich hin mein Lied, zu ihm, der Herr der Völker ist, Er führ' uns
 Коня, приносящего награду,  
 Чтоб он уселся здесь на нашу жертвенную солому!
 </details>
+

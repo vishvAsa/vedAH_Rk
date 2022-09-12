@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ādhrā́ya ← ādhrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cakamānā́ya ← √kam- (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:MED}
+
+pitváḥ ← pitú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ánnavān ← ánnavant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+raphitā́ya ← √raph- (root)  
+{case:DAT, gender:M, number:SG, non-finite:PPP}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+upajagmúṣe ← √gam- (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+
+kr̥ṇuté ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+purā́ ← purā́ (invariable)  
+{}
+
+sévate ← √sev- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sthirám ← sthirá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+marḍitā́ram ← marḍitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+vindate ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ Wer einem Dürft'gen, der nach Trunk verlangend lechzt, dem Armen, der ihm hunge
 Делает душу камнем, хотя был расположен (к нему) раньше,  
 Тот не находит сочувствующего.
 </details>
+

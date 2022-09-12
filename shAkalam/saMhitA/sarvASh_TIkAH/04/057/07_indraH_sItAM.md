@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+gr̥hṇātu ← √gr̥hⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sī́tām ← sī́tā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+yachatu ← √yam- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+duhām ← √duh- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+páyasvatī ← páyasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+sámām ← sámā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+úttarām-uttarām ← úttara- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +195,4 @@ Es möge Indra in die Furche hineingreifen, die Richtung gebe ihr Puschan; sie m
 Богатая молоком, пусть доится она для нас  
 Каждый следующий год!
 </details>
+

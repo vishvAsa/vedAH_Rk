@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+ādityā́ḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+balínaḥ ← balín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sómena ← sóma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sómena ← sóma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+eṣā́m ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+nákṣatrāṇām ← nákṣatra- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+u ← u (invariable)  
+{}
+
+ā́hitaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +169,4 @@ Aditja's sind durch Soma stark, | durch Soma ist die Erde weit; | darum ist Soma
 И в лоне этих созвездий  
 Помещен Сома.
 </details>
+

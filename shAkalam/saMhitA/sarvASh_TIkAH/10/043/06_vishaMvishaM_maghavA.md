@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśāyata ← √aśāy- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+víśaṁ-viśam ← víś- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+avacā́kaśat ← √kāś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dhénāḥ ← dhénā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+ráṇyati ← √ranⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śakráḥ ← śakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sávaneṣu ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pr̥tanyatáḥ ← √pr̥tany- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sahate ← √sah- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sómaiḥ ← sóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tīvraíḥ ← tīvrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Es lagert sich der starke Stier um jedes Haus, so oft er nur des Menschen Milchg
 А у кого могучий радуется на выжиманиях,  
 Тот с помощью резких соков сомы одолевает нападающих.
 </details>
+

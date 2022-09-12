@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āyasáḥ ← āyasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nímiślaḥ ← nímiśla- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vájraḥ ← vájra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bāhvóḥ ← bāhú- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+bhū́yiṣṭham ← bhū́yiṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+krátavaḥ ← krátu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nireké ← nireká- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śīrṣán ← śíras- ~ śīrṣán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+āsán ← āsán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+īṣanta ← √īṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED, mood:DES}
+
+śrútyai ← √śru- (root)  
+{case:DAT, number:SG}
+
+upāké ← upāká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Des Indra Blitz, der eherne, er schmiegt sich an Indra's Arme, und die höchste 
 
 -ru-
 </details>
+

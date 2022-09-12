@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dadr̥śe ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+purástāt ← purástāt (invariable)  
+{}
+
+sthūrám ← sthūrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+anastháḥ ← anasthá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+avarámbamāṇaḥ ← √ramb- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ūrúḥ ← ūrú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhicákṣya ← √cakṣ- (root)  
+{non-finite:CVB}
+
+āha ← √ah- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+nā́rī ← nā́rī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śáśvatī ← śáśvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+arya ← aryá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhójanam ← bhójana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bibharṣi ← √bhr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+súbhadram ← súbhadra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +201,4 @@ Es wurde erblickt sein grosses männliches Glied, was vorne wie ein knochenloses
 Увидев (его), любая женщина скажет:  
 О благой, ты приносишь счастливое удовлетворение.
 </details>
+

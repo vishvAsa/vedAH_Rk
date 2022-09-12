@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+akr̥panta ← √kr̥p- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+jānántaḥ ← √jñā- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+rūpám ← rūpá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ghóṣam ← ghóṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gmán ← √gam- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+mahiṣásya ← mahiṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mr̥gásya ← mr̥gá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+asthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+síndhum ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yántaḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+amŕ̥tāni ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+gandharváḥ ← gandharvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vidát ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Die Sänger flehten, die Gestalt erkennend, hineilend zu des wilden Büffels Don
 Идя правильным путем, они поднялись к реке.  
 Гандхарва нашел бессмертные имена.
 </details>
+

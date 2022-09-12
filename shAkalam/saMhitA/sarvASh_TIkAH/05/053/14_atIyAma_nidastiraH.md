@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áti ← áti (invariable)  
+{}
+
+iyāma ← √i- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+nidáḥ ← níd- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tirás ← tirás (invariable)  
+{}
+
+árātīḥ ← árāti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+avadyám ← avadyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hitvā́ ← √hā- 2 (root)  
+{non-finite:CVB}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bheṣajám ← bheṣajá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+usrí ← uṣár- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vr̥ṣṭvī́ ← √vr̥ṣ- 1 (root)  
+{non-finite:CVB}
+
+yós ← yós (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sahá ← sahá (invariable)  
+{}
+
+syā́ma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +204,4 @@ Lasst ungefährdet durch die Feinde dringen uns, vermeidend Schmach und Ungemach
 Когда прошел дождь, да будут воды на заре на счастье (и) благо, (да будут они) целебными средством!  
 Да будет мы при этом, о Маруты!
 </details>
+

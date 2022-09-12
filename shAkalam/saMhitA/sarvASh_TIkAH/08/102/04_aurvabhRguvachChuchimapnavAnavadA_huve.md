@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+aurvabhr̥guvát ← aurvabhr̥guvát (invariable)  
+{}
+
+śúcim ← śúci- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+apnavānavát ← apnavānavát (invariable)  
+{}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samudrávāsasam ← samudrávāsas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +147,4 @@ Wie Aurva, Bhrigu rufe ich, wie Apnavāna Agni her, Den lichten, meerumkleideten
 Я призываю чистого  
 Агни, чья одежда – море.
 </details>
+

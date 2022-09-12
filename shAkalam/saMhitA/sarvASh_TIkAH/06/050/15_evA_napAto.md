@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+evá ← evá (invariable)  
+{}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+nápātaḥ ← nápat- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+arcanti ← √r̥c- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bharádvājāḥ ← bharádvāja- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádhr̥ṣṭāḥ ← ádhr̥ṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gnā́ḥ ← gnā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hutā́saḥ ← √hu- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+vásavaḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhūta ← √bhū- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+stutā́saḥ ← √stu- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yajatrāḥ ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ So preisen meine Enkel hier, die Bharadvadscher andachtsvoll mit Lobgesängen; i
 Призванные божественные жены, неодолимые Васу –  
 Будьте все прославлены, о достойные жертв!
 </details>
+

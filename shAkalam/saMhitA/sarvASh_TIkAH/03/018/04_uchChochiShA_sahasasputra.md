@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; 11 = 4+7, ending HLX  
 genre M  
 genre M  
 genre M
+#### Morph
+putra ← putrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+stutáḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+út ← út (invariable)  
+{}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śaśamānéṣu ← √śamⁱ- (root)  
+{case:LOC, gender:M, number:PL, tense:PRF, voice:MED}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+viśvā́mitreṣu ← viśvā́mitra- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yós ← yós (invariable)  
+{}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+kŕ̥tvas ← kŕ̥tvas (invariable)  
+{}
+
+marmr̥jmá ← √mr̥j- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Gib grosse Kraft, o Agni, Sohn der Stärke, gepriesener, den Opfernden durch Lic
 Потомков Вишвамитры, о Агни, – богатством на счастье и благо?  
 Много раз мы начищали твое тело.
 </details>
+

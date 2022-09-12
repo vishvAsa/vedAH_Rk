@@ -17,15 +17,79 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+adhām ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+sáhamānām ← √sah- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+adhām ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+sáhīyasā ← sáhīyaṁs- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dhāvatu ← √dhāv- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+gaúḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhāvatu ← √dhāv- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vā́r ← vā́r- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +232,4 @@ Dir leg' die kräftige ich an, bekränz' dich mit dem stärkeren, Zu mir hin eil
 Побежит, как корова за теленком,  
 Как вода по дороге, пускай побежит!
 </details>
+

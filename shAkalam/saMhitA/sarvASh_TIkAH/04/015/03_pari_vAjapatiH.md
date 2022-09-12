@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+vā́japatiḥ ← vā́japati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+akramīt ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+havyā́ni ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rátnāni ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -85,13 +113,10 @@ genre M
 **वाजपतिः** वाजानामन्नानां पतिः पालकः । ‘परि वाजपतिः कविरित्येष हि वाजानां पतिः (ऐ. ब्रा, २. ५) इति ब्राह्मणम् । **कविः** क्रान्तदर्शी मेधावी वा **दाशुषे** हविर्दत्तवते यजमानाय **रत्नानि** रमणीयानि धनानि **दधत्** प्रयच्छन् **अग्निः** **हव्यानि** हवींषि **परि** **अक्रमीत्** परितः क्रामति । व्याप्नोति ॥
 </details>
 
-
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 agni, the lord of the booty, the seer, has walked around the oblations, conferrings gems to the worshipper.
 </details>
-
-
 
 <details><summary>Wilson</summary>
 
@@ -139,3 +164,4 @@ Der weise Gutsherr Agni schritt rings um die Opfertränke her, Verleihend Schutz
 Агни отправился вокруг жертвенных возлияний,  
 Наделяя сокровищами почитающего (его).
 </details>
+

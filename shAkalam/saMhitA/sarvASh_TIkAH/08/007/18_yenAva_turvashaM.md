@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+āvá ← √avⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+turváśam ← turváśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yádum ← yádu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+dhanaspŕ̥tam ← dhanaspŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+káṇvam ← káṇva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+dhīmahi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +175,4 @@ Der Reichthum werde uns zu Theil mit dem ihr Turvaça, Jadu Und Kanva'n halft, d
 Чем Канве, захватившему награду,  
 Этим мы хотели б хорошенько воспользоваться ради богатства.
 </details>
+

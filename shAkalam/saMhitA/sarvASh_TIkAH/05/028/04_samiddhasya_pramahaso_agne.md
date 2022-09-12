@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+prámahasaḥ ← prámahas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sámiddhasya ← √idh- 1 (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śríyam ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vánde ← √vandⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dyumnávān ← dyumnávant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adhvaréṣu ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+idhyase ← √idh- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Ich preise, Agni, deine Pracht des hehren, angezündeten; Du bist ein glanzbegab
 Ты сверкающий бык.  
 Тебя зажигают во время обрядов.
 </details>
+

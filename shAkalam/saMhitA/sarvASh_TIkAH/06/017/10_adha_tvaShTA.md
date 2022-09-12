@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+maháḥ ← mahá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugra ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahásrabhr̥ṣṭim ← sahásrabhr̥ṣṭi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatā́śrim ← śatā́śri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vavr̥tat ← √vr̥t- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+arámaṇasam ← arámaṇas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+níkāmam ← níkāma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+návantam ← √nu- ~ nū- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+piṇak ← √piṣ- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+r̥jīṣin ← r̥jīṣín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +224,4 @@ Da drehte, starker, dir der grosse Tvaschtar den tausendzack'gen Blitz, den hund
 Послушную (твоему) желанию, следующую (твоей) мысли, с помощью которой  
 Ты, о пьющий сому из выжимок, разгромил ревущего змея.
 </details>
+

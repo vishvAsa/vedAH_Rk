@@ -15,14 +15,51 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+citrā́bhiḥ ← citrá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vájrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+prátiṣṭutim ← prátiṣṭuti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vāvántha ← √vanⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+hávaḥ ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ Ich rufe dich, der Stier den Stier, durch viele Laben, Blitzender; Denn du bist 
 О громовержец, с яркими поддержками –  
 Ведь ты любишь восхваление. Бык – призыв (тебя).
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ādityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ávasaḥ ← ávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vidyā́m ← √vid- 2 (root)  
+{number:SG, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aryaman ← áryaman- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhayé ← bhayá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+mayobhú ← mayobhú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+práṇītau ← práṇīti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yuṣmā́kam ← tvám (pronoun)  
+{case:GEN, number:PL}
+
+duritā́ni ← duritá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+śvábhrā ← śvábhra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vr̥jyām ← √vr̥j- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Durch eure Huld, Aditja's, mög' ich finden, o Arjaman, was in der Noth auch Hei
 Под вашим предводительством, о Митра-Варуна,  
 Я хотел бы объехать трудности, как ямы.
 </details>
+

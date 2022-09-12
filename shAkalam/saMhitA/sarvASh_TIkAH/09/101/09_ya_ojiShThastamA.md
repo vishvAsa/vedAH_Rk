@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ójiṣṭhaḥ ← ójiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pávamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+śravā́yyam ← śravā́yya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+carṣaṇī́ḥ ← carṣaṇí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+páñca ← páñca- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vánāmahai ← √vanⁱ- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +163,7 @@ Both Geldner and Renou supply ‘wealth’ (rayím), found in d, as the referent
 In c I supply a form of √as with abhí in the meaning ‘surmount, dominate, prevail over’.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Again, quite straightforward and not particularly cohesive.
@@ -152,3 +195,4 @@ Den Reichthum bringe, flammender! den stärksten, rühmenswerthen her, Der über
 (То,) что пре(восходит) пять народов,  
 Благодаря которому мы победим!
 </details>
+

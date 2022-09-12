@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+antár ← antár (invariable)  
+{}
+
+nā́vaḥ ← naú- ~ nā́v- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pūṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+antárikṣe ← antárikṣa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+cáranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hiraṇyáyīḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dūtyā́m ← dūtī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+yāsi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ichámānaḥ ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+kā́mena ← kā́ma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+kr̥ta ← √kr̥- (root)  
+{case:VOC, gender:M, number:SG, non-finite:PPP}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +224,4 @@ O Puschan, welche goldbeladnen Schiffe im Meere dir und in dem Luftraum fahren, 
 На них ты ездишь с посольством Сурьи,  
 Ища славы, о (бог,) сотворенный любовью.
 </details>
+

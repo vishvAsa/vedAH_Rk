@@ -18,16 +18,71 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saptámānuṣaḥ ← saptámānuṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+síndhuṣu ← síndhu- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śritáḥ ← √śri- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+víśveṣu ← víśva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aganma ← √gam- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tripastyám ← tripastyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dasyuhántamam ← dasyuhántama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mandhātúḥ ← mandhātár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñéṣu ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +245,4 @@ Der hold den sieben Völkern ist und der in allen Strömen weilt, Den Agni, der 
 К Агни, первому на жертвоприношениях.  
 Пусть лопнут все ничтожные другие!
 </details>
+

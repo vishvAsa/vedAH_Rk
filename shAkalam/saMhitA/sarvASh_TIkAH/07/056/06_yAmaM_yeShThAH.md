@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+śóbhiṣṭhāḥ ← śóbhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śubhā́ ← śúbh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yā́mam ← yā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yéṣṭhāḥ ← yéṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ójobhiḥ ← ójas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sámmiślāḥ ← sámmiśla- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śriyā́ ← śrī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ugrā́ḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,3 +135,4 @@ Im Lauf die schnellsten, – an Glanz die hellsten, Gepaart mit Schönheit, – 
 Лучшие путешественники в путешествии, самые красивые красотой, .  
 Сопровождаемые блеском, грозные (своими) силами...
 </details>
+

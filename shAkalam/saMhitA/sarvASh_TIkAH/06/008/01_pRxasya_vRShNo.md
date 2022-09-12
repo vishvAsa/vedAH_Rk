@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aruṣásya ← aruṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+pr̥kṣásya ← pr̥kṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jātávedasaḥ ← jātávedas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+vidáthā ← vidátha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vocam ← √vac- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+matíḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+návyasī ← návyas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vaiśvānarā́ya ← vaiśvānará- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cā́ruḥ ← cā́ru- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,8 +189,6 @@ A pure and new mantra flows to vaishvAnara,
 like the purified tasty soma for agni.
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -175,3 +231,4 @@ Des feuerfarbnen, starken Rosses Kraft will ich, des Wesenkenners Opferfeste pre
 Для Вайшванары самая новая светлая молитва  
 Очищается, словно сома, молитва, приятная для Агни.
 </details>
+

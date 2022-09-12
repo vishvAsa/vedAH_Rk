@@ -15,13 +15,41 @@ ChandaH = "ह्रसीयसी"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+préṣṭham ← préṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG, mood:OPT}
+
+priyā́ṇām ← priyá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+āsāva ← āsāva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+átithim ← átithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stuhí ← √stu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ráthānām ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yámam ← yáma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +149,4 @@ O Trankbereiter, preise nun ihn, der geliebten liebsten Gast, Den Agni, der die 
 Самого любимого из любимых,  
 Агни, водителя колесниц!
 </details>
+

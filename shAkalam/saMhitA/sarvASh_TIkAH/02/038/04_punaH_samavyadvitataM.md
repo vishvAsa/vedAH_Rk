@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avyat ← √vyā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+púnar ← púnar (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+váyantī ← √u- 2 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+vítatam ← √tan- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+adhāt ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dhī́raḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kártoḥ ← √kr̥- (root)  
+{case:ABL, number:SG}
+
+madhyā́ ← madhyā́ (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+śákma ← śákman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+adardhar ← √dhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+r̥tū́n ← r̥tú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+saṁhā́ya ← √hā- 1 (root)  
+{non-finite:CVB}
+
+út ← út (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+arámatiḥ ← arámati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +241,4 @@ Zusammen rollt die Weberin den Aufzug, der Künstler bei der Arbeit gab sein Wer
 Он поднялся, собравшись. Он отделил друг от друга времена жертвоприношений.  
 Не останавливаясь, пришел бог Савитар.
 </details>
+

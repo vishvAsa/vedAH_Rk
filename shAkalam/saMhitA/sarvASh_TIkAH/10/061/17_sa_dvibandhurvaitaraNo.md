@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dvibándhuḥ ← dvibándhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vaitaraṇáḥ ← vaitaraṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáṣṭā ← yáṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asvàm ← asū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+duhádhyai ← √duh- (root)  
+{case:DAT, number:SG}
+
+sabardhúm ← sabardhú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mitrā́váruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sám ← sám (invariable)  
+{}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vr̥ñjé ← √vr̥j- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aryamáṇam ← áryaman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jyéṣṭhebhiḥ ← jyéṣṭha- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+várūthaiḥ ← várūtha- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +192,4 @@ Dieser Dvibandhu, der Nachkomme des Vitarana, bewirkt durch Opfer, dass die unfr
 
 -ru-
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+nāthitā́saḥ ← √nāth- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+tr̥ṣṇájaḥ ← tr̥ṣṇáj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+ádīdhayuḥ ← √dhī- (root)  
+{number:PL, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+dāśarājñé ← dāśarājñá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vr̥tā́saḥ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+aśrot ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stuvatáḥ ← √stu- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vásiṣṭhasya ← vásiṣṭha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+akr̥ṇot ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+tŕ̥tsubhyaḥ ← tŕ̥tsu- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ulokám ← uloká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+urúm ← urú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Wie durstende schauten sie flehend auf zum Himmel, als sie in der Zehnkönigssch
 Индра услыхал восхваляющего Васиштху:  
 Он создал для тритсу широкое пространство.
 </details>
+

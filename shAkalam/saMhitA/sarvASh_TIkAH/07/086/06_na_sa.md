@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dákṣaḥ ← dákṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhrútiḥ ← dhrúti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+sváḥ ← svá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ácittiḥ ← ácitti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+manyúḥ ← manyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+súrā ← súrā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vibhī́dakaḥ ← vibhī́daka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jyā́yān ← jyā́yaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kánīyasaḥ ← kánīyaṁs- (nominal stem)  
+{case:GEN, number:SG}
+
+upāré ← upārá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ánr̥tasya ← ánr̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+prayotā́ ← prayotár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svápnaḥ ← svápna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Nicht war's mein Will', o Gott, Verstrickung war es, Rausch war es, Zorn, verwir
 Старший участвует в заблуждении младшего.  
 Даже сон не предотвратил зла.
 </details>
+

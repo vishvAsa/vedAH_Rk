@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+gopā́ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+devā́ ← devá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yajñíyā ← yajñíya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pūtádakṣasā ← pūtádakṣas- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+r̥tā́vānā ← ŕ̥tāvan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yajase ← √yaj- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Des Alls Behüter beide euch, die auch bei Göttern sind geehrt, Die reingesinnt
 Достойных жертв богов среди богов,  
 Преданных закону, с чистой силой действия я хочу почтить.
 </details>
+

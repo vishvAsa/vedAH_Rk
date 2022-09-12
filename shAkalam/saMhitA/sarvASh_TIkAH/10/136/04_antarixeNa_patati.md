@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+antárikṣeṇa ← antárikṣa- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+patati ← √pat- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+avacā́kaśat ← √kāś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rūpā́ ← rūpá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+devásya-devasya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+múniḥ ← múni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hitáḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saúkr̥tyāya ← saúkr̥tya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +160,4 @@ Durch die Luft fliegt der Büsser, alle Gestalten erschaut er, als jedes Gottes 
 Аскет каждому богу добрый  
 Друг, готовый на благое деяние.
 </details>
+

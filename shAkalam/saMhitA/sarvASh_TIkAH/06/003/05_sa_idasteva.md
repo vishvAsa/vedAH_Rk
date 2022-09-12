@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asiṣyán ← √as- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:FUT, voice:ACT}
+
+ástā ← ástar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhāt ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áyasaḥ ← áyas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+dhā́rām ← dhā́rā- 2 (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śíśīta ← √śā- ~ śī- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+téjaḥ ← téjas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aktóḥ ← aktú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aratíḥ ← aratí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+citrádhrajatiḥ ← citrádhrajati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+druṣádvā ← druṣádvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+raghupátmajaṁhāḥ ← raghupátmajaṁhas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+véḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,3 +256,4 @@ Dem Schützen gleich, der schiessen will, legt an er, und schärft den Glanz, wi
 Кто ночью – посланник (?) с замечательным порывом,  
 (Тот,) словно птица, сидящая на дереве, с крыльями, (способными) к быстрому полету.
 </details>
+

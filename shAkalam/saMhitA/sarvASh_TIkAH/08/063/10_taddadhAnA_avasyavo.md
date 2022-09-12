@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+avasyávaḥ ← avasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dákṣapitaraḥ ← dákṣapitar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yuṣmā́bhiḥ ← tvám (pronoun)  
+{case:INS, gender:M, number:PL}
+
+marútvataḥ ← marútvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+syā́ma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vr̥dhé ← vŕ̥dh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +148,4 @@ Empfangend hülfsbegierig dies von euch, o Dakschasöhne ihr, Sei'n hülfreich w
 Благодаря вам мы хотим иметь  
 Дакшу отцом для усиления главы Марутов.
 </details>
+

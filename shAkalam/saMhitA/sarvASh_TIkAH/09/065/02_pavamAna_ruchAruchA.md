@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+pávamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+rucā́-rucā ← rúc- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+vásūni ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+viśa ← √viś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -102,7 +130,7 @@ Pāda c is characterized by alliteration of an unremarkable type: víśvā vás�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 No particular signs of unity. Vss. 2 and 3 have forms of the pres. part.
@@ -133,3 +161,4 @@ O flammender, mit stetem Glanz, ein Gott du, von den Göttern her, In alle Güte
 
 -ru-
 </details>
+

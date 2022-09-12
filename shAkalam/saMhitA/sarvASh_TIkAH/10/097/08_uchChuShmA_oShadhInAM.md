@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292);; repeated line
+#### Morph
+óṣadhīnām ← óṣadhī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+śúṣmāḥ ← śúṣma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+goṣṭhā́t ← goṣṭhá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+īrate ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+dhánam ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+saniṣyántīnām ← √sanⁱ- (root)  
+{case:GEN, gender:F, number:PL, tense:FUT, voice:ACT}
+
+ātmā́nam ← ātmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pūruṣa ← pū́ruṣa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +164,4 @@ Der Kräuter Düfte strömen aus, wie aus dem Stall die Heerde dringt, Um zu gew
 (Растений,) что будут добывать богатство –  
 (И) твой жизненный дух, о человек.
 </details>
+

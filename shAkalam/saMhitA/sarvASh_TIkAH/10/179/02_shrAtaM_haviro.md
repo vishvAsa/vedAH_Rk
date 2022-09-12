@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śrātám ← √śrā- (root)  
+{case:NOM, gender:M, number:SG, voice:PASS}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ádhvanaḥ ← ádhvan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jagā́ma ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vímadhyam ← vímadhya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āsate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+nidhíbhiḥ ← nidhí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+cárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kulapā́ḥ ← kulapā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vrājápatim ← vrājápati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +244,4 @@ Gar ist der Trank, nun, Indra, schreite vorwärts; die Sonne ist auf ihres Laufe
 Опекают тебя друзья с поданными блюдами,  
 Как защитники семейной общины – странствующего владельца загона.
 </details>
+

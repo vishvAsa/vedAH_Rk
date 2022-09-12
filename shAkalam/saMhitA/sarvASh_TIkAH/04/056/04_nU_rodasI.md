@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+br̥hádbhiḥ ← br̥hánt- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+várūthaiḥ ← várūtha- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+iṣáyantī ← √iṣ- 1 (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+
+pátnīvadbhiḥ ← pátnīvant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sajóṣāḥ ← sajóṣa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+pātam ← √pā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+urūcī́ ← uruvyáñc- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+víśve ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yajaté ← yajatá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+rathyàḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sadāsā́ḥ ← sadāsā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +200,4 @@ Nun schützt, o Welten, uns mit mächt'gen Wehren, vereint mit Göttern und Göt
 Все (такие) огромные, достойные жертв!  
 Пусть станем мы благодаря молитве всегда побеждающими колесничими!
 </details>
+

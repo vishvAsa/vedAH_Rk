@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bheṣajī́ḥ ← bheṣajá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vaí ← vaí (invariable)  
+{}
+
+amīvacā́tanīḥ ← amīvacā́tana- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bheṣajī́ḥ ← bheṣajá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sárvasya ← sárva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bheṣajám ← bheṣajá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇvantu ← √kr̥- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +192,4 @@ Heilkräftig ist des Wassers Flut; die Wasser treiben Krankheit fort, Die Wasser
 Воды исцеляют все –  
 Пусть создадут они тебе целебное средство!
 </details>
+

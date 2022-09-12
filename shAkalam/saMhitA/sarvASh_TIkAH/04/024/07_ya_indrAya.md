@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sunávat ← √su- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhr̥jjā́ti ← √bhr̥jj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+dhānā́ḥ ← dhānā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pácāt ← √pac- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+paktī́ḥ ← paktí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+háryan ← √hr̥- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+manāyóḥ ← manāyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+ucáthāni ← ucátha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dadhat ← √dhā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +200,7 @@ upon him will Indra, gladly receiving the recitations of the zealous one,  confe
 The śúṣma- that Indra confers on the sacrificer is the ‘explosive force’ that will help him (both Indra and the mortal aided by him) prevail in battle.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/06-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 The battle/sacrifice trajectory of vss. 4-5 is wrapped up in vss. 6-7, where it is made clear (esp. in 6d) that if you want Indra’s help on the battlefield, you had better perform a good sacrifice, not stinting on the soma.
@@ -171,3 +229,4 @@ Wer heute Soma keltert für den Indra, ihm Brühen kocht und ihm die Körner rö
 
 -ru-
 </details>
+

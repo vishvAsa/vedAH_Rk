@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+durgáhā ← durgáha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+duritā́ ← duritá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nāvā́ ← naú- ~ nā́v- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+parṣi ← √pr̥- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+síndhum ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+atrivát ← atrivát (invariable)  
+{}
+
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bodhi ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+tanū́nām ← tanū́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ O Wesenkenner fahr uns über alle Gefahr und Noth wie übers Meer mit Schiffen; 
 О Агни, воспетый с поклонением, как (некогда) у Атри,  
 Будь защитником наших тел!
 </details>
+

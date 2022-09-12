@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sudakṣā ← sudákṣa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vāyúnā ← vāyú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+niyúdbhiḥ ← niyút- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sajóṣasā ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yuvānā ← yúvan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+juṣāṇā́ ← √juṣ- (root)  
+{case:NOM, gender:M, number:DU, tense:AOR, voice:MED}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tiróahnyam ← tiróahnya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asrídhā ← asrídh- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pibatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudānū ← sudā́nu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +189,4 @@ Vereint, o Ritter, mit dem Vaju trinket, ihr jungen starken mit den Vielgespanne
 Насатьи, наслаждаясь позавчерашним (соком),  
 Пейте сому безошибочно, о щедро дарящие!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+náryāṇi ← nárya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śakráḥ ← śakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+níkāmaiḥ ← níkāma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+rireca ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sákhibhiḥ ← sákhi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áśmānam ← áśman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bibhidúḥ ← √bhid- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+vácobhiḥ ← vácas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+gómantam ← gómant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uśíjaḥ ← uśíj- (nominal stem)  
+{case:NOM, number:PL}
+
+vavruḥ ← √vr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Der starke, kundig aller Mannesthaten, liess frei die Wasser mit den Lust-Genoss
 (Те,) что словами раскололи даже скалу, –  
 Ушиджи растворили загон с коровами.
 </details>
+

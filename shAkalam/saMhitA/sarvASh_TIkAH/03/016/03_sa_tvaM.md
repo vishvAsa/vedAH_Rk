@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śiśīhi ← √śā- ~ śī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mī́ḍhvaḥ ← mīḍhváṁs- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suvī́ryasya ← suvī́rya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+prajā́vataḥ ← prajā́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+túvidyumna ← tuvidyumná- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+várṣiṣṭhasya ← várṣiṣṭha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+anamīvásya ← anamīvá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śuṣmíṇaḥ ← śuṣmín- (nominal stem)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +188,4 @@ So schenke Agni Reichthum uns, o holder, der an Männern reich Und Kindern sei, 
 О мощно сверкающий, на высшее богатство, награждающее потомством,  
 Дающее безболезненность, неистовое!
 </details>
+

@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+anuvénantam ← √ven- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+purāṇā́n ← purāṇá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+amuyā́ ← amuyā́ (invariable)  
+{}
+
+cárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pāpáyā ← pāpá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+acākaśam ← √kāś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+asūyán ← √asūy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+aspr̥hayam ← √spr̥h- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+púnar ← púnar (invariable)  
+{}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +162,4 @@ Unwillig sah ich ihn sich nach seinen Altvorderen umschauen und den so schlimmen
 По нему затосковал я вновь.  
 Голос отца:
 </details>
+

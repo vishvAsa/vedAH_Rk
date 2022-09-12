@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+havirádaḥ ← havirád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+haviṣpā́ḥ ← haviṣpā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+satyā́saḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sarátham ← sarátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devavandaíḥ ← devavandá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gharmasádbhiḥ ← gharmasád- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+páraiḥ ← pára- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pitŕ̥bhiḥ ← pitár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pū́rvaiḥ ← pū́rva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Die Opfer essen, Opfer trinken, treu sind, vereint mit Indra und den Göttern fa
 О Агни, приди с тысячей (этих) хвалителей богов,  
 С дальними прежними отцами, сидящими вокруг горячего молока!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+árohayan ← √ruh- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+áprathayan ← √prathⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+aṅgirasaḥ ← áṅgiras- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+suprajāstvám ← suprajāstvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+gr̥bhṇīta ← √gr̥bhⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mānavám ← mānavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+sumedhasaḥ ← sumedhás- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +208,4 @@ Die fromm die Sonne setzen hoch am Himmelszelt, und die die Mutter Erde weithin 
 Да будет вам богатство из прекрасного потомства, о Ангирасы!  
 Примите (меня,) сына Ману, о мудрые!
 </details>
+

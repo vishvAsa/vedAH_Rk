@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aṅgá ← aṅgá (invariable)  
+{}
+
+kuvít ← kuvít (invariable)  
+{}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vr̥dhā́saḥ ← vr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+anavadyā́saḥ ← anavadyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́san ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+purā́ ← purā́ (invariable)  
+{}
+
+bādhitā́ya ← √bādhⁱ- (root)  
+{case:DAT, gender:M, number:SG, non-finite:PPP}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vāyáve ← vāyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ávāsayan ← √vas- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Ob wol die Götter, durch Gebet gekräftigt, sie, die von jeher ohne Makel waren
 Те, (что) для Ваю и для угнетенного рода человеческого  
 С помощью солнца заставили засверкать Ушас?
 </details>
+

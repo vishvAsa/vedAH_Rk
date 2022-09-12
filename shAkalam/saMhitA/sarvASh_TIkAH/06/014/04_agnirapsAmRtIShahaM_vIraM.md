@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apsā́m ← apsā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tīṣáham ← r̥tīṣáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sátpatim ← sátpati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīrám ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śávasaḥ ← śávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+trásanti ← √tras- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhiyā́ ← bhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+saṁcákṣi ← √cakṣ- (root)  
+{case:LOC, number:SG}
+
+śátravaḥ ← śátru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +174,4 @@ Den starken Helden, Agni, gib, der Angriff wehrt, Erquickung beut, Vor dessen Kr
 Перед силой которого трясутся  
 От страха при виде (него) враги.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+radantu ← √rad- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śurúdhaḥ ← śurúdh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tā́vānaḥ ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+candrā́ḥ ← candrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+upamám ← upamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáchantu ← √yam- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pūpurantu ← √pr̥̄- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+stávānāḥ ← √stu- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Es mögen schenken tausend Labetränke die heil'gen Agni, Varuna und Mitra, Und 
 Пусть блистательные даруют нам лучшую песню!  
 Восхваленные (же), пусть исполнят они наше желание!
 </details>
+

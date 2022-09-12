@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+híraṇyasaṁdr̥śaḥ ← híraṇyasaṁdr̥ś- (nominal stem)  
+{case:ACC, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ámaṁhata ← √maṁh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rā́jñaḥ ← rā́jan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+adhaspadā́ḥ ← adhaspadá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+caidyásya ← caidyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+kr̥ṣṭáyaḥ ← kr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+abhítas ← abhítas (invariable)  
+{}
+
+carmamnā́ḥ ← carmamná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jánāḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +180,4 @@ Der mir zehn wie Gold aussehende Kleider des Königs schenkte. Die Völker reich
 Под ногами у (этого) сына Чеди народы,  
 Люди вокруг (него) – дубильщики кожи!
 </details>
+

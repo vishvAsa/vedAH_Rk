@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́myā ← bhū́mi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+svanáḥ ← svaná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+upári ← upári (invariable)  
+{}
+
+yatate ← √yat- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+anantám ← anantá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhānúnā ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+iyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+abhrā́t ← abhrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+stanayanti ← √stanⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vr̥ṣṭáyaḥ ← vr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+éti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+róruvat ← √rū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+síndhuḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +230,4 @@ Hin durch die Erde dringt ihr Schall zum Himmel auf, endloses Brausen regt sie a
 Как будто капли дождя барабанят из грозовой тучи,  
 Когда движется Синдху, громко ревя, словно бык.
 </details>
+

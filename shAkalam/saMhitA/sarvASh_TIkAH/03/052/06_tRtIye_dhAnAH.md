@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+dhānā́ḥ ← dhānā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+puruṣṭuta ← puruṣṭutá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sávane ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tr̥tī́ye ← tr̥tī́ya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́hutam ← √hu- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+māmahasva ← √maṁh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+puroḷā́śam ← puroḷā́ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kave ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+r̥bhumántam ← r̥bhumánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vā́javantam ← vā́javant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+práyasvantaḥ ← práyasvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śikṣema ← √śak- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT, mood:DES}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

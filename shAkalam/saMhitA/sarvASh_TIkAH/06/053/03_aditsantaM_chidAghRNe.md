@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+áditsantam ← áditsant- (nominal stem)  
+{case:ACC, gender:M, number:SG, mood:DES}
+
+āghr̥ṇe ← ā́ghr̥ṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+codaya ← √cud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dā́nāya ← dā́na- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+pū́ṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mrada ← √mrad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+paṇéḥ ← paṇí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,7 +141,7 @@ For some reason Geldner always refuses to tr. the standing epithet of Pūṣan, 
 ví mrada is the only verbal form to this root in the RV, and such forms are quite rare in Vedic (ví mradate MS, mradaya- TS). (For detailed disc. see Gotō 247- 48.) The root is otherwise found in the RV only in the cmpd. ū́rṇa-mradas- ‘soft as wool, lit. having the softness of wool’ in the funeral hymn X.18.10. I wonder if mrad belongs to the technical terminology of fabric construction and therefore would fit in with Pūṣan’s connection to homely, practical activities, as in the words for ‘awl’ (or whatever ā́rā- is) and the like in this hymn. However, the TS, MS passages don’t support this speculation.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 Note ví mrada (3c), ví mṛ́dhaḥ (4b).
@@ -138,3 +172,4 @@ Den Kargen auch, o glühender, o Puschan treib zum Geben an, Erweiche auch des G
 Пушан, воодушеви на дарение!  
 Смягчи мысль даже у скупца!
 </details>
+

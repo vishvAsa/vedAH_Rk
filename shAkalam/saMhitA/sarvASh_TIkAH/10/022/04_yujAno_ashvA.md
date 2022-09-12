@@ -16,14 +16,54 @@ ChandaH = "पुरस्ताद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+áśvā ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+dhúnī ← dhúni- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vā́tasya ← vā́ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yujānáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vajrivaḥ ← vajrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+syántā ← syántar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+virúkmatā ← virúkmant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ádhvanaḥ ← ádhvan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sr̥jānáḥ ← √sr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+stoṣi ← √stu- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +177,4 @@ Der du des Windes ungestüme Rosse schirrst des Gotts, du blitzbewehrter Gott, H
 Мчась сверкающим путем,  
 Хвали (коней), когда ты (их) пускаешь вскачь по дорогам!
 </details>
+

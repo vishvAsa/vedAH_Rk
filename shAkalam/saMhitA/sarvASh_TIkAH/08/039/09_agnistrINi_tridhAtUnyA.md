@@ -18,16 +18,83 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tridhā́tūni ← tridhā́tu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣeti ← √kṣi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vidáthā ← vidátha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ekādaśā́n ← ekādaśá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+trī́n ← trí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pipráyat ← √prī- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+yákṣat ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+páriṣkr̥taḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,3 +261,4 @@ Drei dreigetheilten Scharen wohnt der einsichtsvolle Agni bei; Er ehre und erfre
 (Этот) вдохновенный, снаряженный вестником!  
 Пусть лопнут все ничтожные другие!
 </details>
+

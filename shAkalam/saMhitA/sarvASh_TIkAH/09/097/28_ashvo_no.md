@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kradaḥ ← √krand- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+vŕ̥ṣabhiḥ ← vŕ̥ṣan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yujānáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+bhīmáḥ ← bhīmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jávīyān ← jávīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánasaḥ ← mánas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+siṁháḥ ← siṁhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arvācī́naiḥ ← arvācī́na- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pathíbhiḥ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+rájiṣṭhāḥ ← rájiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+saumanasám ← saumanasá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +206,7 @@ by Renou, identifies the bulls as the priests.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/28-30.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
 Attributed to Vasukra Vāsiṣṭha, who is not otherwise known - though a Vasukra Aindra is supposedly responsible for the devilish trio of hymns X.27-29.
@@ -182,3 +240,4 @@ Du wieherst wie ein Ross, geschirrt von Männern, ein Löwe furchtbar, schneller
 Путями, направленными к нам, самыми прямыми  
 Принеси нам, очищаясь, благоволение, о сок сомы!
 </details>
+

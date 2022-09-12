@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ádhvabhiḥ ← ádhvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pratnébhiḥ ← pratná- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ávyaḥ ← ávi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́re ← vā́ra- 1 (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sahásradhāraḥ ← sahásradhāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tánā ← tán- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yāt ← √yā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +153,4 @@ Auf seinen alten Wegen geh der liebe durch das Widderhaar In tausend Strömen fo
 
 -ru-
 </details>
+

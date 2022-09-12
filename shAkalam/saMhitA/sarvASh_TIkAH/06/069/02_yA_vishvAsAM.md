@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+janitā́rā ← janitár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+matīnā́m ← matí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+víśvāsām ← víśva- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+índrāvíṣṇū ← índrāvíṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+kaláśā ← kaláśa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+somadhā́nā ← somadhā́na- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+avantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+śasyámānāḥ ← √śaṁs- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:PASS}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gīyámānāsaḥ ← √gā(y)- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:PASS}
+
+prá ← prá (invariable)  
+{}
+
+stómāsaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +198,4 @@ Die ihr Erzeuger seid jedweder Andacht, und Indra-Vischnu, Somafässern gleichet
 Пусть поддержат вас произносимые (нами) слова,  
 Пусть под(держат) восхваления, которые поются в песнях!
 </details>
+

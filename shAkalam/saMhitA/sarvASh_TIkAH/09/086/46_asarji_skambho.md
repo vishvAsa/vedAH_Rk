@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásarji ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mádaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+skambháḥ ← skambhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+údyataḥ ← √yam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+arṣati ← √arṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+tridhā́tuḥ ← tridhā́tu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aṁśúm ← aṁśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+matáyaḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pánipnatam ← √panⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rihanti ← √rih- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+nirṇíjam ← nirṇíj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥gmíṇaḥ ← r̥gmín- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yádi ← yádi (invariable)  
+{}
+
+yayúḥ ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +214,7 @@ The infinitival usages he cites are mostly the dat. nirṇíje (which, in all qu
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/46-48.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/46-48.md">
 <details open><summary><h2>46-48 ...{Loading}...</h2></summary>
 
 The hymn ends with a tṛca no more unified than most of those that preceded it, repeating the same tropes oscillating between ritual and cosmic images.
@@ -188,3 +243,4 @@ Ergossen ist als Himmels Stütze jetzt der Trank, dreitheilig strömt der darger
 
 -ru-
 </details>
+

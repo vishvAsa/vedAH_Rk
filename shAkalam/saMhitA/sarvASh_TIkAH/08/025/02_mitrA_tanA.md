@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+mitrā́ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+rathyā̀ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tánā ← tán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dhr̥távratā ← dhr̥távrata- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sanā́t ← sanā́t (invariable)  
+{}
+
+sujātā́ ← sujātá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tánayā ← tánaya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +190,4 @@ Wie stete Wagenlenker sie, Mitra, der starke Varuna, Die schöngebornen Söhne w
 (Они.) от века прекраснорожденные, продолжающие род  
 (Адити), чей завет прочен.
 </details>
+

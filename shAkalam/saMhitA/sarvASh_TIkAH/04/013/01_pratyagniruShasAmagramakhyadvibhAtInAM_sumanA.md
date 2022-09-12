@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+akhyat ← √khyā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+uṣásām ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ratnadhéyam ← ratnadhéya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vibhātīnā́m ← √bhā- (root)  
+{case:GEN, gender:F, number:PL, tense:PRS, voice:ACT}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+duroṇám ← duroṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sukŕ̥taḥ ← sukŕ̥t- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yātám ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +224,4 @@ Der Morgenröthen Anbruch schaute Agni, das Schatzgeschenk der glänzenden voll 
 Приезжайте, Ашвины, в дом благочестивого!  
 Бог Сурья восходит со (своим) светом.
 </details>
+

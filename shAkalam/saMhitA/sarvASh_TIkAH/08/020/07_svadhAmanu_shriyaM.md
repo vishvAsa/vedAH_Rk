@@ -15,13 +15,44 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śríyam ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+svadhā́m ← svadhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ámavantaḥ ← ámavant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tveṣā́ḥ ← tveṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥ṣapsavaḥ ← vŕ̥ṣapsu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áhrutapsavaḥ ← áhrutapsu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váhante ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ Die Männer fahren hin zum Schmuck aus eigner Lust mit Ungestüm und schnellem D
 Очень мощные, неистовые мужи  
 Бычьего вида, несгибаемого вида.
 </details>
+

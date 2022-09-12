@@ -16,14 +16,66 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ahārṣam ← √hr̥- 1 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+edhi ← √as- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ávicācaliḥ ← ávicācali- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhruváḥ ← dhruvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tiṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sárvāḥ ← sárva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vāñchantu ← √vanⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+bhraśat ← √bhraś- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+rāṣṭrám ← rāṣṭrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Ich habe dich hierher gebracht, sei hier, nicht wankend stehe fest; Lieb sollst 
 Да пожелают тебя все племена!  
 Да не отпадет от тебя господство!
 </details>
+

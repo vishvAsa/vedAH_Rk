@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+abruvan ← √brū- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+íti ← íti (invariable)  
+{}
+
+makhasyate ← √makhasy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vācáḥ ← vā́c- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ī́śānaḥ ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,7 +145,7 @@ On the double sense of makhá- and its denom. and deriv., see I.18.9, III.31.7.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 No particular unity in this tṛca unless the mention of Indra in each vs. counts. After the difficulties of the 1st tṛca, this one is blessedly simple.
@@ -140,3 +177,4 @@ Der Saft läutert sich für Indra, also sprachen die Götter: Der Meister der Re
 Повелитель речи чувствует себя воинственным,  
 Властвуя надо всем благодаря (своей) силе.
 </details>
+

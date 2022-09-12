@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424);; repeated line
+#### Morph
+íḷāyāḥ ← íḷā- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+nā́bhā ← nā́bhi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+dhīmahi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+jā́tavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+havyā́ya ← havyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vóḷhave ← √vah- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +185,4 @@ Wir setzten an der Andacht Ort, dich auf der Erde Nabel hin, dass du, o Wesenken
 На пупе земли,  
 О Агни, чтобы ты увез жертву.
 </details>
+

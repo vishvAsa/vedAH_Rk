@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ásr̥kṣata ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+vājínaḥ ← vājín- (nominal stem)  
+{gender:M}
+
+aśvayā́ ← aśvayā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gavyā́ ← gavyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śukrā́saḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vīrayā́ ← vīrayā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -95,7 +123,7 @@ That earlier pāda ends with the neut. s-stem śávaḥ ‘strength’; 4c ends 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 No strong signs of unity. Vs. 4 does link to vs. 3 in the preceding tṛca through the mention of cows and horses. The c pādas of 5 and 6 both begin with a finite form of páva-.
@@ -124,3 +152,4 @@ Voll Gier nach Rind und Ross und Mann sind Somatränke ausgeströmt, Die raschen
 
 -ru-
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+mīḷhúṣmatī ← mīḷhúṣmant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+párāhatā ← √han- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mádantī ← √mad- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ámaḥ ← áma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ŕ̥kṣaḥ ← ŕ̥kṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śímīvān ← śímīvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+bhīmayúḥ ← bhīmayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dudhráḥ ← dudhrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gaúḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Wie Frucht gewährt die Erde, wenn sie umgepflügt, so kommt die frohe Schar zu 
 Ваш натиск, о Маруты, мощный, как медведь,  
 Страшный, как строптивый бык.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+trīṇā́m ← trí- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+aryamṇáḥ ← áryaman- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dyukṣám ← dyukṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+durādhárṣam ← durādhárṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +140,4 @@ Der grosse Himmelsschutz der drei, Arjaman's, Mitra's, Varuna's Sei unantastbar 
 Пребывающая на небе (поддержка) Митры, Арьямана,  
 Трудноодолимая – Варуны!
 </details>
+

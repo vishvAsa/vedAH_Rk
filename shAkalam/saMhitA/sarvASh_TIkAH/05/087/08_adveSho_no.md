@@ -17,15 +17,79 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+adveṣáḥ ← adveṣás- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+itana ← √i- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+evayā́marut ← evayā́marut- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jaritúḥ ← jaritár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śróta ← √śru- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+maháḥ ← máh- (nominal stem)  
+{}
+
+samanyavaḥ ← sámanyu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+víṣṇoḥ ← víṣṇu- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yuyotana ← √yu- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+daṁsánā ← daṁsánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rathyàḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+smát ← smát (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+dvéṣāṁsi ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sanutár ← sanutár (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +254,4 @@ Holdgesinnt kommt, o Maruts, zu unserm Gesänge; hört den Ruf des Sängers Evaj
 Все вместе, словно колесничий, умело,  
 Прочь (отвратите) проявления враждебности!
 </details>
+

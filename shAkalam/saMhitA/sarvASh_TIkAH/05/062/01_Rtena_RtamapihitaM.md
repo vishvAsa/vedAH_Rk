@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápihitam ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+dhruvám ← dhruvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vimucánti ← √muc- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+śatā́ ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tasthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+apaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śréṣṭham ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vápuṣām ← vápus- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ An eurer heil'gen Recht-umschirmten Feste, bei welcher man der Sonne Rosse ablö
 Десять сот находятся вместе. Я увидел  
 То одно – лучшее из чудес богов.
 </details>
+

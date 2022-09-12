@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśnoti ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+caná ← caná (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ārábham ← √rabh- (root)  
+{case:ACC, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sā́nu ← sā́nu- ~ snú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dákṣiṇā ← dákṣiṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sāvarṇyásya ← sāvarṇyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+paprathe ← √prathⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+síndhuḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +184,4 @@ Keiner kommt diesen gleich, wie des Himmels Gipfel ist er nicht zu erreichen; wi
 Награда за жертву от Саварньи  
 Разлилась широко, как река.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápareṇa ← ápara- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇavāma ← √kr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ā́pyena ← ā́pya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sánena ← sána- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+adite ← áditi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+dadhāta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+indrāmarutaḥ ← indrāmarut- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+svastím ← svastí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Was werden wir, o Gute, euch erweisen für eure künft'ge, was für alte Freunds
 Дайте вы нам благополучие, о Митра-Варуна,  
 И Адити, и Индра-Маруты!
 </details>
+

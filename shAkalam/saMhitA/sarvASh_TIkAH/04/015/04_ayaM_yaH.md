@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+purás ← purás (invariable)  
+{}
+
+sŕ̥ñjaye ← sŕ̥ñjaya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+daivavāté ← daivavātá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+samidhyáte ← √idh- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+amitradámbhanaḥ ← amitradámbhana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyumā́n ← dyumánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +150,4 @@ Der helle, feindvertilgende, der hier vor Devavata's Sohn, Dem Srindschaja entz�
 У Сринджаии, сына Деваваты,  
 Блистательный, подавляющий недругов.
 </details>
+

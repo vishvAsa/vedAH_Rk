@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jánam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nayasi ← √nī- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sunītíbhiḥ ← sunītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+trā́yase ← √trā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aśnavat ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+dā́śāt ← √dāś- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+brahmadvíṣaḥ ← brahmadvíṣ- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+manyumī́ḥ ← manyumī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tápanaḥ ← tápana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahitvanám ← mahitvaná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Durch schöne Leitung leitest, rettest du den Mann; der dich verehret, nicht err
 Испепеляя (врагов), ты уничтожаешь ярость противника молитвы –  
 О Брихаспати, в этом твое великое величие.
 </details>
+

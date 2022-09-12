@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áṇvāni ← áṇva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+dhā́rāḥ ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+meṣyàḥ ← meṣī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+punānásya ← √pū- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+ráṁhayaḥ ← ráṁhi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saṁyátaḥ ← saṁyát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+camvòḥ ← camū́- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+samajyáse ← √añj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+kaláśeṣu ← kaláśa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sīdasi ← √sad- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suvānáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +204,7 @@ Pāda b is awk. in English. The sense is that the streams of the soma being puri
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/46-48.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/46-48.md">
 <details open><summary><h2>46-48 ...{Loading}...</h2></summary>
 
 The hymn ends with a tṛca no more unified than most of those that preceded it, repeating the same tropes oscillating between ritual and cosmic images.
@@ -172,3 +233,4 @@ Ununterbrochen eilen deine Ströme vor, des Flammers Fluten durch der Wolle Rinn
 
 -ru-
 </details>
+

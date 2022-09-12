@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnaú ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vr̥ñjé ← √vr̥j- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áyāmi ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+ghr̥távatī ← ghr̥távant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+srúk ← srúc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+suvr̥ktíḥ ← suvr̥ktí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ámyakṣi ← √myakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sádma ← sádman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áśrāyi ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sū́rye ← sū́rya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Da Streu dem Agni demuthsvoll geschmückt ist, gereicht der reine buttervolle L�
 Его сиденье покоится на седалище земли.  
 Жертва опирается (о него), словно взгляд о солнце.
 </details>
+

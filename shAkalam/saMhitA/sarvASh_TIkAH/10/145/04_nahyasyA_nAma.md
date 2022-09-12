@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+gr̥bhṇā́mi ← √gr̥bhⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+nahí ← nahí (invariable)  
+{}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+jáne ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ramate ← √ram- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+u ← u (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+párām ← pára- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+parāvátam ← parāvát- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+gamayāmasi ← √gam- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+sapátnīm ← sapátnī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ Auch ihren Namen nenn ich nicht; sie freut sich dieses Mannes nicht; Weit in die
 В самую дальнюю даль  
 Отправляем мы мою соперницу.
 </details>
+

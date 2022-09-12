@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śaryaṇā́vati ← śaryaṇā́vant- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suṣómāyām ← suṣóma- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ārjīkī́ye ← ārjīkī́ya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+madíntamaḥ ← madíntama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +136,4 @@ Er ist im Rohrgefässe dir, im Somabecher dir beliebt, Berauschend dich im Läut
 На Сушоме приятен тебе,  
 Он самый сладкий в Арджикие.
 </details>
+

@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mádhumattamam ← mádhumattama- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+túbhya ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+hr̥dé ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+manīṣā́ ← manīṣā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+avánīḥ ← aváni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+síndhum ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+pr̥ṇanti ← √pr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vardháyanti ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +243,4 @@ Dies Wort, o Agni, sei dir das beliebteste und dieses Preislied deinem Herzen zu
 Хвалебные песни наполняют тебя,  
 Как великие потоки – Синдху, и укрепляют (тебя) силой.
 </details>
+

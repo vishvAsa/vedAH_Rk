@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyā́m ← ayám (pronoun)  
+{case:LOC, gender:F, number:SG}
+
+dyumnáhūtau ← dyumnáhūti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+mahina ← mahína- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+préṣṭhāḥ ← préṣṭha- (nominal stem)  
+{case:NOM, gender:F, number:PL, mood:OPT}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+kṣatraśrī́ḥ ← kṣatraśrī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prā́tardaniḥ ← prā́tardani- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śréṣṭhaḥ ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhánānām ← dhána- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+ghané ← ghaná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sanáye ← saní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vr̥trā́ṇām ← vr̥trá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Wir mögen sein bei dieser Glückserflehung, o grosser Indra, deine liebsten Fre
 Сын Пратарданы, украшение власти, да будет лучшим  
 При убийстве врагов, при захвате богатств!
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kavím ← kaví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śáśvatīnām ← śáśvant- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+viśpátim ← viśpáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+nitóśanam ← nitóśana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iṣáyantam ← √iṣ- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pāvakám ← pāvaká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prétīṣaṇim ← prétīṣaṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rā́jantam ← √rāj- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yajatám ← yajatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +181,4 @@ Zum Menschenhort, dem Herrn der Menschenstämme, zum spendereichen Fürsten der 
 Желающему продвижения вперед, освежающемуся (жертвой), очищающему,  
 К Агни, повелевающему богатствами, к достойному жертв!
 </details>
+

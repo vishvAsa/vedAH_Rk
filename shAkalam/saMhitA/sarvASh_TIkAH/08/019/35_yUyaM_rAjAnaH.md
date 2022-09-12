@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+carṣaṇīsahaḥ ← carṣaṇīsáh- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+rājānaḥ ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+kṣáyantam ← √kṣā- 2 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mā́nuṣān ← mā́nuṣa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áryaman ← áryaman- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mítra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+váruṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+rathyàḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+syā́ma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +186,7 @@ The triple voc. phrase váruṇa mítrā́ryaman is accented despite being inter
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/34-35.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/34-35.md">
 <details open><summary><h2>34-35 ...{Loading}...</h2></summary>
 
 These two vss. are so interrupted by heavy voc. phrases addressed to the Ādityas that it is difficult to follow the thread. The poet identifies a mortal who is especially favored by the Ādityas (34b) and who therefore holds power among men (35b) and then expresses the hope that “we” might be “they” (vayám té … syā́ma, 35cd), that is, the fortunate man just identified. The switch in numbers is somewhat disconcerting, but can presumably be ascribed to attraction to the 1st pl. pronoun: “might we be he/that one” doesn’t work well in either Sanskrit or English.
@@ -163,3 +218,4 @@ O Könige [(beschützt) dies oder ähnliches aus einem frühern, nicht vorhanden
 Мы (хотим быть) такими для вас, о Варуна, Арьяман!  
 Да будем мы колесничими вселенского закона!
 </details>
+

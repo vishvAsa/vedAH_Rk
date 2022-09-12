@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+havíṣmatīm ← havíṣmant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+iyarmi ← √r̥- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+ghr̥tā́cīm ← ghr̥tā́ñc- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rātínīm ← rātín- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sudyumnā́m ← sudyumná- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+devátātim ← devátāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pradakṣiṇít ← pradakṣiṇít (invariable)  
+{}
+
+urāṇáḥ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+aśret ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+rātíbhiḥ ← rātí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+vásubhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Dir streck ich, Agni, hin den trankgefüllten den gabenreichen, schmucken Butter
 Обращенный направо, выбравший службу богам,  
 Он устроил жертвоприношение с дарами, с благами.
 </details>
+

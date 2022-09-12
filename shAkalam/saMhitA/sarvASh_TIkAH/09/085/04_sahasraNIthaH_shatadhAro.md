@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádbhutaḥ ← ádbhuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásraṇīthaḥ ← sahásraṇītha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śatádhāraḥ ← śatádhāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kā́myam ← kā́mya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+abhí ← abhí (invariable)  
+{}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+arṣa ← √arṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+jáyan ← √ji- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jáyan ← √ji- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kṣétram ← kṣétra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇu ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mīḍhvaḥ ← mīḍhváṁs- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+urúm ← urú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Auf tausend Wegen, hundert Strömen wunderbar ergiesst sich hell dem Indra der w
 Завоевывая (нам) землю, теки, завоевывая (нам) воды!  
 Создай нам широкий выход, о сома щедрый!
 </details>
+

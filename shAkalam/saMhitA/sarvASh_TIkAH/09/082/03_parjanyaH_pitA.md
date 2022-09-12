@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahiṣásya ← mahiṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+parjányaḥ ← parjánya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+parṇínaḥ ← parṇín- (nominal stem)  
+{case:GEN, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+giríṣu ← girí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+kṣáyam ← kṣáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nā́bhā ← nā́bhi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asaran ← √sr̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svásāraḥ ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+grā́vabhiḥ ← grā́van- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nasate ← √nas- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+vīté ← √vī- 1 (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +225,4 @@ Des grossen Adlers Vater ist das Blitzgewölk; im Schooss der Erde, auf den Berg
 Сестры-воды тоже поспешили к коровам.  
 Он обнимается с давильными камнями, когда подготовлен обряд.
 </details>
+

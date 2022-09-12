@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índhānaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vanavat ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+vanuṣyatáḥ ← √vanuṣ(y)- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+kr̥tábrahmā ← kr̥tábrahman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rātáhavyaḥ ← rātáhavya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śūśuvat ← √śū- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+jāténa ← √janⁱ- (root)  
+{case:INS, gender:M, number:SG, non-finite:PPP}
+
+prá ← prá (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sarsr̥te ← √sr̥- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+kr̥ṇuté ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáṁ-yam ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yújam ← yúj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +245,4 @@ Wer Agni zeugt, wird über Feinde siegreich sein, gedeihen, wer Gebete spricht u
 Тот намного переживет рожденного от рожденного,  
 Кого Брахманаспати делает (своим) союзником.
 </details>
+

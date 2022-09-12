@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sādhathaḥ ← √sādh- ~ sidh- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pípratī ← √pr̥- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tárantī ← √tr̥̄- 1 (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+sedathuḥ ← √sad- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +146,4 @@ Ihr grossen, die ihr helfend schützt, ihr führt zum Ziel des Mitra Werk; Ums O
 Митры, преодолевая (препятствия), исполняя (его).  
 Вы (всегда) усаживались вокруг жертвы.
 </details>
+

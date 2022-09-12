@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+nā́nā ← nā́nā (invariable)  
+{}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rā́yaḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+spárdhante ← √spr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dásyum ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tū́rvantaḥ ← √tūr(v)- ~ tur- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+avratám ← avratá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sī́kṣantaḥ ← √sah- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT, mood:DES}
+
+vrataíḥ ← vratá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +170,4 @@ Denn die ergeb'nen streben viel nach Schätzen, Agni, zum Genuss, Die Menschen, 
 (И племена) Аю, побеждающие дасью,  
 Стремящиеся одолеть лишенного обетов (дасью) с помощью обетов.
 </details>
+

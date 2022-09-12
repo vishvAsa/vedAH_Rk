@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádrayaḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rathirā́saḥ ← rathirá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sunvánti ← √su- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+duhanti ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gavíṣaḥ ← gavíṣ- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+nís ← nís (invariable)  
+{}
+
+rásam ← rása- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+duhánti ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kám ← kám (invariable)  
+{}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+upasécanāya ← upasécana- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+āsábhiḥ ← āsán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+marjayante ← √mr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Die Steine pressen Soma Wagenlenkern gleich und melken beutelustig seinen Saft h
 Они доят вымя, чтобы разлить (молоко).  
 Словно мужи, (своими) ртами они очищают возлияния.
 </details>
+

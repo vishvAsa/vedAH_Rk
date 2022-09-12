@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ājóhuvānāḥ ← √hū- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+rātím ← rātí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+nā́vam ← naú- ~ nā́v- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ruhema ← √ruh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+báhule ← bahulá- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+gábhīre ← gabhīrá- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+pŕ̥thvī ← pr̥thú- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+úrvī ← urú- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+étau ← éti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+páretau ← páreti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+riṣāma ← √riṣ- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +217,4 @@ Herbei ihn lockend wie des Indra Gabe, Lasst uns zum Heil ihn wie ein Schiff bes
 О вы – двое, широкие, как и далекие, просторные, глубокие,  
 Да не потерпим мы вреда от вас ни при приходе, ни при уходе!
 </details>
+

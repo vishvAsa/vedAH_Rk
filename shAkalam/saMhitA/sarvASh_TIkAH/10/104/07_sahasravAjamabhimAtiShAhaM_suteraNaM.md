@@ -16,14 +16,54 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhimātiṣā́ham ← abhimātiṣáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahásravājam ← sahásravāja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maghávānam ← maghávan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutéraṇam ← sutéraṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvr̥ktím ← suvr̥ktí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ápratītam ← ápratīta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhūṣanti ← √bhūṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jaritúḥ ← jaritár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+namasyā́ḥ ← namasyā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pananta ← √panⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +168,4 @@ Dem tausendstarken, der den Feind bewältigt, am Saft sich freut, dem mächt'gen
 
 -ru-
 </details>
+

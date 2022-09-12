@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+akaram ← √kr̥- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+divaḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitar ← duhitár- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vr̥ṇīṣvá ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+jigyúṣe ← √ji- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+rā́tri ← rā́trī- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +176,4 @@ Dir Nacht hab' ich das Lob gebracht. wie Heerden für den Siegenden, O Himmelsto
 Выбирай себе, о дочь неба,  
 О Ночь, как (выбирают) хвалу для победителя!
 </details>
+

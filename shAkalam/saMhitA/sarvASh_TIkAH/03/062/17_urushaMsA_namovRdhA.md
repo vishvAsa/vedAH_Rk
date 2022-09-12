@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+namovŕ̥dhā ← namovŕ̥dh- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+uruśáṁsā ← uruśáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rājathaḥ ← √rāj- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+drā́ghiṣṭhābhiḥ ← drā́ghiṣṭha- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śucivratā ← śúcivrata- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +144,4 @@ Weitherrschend, durch Gebet erfreut, gebietet ihr mit grosser Macht Auf ew'ge Ze
 Вы двое правите с величием силы действия  
 Дольше всех, о обладатели чистой власти.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; 12 = 5+7, ending LHX  
 genre M;; 12 = 5+7, ending LHX  
 genre M
+#### Morph
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+śr̥ṇvantu ← √śru- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yajñíyāḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+nápāt ← nápat- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+mā́ ← mā́ (invariable)  
+{}
+
+paricákṣyāṇi ← paricákṣya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vácāṁsi ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vocam ← √vac- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+ántamāḥ ← ántama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+madema ← √mad- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+sumnéṣu ← sumná- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +213,7 @@ This vs. is metrically problematic. The Anukr. (also Holland & van Nooten Rig Ve
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 I consider these three vss. as a tṛca. They are thematically unified, by their focus on the gods in general and (esp. vss. 13 and 15) by their classification of the gods into groups based on their location and type. On the supposed Jagatī meter of vs. 14, which would not match its tṛca partners, see ad loc. </details>
@@ -179,3 +243,4 @@ Mein Flehen sollen alle Götter hören, die Welten beide und der Sohn der Wasser
 Да не произнесу я слов, которые могут быть не замечены вами!  
 Да возрадуемся мы как самые близкие в ваших благодеяниях!
 </details>
+

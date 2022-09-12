@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+duhán ← √duh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sudúghām ← sudúgha- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+viśvádhāyasam ← viśvádhāyas- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sukrato ← sukrátu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yájamānāya ← √yaj- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+yajñapríye ← yajñaprī́- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dī́dyat ← √dī- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ghr̥tásnuḥ ← ghr̥tásnu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tā́ni ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+pariyán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sukratūyase ← √sukratūy- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +212,4 @@ Den reichen Trank ausmelkend, welcher alle nährt, dem Opferer, der Opfer liebt,
 Агни, с жиром на спине трижды освящая обряды,  
 Совершая круговой обход жертвы, ты действуешь как прекрасный силой духа.
 </details>
+

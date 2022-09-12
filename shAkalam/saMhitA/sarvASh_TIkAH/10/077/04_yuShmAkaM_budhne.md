@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX
+#### Morph
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+budhné ← budhná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yā́mani ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yuṣmā́kam ← tvám (pronoun)  
+{case:GEN, number:PL}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śratharyáti ← √śrathary- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vithuryáti ← √vithury- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+viśvápsuḥ ← viśvápsu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gata ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+práyasvantaḥ ← práyasvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+satrā́caḥ ← satrā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +220,4 @@ Wenn ihr wandert wie auf dem Boden der Wolkenwasser, dann wankt gleichsam die Er
 Жертва, состоящая вся из дыхания, исходящая от нас, вот она – для вас!  
 Приходите к нам все вместе как несущие жертвенную усладу!
 </details>
+

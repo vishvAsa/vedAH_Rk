@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+dhányā ← dhánya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhiṣáṇā ← dhiṣáṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+váṣṭi ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jánma ← jánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yájadhyai ← √yaj- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+áṅgirasām ← áṅgiras- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+vépiṣṭhaḥ ← vépiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhánati ← √bhan- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+chandáḥ ← chandá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iṣṭaú ← iṣṭí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+rebháḥ ← rebhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +241,4 @@ In dir ja will die reiche Opferschale dem Götterstamme opfern für den Sänger;
 Когда самый вдохновенный из Ангирасов поэт  
 Исполняет сладкую песнь в поисках (богов), (он) прославитель.
 </details>
+

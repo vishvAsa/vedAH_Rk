@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+amútas ← amútas (invariable)  
+{}
+
+cattā́ ← √cat- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+cattā́ ← √cat- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+itás ← itás (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ārúṣī ← √r̥- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:ACT}
+
+bhrūṇā́ni ← bhrūṇá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sárvā ← sárva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+arāyyàm ← arāyī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+brahmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tī́kṣṇaśr̥ṇga ← tīkṣṇaśr̥ṇga- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+udr̥ṣán ← √r̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ Verscheucht von hier, verscheucht von dort sei sie, die alle Frucht verletzt, Ge
 О Брахманаспати остророгий,  
 Иди, наколи ведьму (на рога)!
 </details>
+

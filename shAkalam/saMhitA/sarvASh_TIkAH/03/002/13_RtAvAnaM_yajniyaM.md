@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+r̥tā́vānam ← ŕ̥tāvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ukthyàm ← ukthyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vípram ← vípra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñíyam ← yajñíya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dadhé ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kṣáyam ← kṣáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mātaríśvā ← mātaríśvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+citráyāmam ← citráyāma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hárikeśam ← hárikeśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+návyase ← návyas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sudītím ← sudītí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +228,4 @@ Den heil'gen Priester, den verehrten, preislichen, den Mātariçvan setzte an de
 К имеющему яркий путь, златовласому, прекраснопламенеющему  
 Агни мы обращаемся за новой удачей.
 </details>
+

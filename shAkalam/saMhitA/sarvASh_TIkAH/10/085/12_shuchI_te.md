@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+cakré ← cakrá- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+śúcī ← śúci- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yātyā́ḥ ← √yā- 1 (root)  
+{case:ABL, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ā́hataḥ ← √han- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ákṣaḥ ← ákṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vyānáḥ ← √vī- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ánaḥ ← ánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+manasmáyam ← manasmáya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sūryā́ ← sūryā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+arohat ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prayatī́ ← √i- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +176,4 @@ Leuchtend waren deine beiden Räder als du fuhrst, eilend die hineingesteckte Ac
 В повозку, сотворенную из духа,  
 Взошла Сурья, отправляясь к супругу.
 </details>
+

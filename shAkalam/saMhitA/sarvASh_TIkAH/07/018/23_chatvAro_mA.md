@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+catvā́raḥ ← catúr- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dā́nāḥ ← dā́na- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+paijavanásya ← paijavaná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kr̥śanínaḥ ← kr̥śanín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nireké ← nireká- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+smáddiṣṭayaḥ ← smáddiṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+pr̥thiviṣṭhā́ḥ ← pr̥thiviṣṭhā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥jrā́saḥ ← r̥jrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sudā́saḥ ← sudā́s- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śrávase ← śrávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tokám ← toká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tokā́ya ← toká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vahanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Mich fahren vier von Sudas Paidschavana geschenkte leicht zu lenkende mit Perlen
 Меня – буланые (кони) Судаса, стоящего на земле,  
 И (мое) потомство везут к славе для потомства!
 </details>
+

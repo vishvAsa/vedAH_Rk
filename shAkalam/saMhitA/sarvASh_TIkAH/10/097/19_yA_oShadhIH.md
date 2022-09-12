@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292);; repeated line  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292);; repeated line  
 popular;; epic anuṣṭubh (292)
+#### Morph
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sómarājñīḥ ← sómarājan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víṣṭhitāḥ ← √sthā- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+bŕ̥haspátiprasūtāḥ ← bŕ̥haspátiprasūta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asyaí ← ayám (pronoun)  
+{case:DAT, gender:F, number:SG}
+
+datta ← √dā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+vīryàm ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +173,4 @@ Ihr Kräuter in des Soma Reich, verbreitet auf der Erde Grund, Legt auf Brihaspa
 Воодушевленные Брихаспати,  
 Все вместе дайте ему силу!
 </details>
+

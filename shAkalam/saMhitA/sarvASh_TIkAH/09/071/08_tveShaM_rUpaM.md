@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+rūpám ← rūpá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tveṣám ← tveṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+várṇaḥ ← várṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áśayat ← √śī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+sámr̥tā ← sámr̥ti- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sédhati ← √sidh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sridháḥ ← srídh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+apsā́ḥ ← apsā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+daívyam ← daívya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jánam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+góagrayā ← góagra- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+násate ← √nas- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+suṣṭutī́ ← suṣṭutí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,3 +268,4 @@ Er schafft sich lichte Schönheit, das ist seine Art, wo er verweilt, vertreibt 
 Завоевывая воды, он идет по своему желанию к божественному роду.  
 Он соединяется с прекрасной хвалой, которой предшествует (молоко) коров.
 </details>
+

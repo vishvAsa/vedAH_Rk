@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápyam ← ápya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yādrādhyàm ← yādrādhyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ániśitam ← ániśita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+járbhurāṇaḥ ← √bhur- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+nimíṣi ← nimíṣ- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gāt ← √gā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mārtāṇḍáḥ ← mārtāṇḍá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paśúḥ ← paśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvaḥ ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+akar ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jánmāni ← jánman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sthaśás ← sthaśás (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +208,7 @@ The sense of nimíṣi is unclear. My tr. “at (every) blink of the eye” take
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/038/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/038/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These two vss. have been variously interpr. My interpr. is most influenced by Oldenberg (whose views also seems to have been adopted by Witzel Gotō). As noted in the published
@@ -184,3 +242,4 @@ So gut er kann, sucht auf den Schooss der Wasser der Fisch am Abend, er, der ras
 (Каждая) птица (спряталась в гнездо), скот вошел в загон.  
 Савитар распределил существа по месту (их) обитания.
 </details>
+

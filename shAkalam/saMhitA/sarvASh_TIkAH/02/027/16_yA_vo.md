@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhidrúhe ← abhidrúh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+māyā́ḥ ← māyā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+yajatrāḥ ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ādityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+pā́śāḥ ← pā́śa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ripáve ← ripú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vícr̥ttāḥ ← √cr̥t- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+aśvī́ ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+yeṣam ← √yā- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áriṣṭāḥ ← áriṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śárman ← śárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+uraú ← urú- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Die Fallen, die o hehre, dem Verfolger, die Schlingen, die dem Frevler ihr geste
 Я хотел бы миновать их, как конник на колеснице!  
 Да будем мы невредимы под (вашей) широкой защитой!
 </details>
+

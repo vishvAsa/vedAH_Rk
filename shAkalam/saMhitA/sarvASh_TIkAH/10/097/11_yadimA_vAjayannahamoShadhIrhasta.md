@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+vājáyan ← √vājay- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ādadhé ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+háste ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ātmā́ ← ātmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naśyati ← √naś- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yákṣmasya ← yákṣma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jīvagŕ̥bhaḥ ← jīvagŕ̥bh- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+purā́ ← purā́ (invariable)  
+{}
+
+yathā ← yathā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +173,4 @@ Wenn ich, ihr Arzeneien, euch in meine Hände drohend fass', So macht das Siecht
 Жизненный дух чахотки исчезает,  
 Как перед ловчим живых.
 </details>
+

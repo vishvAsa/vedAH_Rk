@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+mīḷhúṣaḥ ← mīḍhváṁs- (nominal stem)  
+{case:GEN, number:SG}
+
+rudrásya ← rudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+vivāse ← √vanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+kuvít ← kuvít (invariable)  
+{}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+náṁsante ← √nam- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+púnar ← púnar (invariable)  
+{}
+
+āvís ← āvís (invariable)  
+{}
+
+jihīḷiré ← √hīḍ- ~ √hīḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+sasvártā ← sasvártā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+énaḥ ← énas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+turā́ṇām ← turá- 1 (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ Ich locke her des gnäd'gen Rudra Söhne, ob wol die Maruts wieder zu uns kehren
 Если тайно они разгневаны, если явно,  
 Мы искупаем этот грех перед сильными.
 </details>
+

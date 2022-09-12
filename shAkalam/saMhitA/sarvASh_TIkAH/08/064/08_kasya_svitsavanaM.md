@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+sávanam ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svit ← svit (invariable)  
+{}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+gachati ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jujuṣvā́n ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cake ← √kā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svit ← svit (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +171,4 @@ Zu wessen Somatrunke geht, ihn zu geniessen, hin der Stier? Und wer gefällt dem
 Охотно спускается?  
 И кто стремится привлечь Индру?
 </details>
+

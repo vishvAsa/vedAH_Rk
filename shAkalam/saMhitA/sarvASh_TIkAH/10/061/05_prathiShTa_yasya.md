@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iṣṇát ← √iṣ- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+práthiṣṭa ← √prathⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+vīrákarmam ← vīrákarma- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ánuṣṭhitam ← √sthā- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ápa ← ápa (invariable)  
+{}
+
+auhat ← √ūh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+náryaḥ ← nárya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+kanā́yāḥ ← kanā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vr̥hati ← √vr̥h- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ḥ ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+anarvā́ ← anarván- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánubhr̥tam ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+duhitúḥ ← duhitár- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +210,4 @@ Der mannhafte [etwa prajâpati], dessen männliches Glied sich vorstrebend ausge
 
 -ru-
 </details>
+

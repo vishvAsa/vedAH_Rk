@@ -15,14 +15,48 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+súṣṭutā ← súṣṭuta- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vahataḥ ← √vah- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vŕ̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ajuryásya ← ajuryá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+madíntamam ← madíntama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ī́mahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +159,4 @@ Wann fährt der rothen Hengste Paar der preislichen, den Wagen dir, Dem ew'gen, 
 Мощных буланых коней везет колесницу,  
 К самому пьянящему (соме) для нестареющего, которого мы приглашаем.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pr̥thupā́jase ← pr̥thupā́jas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vaiśvānarā́ya ← vaiśvānará- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vípaḥ ← víp- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dharúṇeṣu ← dharúṇa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+gā́tave ← √gā- (root)  
+{case:DAT, number:SG}
+
+rátnā ← rátna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vidhanta ← √vidh- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amŕ̥taḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+duvasyáti ← √duvasy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+dhármāṇi ← dhárman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dūduṣat ← √dūṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+sanátā ← sanátā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Dem Männerhort, der weithin schimmert, mögen weihn die Priester Gaben, dass er
 Ведь это Агни бессмертный почитает богов  
 И издревле не нарушает установлений.
 </details>
+

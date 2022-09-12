@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pratimā́nam ← pratimā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+purobhū́ḥ ← purobhū́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satáḥ-sataḥ ← √as- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+hánti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jánima ← jániman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śúṣṇam ← śúṣṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+árcan ← √r̥c- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gavyúḥ ← gavyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+padavī́ḥ ← padavī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+amuñcat ← √muc- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+avadyā́t ← avadyá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhīn ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +221,7 @@ What calumny? Geldner (n. 8d) suggests the dishonor because of the loss of the h
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/031/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/031/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 Given the thematic weight the part. árcan carries (see comm. immed.
@@ -197,3 +255,4 @@ Er, überragend das Mass jedes Seienden, kennt die Ge- schöpfe alle, tödtet de
 Пролагатель пути неба, жаждущий захватить (коров), распевая (шел) впереди для нас.  
 Друг избавил друзей от поношения.
 </details>
+

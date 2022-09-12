@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsuḥ ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bhadrā́ḥ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gha ← gha (invariable)  
+{}
+
+purā́ ← purā́ (invariable)  
+{}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+abhiṣṭídyumnāḥ ← abhiṣṭídyumna- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+r̥tájātasatyāḥ ← r̥tájātasatya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ījānáḥ ← √yaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+śaśamānáḥ ← √śamⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yā́su ← yá- (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+ā́pa ← √āp- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sadyás ← sadyás (invariable)  
+{}
+
+śáṁsan ← √śaṁs- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+stuván ← √stu- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Stets waren diese schönen Morgenröthen an Hülfe reich, die frommen Werke segn
 (Зори,) у которых тот, кто жертвует, трудится под (исполнение) гимнов,  
 Восхваляет, произносит (прославление), сразу получал богатство.
 </details>
+

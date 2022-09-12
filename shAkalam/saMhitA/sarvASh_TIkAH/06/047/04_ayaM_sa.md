@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+varimā́ṇam ← varimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ákr̥ṇot ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+varṣmā́ṇam ← varṣmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pīyū́ṣam ← pīyū́ṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pravátsu ← pravát- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+tisŕ̥ṣu ← trí- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dādhāra ← √dhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +208,7 @@ Putting this all together, I would alter the tr. of cd to “this one (upholds) 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/03-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/03-05.md">
 <details open><summary><h2>03-05 ...{Loading}...</h2></summary>
 
 As noted in the published introduction. as well as above, the praise of soma modulates towards praise of Indra in this sequence, starting in the 2nd half of vs. 3. The first half of 3 clearly identifies soma as referent with the ppl. pītáḥ ‘when drunk’, but the cosmogonic deeds of 3d and of at least the first half of 4 begin to sound Indraic. We are brought abruptly back to soma in 4d (sómo dādhāra), but this almost seems like a trick or a feint to keep us from drifting further. And vs. 5 again sounds Indraic, esp.
@@ -185,3 +240,4 @@ Er ist es, der der Erde Breite ausmass, und der des Himmels hohe Wölbung baute;
 Он (создал) сливки в трех потоках.  
 Сома установил широкое воздушное пространство.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+cátuḥsahasram ← cátuḥsahasra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gávyasya ← gávya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+paśváḥ ← paśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+agrabhīṣma ← √gr̥bhⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+ruśámeṣu ← ruśáma- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ā́sīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+gharmáḥ ← gharmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pravŕ̥je ← √vr̥j- 1 (root)  
+{case:DAT, number:SG}
+
+taptáḥ ← √tap- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adāma ← √dā- 1 (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ayasmáyaḥ ← ayasmáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +232,4 @@ Ja viermal tausend Vieh der Rinderheerde empfingen wir von Ruçamern, o Agni, Un
 И железный котелок, который был разогрет,  
 Чтобы вскипело (молоко), его тоже взяли себе вдохновенные.
 </details>
+

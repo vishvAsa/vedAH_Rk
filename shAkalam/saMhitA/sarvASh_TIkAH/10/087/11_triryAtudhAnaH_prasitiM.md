@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+prásitim ← prásiti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+trís ← trís (invariable)  
+{}
+
+yātudhā́naḥ ← yātudhā́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ánr̥tena ← ánr̥ta- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+hánti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+arcíṣā ← arcís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sphūrjáyan ← √sphūrj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+samakṣám ← samakṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṅdhi ← √vr̥j- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +216,4 @@ Den Zaubrer bringe dreimal in dein Fangnetz, der den Gerechten schlägt durch Un
 Треща пламенем, о Джатаведас, повергни  
 Его ниц пред взорами воспевателя!
 </details>
+

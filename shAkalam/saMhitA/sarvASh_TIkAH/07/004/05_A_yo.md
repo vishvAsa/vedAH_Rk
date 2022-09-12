@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+devákr̥tam ← devákr̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sasā́da ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amŕ̥tān ← amŕ̥ta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+átārīt ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vanínaḥ ← vanín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhū́miḥ ← bhū́mi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bibharti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+viśvádhāyasam ← viśvádhāyas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +248,4 @@ Ihn, der in gottgeschaffnen Schooss sich setzte, – denn Agni übertraf an Kraf
 Того растения, деревья вынашивают как зародыша,  
 Всех кормящего, а также земля.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+kṣódaḥ ← kṣódas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nadī́nām ← nadī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vr̥tám ← √vr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+asr̥jaḥ ← √sr̥j- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+páriṣṭhitam ← √sthā- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+ūrmím ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pravátaḥ ← pravát- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tā́sām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+apásaḥ ← apás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ārdayaḥ ← √r̥d- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+nī́cīḥ ← nyàñc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +214,4 @@ Den grossen Schwall der Ströme, den versteckten, die rings umstellten Wogen mac
 По их отлогим руслам, о Индра, по (их) пути  
 Ты пустил течь вниз деятельные (воды) в океан.
 </details>
+

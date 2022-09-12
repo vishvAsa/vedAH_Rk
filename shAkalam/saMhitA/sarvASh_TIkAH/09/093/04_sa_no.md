@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pavamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+rada ← √rad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+aśvínam ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāvaśānáḥ ← √vāś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+púraṁdhiḥ ← púraṁdhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rathirāyátām ← √rathirāy- (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+uśatī́ ← √vaś- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmadryàk ← asmadryàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +208,4 @@ Du flammender, erschliesse durch die Götter, o Indu, willig Reichthum uns an Ro
 Пусть Пурамдхи охотно приедет на колеснице  
 В наши края, чтобы дать (нам) благ!
 </details>
+

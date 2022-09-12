@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cākánanta ← √kanⁱ- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRF, voice:MED}
+
+cākánanta ← √kanⁱ- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRF, voice:MED}
+
+nú ← nú (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+amr̥ta ← amŕ̥ta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+aran ← √r̥- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mártāḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+téṣu ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vāvandhí ← √vanⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+yájyūn ← yájyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jáneṣu ← jána- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+syā́ma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yéṣu ← yá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +246,4 @@ Die je sich freuten, mögen jetzt sich freuen, nicht treffe Noth die Sterblichen
 Окажи милость жертвователям и дай силу  
 Тем людям, среди которых пусть будем и мы!
 </details>
+

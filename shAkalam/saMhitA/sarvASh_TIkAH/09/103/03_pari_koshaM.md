@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+kóśam ← kóśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+madhuścútam ← madhuścút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+arṣati ← √arṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+avyáye ← avyáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā́re ← vā́ra- 1 (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+nūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+ŕ̥ṣīṇām ← ŕ̥ṣi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vā́ṇīḥ ← vā́ṇī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +156,4 @@ Rings strömt er durch des Widders Haar zur Kufe, die von Honig trieft; Schon ja
 Кругами в сосуд, сочащийся медом.  
 Его приветствуют семь голосов риши.
 </details>
+

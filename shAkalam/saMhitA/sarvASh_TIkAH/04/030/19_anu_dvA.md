@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+dvā́ ← dvá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+jahitā́ ← √hā- 2 (root)  
+{case:ACC, gender:M, number:DU, non-finite:PPP}
+
+nayaḥ ← √nī- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+andhám ← andhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+śroṇám ← śroṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áṣṭave ← √naś- 1 (root)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +162,7 @@ The infinitival phrase ná … áṣṭave is rendered in the published translat
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details open><summary><h2>08-21 ...{Loading}...</h2></summary>
 
 These vss. are tr. by Hoffmann (Injunk., 184-86).
@@ -153,3 +193,4 @@ Und zwei Verlassne führtest du, den Blinden, Lahmen, Vritrafeind, Nichts gleich
 Слепого и хромого, о убийца Вритры.  
 Не достигнуть такого твоего благородства!
 </details>
+

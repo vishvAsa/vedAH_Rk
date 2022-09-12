@@ -16,14 +16,54 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhibhaṅgā́ya ← abhibhaṅgá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+abhibhúve ← abhibhū́- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vanvaté ← √vanⁱ- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+áṣāḷhāya ← áṣāḷha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sáhamānāya ← √sah- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+vedháse ← vedhás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+duṣṭárītave ← duṣṭárītu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tuvigráye ← tuvigrí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+váhnaye ← váhni- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+satrāsā́he ← satrāsáh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vocata ← √vac- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +178,4 @@ Dem übermächt'gen, der bezwinget und zerbricht, dem unbesiegten Sieger, welche
 Мощному пожирателю, вознице трудноодолимому,  
 Всегда осиливающему Индре провозгласите поклонение!
 </details>
+

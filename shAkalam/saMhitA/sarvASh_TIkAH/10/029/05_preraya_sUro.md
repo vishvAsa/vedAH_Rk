@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+īraya ← √īr- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pārám ← pārá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sū́raḥ ← svàr- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+gmán ← √gam- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+janidhā́ḥ ← janidhā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tuvijāta ← tuvijātá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ánnaiḥ ← ánna- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pratiśíkṣanti ← √śak- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +243,4 @@ Führ hin wie zu der Sonne fernstem Ziele die Männer, die dies wünschend nun g
 И (тех) мужей, о рожденный силой Индра, что стараются  
 Помочь тебе многими песнями (и) яствами.
 </details>
+

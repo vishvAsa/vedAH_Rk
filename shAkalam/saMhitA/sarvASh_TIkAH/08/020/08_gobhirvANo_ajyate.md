@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajyate ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sóbharīṇām ← sóbhari- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vāṇáḥ ← vāṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hiraṇyáye ← hiraṇyáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kóśe ← kóśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bhujé ← bhúj- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+góbandhavaḥ ← góbandhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iṣé ← íṣ- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sujātā́saḥ ← sujātá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mahā́ntaḥ ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+spárase ← √spr̥- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +206,4 @@ Durch Milchtrank wird der Sobhari's Musik belohnt, den ihr im goldnen Wagen füh
 Происходящие от коровы прекраснорожденные (Маруты) (пусть помогут) вкусить жертвенной услады,  
 Великие (пусть помогут) нам сейчас (ее) добыть!
 </details>
+

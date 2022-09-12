@@ -16,14 +16,51 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pratnā́saḥ ← pratná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vyùṣṭiṣu ← vyùṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+akṣaran ← √kṣar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+apapróthantaḥ ← √pruthⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+huraścítaḥ ← huraścít- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sanutár ← sanutár (invariable)  
+{}
+
+ápracetasaḥ ← ápracetas- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prātár ← prātár (invariable)  
+{}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +172,4 @@ Die alten Somatränke sind durchs Sieb geströmt beim Morgenlicht, Fortschnaubeu
 Храпением прогоняя далеко прочь замышляющих засады,  
 Рано утром – этих неразумных.
 </details>
+

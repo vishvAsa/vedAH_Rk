@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ha ← √ah- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+áyātum ← áyātu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+íti ← íti (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yā́tudhāna ← yātudhā́na- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ha ← √ah- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+asmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+rakṣā́ḥ ← rakṣás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hantu ← √han- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahatā́ ← mahā́nt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vadhéna ← vadhá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+adhamáḥ ← adhamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jantóḥ ← jantú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+padīṣṭa ← √pad- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED, mood:PREC}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +251,4 @@ Der mir dem reinen »Zaubrer bist du« sagte, der selbst ein Unhold »heilig bin
 Индра того пусть убьет великим оружием!  
 Да падет он ниже любого существа!
 </details>
+

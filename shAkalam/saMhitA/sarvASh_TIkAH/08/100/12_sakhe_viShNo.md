@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; repeated line  
 popular  
 popular  
 popular
+#### Morph
+kramasva ← √kramⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sákhe ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+viṣṇo ← víṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vitarám ← vitarám (invariable)  
+{}
+
+dehí ← √dā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+lokám ← loká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vájrāya ← vájra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+viṣkábhe ← √skambhⁱ- (root)  
+{case:DAT, number:SG}
+
+hánāva ← √han- (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+riṇácāva ← √ric- (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+síndhūn ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prasavé ← prasavá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vísr̥ṣṭāḥ ← √sr̥j- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+yantu ← √i- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ O Freund, Vischnu, schreite noch weiter aus; o Himmel, gib Raum zum Fortschleude
 Мы двое убьем Вритру, мы освободим реки.  
 Отпущенные, пусть движутся они по побуждению Индры!
 </details>
+

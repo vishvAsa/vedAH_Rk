@@ -15,13 +15,47 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ásiknyām ← ásita- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+síndhau ← síndhu- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+samudréṣu ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+subarhiṣaḥ ← subarhís- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bheṣajám ← bheṣajá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+párvateṣu ← párvata- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +157,4 @@ Die Arzenei im Industrom, in der Asikni und im Meer, schönthronende; Die, Marut
 Которое в морях, о Маруты с прекрасной жертвенной соломой,  
 Целебное средство, которое в горах...
 </details>
+

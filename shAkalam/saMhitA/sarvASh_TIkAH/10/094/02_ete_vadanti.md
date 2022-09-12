@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+eté ← eṣá (pronoun)  
+{}
+
+sahásravat ← sahásravant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śatávat ← śatávant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vadanti ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+āsábhiḥ ← āsán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+háritebhiḥ ← hárita- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+krandanti ← √krand- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+grā́vāṇaḥ ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sukŕ̥taḥ ← sukŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sukr̥tyáyā ← sukr̥tyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+viṣṭvī́ ← √viṣ- 2 (root)  
+{}
+
+āśata ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+cit ← cit (invariable)  
+{}
+
+havirádyam ← havirádya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hótuḥ ← hótar- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Es singen diese hundertfach und tausendfach, mit gelben Mäulern wiehern sie ent
 
 -ru-
 </details>
+

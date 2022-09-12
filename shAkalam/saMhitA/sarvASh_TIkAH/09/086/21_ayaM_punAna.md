@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+rocayat ← √ruc- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+síndhubhyaḥ ← síndhu- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ulokakŕ̥t ← ulokakŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āśíram ← āśír- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+duduhānáḥ ← √duh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+cā́ru ← cā́ru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+hr̥dé ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+matsaráḥ ← matsará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +212,7 @@ The first three pādas of this vs. begin ayám ‘this one here’.
 The thrice seven cows here are also found in IX.70.1, as Geldner (n. 21c) points out. See the seven cows in vs. 25.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 No obvious signs of unity. The instr. manīṣíbhiḥ is found at the end of 19 and immediately afterwards at the beginning of 20. The dawn(s) and the rivers are found in both 19 and 21, but not in mutually reinforcing ways. As for external connections, the “partnership” (sakhyá-) of Indra and Vāyu in 20 is reminiscent of the companions/partners (implicitly Soma and Indra) in 16b. There are various lexical echoes (e.g., vicakṣaṇáḥ 19a = 11b), but the limited vocab. of the Soma hymns makes this unremarkable.
@@ -183,3 +241,4 @@ Gereinigt hat die Morgenröthen er erhellt, er war es, der den Strömen freie Ba
 
 -ru-
 </details>
+

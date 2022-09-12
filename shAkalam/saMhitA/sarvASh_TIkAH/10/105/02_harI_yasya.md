@@ -15,13 +15,56 @@ ChandaH = "पिपीलिकमध्या"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+hárī ← hári- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+suyújā ← suyúj- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+véḥ ← √vī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vívratā ← vívrata- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+árvantā ← árvant- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śépā ← śépa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+dán ← dám- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+keśínā ← keśín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rajī́ ← rají- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +179,4 @@ Du, dessen goldfarbenes Rossepaar schön angeschirrt, auf beiden Seiten vorwärt
 Двоих скакунов – хвосты (их) как у птицы –  
 Обоих коней с (пышной) гривой (выстраивает,) словно две прямые линии, (тот – ) повелитель.
 </details>
+

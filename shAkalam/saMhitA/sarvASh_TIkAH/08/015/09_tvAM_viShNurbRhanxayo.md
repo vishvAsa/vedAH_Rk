@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hán ← br̥hánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣáyaḥ ← kṣáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gr̥ṇāti ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+madati ← √mad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,7 +144,7 @@ Since kṣáya- otherwise means only ‘dwelling place’, the text as we have i
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/015/07-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/015/07-10.md">
 <details open><summary><h2>07-10 ...{Loading}...</h2></summary>
 
 Every half-verse in this tṛca but 7c and 10c opens with a form of the 2nd sg. pronoun.
@@ -138,3 +175,4 @@ Dich preisen Mitra-Varuna, dich Vischnu auf dem hohen Thron, Dir ruft mit lautem
 Митра воспевает, Варуна,  
 Тебя бурно приветствует толпа марутова.
 </details>
+

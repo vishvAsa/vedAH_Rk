@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+prāśuṣā́ṭ ← prāśuṣáh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suprāvyàḥ ← suprāvī́- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kévalā ← kévala- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+paktím ← paktí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+súṣveḥ ← súṣvi- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+āpíḥ ← āpí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásuṣveḥ ← ásuṣvi- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+jāmíḥ ← jāmí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávācaḥ ← ávāñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avahantā́ ← avahantár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+duṣprāvyàḥ ← duṣprāvī́- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +210,7 @@ On prāśu-(/śū-) see comm ad VIII.31.6; 32.2, 16.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/025/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/025/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 For suprāvī́-/duṣprāvī́- see comm. ad I.34.4.
@@ -181,3 +242,4 @@ Indra allein, der Held, der schnelle Sieger macht eigen sich des Somapressers Br
 Для невыжимающего он не товарищ, не друг, не родственник.  
 Плохо приглашающего, не произносящего (хвалу) он бьет навзничь.
 </details>
+

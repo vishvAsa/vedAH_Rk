@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+maghávān ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥jīṣī́ ← r̥jīṣín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yātu ← √yā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+drávantu ← √dru- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+ándhaḥ ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sudákṣam ← sudákṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suṣuma ← √su- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+abhipitvám ← abhipitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ihá ← ihá (invariable)  
+{}
+
+karate ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Vordringend komme her der mächt'ge treue, zu uns her mögen eilen seine Füchse
 Это для него мы выжали прекрасно действующий сок сомы.  
 Пусть восхваляемый задержится здесь!
 </details>
+

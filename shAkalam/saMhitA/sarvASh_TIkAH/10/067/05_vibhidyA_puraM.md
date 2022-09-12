@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápācīm ← ápāñc- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+púram ← púr- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śayáthā ← śayátha- (nominal stem)  
+{gender:N}
+
+vibhídya ← √bhid- (root)  
+{non-finite:CVB}
+
+akr̥ntat ← √kr̥t- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+sākám ← sākám (invariable)  
+{}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+udadhéḥ ← udadhí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+stanáyan ← √stanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+viveda ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Nachdem er die westliche Burg und die Lager zerstört hatte, spaltete Brihaspati
 Утреннюю зарю, солнце, корову.  
 Он нашел (также) напев, гремя, как небо.
 </details>
+

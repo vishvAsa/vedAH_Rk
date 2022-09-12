@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+írāvatīm ← írāvant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mitrāvaruṇau ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sú ← sú (invariable)  
+{}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+citrā́m ← citrá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+parjányaḥ ← parjánya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvíṣīmatīm ← tvíṣīmant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vadati ← √vadⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+abhrā́ ← abhrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+māyáyā ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+vasata ← √vas- 2 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+arepásam ← arepás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+aruṇā́m ← aruṇá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+varṣayatam ← √vr̥ṣ- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +204,4 @@ Sein lautes Lied, das labende, erschütternde, stimmt an Pardschanja schon, o Mi
 Маруты прекрасно оделись в тучи благодаря волшебной силе.  
 Вы двое заставьте излиться дождем алое беспорочное небо!
 </details>
+

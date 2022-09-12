@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+sanéma ← √sanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+sanítvabhiḥ ← sanítvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+susanítā ← susanítā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánāgasaḥ ← ánāgas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jīvā́ḥ ← jīvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jīváputrāḥ ← jīváputra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+bharerata ← √bhr̥- (root)  
+{number:PL, person:3, mood:OPT, tense:PRS, voice:MED}
+
+brahmadvíṣaḥ ← brahmadvíṣ- (nominal stem)  
+{case:NOM, number:PL}
+
+énaḥ ← énas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víṣvak ← víṣvañc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Lasst uns und unsre Kinder lebend, frei von Schuld empfangen dies mit den Empfä
 Пусть ненавистники священного слова возьмут на себя грех разными способами!  
 Сегодня мы просим об этой милости богов!
 </details>
+

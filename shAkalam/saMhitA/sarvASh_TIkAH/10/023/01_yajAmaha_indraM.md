@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vájradakṣiṇam ← vájradakṣiṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yájāmahe ← √yaj- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+hárīṇām ← hári- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rathyàm ← rathī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vívratānām ← vívrata- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+dódhuvat ← √dhū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+śmáśru ← śmáśru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ūrdhváthā ← ūrdhváthā (invariable)  
+{}
+
+dáyamānaḥ ← √dā- 3 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+rā́dhasā ← rā́dhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sénābhiḥ ← sénā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ Dem blitzbewehrten Indra bringen Opfer wir, der seine goldnen widerspänst'gen R
 Он выпрямился, встряхивая бороду,  
 Раздавая оружие, раз(давая) почетный дар.
 </details>
+

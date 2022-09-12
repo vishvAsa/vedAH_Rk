@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+śacīvaḥ ← śácīvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vīryèṇa ← vīryà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+r̥tajñā́ḥ ← r̥tajñā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uśíjaḥ ← uśíj- (nominal stem)  
+{case:NOM, number:PL}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prajā́vat ← prajā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gr̥ṇántaḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sadhamā́dyāsaḥ ← sadhamā́dya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tasthúḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +193,4 @@ Durch deine Gunst und Heldenkraft, o starker, empfangend, Indra, kinderreiche La
 
 -ru-
 </details>
+

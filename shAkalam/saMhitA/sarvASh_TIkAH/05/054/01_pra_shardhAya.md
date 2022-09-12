@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mā́rutāya ← mā́ruta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śárdhāya ← śárdha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svábhānave ← svábhānu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+anajā ← √añj- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+parvatacyúte ← parvatacyút- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+gharmastúbhe ← gharmastúbh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pr̥ṣṭhayájvane ← pr̥ṣṭhayájvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+arcata ← √r̥c- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dyumnáśravase ← dyumnáśravas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nr̥mṇám ← nr̥mṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +232,4 @@ Der Marutschar habt kunstvoll ihr dies Lied erdacht, die glänzend strahlt und d
 (Толпу,) ревущую в такт котелку с молоком, приносящую жертвы на спине самого неба,  
 Славную (своим) сверканием – воспевайте (ее) великое мужество!
 </details>
+

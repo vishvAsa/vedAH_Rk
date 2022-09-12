@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+atiranta ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dyumnébhiḥ ← dyumná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átakṣan ← √takṣ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+mántram ← mántra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náryāḥ ← nárya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́ram ← vā́ra- 2 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+śróṣamāṇāḥ ← √śruṣ- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:MED}
+
+tiránta ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+víśaḥ ← víś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dī́dhayan ← √dhī- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +222,4 @@ Es haben alles herrlich sie gefördert, die Männer, die die Sprüche schön ged
 (Те,) что продвинули вперед племена, слушающиеся (их),  
 (Те,) что внимательны к этому моему праведному (слову).
 </details>
+

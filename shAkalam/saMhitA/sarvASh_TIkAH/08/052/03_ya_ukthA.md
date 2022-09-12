@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+dadhé ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+kévalā ← kévala- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ápibat ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dhr̥ṣatā́ * ← √dhr̥ṣ- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+padā́ ← padá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vicakramé ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yásmai ← yá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+dhármabhiḥ ← dhárman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +195,4 @@ Der für sich allein die Loblieder beanspruchst, der herzhaft den Soma trank, f�
 Кому Вишну прошагал три шага  
 По законам дружбы…
 </details>
+

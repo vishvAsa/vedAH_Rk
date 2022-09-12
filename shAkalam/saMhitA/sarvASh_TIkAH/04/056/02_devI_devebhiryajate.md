@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yajaté ← yajatá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yájatraiḥ ← yájatra- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áminatī ← áminant- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tasthatuḥ ← √sthā- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ukṣámāṇe ← √ukṣ- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+adrúhā ← adrúh- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+deváputre ← deváputra- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+r̥tā́varī ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+netrī́ ← netrī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+śucáyadbhiḥ ← √śuc- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +205,4 @@ Die beiden heil'gen mit den heil'gen Göttern, die Welten standen unversehrt, er
 Преданные закону, не терпящие обмана, имеющие богов сыновьями,  
 Руководительницы жертвоприношения, сопровождаемые блистательными песнями.
 </details>
+

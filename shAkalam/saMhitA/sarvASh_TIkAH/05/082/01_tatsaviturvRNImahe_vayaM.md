@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+savitúḥ ← savitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+bhójanam ← bhójana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+sarvadhā́tamam ← sarvadhā́tama- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śréṣṭham ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhágasya ← bhága- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhīmahi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+túram ← túr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -100,8 +134,6 @@ genre M
 We chose that enjoyment of Deva Savitṛ; may we focus on Bhaga’s best all-giving power.
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -148,3 +180,4 @@ Dies Gut des Gottes Savitar, das labende, begehren wir; Das beste, allerquickend
 Мы хотим получить его – самое лучшее,  
 Всеподдерживающее, покоряющее (подкрепление) Бхаги!
 </details>
+

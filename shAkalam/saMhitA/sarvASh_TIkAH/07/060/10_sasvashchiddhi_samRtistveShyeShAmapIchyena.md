@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+sámr̥tiḥ ← sámr̥ti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sasvár ← sasvár (invariable)  
+{}
+
+tveṣī́ ← tveṣín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apīcyèna ← apīcyà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sáhante ← √sah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+bhiyā́ ← bhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+réjamānāḥ ← √rej- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+vr̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yuṣmát ← tvám (pronoun)  
+{case:ABL, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mr̥ḷáta ← √mr̥ḍ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +203,4 @@ Denn ins Geheim ist stark der Feinde Andrang, sie streiten mit verborgnen Sieges
 Дрожа от страха перед вами, о быки, (мы молим:)  
 Пощадите нас силой величия самого Дакши!
 </details>
+

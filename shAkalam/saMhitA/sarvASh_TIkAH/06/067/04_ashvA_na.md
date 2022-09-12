@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvā ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+pūtábandhū ← pūtábandhu- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vājínā ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bháradhyai ← √bhr̥- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tā́ ← r̥tá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jā́yamānā ← √janⁱ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+mahā́ntā ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+dīdhar ← √dhr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ghorā́ ← ghorá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mártāya ← márta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+ripáve ← ripú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,3 +250,4 @@ Die Aditi als Frucht zu tragen stark war, die rein entstammten wie zwei edle Ros
 (Тех,) что величественно рождались как великие,  
 (Их,) грозных, она определила (следить) за лживым смертным.
 </details>
+

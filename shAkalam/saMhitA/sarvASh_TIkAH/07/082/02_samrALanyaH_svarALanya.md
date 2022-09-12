@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samrā́ṭ ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svarā́ṭ ← svarā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ucyate ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+índrāváruṇā ← índrāváruṇa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mahā́ntau ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mahā́vasū ← mahā́vasu- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+vyòmani ← vyòman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bálam ← bála- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +246,4 @@ Selbstherr heisst einer, und der andre Oberherr, und gross und reich ihr beide, 
 Все боги на высшем небосводе  
 Со(единили) в вас двоих силу, о быки, соединили мощь.
 </details>
+

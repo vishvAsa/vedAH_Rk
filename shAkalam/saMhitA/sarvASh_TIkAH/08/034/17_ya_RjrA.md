@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+r̥jrā́ḥ ← r̥jrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́taraṁhasaḥ ← vā́taraṁhas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+aruṣā́saḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+raghuṣyádaḥ ← raghuṣyád- (nominal stem)  
+{case:NOM, number:PL}
+
+bhrā́jante ← √bhrāj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+sū́ryāḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +137,4 @@ Braune Rosse, schneller als der Wind, rothe, rasch laufende, welche wie Sonnen g
 (Тех, что) рыжие, быстробегущие,  
 (Которые) сверкают, словно солнце.
 </details>
+

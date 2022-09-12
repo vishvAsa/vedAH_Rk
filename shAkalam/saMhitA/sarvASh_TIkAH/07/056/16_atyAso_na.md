@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átyāsaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sváñcaḥ ← sváñc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+máryāḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śubháyanta ← √śubh- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+yakṣadŕ̥śaḥ ← yakṣadŕ̥ś- (nominal stem)  
+{}
+
+harmyeṣṭhā́ḥ ← harmyeṣṭhā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śíśavaḥ ← śíśu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śubhrā́ḥ ← śubhrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+payodhā́ḥ ← payodhā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prakrīḷínaḥ ← prakrīḷín- (nominal stem)  
+{gender:M, number:PL}
+
+vatsā́saḥ ← vatsá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Die Maruts, die wie schöngeschmückte Rosse, wie feur'ge Blitze funkeln, sie, d
 Они привлекательны, как телята, живущие в загоне,  
 (Эти Маруты,) играющие, словно молодые животные-сосунки
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mā́nuṣīḥ ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jātā́ḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+náhuṣaḥ ← náhus- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gā́ndharvīm ← gā́ndharva- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pathyā̀m ← pathyā̀- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gávyūtiḥ ← gávyūti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ghr̥té ← ghr̥tá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+níṣattā ← √sad- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Den Agni preisen seines Volkes Stämme, den Agni auch, die von den Nachbarn stam
 Агни (знает) свойственный Гандхарвам путь закона.  
 У Агни пастбище погружено в жир.
 </details>
+

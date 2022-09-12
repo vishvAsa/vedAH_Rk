@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pratimā́nam ← pratimā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+hánti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śúṣṇam ← śúṣṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+atanot ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mahī́m ← máh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+cāskámbha ← √skambhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+skábhīyān ← skábhīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+skámbhanena ← skámbhana- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ Dem Himmel und der Erde gleich ist Indra, die Tränke alle kennt er, schlägt de
 Сквозь какое огромное небо он проник с помощью солнца!  
 Он даже укрепил (его) креплением, (этот) укрепляющий лучше другого.
 </details>
+

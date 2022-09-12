@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhema ← √bhī- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+śramiṣma ← √śramⁱ- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ugrásya ← ugrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+abhicákṣyam ← abhicákṣya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+páśyema ← √paś- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+turváśam ← turváśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yádum ← yádu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +197,4 @@ Nicht zagen, nicht ermatten wir, sind dir, dem starken, wir vereint, Bewundernsw
 Примечательно (это) великое деяние у тебя, быка.  
 Мы хотели бы (снова) увидеть Турвашу и Яду!
 </details>
+

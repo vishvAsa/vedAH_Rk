@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+māmr̥je ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+samudráḥ ← samudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dharúṇaḥ ← dharúṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+viṣṭambháḥ ← viṣṭambhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmayúḥ ← asmayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +147,4 @@ Uns freundlich klärt sich wie ein Meer in Wassern Soma, in dem Sieb, Er, der de
 Опора, столб неба,  
 Сома в цедилке, стремящийся к нам.
 </details>
+

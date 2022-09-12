@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+etaú ← eṣá (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+gā́vau ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pramarásya ← pramará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yuktaú ← √yuj- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+ít ← ít (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mamandhi ← √man- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+múhur ← múhur (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+sedhīḥ ← √sidh- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+naśanti ← √naś- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+babhūvā́n ← √bhū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+markáḥ ← marká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sū́raḥ ← svàr- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+úparaḥ ← úpara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +261,4 @@ Diese beiden Rinder des Todes sind für mich angespannt; treibe sie doch ja nich
 
 -ru-
 </details>
+

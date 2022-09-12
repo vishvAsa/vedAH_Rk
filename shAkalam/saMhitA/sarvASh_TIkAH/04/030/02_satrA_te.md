@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+kr̥ṣṭáyaḥ ← kr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+cakrā́ ← cakrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+vāvr̥tuḥ ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+śrutáḥ ← √śru- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +169,4 @@ Dir rollen gleich wie Räder nach die Menschenstämme allzumal, Als gross wirst 
 Как колеса (телеги – за конем).  
 Ты прослыл великим во всем.
 </details>
+

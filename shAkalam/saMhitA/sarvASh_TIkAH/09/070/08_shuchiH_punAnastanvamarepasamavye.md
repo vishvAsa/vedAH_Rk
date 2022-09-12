@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arepásam ← arepás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+adhāviṣṭa ← √dhāv- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+ávye ← ávya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sā́navi ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+júṣṭaḥ ← júṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitrā́ya ← mitrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+váruṇāya ← váruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vāyáve ← vāyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kriyate ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+mádhu ← mádhu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sukármabhiḥ ← sukárman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tridhā́tu ← tridhā́tu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Der hell entflammte hat gereinigt seinen Leib den fleckenlosen glänzend auf der
 Приятный для Митры, Варуны, Ваю.  
 Троякий мед готовится прекрасно действующими (жрецами).
 </details>
+

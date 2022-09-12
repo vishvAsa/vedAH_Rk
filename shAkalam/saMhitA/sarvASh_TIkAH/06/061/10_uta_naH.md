@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+priyā́ ← priyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+priyā́su ← priyá- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+saptásvasā ← saptásvasar- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sújuṣṭā ← sújuṣṭa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+stómyā ← stómya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +166,4 @@ Die uns unter lieben lieb ist, freundlich mit den sieben Schwestern, Sei Sarasva
 С семью сестрами, очень ценимая,  
 Будет у нас достойной восхвалений!
 </details>
+

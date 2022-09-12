@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+indriyám ← indriyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kariṣyā́ḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:FUT, voice:ACT}
+
+paúṁsyam ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adyá ← adyá (invariable)  
+{}
+
+minat ← √mī- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +173,4 @@ Und welche starke Indrathat du, Indra, noch vollbringen willst, Die hindre heute
 О Индра, некий подвиг мужества, достойный Индры,  
 Никто сегодня не помешает (тебе) в этом.
 </details>
+

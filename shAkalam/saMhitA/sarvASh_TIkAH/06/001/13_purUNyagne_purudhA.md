@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+purudhā́ ← purudhā́ (invariable)  
+{}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tvāyā́ ← tvám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+aśyām ← √naś- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vasútā ← vasútā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+puruvāra ← puruvā́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rā́jani ← rā́jan- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vidhaté ← √vidh- (root)  
+{case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+jā́yamānaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+papraú ← √prā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+urvī́ ← urú- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhāsā́ ← bhā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dūredŕ̥śā ← dūredŕ̥ś- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+kr̥ṣṇā́dhvā ← kr̥ṣṇā́dhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+bahú ← bahú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ū́rmyāyāḥ ← ū́rmyā- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+dadr̥śe ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+pāvakáḥ ← pāvaká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Der kaum geboren beide Welten füllte auf schwarzer Bahn mit weit zu schau'ndem 
 Затем даже сквозь густой мрак ночи  
 Он стал виден благодаря (своему) пламени, (он,) очищающий.
 </details>
+

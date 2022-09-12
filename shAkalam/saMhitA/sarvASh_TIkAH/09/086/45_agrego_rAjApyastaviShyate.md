@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agregáḥ ← agregá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápyaḥ ← ápya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+taviṣyate ← √taviṣya- (root)  
+{case:VOC, tense:PRS, voice:ACT}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+árpitaḥ ← √r̥- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+bhúvaneṣu ← bhúvana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vimā́naḥ ← vimā́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arṇaváḥ ← arṇavá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ghr̥tásnuḥ ← ghr̥tásnu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sudŕ̥śīkaḥ ← sudŕ̥śīka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jyotī́rathaḥ ← jyotī́ratha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+okyàḥ ← okyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +183,7 @@ bhúvaneṣv árpitaḥ also in 39b.
 In d I construe rāyé with okyàḥ, although I cannot find any parallel usage. But on its own, okyàḥ is hard to fit semantically into the vs.; cf. Geldner’s “gern bleibend” and Renou’s “(ce dieu) domestique,” which seem like afterthoughts..
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/43-45.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/43-45.md">
 <details open><summary><h2>43-45 ...{Loading}...</h2></summary>
 
 This tṛca seems more artful than most of the other, with metaphor layered upon metaphor (vss. 43, 45), varied by similes (vs. 44).
@@ -163,3 +212,4 @@ Der Fluten König, führend sie, erweist sich stark, die Tage messend, in die We
 
 -ru-
 </details>
+

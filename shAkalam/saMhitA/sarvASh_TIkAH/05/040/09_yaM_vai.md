@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424);; repeated line  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svàrbhānuḥ ← svàrbhānu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaí ← vaí (invariable)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+āsuráḥ ← āsurá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávidhyat ← √vyadh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+támasā ← támas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+átrayaḥ ← átri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+avindan ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+anyé ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśaknuvan ← √śak- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nahí ← nahí (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +181,4 @@ Die Sonne, die der dämonische Suarbhanu mit Finsterniss schlug, fanden die Atri
 Его снова нашли люди из семьи Атри:  
 Ведь другие не смогли (этого сделать)!
 </details>
+

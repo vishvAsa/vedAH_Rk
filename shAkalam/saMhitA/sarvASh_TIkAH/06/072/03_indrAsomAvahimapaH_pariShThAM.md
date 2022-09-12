@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+índrāsomau ← índrāsóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pariṣṭhā́m ← pariṣṭhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+amanyata ← √man- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ánu ← ánu (invariable)  
+{}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hatháḥ ← √han- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+airayatam ← √īr- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+árṇāṁsi ← árṇas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+nadī́nām ← nadī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+paprathuḥ ← √prā- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+samudrā́ṇi ← samudrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Den Drachen Vritra, der die Flut umstanden, schlugt, Indra-Soma, ihr, der Himmel
 Течения рек вы привели в движение,  
 Сделали широкими многие моря.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M;; repeated line  
 genre M
+#### Morph
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+rudrā́ya ← rudrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sthirádhanvane ← sthirádhanvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kṣipréṣave ← kṣipréṣu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svadhā́vne ← svadhā́van- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+áṣāḷhāya ← áṣāḷha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sáhamānāya ← √sah- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+vedháse ← vedhás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bharata ← √bhr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śr̥ṇótu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tigmā́yudhāya ← tigmā́yudha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +174,7 @@ to the unvanquishable, vanquishing adept whose weapons are sharp. Let  him hear 
 I have deliberately omitted to tr. the 2nd enclitic vaḥ, found in c.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 devayántaḥ in 1ab with 3rd ps. referent (see the 3rd pl. verb ákṛṇvata) modulates to 1st ps. reference in 2b, also signalled by the verb (aśyāma).
@@ -164,3 +207,4 @@ Dem Gott mit starkem Bogen, schnellen Pfeilen bringt, dem unumschränkten Herrsc
 Устроителю (обряда), (стрелку) с острым оружием!  
 Да услышит он нас!
 </details>
+

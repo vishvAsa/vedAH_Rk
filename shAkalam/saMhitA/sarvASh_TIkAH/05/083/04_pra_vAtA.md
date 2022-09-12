@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+patáyanti ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+vā́nti ← √vā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́tāḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vidyútaḥ ← vidyút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jíhate ← √hā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pínvate ← √pinv- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
+bhúvanāya ← bhúvana- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+írā ← írā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jāyate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+víśvasmai ← víśva- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ávati ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+parjányaḥ ← parjánya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rétasā ← rétas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Die Winde wehen, Blitze fliegen vor ihm her; die Kräuter richten sich empor, de
 Рождается свежесть для всего мира,  
 Когда Парджанья насыщает землю (своим) семенем.
 </details>
+

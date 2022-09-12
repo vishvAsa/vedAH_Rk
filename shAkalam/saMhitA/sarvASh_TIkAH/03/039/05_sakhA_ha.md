@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ha ← ha (invariable)  
+{}
+
+návagvaiḥ ← návagva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhibhiḥ ← sákhi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhijñú ← abhijñú (invariable)  
+{}
+
+anugmán ← √gam- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sátvabhiḥ ← sátvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+daśábhiḥ ← dáśa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dáśagvaiḥ ← dáśagva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kṣiyántam ← √kṣi- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+támasi ← támas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+viveda ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Wo dort als Freund er mit den neun Genossen, den tapfern kniend nach den Kühen 
 Тогда, поистине, Индра с десятью Дашагва  
 Нашел солнце, пребывавшее во мраке.
 </details>
+

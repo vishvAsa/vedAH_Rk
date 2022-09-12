@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádrogha ← adroghá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahitvám ← mahitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ápibaḥ ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sadyás ← sadyás (invariable)  
+{}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dyā́vaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tavásaḥ ← tavás- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+áhā ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mā́sāḥ ← mā́sa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+varanta ← √vr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +256,4 @@ Trugloser, das ist wahrhaft deine Grösse, dass kaum geboren schon du Soma trank
 Ни дни, о Индра, ни дни и ночи, ни месяцы,  
 Ни осени не сдерживали силы у тебя, могучего.
 </details>
+

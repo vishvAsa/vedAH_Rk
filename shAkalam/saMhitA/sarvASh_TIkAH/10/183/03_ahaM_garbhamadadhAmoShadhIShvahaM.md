@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+adadhām ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+óṣadhīṣu ← óṣadhī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+bhúvaneṣu ← bhúvana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+víśveṣu ← víśva- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ajanayam ← √janⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+prajā́ḥ ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pr̥thivyā́m ← pr̥thivī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+aparī́ṣu ← aparī́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+jánibhyaḥ ← jáni- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+putrā́n ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +201,4 @@ Ich habe Frucht gesetzet in die Kräuter, ich habe Frucht gelegt in alle Wesen; 
 Я породил потомков на земле.  
 Я буду пораждать (и) в будущем сыновей для женщин.
 </details>
+

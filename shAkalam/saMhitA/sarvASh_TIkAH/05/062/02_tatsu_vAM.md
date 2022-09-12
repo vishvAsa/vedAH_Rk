@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahitvám ← mahitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sú ← sú (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+áhabhiḥ ← áhar ~ áhan- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+duduhre ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+īrmā́- ← īrmā́ (invariable)  
+{case:INS, gender:F, number:SG}
+
+tasthúṣīḥ ← √sthā- (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:ACT}
+
+dhénāḥ ← dhénā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pinvathaḥ ← √pinv- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+svásarasya ← svásara- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavíḥ ← paví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vavarta ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Varuna-Mitra, diese eure Grösse, die nutzten täglich aus, die euch zur Hand st
 Все потоки с пастбища вы делаете набухшими.  
 За вами двоими катится один обод.
 </details>
+

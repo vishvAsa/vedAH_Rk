@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+návīyaḥ ← návīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pratarám ← pratarám (invariable)  
+{}
+
+tāri ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+iva ← iva (invariable)  
+{}
+
+krátumatā ← krátumant- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ráthasya ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sthā́tārā ← sthā́tar- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ádha ← ádha (invariable)  
+{}
+
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cyávānaḥ ← cyávāna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tavīti ← √tū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+jihītām ← √hā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+nírr̥tiḥ ← nírr̥ti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+parātarám ← parātarám (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +207,4 @@ Erneuert schreite weiter vor das Leben wie zwei mit Kraft versehne Wagenstreiter
 И тогда Чьявана справляется со (своим) делом.  
 Как можно дальше пусть отступит Ниррити!
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+devayúḥ ← devayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nīyate ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+yajñā́ya ← yajñá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+abhī́vr̥taḥ ← √vr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yóḥ ← yú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cetati ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ghŕ̥ṇīvān ← ghŕ̥ṇīvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +183,4 @@ Der Priester hier, den Göttern hold, wird zu dem Opfer vorgeführt; Wie ein bel
 Накрытый, как колесница едущего ( в поход),  
 Пылающий, он сам себя проявляет.
 </details>
+

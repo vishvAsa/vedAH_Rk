@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+brahmakŕ̥taḥ ← brahmakŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+sácā ← sácā (invariable)  
+{}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ā́sate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mádhau ← mádhu- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mákṣaḥ ← mákṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jaritā́raḥ ← jaritár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vasūyávaḥ ← vasūyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pā́dam ← pád- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Denn diese Beter sitzen hier bei deinem Trank, wie Fliegen bei dem Honigseim, Au
 Певцы, жаждущие благ, на Индру поставили  
 (Свое) желание, как ногу на колесницу.
 </details>
+

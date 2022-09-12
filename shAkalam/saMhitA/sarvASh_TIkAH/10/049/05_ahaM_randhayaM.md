@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+mŕ̥gayam ← mŕ̥gaya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+randhayam ← √randh- (root)  
+{number:SG, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+śrutárvaṇe ← śrutárvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ájihīta ← √hā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+vayúnā ← vayúna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+akaram ← √kr̥- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+āyáve ← āyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+namrám ← namrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+veśám ← veśá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+arandhayam ← √randh- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+páḍgr̥bhim ← páḍgr̥bhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sávyāya ← sávya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Den Mrigaja gab dem Çrutarvan ich dahin, auch als des Lebens Kraft mich nach un
 Я сделал Вешу подчиненным для Аю.  
 Я для Савьи отдал во власть Падгрибхи.
 </details>
+

@@ -18,16 +18,68 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+āsate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+dharmā́ṇaḥ ← dharmán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+juhū́bhiḥ ← juhū́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+siñcatī́ḥ ← √sic- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+árjunā ← árjuna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kr̥ṣṇā́ ← kr̥ṣṇá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+rūpā́ṇi ← rūpá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dhiṣe ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+śríyaḥ ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vívakṣase ← √vac- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Die Ordner sitzen um dich her mit Löffeln, Regenströmen gleich; Die schwarzen 
 Все великолепие ты берешь себе –  
 В опьянении (сомой) я хочу вам (это) провозгласить.
 </details>
+

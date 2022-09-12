@@ -18,16 +18,74 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tát-tat ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥paṇyáti ← √kr̥paṇ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yáthā-yathā ← yáthā (invariable)  
+{}
+
+ūrjā́hutiḥ ← ūrjā́huti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+máyaḥ ← máyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+yós ← yós (invariable)  
+{}
+
+deváhūtyai ← deváhūti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+víśvasyai ← víśva- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,3 +262,4 @@ So theilt Genüsse Agni aus, wie jeder sie zu haben wünscht, Ergossen wird der 
 При каждом призыве богов.  
 Пусть лопнут все ничтожные другие!
 </details>
+

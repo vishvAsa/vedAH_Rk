@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índraprasūtāḥ ← índraprasūta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váruṇapraśiṣṭāḥ ← váruṇapraśiṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ānaśúḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jyótiṣaḥ ← jyótis- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+dhīmahi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+marúdgaṇe ← marúdgaṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vr̥jáne ← vr̥jána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+janayanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+mā́ghone ← mā́ghona- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +201,4 @@ Die Antheil haben an der Sonne hellem Licht, erregt von Indra und von Varuna bel
 
 -ru-
 </details>
+

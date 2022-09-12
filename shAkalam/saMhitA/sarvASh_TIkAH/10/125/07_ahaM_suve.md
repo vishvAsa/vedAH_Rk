@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mūrdhán ← mūrdhán- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suve ← √sū- 2 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+antár ← antár (invariable)  
+{}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yóniḥ ← yóni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+bhúvanā ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tátas ← tátas (invariable)  
+{}
+
+tiṣṭhe ← √sthā- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+amū́m ← asaú (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+spr̥śāmi ← √spr̥ś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+varṣmáṇā ← varṣmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +241,4 @@ Ich zeug' des Weltalls Vater in der Höhe, mein Sitz ist in den Wassern, in dem 
 Оттуда расхожусь я по всем существам  
 И касаюсь теменем того неба.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pītvā́ ← √pā- 2 (root)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣāyáte ← √vr̥ṣāy- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pītā́ ← pītí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+svarvídaḥ ← svarvíd- (nominal stem)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+akramīt ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+supráketaḥ ← supráketa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+étaśaḥ ← étaśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +194,7 @@ The gerund pītvā́in a is echoed by the i-stem loc. pītā́in b.
 On the unexpected accent of supráketa-, as opposed to supraketá- (4x), see Oldenberg, who has no good explanation (nor do I).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 There is syntactic dependence between the two vss., at least by my reading: 2ab depends on vs. 1, while 2cd consists of a new cl., with a change of person. The Anukr. attributes the two vss. to Gaurivīti Śāktya; there is some support for this, in that V.29 (one of the three other hymns attributed to him [also X.73-74]) has an allusion to the myth involving Etaśa, the sun’s horse (V.29.5), who appears in our 2d.
@@ -174,3 +226,4 @@ Nach dessen Trunk der Stier sich als ein Stier erweist, zu dieses Segenspenders 
 Этот (сома) с добрыми предзнаменованиями бросился к жертвенным усладам,  
 Как Эташа к награде.
 </details>
+

@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhánvan ← dhánur ~ dhánvan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhīyate ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+íṣuḥ ← íṣu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+matíḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sarji ← √sr̥j- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+ū́dhani ← ū́dhar- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vatsáḥ ← vatsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+āyatī́ ← √i- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+duhe ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+urúdhārā ← urúdhāra- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+ásya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+iṣyate ← √iṣ- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vratéṣu ← vratá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,3 +280,4 @@ Wie auf den Bogen wird Gebet als Pfeil gelegt, und schmiegt wie an der Mutter Eu
 Он доится широким потоком, как (корова,) пришедшая первой.  
 Сома устремляется к своим обетам.
 </details>
+

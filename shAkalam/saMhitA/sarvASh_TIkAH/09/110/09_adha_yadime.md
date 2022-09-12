@@ -15,13 +15,65 @@ ChandaH = "ऊर्ध्वबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+pavamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+bhúvanā ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+majmánā ← majmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+niṣṭhā́ḥ ← niṣṭhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tiṣṭhase ← √sthā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yūthé ← yūthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +179,7 @@ outstanding like a bull in the herd you extend yourself over them.
 On niṣṭhā́- see comm. ad III.31.10.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Considerably clearer than the previous tṛca.
@@ -158,3 +210,4 @@ Wenn flammend du zu diesen beiden Welten dringst, zu allen diesen Wesen nun mit 
 И все миры (ты) пре(взошел) величием,  
 Ты распределяешь себя, как бык, находящийся в стаде.
 </details>
+

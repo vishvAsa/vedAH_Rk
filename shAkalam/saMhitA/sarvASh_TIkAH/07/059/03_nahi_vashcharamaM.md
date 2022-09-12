@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+caná ← caná (invariable)  
+{}
+
+caramám ← caramá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nahí ← nahí (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+parimáṁsate ← √man- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sácā ← sácā (invariable)  
+{}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+kāmínaḥ ← kāmín- (nominal stem)  
+{case:NOM, number:PL}
+
+pibata ← √pā- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,7 +161,7 @@ On sácā as loc. absol. marker, see comm. ad IV.31.5.
 I have rendered the nom. pl. kāmínaḥ as an adverb (avidly) to avoid the somewhat heavy ‘having desire (for it)’.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 Both of these vss. begin nahí vaḥ; in neither one is it easy to produce a causal value for -hí, hence my ‘certainly’. The opening of 4c abhí vaḥ plays on the nahí vaḥ of 3a, 4a.
@@ -150,3 +193,4 @@ Denn auch den letzten unter euch versäumet ja Vasischtha nicht, O Maruts trinke
 У нас сегодня, о Маруты, при выжимании (сомы)  
 Пейте все, у кого есть желание!
 </details>
+

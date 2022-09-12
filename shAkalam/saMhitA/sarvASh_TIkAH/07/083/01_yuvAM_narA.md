@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́pyam ← ā́pya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+páśyamānāsaḥ ← √paś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+gavyántaḥ ← √gavy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+prācā́ ← prā́ñc- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pr̥thupárśavaḥ ← pr̥thupárśu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yayuḥ ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ā́ryāṇi ← ā́rya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dā́sā ← dā́sa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+hatám ← √han- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vr̥trā́ ← vr̥trá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+avatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+indrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sudā́sam ← sudā́s- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Auf euch, o Männer, eure Freundschaft schauend zog mit breiten Säbeln aus die 
 Убивайте врагов: дасов и ариев!  
 Судасу, о Индра-Варуна, помогите (своей) помощью!
 </details>
+

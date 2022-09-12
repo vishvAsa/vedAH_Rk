@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cakānáḥ ← √kā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+evá ← evá (invariable)  
+{}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+navamám ← navamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+náviṣṭhāya ← náviṣṭha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+trasádasyuḥ ← trasádasyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tuvijātásya ← tuvijātá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+gr̥ṇā́ti ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tryàruṇaḥ ← tryàruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yukténa ← √yuj- (root)  
+{case:INS, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ So [diente], o Agni, dir dem jüngsten deine Gunst gewinnend zum neunten male [n
 Тръяруна, который многие хвалебные песни, (сочиненные) мною, могучим,  
 Награждает запряженной (повозкой)!
 </details>
+

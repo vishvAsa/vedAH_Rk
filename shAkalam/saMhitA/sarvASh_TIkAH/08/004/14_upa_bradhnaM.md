@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+bradhnám ← bradhná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+úpa ← úpa (invariable)  
+{}
+
+vāvā́tā ← vāvā́ta- (?) (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vŕ̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+apásu ← apás- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vakṣataḥ ← √vah- (root)  
+{number:DU, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+adhvaraśríyaḥ ← adhvaraśrī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arvā́ñcam ← arvā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sáptayaḥ ← sápti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+váhantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Die lieben Hengste fahren bei den emsigen den Indra hin zum rothen Trank, Dich m
 В наши края пусть привезут тебя упряжки,  
 Украшающие (собой) обряд, прямо на выжимания!
 </details>
+

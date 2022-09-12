@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ámitam ← ámita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥jīṣī́ ← r̥jīṣín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vavakṣé ← √vakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+paprau ← √prā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+átas ← átas (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+mahimā́ ← mahimán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+reci ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+ví ← ví (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+babhū́va ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bhúvanā ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Der kühne Indra unermesslich wachsend, durchdrang mit seiner Grösse beide Welt
 И еще сверх этого выступила величина его,  
 (Того,) кто превосходит все миры.
 </details>
+

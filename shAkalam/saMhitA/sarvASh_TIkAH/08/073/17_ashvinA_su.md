@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sú ← sú (invariable)  
+{}
+
+vicā́kaśat ← √kāś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+paraśumā́n ← paraśumánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥kṣám ← vr̥kṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánti ← ánti (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhūtu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+sát ← √as- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +153,4 @@ Er [der Dämon] blickte auf die Ritter hin, wie auf den Baum der Mann der die Ax
 Словно человек с топором – дерево, –  
 Пусть ваша помощь будет рядом!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnáyaḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádhumantaḥ ← mádhumant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svadhvarā́saḥ ← svadhvará- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+jarante ← √gr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+usrā́ ← usrá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vástoḥ ← vástu- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+niktáhastaḥ ← niktáhasta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+taráṇiḥ ← taráṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mádhumantam ← mádhumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suṣā́va ← √su- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Die Feuer rauschen festlich schön voll Süssigkeit den Rittern früh entgegen i
 Когда он с вымытыми руками, энергичный, внимательный,  
 Выжал камнями медового сому.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pr̥tanāṣáham ← pr̥tanāṣáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahasvaḥ ← sáhasvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ádbhutaḥ ← ádbhuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+dātā́ ← dātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gómataḥ ← gómant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vā́jasya ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,7 +149,6 @@ genre M
 हे अग्ने सहस्वः महाबल । 'मतुवसोः' इति रुत्वम् । पृतनासहं सर्वशत्रुसेनाभिभवनसमर्थं तत्र पर्याप्तं रयिं धनं आभर आहर । पूर्ववद्भत्वम् । सहेः क्विप्, कृदुत्तरपदप्रकृतिस्वरत्वम् । यस्मात्त्वमेव सत्यः अवितथः अद्भुतः आश्चर्यभूतः वाजस्यान्नस्य दाता गोमतः गोसहितस्य वाजस्य दातेत्यर्थः । तस्मात्तादृशमन्नमस्मभ्यं देहि येन वयं शत्रूनभिभविष्याम इति ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -140,7 +182,6 @@ For thou art true, wondrous,
 The giver of booty of kine.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Diesen in den Kämpfen übermächtigen Reichtum bring ein, du übermächtiger Agni, denn du bist der wahre wunderbare Geber von Gewinn an Rindern.
@@ -158,3 +199,4 @@ Den Reichthum, welcher Heere schlägt, siegreicher Agni, bringe her; Denn Geber 
 Ведь ты истинный удивительный  
 Даритель награды, состоящей из коров.
 </details>
+

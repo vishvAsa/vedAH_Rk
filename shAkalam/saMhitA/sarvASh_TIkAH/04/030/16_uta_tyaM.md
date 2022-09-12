@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agrúvaḥ ← agrū́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+párāvr̥ktam ← √vr̥j- 1 (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+śatákratuḥ ← śatákratu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhajat ← √bhaj- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukthéṣu ← ukthá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -94,7 +125,7 @@ This son of the unwed maiden appears to be the same one who was being eaten by a
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details open><summary><h2>08-21 ...{Loading}...</h2></summary>
 
 These vss. are tr. by Hoffmann (Injunk., 184-86).
@@ -125,3 +156,4 @@ Und jenem ausgestossnen Sohn der Jungfrau theilte Indra zu Der Sprüche Kraft, d
 Подкидышу, Индра многомудрый  
 Дал приобщиться к хвалебным песням.
 </details>
+

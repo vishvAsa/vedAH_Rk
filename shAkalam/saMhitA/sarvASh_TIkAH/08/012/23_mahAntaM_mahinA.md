@@ -15,14 +15,48 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+mahā́ntam ← mahā́nt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+havanaśrútam ← havanaśrút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stómebhiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nonumaḥ ← √nu- ~ nū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+ójase ← ójas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Den grossen preisen wir mit Macht; mit Loblied den, der Ruf erhört, Erheben ihn
 (Индру) мы громко приветствуем  
 Восхвалениями (и) песнями – вместе для силы.
 </details>
+

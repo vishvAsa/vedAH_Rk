@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ávobhiḥ ← ávas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutrā́mā ← sutrā́man- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svávān ← svávas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhavatu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sumr̥ḷīkáḥ ← sumr̥ḷīká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvávedāḥ ← viśvávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ábhayam ← ábhaya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bā́dhatām ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+dvéṣaḥ ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇotu ← √kr̥- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+pátayaḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvī́ryasya ← suvī́rya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +187,7 @@ In addition to the repetition just described, 12b sumṛḷīkó bhavatu is a va
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
 <details open><summary><h2>11-13 ...{Loading}...</h2></summary>
 
 The first pāda of 12 recasts that of 11: with sutrā́mā matching trātā́ram and s u vávām̐ávobhiḥ matching avitā́ram; 13a then repeats sutrā́mā su vávān. The connections between 12-13 and neighboring vss. in this hymn make it less likely (at least to me) that they are direct evidence of the Sautrāmaṇī ritual here, instead of being pressed into service of that ritual later. See published introduction.
@@ -176,3 +219,4 @@ Schönschirmend sei, der alles kennet, Indra, und gnadenreich, mit Hülfen kräf
 Пусть прогонит он ненависть, пусть создаст безопасность!  
 Да будем мы повелителями хорошего мужского потомства!
 </details>
+

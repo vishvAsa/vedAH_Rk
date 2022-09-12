@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ámīvām ← ámīvā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+nyàk ← nyàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sāviṣat ← √sū- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádrayaḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+sedhantu ← √sidh- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+várīyaḥ ← várīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+grā́vā ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+madhuṣút ← madhuṣút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ucyáte ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+yátra ← yátra (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sarvátātim ← sarvátāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +212,4 @@ Hinweg zu Boden werf die Krankheit Savitar, die Felsen mögen weit hinweg versch
 
 -ru-
 </details>
+

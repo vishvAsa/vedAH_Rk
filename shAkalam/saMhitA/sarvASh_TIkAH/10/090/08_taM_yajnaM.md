@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+sarvahútaḥ ← sarvahúta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tásmāt ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+yajñā́t ← yajñá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pr̥ṣadājyám ← pr̥ṣadājyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sámbhr̥tam ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+cakre ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+paśū́n ← paśú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+vāyavyā̀n ← vāyavyà- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+āraṇyā́n ← āraṇyá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+grāmyā́ḥ ← grāmyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +191,4 @@ Aus diesem vollständig dargebrachten Opfer sammelte sich das triefende Opfersch
 Он сделал из него животных, обитающих в воздухе,  
 В лесу и (тех,) что в деревне.
 </details>
+

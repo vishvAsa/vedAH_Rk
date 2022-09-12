@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhanvantu ← √dhanv- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+madacyútaḥ ← madacyút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+árvataḥ ← árvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dhánā ← dhána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+junīmási ← √jū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mártasya ← márta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+párihvr̥tim ← párihvr̥ti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
+bharemahi ← √bhr̥- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
+dhánāni ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+viśvádhā ← viśvádhā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +209,4 @@ Vor mögen unsre Indu's Rausch-erregend gehn, durch die wir Rosse schnell uns sc
 Минуя козни какого-нибудь смертного,  
 Пусть всегда мы срываем ставки!
 </details>
+

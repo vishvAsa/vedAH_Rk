@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+stavádhyai ← √stu- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vahatu ← √vah- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vā́hiṣṭhaḥ ← vā́hiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ámr̥ktaḥ ← ámr̥kta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥bhukṣaṇaḥ ← r̥bhukṣán- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vājāḥ ← vā́ja- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+sávaneṣu ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+sómaiḥ ← sóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tripr̥ṣṭhaíḥ ← tripr̥ṣṭhá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mahábhiḥ ← mahán- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pr̥ṇadhvam ← √pr̥̄- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+suśiprāḥ ← suśiprá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +196,7 @@ The function of abhí, initial in c, is unclear; the verb of this hemistich, p�
 On the triple-backed (tripṛṣṭhá-) soma, see Geldner’s n. 1c, where he suggests among other possibilities that it refers to the three ingredients making up the soma drink (soma juice, water, and milk). 56
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/037/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/037/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 The stationing of the adj. ámṛkta- ‘indestructible’ at the end of the b pādas of both vss., in each case some distance from its noun, is clearly deliberate, but I’m not sure what it’s signaling.
@@ -176,3 +228,4 @@ Der bestens fährt, der unversehrte Wagen, fahr her zum Preis euch, Vadscha's un
 Наполняйте себя на выжиманиях трехспинными соками сомы.  
 Мощными при опьянении, о прекрасногубые!
 </details>
+

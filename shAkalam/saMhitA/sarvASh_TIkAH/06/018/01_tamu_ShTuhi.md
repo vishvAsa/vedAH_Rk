@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhíbhūtyojāḥ ← abhíbhūtyojas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stuhi ← √stu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ávātaḥ ← ávāta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+puruhūtáḥ ← puruhūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vanván ← √vanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ābhíḥ ← ayám (pronoun)  
+{case:INS, gender:F, number:PL}
+
+áṣāḷham ← áṣāḷha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sáhamānam ← √sah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vardha ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Den Indra preise, der von hoher Kraft ist, und ungefährdet siegreich, vielgeruf
 Несокрушимого, грозного, сокрушающего подкрепи  
 Этими хвалебными песнями быка народов!
 </details>
+

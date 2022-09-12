@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ná ← ná (invariable)  
+{}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+paptúḥ ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+śréṇīḥ ← śréṇi- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ántān ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+sā́nunaḥ ← sā́nu- ~ snú- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+áśvāsaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+ubháye ← ubháya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vidúḥ ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
+acucyavuḥ ← √cyu- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+nabhanū́n ← nabhanú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+párvatasya ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +242,4 @@ Die kräftig flogen gleich gereihter Vögel Schar, zum Himmelssaum hoch über se
 Кони их, как будто знают оба (рода) –  
 Колыхали источники горы.
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vītī́ ← vītí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mádeṣu ← máda- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+avā́han ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+náva ← náva- 1 (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+navatī́ḥ ← navatí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +154,7 @@ The unnamed referent in the rel. cl. of bc is of course Indra; the “nine and n
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 This tṛca shows some signs of unity. The 1st two vss. are a syntactic unit, with the objects of the verb in 1c partly postponed to 2ab. The third vs. has as its verb pári … kṣárā, which echoes pári srava in 1a.
@@ -148,3 +185,4 @@ So ströme nun zum Trunk für den, o Indu, der in deinem Rausch Die neunundneunz
 Который в опьянениях тобой, о сок,  
 Разбил девяносто девять
 </details>
+

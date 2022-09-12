@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+girīṇā́m ← girí- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ácidhvam ← √ci- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:MED}
+
+śubhrāḥ ← śubhrá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yā́mam ← yā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índubhiḥ ← índu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mandadhve ← √mand- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:MED}
+
+suvānaíḥ ← √su- (root)  
+{case:INS, gender:M, number:PL, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +162,4 @@ Da glänzend wie von Bergeshöhn ihr eure Fahrt begonnen habt, So lasst durch Tr
 Поход словно через горы,  
 Опьяняйтесь выжатыми каплями!
 </details>
+

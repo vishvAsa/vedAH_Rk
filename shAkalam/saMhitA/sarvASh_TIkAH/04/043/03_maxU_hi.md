@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+gáchathaḥ ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+ī́vataḥ ← ī́vant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+páritakmyāyām ← páritakmya- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śaktím ← śaktí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́jātā ← √janⁱ- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+divyā́ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+suparṇā́ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+bhavathaḥ ← √bhū- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+káyā ← ká- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+śácīnām ← śácī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+śáciṣṭhā ← śáciṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Ihr seid's, denn beide kommt zu solchen Festen ihr rasch, wie Indra, morgens fr�
 Рожденные с неба небесные птицы.  
 Благодаря какой из сил вы бываете самыми сильными?
 </details>
+

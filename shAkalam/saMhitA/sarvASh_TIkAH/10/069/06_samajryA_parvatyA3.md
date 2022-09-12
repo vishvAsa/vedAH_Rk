@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajryā̀ ← ajryà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+parvatyā̀ ← parvatyà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́ryā ← ā́rya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dā́sā ← dā́sa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jigetha ← √ji- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+cyávanaḥ ← cyávana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhr̥ṣṇúḥ ← dhr̥ṣṇú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pr̥tanāyū́n ← pr̥tanāyú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+syāḥ ← √as- 1 (root)  
+{number:SG, person:2, mood:OPT, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +205,4 @@ Du nahmst das Gut der Berge und der Fluren, und schlugst die Feinde, Arjer und B
 
 -ru-
 </details>
+

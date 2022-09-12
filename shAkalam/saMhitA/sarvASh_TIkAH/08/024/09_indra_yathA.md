@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+áparītam ← áparīta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nr̥to ← nr̥tú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ámr̥ktā ← ámr̥kta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rātíḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ Denn wie dir unbezwungne Kraft, o vielgerufner Indra, ist, So sei dem Frommen un
 Сила твоя непревзойденна, о танцор,  
 Невредим (твой) дар почитателю, о многопризываемый.
 </details>
+

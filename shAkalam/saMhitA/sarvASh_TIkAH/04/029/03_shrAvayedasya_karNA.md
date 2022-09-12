@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+kárṇā ← kárṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śrāváya ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vājayádhyai ← √vājay- 2 (root)  
+{case:DAT, number:SG, tense:PRS}
+
+ánu ← ánu (invariable)  
+{}
+
+díśam ← díś- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+júṣṭām ← júṣṭa- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mandayádhyai ← √mand- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+prá ← prá (invariable)  
+{}
+
+rā́dhase ← rā́dhas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+túviṣmān ← túviṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+udvāvr̥ṣāṇáḥ ← √vr̥ṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ábhayam ← ábhaya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kárat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sutīrthā́ ← sutīrthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Mach seine Ohren hörend, dass er lechze, sich zu berauschen nach beliebter Weis
 Возбуждаясь для дарения, сильный Индра  
 Пусть создаст нам хорошие водные переправы и отсутствие страха!
 </details>
+

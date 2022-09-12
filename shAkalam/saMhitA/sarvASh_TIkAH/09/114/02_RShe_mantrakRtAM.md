@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+mantrakŕ̥tām ← mantrakŕ̥t- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ŕ̥ṣe ← ŕ̥ṣi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stómaiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+káśyapa ← kaśyapa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+udvardháyan ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+namasya ← √namasy- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rā́jānam ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jajñé ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīrúdhām ← vīrúdh- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ O Dichter Kaçjapa [nach der Ueberlieferung, die aber ausser an dieser Stelle ni
 Кто родился как господин растений!  
 Для Индры, о капля, растекайся вокруг!
 </details>
+

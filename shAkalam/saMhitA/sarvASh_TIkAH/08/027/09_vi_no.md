@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adruhaḥ ← adrúh- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+devāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+áchidram ← áchidra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yachata ← √yam- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ántitas ← ántitas (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+dūrā́t ← dūrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ādadhárṣati ← √dhr̥ṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+várūtham ← várūtha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +192,4 @@ O reichet, holde Götter, uns die Schutzwehr, welche nimmer bricht, Den Schirm, 
 Укрытие, на которое никто бы не покусился  
 Ни издалека, о Васу, ни изблизи!
 </details>
+

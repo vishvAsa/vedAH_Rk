@@ -16,14 +16,78 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+caná ← caná (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+vāghátaḥ ← vāghát- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āré ← āré (invariable)  
+{}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+rīraman ← √ram- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ārā́ttāt ← ārā́ttāt (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sadhamā́dam ← sadhamā́da- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śrudhi ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +227,4 @@ Dich mögen selbst die Beter nicht zum Stillstand bringen fern von uns; Auch aus
 Даже издалека приди на наш совместный пир,  
 Или если ты здесь, прислушайся!
 </details>
+

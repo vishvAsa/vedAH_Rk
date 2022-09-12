@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dhiyaṁdhé ← dhiyaṁdhā́- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+viśvaśúce ← viśvaśúc- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+asuraghné ← asurahán- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bharadhvam ← √bhr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+dhītím ← dhītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bháre ← √bhr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prīṇānáḥ ← √prī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+matīnā́m ← matí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vaiśvānarā́ya ← vaiśvānará- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yátaye ← yáti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Dem Allerleuchter, dem Asurentödter, dem frommen Agni tragt Gebet und Lied vor;
 Я приношу (его) радостный, словно жертву на солому,  
 Для Вайшванары, направителя мыслей.
 </details>
+

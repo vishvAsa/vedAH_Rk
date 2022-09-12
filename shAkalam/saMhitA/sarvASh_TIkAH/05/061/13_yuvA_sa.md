@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+gaṇáḥ ← gaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́rutaḥ ← mā́ruta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yúvā ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánedyaḥ ← ánedya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tveṣárathaḥ ← tveṣáratha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápratiṣkutaḥ ← ápratiṣkuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śubhaṁyā́vā ← śubhaṁyā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +142,4 @@ Die jugendliche Marutschar, die wagenrasche, treffliche, zum Prunke eilend ungeh
 На грозных колесницах, безупречная;  
 Выезжающая для блеска, неудержимая.
 </details>
+

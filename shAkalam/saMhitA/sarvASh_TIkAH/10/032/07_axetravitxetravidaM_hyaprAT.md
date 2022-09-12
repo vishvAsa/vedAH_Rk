@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ákṣetravit ← ákṣetravid- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áprāṭ ← √praś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+kṣetravídam ← kṣetravíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánuśiṣṭaḥ ← √śās- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣetravídā ← kṣetravíd- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+anuśā́sanasya ← anuśā́sana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaí ← vaí (invariable)  
+{}
+
+añjasī́nām ← añjasī́na- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+srutím ← srutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vindati ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Der nicht den Weg kennt, hat gefragt den kund'gen, er schreitet vor, vom kund'ge
 Таково благо от научения,  
 И (так) находят путь, ведущий прямо.
 </details>
+

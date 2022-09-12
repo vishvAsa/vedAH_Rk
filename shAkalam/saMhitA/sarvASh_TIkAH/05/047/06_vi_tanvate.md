@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápāṁsi ← ápas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tanvate ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+mātáraḥ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+putrā́ya ← putrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vástrā ← vástra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vayanti ← √u- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+módamānāḥ ← √mud- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+upaprakṣé ← √pr̥kṣ- (root)  
+{case:DAT, number:SG}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vadhvàḥ ← vadhū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Gebete spannen aus ihm das Gewebe; die Mütter weben für den Sohn Gewänder; Si
 Радуясь, что бык (их) оплодотворит,  
 Приближаются новые жены путем неба.
 </details>
+

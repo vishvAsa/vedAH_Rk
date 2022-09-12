@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asvaran ← √svar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dhámataḥ ← √dhamⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+drapsásya ← drapsá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+srákve ← srákva- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+aranta ← √r̥- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+nā́bhayaḥ ← nā́bhi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+yónā ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ārábhe ← √rabh- (root)  
+{case:DAT, number:SG}
+
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cakre ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+mūrdhnáḥ ← mūrdhán- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+trī́n ← trí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+apīparan ← √pr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+nā́vaḥ ← naú- ~ nā́v- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+satyásya ← satyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sukŕ̥tam ← sukŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +248,4 @@ Im Schlund des Tropfens, welcher gärt, in Opfers Schooss vereinten strömend je
 Этот Асура создал себе три головы, чтобы (их) хватали.  
 Челны истины перевезли прекрасно действующего.
 </details>
+

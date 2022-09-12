@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+āchádvidhānaiḥ ← āchádvidhāna- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+gupitáḥ ← √gup- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+bā́rhataiḥ ← bā́rhata- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+rakṣitáḥ ← √rakṣⁱ- (root)  
+{case:NOM, gender:M, number:SG, voice:PASS}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+grā́vṇām ← grā́van- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+śr̥ṇván ← √śru- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tiṣṭhasi ← √sthā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+aśnāti ← √aśⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pā́rthivaḥ ← pā́rthiva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +179,4 @@ Mit Schutz versehen stehst du da, | durch Sprüche, Soma, wohl beschirmt | und h
 Ты стоишь, прислушиваясь к жерновам.  
 Не вкусит тебя никто из земных существ!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átithiḥ ← átithi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+darśataśrī́ḥ ← darśataśrī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gr̥hé-gr̥he ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+śiśriye ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+takvavī́ḥ ← takvavī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váne-vane ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+jánaṁ-janam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jányaḥ ← jánya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manyate ← √man- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+kṣeti ← √kṣi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+víśaḥ ← víś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśaṁ-viśam ← víś- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+viśyàḥ ← viśyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +230,4 @@ Der wundervoll in jedem Haus als Gast erglänzt, auf jeden Baum sich wie ein sch
 Принадлежа человеку, он не презирает ни одного человека.  
 Он живет среди племен, в каждом племени, принадлежа племени.
 </details>
+

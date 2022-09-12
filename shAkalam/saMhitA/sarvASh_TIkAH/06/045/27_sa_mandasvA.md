@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+mandasva ← √mand- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rā́dhase ← rā́dhas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+karaḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+nidé ← níd- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+stotā́ram ← stotár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +144,7 @@ You will not put your praiser to scorn.
 This vs. is identical to III.41.6, q.v. The lack of accent on mandasvā despite the following hí is puzzling.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/25-27.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 There is no obvious unifying feature in this tṛca, though Indra is compared to a cow in the first two vss.
@@ -141,3 +175,4 @@ Erfreu dich denn am Somakraut zu grosser Gab' aus eigner Lust; Nicht gib den Sä
 От напитка – для великого дарения!  
 Не выдай восхвалителя хуле!
 </details>
+

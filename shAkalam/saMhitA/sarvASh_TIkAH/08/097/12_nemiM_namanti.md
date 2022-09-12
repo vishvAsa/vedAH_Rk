@@ -16,15 +16,58 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+cákṣasā ← cákṣas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+namanti ← √nam- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nemím ← nemí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+abhisvárā ← abhisvár- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+meṣám ← meṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+adrúhaḥ ← adrúh- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sudītáyaḥ ← sudītí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ápi ← ápi (invariable)  
+{}
+
+kárṇe ← kárṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tarasvínaḥ ← tarasvín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ŕ̥kvabhiḥ ← ŕ̥kvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +186,4 @@ Den Radkranz biegen die Sänger mit Weisheit, dem Widder entgegenrauschend, die 
 Действующие для вас совсем рядом (с ним)  
 Вместе с воспевателями.
 </details>
+

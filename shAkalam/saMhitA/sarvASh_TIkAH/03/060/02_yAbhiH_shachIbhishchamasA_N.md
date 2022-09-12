@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápiṁśata ← √piś- 1 (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+camasā́n ← camasá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+áriṇīta ← √rī- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+cármaṇaḥ ← cárman- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nirátakṣata ← √takṣ- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ānaśa ← √naś- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+devatvám ← devatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Durch welche Kräfte ihr die Becher habt geformt, durch welche List die Kuh von 
 (То) размышление, которым вы вытесали пару буланых коней, –  
 С помощью (всего) этого вы полностью добились состояния богов, о Рибху.
 </details>
+

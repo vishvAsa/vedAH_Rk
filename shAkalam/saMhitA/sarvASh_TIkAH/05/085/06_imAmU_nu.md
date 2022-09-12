@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+kavítamasya ← kavítama- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+māyā́m ← māyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dadharṣa ← √dhr̥ṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mahī́m ← máh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+énīḥ ← éta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pr̥ṇánti ← √pr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+udnā́ ← udán- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āsiñcántīḥ ← √sic- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+avánayaḥ ← aváni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Auch dieses grosse Wunderwerk des Gottes, des weisesten, hat keiner noch gehinde
 Что искрящиеся потоки, изливаясь,  
 Не наполняют водой одного океана.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átithiḥ ← átithi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitríyaḥ ← mitríya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+praśáṁsamānaḥ ← √śaṁs- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+védyaḥ ← védya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+kṣémāsaḥ ← kṣéma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sādhávaḥ ← sādhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+santi ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Gerühmt wird Agni wie ein holdgesinnter Gast, und wie ein Wagen, reich an Schat
 В тебе заключено (всё) мирное (и) нужное.  
 Ты царь богатств.
 </details>
+

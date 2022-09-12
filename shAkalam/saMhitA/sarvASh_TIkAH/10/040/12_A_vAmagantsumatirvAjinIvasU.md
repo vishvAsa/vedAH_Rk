@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agan ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+sumatíḥ ← sumatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vājinīvasū ← vājínīvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ayaṁsata ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+hr̥tsú ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+kā́māḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+ábhūtam ← √bhū- (root)  
+{number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
+
+gopā́ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mithunā́ ← mithuná- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+patī ← páti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śubhaḥ ← śúbh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+aryamṇáḥ ← áryaman- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aśīmahi ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+dúryān ← dúrya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+priyā́ḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Zu uns ist, o Gabenreiche, euer Wohlwollen gekommen; in euren Herzen, o Açvinen
 Как пара вы стали защитниками (нашими), о повелители красоты.  
 Любимыми пусть войдем мы в дом доброго друга!
 </details>
+

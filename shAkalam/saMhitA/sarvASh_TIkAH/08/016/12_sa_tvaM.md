@@ -15,13 +15,56 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vā́jebhiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+daśasyá ← √daśasy- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gātuyá ← √gātuy- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ácha ← ácha (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+neṣi ← √nī- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +175,4 @@ Hilf, o Indra, uns durch Labung, schaff uns Bahn durch deine Güte Und geleite u
 С наградами и создай свободный путь,  
 И веди нас к счастью!
 </details>
+

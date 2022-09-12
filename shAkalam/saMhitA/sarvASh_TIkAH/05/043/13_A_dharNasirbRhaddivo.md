@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+br̥háddivaḥ ← br̥háddiva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dharṇasíḥ ← dharṇasí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rárāṇaḥ ← √rā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+gantu ← √gam- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+huvānáḥ ← √hū- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+ómabhiḥ ← óman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+víśvebhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ámr̥dhraḥ ← ámr̥dhra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gnā́ḥ ← gnā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vásānaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+tridhā́tuśr̥ṅgaḥ ← tridhā́tuśr̥ṅga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vayodhā́ḥ ← vayodhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +211,4 @@ Der hochbetagte, starke Spender komme gerufen her mit sämmtlichen Genossen, Ums
 Скрывающийся в женах, в растениях, не останавливающийся  
 Бык с троякими рогами, наделяющий телесной силой!
 </details>
+

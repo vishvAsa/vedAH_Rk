@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ājím ← ājí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhánvanā ← dhánur ~ dhánvan- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dhánvanā ← dhánur ~ dhánvan- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jayema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+dhánvanā ← dhánur ~ dhánvan- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jayema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+samádaḥ ← samád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tīvrā́ḥ ← tīvrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+apakāmám ← apakāmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhánuḥ ← dhánur ~ dhánvan- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇoti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śátroḥ ← śátru- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhánvanā ← dhánur ~ dhánvan- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jayema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+pradíśaḥ ← pradíś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sárvāḥ ← sárva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Der Bogen lässt uns Rind und Preis gewinnen, gewinnen auch die heissentbrannten
 Лук причиняет досаду врагу.  
 С луком пусть завоюем мы все стороны света!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+mimikṣúm ← mimikṣú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+supārám ← supārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhā́yase ← dhā́yas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+gr̥ṇānā́ḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jyaíṣṭhyāya ← jyaíṣṭhya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mandānáḥ ← √mand- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+papivā́n ← √pā- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+r̥jīṣin ← r̥jīṣín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+iṣaṇya ← √iṣaṇ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+purudhā́ ← purudhā́ (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Der reichlich Kühe schenkt und hilft, den Indra, ersahn die Sänger sich zum Sc
 Опьянившись, выпив сому, о пьющий выжимки (сомы),  
 Сгони для нас коров во многих местах!
 </details>
+

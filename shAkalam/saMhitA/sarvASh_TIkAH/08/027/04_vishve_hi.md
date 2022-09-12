@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+viśvávedasaḥ ← viśvávedas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+bhúvan ← √bhū- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+riśā́dasaḥ ← riśā́das- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vr̥dhé ← vŕ̥dh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+áriṣṭebhiḥ ← áriṣṭa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pāyúbhiḥ ← pāyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+viśvavedasaḥ ← viśvávedas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+avr̥kám ← avr̥ká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+chardíḥ ← chardís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yánta ← √yam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +206,4 @@ Denn die allweisen sollen alle sein zum Heil dem Mann, die Feindvertilgenden; Mi
 С (вашими) невредимыми защитниками, о всеведущие,  
 Даруйте нам щит, (охраняемый) от волков!
 </details>
+

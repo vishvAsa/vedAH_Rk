@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asuryā̀ya ← asuryà- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+kṣatrā́ya ← kṣatrá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mamire ← √mā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sáhāṁsi ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dayate ← √dā- 3 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghā́ni ← maghá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+viṣáhya ← √sah- (root)  
+{non-finite:CVB}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+johuvanta ← √hū- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+sātaú ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vā́jasya ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Der alten Götter Kraft sogar muss weichen der Herrschermacht und Geisteskraft, 
 Индра, победив, наделяет дарами.  
 Индру громко зовут, чтоб захватить награду.
 </details>
+

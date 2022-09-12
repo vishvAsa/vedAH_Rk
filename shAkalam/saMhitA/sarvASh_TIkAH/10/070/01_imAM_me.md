@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+samídham ← samídh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ghr̥tā́cīm ← ghr̥tā́ñc- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+harya ← √hr̥- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+iḷáḥ ← íḍ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+sudinatvé ← sudinatvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+várṣman ← várṣman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+devayajyā́ ← devayajyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sukrato ← sukrátu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +233,4 @@ Lass dies mein Flammholz, Agni, dir gefallen, am Labungsort nimm an den Butterl�
 Ввысь устремись на вершине земли в счастливейший из дней,  
 О (бог) с прекрасной силой духа, для почитания богов!
 </details>
+

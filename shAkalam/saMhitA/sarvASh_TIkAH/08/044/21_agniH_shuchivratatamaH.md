@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúcivratatamaḥ ← śúcivratatama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́hutaḥ ← √hu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+rocate ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -93,7 +121,6 @@ __________
 अयमग्निश्शुचिव्रततमः स्वयमेव तावत् शुद्धसत्कर्मतमः विप्रत्वान्मेधावित्वाच्च शुचिः । कवित्वात्क्रान्तदर्शनत्वाच्च शुचिः; वशीकृतवाङ्मयत्वाद्वा । एवं सर्वात्मना आहुतः शास्त्रोक्तवर्त्मनाऽस्माभिराहुतः प्रतीतहविर्लक्षणोयं रोचते तेजिष्ठो भवति ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -124,7 +151,6 @@ Pure sage, pure poet,
 Shineth in purity, when offering is made.  
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Agni, dessen Walten das lauterste ist, der lautere Redekundige, der lautere Seher glänzt lauter, wenn ihm geopfert wird.
@@ -141,3 +167,4 @@ Agni, der hellstes Werk vollbringt, ein Priester hell, ein Seher hell, Erglänze
 Чистый вдохновенный (певец), чистый поэт,  
 Чистый, он сверкает, политый (жиром).
 </details>
+

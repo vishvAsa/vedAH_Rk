@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dade ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ebhiḥ ← ayám (pronoun)  
+{case:INS, gender:M, number:PL}
+
+paúṁsyāni ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vŕ̥ṣṇyā ← vŕ̥ṣṇya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+aúkṣat ← √vakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+vajrī́ ← vajrín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trahátyāya ← vr̥trahátya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+kármaṇaḥ ← kárman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+kriyámāṇasya ← √kr̥- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:PASS}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tekarmám ← r̥tekarmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+udájāyanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +214,4 @@ Durch sie empfing der Blitzer Heldenkräfte, durch die er mächtig ward zum Vrit
 Которые велитчием совершаемого (им) подвига  
 Родились без (собственного) усилия.
 </details>
+

@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pāsi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+piparṣi ← √pr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ā́naṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dhītím ← dhītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kaváye ← kaví- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+níśitim ← níśiti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+úditim ← úditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+pr̥ṇakṣi ← √pr̥c- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,3 +272,4 @@ Den schirmst du Agni, sicher ihn geleitend, wer dir, dem Seher, Andacht weiht, o
 Или (в) раздувании (пламени) жертвы, или в исходе (жертвы).  
 Это его ты наполняешь силой, а также богатством.
 </details>
+

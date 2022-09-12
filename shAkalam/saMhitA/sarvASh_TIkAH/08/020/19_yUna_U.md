@@ -15,13 +15,53 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+náviṣṭhayā ← náviṣṭha- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+yū́naḥ ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pāvakā́n ← pāvaká- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sobhare ← sóbhari- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+cárkr̥ṣat ← √kr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+gā́ya ← √gā(y)- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +180,4 @@ Die jungen Stiere schreie an, o Sobhari, mit neustem Lied die flammenden, Wie se
 Воспой самой новой хвалебной песнью, о Собхари,  
 Как пашущий (подгоняет) быков!
 </details>
+

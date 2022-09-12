@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámateḥ ← ámati- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣudháḥ ← kṣúdh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+viṣūvŕ̥t ← viṣūvŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īśate ← √īś- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+pravaṇé ← pravaṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+śuṣmíṇaḥ ← śuṣmín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vardhanti ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +236,4 @@ Ja, Indra ist's, der Durst und Hunger ferne hält, der mächtige Gebieter über 
 Только у него, неистового быка, увеличивают  
 Жизненную силу эти семь рек, (текущие) под откос.
 </details>
+

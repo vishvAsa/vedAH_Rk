@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́yaḥ ← bhū́yaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+vāvr̥dhe ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+vīryā̀ya ← vīryà- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ajuryáḥ ← ajuryá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dayate ← √dā- 3 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ririce ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ardhám ← ardhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Noch mehr erwuchs zur Heldenstärke Indra, die Güter theilt allein er aus, nich
 Индра превзошел небо и землю  
 Только (одна) половина его – противо(вес) обеим чашам вселенной.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dvé ← dvá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samīcī́ ← samyáñc- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+vásumatī ← vásumant- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paprau ← √prā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+antárikṣāt ← antárikṣa- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+samīké ← samīká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+iṣáḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rathī́ḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sayújaḥ ← sayúj- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Die zwei vereinten güterreichen füllte der eine Indra beide Erd' und Himmel, U
 А из воздушного пространства нам для битвы  
 Пусть привезешь ты как колесничий объединенные награды, о герой!
 </details>
+

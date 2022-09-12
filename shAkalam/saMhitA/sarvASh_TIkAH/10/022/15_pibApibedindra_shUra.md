@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+píbā-piba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+riṣaṇyaḥ ← √riṣaṇy- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vasavāna ← vásavāna- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vásuḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gr̥ṇatáḥ ← √gr̥̄- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+maghónaḥ ← maghávan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+trāyasva ← √trā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+utá ← utá (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+revátaḥ ← revánt- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ O trinke, trinke, Indra, Held den Soma, o güterreicher, säume nicht, du guter;
 Защити также воспевающих (тебя и) щедрых покровителей!  
 Сделай нас богатыми огромным богатством!
 </details>
+

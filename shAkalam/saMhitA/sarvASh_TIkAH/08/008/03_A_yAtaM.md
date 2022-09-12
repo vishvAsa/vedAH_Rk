@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+náhuṣaḥ ← náhus- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+antárikṣāt ← antárikṣa- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+píbāthaḥ ← √pā- 2 (root)  
+{number:DU, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+káṇvānām ← káṇva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sávane ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sutám ← √su- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +169,4 @@ Von Nachbarvölkern kommt herbei und aus der Luft durch Lied gelockt, O Ritter, 
 Пейте, о Ашвины, мёд,  
 Выжатый у Канвов на празднике сомы!
 </details>
+

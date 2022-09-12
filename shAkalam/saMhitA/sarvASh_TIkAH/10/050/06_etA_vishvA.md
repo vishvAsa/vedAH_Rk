@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+etā́ ← eṣá (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+kr̥ṣe ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tūtumā́ ← tūtumá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dadhiṣé ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+svayám ← svayám (invariable)  
+{}
+
+yā́ni ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+dhármaṇe ← dhárman- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+pā́tram ← pā́tra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tánā ← tán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+várāya ← vára- 1 (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mántraḥ ← mántra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+údyatam ← √yam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ O mache alle diese Spenden wirkungsreich, die du ja selbst, o Sohn der Stärke, 
 По (твоему) желанию, по (твоему) установлению для тебя непрерывной чередой (следует) сосуд,  
 Жертва, молитва, священное слово, возвышенная речь.
 </details>
+

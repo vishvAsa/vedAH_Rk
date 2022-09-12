@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gántā ← gántar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háribhyām ← hári- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+íyānti ← íyant- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+babhríḥ ← babhrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadíḥ ← dadí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+papíḥ ← papí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kártā ← kártar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+náryam ← nárya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sárvavīram ← sárvavīra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīrám ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥ṇatáḥ ← √gr̥̄- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrótā ← śrótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stómavāhāḥ ← stómavāhas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

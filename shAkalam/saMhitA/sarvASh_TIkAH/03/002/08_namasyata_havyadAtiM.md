@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+havyádātim ← havyádāti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+namasyáta ← √namasy- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+svadhvarám ← svadhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dámyam ← dámya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+duvasyáta ← √duvasy- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+jātávedasam ← jātávedas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{}
+
+rathī́ḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vícarṣaṇiḥ ← vícarṣaṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+puróhitaḥ ← puróhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +190,4 @@ Den Agni ehrt, der opfert, und die Speis' empfängt, beschenkt den Wesenkenner, 
 Колесничий высокого закона, движущийся в разные стороны,  
 Агни был поставлен впереди богов.
 </details>
+

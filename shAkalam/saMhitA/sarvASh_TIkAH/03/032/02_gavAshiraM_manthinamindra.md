@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gávāśiram ← gávāśir- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+manthínam ← manthín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śukrám ← śukrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rarimá ← √rā- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+brahmakŕ̥tā ← brahmakŕ̥t- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+gaṇéna ← gaṇá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mā́rutena ← mā́ruta- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+rudraíḥ ← rudrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tr̥pát ← tr̥pát (invariable)  
+{}
+
+vr̥ṣasva ← √vr̥ṣ- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Den milchgemischten Soma, den gequirlten, den reinen trink, den dir zum Rausch w
 Вместе с толпой Марутов, творящей молитвы,  
 Вместе с Рудрами вливай (его) в себя досыта!
 </details>
+

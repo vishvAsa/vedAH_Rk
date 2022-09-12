@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+íḷā ← íḷā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pínvatām ← √pinv- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+sī́datu ← √sad- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+arcatu ← √r̥c- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥kváḥ ← r̥kvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sā́mabhiḥ ← sā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+dhīmahi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+supraketám ← supraketá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Der Trank sei reichlich, Indra setz sich auf die Streu, Brihaspati, der Sänger,
 Чтобы жить, мы хотим создать воспринимаемую молитву!  
 Сегодня мы просим об этой милости богов!
 </details>
+

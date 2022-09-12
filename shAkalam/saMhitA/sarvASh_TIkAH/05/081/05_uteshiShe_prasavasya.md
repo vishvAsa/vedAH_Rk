@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īśiṣe ← √īś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+prasavásya ← prasavá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+bhavasi ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+yā́mabhiḥ ← yā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+bhúvanam ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+rājasi ← √rāj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ānaśe ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śyāvā́śvaḥ ← śyāvā́śva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +239,4 @@ Und aller Antrieb steht in deiner Macht allein, und Puschan bist auf allen Wegen
 И ты царствуешь над этим всем мирозданием,  
 Шьявашва тебе, о Савитар, поднес хвалебную песнь.
 </details>
+

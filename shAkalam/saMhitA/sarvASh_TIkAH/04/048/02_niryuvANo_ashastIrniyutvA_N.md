@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+áśastīḥ ← áśasti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+niryuvāṇáḥ ← √yu- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+índrasārathiḥ ← índrasārathi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+niyútvān ← niyútvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+candréṇa ← candrá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vā́yo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+yāhí ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +169,4 @@ Verjagend die Verwünschenden mit Indra fahrend, vielbespannt, Auf lichtem Wagen
 О Ваю, приезжай на сверкающей  
 Колеснице на питье выжатого сомы!
 </details>
+

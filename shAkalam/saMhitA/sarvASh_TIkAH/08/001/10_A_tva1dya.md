@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+adyá ← adyá (invariable)  
+{}
+
+sabardúghām ← sabardúgha- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tú ← tú (invariable)  
+{}
+
+gāyatrávepasam ← gāyatrávepasa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+huvé ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ányām ← ánya- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sudúghām ← sudúgha- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+araṁkŕ̥tam ← araṁkŕ̥t- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+urúdhārām ← urúdhāra- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +195,4 @@ Den Indra, der das Lied erregt, bitt' ich um die neumelkende, Milchreiche Kuh un
 Дойную корову, легко доящуюся, – Индру – неиссякающую жертвенную усладу,  
 С широкими потоками, услужливую.
 </details>
+

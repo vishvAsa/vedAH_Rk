@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indramā́danāsaḥ ← indramā́dana- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vāyáve ← vāyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ā́devāsaḥ ← ā́deva- 2 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nitóśanāsaḥ ← nitóśana- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ghnántaḥ ← √han- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sūríbhiḥ ← sūrí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sāsahvā́ṁsaḥ ← √sah- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+yudhā́ ← yúdh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +191,4 @@ Den Vaju liebend und den Indra labend, den Göttern treu, an Spenden reich, voll
 С (такими) покровителями пусть станем мы убивать врагов,  
 В бою побеждать недругов с помощью (своих) мужей!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+āsā́t ← āsā́t (invariable)  
+{}
+
+dūrā́t ← dūrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+abhiṣṭikŕ̥t ← abhiṣṭikŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yāsat ← √yā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+nr̥pátiḥ ← nr̥páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ójiṣṭhebhiḥ ← ójiṣṭha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vájrabāhuḥ ← vájrabāhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥tanyū́n ← pr̥tanyú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+samátsu ← samád- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+saṁgé ← saṁgá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+turváṇiḥ ← turváṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Es komme Indra uns von nah und ferne zu Hülfe her, der mächtige Beschützer, D
 Господин мужей с самыми сильными (мужами), с ваджрой в руке,  
 Поражающий врагов в схватке (и) в сражениях!
 </details>
+

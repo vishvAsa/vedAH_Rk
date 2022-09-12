@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dadhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vándamānaḥ ← √vandⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+joṣáyāse ← √juṣ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yádi ← yádi (invariable)  
+{}
+
+cakānáḥ ← √kā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kuvít ← kuvít (invariable)  
+{}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vanate ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+vāvr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Viel Namen gibt der Vater dir verehrend, o guter, wenn du daran hast Gefallen; W
 Разве Агни, подкрепленный (возлиянием), радуясь (своей) силе,  
 Не завоюет (для нас) расположение бога?
 </details>
+

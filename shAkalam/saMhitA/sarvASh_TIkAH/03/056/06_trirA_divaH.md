@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+trís ← trís (invariable)  
+{}
+
+vā́ryāṇi ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áhnaḥ ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suva ← √sū- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+trís ← trís (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{}
+
+suva ← √sū- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tridhā́tu ← tridhā́tu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bhága ← bhága- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+dhiṣaṇe ← dhiṣáṇā- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+trātar ← trātár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +252,4 @@ Dreimal des Tags, o Savitar, verschaffe uns täglich Schätze, dreimal, wenn es 
 Трояко пробуждай богатства, блага!  
 О Бхага, спаситель, Дхишана, устрой, чтоб (мы их) добыли!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dharúṇāni ← dharúṇa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dr̥ḷhā́ ← √dr̥h- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+santi ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+candrā́ ← candrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vápūṁṣi ← vápus- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vápuṣe ← vápus- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dīrghám ← dīrghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iṣaṇanta ← √iṣaṇ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+pŕ̥kṣaḥ ← pŕ̥kṣ- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+viveśuḥ ← √viś- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Fest ist des Opfers Fundament gegründet, viel glänzende Gestalten sind dem sch
 Благодаря закону давно приводятся в движение жизненные силы.  
 Благодаря закону коровы вступили на путь истины.
 </details>
+

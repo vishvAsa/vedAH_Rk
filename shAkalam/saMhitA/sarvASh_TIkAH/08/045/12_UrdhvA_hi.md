@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ūrdhvā́ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śatā́ ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sūnŕ̥tā ← sūnŕ̥ta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jaritŕ̥bhyaḥ ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+vimáṁhate ← √maṁh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +142,4 @@ Denn hunderttausend Gaben sind dir aufgeschichtet Tag für Tag, Wenn du den Sän
 Твое благородство щедро дарит  
 Певцам тысячи (и) сотни.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+oṣadhe ← óṣadhi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+uttamā́ ← uttamá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+úpastayaḥ ← úpasti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vr̥kṣā́ḥ ← vr̥kṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+úpastiḥ ← úpasti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhidā́sati ← √dās- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ O Kraut, du bist der Oberherr; die Bäume sind dir unterthan; Und so sei uns auc
 Пусть тот будет нашим подданным,  
 Кто нам угрожает!
 </details>
+

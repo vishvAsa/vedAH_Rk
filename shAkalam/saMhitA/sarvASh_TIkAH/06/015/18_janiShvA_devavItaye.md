@@ -16,14 +16,51 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devávītaye ← devávīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+jániṣva ← √janⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+sarvátātā ← sarvátāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+amŕ̥tān ← amŕ̥ta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥tāvŕ̥dhaḥ ← r̥tāvŕ̥dh- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vakṣi ← √vah- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+pispr̥śaḥ ← √spr̥ś- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +176,4 @@ Geboren sei zum Göttermahl, zum Heile mit der ganzen Schar; fahre her die unste
 Привози бессмертных богов, усиленных законом!  
 Сделай, чтобы жертва коснулась богов!
 </details>
+

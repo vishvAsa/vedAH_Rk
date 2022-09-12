@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iṣitám ← √iṣ- 1 (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+mádam ← máda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádena ← máda- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ugréṇa ← ugrá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+madacyútam ← madacyút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tarutā́ram ← tarutár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víśveṣām ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+dádāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sma ← sma (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +194,4 @@ Den Herrn des Rauschs, durch Rausch erregt, den mächtigen an mächt'ger Kraft, 
 Победителя всех (врагов), неистового от опьянения!  
 Ведь это в опьянении он нас одаряет!
 </details>
+

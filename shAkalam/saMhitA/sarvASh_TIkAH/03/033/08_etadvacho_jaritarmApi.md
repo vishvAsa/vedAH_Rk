@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápi ← ápi (invariable)  
+{}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jaritar ← jaritár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mr̥ṣṭhāḥ ← √mr̥ṣ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:MED}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ghóṣān ← √ghuṣ- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+úttarā ← úttara- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yugā́ni ← yugá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+kāro ← kārú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+ukthéṣu ← ukthá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+puruṣatrā́ ← puruṣatrā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +263,4 @@ Dieses Wort solltest du, o Sänger, nicht vergessen, das künftige Geschlechter 
 Не унизь нас среди людей! Поклон тебе!  
 Вишвамитра:
 </details>
+

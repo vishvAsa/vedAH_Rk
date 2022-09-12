@@ -14,12 +14,40 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+áviṣṭa ← √avⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+víśvāsu ← víśva- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ádyum ← ádyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇota ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ninitsóḥ ← ninitsú- (nominal stem)  
+{case:GEN, gender:M, number:SG, mood:DES}
+
+śáṁsam ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -99,7 +127,7 @@ Our half-verse ádyuṃ kṛṇota śáṃsaṃ ninitsóḥ is nearly identical 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/12-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
 The 2nd pl. subjects of all the verbs but vy ètu in 13a must be the gods in general. The priests/poets who were previously unspecified 2nd pl. subjects do not command the powers to carry out the desires specified.
@@ -128,3 +156,4 @@ O unterstützt uns – in allen Häusern; nicht macht uns brennend – den Spott
 Поддержите нас во всех племенах!  
 Сделайте лишенной блеска речь желающего осрамить!
 </details>
+

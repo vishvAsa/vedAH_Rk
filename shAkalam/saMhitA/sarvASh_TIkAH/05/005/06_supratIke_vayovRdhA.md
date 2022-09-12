@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+suprátīke ← suprátīka- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+vayovŕ̥dhā ← vayovŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+mātárā ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yahvī́ ← yahvī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+doṣā́m ← doṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+uṣā́sam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +147,4 @@ Die grossen Mütter frommen Werks, erquickend, schön von Angesicht, Die Nacht, 
 Ночи и Ушас  
 мы идем с просьбой.
 </details>
+

@@ -18,16 +18,92 @@ ChandaH = "अष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+sádam ← sádam (invariable)  
+{}
+
+samanyávaḥ ← samanyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+aratím ← aratí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nyeriré ← √īr- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+íti ← íti (invariable)  
+{}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+nyeriré ← √īr- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ámartyam ← ámartya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mártyeṣu ← mártya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yajata ← √yaj- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́devam ← ā́deva- 2 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+janata ← √janⁱ- (root)  
+{number:PL, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+prácetasam ← prácetas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́devam ← ā́deva- 2 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janata ← √janⁱ- (root)  
+{number:PL, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+prácetasam ← prácetas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,3 +288,4 @@ Dich Agni haben als den Opferbringer stets den Gott die Götter eines Sinnes ein
 Бога, дружелюбного богам, порождайте, прозорливого!  
 Принадлежащего племени, дружелюбного богам порождайте, прозорливого!
 </details>
+

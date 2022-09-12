@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áva ← áva (invariable)  
+{}
+
+sma ← sma (invariable)  
+{}
+
+véṣaṇe ← véṣaṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+júhvati ← √hu- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pathíṣu ← pánthā- ~ path- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+svédam ← svéda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+áha ← áha (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+svájenyam ← svájenya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhū́ma ← bhū́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+pr̥ṣṭhā́ ← pr̥ṣṭhá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ruruhuḥ ← √ruh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +194,4 @@ Auf ihn, den Blutsfreund, stiegen hin die Wesen, wie auf Bergeshöhen, Bei desse
 (Для него) они взобрались на родную  
 Землю, как (всадники) на спины (коней).
 </details>
+

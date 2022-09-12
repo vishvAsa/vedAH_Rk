@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+śvetayā́varī ← śvetayā́van- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+syā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+nadī́nām ← nadī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vā́hiṣṭhā ← vā́hiṣṭha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+híraṇyavartaniḥ ← híraṇyavartani- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+síndhuḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +143,4 @@ Hier ist der glänzend strömende, der Fluss, der euch willkommenste, Der Strom,
 Синдху с золотым путем –  
 Самая привлекательная для вас из рек.
 </details>
+

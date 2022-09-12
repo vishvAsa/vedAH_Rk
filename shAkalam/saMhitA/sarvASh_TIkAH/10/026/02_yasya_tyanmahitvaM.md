@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahitvám ← mahitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vātā́pyam ← vātā́pya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vaṁsat ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cíketa ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+suṣṭutīnā́m ← suṣṭutí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +166,4 @@ Der diese hohe Grösse hat, den rufe hier der Mensch herbei, Der Sänger mit Geb
 Хочет добиться молитвами,  
 (Тот) замечает прекрасные восхваления.
 </details>
+

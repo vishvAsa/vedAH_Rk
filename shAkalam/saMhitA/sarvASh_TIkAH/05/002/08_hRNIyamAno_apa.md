@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aíyeḥ ← √i- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PLUPRF, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+hr̥ṇīyámānaḥ ← √hr̥ṇīy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+mát ← ahám (pronoun)  
+{case:ABL, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+uvāca ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vratapā́ḥ ← vratapā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+cacákṣa ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agām ← √gā- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ánuśiṣṭaḥ ← √śās- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +247,4 @@ Wol gingst du fort von mir von Zorn entflammet, das that mir kund der Götter Re
 Ведь это Индра-знаток тебя обнаружил.  
 Наученный им, о Агни, я пришел.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+dhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+druháḥ ← drúh- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+viśvā́yu ← viśvā́yu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pā́di ← √pad- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+pátane ← pátana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śúṣṇaḥ ← śúṣṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vájrasya ← vájra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sarátham ← sarátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sā́rathaye ← sā́rathi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kútsāya ← kútsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sātaú ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +220,7 @@ For the unusual position of sá and its rukied initial (urú ṣá) see disc. ad
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/020/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/020/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 As Geldner (n. 4-5) notes, these two vss. probably belong together as an account of the ever-fragmented Śuṣṇa / Kutsa myth, though the connection of the Paṇis (pāda a) to this myth is somewhat uncertain. Oldenberg (ZDMG 55.326-27) treats these vss. in detail.
@@ -194,3 +252,4 @@ Des grosen Unholds Leben ward genommen, des Çuschna, als durch Blitzes Wurf er 
 Этот Индра, находясь (с ним) на одной колеснице, создал для колесничего  
 Кутсы широкий (простор) при завоевании солнца.
 </details>
+

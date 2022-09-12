@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+rūpám ← rūpá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+síṣāsati ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+śvetám ← śvetá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́manaḥ ← bhū́man- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mīḍhvā́n ← mīḍhváṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+pravát ← pravát- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sacate ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+śámī ← śámī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+darṣat ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+kávandham ← kávandha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+udríṇam ← udrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +244,7 @@ And this in turn will lead to his producing rain in d, by splitting open the cas
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/074/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/074/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These two vss. seem to resolve the situation set up in vs. 1, esp. 1bc: the racehorse that was striving to win the sun (=milk) there (1b) has achieved this goal and “keeps company” with ritual speech and labor, as it did in 1c (and 5a) with more physical features of the ritual process. The repetition of the desid. síṣāsati from 1b in 7a and the resolution of the desid. into an achieved state via a pf. part. sasavā́n (8b) signal the relationship between vss. 1 and 7-8 - as does the repetition of sacate from 1c (/sácamānaḥ 5a) in 7c.
@@ -209,3 +276,4 @@ Er macht sein Aussehn glänzend, wenn er spenden will, der Gaben Fülle kennt de
 Он сопровождается молитвой и жертвенным трудом. Он (стекает) по склону.  
 Да прорвет он вниз водяной бурдюк неба!
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+etā́vataḥ ← etā́vant- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+gómataḥ ← gómant- (nominal stem)  
+{case:GEN, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sumnásya ← sumná- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ā́vaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+médhyātithim ← médhyātithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+dháne ← dhána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+nī́pātithim ← nī́pātithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +172,4 @@ So grosse rinderreiche Gunst begehren, Indra, wir von dir, Wie, mächtiger, dem 
 Как (та, которую) о щедрый, ты оказал Медхьятитхи,  
 Как (та, которую) - Нипатитхи (при захвате) богатства,
 </details>
+

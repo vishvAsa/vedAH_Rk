@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+divyáḥ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mamáttu ← √mad- (root)  
+{number:SG, person:3, mood:IMP, tense:PRF, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+mamáttu ← √mad- (root)  
+{number:SG, person:3, mood:IMP, tense:PRF, voice:ACT}
+
+pā́rthiveṣu ← pā́rthiva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sūyáte ← √su- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cakártha ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+mamáttu ← √mad- (root)  
+{number:SG, person:3, mood:IMP, tense:PRF, voice:ACT}
+
+várivaḥ ← várivas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+mamáttu ← √mad- (root)  
+{number:SG, person:3, mood:IMP, tense:PRF, voice:ACT}
+
+niriṇā́si ← √rī- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Dich mög' erfreun des Himmels Soma, Indra! erfreuen der gepresst wird bei den M
 Пусть опьянит (тебя тот,) благодаря которому ты создал широкий путь!  
 Пусть опьянит (тебя тот,) благодаря которому ты повергнешь ниц врагов!
 </details>
+

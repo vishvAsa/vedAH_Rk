@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+gopā ← gopā́- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mahaḥ ← máh- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rājānā ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+r̥tasya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kṣatriyā ← kṣatríya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+síndhupatī ← sindhupati- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+íḷām ← íḷā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+invatam ← √i- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+jīradānū ← jīrádānu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Ihr Könige, des hohen Rechtes Hüter, o kommt herbei, gewalt'ge Stromgebieter; 
 Жертвенную усладу, а также дождь, о Митра-Варуна,  
 Ниспошлите нам с неба, о вы, быстродарящие!
 </details>
+

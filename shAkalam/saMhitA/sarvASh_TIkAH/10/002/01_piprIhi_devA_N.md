@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+piprīhí ← √prī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+uśatáḥ ← √vaś- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yaviṣṭha ← yáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+r̥tū́n ← r̥tú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥tupate ← r̥tupati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+yaja ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+daívyāḥ ← daívya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tvíjaḥ ← r̥tvíj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tébhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ā́yajiṣṭhaḥ ← ā́yajiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótr̥̄ṇām ← hótar- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Erfreu, o jüngster, die begier'gen Götter, der Zeiten kundig opfre, Herr der Z
 Какие (есть) божественные жрецы, о Агни, с ними вместе  
 Ты лучше всех добываешь жертвой среди хотаров!
 </details>
+

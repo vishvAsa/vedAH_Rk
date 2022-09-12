@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+níditā ← √dā- 4 (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+úditā ← úditi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+véditā ← véditar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+vavártati ← √vr̥t- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+yajñíyaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+duṣṭárāḥ ← duṣṭára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pravaṇé ← pravaṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ūrmáyaḥ ← ūrmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+síṣāsataḥ ← √sanⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Der offenbare und verschlossne Güter kennt und her sie schafft, der heilige, De
 У кого (языки пламени) неодолимы, словно волны в стремнине,  
 У стремящегося захватить награду с помощью поэтической мысли...
 </details>
+

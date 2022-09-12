@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sasr̥jrire ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ádhi ← ádhi (invariable)  
+{}
+
+áruṣīḥ ← áruṣī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+saṁnávāmahe ← √nu- ~ nū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,3 +137,4 @@ Die goldigen ergossen sich, die Flammenrosse auf die Streu, Wo wir lobsingen all
 
 -ru-
 </details>
+

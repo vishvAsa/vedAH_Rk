@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ákr̥ṇot ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ulokám ← uloká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vr̥tā́bhyaḥ ← vr̥tā́- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhíśasteḥ ← abhíśasti- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ámuñcat ← √muc- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mahyā́ḥ ← máh- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mádhumantam ← mádhumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ūrmím ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āpaḥ ← áp- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+devamā́danam ← devamā́dana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hinotana ← √hi- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +229,4 @@ Der euren Werken weiten Raum verschafft hat, und euch erlöst hat aus dem grosse
 Для этого Индры пригоните волну,  
 О воды, богатую медом, опьяняющую богов!
 </details>
+

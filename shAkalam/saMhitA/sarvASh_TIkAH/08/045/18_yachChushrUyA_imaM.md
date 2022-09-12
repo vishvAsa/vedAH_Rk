@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+śuśrūyā́ḥ ← √śru- (root)  
+{number:SG, person:2, mood:OPT, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cakriyāḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:OPT, tense:PRF, voice:ACT}
+
+durmárṣam ← durmárṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ántamaḥ ← ántama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āpíḥ ← āpí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bháveḥ ← √bhū- (root)  
+{number:SG, person:2, mood:OPT, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +168,4 @@ Damit du hörest unsern Ruf und dir ihn unvergesslich machst; So sei denn unser 
 То сделал бы (что-нибудь) трудно забываемое,  
 И стал бы нашим ближайшим товарищем!
 </details>
+

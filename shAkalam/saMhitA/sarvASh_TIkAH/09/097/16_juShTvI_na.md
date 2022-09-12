@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+juṣṭvī́ ← √juṣ- (root)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sugā́ni ← sugá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+supáthā ← supátha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kr̥ṇván ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+uraú ← urú- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+várivāṁsi ← várivas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+duritā́ni ← duritá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ghanā́ ← ghaná- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+vighnán ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+víṣvak ← víṣvañc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ávye ← ávya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhanva ← √dhanv- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sā́no ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+snúnā ← sā́nu- ~ snú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +208,7 @@ For ghanéva see comm. ad I.63.5.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 This tṛca does seem to have a controlling theme and metaphor, esp. in 17-18 -- the passage through the filter, beginning in 16. Navigating among the curly tufts is compared on the one hand to the triumphant progress of the Aryas (vs. 17) and to a sort of moral progress in discriminating between the crooked and the straight (18). Each vs. also contains a form of the impv. dhanva ‘run’ (16d, 17c, 18d).
@@ -184,3 +242,4 @@ Dich freuend unsrer wohlgebahnten Pfade, und Freiheit schaffend riesle weithin, 
 Словно дубиной, всячески круша злодеяния,  
 Беги по поверхности на спине (цедилки) из овечье шерсти!
 </details>
+

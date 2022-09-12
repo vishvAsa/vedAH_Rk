@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmaí ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+avamā́ya ← avamá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bahūnā́m ← bahú- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sákhye ← sákhi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+havírbhiḥ ← havís- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bílmaiḥ ← bílma- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+dídhiṣāmi ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+mā́rjmi ← √mr̥j- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+sā́nu ← sā́nu- ~ snú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ánnaiḥ ← ánna- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+dádhāmi ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+r̥gbhíḥ ← ŕ̥c- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vande ← √vandⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Wir wollen ihm dem liebsten unter vielen mit Opfern huld'gen, demuthsvoll mit Tr
 Я растираю спину (алтарю), щепками стараюсь вызвать (огонь),  
 Снабжаю (его) питанием, прославляю его вокруг гимнами.
 </details>
+

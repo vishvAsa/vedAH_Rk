@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsa ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svit ← svit (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vánam ← vána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥kṣáḥ ← vr̥kṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+niṣṭatakṣúḥ ← √takṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yátas ← yátas (invariable)  
+{}
+
+ajáre ← ajára- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+itáūtī ← itáūti- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+saṁtasthāné ← √sthā- (root)  
+{case:NOM, gender:F, number:DU, tense:PRF, voice:MED}
+
+áhāni ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jaranta ← √jr̥̄- ~ jūr- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +207,4 @@ Welch Wald war es, und welches war der Baum doch, aus dem sie Erd' und Himmel zi
 Вместе пребывают, не старея, двое вечно юных,  
 (А) дни (и) многие зори старятся.
 </details>
+

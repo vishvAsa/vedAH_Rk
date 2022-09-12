@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmā́su ← ahám (pronoun)  
+{case:LOC, number:PL}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kā́vyaḥ ← kā́vya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dā́svate ← dā́svant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+r̥bhúḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vájraḥ ← vájra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bibharti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mádam ← máda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrdhvákr̥śanam ← ūrdhvákr̥śana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kŕ̥tvyam ← kŕ̥tvya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádam ← máda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+r̥bhúḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +188,4 @@ Denn dieser [Indu] ist bei uns ein weiser Künstler, ein Blitz dem darbringenden
 Этот (сок) несет опьянение, (поднимающее) вверх жемчужины,  
 Как искусный (мастер), – мощное опьянение.
 </details>
+

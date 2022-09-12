@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gantam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śŕ̥ṅge ← śŕ̥ṅga- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+járbhurāṇā ← √bhur- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+śaphaú ← śaphá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tárobhiḥ ← táras- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+cakravākā́ ← cakravāká- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+usrā ← usrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vástoḥ ← vástu- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+arvā́ñcā ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+rathyā̀ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śakrā ← śakrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +221,4 @@ Wie zwei Hörner kommt zuerst herbei, wie zwei schnell geschwungene Hufe, wie zw
 Как две (птицы) чакравака на рассвете, о два утренних (бога),  
 Приезжайте в нашу сторону, как два могучих колесничих!
 </details>
+

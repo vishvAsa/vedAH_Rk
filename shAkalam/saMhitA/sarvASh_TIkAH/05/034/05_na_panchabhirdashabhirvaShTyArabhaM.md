@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ārábham ← √rabh- (root)  
+{case:ACC, number:SG}
+
+daśábhiḥ ← dáśa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pañcábhiḥ ← páñca- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vaṣṭi ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ásunvatā ← ásunvant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+púṣyatā ← √puṣ- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sacate ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+amuyā́ ← amuyā́ (invariable)  
+{}
+
+dhúniḥ ← dhúni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hánti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+jinā́ti ← √jyā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhajati ← √bhaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devayúm ← devayú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gómati ← gómant- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vrajé ← vrajá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +250,4 @@ Nicht fünf noch zehn Genossen wünscht er sich zur That, noch ist er hold dem m
 Он или так покоряет, или сотрясатель убивает.  
 Преданному богам он дает долю в загоне с коровами.
 </details>
+

@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+arvā́ñcam ← arvā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puruṣṭuta ← puruṣṭutá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+priyámedhastutā ← priyámedhastuta- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+somapéyāya ← somapéya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vakṣataḥ ← √vah- (root)  
+{number:DU, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +133,4 @@ Dich, hochgelobter, fahre her zum Somatrunk das Füchsepaar, Das Prijamedha hat 
 О многовосхваленный, пара буланных коней,  
 Восхваленных (людьми) Приямедха – для питья сомы!
 </details>
+

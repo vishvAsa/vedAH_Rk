@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśastavāraḥ ← áśastavāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥bhvā ← ŕ̥bhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rudrébhiḥ ← rudrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+āréavadyaḥ ← āréavadya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gáyam ← gáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hitvī́ ← √hā- 2 (root)  
+{}
+
+manye ← √man- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+mithunā́ ← mithuná- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vamrásya ← vamrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vívavrī ← vívavri- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+abhī́tya ← √i- 1 (root)  
+{non-finite:CVB}
+
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+arodayat ← √rud- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+muṣāyán ← √muṣⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Er, der unaussprechliche Schätze besitzt, der tüchtige, der fern ist von jedem
 Я думаю, что, напав на пару Вамры, лишенную укрытия,  
 Грабя (их) еду, он вызвал (у них) слезы.
 </details>
+

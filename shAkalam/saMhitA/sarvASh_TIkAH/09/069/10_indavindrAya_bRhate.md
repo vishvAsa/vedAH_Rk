@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+br̥haté ← br̥hánt- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+anavadyáḥ ← anavadyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+riśā́dāḥ ← riśā́das- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sumr̥ḷīkáḥ ← sumr̥ḷīká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhára ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+candrā́ṇi ← candrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+avatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dyāvāpr̥thivī ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Dem grossen Indra flamme zu, o Indu, untadlig, gnädig und den Feind verzehrend,
 Принеси воспевателю сверкающие блага!  
 О Небо-и-Земля, вместе с богами помогайте нам дальше!
 </details>
+

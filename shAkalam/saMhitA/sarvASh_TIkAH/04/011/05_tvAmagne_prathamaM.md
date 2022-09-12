@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devayántaḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+prathamám ← prathamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+amr̥ta ← amŕ̥ta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mandrájihvam ← mandrájihva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mártāḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+dveṣoyútam ← dveṣoyút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vivāsanti ← √vanⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+ámūram ← ámūra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dámūnasam ← dámūnas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥hápatim ← gr̥hápati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +218,4 @@ Dich Agni ziehn, den Gott die gottergebnen, Unsterblichen die Sterblichen zuerst
 С помощью молитв, (тебя) с веселым языком,  
 Отвращающего враждебность, домашнего, домохозяина, безошибочного.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhinát ← √bhid- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+girím ← girí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iṣṇán ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āviṣkr̥ṇvānáḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sahasānáḥ ← sahasāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mandasānáḥ ← mandasāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vádhīt ← √vadhⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hatávr̥ṣṇīḥ ← hatávr̥ṣan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jávasā ← jávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sáran ← √sr̥- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,14 +187,14 @@ The “bull” of the waters is of course Vṛtra.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/01-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
 Hoffmann (Injunk. 178-180) treats these four vss. They express the cosmic disruptions attendant on Indra’s birth and the further disruptions caused by his smashing of Vṛtra. On the ring composition that demarcates this section, see comm. on vs. 4 below.
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 saráyanta ā́paḥ (sarayánte out of sandhi) in 2d is reprised by sárann ā́paḥ in 3d. The two verbs seem semantically identical; the intransitive -áya-formation takes the post-(late-)caesura position also favored by metrically identical janáyanta.
@@ -179,3 +228,4 @@ Mit Macht zerbrach den Fels er, Blitze schleudernd, der allgewalt'ge, seine Kraf
 Опьянившись, он убил Вритру ваджрой. .  
 Быстро обратились в бегство воды, когда их бык был убит.
 </details>
+

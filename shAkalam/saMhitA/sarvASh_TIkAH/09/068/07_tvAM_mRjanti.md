@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mr̥janti ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sutám ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yóṣaṇaḥ ← yóṣan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+hitám ← √hi- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ŕ̥ṣibhiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sóma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ávyaḥ ← ávi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+deváhūtibhiḥ ← deváhūti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vā́rebhiḥ ← vā́ra- 1 (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+darṣi ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yatáḥ ← √yam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Zehn Jungfraun läutern, Soma, den gepressten dich, den Sänger sandten unter Li
 (Проходя) через сито из овечьей шерсти и под призывы богов,  
 Направленный мужами, взломай награду, чтобы (мы ее) захватили!
 </details>
+

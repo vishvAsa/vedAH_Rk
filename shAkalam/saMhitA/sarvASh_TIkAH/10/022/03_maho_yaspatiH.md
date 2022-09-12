@@ -16,14 +16,63 @@ ChandaH = "पुरस्ताद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ásāmi ← ásāmi- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śávasaḥ ← śávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+nr̥mṇásya ← nr̥mṇá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tūtujíḥ ← tūtují- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhartā́ ← bhartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhr̥ṣṇóḥ ← dhr̥ṣṇú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vájrasya ← vájra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +196,4 @@ Er, der ein Herr ist grosser Macht in vollem Glanz, Erreger grosser Manneskraft,
 Кто несет отважную дубину грома,  
 Как отец любимого сына.
 </details>
+

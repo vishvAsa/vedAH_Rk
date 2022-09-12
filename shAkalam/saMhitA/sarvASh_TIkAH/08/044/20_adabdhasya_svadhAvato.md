@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ádabdhasya ← ádabdha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+svadhā́vataḥ ← svadhā́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dūtásya ← dūtá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rébhataḥ ← √ribh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,3 +134,4 @@ Des Agni Freundschaft wünschen wir, der truglos ist, voll eigner Kraft, Des Bot
 Которого нельзя обмануть, самовластного,  
 Вестника, громко звучащего.
 </details>
+

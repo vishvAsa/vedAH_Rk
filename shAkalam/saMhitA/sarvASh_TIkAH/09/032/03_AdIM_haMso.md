@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́t ← ā́t (invariable)  
+{}
+
+gaṇám ← gaṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+haṁsáḥ ← haṁsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+avīvaśat ← √vāś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+matím ← matí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ajyate ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +153,7 @@ In the first, the caus. redupl. aor. avīvaśat has two slightly different sense
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/032/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/032/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 The ā́d that begins both these vss. does not seem to have its usual “(just) after that” sense.
@@ -147,3 +184,4 @@ Jetzt lockt er jedem Lieder ab wie seinem Volk der Gänserich. Man salbt mit Mil
 Он заставил звучать молитву каждого.  
 Его мажут, как скакуна, коровьим (молоком).
 </details>
+

@@ -17,15 +17,61 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+áceti ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cikitúḥ ← cikitú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havyavā́ṭ ← havyavā́h- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sumádrathaḥ ← sumádratha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śukréṇa ← śukrá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+arocata ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arocata ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ Der glänzende Agni hat sich gezeigt, der Opferfahrende, er sammt seinem Wagen; 
 Светлым пламенем солнца.  
 Солнце на небе засверкало.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sā́dhanam ← sā́dhana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidáthasya ← vidátha- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yajñā́nām ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cíttibhiḥ ← cítti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+mahayanta ← √mahay- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+víprāsaḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ápāṁsi ← ápas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saṁdadhúḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cake ← √kā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+sumnā́ni ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+yájamānaḥ ← √yaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Der Opfer Fahne, ihn, des Fests Verherrlicher, den Agni ehrte andachtsvoll die P
 На ком они сосредоточили (свои) труды (и) песни,  
 У того жертвователь любит (получать) милости.
 </details>
+

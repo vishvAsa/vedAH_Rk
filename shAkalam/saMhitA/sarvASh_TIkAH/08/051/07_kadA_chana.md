@@ -16,14 +16,72 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+caná ← caná (invariable)  
+{}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+starī́ḥ ← starī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+saścasi ← √sac- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bhū́yaḥ ← bhū́yaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+úpopa ← úpa (invariable)  
+{}
+
+dā́nam ← dā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pr̥cyate ← √pr̥c- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +238,6 @@ Now more and more is thy divine gift increased,
 O bountiful one.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Auch nicht einmal bist du eine unfruchtbare Kuh, nie stehst du für den Opferwilligen trocken. Immer mehr nimmt deine, des Gottes, Freigebigkeit, o Gabenreicher, zu und zu.
@@ -198,3 +255,4 @@ Bisweilen, o Indra, bist du karg und bist dem Verehrer nicht zu Willen; nun aber
 Сейчас же, о щедрый, все больше и больше  
 Умножается дарение у тебя, бога.
 </details>
+

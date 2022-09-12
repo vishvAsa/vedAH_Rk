@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+suvenī́ḥ ← suvená- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jinena ← vā́jina- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dívam ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gāḥ ← √gā- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvitáḥ ← suvitá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvitáḥ ← suvitá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+dhárma ← dhárman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+satyā́ ← satyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+suvitáḥ ← suvitá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pátma ← pátman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+suvitáḥ ← suvitá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvitáḥ ← suvitá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +208,4 @@ Ein Held bist du an Heldenkraft, nun schreite zu holden Fraun, zum Loblied, zu d
 Успешно по истинным древним законам,  
 Успешно к богам, успешно в (своем) полете!
 </details>
+

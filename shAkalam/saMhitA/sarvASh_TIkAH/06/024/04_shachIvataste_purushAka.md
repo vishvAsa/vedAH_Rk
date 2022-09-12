@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+puruśāka ← puruśā́ka- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śácīvataḥ ← śácīvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śā́kāḥ ← śā́ka- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+saṁcáraṇīḥ ← saṁcáraṇa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+srutáyaḥ ← srutí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tantáyaḥ ← tantí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vatsā́nām ← vatsá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+adāmā́naḥ ← adāmán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dā́manvantaḥ ← dā́manvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sudāman ← sudāman- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +223,4 @@ Sehr starker, kräft'ger, deine Kräfte gehen zusammen wie der Rinderheerde Pfad
 (Они) у тебя, словно бечевки у телят:  
 Привязь есть, (но будто) и без привязи, о (ты,) очень щедрый.
 </details>
+

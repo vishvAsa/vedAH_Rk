@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhríyaḥ ← abhríya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+udanyán ← √udany- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yávase ← yávasa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kṣáyāya ← kṣáya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vidát ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śárīraiḥ ← śárīra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sī́dat ← √sad- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áyopāṣṭiḥ ← áyopāṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hanti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Wie ein aus der Wetterwolke strömender Regen, der auf das Gras sich ergiesst, s
 Когда (всеми своими) членами он подсел к капле (сомы),  
 (То) орел с железными когтями убивает дасью.
 </details>
+

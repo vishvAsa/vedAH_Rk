@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agriyáḥ ← agriyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vācáḥ ← vā́c- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+yujáḥ ← yúj- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+cakradat ← √krand- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+váne ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+adhvaráḥ ← adhvará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sádma ← sádman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,7 +145,7 @@ The phrase satyó adhvaráḥ, which I take as a separate nominal cl., but which
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/007/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/007/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 A verb of motion needs to be supplied with prá in the initial pādas of both vss.
@@ -139,3 +176,4 @@ Voreilend dem gesellten Lied, laut wiehert in der Flut der Hengst, Das wahre Opf
 Бык ревет в деревянном сосуде.  
 Он (устремился) к (своему) месту, (эта) истинная жертва.
 </details>
+

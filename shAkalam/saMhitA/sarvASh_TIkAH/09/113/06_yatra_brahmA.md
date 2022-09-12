@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+brahmā́ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+yátra ← yátra (invariable)  
+{}
+
+chandasyā̀m ← chandasyà- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vádan ← √vadⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+grā́vṇā ← grā́van- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mahīyáte ← √mahīy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sóme ← sóma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ānandám ← ānandá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+janáyan ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sómena ← sóma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +186,7 @@ Where, o self-purifying one, the formulator, speaking metrical speech along with
 Despite the hemistich boundary and the tr. of Geldner/Renou, I take grā́vṇā in c with vádan, immediately preceding it in b, because the grā́van- regularly “speaks” elsewhere (cf. VIII.34.2, X.36.4 grā́vā vádan, V.37.2 grā́vāṇaḥ … vádanti). Geldner and Renou need to supply material in order to construe it with pāda c.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/06-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 On the relationship between these vss. and their function in the hymn, see published introduction.
@@ -170,3 +219,4 @@ Wo, rieselnder! der Beter dir die schöngemessnen Worte spricht, Beim Soma mit d
 С помощью сомы порождая блаженство:-  
 Для Индры, о капля, растекайся вокруг!
 </details>
+

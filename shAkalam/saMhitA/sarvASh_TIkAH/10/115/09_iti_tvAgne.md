@@ -17,15 +17,88 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+íti ← íti (invariable)  
+{}
+
+putrā́ḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vr̥ṣṭihávyasya ← vr̥ṣṭihávya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+avocan ← √vac- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+upastutā́saḥ ← upastutá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+gr̥ṇatáḥ ← √gr̥̄- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sūrī́n ← sūrí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+anakṣan ← √nakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+ūrdhvā́saḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váṣaṭ ← váṣaṭ (invariable)  
+{}
+
+váṣaṭ ← váṣaṭ (invariable)  
+{}
+
+anakṣan ← √nakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ūrdhvā́saḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +257,4 @@ So haben dich, o Agni, des Vrischtihavja Söhne, die Upastuta's, die Dichter ang
 Вашат! Вашат! – (с этими словами) они подошли, распрямившись.  
 Поклонение! Поклонение! – (с этими словами) они подошли распрямившись.
 </details>
+

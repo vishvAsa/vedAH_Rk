@@ -15,14 +15,54 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pr̥tanā́jye ← pr̥tanā́jya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dadhiré ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+purás ← purás (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+haryatā́ ← haryatá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ít ← ít (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vavakṣatuḥ ← √vakṣ- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +152,7 @@ When, o Indra, at the battle-charge the gods set you in front, just after that y
 The opening verse of this tṛca echoes that of the last tṛca (22), with 22ab índram …, devā́so dadhire puráḥ matched by 25b devā́s tvā dadhiré puráḥ.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/25-28.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/25-28.md">
 <details open><summary><h2>25-28 ...{Loading}...</h2></summary>
 
 The phonetic figure noted in VIII.6.36 dominates the next four verses: haryatā́hárī.
@@ -143,3 +183,4 @@ Als Indra dich zur Feindesschlacht die Götter hatten ausersehn, Da wuchs empor 
 Боги тебя поставили впереди,  
 Только тогда пара твоих любимых буланых коней возросла.
 </details>
+

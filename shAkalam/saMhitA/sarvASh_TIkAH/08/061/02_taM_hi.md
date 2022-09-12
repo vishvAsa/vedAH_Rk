@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+ójase ← ójas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+svarā́jam ← svarā́j- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhiṣáṇe ← dhiṣáṇā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+niṣṭatakṣátuḥ ← √takṣ- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sīdasi ← √sad- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+upamā́nām ← upamá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sómakāmam ← sómakāma- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Denn ihn, den starken Selbstgebieter, haben ja zur Kraft die Welten beid' erzeug
 И ты усаживаешься как первый среди лучших:  
 Ведь твоя мысль жаждет сомы.
 </details>
+

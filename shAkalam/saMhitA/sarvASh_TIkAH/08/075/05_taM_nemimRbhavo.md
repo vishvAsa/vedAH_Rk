@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+nemím ← nemí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥bhávaḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yathā ← yathā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+namasva ← √nam- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sáhūtibhiḥ ← sáhūti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+aṅgiraḥ ← áṅgiras- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nédīyaḥ ← nédīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ Ihn bieg' durch Anrufungen her, wie Zimmerer des Rades Kranz, Recht nah ans Opfe
 
 -ru-
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vāvr̥dhānásya ← √vr̥dh- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+dhánāni ← dhána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jigyúṣaḥ ← √ji- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ūtím ← ūtí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +146,4 @@ Wir wünschen, Indra, deine Huld, der gross und stark du bist, herbei, Der alle 
 Захватившего всю добычу,  
 Мы просим, о Индра, помощи.
 </details>
+

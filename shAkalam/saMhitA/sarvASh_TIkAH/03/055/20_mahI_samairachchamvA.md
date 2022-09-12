@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+airat ← √īr- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+camvā̀ ← camū́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+mahī́ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+sám ← sám (invariable)  
+{}
+
+samīcī́ ← samyáñc- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+nyr̥̀ṣṭe ← √r̥ṣ- (root)  
+{case:NOM, gender:F, number:DU, non-finite:PPP}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+vásunā ← vásu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śr̥ṇvé ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vindámānaḥ ← √vid- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asuratvám ← asuratvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +203,7 @@ I assume that the subject of this vs. is Indra. One of his standard cosmogonic d
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 I’m not sure why Tvaṣṭar appears here. The previous vs., with the arrival of Indra at the sacrifice, may mark the end of the ritualistic vss. that dominated the hymn up till now. The few remaining vss. then celebrate the prosperity and abundance that our good relationship with the gods, via the sacrifice, will produce: teeming life provided by Tvaṣṭar (19), goods filling the two worlds provided by Indra (20), peace provided by Agni (21), and the inanimate earthly supports for all this prosperity, which provide their gifts to Indra (22).
@@ -180,3 +235,4 @@ Er schuf vereint die beiden Weltenschalen, sie beide sind gefüllt mit seinem Gu
 Героем слывет (тот,) кто находит добро.  
 Велико могущество богов, единственно.
 </details>
+

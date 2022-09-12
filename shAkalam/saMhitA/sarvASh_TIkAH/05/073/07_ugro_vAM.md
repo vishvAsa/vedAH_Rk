@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kakuháḥ ← kakuhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yayíḥ ← yayí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saṁtaníḥ ← saṁtaní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śr̥ṇvé ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yā́meṣu ← yā́ma- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dáṁsobhiḥ ← dáṁsas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+átriḥ ← átri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āvavártati ← √vr̥t- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +174,4 @@ Es eilt eur starkes, hohes Ross, auf euren Fahrten schallt Getön, Wenn, Ritter,
 Когда вас, о Ашвины, чудесными силами  
 Заставляет повернуть сюда Атри, о два мужа.
 </details>
+

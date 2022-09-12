@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+divyā́ni ← divyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rocanā́ ← rocaná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yāsi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pā́rthivāni ← pā́rthiva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+puruṣṭuta ← puruṣṭutá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rájasā ← rájas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+adhvarā́n ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+múhur ← múhur (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+váhanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+arādhásaḥ ← arādhás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vagvanā́n ← vagvaná- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vanvantu ← √vanⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +225,4 @@ Du fährst, o Indra, zu des Himmels lichtem Raum und dem der Erde, vielgerufner,
 Кто привозит тебя в один миг на обряды,  
 Те должны легко покорить болтливых скупцов!
 </details>
+

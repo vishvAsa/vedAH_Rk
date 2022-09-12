@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apsarásaḥ ← apsarás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+manīṣíṇam ← manīṣín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samudríyāḥ ← samudríya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+akṣaran ← √kṣar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+ā́sīnāḥ ← √ās- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:PASS}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+harmyásya ← harmyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+hinvanti ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+sakṣáṇim ← sakṣáṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ákṣitam ← ákṣita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pávamānam ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yā́cante ← √yāc- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Des Meeres holde Nixen strömten zu ihm hin, zum weisen Soma, setzend sich in se
 Они торопят его, сокрушителя крепости,  
 Молят Паваману о непреходящей милости.
 </details>
+

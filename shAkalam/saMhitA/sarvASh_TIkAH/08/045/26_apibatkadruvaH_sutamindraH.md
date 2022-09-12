@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ápibat ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+kadrúvaḥ ← kadrū́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+sutám ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásrabāhve ← sahásrabāhu- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+adediṣṭa ← √diś- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+átra ← átra (invariable)  
+{}
+
+paúṁsyam ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +147,4 @@ Es trank den Soma aus dem Fass Indra zur tausendarm'gen Schlacht, Da wies er sei
 Индра при тысячерукой (битве).  
 Тогда он показал по-настоящему мужскую силу.
 </details>
+

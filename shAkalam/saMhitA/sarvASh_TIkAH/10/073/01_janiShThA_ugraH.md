@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jániṣṭhāḥ ← √janⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:MED}
+
+sáhase ← sáhas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+turā́ya ← turá- 1 (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bahulā́bhimānaḥ ← bahulā́bhimāna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mandráḥ ← mandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ójiṣṭhaḥ ← ójiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+ávardhan ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dadhánat ← √dhanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+dhániṣṭhā ← dhániṣṭha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vīrám ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ Du starker bist erzeugt zu raschem Siege, erfreuend, mächtig, viele Pläne hege
 И Маруты усилили тут Индру,  
 Когда мать учила бегать героя как лучшая бегунья.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+asr̥janta ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+áva ← áva (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jívrayaḥ ← jívri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+bhúvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+samrā́ṭ ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satyáyoniḥ ← satyáyoni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áhan ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+árṇaḥ ← árṇas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pariśáyānam ← √śī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+aradaḥ ← √rad- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+vartanī́ḥ ← vartaní- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+viśvádhenāḥ ← viśvádhena- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Wie Greise sanken matt die Götter nieder, du Indra, warst der Allherr, Segen br
 Ты убил змея, перекрывшего поток.  
 Ты пробуравил всенасыщающие русла (рек).
 </details>
+

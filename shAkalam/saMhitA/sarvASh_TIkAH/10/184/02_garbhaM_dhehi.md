@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sinīvāli ← sinīvālī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sarasvati ← sárasvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+aśvínau ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+devaú ← devá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhattām ← √dhā- 1 (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+púṣkarasrajā ← púṣkarasraj- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +180,4 @@ Gib Frucht ihr, o Sinivali, gib Frucht ihr, o Sarasvati, Das Ritterpaar im Blume
 Плод тебе пусть вложат Ашвины,  
 Два бога с венками из лотосов!
 </details>
+

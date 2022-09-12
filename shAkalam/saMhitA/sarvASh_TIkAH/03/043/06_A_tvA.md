@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+br̥hántaḥ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yujānā́ḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sadhamā́daḥ ← sadhamád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vahantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ā́tāḥ ← ā́tā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+r̥ñjánti ← √r̥j- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+mūrā́ḥ ← mūrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+súsammr̥ṣṭāsaḥ ← súsammr̥ṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Her mögen dich die hohen angeschirrten Goldfüchse, deine Tischgenossen fahren,
 (Те,) что всегда нападают на врата неба,  
 (Они,) прекрасно вычищенные скребницей, ... быка (-Индры).
 </details>
+

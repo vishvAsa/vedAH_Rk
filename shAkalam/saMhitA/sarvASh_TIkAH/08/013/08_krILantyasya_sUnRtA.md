@@ -15,14 +15,54 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+krī́ḷanti ← √krīḍ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sūnŕ̥tāḥ ← sūnŕ̥ta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pravátā ← pravát- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yatī́ḥ ← √i- 1 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ucyáte ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +167,4 @@ Seine Gnadengaben kommen angetänzelt wie Gewässer, die im Laufe dahineilen, de
 Как воды, стекающие с откоса,  
 (Того,) кто в этой молитве зовется господином неба;
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+amŕ̥tānām ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ī́śīya ← √īś- (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mártyānām ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+jī́vet ← √jīv- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +145,4 @@ Wenn ich über die Unsterblichen oder über die Sterblichen Macht hätte, so sol
 Или же смертными –  
 Жил бы еще мой щедрый (покровитель)!
 </details>
+

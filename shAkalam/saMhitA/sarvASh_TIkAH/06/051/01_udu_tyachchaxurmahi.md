@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mitráyoḥ ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+ádabdham ← ádabdha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+éti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váruṇayoḥ ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+darśatám ← darśatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+śúci ← śúci- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+adyaut ← √dyut- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rukmáḥ ← rukmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úditā ← úditi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +235,4 @@ Auf geht dies grosse, holde, unversehrte, das Auge nun des Varuna und Mitra; Des
 Чистый, прекрасный лик закона  
 Ярко засверкал на небе, словно золотое украшение на восходе (солнца).
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pathikŕ̥t ← pathikŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jarāmahe ← √gr̥̄- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vratā́ya ← vratá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dadhé ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+hváraḥ ← hváras- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+duchúnā ← duchúnā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+hárasvatī ← hárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+marmartu ← √mr̥̄- 3 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+svā́ ← svá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +221,4 @@ Sei du uns Hüter, Wege bahnend einsichtsvoll, wir nahen deinem Dienste mit Gebe
 О Брихаспати, кто нам готовит западню,  
 Того пусть поразит своя собственная сражающая (его) беда!
 </details>
+

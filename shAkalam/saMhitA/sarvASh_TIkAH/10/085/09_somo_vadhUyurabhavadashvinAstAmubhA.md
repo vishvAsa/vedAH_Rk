@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vadhūyúḥ ← vadhūyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āstām ← √as- 1 (root)  
+{number:DU, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+varā́ ← vará- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pátye ← páti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śáṁsantīm ← √śaṁs- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+sūryā́m ← sūryā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádadāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +185,4 @@ Soma war der Bräutigam, die Açvinen waren die beiden Brautwerber, als Savitar 
 Савитар отдал супругу  
 Сурью, согласную (всей) душой.
 </details>
+

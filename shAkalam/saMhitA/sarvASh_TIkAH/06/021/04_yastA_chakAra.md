@@ -16,14 +16,90 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakā́ra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kúha ← kúha (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svit ← svit (invariable)  
+{}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jánam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+kā́su ← ká- (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mánase ← mánas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+várāya ← vára- 1 (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arkáḥ ← arká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+katamáḥ ← katamá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,3 +280,4 @@ Wo ist doch Indra, welcher dies vollbrachte? zu welchem Manne geht er? welchen H
 Какая жертва духу твоему приятна и благодатна,  
 Какой гимн, о Индра, который жрец)
 </details>
+

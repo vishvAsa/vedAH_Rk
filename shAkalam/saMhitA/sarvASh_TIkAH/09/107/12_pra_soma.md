@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+devávītaye ← devávīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+árṇasā ← árṇas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pipye ← √pī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+síndhuḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aṁśóḥ ← aṁśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jā́gr̥viḥ ← jā́gr̥vi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+madiráḥ ← madirá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+kóśam ← kóśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+madhuścútam ← madhuścút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +178,7 @@ Now, as to their transitive jā́gṛvi-. To be fair, it is not only the instr. 
 See VII.103.7ab (the frog hymn), where the frogs are compared to brahmins, who are in turn compared to frogs. Or else the animatized Soma the god is compared to soma the drink. But in any case, I prefer to accept the simile at face value, however clumsy, rather than erecting a fantastic superstructure by reinterpretating standard somic descriptors.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/12-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
 No particular signs of cohesion. River(s) appear in both vss., but with different words (síndhu- 12b, nadī́- 13d). jā́gṛviḥ in 12c echoes the one in 6a.
@@ -164,3 +210,4 @@ Gleich wie das Meer von Wogenflut schwoll Soma an zum Göttermahl, Wie mit des K
 Молоком стебля бодрящий, как хмельное (питье),  
 (Ты течешь) в сосуд, сочащийся медом.
 </details>
+

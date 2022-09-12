@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anavadya ← anavadyá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+māyā́bhiḥ ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+māyínam ← māyín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ardayaḥ ← √r̥d- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śravasyatā́ ← √śravasy- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gáviṣṭiṣu ← gáviṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vr̥ṇate ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+hávyāsu ← hávya- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+íṣṭiṣu ← íṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+víśvāsu ← víśva- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ Mit Zauberkraft vertilgtest du den Zauberer, untadliger, den Vritra du mit Ruhme
 Это тебя выбирают мужи при набегах за коровами.  
 Тебя, достойного призывов, на всех жертвоприношениях.
 </details>
+

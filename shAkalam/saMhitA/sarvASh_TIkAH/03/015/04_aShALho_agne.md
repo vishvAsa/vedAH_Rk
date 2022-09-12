@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áṣāḷhaḥ ← áṣāḷha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+didīhi ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+saṁjigīvā́n ← √ji- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+saúbhagā ← saúbhaga- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+netā́ ← netár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pāyóḥ ← pāyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prathamásya ← prathamá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jā́tavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+supraṇīte ← supráṇīti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +204,4 @@ Als unbesiegter Held erstrahl, o Agni, erobernd alle Burgen sammt den Schätzen,
 (Ты -) вождь жертвы, первой высокой охраняющей силы,  
 О Джатаведас, о добрый предводитель!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pávamānasya ← √pū- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ūrmáyaḥ ← ūrmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jaṭháram ← jaṭhára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+supéśasaḥ ← supéśas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dadhnā́ ← dadhán- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+únnītāḥ ← √nī- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+yaśásā ← yaśás- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dānā́ya ← dāná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śū́ram ← śū́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutā́ḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+udámandiṣuḥ ← √mand- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +197,7 @@ The simile in b is also found in X.43.2 rā́jeva dasma (with voc.), as Geldner 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/081/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/081/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 As Geldner points out (nn. 1d, 2d), ghee (ghṛtá-) in these two vss. stands for the milk mixture.
@@ -174,3 +229,4 @@ Die glänzendschönen Wellen des hell flammenden, des Soma, dringen in den Bauch
 Так как они вычерпаны вместе с кислым молоком – славой коров,  
 Выжатые (соки) вдохновили героя на дарение.
 </details>
+

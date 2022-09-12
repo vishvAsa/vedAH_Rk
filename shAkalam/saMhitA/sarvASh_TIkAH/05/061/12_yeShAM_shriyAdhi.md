@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+śriyā́ ← śrī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yéṣām ← yá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+rátheṣu ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+vibhrā́jante ← √bhrāj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+rukmáḥ ← rukmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+upári ← upári (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +162,4 @@ Auf ihren Wagen schön geschmückt durchstrahlen beide Welten sie, wie Sonnengla
 Они ярко сверкают над двумя мирами,  
 Словно золотое украшение высоко на небе.
 </details>
+

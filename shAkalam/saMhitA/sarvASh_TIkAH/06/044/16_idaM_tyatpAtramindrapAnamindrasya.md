@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+indrapā́nam ← indrapā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pā́tram ← pā́tra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+apāyi ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mátsat ← √mad- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+saumanasā́ya ← saumanasá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+dvéṣaḥ ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+yuyávat ← √yu- 2 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

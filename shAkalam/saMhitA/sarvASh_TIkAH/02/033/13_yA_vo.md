@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bheṣajā́ ← bheṣajá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śúcīni ← śúci- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+mayobhú ← mayobhú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śáṁtamā ← śáṁtama- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vr̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+ávr̥ṇīta ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+mánuḥ ← mánu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́ni ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+rudrásya ← rudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+vaśmi ← √vaś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+yós ← yós (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,3 +256,4 @@ Die Arzeneien, die ihr habt, o Marut's, die heilend, rein, erquickend sind, o St
 Которые испросил себе Ману, отец наш, –  
 Их я хочу от Рудры, а также счастья и блага!
 </details>
+

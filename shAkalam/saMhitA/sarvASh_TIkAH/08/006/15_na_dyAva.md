@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dyā́vaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+antárikṣāṇi ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vajríṇam ← vajrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhū́mayaḥ ← bhū́mi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vivyacanta ← √vyac- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ Den Indra fassen Himmel nicht, nicht Lüfte ihn, der Blitze trägt, Noch Erden i
 С (его) силой, ни воздушные пространства –  
 Носителя дубины, ни земли.
 </details>
+

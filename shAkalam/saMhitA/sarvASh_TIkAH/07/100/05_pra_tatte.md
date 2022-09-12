@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śipiviṣṭa ← śipiviṣṭá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śaṁsāmi ← √śaṁs- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vayúnāni ← vayúna- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+átavyān ← átavyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gr̥ṇāmi ← √gr̥̄- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tavásam ← tavás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kṣáyantam ← √kṣā- 2 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+parāké ← parāká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Ich preise deinen Namen, Çipivischta, ergeben heute, heil'ger Werke kundig. Dic
 Я, менее сильный, воспеваю тебя, такого сильного,  
 Правящего далеко за пределами этого пространства.
 </details>
+

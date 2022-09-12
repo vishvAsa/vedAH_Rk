@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+arca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gírvaṇasam ← gírvaṇas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vīrám ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jaritar ← jaritár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+návena ← náva- 2 (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+śrávat ← √śru- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+stávānaḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+maháḥ ← máh- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rā́sat ← √rā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +225,4 @@ Erhebe diesen liederfrohen Helden, den Indra nun mit neuem Lied, o Sänger, Er h
 Пусть услышит он призыв, когда его восхваляют,  
 Пусть дарует великие награды, когда его воспевают!
 </details>
+

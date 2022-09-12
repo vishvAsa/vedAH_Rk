@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ātmā́ ← ātmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+navīnot ← √nu- ~ nū- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́rṇiḥ ← bhū́rṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+paśúḥ ← paśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sasavā́n ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+yávase ← yávasa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+br̥hatī́ ← br̥hánt- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+imé ← ayám (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+mahī́ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ródasī ← ródasī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+priyā́ṇi ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +238,4 @@ Dein Hauch, der Wind, durchrauscht den weiten Luftraum, wie gier'ge Heerden, die
 Меж этих двух великих высоких миров  
 (Пребывают) все твои желанные установления.
 </details>
+

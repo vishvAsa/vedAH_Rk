@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vakṣáthaḥ ← vakṣátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gabhīráḥ ← gabhīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+mahimā́ ← mahimán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samudrásya ← samudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+anyéna ← anyá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+prajaváḥ ← prajavá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́tasya ← vā́ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ánvetave ← √i- 1 (root)  
+{case:DAT, number:SG}
+
+stómaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vasiṣṭhāḥ ← vásiṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Ihr Licht ist wie des Sonnenglanzes Wachsthum, und ihre Grösse wie des Meeres T
 Как скорость ветра – ваше восхваление,  
 (Никому) другому не догнать, о Васиштхи!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhvaryavaḥ ← adhvaryú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+bhūtá ← √bhū- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+havíṣmantaḥ ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+ácha ← ácha (invariable)  
+{}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ita ← √i- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+uśantaḥ ← √vaś- (root)  
+{case:VOC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+uśatī́ḥ ← √vaś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+aruṇáḥ ← aruṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+cáṣṭe ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+suparṇáḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adyá ← adyá (invariable)  
+{}
+
+asyadhvam ← √as- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+suhastāḥ ← suhásta- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ūrmím ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +226,4 @@ Seid, Priester, denn mit Opfertrank versehen, geht freudig zu den freudigen Gew�
 На которые рыжий орел смотрит вниз!  
 Ловите сегодня ту волну, о вы, прекраснорукие!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásmerāḥ ← ásmera- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yúvānam ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvatáyaḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+marmr̥jyámānāḥ ← √mr̥j- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śíkvabhiḥ ← śíkvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śukrébhiḥ ← śukrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+anidhmáḥ ← anidhmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+dīdā́ya ← √dī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ghr̥tánirṇik ← ghr̥tánirṇij- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Vertraulich kosend wandern um den Jüngling die jungen Frau'n, die Wasser, schö
 (Своими) чистыми, могучими (языками пламени) он (всегда) светил нам  
 Богатство, (горящий) в водах без дров, (тот,) чей праздничный наряд – жир.
 </details>
+

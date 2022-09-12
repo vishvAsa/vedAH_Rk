@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+brāhmaṇáḥ ← brāhmaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+múkham ← múkha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bāhū́ ← bāhú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+kr̥táḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+rājanyàḥ ← rājanyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ūrū́ ← ūrú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vaíśyaḥ ← vaíśya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ajāyata ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+padbhyā́m ← pád- (nominal stem)  
+{case:ABL, gender:M, number:DU}
+
+śūdráḥ ← śūdrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +198,4 @@ Sein Mund ward zum Brahmanen, seine Arme zum Rādschanja, seine Schenkel zum Vai
 (То,) что бедра его, – это вайшья,  
 Из ног родился шудра.
 </details>
+

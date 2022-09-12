@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+asīdam ← √sad- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+yájīyān ← yájīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+junanti ← √jū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+ā́dhvaryavam ← ā́dhvaryava- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áhar-ahar ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ā́hutiḥ ← ā́huti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+brahmā́ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+samít ← samídh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ Ich setzte mich als bester Opfrer nieder; mich treiben an die Maruts, alle Gött
 День за днем, о Ашвины, у вас служба адхварью.  
 Есть (жрец-)брахман, дрова. Вот ваше возлияние.
 </details>
+

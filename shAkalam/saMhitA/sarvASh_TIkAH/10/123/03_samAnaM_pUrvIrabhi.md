@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+samānám ← samāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāvaśānā́ḥ ← √vāś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:MED}
+
+mātáraḥ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sánīḷāḥ ← sánīḷa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tíṣṭhan ← √sthā- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+vatsásya ← vatsá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+cakramāṇā́ḥ ← √kramⁱ- (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:MED}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sā́nau ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rihánti ← √rih- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́ṇīḥ ← vā́ṇī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ In gleicher Wohnung stehn des Kindes Mütter, und jauchzen zu die vielen ihm, de
 Вздымаясь к высшему месту закона,  
 Голоса лижут сладкий напиток бессмертия.
 </details>
+

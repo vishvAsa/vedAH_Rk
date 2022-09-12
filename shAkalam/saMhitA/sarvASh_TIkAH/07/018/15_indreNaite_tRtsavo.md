@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tŕ̥tsavaḥ ← tŕ̥tsu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+véviṣāṇāḥ ← √viṣ- 2 (root)  
+{case:NOM, gender:M, number:PL, voice:MED}
+
+adhavanta ← √dhu- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nī́cīḥ ← nyàñc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sr̥ṣṭā́ḥ ← √sr̥j- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+durmitrā́saḥ ← durmitrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mímānāḥ ← √mā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+prakalavít ← prakalavíd- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhójanā ← bhójana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jahúḥ ← √hā- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sudā́se ← sudā́s- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Geführt von Indra strömten diese Tritsu's hernieder gleich ergossenen Gewässe
 Недруги, скупо отмеряющие,  
 Бросили все запасы Судасу.
 </details>
+

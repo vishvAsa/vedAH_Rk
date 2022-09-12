@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+híraṇyarūpam ← híraṇyarūpa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vyùṣṭau ← vyùṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+áyasthūṇam ← áyasthūṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+úditā ← úditi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gártam ← gárta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mitra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rohathaḥ ← √ruh- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+átas ← átas (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+cakṣāthe ← √cakṣ- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+dítim ← díti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Den goldgeschmückten Thron auf ehrnen Säulen besteigt ihr bei der Morgenröthe
 Вы поднимаетесь, о Варуна и Митра;  
 Отсюда вы созерцаете несвязанность и связанность.
 </details>
+

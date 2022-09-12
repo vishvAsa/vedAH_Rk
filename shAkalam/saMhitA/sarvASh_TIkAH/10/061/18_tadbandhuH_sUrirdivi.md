@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhiyaṁdhā́ḥ ← dhiyaṁdhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sūríḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tádbandhuḥ ← tádbandhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+nā́bhānédiṣṭhaḥ ← nā́bhānédiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+rapati ← √rap- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vénan ← √ven- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+nā́bhiḥ ← nā́bhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+paramā́ ← paramá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+āsa ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+katitháḥ ← katithá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paścā́ ← paścā́ (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +245,4 @@ Mit diesem verwandt preist dich im Himmel andachtsvoll und verlangend der glanzr
 
 -ru-
 </details>
+

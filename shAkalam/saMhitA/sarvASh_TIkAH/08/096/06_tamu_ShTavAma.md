@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+jajā́na ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+stavāma ← √stu- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asmāt ← ayám (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+ávarāṇi ← ávara- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jātā́ni ← √janⁱ- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+didhiṣema ← √dhā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT, mood:DES}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+viśema ← √viś- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Ihn lasst uns preisen, welcher diese Wesen zusammt erschuf, die nach ihm sind en
 
 -ru-
 </details>
+

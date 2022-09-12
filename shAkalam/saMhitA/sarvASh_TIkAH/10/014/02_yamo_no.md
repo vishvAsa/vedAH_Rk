@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viveda ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yamáḥ ← yamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápabhartavaí ← √bhr̥- (root)  
+{case:DAT, number:SG}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+gávyūtiḥ ← gávyūti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pareyúḥ ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+jajñānā́ḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+pathyā̀ḥ ← pathyā̀- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svā́ḥ ← svá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Zuerst hat Jama uns die Bahn gefunden zu jener Flur, die niemand uns entziehn ka
 Куда (некогда) прошли наши древние отцы,  
 Туда (все) рожденные (последуют) по своим путям.
 </details>
+

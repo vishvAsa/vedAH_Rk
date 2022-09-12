@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devátātā ← devátāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+śréṣṭhā ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+tujā́ ← túj- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+bhūtám ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+śáviṣṭhā ← śáviṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śū́rāṇām ← śū́ra- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+maghónām ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+máṁhiṣṭhā ← máṁhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tuviśúṣmā ← tuviśúṣma- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sárvasenā ← sárvasena- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vr̥tratúrā ← vr̥tratúr- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +218,4 @@ Denn ihr ja seid die eifrigsten der Götter, die stärksten seid ihr unter stark
 Щедрейшие из щедрых, с сильным напором,  
 Обладатели целого войска, побеждающего врагов по закону.
 </details>
+

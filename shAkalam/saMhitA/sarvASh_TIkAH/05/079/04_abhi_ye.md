@@ -17,15 +17,58 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vibhāvari ← vibhā́van- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+gr̥ṇánti ← √gr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+stómaiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+váhnayaḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+maghaíḥ ← maghá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+maghoni ← maghávan- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+suśríyaḥ ← suśrī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dā́manvantaḥ ← dā́manvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+surātáyaḥ ← surātí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśvasūnr̥te ← aśvasūnr̥ta- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sújāte ← sujātá- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +207,4 @@ Die Priester, die, o glänzende, mit Lobgesängen dich erhöhn, Die sei'n, o rei
 Дарами, прекрасными подношениями,  
 О благородная, о щедро дающая коней!
 </details>
+

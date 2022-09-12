@@ -15,13 +15,50 @@ ChandaH = "उष्णिग्गायत्री वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+háryate ← √hr̥- 2 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+stotrám ← stotrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+dhat ← √dhā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+śmaśā́ru ← śmaśā́ru- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́r ← vā́r- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dīrghám ← dīrghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sutám ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vātā́pyāya ← vātā́pya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +160,4 @@ Wann, o Trefflicher, ist das Loblied so, dass es dir behagt? der Rand [der Kufe]
 Борода задержит воду –  
 Давно выжатый (сок), (тебе,) чья дружба желанна?
 </details>
+

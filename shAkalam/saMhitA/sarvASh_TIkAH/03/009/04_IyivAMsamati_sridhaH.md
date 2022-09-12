@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áti ← áti (invariable)  
+{}
+
+īyivā́ṁsam ← √i- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+srídhaḥ ← srídh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+saścátaḥ ← saścát- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śáśvatīḥ ← śáśvant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+adrúhaḥ ← adrúh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+avindan ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+nicirā́saḥ ← nicirá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+siṁhám ← siṁhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śritám ← √śri- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +184,4 @@ Ihn, der die Feinde überholt und die Bedränger allesammt, Ihn fanden achtsam, 
 Нашли внимательные, не терпящие обмана,  
 (Его,) скрывшегося в водах, словно лев (в засаде).
 </details>
+

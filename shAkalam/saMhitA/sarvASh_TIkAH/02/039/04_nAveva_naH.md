@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+iva ← iva (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nāvā́ ← naú- ~ nā́v- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pārayatam ← √pr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yugé ← yugá- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+nábhye ← nábhya- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pradhī́ ← pradhí- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+upadhī́ ← upadhí- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+áriṣaṇyā ← áriṣaṇya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śvā́nā ← śván- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tanū́nām ← tanū́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+khŕ̥galā ← khŕ̥gala- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pātam ← √pā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+visrásaḥ ← √sraṁs- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +237,4 @@ Wie zwei Schiffe fahrt uns hinüber, wie zwei Gespanne, wie zwei Naben, wie zwei
 Как два пса, не допускающих повреждения наших тел,  
 Как два панциря, охраните нас от перелома (членов)!
 </details>
+

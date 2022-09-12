@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sácanta ← √sac- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+avindan ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+citrā́m ← citrá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ketávaḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rā́m ← rā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dádr̥śe ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nákṣatram ← nákṣatra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+addhā́ ← addhā́ (invariable)  
+{}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yatáḥ ← √i- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +233,4 @@ Wenn sich die Morgen mit der Sonne nahen, dann glänzt ihr Licht von hellem Farb
 (Если) приближающаяся звезда дня не видна,  
 Никто, в самом деле, тут не знает уходящего снова.
 </details>
+

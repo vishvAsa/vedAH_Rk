@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvótāḥ ← tvóta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vanuyāma ← √vanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+búdhyamānāḥ ← √budh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vasūyávaḥ ← vasūyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+samaryé ← samaryá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+mártān ← márta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+putra ← putrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +195,4 @@ Von dir begünstigt mögen wir besiegen, nach Gut verlangend und mit Opfer regsa
 Мы (хотим превзойти их) в состязании на ежедневных жертвенных раздачах,  
 Мы – с помощью богатства, о сын силы!
 </details>
+

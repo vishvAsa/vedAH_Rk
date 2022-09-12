@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dábhyāya ← dábhya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dānā́ya ← dāná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vanván ← √vanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+amimīta ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+cyávānaḥ ← cyávāna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sū́daiḥ ← sū́da- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+védim ← védi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+gūrtávacastamaḥ ← gūrtávacastama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tū́rvayāṇaḥ ← tū́rvayāṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+itáūti ← itáūti- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+kṣódaḥ ← kṣódas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rétaḥ ← rétas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+siñcat ← √sic- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +192,4 @@ Dieser Tschjavāna, dem leicht zu täuschenden (?), zu Gaben verhelfend, versah 
 
 -ru-
 </details>
+

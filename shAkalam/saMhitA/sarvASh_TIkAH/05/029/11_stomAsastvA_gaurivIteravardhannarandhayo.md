@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avardhan ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gaúrivīteḥ ← gaúrivīti- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+stómāsaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+árandhayaḥ ← √randh- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+píprum ← pípru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaidathinā́ya ← vaidathiná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cakre ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+r̥jíśvā ← r̥jíśvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ápibaḥ ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pácan ← √pac- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+paktī́ḥ ← paktí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Dich kräftigten des Gauriviti Lieder, Vidathin's Sohne gabst du hin dem Pipru; 
 Риджишван расположил тебя к дружбе,  
 Варя кушанья. Ты выпил его сому.
 </details>
+

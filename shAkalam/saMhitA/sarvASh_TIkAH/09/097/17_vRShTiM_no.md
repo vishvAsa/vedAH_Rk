@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arṣa ← √arṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+divyā́m ← divyá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jigatnúm ← jigatnú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+íḷāvatīm ← íḷāvant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jīrádānum ← jīrádānu- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śaṁgáyīm ← śaṁgáyī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhanva ← √dhanv- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+stúkā ← stúkā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vicinván ← √ci- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vītā́ ← vītá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ávarān ← ávara- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bándhūn ← bándhu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+imā́n ← ayám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vāyū́n ← vāyú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +205,7 @@ Either way, I think we can confidently assume a neut. acc. pl. here, parallel to
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 This tṛca does seem to have a controlling theme and metaphor, esp. in 17-18 -- the passage through the filter, beginning in 16. Navigating among the curly tufts is compared on the one hand to the triumphant progress of the Aryas (vs. 17) and to a sort of moral progress in discriminating between the crooked and the straight (18). Each vs. also contains a form of the impv. dhanva ‘run’ (16d, 17c, 18d).
@@ -184,3 +239,4 @@ O ström' uns her des Himmels schnellen Regen, der reich an Trunk und Thau dem H
 Беги, словно отделяя гладкие комочки (шерсти от негодных),  
 Этих ближних приверженцев (твоих от других), о капля, (а также благоприятные) ветры!
 </details>
+

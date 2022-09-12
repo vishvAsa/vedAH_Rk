@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+adaduḥ ← √dā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+somapéyam ← somapéya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+harítaḥ ← harít- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pátantīḥ ← √pat- 1 (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+étaśe ← étaśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kár ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+purás ← purás (invariable)  
+{}
+
+satī́ḥ ← √as- 1 (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+úparāḥ ← úpara- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Da räumten willig dir die Götter alle, o allgewalt'ger, ein den Trunk des Soma
 Когда ты сделал так, что летящие кобылицы Сурьи,  
 Находящиеся впереди, оказались позади Эташи.
 </details>
+

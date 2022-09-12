@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+pīpivā́ṁsam ← √pī- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+sárasvataḥ ← sárasvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+stánam ← stána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvádarśataḥ ← viśvádarśata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhakṣīmáhi ← √bhaj- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prajā́m ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +150,4 @@ Sarasvats Brust die strotzende, die allenthalben man erblickt, Die flehn um Trun
 Груди Сарасвата, которая всем видна,  
 (Чтобы получить) потомство, жертвенную усладу!
 </details>
+

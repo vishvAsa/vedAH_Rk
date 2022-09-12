@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apásaḥ ← apás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dámūnasaḥ ← dámūnas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suhástāḥ ← suhásta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pátnīḥ ← pátnī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vibhvataṣṭā́ḥ ← vibhvataṣṭá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+br̥haddivā́ ← br̥haddivá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rākā́ ← rākā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+daśasyántīḥ ← √daśasy- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+śubhrā́ḥ ← śubhrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+varivasyantu ← √varivasy- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +205,4 @@ Die holden Künstler, deren Hand geschickt ist, die stiervermählten Ströme, Vi
 Сарасвати с высокого неба, а также Рака,  
 Пусть создадут (нам) свободу, прекрасные, проявляя благожелательность!
 </details>
+

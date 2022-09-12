@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+svāhuta ← svā̀huta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+priyā́saḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+maghávānaḥ ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yantā́raḥ ← yantár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+dáyanta ← √dā- 3 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+gónām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ūrvā́n ← ūrvá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +185,4 @@ Dir, Agni, schönbeopferter, sei recht beliebt der Edlen Schar, Die Opferherrn, 
 (Те,) что правители людей, щедрые (дарители),  
 Раздающие загоны коров!
 </details>
+

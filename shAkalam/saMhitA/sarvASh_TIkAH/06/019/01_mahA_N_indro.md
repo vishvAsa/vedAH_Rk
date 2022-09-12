@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+carṣaṇiprā́ḥ ← carṣaṇiprā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥vát ← nr̥vánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+amináḥ ← aminá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dvibárhāḥ ← dvibárhas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáhobhiḥ ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+asmadryàk ← asmadryàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vāvr̥dhe ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+vīryā̀ya ← vīryà- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+kartŕ̥bhiḥ ← kartár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pr̥thúḥ ← pr̥thú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+súkr̥taḥ ← súkr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urúḥ ← urú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,9 +216,6 @@ genre M
 किञ्च - **कर्तृभिः** परिचरद्भिः अस्माभिर् यजमानैर् इन्द्रः उरुर्विस्तीर्णो बलेन, **पृथुः** प्रथितस् सर्वत्र यशसा, **सुकृतः** सुष्ठुकृतः वशीकृतश्च, **भूत्** भवतु । भवतेर्लुङि पूर्ववच्छपो लुक्, 'भूसुवोस्तिङि' इति गुणाभावः । यद्वा - कर्तृभिरस्माभिः सुकृतस्सम्यक्कृतोयमुरुः पृथुश्च भवतु । 'सुः पूजायाम्' इति कर्मप्रवचनीयत्वम् । 'स्वती पूजायाम्' इति प्रादिसमासः, तेन गतित्वाभावात् 'सूपमानात्कः' इत्युत्तरपदान्तोदात्तत्वाभावे अव्ययपूर्वपदप्रकृतिस्वरत्वमेव भवति ॥
 </details>
 
-
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -195,7 +244,7 @@ The phrase in d, súkṛtaḥ kartṛ́bhir bhūt “he was well made by his mak
 agent noun kartár- may refer to the soma drinks or to the priests who prepared and offered them to Indra. Because I think the reference is to the immediate past, I would slightly alter the tr. from “was well made” to “has been well made.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 These two vss. show a penchant for synonymous pairs: 1d urúḥ pṛthúḥ “wide (and) broad,” 2b bṛhántam ṛṣvám “lofty (and) towering,” ajáraṃ yúvānam “unaging (and) youthful.”
@@ -218,7 +267,6 @@ Towards us for strength doth he wax;
 Broad and wide hath he been adorned by the offerers.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Groß ist Indra, ganz wie ein Mann, die Völker erfüllend und doppelt stark, ungemindert an Kräften. Für uns ist er zur Heldentat herangewachsen, umfangreich, breit ward er, wohlerzeugt durch seine Erzeuger.
@@ -236,3 +284,4 @@ Gross ist und mannhaft, Völker segnend, Indra und doppelt stark, gewaltig er an
 Ради нас он возрос для подвига, огромный,  
 Широким стал он, сотворенный искусными творцами.
 </details>
+

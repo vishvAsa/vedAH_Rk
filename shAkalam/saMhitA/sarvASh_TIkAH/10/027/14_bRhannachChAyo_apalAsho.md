@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line  
 popular;; repeated line
+#### Morph
+achāyáḥ ← achāyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apalāśáḥ ← apalāśá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árvā ← árvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+br̥hán ← br̥hánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+atti ← √ad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gárbhaḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tasthaú ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+víṣitaḥ ← √sā- ~ si- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+anyásyāḥ ← anyá- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+mimāya ← √mā- 2 ~ mī- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+rihatī́ ← √rih- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhuvā́ ← bhū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+káyā ← ká- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Hoch ist das Ross [Agni], doch ohne Schatten, ohne Laub; es steht die Mutter [di
 
 -ru-
 </details>
+

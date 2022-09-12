@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+gávyūtim ← gávyūti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ghr̥taíḥ ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ukṣatam ← √ukṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mádhvā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sukratū ← sukrátu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +152,4 @@ Benetzt, o Mitra-Varuna, mit Butter unsern Weideplatz, Mit Meth die Räume, Tref
 Потоками жира наше пастбище,  
 Медом – просторы, о обладатели прекрасной силы духа!
 </details>
+

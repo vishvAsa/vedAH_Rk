@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avr̥ṇot ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śárdhanītiḥ ← śárdhanīti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amināt ← √mī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+māyínām ← māyín- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+várpaṇītiḥ ← várpaṇīti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áhan ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+uśádhak ← uśádhak (invariable)  
+{}
+
+váneṣu ← vána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vyàṁsam ← vyàṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+akr̥ṇot ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+āvís ← āvís (invariable)  
+{}
+
+dhénāḥ ← dhénā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rāmyā́ṇām ← rā́myā- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +218,4 @@ Mit seiner Schar umschloss den Vritra Indra, in Scheingestalt vertilgte er den l
 Он убил Вьянсу, желая сжечь (все) в лесах.  
 Он сделал явными звуки (?) ночей.
 </details>
+

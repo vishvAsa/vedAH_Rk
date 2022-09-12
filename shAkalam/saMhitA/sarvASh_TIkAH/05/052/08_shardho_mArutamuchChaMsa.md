@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śaṁsa ← √śaṁs- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
+ŕ̥bhvasam ← ŕ̥bhvas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+satyáśavasam ← satyáśavas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sma ← sma (invariable)  
+{}
+
+śubhé ← śúbh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+syandrā́ḥ ← syandrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yujata ← √yuj- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +175,7 @@ Geldner takes syandrā́(ḥ) as acc. pl. fem. and supplies antelopes as the obj
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/052/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/052/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 I don't understand the force of utá sma, which opens 8c and 9a, with utá opening 9c. Klein (DGRV I.416-17) says that they introduce parallel statements about the Maruts and represent “concatenation across the stanza-boundary,” halfway between intrastanzaic and interstanzaic usage. But the role of sma, whatever it may be, seems downplayed in this description.
@@ -161,3 +207,4 @@ Besinge laut die Marutschar, die wahrhaft starke, tüchtige; Schon rüsteten zum
 И вот эти мужи для блеска  
 Сами, подпрыгивая, снаряжаются.
 </details>
+

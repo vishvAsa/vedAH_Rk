@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ádhukṣata ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhā́rā ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+vedhásaḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vasiṣṭa ← √vas- 2 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -99,7 +127,7 @@ etám tyám … marmṛjyánte apasyúvaḥ “This very one [=soma] do the indu
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/002/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/002/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 These two vss. introduce the trope of “clothing,” a metaphor for mixing the soma juice with various substances: after the pressing proper the soma is mixed first with water (vs. 3) and then with milk (vs. 4), the latter accounting for the ubiquitous “cows” of the IXth Maṇḍala. Thus, though an expression “clothe himself with cows” initially strikes the inexperienced reader as ludicrous, it makes perfect sense in the tightly constructed verbal realm of the Soma hymns: clothing = mixing and cows = waters.
@@ -130,3 +158,4 @@ Es melkte liebe Süssigkeit der Strom des holden Saftes sich, Der weise hüllte 
 Поток выжатого (сока) у этого устроителя обряда.  
 Прекрасный силой духа нарядился в воды.
 </details>
+

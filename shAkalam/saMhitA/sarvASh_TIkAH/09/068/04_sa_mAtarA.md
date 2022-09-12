@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mātárā ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vājáyan ← √vājay- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vicáran ← √carⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+médhiraḥ ← médhira- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pinvate ← √pinv- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+aṁśúḥ ← aṁśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pipiśe ← √piś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yatáḥ ← √yam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yávena ← yáva- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+jāmíbhiḥ ← jāmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+násate ← √nas- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+rákṣate ← √rakṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +242,4 @@ Das Aelternpaar durchschreitend, Fluten sendend, tränkt der weise reichlich sei
 Сок украшается ячменем, направляемый мужами.  
 Соединяясь с кровными сестрами, он сохраняет голову.
 </details>
+

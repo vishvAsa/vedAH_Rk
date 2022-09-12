@@ -15,13 +15,56 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; 12 = 8+4;; repeated line
+#### Morph
+mádam ← máda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tīvrasútam ← tīvrasúta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ántam ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+mádhyam ← mádhya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rákṣase ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +170,7 @@ As Geldner points out, this must be a ref. to the three soma-pressings: the “m
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 In the refrain of pādas cd, the position of sá and of the unaccented elements indra te strongly suggests that the clause begins in the middle of c -- or rather that sómaḥ sutáḥ has been extraclausally topicalized. Although in vss. 1-2 this nom. phrase could belong to the rel. clause of ab, that prospect is foreclosed in vs. 3, because soma is represented in the rel. cl. of 3ab by the instr. yéna.
@@ -164,3 +207,4 @@ Er, dessen scharfen Saft du hegst, den letzten und den mittleren, Der Soma ist g
 Чью середину и конец ты охраняешь –  
 Этот самый сома, о Индра, выжат для тебя. Пей!
 </details>
+

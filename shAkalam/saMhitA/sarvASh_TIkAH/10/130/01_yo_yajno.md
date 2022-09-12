@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+tántubhiḥ ← tántu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tatáḥ ← √tan- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́yataḥ ← √yam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+devakarmébhiḥ ← devakarmá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ékaśatam ← ékaśata- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āyayúḥ ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vayanti ← √u- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+āsate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+íti ← íti (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+taté ← √tan- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+vaya ← √u- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vaya ← √u- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ Das Opfer, das nach allen Seiten durch seine Fäden ausgespannt, und durch hunde
 (Ее) ткут эти отцы, которые пришли.  
 Они сидят возле протянутой (жертвы, говоря) так: Тки вперед! Тки назад!
 </details>
+

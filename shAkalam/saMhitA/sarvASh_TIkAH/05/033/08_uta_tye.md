@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+paurukutsyásya ← paurukutsyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sūréḥ ← sūrí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+hiraṇínaḥ ← hiraṇín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rárāṇāḥ ← √rā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+trasádasyoḥ ← trasádasyu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+śyétāsaḥ ← śyetá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váhantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+gairikṣitásya ← gairikṣitá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+krátubhiḥ ← krátu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+saśce ← √sac- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +182,7 @@ In the published translation they are treated as the same; the standard tr. take
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/033/08-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/033/08-10.md">
 <details open><summary><h2>08-10 ...{Loading}...</h2></summary>
 
 As just noted, 7c begins with utá as do vss. 8-10, but those vss. of the dānastuti proper are further unified, all beginning utá tyé mā.
@@ -162,3 +214,4 @@ Und diese mir vom Fürsten Trasadasju, dem Nachkommen des Purukutsa, geschenkten
 Пусть повезут меня десять белых его коней!  
 Я согласен с намерениями потомка Гирикшита.
 </details>
+

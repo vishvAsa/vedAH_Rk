@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+mahāmaha ← mahāmahá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥ṣasva ← √vr̥ṣ- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+nr̥tama ← nŕ̥tama- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rā́dhase ← rā́dhas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dr̥hya ← √dr̥h- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dr̥ḷháḥ ← √dr̥h- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+magháttaye ← maghátti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +164,4 @@ Zu grosser Spende schlürfe nun, grossmächtigster, gewaltigster, Sei stark, o s
 Для великого дарения, о лучший из танцоров!  
 Если ты уж тверд, то будь твердым, о щедрый, (и) в щедром дарении!
 </details>
+

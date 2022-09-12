@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+índrāviṣṇū ← índrāvíṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vāvr̥dhānā́ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
+
+ágrādvānā ← agrādvan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rātahavyā ← rātáhavya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ghŕ̥tāsutī ← ghr̥tā́suti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+kaláśaḥ ← kaláśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samudráḥ ← samudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+somadhā́naḥ ← somadhā́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sthaḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +188,4 @@ An Opfertrank euch labend, Indra-Vischnu, zuerst geniessend, huldvoll Opfer nehm
 (Те,) чье питье – расплавленное масло, наделите нас имуществом!  
 Вы – океан, сосуд, заключающий в себе сому.
 </details>
+

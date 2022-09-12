@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anehásam ← anehás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sutrā́māṇam ← sutrā́man- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+supráṇītim ← supráṇīti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+suśármāṇam ← suśárman- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ánāgasam ← ánāgas- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+daívīm ← daívī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nā́vam ← naú- ~ nā́v- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+svaritrā́m ← svaritrá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ásravantīm ← ásravant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ruhema ← √ruh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +203,4 @@ Den hohen Himmel und die Erde reich an Schutz, die Aditi, die herrlich leitet un
 
 -ru-
 </details>
+

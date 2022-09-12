@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+avedam ← √vid- 2 (root)  
+{number:SG, person:1, mood:IND, tense:PLUPRF, voice:ACT}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+gárbhe ← gárbha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+jánimāni ← jániman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+arakṣan ← √rakṣⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ā́yasīḥ ← āyasá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+púraḥ ← púr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+adīyam ← √dī- 2 (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+javásā ← javás- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Schon im Mutterleibe kannte ich alle Geschlechter dieser Götter. Hundert eherne
 Сто железных крепостей стерегли меня.  
 Тут – орел! Я быстро улетел.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jānāti ← √jñā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yaviṣṭha ← yáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+aírat ← √īr- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bráhmaṇe ← bráhman- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ī́vate ← ī́vant- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sudínāni ← sudína- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dyaut ← √dyut- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+dyumnā́ni ← dyumná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,3 +267,4 @@ Der spüret recht, o jüngster, deine Güte, wer einer solchen Andacht Fortgang 
 Воссвети ему, от(крыв) врата, все прекрасные дни,  
 Богатства, все великолепие врага!
 </details>
+

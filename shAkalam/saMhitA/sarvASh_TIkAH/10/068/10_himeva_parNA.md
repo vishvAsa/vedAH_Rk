@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+himā́ ← hímā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+muṣitā́ ← √muṣⁱ- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+parṇā́ ← parṇá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vánāni ← vána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+akr̥payat ← √kr̥p- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bŕ̥haspátinā ← bŕ̥haspáti- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+valáḥ ← valá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anānukr̥tyám ← anānukr̥tyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+apunár ← apunár (invariable)  
+{}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mithás ← mithás (invariable)  
+{}
+
+sū́ryāmā́sā ← sū́ryāmā́s- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+uccárātaḥ ← √carⁱ- (root)  
+{number:DU, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yā́t ← yā́t (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Wie Bäume, die durch Frost des Laubs beraubt sind, betrauert' Vala die geraubte
 Он совершил (нечто) неподражаемое, неповторимое,  
 Пока солнце и луна будут восходить, (следуя) друг за другом.
 </details>
+

@@ -15,14 +15,45 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+ádhrigum ← ádhrigu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dáśagvam ← dáśagva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+svàrṇaram ← svàrṇara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vepáyantam ← √vip- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ā́vitha ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,7 +134,7 @@ Either Adhrigu or, if he is a personage, Svarṇara receives the qualifier vepá
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 This tṛca is unified by a series of relative clauses (mostly introduced by yéna) whose antecedent in the main clause is the tám that opens the refrain. The presumed referent of all the relative pronouns (and the tám’s) is mádaḥ in 1b, although it could be any power or capacity of Indra’s that comes to mind.
@@ -134,3 +165,4 @@ Durch den du Schutz dem Zehner gabst, dem eilenden, dem Glanzesherrn, Dem Allerr
 Приводящему в трепет Сварнаре,  
 Благодаря которому ты помог морю – мы просим о нем.
 </details>
+

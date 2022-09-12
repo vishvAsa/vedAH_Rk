@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+maháḥ ← máh- (nominal stem)  
+{}
+
+pratnásya ← pratná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sādhathaḥ ← √sādh- ~ sidh- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+daívī ← daívī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+svastíḥ ← svastí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syātam ← √as- 1 (root)  
+{number:DU, person:2, mood:OPT, tense:PRS, voice:ACT}
+
+gopā́jihvasya ← gopā́jihva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tasthúṣaḥ ← √sthā- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+
+vírūpā ← vírūpa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kr̥tā́ni ← √kr̥- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+māyínaḥ ← māyín- (nominal stem)  
+{case:NOM, number:PL}
+
+paśyanti ← √paś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Lasset ihr beide [Mitra -Varuna] gelingen das Werk des uralten erhabenen [Agni],
 Все видят разнообразные творения  
 (Этого) обладателя языков-защитников, пребывающего (с нами), волшебного.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+háste ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mimikṣúḥ ← √myakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+náryā ← nárya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+hiraṇyáye ← hiraṇyáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ratheṣṭhā́ḥ ← ratheṣṭhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gábhastyoḥ ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+raśmáyaḥ ← raśmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sthūráyoḥ ← sthūrá- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ádhvan ← ádhvan- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+áśvāsaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yujānā́ḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Bei welchem glänzten in der Hand die Gaben, auf goldnem Wagen dort der Wagenlen
 Поводья в двух крепких руках,  
 Кони-жеребцы готовы в путь.
 </details>
+

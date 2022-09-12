@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+vakṣi ← √vah- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+vipra ← vípra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yákṣi ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+hotar ← hótar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sada ← √sad- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+triṣú ← trí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+uśán ← √vaś- (root)  
+{tense:PRS, voice:ACT}
+
+yóniṣu ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+prásthitam ← √sthā- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+práti ← práti (invariable)  
+{}
+
+somyám ← somyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vīhi ← √vī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́gnīdhrāt ← ā́gnīdhra- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+bhāgásya ← bhāgá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+táva ← tvám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+tr̥pṇuhi ← √tr̥p- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +255,4 @@ O weiser fahr die Götter her, verehre sie; auf die drei Schösse setz', o Pries
 Радостно прими предложенную сладость сомы!  
 Пей из кубка агнидха, насыщайся твоей долей!
 </details>
+

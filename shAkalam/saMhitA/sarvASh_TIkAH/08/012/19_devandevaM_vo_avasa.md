@@ -15,14 +15,45 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+deváṁ-devam ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+gr̥ṇīṣáṇi ← √gr̥̄- 1 (root)  
+{case:LOC, number:SG, tense:PRS}
+
+índram-indram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+turváṇe ← √tūr(v)- ~ tur- (root)  
+{case:DAT, number:SG}
+
+yajñā́ya ← yajñá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ānaśuḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +168,4 @@ Zum Heile preiset euren Gott, den Indra, Indra fort und fort, Um Opfers Segen zu
 Воспевать для поддержки вам,  
 И тогда чтоб жертва превзошла (всё) – они достигли (цели).
 </details>
+

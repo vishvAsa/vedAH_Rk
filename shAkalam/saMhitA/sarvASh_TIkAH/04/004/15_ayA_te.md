@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+samídhā ← samídh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+gr̥bhāya ← √gr̥bhⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+śasyámānam ← √śaṁs- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:PASS}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśásaḥ ← aśás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+dáha ← √dah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+avadyā́t ← avadyá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+druháḥ ← drúh- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+mitramahaḥ ← mitrámahas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nidáḥ ← níd- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +188,6 @@ genre M
 
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -183,3 +237,4 @@ Wir huld'gen, Agni, dir mit diesem Brennholz, empfange du das ausgesprochne Lobl
 Спали проклятых ракшасов! Защити нас  
 От обмана, хулы, позора, о великий (, как) Митра!
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avánim ← aváni- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mahī́m ← máh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+viśvádhenām ← viśvádhena- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kṣárantīm ← √kṣar- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+turvī́taye ← turvī́ti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vayyā̀ya ← vayyà- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+áramayaḥ ← √ram- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+árṇaḥ ← árṇas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+éjat ← √ej- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+akr̥ṇoḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+síndhūn ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sutaraṇā́n ← sutaraṇá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +194,4 @@ Du hieltest willig fest die schnelle Strömung, den grossen Fluss, der alle Wass
 С поклонением (встала) движущаяся стихия.  
 Ты сделал реки, о Индра, легко проходимыми.
 </details>
+

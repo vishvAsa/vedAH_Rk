@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+samyáñcam ← samyáñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kṣitīnā́m ← kṣití- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+várṣiṣṭhāya ← várṣiṣṭha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+náptre ← nápat- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sáhasvate ← sáhasvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ūrjáḥ ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +181,4 @@ O Freunde bringet insgesammt dem Agni Lob und Labung dar, Dem herrlichsten der g
 Высочайшему (богу человеческих) поселений,  
 Отпрыску силы, могущественному!
 </details>
+

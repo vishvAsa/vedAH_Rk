@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bāhū́ ← bāhú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+br̥hántā ← br̥hánt- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śithirā́ ← śithirá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+út ← út (invariable)  
+{}
+
+anaṣṭām ← √naś- 1 (root)  
+{number:DU, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ántān ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hiraṇyáyā ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mahimā́ ← mahimán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+paniṣṭa ← √panⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+apasyā́m ← apasyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +216,7 @@ nūnám can instead draw attention to an immediate past action (“has [just] be
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/045/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/045/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 Although Savitar’s role as god of evening, causing the world and its activities to settle down, is alluded to in 1d, his role as rouser of the world at dawn is given equal billing in that pāda (… ca … ca). The more oblique expression in 2d must also refer to this latter role. The sun “cedes his task” of waking and rousing the world to Savitar.
@@ -187,3 +248,4 @@ Zum Himmelsende reichten seine Arme, die goldenen, die schlanken, die erhabnen; 
 Пусть сейчас это его величие вызовет восхищение!  
 Даже солнце уступает ему (свою) работу.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvāyávaḥ ← tvāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+havíṣmantaḥ ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jarāmahe ← √gr̥̄- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+asmayúḥ ← asmayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ Wir, die dich lieben, nahen dir, o Indra, jetzt mit Opferguss; Auch du, o Guter,
 Бодрствуем с жертвенными возлияниями.  
 А ты (будь) предан нам, о Васу!
 </details>
+

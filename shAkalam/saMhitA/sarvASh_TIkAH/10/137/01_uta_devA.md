@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+ávahitam ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+dévāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+nayatha ← √nī- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+púnar ← púnar (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+ā́gaḥ ← ā́gas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cakrúṣam ← √kr̥- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+dévāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+jīváyatha ← √jīv- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+púnar ← púnar (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +189,4 @@ Ihr Götter, den gesunkenen hebt ihr, o Götter, wieder auf, Und den, der Sünde
 Даже совершившего грех, о боги,  
 О боги, вы снова возвращаете к жизни.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+krośanā́saḥ ← krośaná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+víṣvañcaḥ ← víṣvañc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ardháḥ ← ardhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nahí ← nahí (invariable)  
+{}
+
+némaḥ ← néma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pácāti ← √pac- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+pákṣat ← √pac- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+āha ← √ah- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+drvànnaḥ ← drvànna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sarpírannaḥ ← sarpíranna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vanavat ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Schreiend liefen sie alle nach verschiedenen Seiten auseinander »der eine Theil
 
 -ru-
 </details>
+

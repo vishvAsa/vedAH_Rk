@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+rā́ṣṭrī ← rā́ṣṭrī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+saṁgámanī ← saṁgámanī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+cikitúṣī ← √cit- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:ACT}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yajñíyānām ← yajñíya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+adadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+āveśáyantīm ← √viś- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+bhū́risthātrām ← bhū́risthātra- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Ich bin die Fürstin, Sammlerin der Güter, zuerst hab' ich erkannt die heil'gen
 Меня такую распределили боги по многим местам,  
 (Меня,) имеющую много пристанищ, дающую многому войти (в жизнь).
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+śríyaḥ ← śrī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+varṣyàsya ← varṣyà- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vidyútaḥ ← vidyút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cikitre ← √cit- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+citrā́ḥ ← citrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ketávaḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+uṣásām ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+abhísr̥ṣṭaḥ ← √sr̥j- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ca ← ca (invariable)  
+{}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vánāni ← vána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsyè ← āsyà- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+cinuṣé ← √ci- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+svayám ← svayám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +224,4 @@ Wie des Gewölkes Blitze strahlet deine Pracht, hellleuchtend wie der Morgenröt
 Когда выпущенный на растения и деревья,  
 Ты сам собираешь пищу во рту.
 </details>
+

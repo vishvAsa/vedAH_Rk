@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; repeated line  
 popular;; repeated line  
 popular;; repeated line
+#### Morph
+abravīt ← √brū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+bheṣajā́ ← bheṣajá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+viśváśambhuvam ← viśváśambhū- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Im Wasser, sagte Soma mir, ist alle Arzenei vereint Und Agni, der das All erquic
 Все целебные средства  
 И Агни всеблагой.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́ṅ ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pāhi ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+śaśvattamám ← śaśvattamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+niṣádya ← √sad- (root)  
+{non-finite:CVB}
+
+yajñé ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dadhiṣvá ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jaṭháre ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +232,4 @@ Der Soma hier ist dein, o komme nah her, mit lust'gem Sinne trinke fort und fort
 Сев на солому на этом жертвоприношении,  
 Прими в (свою) утробу этот сок, о Индра!
 </details>
+

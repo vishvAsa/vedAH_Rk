@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aratíḥ ← aratí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+téjiṣṭhā ← téjiṣṭha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vanerā́ṭ ← vanerā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ádhvan ← ádhvan- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+adyaut ← √dyut- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+todáḥ ← todá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥dhasānáḥ ← vr̥dhasāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adrogháḥ ← adroghá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cetati ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dravitā́ ← dravitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tmán ← tmán- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+avartráḥ ← avartrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+óṣadhīṣu ← óṣadhī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Der glühend strahlt, im Holze leuchtend wirket, aufsteigend wie auf seiner Bahn
 Он сам бросается в глаза, как бегун, не знающий обмана,  
 Бессмертный, неудержимый среди растений.
 </details>
+

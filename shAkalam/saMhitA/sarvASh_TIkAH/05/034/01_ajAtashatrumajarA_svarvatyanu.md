@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajárā ← ajára- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ájātaśatrum ← ájātaśatru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svàrvatī ← svàrvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ámitā ← ámita- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+dasmám ← dasmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+svadhā́ ← svadhā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bráhmavāhase ← bráhmavāhas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pácata ← √pac- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sunótana ← √su- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dadhātana ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pratarám ← pratarám (invariable)  
+{}
+
+puruṣṭutā́ya ← puruṣṭutá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +192,4 @@ Dem gegnerlosen strebt die eigne Schöpfung nach die unermessne, ewige, dem herr
 Выжимайте, варите для того, кого притягивают молитвы!  
 Дайте многовосхваленному побольше!
 </details>
+

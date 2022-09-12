@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+mā́kīm ← mā́kīm (invariable)  
+{}
+
+mā́kis ← mā́kis (invariable)  
+{}
+
+neśat ← √naś- 2 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+riṣat ← √riṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+kévaṭe ← kévaṭa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mā́kīm ← mā́kīm (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+śāri ← √śr̥̄- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áriṣṭābhiḥ ← áriṣṭa- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+átha ← átha (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +168,4 @@ Keins komme fort, keins sei verletzt, und keins zerschell' in einer Schlucht, Mi
 Ничто не разобьется в яме,  
 И приходи с невредимыми (коровами!)
 </details>
+

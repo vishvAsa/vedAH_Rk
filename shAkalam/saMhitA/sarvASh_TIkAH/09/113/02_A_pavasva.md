@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+diśām ← díś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ārjīkā́t ← ārjīká- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mīḍhvaḥ ← mīḍhváṁs- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+r̥tavākéna ← r̥tavāká- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+satyéna ← satyá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śraddháyā ← śraddhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+tápasā ← tápas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +216,4 @@ Hell riesle her, du Länderfürst, o Soma, huldreich aus dem Fass, Mit wahrem, f
 С истиной, с верой, с пылом.  
 Для Индры, о капля, растекайся вокруг!
 </details>
+

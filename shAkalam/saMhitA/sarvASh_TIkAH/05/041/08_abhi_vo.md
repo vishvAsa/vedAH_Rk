@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+arce ← √r̥c- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+poṣyā́vataḥ ← poṣyā́vant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rárāṇaḥ ← √rā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+tváṣṭāram ← tváṣṭar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́stoḥ ← vā́stu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dhányā ← dhánya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhiṣáṇā ← dhiṣáṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+éṣe ← éṣa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+vánaspátīn ← vánaspáti- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +201,4 @@ Ich preise euch, die segensreichen Männer, den Hauses Hort und Tvaschtar, Gaben
 Согласна Дхишана, делающая богатым –  
 С поклонениями (я воспеваю) лесные деревья, растения в поисках богатства.
 </details>
+

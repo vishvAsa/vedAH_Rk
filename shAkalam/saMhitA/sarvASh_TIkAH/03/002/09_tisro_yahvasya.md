@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+párijmanaḥ ← párijman- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+samídhaḥ ← samídh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tisráḥ ← trí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yahvásya ← yahvá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ámr̥tyavaḥ ← ámr̥tyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+apunan ← √pū- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+uśíjaḥ ← uśíj- (nominal stem)  
+{}
+
+ádadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhújam ← bhúj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ékām ← éka- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mártye ← mártya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tā́sām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+dvé ← dvá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+īyatuḥ ← √i- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+jāmím ← jāmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+ulokám ← uloká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Drei Flammen Agni's, des geschäft'gen Wanderers, entzündeten verlangend die Un
 В то время как одно из них они установили для наслаждения смертного,  
 Два (других) приблизились к родственному миру.
 </details>
+

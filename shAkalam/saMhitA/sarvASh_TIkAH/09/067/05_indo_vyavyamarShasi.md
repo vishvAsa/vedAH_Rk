@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+arṣasi ← √arṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ávyam ← ávya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+saúbhagā ← saúbhaga- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śrávāṁsi ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+gómataḥ ← gómant- (nominal stem)  
+{case:ACC, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,7 +142,7 @@ through to prizes consisting of cows, o Soma.
 The preverb/preposition ví is insistent, with 4 occurrences in the vs. Renou sees the three functions here, but that seems something of a stretch.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 The Kaśyapa tṛca: it lacks cohesion across all 3 vss., though 4 and 5 share “rushing across the fleece”; ‘rush’ (árṣa-) also provides a link to the last vs. of the preceding tṛca, 3b, as does the verb acikradat (4c), which echoes kánikradat (3b).
@@ -136,3 +173,4 @@ O Indu, du durchströmst das Sieb, gibst rühmenswerthes Gut und Glück, Milchre
 К славе, к благам,  
 К наградам, о сома, состоящая из коров.
 </details>
+

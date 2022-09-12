@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sma ← sma (invariable)  
+{}
+
+vr̥dhé ← vŕ̥dh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ava ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nāyám ← nāyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yudhí ← yúdh- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+antárikṣe ← antárikṣa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+parṇínaḥ ← parṇín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+patáyanti ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+didyávaḥ ← didyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tigmámūrdhānaḥ ← tigmámūrdhan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +173,7 @@ The first pāda is a bare variant of 3d: both contain the complex verbal constru
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/11-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
 
 This pragātha shows both internal and external connections. As in the previous pragātha the 2nd vs. is syntactically dependent on the first, with the yátra clause of 12ab parallel to the yád clause of 11cd and both subordinate to the imperatival clause of 11b. In addition the first and last hemistichs (11ab, 12cd) open identically, with ádha smā, which echoes ádha smā of the last hemistich of the previous pragātha (10cd).
@@ -161,3 +207,4 @@ Sei nun, o Indra, uns zum Heil und hilf dem Führer in der Schlacht, Wenn in den
 Когда в воздухе летают пернатые  
 Выстрелы с острыми головами!
 </details>
+

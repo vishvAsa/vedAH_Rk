@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+babhūvuḥ ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kvà ← kvà (invariable)  
+{}
+
+nau ← ahám (pronoun)  
+{case:DAT, number:DU}
+
+sakhyā́ ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tyā́ni ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+avr̥kám ← avr̥ká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+purā́ ← purā́ (invariable)  
+{}
+
+sácāvahe ← √sac- 1 (root)  
+{number:DU, person:1, mood:IND, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́nam ← mā́na- 2 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svadhāvaḥ ← svadhā́vant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gr̥hám ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jagama ← √gam- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+sahásradvāram ← sahásradvār- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Wohin ist diese Freundschaft zwischen uns gekommen, da wir früher ohne Feindsch
 В высоком тереме, о Варуна, самосущий,  
 В стовратном побывал я – в доме твоем.
 </details>
+

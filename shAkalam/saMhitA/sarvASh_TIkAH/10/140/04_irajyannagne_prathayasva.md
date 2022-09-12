@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+irajyán ← √irajy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jantúbhiḥ ← jantú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+prathayasva ← √prathⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+amartya ← ámartya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+rā́yaḥ ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+darśatásya ← darśatá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rājasi ← √rāj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vápuṣaḥ ← vápus- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥ṇákṣi ← √pr̥c- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sānasím ← sānasí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Mit deinen Dienern waltend breit' dich, Agni, aus uns werde Gut, Unsterblicher! 
 Ты властвуешь над чудесным обликом, достойный взглядов.  
 Ты наполняешь приносящей добычу силой духа.
 </details>
+

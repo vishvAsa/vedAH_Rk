@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+dhāraya ← √dhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+maghávatsu ← maghávan- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ajáram ← ajára- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ánāmi ← ánāmin- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+jayema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+sahasríṇam ← sahasrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatínam ← śatín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vaíśvānara ← vaiśvānará- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +174,6 @@ genre M
 हे **अग्ने** **अस्माकम्** । सप्तम्यर्थे षष्टी । अस्मासु **मघवत्सु** हविर्लक्षणेन धनेन युक्तेषु **क्षत्रं** धनं **धारय** स्थापय । कीदृशम् । **अनामि** अनमनीयमनपहार्यम् **अजरं** जरारहितमनश्वरं **सुवीर्यं** शोभनवीर्योपेतम् । किंच हे **वैश्वानर** **अग्ने** **तवोतिभिः** त्वत्संबन्धिभी रक्षणैः **वयं** **शतिनं** शतसंख्यायुक्तं शतपुरुषयुक्तं वा तथा **सहस्रिणं** **वाजम्** अन्नं **जयेम** लभेमहि ।
 </details>
 
-
 <details><summary>भट्टभास्करटीका</summary>
 
 हे अग्ने वैश्वानर अस्माकं पुत्रादीन् प्रथमं तावद्धनवतः कुरु, ततो मघवत्सु धनवत्सु कृतेषु धारय स्थापय क्षत्रं बलं अनामि अनमनशीलम् । ग्रह्यादिलक्षणो णिनिः । अजरमविनाशं सुवीर्यमनभिभवनीयपुत्रादिपुरुषकर्मकम् । 'नञो जरमरमित्रमृताः' 'वीरवीर्यौ च' इत्येतयोरुत्तरपदाद्युदात्तत्वम् । किञ्च - वयं जयेम शतिनं शतपोषवन्तं सहस्रिणं सहस्रपोषवन्तं च वाजमन्नं तवोतिभिः रक्षणैः रक्षाविशेषैः तृप्तिविशेषैर्वा । क्तिन उदात्तत्वमुक्तम् । हे अग्ने अञ्जनादिगुण ॥
@@ -177,3 +228,4 @@ Bewahre, Agni, unsern Fürsten ungebeugt und ungeschwächt die Herrschaft und di
 Да завоюем мы сотенную, тысячную  
 Награду, о Агни-Вайшванара, с твоими поддержками!
 </details>
+

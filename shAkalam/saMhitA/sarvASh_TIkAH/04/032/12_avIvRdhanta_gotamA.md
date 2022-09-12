@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ávīvr̥dhanta ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+gótamāḥ ← gótama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stómavāhasaḥ ← stómavāhas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+eṣu ← ayám (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+vīrávat ← vīrávant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáśaḥ ← yáśas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ So priesen dich die Gotamer, die Lob dir, Indra, dargebracht, Gib ihnen heldenre
 Люди из рода Готамы, ведущие восхваления.  
 Надели их славой, связанной с сыновьями!
 </details>
+

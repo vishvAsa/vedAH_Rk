@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gandharváḥ ← gandharvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nā́ke ← nā́ka- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́yudhāni ← ā́yudha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bíbhrat ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+citrā́ ← citrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pratyáṅ ← pratyáñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átkam ← átka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dr̥śé ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+kám ← kám (invariable)  
+{}
+
+surabhím ← surabhí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásānaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+janata ← √janⁱ- (root)  
+{number:PL, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+priyā́ṇi ← priyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Da stand am Himmel aufrecht der Gandharve entgegentragend seine bunten Waffen, G
 Одетый в благоуханную одежду, чтобы (прекрасно) выглядеть,  
 Как солнце, создает он себе любимые имена.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+ā́cya ← √añc- 1 (root)  
+{non-finite:CVB}
+
+dakṣiṇatáḥ ← dakṣiṇatáḥ (invariable)  
+{}
+
+jā́nu ← jā́nu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+niṣádya ← √sad- (root)  
+{non-finite:CVB}
+
+abhí ← abhí (invariable)  
+{}
+
+gr̥ṇīta ← √gr̥̄- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+hiṁsiṣṭa ← √hiṁs- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+kéna ← ká- (pronoun)  
+{case:INS, gender:N, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pitaraḥ ← pitár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ā́gaḥ ← ā́gas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kárāma ← √kr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+puruṣátā ← puruṣátā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Nachdem ihr mit gebeugtem Knie zur Rechten gesetzt euch, nehmet alle gern dies O
 Не навредите нам, о отцы, чем-нибудь,  
 Если по природе человеческой мы совершили грех!
 </details>
+

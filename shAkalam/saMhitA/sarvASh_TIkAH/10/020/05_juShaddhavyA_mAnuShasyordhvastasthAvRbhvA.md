@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+juṣát ← √juṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+mā́nuṣasya ← mā́nuṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ŕ̥bhvā ← ŕ̥bhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tasthau ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñé ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+minván ← √mi- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+purás ← purás (invariable)  
+{}
+
+sádma ← sádman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Aufrecht steht er, kühn beim Opfer; wenn er speist des Menschen Tränke, Geht v
 Он стоит прямо, искусный на жертвоприношении;  
 Сооружая (свое) сидение, он движется вперед.
 </details>
+

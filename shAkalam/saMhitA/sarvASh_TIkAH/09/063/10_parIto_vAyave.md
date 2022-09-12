@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+itás ← itás (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+sutám ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vāyáve ← vāyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+matsarám ← matsará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávyaḥ ← ávi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+siñcata ← √sic- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vā́reṣu ← vā́ra- 1 (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,7 +135,7 @@ As in the previous hymn (see comm. ad IX.62.18), the priests are addressed in th
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 No particular unity, though vss. 11-12 are concerned with wealth.
@@ -133,3 +164,4 @@ Dem Vaju und dem Indra giesst von hier den Saft, der Rausch erregt, O Sänger, d
 
 -ru-
 </details>
+

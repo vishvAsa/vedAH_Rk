@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+sátpatim ← sátpati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvádevam ← viśvádeva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+sūktaíḥ ← sūktá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+satyásavam ← satyásava- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+savitā́ram ← savitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +150,4 @@ Wir locken den allgöttlichen Gebieter heut durch Lieder her, Den Savitar, der G
 Сегодня мы хотим избрать для себя с помощью гимнов -  
 Савитара, чье поведение истинно!
 </details>
+

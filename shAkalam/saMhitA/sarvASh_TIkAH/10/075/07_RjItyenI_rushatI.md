@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+énī ← éta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ŕ̥jītī ← ŕ̥jīti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rúśatī ← rúśant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bharate ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+jráyāṁsi ← jráyas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ádabdhā ← ádabdha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+apásām ← apás- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+apástamā ← apástama- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+síndhuḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+áśvā ← áśvā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+citrā́ ← citrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+darśatā́ ← darśatá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+vápuṣī ← vápuṣa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +208,4 @@ Sindhu, die glänzend bunte, schimmernde durchströmt in grosser Pracht die Flur
 Синдху, которому не обманешь, самая деятельная из деятельных,  
 Яркая, как кобылица, (она) приятна для глаз, как красавица.
 </details>
+

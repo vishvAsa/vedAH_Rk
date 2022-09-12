@@ -19,10 +19,10 @@ ChandaH = "अतिशक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,85 @@ genre M
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+krátunā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sākám ← sākám (invariable)  
+{}
+
+sākám ← sākám (invariable)  
+{}
+
+vavakṣitha ← √vakṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+mŕ̥dhaḥ ← mŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sākám ← sākám (invariable)  
+{}
+
+sāsahíḥ ← sāsahí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīryaìḥ ← vīryà- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vr̥ddháḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vícarṣaṇiḥ ← vícarṣaṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dā́tā ← dā́tar- 1 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kā́myam ← kā́mya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stuvaté ← √stu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+saścat ← √sac- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+satyám ← satyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,3 +288,4 @@ Geboren schon mit weisem Geiste und mit Kraft, nahmst du noch zu, erwachsen schl
 Он сопровождал его, бог – бога,  
 Истинного Индру – истинный сок.
 </details>
+

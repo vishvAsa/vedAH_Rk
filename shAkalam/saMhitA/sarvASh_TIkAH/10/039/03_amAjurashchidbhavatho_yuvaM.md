@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amājúraḥ ← amājúr- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhavathaḥ ← √bhū- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+anāśóḥ ← anāśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+apamásya ← apamá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+avitā́rā ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+andhásya ← andhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+kr̥śásya ← kr̥śá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bhiṣájā ← bhiṣáj- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+rutásya ← √ru- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +235,4 @@ Der alten Jungfrau auch verleiht ihr Liebesglück, dem trägen auch, und wär's 
 Это про вас говорят, что вы целители, о Насатьи,  
 Даже слепого, даже истощенного, даже искореженного.
 </details>
+

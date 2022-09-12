@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́śvinīḥ ← ā́śvina- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dhījúvaḥ ← dhījū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pavamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+asr̥gran ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+dhárīmaṇi ← dhárīman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+divyā́ḥ ← divyá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+asr̥kṣata ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sthā́virīḥ ← sthā́vira- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mr̥jánti ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+r̥ṣiṣāṇa ← r̥ṣiṣāṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vedhásaḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +208,7 @@ As noted above, asṛkṣata in c repeats ásṛkṣata in 2b, but they are func
 The formation of the hapax voc. ṛṣiṣāṇa is opaque. Grassmann’s gloss ‘dem Sänger freund’ reveals nothing about his analysis of the 2nd part; sim. Renou’s ‘propre aux Prophètes’ without further comment. With Geldner, the published translation assigns the 2nd member to √san ‘gain, win’, hence ‘winning seers’. If we maintain that analysis, the sense might be compared to ṛṣi-sáh- in IX.76.4, which means ‘vanquishing (the other) seers’, in poetic competition or the like. However, given the seṭ nature of √san and the persistent short vowel (-)san- in most of its nominal forms, this analysis is not entirely persuasive, esp. since the semantics are not absolutely compelling. AiG II.2.926 posits (without conviction) a suffix -sāna-, but also suggests a connection to the (pseudo-)part. -asāna- type (which is treated at AiG II.2.236-37), but it doesn’t fit the general profile of this group (on which see comm. ad IV.3.6). Perhaps -sānais better connected to √sā ‘bind’; cf. the noun viṣā́na- V.44.11, which has the merit of existing and whose long vowel is predictable. Hence ‘binding seers’ or ‘having the binding of seers’ - that is, holding them fast, commanding their loyalty or attention, as in pāda c. But in the absence of any further information, accentual, contextual, or formulaic, we can’t get much further.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 The first vs. of the new tṛca is in part a distillation of the previous tṛca.
@@ -181,3 +239,4 @@ Ergossen sind mit Milch wie Rosse geistesschnell nach deiner Art die himmlischen
 
 -ru-
 </details>
+

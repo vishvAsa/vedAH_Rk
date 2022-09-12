@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+daívyā ← daívya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+hótārā ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+puróhitā ← puróhita- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ánu ← ánu (invariable)  
+{}
+
+emi ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sādhuyā́ ← sādhuyā́ (invariable)  
+{}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+kṣétrasya ← kṣétra- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prátiveśam ← prátiveśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+amŕ̥tān ← amŕ̥ta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áprayuchataḥ ← áprayuchant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Den Götterpriestern, als dem ersten Priesterpaar, folg' graden Wegs ich auf dem
 
 -ru-
 </details>
+

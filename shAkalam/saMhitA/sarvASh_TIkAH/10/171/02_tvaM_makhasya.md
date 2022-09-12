@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dódhataḥ ← dódhat- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+makhásya ← makhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+bharaḥ ← √bhr̥- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tvacáḥ ← tvác- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ágachaḥ ← √gam- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+gr̥hám ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+somínaḥ ← somín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Du rissest aus der Haut heraus des wild erregten Kämpfers Kopf, Kamst in des So
 Ты отделил от кожи.  
 Ты отправился в дом жертвователя сомы.
 </details>
+

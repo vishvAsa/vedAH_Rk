@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+puróhitaḥ ← puróhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+saṁnayáḥ ← saṁnayá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vinayáḥ ← vinayá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+súṣṭutaḥ ← súṣṭuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yudhí ← yúdh- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+bhárate ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+cākṣmáḥ ← cākṣmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhánā ← dhána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+matī́ ← matí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tapati ← √tap- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tapyatúḥ ← tapyatú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +238,4 @@ Er ist der Führer, der da sammelt und zerstreut, er, hochgepriesen in der Schla
 Когда он, (воплощенный небесный) глаз, с помощью молитвы приносит награду, выигрыши,  
 То и жаркое солнце пылает в свое удовольствие.
 </details>
+

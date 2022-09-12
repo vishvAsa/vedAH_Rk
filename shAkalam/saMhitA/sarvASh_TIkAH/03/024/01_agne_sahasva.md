@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pŕ̥tanāḥ ← pŕ̥tanā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sáhasva ← √sah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+abhímātīḥ ← abhímāti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+asya ← √as- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+árātīḥ ← árāti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+duṣṭáraḥ ← duṣṭára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táran ← √tr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+várcaḥ ← várcas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajñávāhase ← yajñavāhas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +175,4 @@ Bezwing' die Heere Agni du, und alle Gegner schleudre fort; Besieg' die Bösen u
 Непобедимый, побеждающий недругов.  
 Дай блеск везущему жертву!
 </details>
+

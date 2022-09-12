@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+daṁsánābhyaḥ ← daṁsánā- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+vaiśvānarásya ← vaiśvānará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áriṇāt ← √rī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svapasyáyā ← svapasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ajāyata ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+maháyan ← √mahay- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pitárā ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́riretasā ← bhū́riretas- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,8 +169,6 @@ genre M
 तर्हि तेषामस्य कर्मणां मध्ये शोभनमेकं कर्मोदाह्रियतामित्याह - अयं खल्वग्निः उभा उभौ पितरा पितरौ, मातापितृस्थानीयौ वा । उभयत्रापि 'सुपां सुलुक्' इत्याकारः । द्यावापृथिवी द्यावापृथिव्यौ । द्विवचनस्य पूर्वसवर्ण ईकारः, 'दिवो द्यावा' इति द्यावादेशः, 'देवताद्वन्द्वे च' इति पूर्वोत्तरपदयोर्युगपत् प्रकृतिस्वरत्वम् । भूरिरेतसा भूरिरेतसौ स्थावरजङ्गमात्मकबहुविकारे महयन् पूजयन् प्रकाशयन् अजायत जायते । छान्दसो लङ् । यथा खलु कश्चित्सुजातः पुत्रः मातापितरौ भूरिरेतसौ युवानौ निजजन्मनालङ्कुर्वन् जायते एवमसौ जायते । इत्थं जन्मकाल एवास्य कुर्वाणस्य किन्नाम कर्म महच्छोभनं न भवतीति भावः । तस्मादीदृशोयमग्निरस्माकं जातं तमिमं पुत्रं पूतत्वतेजस्वित्वादिगुणं करोतु ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -160,7 +201,6 @@ Magnifying both parents, sky and earth,
 Rich in seed, was Agni born.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Aus den Meisterkräften des Vaisvanara ließ der einzige Seher mit schöner Schöpferkraft den hehren Samen fließen. Beide Eltern, die samenreichen Himmel und Erde, erhöhend wurde Agni geboren.
@@ -178,3 +218,4 @@ Der Menschenhort liess strömen durch des Schaffens Kunst aus seiner Fülle Gros
 Возвеличивая обоих родителей, Небо и Землю,  
 Обильных семенем, родился Агни.
 </details>
+

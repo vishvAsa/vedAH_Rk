@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+mártam ← márta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vipanyavaḥ ← vipanyú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+praṇetā́raḥ ← praṇetár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śrótāraḥ ← śrótar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yā́mahūtiṣu ← yā́mahūti- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +141,4 @@ Ihr preisenswerthen seid es, die den Menschen leiten mit Bedacht, erhören ihn b
 Смертного прямо в соответствии с (его) молитвой,  
 Вы слышите призывы, когда вы в походе.
 </details>
+

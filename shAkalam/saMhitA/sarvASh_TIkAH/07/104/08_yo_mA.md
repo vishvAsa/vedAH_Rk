@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+cárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pā́kena ← pā́ka- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhicáṣṭe ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ánr̥tebhiḥ ← ánr̥ta- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vácobhiḥ ← vácas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+kāśínā ← kāśí- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sáṁgr̥bhītāḥ ← √gr̥bhⁱ- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+ásan ← ásant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́sataḥ ← ā́sant- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vaktā́ ← vaktár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ Wer mich, wenn ich nichts arges denkend wandre, mit lügenhaften Zornesworten an
 Пусть превратится он в ничто, словно вода,  
 Захваченная в горсть, (этот) изрекатель ничтожного, о Индра!
 </details>
+

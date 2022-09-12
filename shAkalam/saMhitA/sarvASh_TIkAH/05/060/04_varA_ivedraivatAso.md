@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+híraṇyaiḥ ← híraṇya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+raivatā́saḥ ← raivatá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+varā́ḥ ← vará- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+pipiśre ← √piś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+svadhā́bhiḥ ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rátheṣu ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śréyāṁsaḥ ← śréyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+tavásaḥ ← tavás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cakrire ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+máhāṁsi ← máhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+tanū́ṣu ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Mit Goldgeschmeide schmückten sie die Leiber nach ihrer Art, wie reichgeborne F
 Очень красивые, для красоты (эти) сильные (боги) на колесницах  
 Собрали вместе знаки величия, (как и) на (своих) телах.
 </details>
+

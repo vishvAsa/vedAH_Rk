@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+svayám ← svayám (invariable)  
+{}
+
+vadāmi ← √vadⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+júṣṭam ← júṣṭa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mā́nuṣebhiḥ ← mā́nuṣa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+kāmáye ← √kam- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+kr̥ṇomi ← √kr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+táṁ-tam ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+brahmā́ṇam ← brahmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ŕ̥ṣim ← ŕ̥ṣi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sumedhā́m ← sumedhá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,3 +259,4 @@ Ich bin es, die ich selber das verkünde, was angenehm bei Göttern ist und Mens
 Кого возлюблю, того делаю могучим,  
 Того – брахманом, того – риши, того – мудрым.
 </details>
+

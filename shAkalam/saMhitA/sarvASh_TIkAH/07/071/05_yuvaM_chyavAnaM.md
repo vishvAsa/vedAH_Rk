@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+amumuktam ← √muc- (root)  
+{number:DU, person:2, mood:IND, tense:PLUPRF, voice:ACT}
+
+cyávānam ← cyávāna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jarásaḥ ← jarás- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+āśúm ← āśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+pedáve ← pedú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ūhathuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+átrim ← átri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+spartam ← √spr̥- (root)  
+{number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+támasaḥ ← támas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+dhātam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+jāhuṣám ← jāhuṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+śithiré ← śithirá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Ihr machtet frei vom Alter den Tschjavana und fuhrt herbei das schnelle Ross dem
 Атрии вы вызволили из беды, из мрака,  
 Джахушу устроили на свободе.
 </details>
+

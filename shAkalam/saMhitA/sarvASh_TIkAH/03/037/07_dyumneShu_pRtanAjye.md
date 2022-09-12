@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dyumnéṣu ← dyumná- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+pr̥tanā́jye ← pr̥tanā́jya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+pr̥tsutū́rṣu ← pr̥tsutúr- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+śrávassu ← śrávas- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+abhímātiṣu ← abhímāti- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sā́kṣva ← √sah- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +136,4 @@ Um Beute in der Heeresschlacht, um Gut in Kämpfen mit dem Feind; Besieg die Geg
 И в делах славы, связанных с победами в битвах,  
 О Индра, одерживай верх над преследователями!
 </details>
+

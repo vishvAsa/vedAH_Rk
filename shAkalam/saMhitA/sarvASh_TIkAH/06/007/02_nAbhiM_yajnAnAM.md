@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nā́bhim ← nā́bhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sádanam ← sádana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajñā́nām ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+āhāvám ← āhāvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahā́m ← máh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+navanta ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:INJ, tense:IPRF, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+adhvarā́ṇām ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rathyàm ← rathī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaiśvānarám ← vaiśvānará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+janayanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +184,7 @@ On mahā́m as acc. sg. masc. see AiG III.251, EWA s.v. mahā́nt, p. 338.
 The paradox of calling fire “a great watering trough” (āhāvá-) simply sharpens the slightly discordant image in 1c of Agni as ‘cup’. Although āhāvá- is clearly derived from ā́√hu, a standard lexeme for the oblations that Agni would be receiving, this particular noun is associated with a well in X.101.5 and is therefore associated with more mundane acts of pouring water (which of course should extinguish fire). Agni is a trough because the gods get their “water” there.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 These two vss. are paired, both ending with janayanta devā́ḥ and sharing an opening pāda with the structure ACC SG + GEN ACC SG + GEN; this NP structure is also found at the end of 1c and 2c (one iteration each), but is upended by GEN + ACC SG yajñásya ketúm in 2d. It is perhaps a measure of the sensitivity of the RV to subtle patterns that this syntactic metathesis feels strikingly disruptive. It may well be that the poet generated this disruptive order in order to call attention to this very phrase; see the importance of the word ketú- in vss. 5 and 6, with the comm. there. There is an important difference, however: here the “beacon of the sacrifice” must be Agni, whereas in vss. 5-6 it is the sun.
@@ -168,3 +217,4 @@ Der Opfer Nabel, ihn den Sitz der Schätze, begrüssten alle, ihn den grossen Ei
 Вайшванару, колесничего обрядов,  
 Знамя жертвы, породили боги.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+gavyā́ ← gavyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+purā́ ← purā́ (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+aśvayā́ ← aśvayā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+rathayā́ ← rathayā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+mahāmaha ← mahāmahá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+varivasyá ← √varivasy- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +154,4 @@ Und unsern Wunsch gewähre du nach Wagen und nach Ross und Rind, wie früher auc
 (Одержимым) желание иметь коров, коней, колесницы,  
 Свободный путь, о могущественный!
 </details>
+

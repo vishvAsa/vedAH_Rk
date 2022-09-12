@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular;; repeated line  
 popular  
 popular
+#### Morph
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pathíbhiḥ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+pūrvyébhiḥ ← pūrvyá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pareyúḥ ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pū́rve ← pū́rva- (nominal stem)  
+{}
+
+yátra ← yátra (invariable)  
+{}
+
+mádantā ← √mad- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+rā́jānā ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+devám ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paśyāsi ← √paś- (root)  
+{number:PL, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+váruṇam ← váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yamám ← yamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +226,4 @@ Geh vor, geh vor auf jenen alten Wegen, auf denen unsre Ahnen heimgegangen; Die 
 Обоих царей, радующихся поминальной жертве,  
 Яму и Варуну-бога ты должен будешь увидеть.
 </details>
+

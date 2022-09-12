@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ámartyasya ← ámartya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mártāḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+manāmahe ← √man- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jātávedasaḥ ← jātávedas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víprāsaḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,3 +134,4 @@ Viel Namen des unsterblichen erkennen wir, die Sterblichen, Des Wesenkenners, pr
 Имена у тебя, бессмертного,  
 (Мы,) вдохновенные, о Джатаведас.
 </details>
+

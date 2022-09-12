@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+āśuṣāṇā́saḥ ← √śvasⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+etā́ḥ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+iṣṭī́ḥ ← iṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+aśyāma ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+sácā ← sácā (invariable)  
+{}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+khyan ← √khyā- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +228,4 @@ Anfachend, Agni, diese Opfer mögen durch eure Hülfe Schätze wir erlangen, uns
 Да не проглядят нас Индра, Вишну, Маруты!  
 Защищайте вы нас всегда своими милостями!
 </details>
+

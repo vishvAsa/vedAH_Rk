@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śatrūyántaḥ ← √śatrūy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+tatasré ← √taṁs- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+yé ← yá- (pronoun)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ogaṇā́saḥ ← ogaṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vrā́dhantaḥ ← √vrādh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+amítrāḥ ← amítra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+andhéna ← andhá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sacantām ← √sac- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+támasā ← támas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+aktávaḥ ← aktú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sujyotíṣaḥ ← sujyotís- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syuḥ ← √as- 1 (root)  
+{number:PL, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Die Feinde, die verworfenen, o Indra, die mächtig trotzend unsre Güter rauben,
 Пусть (эти) недруги соединяться с непроглядным мраком!  
 Ярко освещенные ночи пусть восторжествуют над нами!
 </details>
+

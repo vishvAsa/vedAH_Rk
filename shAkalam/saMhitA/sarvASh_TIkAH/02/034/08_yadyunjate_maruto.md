@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rukmávakṣasaḥ ← rukmávakṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yuñjáte ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bháge ← bhága- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rátheṣu ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sudā́navaḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pinvate ← √pinv- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+śíśve ← śíśu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svásareṣu ← svásara- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mahī́m ← máh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rātáhaviṣe ← rātáhavis- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Wenn reiche Marut's ihr, die Brust mit Gold geschmückt, euch schirrt die Rosse 
 (То) как дойная корова (набухает молоком) для теленка на пастбище, они делают набухшей  
 Для человека, дающего жертву, великую жертвенную усладу.
 </details>
+

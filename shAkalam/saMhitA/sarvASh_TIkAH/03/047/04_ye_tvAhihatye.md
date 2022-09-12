@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahihátye ← ahihátya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ávardhan ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+gáviṣṭau ← gáviṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śāmbaré ← śāmbará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+anumádanti ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nūnám ← nūnám (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+marúdbhiḥ ← marút- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ságaṇaḥ ← ságaṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ Die, mächt'ger, dich im Kampf mit Ahi stärkten, beim Çambara, o Rosseherr, im
 Кто тебя сейчас приветствует как вдохновенные (певцы),-  
 Окруженный толпой (этих) Марутов, пей сому, о Индра!
 </details>
+

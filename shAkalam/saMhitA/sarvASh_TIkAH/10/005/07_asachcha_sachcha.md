@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásat ← ásant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sát ← √as- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+vyòman ← vyòman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áditeḥ ← áditi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jánman ← jánman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prathamajā́ḥ ← prathamajā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́yuni ← ā́yu- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:LOC, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +236,4 @@ Das Sein und Nichtsein ruht im höchsten Himmel, im Schooss der Aditi, im Quell 
 Агни же наш перворожденный закона  
 В древние времена, (он) бык и корова.
 </details>
+

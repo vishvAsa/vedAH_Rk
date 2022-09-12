@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dadhikrā́ḥ ← dadhikrā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṣṭī́ḥ ← kr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+páñca ← páñca- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tatāna ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+árvā ← árvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahasrasā́ḥ ← sahasrasā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śatasā́ḥ ← śatasā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+mádhvā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pr̥ṇáktu ← √pr̥c- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+vácāṁsi ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +186,6 @@ genre M
 यः **दधिक्राः** देवः **शवसा** बलेन **पञ्च** **कृष्टीः** पञ्च जनान् देवमनुष्यासुररक्षः पितृसंज्ञकान् निषादपञ्चमान् चतुरो वर्णान् वा **सूर्यः** **ज्योतिषा** तेजसा यथा जगदावृणोति तद्वत् **अपः** उदकानि **आ** **ततान** आतनोति । **सहस्रसाः** **शतसाः** शतानां सहस्राणां च दाता **वाजी** वेजनवान् **अर्वा** अरणकुशलः स देवः **मध्वा** मधुना मधुरेण फलेन **इमा** इमान्युक्तानि स्तुतिवचांसि **सं** **पृणक्तु** संयोजयतु ॥ ॥ १२ ॥
 </details>
 
-
 <details><summary>भट्टभास्करटीका</summary>
 
 दधीनि क्रामतीति 'जनसनखन' इति विट्, पूर्ववदात्वम् । ईदृशो ऽग्निः **पञ्च कृष्टीर्** मनुष्यान् चतुरो वर्णान् निषादपञ्चमान् **शवसा आततान** अन्नवत्त्वेन बलवत्त्वेन वा सुखवतीः करोति । छान्दसो लिट् ।
@@ -137,7 +194,6 @@ genre M
 
 किञ्च - **सहस्रसाश् शतसाश्** च बहुतरस्य बहुतमस्य प्रधानस्य संविभक्ता दाता वा भक्तेभ्यस्सहस्रं शतं वा सनोति ददातीति । तेनैव विट्, तेनैव चात्वम् । **वाजी** वेगवान् अन्नवान्वा । अर्वा अर्णशीलः । अर्तेः 'अन्येभ्योपि दृश्यते' इति वनिप् । एवं महाभागोग्निः **इमा** इमान्यस्मदीयानि **वचांसि मध्वा** मधुसदृशेन **शवसा** रसेन **सम्पृणक्तु** संसृजतु । ततो मधुराणि **शवसा** सुखानि स्वयम् एव श्रोष्यतीति भावः । अस्माकं श्रोतव्यानि वचनानि श्रुत्वा वचनार्थान् करोतु । अयञ्चाभिशंसनादस्मान्मुञ्चत्वित्याशास्महे ॥
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -173,7 +229,6 @@ May the strong steed, winning a hundred, a thousand,
 Fill with honey these words of ours.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Dadhikra hat sich mit seiner Kraft über die fünf Völker ausgedehnt wie der Sonnengott über die Gewässer mit seinem Lichte. Der Tausendgewinner, Hundertgewinner, der sieghafte Renner soll diese Worte mit Honig durchtränken.
@@ -191,3 +246,4 @@ Mit Kraft durchdrang Dadhikra alle Völker, gleichwie die Sonne mit dem Licht di
 Скакун, приносящий награды, завоевывающий тысячи, завоевывающий сотни,  
 Пусть пропитает медом эти слова!
 </details>
+

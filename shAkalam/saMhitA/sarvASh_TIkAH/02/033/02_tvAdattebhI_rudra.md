@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+rudra ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śáṁtamebhiḥ ← śáṁtama- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+tvā́dattebhiḥ ← tvā́datta- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+aśīya ← √naś- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:MED}
+
+bheṣajébhiḥ ← bheṣajá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+hímāḥ ← hímā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+dvéṣaḥ ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+vitarám ← vitarám (invariable)  
+{}
+
+ámīvāḥ ← ámīvā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+cātayasva ← √cat- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+víṣūcīḥ ← víṣvañc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +201,4 @@ Lass mich durch deine besten Arzeneien, o Rudra, hundert Jahre noch erleben; Ver
 Прочь от нас подальше ненависть, прочь нужду,  
 Прочь болезни разгони во все стороны!
 </details>
+

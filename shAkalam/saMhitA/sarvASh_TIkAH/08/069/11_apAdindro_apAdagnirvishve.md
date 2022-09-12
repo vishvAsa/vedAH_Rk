@@ -17,15 +17,70 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápāt ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ápāt ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amatsata ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+kṣayat ← √kṣi- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+saṁśíśvarīḥ ← saṁśíśvan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Getrunken hat Indra, getrunken Agni, alle Götter haben sich berauscht; Varuna, 
 
 -ru-
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+járanti ← √jr̥̄- ~ jūr- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mā́sāḥ ← mā́sa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+avakarśáyanti ← √kr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dyā́vaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+tanū́ḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vardhatām ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+vr̥ddhásya ← √vr̥dh- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+ca ← ca (invariable)  
+{}
+
+śasyámānā ← √śaṁs- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:PASS}
+
+stómebhiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +204,7 @@ Nonetheless I hold to this interpr. Although puráḥ + ABL is not a robust cons
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 Each of these vss. contains at least one derivative of nṛ́- ‘(superior) man’: 6a nṛmṇám, 6c nṛváti, 7c nṛ́tamāsaḥ, 8d nṛṣáhye.
@@ -178,3 +236,4 @@ Den Jahre nicht, noch Monde altern machen, den nicht der Lauf der Tage abzehrt, 
 Хоть он и вырос, тело его должно возрастать,  
 Прославляемое восхвалениями и гимнами.
 </details>
+

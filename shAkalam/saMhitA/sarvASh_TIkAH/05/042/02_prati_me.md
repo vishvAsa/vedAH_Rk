@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jagr̥bhyāt ← √gr̥bhⁱ- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hŕ̥dyam ← hŕ̥dya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sūnúm ← sūnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suśévam ← suśéva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+deváhitam ← deváhita- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+mayobhú ← mayobhú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mitré ← mitrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+váruṇe ← váruṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +245,4 @@ Mein Loblied möge Aditi ergreifen, so wie den holden Herzenssohn die Mutter, Da
 Дорогое священное слово, которое установлено богами,  
 Я (получаю его) у Митры, у Варуны (то,) которое ободряет.
 </details>
+

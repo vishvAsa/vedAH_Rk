@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+imáthā ← imáthā (invariable)  
+{}
+
+pratnáthā ← pratnáthā (invariable)  
+{}
+
+pūrváthā ← pūrváthā (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+viśváthā ← viśváthā (invariable)  
+{}
+
+barhiṣádam ← barhiṣád- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jyeṣṭḥátātim ← jyeṣṭḥátāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+svarvídam ← svarvíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dohase ← √duh- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pratīcīnám ← pratīcīná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥jánam ← vr̥jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+āśúm ← āśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jáyantam ← √ji- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+várdhase ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+yā́su ← yá- (pronoun)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +187,6 @@ genre M
 यद्वा - ईदृशं मेघं **दोहसे** । कम्? **वृजनं** बलकरम् उदकं **गिरा** गर्जितेनोपलक्षितः ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -183,7 +234,6 @@ As in the first old times, as all were wont, as now, he draweth forth the power 
      The Princedom throned on holy grass, who findeth light, swift, conquering in the' plants wherein he waxeth strong.
 </details>
 
-
 <details><summary>Keith</summary>
 
 Him, as aforetime, as of old, as always, as now,  
@@ -191,7 +241,6 @@ The prince, who hath his seat on the strew and knoweth the heaven,
 The favouring, the strong, thou milkest with thy speech,  
 The swift who is victor in those among whom thou dost wax.
 </details>
-
 
 <details><summary>Geldner</summary>
 
@@ -210,3 +259,4 @@ Auf alte Art, auf frühere Art, auf alle Art, auf diese Art melkst du [Indra] au
 Ты должен подоить (его) с помощью хвалебной песни, чтобы он повернулся к (нашей) общине,  
 (Этого) быстрого, завоевывающего (коров), от которых ты будешь укрепляться.
 </details>
+

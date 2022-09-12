@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+súṣutaḥ ← súṣuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ámīvā ← ámīvā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+bhavatu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+rákṣasā ← rákṣas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+dvayāvínaḥ ← dvayāvín- (nominal stem)  
+{case:NOM, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+matsata ← √mad- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+rásasya ← rása- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dráviṇasvantaḥ ← dráviṇasvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Dem Indra ströme schön gepresst, o Soma, durch, es bleibe fern Bedrängniss sa
 Да не опьянятся твоим соком двоедушные!  
 Пусть здесь будут соки сомы, приносящие богатство!
 </details>
+

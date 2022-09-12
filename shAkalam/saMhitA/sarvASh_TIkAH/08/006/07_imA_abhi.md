@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+nonumaḥ ← √nu- ~ nū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+ágreṣu ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+dhītáyaḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vipā́m ← víp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+didyútaḥ ← didyút- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śocíḥ ← śocís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +168,4 @@ Wir preisen seine Pfeile hier, die Flammen wie des Feuers Schein, Im Sängerkrei
 Молитвы – впереди вдохновенных (певцов),  
 Словно пламя Агни, словно выстрел.
 </details>
+

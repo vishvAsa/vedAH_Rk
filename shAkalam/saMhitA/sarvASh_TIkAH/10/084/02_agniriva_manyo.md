@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+manyo ← manyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sahasva ← √sah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+tviṣitáḥ ← √tvíṣ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+edhi ← √as- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+hūtáḥ ← √hū- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sahure ← sáhuri- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+senānī́ḥ ← senānī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhajasva ← √bhaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+hatvā́ya ← √han- (root)  
+{non-finite:CVB}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+védaḥ ← védas- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+mímānaḥ ← √mā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+mŕ̥dhaḥ ← mŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+nudasva ← √nud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +220,4 @@ Wie Feuer bist du glühend, starker Manju; gerufen sei, siegreicher, wie ein Fel
 
 -ru-
 </details>
+

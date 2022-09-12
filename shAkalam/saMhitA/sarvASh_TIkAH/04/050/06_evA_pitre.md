@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+evá ← evá (invariable)  
+{}
+
+pitré ← pitár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+viśvádevāya ← viśvádeva- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+havírbhiḥ ← havís- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suprajā́ḥ ← suprajā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vīrávantaḥ ← vīrávant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pátayaḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +184,7 @@ O Br̥haspati, may we, possessed of good offspring and of heroes, be  lords of r
 As indicated in the published introduction, this is the final vs. of the 1st section of the hymn and has the standard marks of a hymn-final summary vs. It is the best evidence that vss. 1-6 were a separate composition, only secondarily amalgamated with the following two sections. Nonetheless, I think it simply marks a pause and a transition to the thematically contrastive next section.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
 <details open><summary><h2>01-06 ...{Loading}...</h2></summary>
 
 As indicated in the published introduction, this section concerns the unitary figure (Indra-)Bṛhaspati, here insistently identified as Bṛhaspati: there are 7 occurrences of the name in 6 vss., one in each save for two in vs. 2.
@@ -175,3 +221,4 @@ So lasst dem Stier, dem Vater aller Götter, voll Demuth uns durch Tränk' und O
 О Брихаспати, да будем мы с прекрасным потомством,  
 С сыновьями-героями, повелителями богатств!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "सतोबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+madhyatáḥ ← madhyatáḥ (invariable)  
+{}
+
+médaḥ ← médas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ójiṣṭham ← ójiṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+údbhr̥tam ← √bhr̥- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+dadāmahe ← √dad- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ścótanti ← √ścut- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+stokā́ḥ ← stoká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tvací ← tvác- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devaśás ← devaśás (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+vihi ← √vī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Das stärkste Fett ist aus der Mitte dir geholt; dir haben wir es dargebracht; d
 Стекают для тебя капли, о Васу, на шкуру.  
 Прими их, (чтобы распределить) по богам!
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+śáṁsam ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śmasi ← √vaś- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+uśíjām ← uśíj- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+áhiḥ ← áhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajáḥ ← ajá- 2 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+budhnyàḥ ← budhnyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékapāt ← ékapad- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+cánaḥ ← cánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+r̥bhukṣā́ḥ ← r̥bhukṣā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tritáḥ ← tritá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+āśuhémā ← āśuhéman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+nápāt ← nápat- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śámi ← śámī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +245,4 @@ Und euer Lob, die ihr es wünscht, betreiben wir; der Wetterdrache und der rasch
 Трита, Рибхукшан, Савитар, Апам Напат,  
 Погоняющий коней, нашли удовольствие в (нашей) молитве, в (нашем) труде.
 </details>
+

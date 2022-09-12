@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥dhádrayaḥ ← r̥dhádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śyāvā́ḥ ← śyāvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vītávārāsaḥ ← vītávāra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mathrā́ḥ ← mathrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nemím ← nemí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+vāvr̥tuḥ ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +156,4 @@ Zehn schnelle Rappen des Ridhadrī mit langgestreckten Schwänzen drehten rollen
 Коней матхра с прямыми хвостами  
 Бегали по кругу –
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pátyate ← √pat- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+dákṣaḥ ← dákṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vedháse ← vedhás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+viśvā́yuḥ ← viśvā́yu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +157,4 @@ Dir gehört ja zu eigen dieser unsterbliche [oder ist amartia zu lesen?] Indu, w
 Принадлежит тебе, как скаковой конь,  
 Деятельный на протяжении (всей) жизни, – (тебе,) умелому.
 </details>
+

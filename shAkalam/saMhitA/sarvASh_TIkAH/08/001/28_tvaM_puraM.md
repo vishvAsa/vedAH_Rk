@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cariṣṇvàm ← cariṣṇú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+púram ← púr- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+piṇak ← √piṣ- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+śúṣṇasya ← śúṣṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vadhaíḥ ← vadhá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ádha ← ádha (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+bhā́ḥ ← bhā́s- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+caraḥ ← √carⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+bhúvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+hávyaḥ ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Des Çuschna wandelbare Burg hast durch Geschosse du zerschellt, So wandre nun, 
 Пусть ты последуешь за светом тотчас же,  
 О Индра, когда тебя будут звать.
 </details>
+

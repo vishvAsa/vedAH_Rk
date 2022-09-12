@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+áśvaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sukhám ← sukhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vóḷhā ← vóḷhar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hasanā́m ← hasanā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+upamantríṇaḥ ← upamantrín- (nominal stem)  
+{case:NOM, number:PL}
+
+bhedaú ← bhedá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+rómaṇvantau ← rómaṇvant- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śépaḥ ← śépa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ichati ← √iṣ- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+maṇḍū́kaḥ ← maṇḍū́ka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́r ← vā́r- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Das Wagenpferd wünscht einen leichtgehenden Wagen und munteren Zuspruch des Tre
 Лягушка же хочет воды.  
 Для Индры, о капля, растекайся вокруг!
 </details>
+

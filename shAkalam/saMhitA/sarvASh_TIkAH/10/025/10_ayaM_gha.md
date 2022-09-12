@@ -18,16 +18,71 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+mádaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+turáḥ ← turá- 1 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vardhata ← √vr̥dh- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kakṣī́vataḥ ← kakṣī́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+matím ← matí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vardhayat ← √vr̥dh- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+víprasya ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vívakṣase ← √vac- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Das ist fürwahr ein kräft'ger Trank, des Indra Liebling zeig' sich gross, Er i
 Могучего вдохновенного Какшиванта –  
 В опьянении (сомой) я хочу вам (это) провозгласить!
 </details>
+

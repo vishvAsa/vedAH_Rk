@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+akratū́n ← akratú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+grathínaḥ ← grathín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+mr̥dhrávācaḥ ← mr̥dhrávāc- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+aśraddhā́n ← aśraddhá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+avr̥dhā́n ← avr̥dhá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ayajñā́n ← ayajñá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+paṇī́n ← paṇí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prá-pra ← prá (invariable)  
+{}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+vivāya ← √vī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+áparān ← ápara- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áyajyūn ← áyajyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pū́rvaḥ ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +224,4 @@ Die unverständ'gen, ränkevollen Schmäher, die geiz'gen ohne Glauben, Gab' und
 Агни разогнал полностью этих дасью.  
 (Вырвавшись) вперед, он отбросил назад (их,) не жертвующих.
 </details>
+

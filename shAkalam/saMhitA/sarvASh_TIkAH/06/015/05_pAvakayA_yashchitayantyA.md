@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+citáyantyā ← √cit- (root)  
+{case:INS, gender:F, number:SG, tense:PRS, voice:ACT}
+
+kr̥pā́ ← kŕ̥p- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pāvakáyā ← pāvaká- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhānúnā ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+kṣā́man ← kṣā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rurucé ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+étaśasya ← étaśa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+ráṇe ← ráṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tū́rvan ← √tūr(v)- ~ tur- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ajáraḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ghr̥ṇé ← ghr̥ṇá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tatr̥ṣāṇáḥ ← √tr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +250,4 @@ Der auf der Erde strahlt wie mit des Morgens Glanz, mit seiner hellen, leuchtend
 Словно торжествующий победу в походе, в борьбе с Эташей,  
 Кто под(бегает), словно мучимый жаждой при солнечном зное (- к воде), нестареющий...
 </details>
+

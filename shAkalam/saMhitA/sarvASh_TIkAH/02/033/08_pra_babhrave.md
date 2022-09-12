@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+babhráve ← babhrú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śvitīcé ← śvityáñc- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vr̥ṣabhā́ya ← vr̥ṣabhá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+īrayāmi ← √īr- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mahī́m ← máh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kalmalīkínam ← kalmalīkín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+namasyá ← √namasy- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+gr̥ṇīmási ← √gr̥̄- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+rudrásya ← rudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tveṣám ← tveṣá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +199,4 @@ Dem braunen Stiere, ihm dem schöngeschmückten, lass froh ein grosses Loblied i
 Я поклоняюсь пламенному поклонениями.  
 Мы воспеваем буйное имя Рудры.
 </details>
+

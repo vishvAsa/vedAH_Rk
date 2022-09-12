@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhr̥ṣṭāḥ ← ádhr̥ṣṭa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+táviṣīḥ ← táviṣī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+u ← u (invariable)  
+{}
+
+ástr̥tam ← ástr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+vr̥traghnáḥ ← vr̥trahán- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ahardŕ̥śaḥ ← ahardŕ̥ś- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bekanā́ṭān ← bekanā́ṭa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+paṇī́n ← paṇí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Und ist nicht gross, unüberwindlich seine Kraft des Vritratödters Uebermacht? 
 Всех беканатов, смотрящих на солнце,  
 А также пани Индра пре(восходит) силой духа.
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bravīmi ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agnijihvā́ḥ ← agnijihvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥dūdárāḥ ← r̥dūdára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śr̥ṇavan ← √śru- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samrā́jaḥ ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yúvānaḥ ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ādityā́saḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+paprathānā́ḥ ← √prathⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +203,4 @@ Euch sprech' ich aus, o Welten, dieses Loblied, die feuerzung'nen, holden, möge
 Митра, Варуна, юные самодержцы  
 Адитьи, поэты с широко распространившейся (славой)!
 </details>
+

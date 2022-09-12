@@ -15,13 +15,53 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+svādhyàḥ ← svādhī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+nidadhiré ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+nr̥cákṣasam ← nr̥cákṣas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vipra ← vípra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sukrátum ← sukrátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víprāsaḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +180,4 @@ Die, die sind, Agni, wahrhaft fromm, die, weiser, dich den Weltbeschauer eingese
 (Те,) что устроили тебя, смотрящего на людей, о вдохновенный  
 Бог, вдохновенные – (тебя) с прекрасной силой духа.
 </details>
+

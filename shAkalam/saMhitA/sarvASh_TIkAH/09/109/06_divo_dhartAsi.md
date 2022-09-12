@@ -14,12 +14,40 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dhartā́ ← dhartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pīyū́ṣaḥ ← pīyū́ṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śukráḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+satyé ← satyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vídharman ← vídharman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -90,7 +118,7 @@ You are the supporter of heaven, the gleaming beestings. In your real  expansion
 On Soma’s expansion (vídharmaṇ(i) see comm. ad IX.4.9, 64.9.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 All three vss. contain the impv. pavasva. Vss. 5-6 both contain śukrá-, also found in 3. And pīyū́ṣaḥ in 6 reprises the same word at the end of 3.
@@ -119,3 +147,4 @@ Des Himmels Träger – und helle Biestmilch, im wahren Lichtraum – du schnell
 Ты поддерживатель неба, светлые сливки.  
 Очищайся в (своем) истинном распространении как захватчик награды!
 </details>
+

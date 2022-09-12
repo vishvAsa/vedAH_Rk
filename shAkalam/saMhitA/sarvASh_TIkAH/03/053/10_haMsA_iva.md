@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+haṁsā́ḥ ← haṁsá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+kr̥ṇutha ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ślókam ← ślóka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+mádantaḥ ← √mad- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sácā ← sácā (invariable)  
+{}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nr̥cakṣasaḥ ← nr̥cákṣas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+r̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+viprāḥ ← vípra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+kuśikāḥ ← kuśiká- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pibadhvam ← √pā- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+somyám ← somyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +209,6 @@ The published translation does not recognize or render the idiom ví √pā, fou
 However, it is also possible that the ví represents the cross-species aspect of the drinking party: the mortal Kuśikas are urged to drink along with the gods, but the gathering may be segregated. So perhaps a tr. “drink apart, along with the gods”; such a notion seems to underlie Renou’s “Buvez séparément avec les dieux.” It would contrast with a true symposium expressed by sám √pā also in the middle (see IV.35.7, 9) and in fact might allude to that idiom, given the well-known polarization of ví and sám. Another possibility is Sāyaṇa’s parasparavyatihāreṇa ‘by mutual interchange, alternately’. I am weakly inclined towards the pressing stone interpretation, though also somewhat drawn to the cross-species one. And I would also point out the resonance of the preverb ví with viśvā́mitraḥ (9c) and viprāḥ (10c).
 </details>
 
-
 <details><summary>Griffith</summary>
 
 Like swans, prepare a song of praise with pressing-stones, glad in your hymns with juice poured forth in sacrifice.  
@@ -175,3 +232,4 @@ Wie Gänse macht ihr Lärm mit den Somasteinen mit Liedern sprudelnd an dem Opfe
 О вдохновенные риши со взглядом героя, вместе с богами  
 Напивайтесь сладости сомы, о потомки Кушики.
 </details>
+

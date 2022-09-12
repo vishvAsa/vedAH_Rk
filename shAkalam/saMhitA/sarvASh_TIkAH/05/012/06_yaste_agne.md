@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; line affected by realignment  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ī́ṭṭe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aruṣásya ← aruṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sápāti ← √sap- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+kṣáyaḥ ← kṣáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thúḥ ← pr̥thú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sādhúḥ ← sādhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+náhuṣasya ← náhuṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prasársrāṇasya ← √sr̥- 2 (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+śéṣaḥ ← śéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Wer, Agni, dir Verehrung weiht in Demuth, und hegt das heil'ge Werk des rothen S
 Пусть ему достанется обширное и хорошее жилище  
 И потомство Нахуши, сильно распространившегося (в своих детях)!
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+madacyútam ← madacyút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+dívaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+duhuḥ ← √duh- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+sahásradhāram ← sahásradhāra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bíbhratam ← √bhr̥- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vásūni ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +148,7 @@ The accentuation of dívaḥ poses problems. Pace Geldner (n. 11b), who consider
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/11-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
 
 These two vss. are syntactically independent but both concern Soma as bull (vṛṣabhá- 11b, vṛ́ṣan- 12a).
@@ -145,3 +179,4 @@ Sie molken diesen Himmelsstier, der Rausch erregt und der in tausend Strömen fl
 Вызывающего опьянение быка с тысячей потоков,  
 Несущего все блага.
 </details>
+

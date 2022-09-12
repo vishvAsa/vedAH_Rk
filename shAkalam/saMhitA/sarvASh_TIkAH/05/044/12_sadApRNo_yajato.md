@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dvíṣaḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sadāpr̥ṇáḥ ← sadāpr̥ṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vadhīt ← √vadhⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+yajatáḥ ← yajatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bāhuvr̥ktáḥ ← bāhuvr̥ktá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+śrutavít ← śrutavíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táryaḥ ← tárya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+bhā́ti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+várā ← vára- 2 (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+bhájate ← √bhaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+gaṇám ← gaṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+suprayā́vabhiḥ ← suprayā́van- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +244,4 @@ Der stets spendende, ehrwürdige jage die Feinde hinweg, Bahuvrikta, ^rutavid, T
 Он идет навстречу обоим желанным вознаграждениям и сияет,  
 Так как входит в состав сообщества (певцов), чьи дела идут хорошо.
 </details>
+

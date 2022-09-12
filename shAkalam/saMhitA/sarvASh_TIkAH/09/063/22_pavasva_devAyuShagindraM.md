@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+āyuṣák ← āyuṣák (invariable)  
+{}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+gachatu ← √gam- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhármaṇā ← dhárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+roha ← √ruh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vāyúm ← vāyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +145,7 @@ On āyuṣák (also IX.25.5) see the sensible disc. of Scarlatta (589-90). Note 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/22-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 A form of páva- in each vs.: 22a pávasva, 23a pávamāna, 24a pavase, a pattern that is repeated in the next tṛca.
@@ -140,3 +174,4 @@ O riesle, Gott, mit Kraft begabt, in Indra gehe ein dein Rausch, Zu Vaju steige 
 
 -ru-
 </details>
+

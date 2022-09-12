@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ketúḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+śóśucatyāḥ ← √śuc- (root)  
+{case:ABL, gender:F, number:SG, tense:PRS, voice:ACT}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+asinvā́ ← asinvá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+hetíḥ ← hetí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vartatām ← √vr̥t- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áśmā ← áśman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sr̥jānáḥ ← √sr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vidhya ← √vyadh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dróghamitrān ← dróghamitra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+héṣasā ← héṣas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tápiṣṭhena ← tápiṣṭha- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +216,4 @@ Gleich wie der Schein der hellen Morgenröthe eil' unersättlich vor dein Pfeil,
 Как камень, брошенный с неба, порази  
 Друзей-обманщиков раскаленным оружием!
 </details>
+

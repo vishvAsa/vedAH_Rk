@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āpáyaḥ ← āpí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+hayé ← hayé (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+stha ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+mr̥ḷata ← √mr̥ḍ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+nā́dhamānāya ← √nādh- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+madhyamavā́ṭ ← madhyamaváh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥té ← r̥tá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+āpíṣu ← āpí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+śramiṣma ← √śramⁱ- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+yuṣmā́vatsu ← yuṣmā́vant- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Wohlan, ihr Götter, ihr ja seid verwandt uns, so seid mir gnädig, der ich zu e
 Да не будет ваша колесница везти (вас) не спеша на (наш) обряд!  
 Да не устанем мы при таких друзьях, как вы!
 </details>
+

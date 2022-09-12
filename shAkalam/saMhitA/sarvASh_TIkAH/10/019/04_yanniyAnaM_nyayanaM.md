@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+niyā́nam ← niyā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nyáyanam ← nyáyana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+parā́yaṇam ← parā́yaṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+saṁjñā́nam ← saṁjñā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āvártanam ← āvártana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nivártanam ← nivártana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +169,4 @@ Der ihr Entfernen, der ihr Nahn, Zusammen-, Auseinandergehn, Ihr Heimgehn und zu
 Приближение, возвращение  
 (И) кто пастух, того тоже.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhvaryavaḥ ← adhvaryú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+aṁśúm ← aṁśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aruṇám ← aruṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dugdhám ← √duh- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+juhótana ← √hu- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kṣitīnā́m ← kṣití- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vr̥ṣabhā́ya ← vr̥ṣabhá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+avapā́nam ← avapā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gaurā́t ← gaurá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+védīyān ← védīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ichán ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+sutásomam ← sutásoma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvā́hā ← viśvā́hā (invariable)  
+{}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Ihr Priester, dem Gebieter aller Menschen giesst goldnen Soma zu, den frisch gem
 Индра знает место для питья лучше, чем бык-гаура (водопой).  
 Каждый день он направляется на поиски выжавшего сому.
 </details>
+

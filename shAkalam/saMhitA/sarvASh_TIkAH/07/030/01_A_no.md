@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śuṣmin ← śuṣmín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vr̥dháḥ ← vr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+nr̥mṇā́ya ← nr̥mṇá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+nr̥pate ← nr̥páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suvajra ← suvájra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kṣatrā́ya ← kṣatrá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+paúṁsyāya ← paúṁsya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Komm her, o Gott, zu uns mit Kraft, du starker, und mehre, Indra, diese unsre Ha
 Для великого мужества, о господин мужей, о (ты) с прекрасной ваджрой,  
 Мощно – для власти, для геройского подвига, о отважный!
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dharṇasím ← dharṇasí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+śúṣṇe ← śúṣṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dásyavi ← dásyu- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jaghantha ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+śr̥ṇviṣé ← √śru- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+ugra ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +156,4 @@ Du, Indra, warfst den starken Blitz dem Dämon Çuschna auf das Haupt, Als Stier
 Крепкой ваджрой, по дасью –  
 Ведь ты слывешь грозным быком.
 </details>
+

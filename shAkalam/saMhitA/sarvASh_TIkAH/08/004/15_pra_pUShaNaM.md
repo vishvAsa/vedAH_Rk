@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+prá ← prá (invariable)  
+{}
+
+pūṣáṇam ← pūṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+purūvásum ← purūvásu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yújyāya ← yújya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śakra ← śakrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śikṣa ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+túje ← √tuj- (root)  
+{case:DAT, number:SG}
+
+vimocana ← vimócana- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +185,4 @@ Den reichen Puschan wählen wir zuerst uns zum Genossen aus; Sei hold, o starker
 О могучий, многопризываемый, сделай нам возможным с помощью молитвы  
 Прорыв к богатству, о распрягающий (коней)!
 </details>
+

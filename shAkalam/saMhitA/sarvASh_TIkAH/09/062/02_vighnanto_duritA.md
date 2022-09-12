@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+duritā́ ← duritá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vighnántaḥ ← √han- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sugā́ ← sugá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tokā́ya ← toká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:NOM, number:PL}
+
+árvate ← árvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kr̥ṇvántaḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+tánā ← tán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,7 +133,7 @@ Note the juxtaposition of the opposites duritā́lit. ‘ill-goings’ (pāda a)
 My tr. follows Geldner in taking árvate parallel to tokā́ya “for our offsping and for our steed”; I am somewhat tempted to take árvate as an anticipatory parallel to gáve in 3a, with which it forms a more natural class (“making wide space for our steed and for our cow”), but I can’t see how to do that without brutally splitting up 2c, since kṛṇvántaḥ is required to govern sugā́in 2b.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 No particular sign of unity in this tṛca, though all three vss. concern the journey of the soma drops across the filter and towards the milk mixture and the rest of the ritual (as do vast numbers of other vss. in IX, of course). Vss. 2 and 3 also both contain the pres. part.
@@ -136,3 +164,4 @@ Verjagend vieles Ungemach, die raschen, schaffend freie Bahn Dem Stamm, den Ross
 
 -ru-
 </details>
+

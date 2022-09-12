@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ávaraḥ ← ávara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+páraḥ ← pára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vádete ← √vadⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+yátra ← yátra (invariable)  
+{}
+
+kataráḥ ← katará- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+nau ← ahám (pronoun)  
+{case:ACC, number:DU}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+yajñanyòḥ ← yajñanī́- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+sadhamā́dam ← sadhamā́da- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śekuḥ ← √śak- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+nákṣanta ← √nakṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+vocat ← √vac- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +236,4 @@ Wo sich der untre und der obre sprechen, wer weiss das von uns Opferleitern beid
 Друзья устроили общее праздничное собрание.  
 Они достигли жертвы. Кто это провозгласит?
 </details>
+

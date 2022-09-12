@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+jātávedasam ← jātávedas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pányāṁsam ← pányaṁs- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devátāti ← devátāt- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+údyatā ← √yam- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+aírayat ← √īr- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+havyā́ni ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,3 +134,4 @@ Den schönen, der die Wesen kennt, der die gereichten Opfer bringt, Zum Himmel z
 
 -ru-
 </details>
+

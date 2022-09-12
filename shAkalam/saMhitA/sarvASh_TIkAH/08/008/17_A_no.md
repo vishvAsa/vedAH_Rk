@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+gantam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+riśādasā ← riśā́das- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+purubhujā ← purubhuj- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥tám ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+suśríyaḥ ← suśrī́- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+abhíṣṭaye ← abhíṣṭi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+dātam ← √dā- 1 (root)  
+{number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +200,4 @@ Kommt her zu diesem unsern Lob, o Feindvertilger, reich an Lust, Macht reich an 
 Сделайте нас богатыми блеском, о два мужа,  
 Дайте эти (блага) в поддержку нам!
 </details>
+

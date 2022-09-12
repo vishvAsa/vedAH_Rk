@@ -18,16 +18,77 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+gha ← gha (invariable)  
+{}
+
+kr̥ṇávate ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+niṣkám ← niṣká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+divaḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitar ← duhitár- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+srájam ← sráj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+duṣvápnyam ← duṣvápnya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sárvam ← sárva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+trité ← tritá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+āptyé ← āptyá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dadmasi ← √dā- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+anehásaḥ ← anehás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+suūtáyaḥ ← suūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +249,4 @@ Legt er sich einen Halsschmuck an und Blumenkranz, o Himmelskind, zu Trita Aptia
 Безошибочны ваши поддержки,  
 Хорошо поддерживают ваши поддержки.
 </details>
+

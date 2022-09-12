@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámāt ← áma- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+bhiyásā ← bhiyás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+bhū́miḥ ← bhū́mi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ejati ← √ej- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+kṣarati ← √kṣar- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+naúḥ ← naú- ~ nā́v- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pūrṇā́ ← √pr̥̄- 1 (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+vyáthiḥ ← vyáthi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yatī́ ← √i- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+citáyante ← √cit- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+dūredŕ̥śaḥ ← dūredŕ̥ś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+émabhiḥ ← éman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+antár ← antár (invariable)  
+{}
+
+mahé ← mahá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yetire ← √yat- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +224,4 @@ Die Erde bebt aus Furcht vor ihrem Ungestüm, sie regt sich wie ein volles Schif
 (Те) видные издалека, что приметны (своими) переходами,  
 Мужи (-Маруты) сомкнули ряды для великой жертвенной раздачи внутри.
 </details>
+

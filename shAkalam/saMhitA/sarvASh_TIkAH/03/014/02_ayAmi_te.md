@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áyāmi ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+náma:uktim ← náma:ukti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+cétate ← √cit- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ŕ̥tāvaḥ ← ŕ̥tāvan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sahasvaḥ ← sáhasvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+satsi ← √sad- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+vakṣi ← √vah- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+vidúṣaḥ ← √vid- 2 (root)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:ACT}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yajatra ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Verehrung ward geweiht dir, nimm sie an denn, o heil'ger, starker, der du darauf
 Как знаток, привези знатоков! Усаживайся  
 Посреди жертвенной соломы-на помощь (нам), о достойный жертв!
 </details>
+

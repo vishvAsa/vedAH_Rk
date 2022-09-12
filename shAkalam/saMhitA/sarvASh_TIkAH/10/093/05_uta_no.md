@@ -16,14 +16,60 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vr̥ṣaṇvasū ← vŕ̥ṣaṇvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sádanāya ← sádana- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sadhanyā̀ ← sadhanī́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sū́ryāmā́sā ← sū́ryāmā́s- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+sácā ← sácā (invariable)  
+{}
+
+sā́di ← √sad- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áhiḥ ← áhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+budhnéṣu ← budhná- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+budhnyàḥ ← budhnyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +187,4 @@ Und naht euch ihr beiden stierkräftigen Gefährten, Sonne und Mond dem Sitze un
 
 -ru-
 </details>
+

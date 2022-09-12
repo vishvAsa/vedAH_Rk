@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+devā́ ← devá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+nr̥cákṣasā ← nr̥cákṣas- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+daívyā ← daívya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+hótārā ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +157,4 @@ Die beiden Männer-schauenden, die Götterpriester rufe ich; Ein Stier ist Indu,
 зову я.  
 Павамана – (это) Индра бык.
 </details>
+

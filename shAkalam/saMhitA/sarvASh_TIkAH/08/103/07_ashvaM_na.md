@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+rathyàm ← rathī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudā́navaḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devayávaḥ ← devayú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marmr̥jyánte ← √mr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+dasma ← dasmá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tánaye ← tánaya- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+toké ← toká- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:N, number:DU}
+
+viśpate ← viśpáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghónām ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+párṣi ← √pr̥- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ Mit Liedern schmücken gleich wie eines Wagens Ross, die frommen, gabenreichen i
 (Поддержи) оба (рода) в детях и внуках, о чудесный, о господин племен!  
 Наполни способность дарить у щедрых покровителей!
 </details>
+

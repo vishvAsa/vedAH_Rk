@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+gavéṣaṇaḥ ← gavéṣaṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pŕ̥dākusānuḥ ← pŕ̥dākusānu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajatáḥ ← yajatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+bhū́yasaḥ ← bhū́yaṁs- (nominal stem)  
+{case:ACC, number:PL}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhū́rṇim ← bhū́rṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥bhā́ ← gŕ̥bh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+nayat ← √nī- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+purás ← purás (invariable)  
+{}
+
+tujā́ ← túj- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Der (Held), dessen Oberfläche wie eine Schlangenhaut glänzt, der ehrwürdige, 
 Пусть приведет горячего коня, с быстрой хваткой –  
 Индру для питья сомы.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́yan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+divyā́ḥ ← divyá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dŕ̥tim ← dŕ̥ti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sarasī́ ← sarasī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śáyānam ← √śī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+śúṣkam ← śúṣka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+māyúḥ ← māyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vatsínīnām ← vatsín- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+átra ← átra (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+maṇḍū́kānām ← maṇḍū́ka- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+vagnúḥ ← vagnú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +243,4 @@ Wenn Himmelsflut auf diesen sich herabliess, der wie ein trockner Schlauch im Su
 То кваканье лягушек соединяется там (в хор),  
 Словно мычанье коров с телятами.
 </details>
+

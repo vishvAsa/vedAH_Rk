@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+áhnaḥ ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+śnathayaḥ ← √śnathⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+trís ← trís (invariable)  
+{}
+
+vaitaséna ← vaitasá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ávyatyai ← ávyant- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pr̥ṇāsi ← √pr̥̄- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sma ← sma (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+āyam ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+kétam ← kéta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+púrūravaḥ ← purūrávas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+āsīḥ ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vīra ← vīrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +239,4 @@ Dreimal des Tages stachst du mich mit der Rute, und du ließest mir, wenn ich ke
 
 -ru-
 </details>
+

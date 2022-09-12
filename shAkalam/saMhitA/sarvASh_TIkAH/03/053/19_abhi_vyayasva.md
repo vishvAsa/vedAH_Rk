@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+khadirásya ← khadirá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sā́ram ← sā́ra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vyayasva ← √vyā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śiṁśápāyām ← śiṁśápā- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+spandané ← spandaná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ákṣa ← ákṣa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vīḷáyasva ← √vīḍ- ~ √vīḷ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vīḷita ← √vīḍ- ~ √vīḷ- (root)  
+{case:VOC, gender:M, number:SG, non-finite:PPP}
+
+vīḷo ← vīḷú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmā́t ← ayám (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+jīhipaḥ ← √hā- 2 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yā́māt ← yā́ma- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

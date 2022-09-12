@@ -15,13 +15,56 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+tū́yam ← tū́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́viṣṭam ← √yu- 1 (root)  
+{number:DU, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+anyā́n ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+aratam ← √r̥- 1 (root)  
+{number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +195,4 @@ Gewähret gnädig das Gebet der Männer, kommet eilig her; Nicht wendet euch zu 
 Быстро приезжайте!  
 Не попадите к другим!
 </details>
+

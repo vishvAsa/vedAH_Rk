@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+jóṣam ← jóṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mandasva ← √mand- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ugra ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+aśnuvantu ← √naś- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yajñā́saḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+hávāsaḥ ← háva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+puruhūtám ← puruhūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dhī́ḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yamyāḥ ← √yam- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +255,4 @@ Ergötze dich nach Lust denn, o gewalt'ger; es mögen diese Opfer dich erreichen
 Эти наши призывы многопризываемого (пусть) до(стигнут)!  
 Эта молитва, о Индра, пусть склонит тебя к помощи!
 </details>
+

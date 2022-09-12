@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cékitānaḥ ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ábodhi ← √budh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+kavīnā́m ← kaví- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+padavī́ḥ ← padavī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devayádbhiḥ ← √devay- (UNK_TYPE)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+pr̥thupā́jāḥ ← pr̥thupā́jas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sámiddhaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ápa ← ápa (invariable)  
+{}
+
+āvar ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dvā́rā ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+támasaḥ ← támas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+váhniḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +207,4 @@ Die Morgenröthen weckte Agni strahlend, als Priester er, der Führer weiser Sä
 Широкогрудый, зажженный почитателями богов,  
 Возница (жертвы), он растворил врата мрака.
 </details>
+

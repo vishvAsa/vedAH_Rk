@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+āsan ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+paridháyaḥ ← paridhí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kr̥tā́ḥ ← √kr̥- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+samídhaḥ ← samídh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tanvānā́ḥ ← √tan- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ábadhnan ← √bandh- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+paśúm ← paśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+púruṣam ← púruṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +198,4 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 Когда боги, совершая жертвоприношение,  
 Привязали Пурушу как (жертвенное) животное.
 </details>
+

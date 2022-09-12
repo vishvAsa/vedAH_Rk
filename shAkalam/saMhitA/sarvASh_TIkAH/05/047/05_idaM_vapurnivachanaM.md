@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+janāsaḥ ← jána- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+nivácanam ← nivácana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vápuḥ ← vápus- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+cáranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tasthúḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+anyé ← anyá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+bibhr̥táḥ ← √bhr̥- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dvé ← dvá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+īm ← īm (invariable)  
+{}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ihéha ← ihá (invariable)  
+{}
+
+jāté ← √janⁱ- (root)  
+{case:NOM, gender:F, number:DU, non-finite:PPP}
+
+sábandhū ← sábandhu- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yamyā̀ ← yamī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +215,7 @@ The second hemistich does continue the ritual and cosmic focus of the rest of th
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/047/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/047/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 Note the parallel openings of 4a catvā́ra īm bibhrati … and 5c dvé yád īm bibhṛtáḥ … But this parallelism gains complexity from the fact that √bhṛ is used in two different senses: in 4 it means ‘carry’, but in 6 it refers to the bearing of children.
@@ -189,3 +247,4 @@ Das ist, o Menschen, wunderbar zu sagen, dass Ströme gehn, und still die Wasser
 Что две иные, чем мать, носят его,  
 Родившиеся одна тут, другая там, (но при этом) близнецы (и) родственницы.
 </details>
+

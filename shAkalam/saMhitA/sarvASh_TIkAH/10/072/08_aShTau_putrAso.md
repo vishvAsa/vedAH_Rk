@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+áditeḥ ← áditi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+aṣṭaú ← aṣṭā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+putrā́saḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jātā́ḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+pári ← pári (invariable)  
+{}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ait ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+saptábhiḥ ← saptá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+āsyat ← √as- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mārtāṇḍám ← mārtāṇḍá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+párā ← párā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +186,4 @@ Acht Sähne sind's der Aditi, die ihrem Leib entsprungen sind; Den Göttern füh
 С семерыми она присоединилась к богам,  
 Мартанду отбросила прочь.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ānámam ← √nam- 1 (root)  
+{case:ACC, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥tāyaté ← √r̥tāy- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+dā́ti ← √dā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+priyā́ṇi ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +170,4 @@ Die Götter her zu lenken weiss der Gott ins Haus dem frommen Mann, Er giebt ihm
 Богов в дом для того, кто любит закон.  
 Он дает самые излюбленные блага.
 </details>
+

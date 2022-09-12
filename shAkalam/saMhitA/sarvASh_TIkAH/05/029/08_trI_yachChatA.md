@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ághaḥ ← √ghas- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+mā́ḥ ← mā́s- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahiṣā́ṇām ← mahiṣá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śatā́ ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+trī́ ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ápāḥ ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárāṁsi ← sáras- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+somyā́ ← somyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+trī́ ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ahvanta ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kārám ← kārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bháram ← bhára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jaghā́na ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +244,4 @@ Als der dreihundert Büffel Fleisch du assest, drei Seen Soma's, mächtiger, du 
 Словно победный клич, все боги провозгласили добычу  
 Индре, после того как он убил дракона.
 </details>
+

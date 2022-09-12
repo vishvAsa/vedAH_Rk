@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sakhyébhiḥ ← sakhyá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+śivébhiḥ ← śivá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahī́bhiḥ ← máh- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+saraṇyán ← √saraṇy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+bahulám ← bahulá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sáṁtarutram ← sáṁtarutra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suvā́cam ← suvā́c- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yaśásam ← yaśás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +229,4 @@ Komm her zu uns mit segensreicher Freundschaft, mit grossen Hülfen eilend du, d
 Создай нам обильное богатство, выручающее (в опасности),  
 Славную долю, заключающуюся в красноречии!
 </details>
+

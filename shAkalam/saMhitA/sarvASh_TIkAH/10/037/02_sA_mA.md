@@ -16,14 +16,87 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+pātu ← √pā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+satyóktiḥ ← satyókti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+áhāni ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tatánan ← √tan- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+éjati ← √ej- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+viśate ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+viśvā́hā ← viśvā́hā (invariable)  
+{}
+
+viśvā́hā ← viśvā́hā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +256,4 @@ Von allen Seiten schütze mich dies wahre Wort, wo Erd' und Himmel und der Tage 
 Все другое, что движется, отдыхает;  
 (Но) повсюду (струятся) воды, повсюду восходит солнце.
 </details>
+

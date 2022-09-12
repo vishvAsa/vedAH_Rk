@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+caskanda ← √skand- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+drapsáḥ ← drapsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prathamā́n ← prathamá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+pū́rvaḥ ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+samānám ← samāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saṁcárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+drapsám ← drapsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hótrāḥ ← hótrā- 1 (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+juhomi ← √hu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+saptá ← saptá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +239,4 @@ Der Tropfen ist wie in den ersten Tagen herabgefallen in diesen Schooss, und in 
 Стремящуюся присоединиться к общему лону каплю  
 Я возливаю в соответствии с семью обязанностями хотара.
 </details>
+

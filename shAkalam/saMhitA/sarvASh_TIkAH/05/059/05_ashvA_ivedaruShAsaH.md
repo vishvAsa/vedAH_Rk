@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aruṣā́saḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+sábandhavaḥ ← sábandhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+prayúdhaḥ ← prayúdh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śū́rāḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+yuyudhuḥ ← √yudh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+máryāḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvŕ̥dhaḥ ← suvŕ̥dh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vāvr̥dhuḥ ← √vr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+minanti ← √mī- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vr̥ṣṭíbhiḥ ← vr̥ṣṭí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +240,4 @@ Wie flammenrother Rosse eng verbundne Schar, Vorkämpfern gleichend kämpfen tap
 Словно юноши прекрасного роста, выросли (эти) мужи.  
 Струями дождя они уменьшают глаз солнца.
 </details>
+

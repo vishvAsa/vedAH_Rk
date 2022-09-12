@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rā́jñaḥ ← rā́jan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ādityā́nām ← ādityá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhuvanacyavā́nām ← bhuvanacyavá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mahā́manasām ← mahā́manas- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ghóṣaḥ ← ghóṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jáyatām ← √ji- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +187,4 @@ Des Königs Varuna, des Helden Indra, der Maruts, der Aditja's Schar ist mächti
 
 -ru-
 </details>
+

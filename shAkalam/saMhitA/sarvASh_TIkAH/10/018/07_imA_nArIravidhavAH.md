@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+avidhavā́ḥ ← avidhavā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+nā́rīḥ ← nā́rī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+supátnīḥ ← supátnī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́ñjanena ← ā́ñjana- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sarpíṣā ← sarpís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+viśantu ← √viś- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+anamīvā́ḥ ← anamīvá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+anaśrávaḥ ← anaśrú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+surátnāḥ ← surátna- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+jánayaḥ ← jáni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+rohantu ← √ruh- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +215,4 @@ Mit fettem Oel und Salben mögen kommen die Weiber hier, vermählt und nicht ver
 Без слез, без болезней, в красивых драгоценностях  
 Пусть взойдут сначала женщины на (супружеское) ложе!
 </details>
+

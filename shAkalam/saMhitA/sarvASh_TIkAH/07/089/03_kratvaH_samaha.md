@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+dīnátā ← dīnátā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+krátvaḥ ← krátu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+samaha ← samaha (invariable)  
+{}
+
+jagama ← √gam- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+pratīpám ← pratīpám (invariable)  
+{}
+
+śuce ← śúci- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mr̥ḷá ← √mr̥ḍ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mr̥ḷáya ← √mr̥ḍ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sukṣatra ← sukṣatrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +150,4 @@ Hab' ich einmal aus Unverstand vergangen mich, o heiliger, Sei gnädig, Herrsche
 Пошел я против течения, о светлый.  
 Прости, о добрый повелитель, помилуй!
 </details>
+

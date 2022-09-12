@@ -15,13 +15,56 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+éti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sudákṣam ← sudákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yuvatíḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+doṣā́ ← doṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ghr̥tā́cī ← ghr̥tā́ñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+havíṣmatī ← havíṣmant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vástoḥ ← vástu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+arámatiḥ ← arámati- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+svā́ ← svá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vasūyúḥ ← vasūyú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +176,4 @@ Dem starken, dem wie eine Jungfrau Abends und Morgens naht die butterreiche Kell
 (Она,) несущая жертву вечером и на рассвете, полная жира,  
 (А также) при(ближается) к нему подобающая молитва, жаждущая добра...
 </details>
+

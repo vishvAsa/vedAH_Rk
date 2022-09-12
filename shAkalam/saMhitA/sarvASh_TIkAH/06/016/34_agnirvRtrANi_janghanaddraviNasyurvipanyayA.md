@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jaṅghanat ← √han- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+draviṇasyúḥ ← draviṇasyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vipanyáyā ← vipanyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́hutaḥ ← √hu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sámiddhaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+śukráḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +137,4 @@ Die Feinde schlage, Agni, todt im Beutedrang mit Wundermacht, Entflammt, beopfer
 Ища богатств, при (всеобщем) восхищении,  
 Зажженный, светлый, политый (жиром)!
 </details>
+

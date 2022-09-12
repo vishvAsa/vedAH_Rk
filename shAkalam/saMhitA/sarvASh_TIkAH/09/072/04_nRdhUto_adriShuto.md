@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádriṣutaḥ ← ádriṣuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+nŕ̥dhūtaḥ ← nŕ̥dhūta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pradívaḥ ← pradív- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+r̥tvíyaḥ ← r̥tvíya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+púraṁdhivān ← púraṁdhivant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñasā́dhanaḥ ← yajñasā́dhana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +205,7 @@ Both Geldner and Renou take pradívaḥ with what precedes; this is entirely pos
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/072/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/072/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 These two vss., in the center of the hymn, are constructed in parallel. To begin with, the post-caesura portion of 4d and 5b are identical: pavate sóma indra te.
@@ -186,3 +241,4 @@ Gespült von Männern, steingepresst, lieb auf der Streu, der Kühe Herr, der st
 Сопровождаемый полнотой (даров), приводящий к цели жертвы человека,  
 Прозрачный сома очищается молитвой для тебя, о Индра.
 </details>
+

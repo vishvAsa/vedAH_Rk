@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+parástāt ← parástāt (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadhātu ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dákṣiṇam ← dákṣiṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hástam ← hásta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ajatu ← √aj- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+naṣṭám ← √naś- 2 (root)  
+{case:NOM, gender:M, number:SG, voice:PASS}
+
+púnar ← púnar (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +156,4 @@ Auch ferner strecke Puschan vor zum Schutze seine rechte Hand, Verlornes treib' 
 Обнимет (нас) правою рукой!  
 Пусть снова пригонит нам пропавший (скот!)
 </details>
+

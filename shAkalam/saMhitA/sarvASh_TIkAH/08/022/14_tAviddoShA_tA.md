@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+doṣā́ ← doṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+pátī ← páti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śubháḥ ← śúbh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+taú ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+taú ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+uṣási ← uṣás- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+rudrávartanī ← rudrávartani- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mártāya ← márta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ripáve ← ripú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vājinīvasū ← vājínīvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+áti ← áti (invariable)  
+{}
+
+khyatam ← √khyā- (root)  
+{number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+parás ← parás (invariable)  
+{}
+
+rudrau ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ Am Abend euch, am Morgen euch, ihr Glanzesherrn, die ihr auf lichtem Pfade fahrt
 Ради обманщика-смертного, о (вы), богатые наградами,  
 Не проглядите нас, о Рудры!
 </details>
+

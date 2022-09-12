@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ārta ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+prathamám ← prathamá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vipanyā́ ← vipanyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+nīḷé ← nīḷá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yónā ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+spārháḥ ← spārhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vapuṣyàḥ ← vapuṣyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vibhā́vā ← vibhā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yúvā ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janayanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+priyā́saḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,14 +196,14 @@ Geldner, Renou, and Oldenberg (SBE) take janayanta in d as intrans. ‘be born�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details open><summary><h2>10-18 ...{Loading}...</h2></summary>
 
 Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/11-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
 
 The repeated phrase “in the nest of the bull” (vṛṣabhásya nīḷé, 11d, 12b) is somewhat opaque, but I think Geldner is basically right, that the vṛṣabhá- is Agni (not, with Hoffmann, heaven). His nest is, in my opinion, the ritual ground; its designation also as the “womb of truth” (ṛtásya yóni-, 12b) supports this identification. I find Witzel Gotō’s n. on this phrase incomprehensible, though it seems to follow Hoffmann in part.
@@ -188,3 +240,4 @@ Zuerst erhob sich wunderbar der starke im heil'gen Schoosse in des Stieres Lager
 Желанная, юная, прекрасная, сверкающая.  
 Семеро любимых родились для быка.
 </details>
+

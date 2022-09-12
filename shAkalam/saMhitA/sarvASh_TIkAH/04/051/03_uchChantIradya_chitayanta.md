@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+bhojā́n ← bhojá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+citayanta ← √cit- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+uchántīḥ ← √vas- 1 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+maghónīḥ ← maghávan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+rādhodéyāya ← rādhodéya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+acitré ← acitrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+paṇáyaḥ ← paṇí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sasantu ← √sas- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ábudhyamānāḥ ← ábudhyamāna- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+támasaḥ ← támas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vímadhye ← vímadhya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +203,4 @@ Sie mögen willig heut die Spender reizen zum Schatzverleihn, die reichen Morgen
 Да проспят скупцы в бессветном (пространстве),  
 Беспробудно, посреди мрака!
 </details>
+

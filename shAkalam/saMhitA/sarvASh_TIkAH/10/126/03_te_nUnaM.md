@@ -16,15 +16,70 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nūnám ← nūnám (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+náyiṣṭhāḥ ← náyiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+neṣáṇi ← √nī- (root)  
+{case:LOC, number:SG}
+
+u ← u (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+parṣáṇi ← √pr̥- (root)  
+{case:LOC, number:SG}
+
+párṣiṣṭhāḥ ← párṣiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+áti ← áti (invariable)  
+{}
+
+dvíṣaḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +207,4 @@ Sie mögen uns zum Schutze sein Varuna, Mitra, Arjaman, Als beste Führer führe
 Ведущие лучше всех, когда нас надо вести,  
 Переправляющие лучше всех, когда нас надо переправлять через проявления враждебности!
 </details>
+

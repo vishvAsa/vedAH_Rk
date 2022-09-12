@@ -15,13 +15,53 @@ ChandaH = "ऊर्ध्वबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ájījanaḥ ← √janⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+amr̥ta ← amŕ̥ta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mártyeṣu ← mártya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+cā́ruṇaḥ ← cā́ru- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dhárman ← dhárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+asaraḥ ← √sr̥- 1 (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+sániṣyadat ← √syand- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +161,7 @@ partit.”) dependent on ájījanaḥ; it is difficult to imagine what sort of p
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 A very challenging tṛca, esp. the last two vss.
@@ -152,3 +192,4 @@ Du hast gezeugt, Unsterblicher, bei Sterblichen im Brauch des Opfers den beliebt
 По установлению (вселенского) закона (приношение) милого напитка бессмертия.  
 Всегда ты мчался к награде, стремясь захватить (ее).
 </details>
+

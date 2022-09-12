@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+rocanā́t ← rocaná- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gantam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+svarvidā ← svarvíd- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vatsapracetasā ← vatsapracetas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+havanaśrutā ← havanaśrút- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+stómebhiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +178,4 @@ Auch von des Himmels Lichtgefild' kommt her zu uns, o himmlische, Durch Bitten, 
 В ответ на молитвы, о внимательные к Ватсе,  
 В ответ на восхваления, о слышащие призывы!
 </details>
+

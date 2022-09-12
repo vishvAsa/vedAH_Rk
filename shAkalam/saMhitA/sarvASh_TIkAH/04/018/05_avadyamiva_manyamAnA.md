@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+akar ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+avadyám ← avadyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+mányamānā ← √man- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nyr̥̀ṣṭam ← √r̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vīryèṇa ← vīryà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+átkam ← átka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svayám ← svayám (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+vásānaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+apr̥ṇāt ← √pr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+jā́yamānaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,3 +247,4 @@ Ihn für gering erachtend barg die Mutter, den Indra, den von Heldenkraft erfül
 Рождаясь, он заполнил оба мира.  
 Мать:
 </details>
+

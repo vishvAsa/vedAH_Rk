@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kr̥ṇóṣi ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mahi ← máh- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+maṁhánā ← maṁhánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+uchántī ← √vas- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+devi ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+dr̥śé ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+prakhyaí ← √khyā- (root)  
+{case:DAT, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+ratnabhā́jaḥ ← ratnabhā́j- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+tásyāḥ ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sūnávaḥ ← sūnú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syā́ma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +234,4 @@ Die leuchtend du, o grosse, wirkst mit grosser Lust, dass schauend man die Sonne
 (Тебя) мы просим, стремясь к доле в твоем сокровище.  
 Мы хотим быть (для тебя,) как сыновья для матери.
 </details>
+

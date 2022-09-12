@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; line affected by realignment  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sádata ← √sad- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vitá ← √vī- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dā́tave ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+spārhā́ṇi ← spārhá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ásredhantaḥ ← ásredhant- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mádhau ← mádhu- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+somyé ← somyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+mādayādhvai ← √mad- (root)  
+{number:PL, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+svā́hā ← svā́hā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Und setzt euch hin auf unsre Streu und seid uns hold, zu schenken uns begehrtes 
 О Маруты, не допускающие ошибок,  
 Опьяняетесь здесь сладостью сомы (под возглас): Свага!
 </details>
+

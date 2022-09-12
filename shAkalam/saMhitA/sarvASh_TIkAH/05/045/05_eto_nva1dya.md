@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+adyá ← adyá (invariable)  
+{}
+
+bhávāma ← √bhū- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+ita ← √i- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+sudhyàḥ ← sudhī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+duchúnām ← duchúnā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+inavāma ← √i- 2 (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+várīyaḥ ← várīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āré ← āré (invariable)  
+{}
+
+dadhāma ← √dhā- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+dvéṣāṁsi ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sanutár ← sanutár (invariable)  
+{}
+
+ácha ← ácha (invariable)  
+{}
+
+áyāma ← √i- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+prā́ñcaḥ ← prā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yájamānam ← √yaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +191,7 @@ As suggested already by Geldner (n. 5b) and, independently, Thieme (ZDMG 95 [194
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these two vss. form an omphalos and are structurally parallel, with the poet addressing his priest-poet colleagues with hortatory subjunctives. The immediacy of the vss. and the sacrificial context of the hymn make this a more likely scenario than Sāyaṇa.’s suggestion that the Aṅgirases are speaking these vss. For strenuous arguments against Sāyaṇa.’s interpr., see Lüders p. 327.
@@ -164,3 +222,4 @@ Kommt heute her, wir wollen sein voll Andacht, wir wollen weithin jagen die Unho
 Далеко прочь мы отставим враждебность.  
 Мы придем расположенными к жертвователю.
 </details>
+

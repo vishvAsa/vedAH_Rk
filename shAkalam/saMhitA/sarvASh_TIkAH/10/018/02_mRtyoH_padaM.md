@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular;; repeated line  
 popular  
 popular
+#### Morph
+aíta ← √i- 1 (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+mr̥tyóḥ ← mr̥tyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yopáyantaḥ ← √yup- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+drā́ghīyaḥ ← drā́ghīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pratarám ← pratarám (invariable)  
+{}
+
+āpyā́yamānāḥ ← √pyā- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+dhánena ← dhána- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prajáyā ← prajā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+bhavata ← √bhū- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pūtā́ḥ ← √pū- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+śuddhā́ḥ ← √śudh- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+yajñiyāsaḥ ← yajñíya- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Des Todes Spur verwischend, als ihr kamet, und lange euer künft'ges Leben dehne
 Набухая от потомства (и) богатства,  
 Будьте чистыми (и) очищенными, о достойные жертвоприношения!
 </details>
+

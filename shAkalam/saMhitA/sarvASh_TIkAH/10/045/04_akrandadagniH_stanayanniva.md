@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ákrandat ← √krand- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+stanáyan ← √stanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kṣā́ma ← kṣā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+rérihat ← √rih- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+samañján ← √añj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vīrúdhaḥ ← vīrúdh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ákhyat ← √khyā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+iddháḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+īm ← īm (invariable)  
+{}
+
+jajñānáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+sadyás ← sadyás (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+antár ← antár (invariable)  
+{}
+
+bhānúnā ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+bhāti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +239,6 @@ Licking the earth, devouring the plants;
 Straightway on birth he shone aflame;
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Es brüllte Agni wie der Himmel donnernd, den Erdboden leckend, die Pflanzen bestreichend. Denn eben geboren hat der Entflammte alsbald nach ihnen Ausschau gehalten; er erglänzt mit seinem Glanze zwischen beiden Welthälften.
@@ -193,3 +256,4 @@ Es brüllte Agni, donnernd wie der Himmel, den Boden leckend, um die Pflanzen fl
 Едва лишь родившись, зажженный, он стал их высматривать.  
 (Своим) светом сияет он между двух миров.
 </details>
+

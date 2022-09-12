@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+ánaḥ ← ánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+chadíḥ ← chadís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+anaḍvā́hau ← anaḍváh- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+āstām ← √as- 1 (root)  
+{number:DU, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+śukraú ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+áyāt ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gr̥hám ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sūryā́ ← sūryā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +192,4 @@ Ihr Herz war der Wagen und der Himmel das Verdeck darauf; zwei Lichtflammen ihre
 Два светлых (месяца) были упряжными,  
 Когда ехала Сурья в дом (жениха).
 </details>
+

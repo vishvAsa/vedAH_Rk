@@ -18,16 +18,92 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+áva ← áva (invariable)  
+{}
+
+áva ← áva (invariable)  
+{}
+
+dvaké ← dvaká- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+trikā́ ← triká- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bheṣajā́ ← bheṣajá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+cariṣṇú ← cariṣṇú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ekakám ← ekaká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kṣamā́ ← kṣám- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+bháratām ← √bhr̥- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+rápaḥ ← rápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣamā́ ← kṣám- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pr̥thivi ← pr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+rápaḥ ← rápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+amamat ← √amⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+caná ← caná (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +264,4 @@ Vom Himmel hernieder kommen die Arzeneien, zu zweien und zu dreien verbunden, un
 О Небо (и) Земля, (пусть уйдет) повреждение в землю!  
 Пусть же совсем ничего не болит у тебя!
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "उष्णिग्गर्भा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+áśvyānām ← áśvya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+hárīṇām ← hári- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nitóśanā ← nitóśana- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+kŕ̥tvyānām ← kŕ̥tvya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nr̥vā́hasā ← nr̥vā́has- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+nú ← nú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +157,4 @@ Sie beide sind mir Spender gelbrother Rossescharen und Beförderer tüchtiger M�
 Богатств из буланых коней,  
 А теперь также – двоих (коней), возящих деятельных мужей.
 </details>
+

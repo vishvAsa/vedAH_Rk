@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+manīṣíṇaḥ ← manīṣín- (nominal stem)  
+{case:NOM, number:PL}
+
+vihváyante ← √hvā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vāghádbhiḥ ← vāghát- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +151,4 @@ An vielen Orten rufen euch, o Helden, zwar die Weisen an, Von uns verehrt, o Rit
 Призывают мудрые, состязаясь  
 С (другими) устроителями обряда, (к нам) приезжайте!
 </details>
+

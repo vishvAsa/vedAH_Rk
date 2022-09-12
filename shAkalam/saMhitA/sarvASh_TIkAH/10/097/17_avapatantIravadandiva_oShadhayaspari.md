@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+avadan ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+avapátantīḥ ← √pat- 1 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+óṣadhayaḥ ← óṣadhi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+aśnávāmahai ← √naś- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+jīvám ← jīvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pū́ruṣaḥ ← pū́ruṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+riṣyāti ← √riṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +164,4 @@ Als von dem Himmel einst herab die Kräuter flogen, sprachen sie: Wen wir am Leb
 Кого мы застали еще живым,  
 Тот не потерпит ущерба.
 </details>
+

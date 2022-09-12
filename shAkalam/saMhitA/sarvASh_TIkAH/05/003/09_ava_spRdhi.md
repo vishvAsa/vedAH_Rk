@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áva ← áva (invariable)  
+{}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+spr̥dhi ← √spr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+yódhi ← √yudh- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ūhé ← √vāh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+cakṣase ← √cakṣ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+cikitvaḥ ← √cit- (root)  
+{case:VOC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+r̥tacít ← r̥tacít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yātayāse ← √yat- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Errett den Vater, kett an dich, erfahr'ner, ihn, der dir gilt als Sohn, o Spross
 Когда, о внимательный, ты заметишь нас?  
 Когда, о Агни, зная закон, ты наведешь порядок?
 </details>
+

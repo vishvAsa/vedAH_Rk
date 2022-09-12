@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+dvā́-dvā ← dvá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+etā́n ← eṣá (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+śā́śvasataḥ ← √śvasⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ákr̥ṇvata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+yudháye ← √yudh- (root)  
+{case:DAT, number:SG}
+
+ahanam ← √han- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+āhváyamānān ← √hvā- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:MED}
+
+áva ← áva (invariable)  
+{}
+
+hánmanā ← hánman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ánamasyuḥ ← ánamasyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dr̥ḷhā́ ← √dr̥h- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+namasvínaḥ ← namasvín- (nominal stem)  
+{case:NOM, number:PL}
+
+vádan ← √vadⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +224,4 @@ Ich schlug die wüthend schnaubenden je zwei und zwei, die Indra mich, und meine
 Вызывающих (на бой) я сразил одним ударом,  
 Говоря твердо, несгибаемый с согнувшимися.
 </details>
+

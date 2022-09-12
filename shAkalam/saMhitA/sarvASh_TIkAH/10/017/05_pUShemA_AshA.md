@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+ā́śāḥ ← ā́śā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárvāḥ ← sárva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ábhayatamena ← ábhayatama- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+neṣat ← √nī- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ghr̥ṇiḥ ← ā́ghr̥ṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárvavīraḥ ← sárvavīra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svastidā́ḥ ← svastidā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áprayuchan ← áprayuchant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+prajānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+purás ← purás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Es kennet Puschan alle diese Orte, er führe uns mit sicherstem Geleite Mit ganz
 Дающий счастье, пылающий, с целыми мужами,  
 Внимательный, пусть идет он впереди, зная путь!
 </details>
+

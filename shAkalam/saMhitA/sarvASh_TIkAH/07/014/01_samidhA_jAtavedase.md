@@ -16,14 +16,45 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+jātávedase ← jātávedas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+samídhā ← samídh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+deváhūtibhiḥ ← deváhūti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+havírbhiḥ ← havís- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+namasvínaḥ ← namasvín- (nominal stem)  
+{case:NOM, number:PL}
+
+śukráśociṣe ← śukráśocis- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dāśema ← √dāś- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +161,4 @@ Mit Brennholz und mit Götterruf, mit Opfergüssen huldigen Dem Gotte wir, dem W
 Возлияниями – светлопламенному полные почтения  
 Мы хотим служить Агни.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dhánam ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samā́kr̥tam ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sáṁsr̥ṣṭam ← √sr̥j- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ubháyam ← ubháya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+dattām ← √dā- 1 (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+manyúḥ ← manyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhíyam ← bhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+hŕ̥dayeṣu ← hŕ̥daya- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+śátravaḥ ← śátru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+layantām ← √lī- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+párājitāsaḥ ← √ji- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +204,4 @@ Es mögen schenken Varuna und Manju uns das aufgehäufte beiderseits erlangte Gu
 
 -ru-
 </details>
+

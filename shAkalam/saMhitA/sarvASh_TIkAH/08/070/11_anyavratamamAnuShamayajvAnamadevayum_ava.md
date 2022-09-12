@@ -16,14 +16,51 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámānuṣam ← ámānuṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anyávratam ← anyávrata- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádevayum ← ádevayu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áyajvānam ← áyajvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+dudhuvīta ← √dhū- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:MED}
+
+párvataḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sváḥ ← svá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dásyum ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+párvataḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sughnā́ya ← sughná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +192,4 @@ Wer Götzen dient, unmenschlich ist, wer Opfer nicht noch Götter liebt, Den st�
 
 -ru-
 </details>
+

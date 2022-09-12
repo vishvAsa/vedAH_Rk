@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vīryàm ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+gr̥ṇánti ← √gr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kārávaḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āvan ← √avⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ghr̥taścútam ← ghr̥taścút- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+stóbhantaḥ ← √stubh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+nakṣan ← √nakṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+paurā́saḥ ← paurá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Die Dichter preisen mit Gesang o Indra, diese deine Kraft, Sie brachten singend 
 Восхваляя, они овладели питательной силой, сочащейся жиром.  
 Пауры пришли со (своими) молитвами.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; Vālakhilya  
 popular;; Vālakhilya  
 popular;; Vālakhilya  
 popular;; Vālakhilya
+#### Morph
+bahudhā́ ← bahudhā́ (invariable)  
+{}
+
+kalpáyantaḥ ← √kl̥p- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+r̥tvíjaḥ ← r̥tvíj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+sácetasaḥ ← sácetas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váhanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anūcānáḥ ← anūcāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+brāhmaṇáḥ ← brāhmaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yuktáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+kā́ ← ká- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+saṁvít ← saṁvíd- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svit ← svit (invariable)  
+{}
+
+tátra ← tátra (invariable)  
+{}
+
+yájamānasya ← √yaj- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Wen, dieses Opfer mannichfach gestaltend, die einsichtsvollen Opferpriester fahr
 Когда запрягся ученый брахман,  
 Какое же тут (бывает) понимание у заказчика жертвы?
 </details>
+

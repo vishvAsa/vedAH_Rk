@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ceti ← √cit- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iṣáḥ ← íṣ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvitám ← suvitá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índrāviṣṇū ← índrāvíṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nr̥vát ← nr̥vánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stávānā ← √stu- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ámavat ← ámavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+várūtham ← várūtha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yantam ← √yam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ Den Pfad macht frei uns Arjaman, Varuna, der Labungsherr das Gut, die Wohlfahrt 
 О Индра-Вишну, прекрасно восхваленные, даруйте  
 Нам мужественную защиту, мощный заслон!
 </details>
+

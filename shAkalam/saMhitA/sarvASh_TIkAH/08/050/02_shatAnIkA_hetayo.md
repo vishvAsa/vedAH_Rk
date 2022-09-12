@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+duṣṭárāḥ ← duṣṭára- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hetáyaḥ ← hetí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śatā́nīkāḥ ← śatā́nīka- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+samíṣaḥ ← samíṣ- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhujmā́ ← bhujmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+giríḥ ← girí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghávatsu ← maghávan- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pinvate ← √pinv- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ámandiṣuḥ ← √mand- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+sutā́ḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +191,4 @@ Wie hunderschneid'ge Pfeile unbezwinglich sind Indra's Geschosse, mächtig gross
 Словно обильная гора, набухает он для щедрых покровителей,  
 Когда опьянили его выжатые соки.
 </details>
+

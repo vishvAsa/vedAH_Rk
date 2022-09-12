@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aṁśúm ← aṁśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadhanvā́n ← √dhanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+mádhunaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rapśate ← √rapś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sayā́vabhiḥ ← sayā́van- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+jaghanvā́n ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+váreṇyaḥ ← váreṇya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Mit Macht hat Vischnu diese seine Grösse noch gesteigert, als er strömen liess
 Индра, щедрый, со (своими) спутниками-богами  
 Убивший Вритру, стал избранным.
 </details>
+

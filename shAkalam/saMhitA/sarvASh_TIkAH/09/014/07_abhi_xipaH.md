@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+agmata ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+kṣípaḥ ← kṣíp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+iṣáḥ ← íṣ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+marjáyantīḥ ← √mr̥j- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥bhṇata ← √gr̥bhⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+pr̥ṣṭhā́ ← pr̥ṣṭhá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Es nahten sich die Finger ihm, den Herrn des Trankes reinigend, Des Rosses Rück
 Начищающие господина услад.  
 Они хватают за спины завоевателя наград.
 </details>
+

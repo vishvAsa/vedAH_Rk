@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+śruṣṭíḥ ← śruṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+vidathyā̀ ← vidathyà- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dadhīmahi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+turā́ṇām ← turá- 1 (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+adyá ← adyá (invariable)  
+{}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvā́ti ← √sū- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ratnínaḥ ← ratnín- (nominal stem)  
+{case:GEN, number:SG}
+
+syā́ma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vibhāgé ← vibhāgá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Erhörung werde uns zu Theil beim Feste; der Starken Loblied lasset uns beginnen
 Когда сегодня бог Савитар даст побуждение,  
 Мы хотим стать у него при разделе владельцами сокровищ!
 </details>
+

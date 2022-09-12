@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+púruṣaḥ ← púruṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásraśīrṣā ← sahásraśīrṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahasrākṣáḥ ← sahasrākṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásrapāt ← sahásrapad- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́mim ← bhū́mi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+vr̥tvā́ ← √vr̥- (root)  
+{}
+
+áti ← áti (invariable)  
+{}
+
+atiṣṭhat ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+daśāṅgulám ← daśāṅgulá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +182,4 @@ Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die E
 Со всех сторон покрыв землю,  
 Он возвышался (над ней еще) на десять пальцев.
 </details>
+

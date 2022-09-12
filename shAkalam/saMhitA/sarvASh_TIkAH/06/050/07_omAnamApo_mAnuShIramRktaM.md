@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámr̥ktam ← ámr̥kta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āpaḥ ← áp- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+mānuṣīḥ ← mā́nuṣa- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+omā́nam ← omán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhā́ta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+śám ← śám (invariable)  
+{}
+
+tánayāya ← tánaya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tokā́ya ← toká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yós ← yós (invariable)  
+{}
+
+bhiṣájaḥ ← bhiṣáj- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+mātŕ̥tamāḥ ← mātŕ̥tama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sthá ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+jágataḥ ← jágat- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+jánitrīḥ ← jánitrī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sthātúḥ ← sthātár- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Schenkt unbeschränkte Gunst, o menschenholde, o Wasser, Heil und Segen, Kind un
 Ведь вы самые материнские целительницы,  
 Родительницы (всего,) что стоит и что движется.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhrā́taraḥ ← bhrā́tar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ádhvānam ← ádhvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+avarīvuḥ ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+rathī́ ← rathín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āyam ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+bhiyā́ ← bhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dūrám ← dūrá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tásmāt ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+avije ← √vij- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:MED}
+
+gauráḥ ← gaurá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jyā́yāḥ ← jyā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+kṣepnóḥ ← kṣepnú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,8 +201,6 @@ popular
 \[agni said:\] My elder brothers first selected this path, a circuit, like the circumambulation of a charioteer. So,varuNa, I fled afar in fear, as the wild bull (Gaur) flees from the archer’s bowstring. (The elder brothers of agni are the previous equinoctial points that slipped away from precession and thus “died”)
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -180,3 +242,4 @@ Agni´s frühere Brüder haben dieses Geschäft hin und her besorgt, wie ein Wag
 Я отпрянул, как (бык-)гаура от тетивы стрелка.  
 Боги:
 </details>
+

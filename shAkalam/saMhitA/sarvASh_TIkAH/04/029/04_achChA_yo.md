@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+gántā ← gántar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nā́dhamānam ← √nādh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gr̥ṇántam ← √gr̥̄- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+hávamānam ← √hū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+vípram ← vípra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āśū́n ← āśú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dhurí ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+tmáni ← tmán- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+sahásrāṇi ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śatā́ni ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vájrabāhuḥ ← vájrabāhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Der zu dem flehnden hülfereich herbeikommt zum Sänger, der ihn ernstlich ruft 
 (Индра) с ваджрой в руке, сам впрягающий в дышло  
 Быстрых коней – тысячи, сотни.
 </details>
+

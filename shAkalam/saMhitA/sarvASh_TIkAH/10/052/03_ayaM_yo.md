@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kíḥ ← ká- (pronoun)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yamásya ← yamá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+samañjánti ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ūhe ← √vāh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áhar-ahar ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+jāyate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+māsí-māsi ← mā́s- 1 (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+havyavā́ham ← havyavā́h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Dieser Hotri, was ist er dem Yama? Für wen darf er sich halten, daß ihn die G�
 День за днем он рождается, месяц за месяцем,  
 И боги определили (его) перевозчиком жертв.
 </details>
+

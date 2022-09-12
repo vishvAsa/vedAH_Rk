@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nŕ̥tamābhiḥ ← nŕ̥tama- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+nr̥vát ← nr̥vánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śrómatebhiḥ ← śrómata- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaṁsīmáhi ← √vanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+hí ← hí (invariable)  
+{}
+
+ī́kṣe ← √īś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ubháyasya ← ubháya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhā́ḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rátnam ← rátna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sthūrám ← sthūrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Lass, Indra, uns durch männerstärkste Hülfen mannhaften Schatz erlangen, uns 
 Ведь ты господствуешь над благом обоего рода, о царь, -  
 Дай сокровище, великое, прочное, мощное!
 </details>
+

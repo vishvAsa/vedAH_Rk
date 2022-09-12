@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sániṣṭhayā ← sániṣṭha- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vr̥ṣan ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dravitnvā́ ← dravitnú- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ghoráyā ← ghorá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+aviḍḍhi ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+púraṁdhyā ← púraṁdhi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +149,4 @@ Drum hilf mit reichlichst spendender, mit herrlicher, mit eilender Beachtung und
 
 -ru-
 </details>
+

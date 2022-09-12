@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+jarimā́ ← jarimán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+padé-pade ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+pāyúbhiḥ ← pāyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śakrā́ ← śakrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+várūtrī ← várūtrī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rasā́ ← rasā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+síṣaktu ← √sac- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+r̥juhástā ← r̥juhásta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+r̥juvániḥ ← r̥juváni- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+smát ← smát (invariable)  
+{}
+
+sūríbhiḥ ← sūrí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,3 +252,4 @@ Bewahrt sei Schritt für Schritt mein Lebensalter; die Schirmerin sei stark mit 
 Да поможет мать, великая Раса, нам вместе с  
 Покровителями (жертвы), (она) с праведной рукой, праведная (сама).
 </details>
+

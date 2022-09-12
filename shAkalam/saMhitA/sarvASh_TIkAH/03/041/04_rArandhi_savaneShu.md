@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rārandhí ← √ranⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+sávaneṣu ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+eṣú ← ayám (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+stómeṣu ← stóma- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ukthéṣu ← ukthá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,3 +138,4 @@ An unsern Säften labe dich, an diesen Liedern, Vritrafeind, An Sprüchen, Indra
 Этим восхвалениям, о убийца Вритры,  
 Гимнам, о Индра, жаждущий хвалебных песен!
 </details>
+

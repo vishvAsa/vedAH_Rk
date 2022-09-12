@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yeje ← √yaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ánu ← ánu (invariable)  
+{}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+vīryā̀ya ← vīryà- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+árvate ← árvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dúdhaye ← dúdhi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+syūmagŕ̥bhe ← syūmagŕ̥bh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ñjanti ← √vr̥j- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vr̥trahátye ← vr̥trahátya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Für sich gewann der Mensch des Gottes Stärke, die Götter trieben ihn zu Helde
 К строптивому скакуну, вцепившемуся в узду,  
 Обращают они (свою) силу духа при убийстве Вритры.
 </details>
+

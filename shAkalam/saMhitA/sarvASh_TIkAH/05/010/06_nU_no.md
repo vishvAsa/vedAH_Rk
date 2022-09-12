@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+rātáye ← rātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sabā́dhasaḥ ← sabā́dhas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asmā́kāsaḥ ← asmā́ka- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́śāḥ ← ā́śā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tarīṣáṇi ← √tr̥̄- 1 (root)  
+{case:LOC, number:SG}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +176,4 @@ Nun, Agni, sei zur Huld bereit, zu schenken dem, der dich bestürmt; Und unsre O
 А наши покровители  
 Пусть пересекут все стороны света!
 </details>
+

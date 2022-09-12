@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrmye ← ū́rmyā- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+dārbhyā́ya ← dārbhyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+devi ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+rathī́ḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,7 +140,7 @@ I do not understand why the goddess Night acts as the intermediary between the p
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/17-19.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/17-19.md">
 <details open><summary><h2>17-19 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, the patron’s name Rathavīti (‘pursuit of the chariot’?) in 18, 19 is punned upon. In 17 (before he is explicitly mentioned, though the patronymic Dārbhya would presumably evoke him) Night is asked to carry the hymns “like a charioteer” (rathī́r iva); in 18 the 2nd cmpd. member -vīti- is derived from the same root √vī ‘pursue’ that supplies the verb ápa veti ‘goes off track’.
@@ -137,3 +171,4 @@ Göttin Nacht, fahre dies mein Lob hin zu dem Nachkommen des Darbha, meine Liede
 Отвези далеко к сыну Дарбхи,  
 Песнь (моя), о богиня, словно колесничий!
 </details>
+

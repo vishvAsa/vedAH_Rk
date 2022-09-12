@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+huvema ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yatásrucaḥ ← yatásruc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+subhā́sam ← subhā́s- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śukráśociṣam ← śukráśocis- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ajáram ← ajára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ī́ḍyam ← ī́ḍya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pratnám ← pratná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +161,4 @@ Lasst Löffel reichend rufen uns den lichten, hellerstrahlenden, Der Menschen al
 (Бога) с прекрасным светом, чистым пламенем,  
 Агни, (господина) племен, нестареющего, древнего, достойного призывов!
 </details>
+

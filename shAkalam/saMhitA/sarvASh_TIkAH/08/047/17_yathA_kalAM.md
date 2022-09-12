@@ -18,16 +18,74 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+kalā́m ← kalā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śaphám ← śaphá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+r̥ṇám ← r̥ṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+saṁnáyāmasi ← √nī- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
+duṣvápnyam ← duṣvápnya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+sárvam ← sárva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āptyé ← āptyá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+nayāmasi ← √nī- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+anehásaḥ ← anehás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+suūtáyaḥ ← suūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Wie man die Schulden abbezahlt, den Pfennig und den Heller auch, so zahlen jeden
 Безошибочны ваши поддержки,  
 Хорошо поддерживают ваши поддержки.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+babhasat ← √bhas- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+tigmájambhaḥ ← tigmájambha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+surā́dhāḥ ← surā́dhas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tápiṣṭhena ← tápiṣṭha- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+minánti ← √mī- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+cétataḥ ← √cit- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dhruvā́ṇi ← dhruvá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+priyā́ ← priyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +232,4 @@ Verzehren soll der scharfgezahnte Agni mit schärfster Glut, er welcher gern gew
 Кто нарушает установления Варуны,  
 Любимые прочные (установления) внимательного Митры.
 </details>
+

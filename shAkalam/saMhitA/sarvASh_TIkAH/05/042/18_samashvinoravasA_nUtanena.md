@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvínoḥ ← aśvín- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nū́tanena ← nū́tana- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+gamema ← √gam- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+mayobhúvā ← mayobhū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+supráṇītī ← supráṇīti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vahatam ← √vah- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vīrā́n ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+amr̥tā ← amŕ̥ta- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+saúbhagāni ← saúbhaga- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Erlangen mögen wir der Ritter Hülfe, die neuste, die erquickt und sicher leite
 Привезите вы двое нам богатство, а также мужей,  
 О бессмеотные, и все дары, приносящие счастье!
 </details>
+

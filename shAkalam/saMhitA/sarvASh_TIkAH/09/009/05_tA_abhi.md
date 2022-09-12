@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+ástr̥tam ← ástr̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yúvānam ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vraté ← vratá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +152,7 @@ The unspecified dat. (or with Renou loc.) mahé ‘for/in great …” has too m
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/009/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/009/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, I consider this an omphalos hymn, with vss. 4 and 6 with their repetition of “7” defining vs. 5 as the omphalos. The omphalos effect is muted however, since the “message” of vs. 5 is hardly a deep mystery. For further on this sequence of vss., see published introduction.
@@ -146,3 +183,4 @@ Den Indu strömten, Indra, sie, den siegenden zu deinem Dienst Den jungen dir de
 Они привели к великому (состоянию):  
 Сок (сомы), о Индра, в твое распоряжение.
 </details>
+

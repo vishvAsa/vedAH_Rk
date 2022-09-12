@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádevaḥ ← ádeva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āpat ← √āp- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+sīm ← sīm (invariable)  
+{}
+
+dīrghāyo ← dīrghāyu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+étagvā ← étagva- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+étaśā ← étaśa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yuyójate ← √yuj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:MED}
+
+hárī ← hári- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuyójate ← √yuj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +202,4 @@ Kein Sterblicher, der gottlos ist, hat Gut erlangt, Unsterblicher; Nur der erlan
 
 -ru-
 </details>
+

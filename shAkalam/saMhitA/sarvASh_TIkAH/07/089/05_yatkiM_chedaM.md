@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+daívye ← daívya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jáne ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhidrohám ← abhidrohá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cárāmasi ← √carⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+manuṣyā̀ḥ ← manuṣyà- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ácittī ← ácitti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dhárma ← dhárman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yuyopimá ← √yup- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+énasaḥ ← énas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rīriṣaḥ ← √riṣ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+tásmāt ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +232,4 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 Или если по неразумению нарушили твои законы,  
 Не карай нас, о бог, за этот грех!
 </details>
+

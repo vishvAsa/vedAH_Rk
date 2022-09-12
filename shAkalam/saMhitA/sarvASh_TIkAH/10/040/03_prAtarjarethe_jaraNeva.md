@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+jaraṇā́ ← jaraṇá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+jarethe ← √gr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+kā́payā ← kā́pā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+prātár ← prātár (invariable)  
+{}
+
+gachathaḥ ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+gr̥hám ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vástor-vastoḥ ← vástu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+yajatā́ ← yajatá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+bhavathaḥ ← √bhū- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dhvasrā́ ← dhvasrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vā ← vā (invariable)  
+{}
+
+áva ← áva (invariable)  
+{}
+
+gachathaḥ ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+rājaputrā́ ← rājaputrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +239,4 @@ Des Morgens naht im Wagen wie zwei Greise ihr; bei jedem Frühlicht kommt ihr he
 Для кого вы остаетесь в тени, а для кого, о два мужа,  
 Приходите на выжимания (сомы), как двое царских сыновей?
 </details>
+

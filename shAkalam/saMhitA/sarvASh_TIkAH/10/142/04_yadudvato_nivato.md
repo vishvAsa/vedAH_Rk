@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bápsat ← √bhas- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+nivátaḥ ← nivát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+udvátaḥ ← udvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+yā́si ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+eṣi ← √i- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+pragardhínī ← pragardhín- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pŕ̥thak ← pŕ̥thak (invariable)  
+{}
+
+sénā ← sénā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+anuvā́ti ← √vā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śocíḥ ← śocís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+bhū́ma ← bhū́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+śmáśru ← śmáśru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vapasi ← √vap- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+váptā ← váptar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +226,4 @@ Wenn aufwärts du und abwärts kauend wanderst, so eilst du weit hin, wie ein He
 Когда ветер раздувает твое пламя,  
 Ты бреешь землю, как цирюльник бороду.
 </details>
+

@@ -14,13 +14,41 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+sahá ← sahá (invariable)  
+{}
+
+vánasā ← vánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sacanta ← √sac- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+vartaním ← vartaní- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ū́dhabhiḥ ← ū́dhar- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,3 +134,4 @@ Komm her mit Lust, es folgen ja die Kühe schon mit ihren Eutern deinem Pfad.
 Приходи вместе со (своим) благодеянием –  
 (С тем) что коровы с (полным) выменем шествуют по (твоему) следу!
 </details>
+

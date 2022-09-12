@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+róruvat ← √rū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tigmáśr̥ṅgaḥ ← tigmáśr̥ṅga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+tasthau ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+váriman ← váriman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+várṣman ← várṣman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+pāmi ← √pā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+víśveṣu ← víśva- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vr̥jáneṣu ← vr̥jána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+kukṣī́ ← kukṣí- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pr̥ṇā́ti ← √pr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sutásomaḥ ← sutásoma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Laut brüllend steht der Stier, der scharfgehörnte, in weitem Umkreis auf der E
 Кто, выжав сому, наполняет мне живот.  
 Васукра:
 </details>
+

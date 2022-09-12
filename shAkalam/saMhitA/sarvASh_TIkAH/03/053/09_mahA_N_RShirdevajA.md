@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devajā́ḥ ← devajā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devájūtaḥ ← devájūta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arṇavám ← arṇavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ástabhnāt ← √stambhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+nr̥cákṣāḥ ← nr̥cákṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+síndhum ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávahat ← √vah- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sudā́sam ← sudā́s- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvā́mitraḥ ← viśvā́mitra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ápriyāyata ← √priyāy- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kuśikébhiḥ ← kuśiká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +206,4 @@ Der grosse Sänger der gottgeborene, gotterregte, die Männer beschauend, hielt 
 Когда Вишвамитра вез Судаса,  
 Индра подружился с потомками Кушики.
 </details>
+

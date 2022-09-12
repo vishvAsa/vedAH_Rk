@@ -15,13 +15,47 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+áśvāvat ← áśvāvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+madhupātamā ← madhupātama- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yāsiṣṭam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+dasrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gómat ← gómant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+híraṇyavat ← híraṇyavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +156,4 @@ Kommt Ritter ihr zu unserm Hof, der reich mit Gold, mit Ross und Rind versehen i
 Приносящий коней, о два мужа, лучше всех пьющие мед,  
 Приносящий коров, о чудесные, приносящий золото!
 </details>
+

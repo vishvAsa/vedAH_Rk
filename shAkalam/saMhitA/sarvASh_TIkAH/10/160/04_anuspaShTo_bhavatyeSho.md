@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánuspaṣṭaḥ ← √spaś- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+eṣáḥ ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+revā́n ← revánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sunóti ← √su- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+aratnaú ← aratní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dadhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ánānudiṣṭaḥ ← ánānudiṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+brahmadvíṣaḥ ← brahmadvíṣ- (nominal stem)  
+{case:ACC, number:PL}
+
+hanti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Es wird erspäht von ihm ein jeder, welcher, obwol er reich ist, ihm nicht Soma 
 Щедрый выволакивает его за локоть.  
 Ненавистников священного слова он убивает без всяких просьб.
 </details>
+

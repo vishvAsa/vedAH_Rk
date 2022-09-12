@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakr̥ṣe ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sthirám ← sthirá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhū́yasaḥ ← bhū́yaṁs- (nominal stem)  
+{case:ACC, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+véṣi ← √vī- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yudháye ← √yudh- (root)  
+{case:DAT, number:SG}
+
+áśmānam ← áśman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+didyutaḥ ← √dyut- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ūrvám ← ūrvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+usríyāṇām ← usríya- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vidáḥ ← √vid- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +242,4 @@ Geboren machtest deinen Sinn du stark schon, auch viele greifst allein du an zum
 Блеском ты проломил с силой даже скалу.  
 Ты нашел пещеру с красноватыми коровами.
 </details>
+

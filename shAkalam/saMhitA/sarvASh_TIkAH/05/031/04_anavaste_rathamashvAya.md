@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánavaḥ ← ánu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśvāya ← áśva- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+takṣan ← √takṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dyumántam ← dyumánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+brahmā́ṇaḥ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maháyantaḥ ← √mahay- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+áhaye ← áhi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ávardhayan ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+hántavaí ← √han- (root)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Die Menschen machten für dein Ross den Wagen Tvaschtar den lichten Blitz, o vie
 Брахманы, возвеличивающие Индру песнопениями,  
 Усилили (его) для убийства змея.
 </details>
+

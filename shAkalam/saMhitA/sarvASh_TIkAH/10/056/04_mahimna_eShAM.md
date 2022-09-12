@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+caná ← caná (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+īśire ← √īś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mahimnáḥ ← mahimán- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+adadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ápi ← ápi (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+átviṣuḥ ← √tvíṣ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+avivyacuḥ ← √vyac- (root)  
+{number:PL, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+yā́ni ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+tanū́ṣu ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+viviśuḥ ← √viś- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +235,4 @@ Der Götter Grösse ward den Vätern auch zu Theil; sie selbst nun Götter theil
 Они вобрали в себя (все деяния,) которые сверкали:  
 (Те) снова вошли в их тела.
 </details>
+

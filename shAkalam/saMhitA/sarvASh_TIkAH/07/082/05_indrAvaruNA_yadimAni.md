@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakráthuḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+imā́ni ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+índrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+jātā́ni ← √janⁱ- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+majmánā ← majmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+duvasyáti ← √duvasy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣémeṇa ← kṣéma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇam ← váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+marúdbhiḥ ← marút- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śúbham ← śúbh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Seitdem ihr die Geschöpfe alle dieser Welt geschaffen habt mit Macht, o Indra-V
 Митра миром воздает Варуне,  
 (А) другой, грозный едет с Марутами для блеска.
 </details>
+

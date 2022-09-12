@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ayátham ← ayátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+godhā́ḥ ← godhā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+karṣat ← √kr̥ṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+tébhyaḥ ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+ánnaiḥ ← ánna- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+brahmáṇaḥ ← brahmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pratipī́yanti ← √pī- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+adanti ← √ad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+avasr̥ṣṭā́n ← √sr̥j- (root)  
+{case:ACC, gender:M, number:PL, non-finite:PPP}
+
+simé ← simá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ukṣṇáḥ ← ukṣán- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bálāni ← bála- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śr̥ṇānā́ḥ ← √śr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+svayám ← svayám (invariable)  
+{}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +201,4 @@ Denen soll ein Krokodil das Bein wegschleppen, die widerstreben, die Priester mi
 Такие едят даже отпущенных быков,  
 Сами разрушая силы (своего) тела.
 </details>
+

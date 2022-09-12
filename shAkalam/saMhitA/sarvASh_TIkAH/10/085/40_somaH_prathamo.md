@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vivide ← √vid- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+gandharváḥ ← gandharvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vivide ← √vid- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tr̥tī́yaḥ ← tr̥tī́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manuṣyajā́ḥ ← manuṣyajā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+turī́yaḥ ← turī́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +183,4 @@ Soma erhielt dich zuerst; der Gandharve erhielt dich als der zweite, dein dritte
 Третий твой муж – Агни,  
 Четвертый твой – рожденный от человека.
 </details>
+

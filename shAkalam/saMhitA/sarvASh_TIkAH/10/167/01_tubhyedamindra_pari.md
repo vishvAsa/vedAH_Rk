@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+sicyate ← √sic- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+túbhya ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+kaláśasya ← kaláśa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rājasi ← √rāj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+puruvī́rām ← puruvī́ra- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+u ← u (invariable)  
+{}
+
+ajayaḥ ← √ji- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+paritápya ← √tap- (root)  
+{non-finite:CVB}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tápaḥ ← tápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +243,4 @@ Dir, Indra, wird der süsse Trank ergossen nun, du bist der Herr des Bechers und
 Ты создай нам богатство, состоящее из многих сыновей!  
 Ты завоевал солнце, воспламенив жар.
 </details>
+

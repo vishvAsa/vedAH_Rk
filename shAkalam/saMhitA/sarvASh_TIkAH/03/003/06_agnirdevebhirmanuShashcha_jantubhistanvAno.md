@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+jantúbhiḥ ← jantú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+purupéśasam ← purupéśas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tanvānáḥ ← √tan- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+rathī́ḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sā́dhadiṣṭibhiḥ ← sā́dhadiṣṭi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+abhiśasticā́tanaḥ ← abhiśasticā́tana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dámūnāḥ ← dámūnas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jīráḥ ← jīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ Das reichgeschmückte Opfer webend mit Verstand für Götter Agni und auch für 
 Движется как колесничий между (двух миров),  
 Живой домашний (бог), прогоняющий проклятия.
 </details>
+

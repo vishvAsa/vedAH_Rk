@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+arṇavā́t ← arṇavá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+samudrā́t ← samudrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ajāyata ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+saṁvatsaráḥ ← saṁvatsará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ahorātrā́ṇi ← ahorātrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vidádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+miṣatáḥ ← √miṣ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vaśī́ ← vaśín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -87,7 +118,7 @@ popular;; epic anuṣṭubh (292)
 **अर्णवात् समुद्रात्** सृष्टाद् अध्यूर्ध्वं **संवत्सरः** संवत्सरोपलक्षितः सर्वः कालोऽजायत।  
 श्रूयते हि - 
 
-> सर्वे निमेषा जज्ञिरे, विद्युतः पुरुषाद् अधि कला-मुहूर्ताः काष्ठाश् च। तै. आ. १०-१-२। 
+&gt; सर्वे निमेषा जज्ञिरे, विद्युतः पुरुषाद् अधि कला-मुहूर्ताः काष्ठाश् च। तै. आ. १०-१-२। 
 
 इति। 
 
@@ -133,3 +164,4 @@ Er wandelt in des Lichtes Raum, vor seinem Hauch erlischt das Roth, Der starke h
 Распределяющий дни и ночи,  
 Владыка всего, что моргает.
 </details>
+

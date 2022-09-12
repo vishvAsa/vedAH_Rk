@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+cyāvayatu ← √cyu- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+itás ← itás (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ánaṣṭapaśuḥ ← ánaṣṭapaśu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadat ← √dā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+etébhyaḥ ← eṣá (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+pitŕ̥bhyaḥ ← pitár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+suvidatríyebhyaḥ ← suvidatríya- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +227,4 @@ Dich führe Puschan fort von hier, der kund'ge, der Hirt der Welt, der nie ein R
 Пусть передаст тебя этим отцам  
 Агни – отцам, которых легко найти.
 </details>
+

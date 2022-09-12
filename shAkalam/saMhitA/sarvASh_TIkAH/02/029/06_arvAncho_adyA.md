@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+arvā́ñcaḥ ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhavata ← √bhū- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yajatrāḥ ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bháyamānaḥ ← √bhī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+hā́rdi ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vyayeyam ← √vyā- (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nijúraḥ ← nijúr- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+trā́dhvam ← √trā- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:MED}
+
+vŕ̥kasya ← vŕ̥ka- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+avapádaḥ ← √pad- (root)  
+{case:ABL, number:SG}
+
+kartā́t ← kartá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+trā́dhvam ← √trā- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:MED}
+
+yajatrāḥ ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ O seid uns heute nahe, hehre Götter, an euer Herz will fürchtend ich mich schm
 Спасите нас, о боги, от волка, чтобы не сожрал!  
 Спасите нас от ямы, чтобы не упасть, о достойные жертв!
 </details>
+

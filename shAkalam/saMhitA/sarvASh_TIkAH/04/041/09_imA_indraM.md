@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+manīṣā́ḥ ← manīṣā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+váruṇam ← váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ágman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ichámānāḥ ← √iṣ- 2 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+asthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+joṣṭā́raḥ ← joṣṭár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhíkṣamāṇāḥ ← √bhaj- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED, mood:DES}
+
+iva ← iva (invariable)  
+{}
+
+raghvī́ḥ ← raghú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śrávasaḥ ← śrávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Zu Varuna und Indra gingen meine Gebete hier, nach reichem Schatz verlangend, Si
 Они подошли к ним, как те, кто наслаждается добром,  
 Словно скаковые кобылицы, ищущие славы.
 </details>
+

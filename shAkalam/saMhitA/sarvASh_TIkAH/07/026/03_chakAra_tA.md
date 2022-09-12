@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anyā́ ← anyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cakā́ra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kr̥ṇávat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+nūnám ← nūnám (invariable)  
+{}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+bruvánti ← √brū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sutéṣu ← √su- (root)  
+{case:LOC, gender:M, number:PL, non-finite:PPP}
+
+vedhásaḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yā́ni ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jánīḥ ← jáni- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samānáḥ ← samāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+māmr̥je ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sárvāḥ ← sárva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sú ← sú (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,3 +250,4 @@ Dies hat gethan er, andres thue jetzt er, was bei den Mahlen hoch die Ordner rü
 Как один общий муж – (своих) жен,  
 Индра сильно прижал к себе все крепости.
 </details>
+

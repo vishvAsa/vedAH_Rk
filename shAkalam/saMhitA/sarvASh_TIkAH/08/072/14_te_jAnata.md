@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+jānata ← √jñā- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+okyàm ← okyà- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+svám ← svá- (pronoun)  
+{case:ACC, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+mātŕ̥bhiḥ ← mātár- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+vatsā́saḥ ← vatsá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jāmíbhiḥ ← jāmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mithás ← mithás (invariable)  
+{}
+
+nasanta ← √nas- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Sie kennen wohl ihr eignes Haus, sie paaren mit den Schwestern sich, Wie Kälber
 Словно телята с матерями,  
 Попеременно они соединяются с собратьями.
 </details>
+

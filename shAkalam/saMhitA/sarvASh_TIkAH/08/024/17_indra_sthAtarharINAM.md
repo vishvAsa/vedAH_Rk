@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+harīṇām ← hári- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sthātar ← sthā́tar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+pūrvyástutim ← pūrvyástuti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ānaṁśa ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bhandánā ← bhandánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Der Füchse Lenker, Indra du! niemand hat deinen alten Ruhm Jemals durch Stärke
 Никто не сравнился с твоей  
 Высшей хвалой ни по силе, ни по славным свершениям!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́vitha ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+paurám ← paurá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śagdhí ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+síṣāsataḥ ← √sanⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+kŕ̥pam ← kŕ̥pa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rúśamam ← rúśama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śagdhí ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+śyā́vakam ← śyā́vaka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ā́vaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+svàrṇaram ← svàrṇara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +213,4 @@ Sei hold, o Indra, wie du einst dem Paura halfst, den Bitten des Begehrenden, Se
 Постарайся, как (тогда, когда) помогал ты, о Индра,  
 Рушаме, Шьяваке, Крипе, Сварнаре!
 </details>
+

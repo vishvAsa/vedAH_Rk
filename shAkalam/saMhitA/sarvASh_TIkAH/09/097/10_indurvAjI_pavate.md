@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gónyoghāḥ ← gónyoghas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ínvan ← √i- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árātīḥ ← árāti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+bā́dhate ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+hánti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+rákṣaḥ ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇván ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+várivaḥ ← várivas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥jánasya ← vr̥jána- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +204,7 @@ Admittedly, there is no independently attested s-stem *óghas-. But consider the
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 This tṛca is attributed to Manyu Vāsiṣṭha, with the name possibly extracted from the previous tṛca, where manyú- in 8a is taken by some as part of a PN (see comm. above).
@@ -183,3 +238,4 @@ Der schnelle Indu strömt zu Kühen eilend, dem Indra Kraft zum Rausch erregend,
 Он убивает ракшаса, он оттесняет кругом враждебные силы,  
 Создавая широкое пространство, (этот) царь общины.
 </details>
+

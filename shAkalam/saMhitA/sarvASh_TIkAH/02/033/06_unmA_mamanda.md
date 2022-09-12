@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+mamanda ← √mand- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+marútvān ← marútvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nā́dhamānam ← √nādh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+tvákṣīyasā ← tvákṣīyaṁs- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+váyasā ← váyas- 2 (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+arapā́ḥ ← arapás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśīya ← √naś- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:MED}
+
+chāyā́m ← chāyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ghŕ̥ṇī ← ghŕ̥ṇi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+rudrásya ← rudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vivāseyam ← √vanⁱ- (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Erfreut hat mich der Held mit seinen Marut's mit gröss'rer Kraft, als ich um H�
 Как сквозь солнечный зной тени я хотел бы достигнуть,  
 Я хотел бы добиться милости Рудры!
 </details>
+

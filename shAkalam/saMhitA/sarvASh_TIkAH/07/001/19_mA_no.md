@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+avī́rate ← avī́ratā- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+párā ← párā (invariable)  
+{}
+
+ámataye ← ámati- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+asyaí ← ayám (pronoun)  
+{case:DAT, gender:F, number:SG}
+
+durvā́sase ← durvā́sas- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+kṣudhé ← kṣúdh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rakṣáse ← rakṣás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+r̥tāvaḥ ← ŕ̥tāvan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+juhūrthāḥ ← √hr̥̄- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:MED}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+váne ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +257,4 @@ Nicht gib uns, Agni, hin dem Kindermangel, nicht hin der Armuth, die in Lumpen w
 Ни голоду нас (не выдай), ни ракшасу, о (бог,) следующий закону!  
 Не сбей нас с пути ни дома, ни в лесу!
 </details>
+

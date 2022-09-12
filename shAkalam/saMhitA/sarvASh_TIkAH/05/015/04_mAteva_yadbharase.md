@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhárase ← √bhr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+paprathānáḥ ← √prathⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+cákṣase ← cákṣas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dhā́yase ← dhā́yas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+jánaṁ-janam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+jarase ← √gr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+váyo-vayaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jigāsi ← √gā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+víṣurūpaḥ ← víṣurūpa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Wenn schwanger du wie eine Mutter alle Geschlechter trägst und säugst und auf 
 Когда ты бодрствуешь, набираясь все новой и новой жизненной силы,  
 Меняя облик, ты сам движешься кругом.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sávīmani ← sávīman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+śréṣṭhe ← śréṣṭha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vásunaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+cátuṣpadaḥ ← cátuṣpad- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dvipádaḥ ← dvipád- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bhū́manaḥ ← bhū́man- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+nivéśane ← nivéśana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+prasavé ← prasavá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Uns sei ein Antheil an des Gottes Savitar heilsamster Spende, dass wir reiches G
 (Тот,) кто способен успокоить и побудить  
 Двуногого (и) четвероногого – всю землю!
 </details>
+

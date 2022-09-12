@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+stómaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugrā́ya ← ugrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vā́he ← √vāh- (root)  
+{case:DAT, number:SG}
+
+adhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhurí ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+vājáyan ← √vājay- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+arkáḥ ← arká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+īṭṭe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śrómatam ← śrómata- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,3 +274,4 @@ Dies Loblied ward zur Fahrt dem grossen, starken geschirrt wie an das Joch ein s
 О Индра, эта песня просит тебя о благах.  
 Как один день на другой, положи на нас признание!
 </details>
+

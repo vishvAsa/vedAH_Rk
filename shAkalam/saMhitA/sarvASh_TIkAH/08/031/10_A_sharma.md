@@ -15,13 +15,38 @@ ChandaH = "पादनिचृत्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+párvatānām ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+nadī́nām ← nadī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vr̥ṇīmáhe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+sacābhúvaḥ ← sacābhū́- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víṣṇoḥ ← víṣṇu- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +137,4 @@ Der Berge Schutz begehren wir, den Schutz der Ströme wünschen wir, Und Vischnu
 Гор и рек,  
 (О защите) Вишну, (с ними) связанного.
 </details>
+

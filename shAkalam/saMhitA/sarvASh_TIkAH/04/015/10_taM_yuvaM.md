@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+devau ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+kumārám ← kumārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sāhadevyám ← sāhadevyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dīrghā́yuṣam ← dīrghā́yuṣ- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇotana ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +154,4 @@ Macht ihr, o Götter, Açvinen, den jungen Sohn des Sahadeva langlebend.
 Царевича Сахадевью  
 Сделайте наделенным долгим сроком жизни!
 </details>
+

@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+īm ← īm (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+rebháḥ ← rebhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+usrā́ḥ ← usrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vaste ← √vas- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mitrámahāḥ ← mitrámahas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rārapīti ← √rap- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+aruṣáḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dívā ← dívā (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aruṣáḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dívā ← dívā (invariable)  
+{}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,3 +260,4 @@ In Morgenroth gekleidet wie ein Sänger, spricht murmelnd er im Licht der Freund
 Кто ночью, кто днем, алый, (охраняет) мужей,  
 Бессмертный, кто днем, алый, (охраняет) мужей.
 </details>
+

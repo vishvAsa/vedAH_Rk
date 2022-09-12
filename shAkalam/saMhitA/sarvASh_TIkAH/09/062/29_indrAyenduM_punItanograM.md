@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+punītana ← √pū- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dákṣāya ← dákṣa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sā́dhanam ← sā́dhana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īśānám ← √īś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+vītírādhasam ← vītírādhas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -95,7 +120,7 @@ Although it may not be clear from the Engl. tr., the phrase beginning “the str
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/28-30.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
 No overt signs of unity.
@@ -124,3 +149,4 @@ Dem Indra macht den Indu hell, dem starken den, der kräftig hilft, Den Herrsche
 
 -ru-
 </details>
+

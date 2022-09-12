@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cákṣase ← cákṣas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+maháḥ ← mahás- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+saparyata ← √sapary- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+devájātāya ← devájāta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dūredŕ̥śe ← dūredŕ̥ś- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ketáve ← ketú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+putrā́ya ← putrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śaṁsata ← √śaṁs- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sū́ryāya ← sū́rya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +208,4 @@ Anbetung sei dem Auge Mitra-Varuna's, dem Gotte bringt voll hoher Andacht Opfer 
 Светлому знаку, рожденному от богов, видному издалека,  
 Сыну неба Сурье произнесите (хвалу)!
 </details>
+

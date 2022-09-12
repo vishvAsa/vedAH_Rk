@@ -16,14 +16,90 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+jagr̥he ← √gr̥h- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svit ← svit (invariable)  
+{}
+
+áti ← áti (invariable)  
+{}
+
+cakr̥ma ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+juhurāṇáḥ ← √hr̥̄- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+ápi ← ápi (invariable)  
+{}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ślókaḥ ← ślóka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jaḥ ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yātā́m ← √yā- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,3 +270,4 @@ Was hat uns König Varuna ergriffen? was thaten gegen sein Gebot wir? sagt es; A
 Даже сам Митра вводит в заблуждение богов –  
 (А) награда приближается, как шум выезжающих (колесниц).
 </details>
+

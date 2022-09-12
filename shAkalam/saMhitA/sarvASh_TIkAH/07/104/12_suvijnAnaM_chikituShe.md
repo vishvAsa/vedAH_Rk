@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+cikitúṣe ← √cit- (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+suvijñānám ← suvijñāná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́sat ← ā́sant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+paspr̥dhāte ← √spr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
+sát ← √as- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+vácasī ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+ŕ̥jīyaḥ ← ŕ̥jīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+táyoḥ ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:N, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yatarát ← yatará- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́sat ← ā́sant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+avati ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hánti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Der weise Mann weiss klar zu unterscheiden, wenn wahre Red' und Lüge sich bekä
 Какая из двух истинная, какая более правдивая,  
 Ее только и поддерживает Сома; ничтожную он убивает.
 </details>
+

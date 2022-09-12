@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́t ← ā́t (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+pratnásya ← pratná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rétasaḥ ← rétas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+paśyanti ← √paś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vāsarám ← vāsará- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+divā́ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+idhyáte ← √idh- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+parás ← parás (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +159,4 @@ Dann erst lässt schauen sich das Licht, das aus dem alten Samen stammt, Das hel
 Древнего семени,  
 Что зажигается по ту сторону неба.
 </details>
+

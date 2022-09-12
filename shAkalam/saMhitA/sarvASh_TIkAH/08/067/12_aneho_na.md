@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+aneháḥ ← anehás- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+uruvraje ← uruvraja- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+prásartave ← √sr̥- 2 (root)  
+{case:DAT, number:SG}
+
+úrūci ← uruvyáñc- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+kr̥dhí ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+tokā́ya ← toká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,7 +133,7 @@ and for our offspring to live.
 Since anehás- is an adjective, a noun needs to be supplied with it (contra Geldner, Renou). I supply ‘shelter’ on the basis of VIII.18.21 (also a hymn to the Ādityas) containing aneháḥ … trivárūtham … chardíḥ, with the várūtha- and chardís- found in our vss. 3b, 6b.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/067/12-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/067/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
 The correlative of yé in 13 is té in 14, but this unremarkable pairing actually conceals a bit of trickery: yé has 3rd ps. reference, but té has 2nd ps. reference, with the impv. mumócata -- with a change in person in midstream that is not evident until the verb is reached at the end of pāda b.
@@ -136,3 +164,4 @@ Weitschreitende, weitreichende, schaff unsern Kindern sichern Schutz, Dass leben
 С громадной оградой, чтобы (наш род) далеко распространился,  
 Чтобы жило (наше) потомство!
 </details>
+

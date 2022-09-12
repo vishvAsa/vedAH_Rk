@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vanejā́ḥ ← vanejā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víṣūcaḥ ← víṣvañc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuyuje ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+gr̥bhītā́n ← √gr̥bhⁱ- (root)  
+{case:ACC, gender:M, number:PL, non-finite:PPP}
+
+raśanā́bhiḥ ← raśanā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ŕ̥jītibhiḥ ← ŕ̥jīti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+cakṣadé ← √kṣad- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sújātaḥ ← sújāta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásubhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ānr̥dhe ← √r̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+párvabhiḥ ← párvan- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+vāvr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +198,4 @@ Ungleiche Rosse schirrt der Holzentstammte, die er ergreift mit strahlenreichen 
 Прекрасно рожденный друг вкушает трапезу вместе с Васу,  
 Он стал процветать (всеми) членами.
 </details>
+

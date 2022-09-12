@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+brahmayújā ← brahmayúj- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yunajmi ← √yuj- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+āśū́ ← āśú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+hárī ← hári- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sadhamā́de ← sadhamā́da- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sákhāyā ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+adhitíṣṭhan ← √sthā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sthirám ← sthirá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sukhám ← sukhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prajānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +227,4 @@ Ich schirre dir durch Spruch die spruchgeschirrten das rasche Rossepaar beim Mah
 Взойдя на прочную легкоходную колесницу, о Индра,  
 Предвосхищая как знаток, приезжай на сому!
 </details>
+

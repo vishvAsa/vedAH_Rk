@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+adābhyā ← ádābhya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+yajñé ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jaritā́ram ← jaritár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+patī ← páti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śubhaḥ ← śúbh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+avasyúm ← avasyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+bhūṣathaḥ ← √bhūṣ- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+gr̥ṇántam ← √gr̥̄- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́dhvī ← mā́dhvī- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+śrutam ← √śru- (root)  
+{number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +193,4 @@ Bei diesem Opfer nahet euch dem Sänger, der nach Gunst verlangt, O Herrn des Sc
 О Ашвины, прославляющем (вас).  
 О любители меда, услышите мой призыв!
 </details>
+

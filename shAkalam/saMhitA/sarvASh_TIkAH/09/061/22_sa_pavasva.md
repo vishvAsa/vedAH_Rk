@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́vitha ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hántave ← √han- (root)  
+{case:DAT, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥trā́ya ← vr̥trá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vavrivā́ṁsam ← √vr̥- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,7 +135,7 @@ A nice example where surface grammar clashes with mythological content and the l
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/22-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 The tṛca has something of an emphasis on combat and winning, and the Vṛtra topic introduced in 22 is reprised via phonological deformation by vratéṣu in 24c.
@@ -135,3 +166,4 @@ So riesle, der du Beistand gabst dem Indra, dass er Vritra schlug, Der fest die 
 Индре убить Вритру,  
 Запрудившего великие воды.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+keśínā ← keśín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yogyā́bhiḥ ← yogyá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dhiṣva ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+dhurí ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ghr̥tasnúvā ← ghr̥tasnú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+róhitā ← róhita- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥ṇuhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+svadhvarā́ ← svadhvará- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Des Opfers Rosse, mähnig, butterträufelnd, die rothen schirr mit Strängen an 
 Затем привези сюда всех богов, о бог!  
 Устрой удачные обряды, о Джатаведас!
 </details>
+

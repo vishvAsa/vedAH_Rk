@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asuryàm ← asuryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhāráyethām ← √dhr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sómārudrā ← somārudra- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+áram ← áram (invariable)  
+{}
+
+aśnuvantu ← √naś- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+iṣṭáyaḥ ← iṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+dádhānā ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+dáme-dame ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rátnā ← rátna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bhūtam ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+cátuṣpade ← cátuṣpad- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dvipáde ← dvipád- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+śám ← śám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Bewährt, o Soma-Rudra, eure Gottheit, euch mögen unsre Wünsche schnell erreic
 В каждый дом принося семь сокровищ,  
 Будьте на благо (нашему) двуногому, (нашему) четвероногому!
 </details>
+

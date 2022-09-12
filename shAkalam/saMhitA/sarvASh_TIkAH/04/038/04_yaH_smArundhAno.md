@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ārundhānáḥ ← √rudh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+gádhyā ← gádhya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+samátsu ← samád- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sma ← sma (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cárati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gáchan ← √gam- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sánutaraḥ ← sánutara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āvírr̥jīkaḥ ← āvírr̥jīka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nicíkyat ← √ci- 3 (root)  
+{gender:M}
+
+vidáthā ← vidátha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́paḥ ← ā́pas- (?) (nominal stem)  
+{gender:N}
+
+aratím ← aratí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āyóḥ ← āyú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+tirás ← tirás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +222,4 @@ Der an sich reisst die Beute in den Schlachten, der Gut gewinnt, der eilt, nach 
 (Коня,) чьи признаки очевидны (?), кто, замечая жертвенные раздачи,  
 Через диск (солнца охватил) кругом дело Аю.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+āyúbhiḥ ← āyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+marmr̥jānáḥ ← √mr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hitáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+práyase ← práyas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+práyasvān ← práyasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -102,7 +130,7 @@ As it happens both Geldner and Renou also opt for √dhā here.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/22-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 No strong signs of unity, though a form of pávamāna- opens vss. 22 and 24, but Soma as the sun in 22c returns in the theme of light and the defeat of darkness in 24bc.
@@ -135,3 +163,4 @@ Gereinigt von den eifrigen, zur Labung labungsreich entsandt, Der weise Indu als
 
 -ru-
 </details>
+

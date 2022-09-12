@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+cit ← cit (invariable)  
+{}
+
+gauryàm ← gaurī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ámuñcata ← √muc- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+padí ← pád- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sitā́m ← √sā- ~ si- (root)  
+{case:ACC, gender:F, number:SG, non-finite:PPP}
+
+yajatrāḥ ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+evá ← evá (invariable)  
+{}
+
+muñcata ← √muc- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+pratarám ← pratarám (invariable)  
+{}
+
+tāri ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +250,4 @@ Wie ihr auch einst, o Vasu's, die am Fuss gebundene Büffelin gelöst habt, so l
 Так же и нас вы освободите от беды!  
 Да продлится, о Агни, дальше срок наше жизни!
 </details>
+

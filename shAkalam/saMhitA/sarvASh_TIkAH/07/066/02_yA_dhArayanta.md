@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhāráyanta ← √dhr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+dákṣapitarā ← dákṣapitar- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sudákṣā ← sudákṣa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+asuryā̀ya ← asuryà- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+prámahasā ← prámahas- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +134,4 @@ Die weisen, die der Weisheit Hort, die grossen, die zur Geistesmacht Die Götter
 Для асурской силы, (их) очень великих,  
 С прекрасной силой действия, сыновей Дакши,
 </details>
+

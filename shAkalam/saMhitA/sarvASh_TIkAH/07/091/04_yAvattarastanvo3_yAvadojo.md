@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+táraḥ ← táras- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yā́vat ← yā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yā́vat ← yā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cákṣasā ← cákṣas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dī́dhyānāḥ ← √dhī- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yā́vat ← yā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+pātam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śúcim ← śúci- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śucipā ← śucipā́- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+índravāyū ← indra-vāyú- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sádatam ← √sad- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Soweit des Leibes Rüstigkeit und Kraft reicht, soviel die Männer schau'n mit i
 Чистого сому испейте у нас, о (вы,) пьющие чистого (сому)!  
 О Индра0Ваю, садитесь на эту жертвенную солому!
 </details>
+

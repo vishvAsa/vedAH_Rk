@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380);; repeated line  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+sarvahútaḥ ← sarvahúta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tásmāt ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+yajñā́t ← yajñá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+jajñire ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ŕ̥caḥ ← ŕ̥c- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sā́māni ← sā́man- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+chándāṁsi ← chándas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jajñire ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+tásmāt ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+ajāyata ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+tásmāt ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+yájuḥ ← yájus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,52 +150,51 @@ popular;; epic anuṣṭubh (380)
 
 - १. **पृषदाज्य**-शब्दार्थं विवृणोति श्रुत्यन्तरे - 
   
-> ओषध्यः पशवो वृक्षाः  
-> वीरुदाज्यं पयोदधि ।  
-> हविर्भूमिर्दिशश्श्रद्धा  
-> कालश्चैतानि द्वादश ।।  
-> (म.भा.शां.प.२६०-१६) 
+&gt; ओषध्यः पशवो वृक्षाः  
+&gt; वीरुदाज्यं पयोदधि ।  
+&gt; हविर्भूमिर्दिशश्श्रद्धा  
+&gt; कालश्चैतानि द्वादश ।।  
+&gt; (म.भा.शां.प.२६०-१६) 
 
-> अन्नं हि पृषदाज्यम्, प्राणो हि पृषदाज्यम् (श.ब्रा.३-८-४-८) 
+&gt; अन्नं हि पृषदाज्यम्, प्राणो हि पृषदाज्यम् (श.ब्रा.३-८-४-८) 
 
 ग्राम्याऽरण्यादि पशुभेदान् वर्ण्यते - 
 
-> गौरजः पुरुषो मेषश्  
-> चाश्वातरगर्दभाः ।  
-> एतान् ग्राम्यान् पशूनाहुः  
-> आरण्यांश्च निबोध मे ।।  
-> (वि.पु.१-५-५१)  
-> श्वापदा द्विखरा हस्ति  
-> वानराः पक्षिपञ्चमाः ।  
-> औदकाः पशवः षष्ठाः  
-> सप्तमास्तु सरीसृपाः ।।  
-> (वि.पु.१-५-५२) 
+&gt; गौरजः पुरुषो मेषश्  
+&gt; चाश्वातरगर्दभाः ।  
+&gt; एतान् ग्राम्यान् पशूनाहुः  
+&gt; आरण्यांश्च निबोध मे ।।  
+&gt; (वि.पु.१-५-५१)  
+&gt; श्वापदा द्विखरा हस्ति  
+&gt; वानराः पक्षिपञ्चमाः ।  
+&gt; औदकाः पशवः षष्ठाः  
+&gt; सप्तमास्तु सरीसृपाः ।।  
+&gt; (वि.पु.१-५-५२) 
 
 ऋगादि वेदानां सृष्टिर् अनुवर्ण्यते श्रुतिस्मृतिषु - 
 
-> 'ऋचः सामानि छन्दांसि  
-> पुराणं यजुषा सह ।  
-> उच्छिष्टाज् जज्ञिरे सर्वे  
-> दिवि देवा दिवि श्रिताः ।'  
-> (अथर्व.११-७-२४) 
+&gt; 'ऋचः सामानि छन्दांसि  
+&gt; पुराणं यजुषा सह ।  
+&gt; उच्छिष्टाज् जज्ञिरे सर्वे  
+&gt; दिवि देवा दिवि श्रिताः ।'  
+&gt; (अथर्व.११-७-२४) 
 
 वेदानां गायत्र्यादिछन्दोन्वितत्वात् पुनश्छन्दांसीति पदं चतुर्थस्याथर्ववेदस्योत्पत्तिं ज्ञापयतीत्यवधेयम् । (ऋ.भा.भू.) 
 
-> सर्वेषां तु स नामानि  
-> कर्माणि च पृथक् पृथक् ।  
-> वेदशब्देभ्य एवादौ  
-> पृथक् संस्थाश्च निर्ममे ।।  
-> (म.स्मृ.१-२१)
+&gt; सर्वेषां तु स नामानि  
+&gt; कर्माणि च पृथक् पृथक् ।  
+&gt; वेदशब्देभ्य एवादौ  
+&gt; पृथक् संस्थाश्च निर्ममे ।।  
+&gt; (म.स्मृ.१-२१)
 
  
-> अग्निवायु-रविभ्यस् तु  
-> त्रयं ब्रह्म सनातनम् ।  
-> दुदोह यज्ञसिद्ध्यर्थम्  
-> ऋग्यजुः सामलक्षणम् ।।  
-> (म.स्मृ.१-२३)
+&gt; अग्निवायु-रविभ्यस् तु  
+&gt; त्रयं ब्रह्म सनातनम् ।  
+&gt; दुदोह यज्ञसिद्ध्यर्थम्  
+&gt; ऋग्यजुः सामलक्षणम् ।।  
+&gt; (म.स्मृ.१-२३)
 
 </details>
-
 
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -210,9 +246,6 @@ popular;; epic anuṣṭubh (380)
 तत्रैव अर्थान्तरम् । **पृषदाज्यम्** दधिमिश्रम् आज्यं संभृतम् संपादितम् । दधि च आज्यं च इत्येवमादि भोग्यजातं सर्वं संपादितम् इत्यर्थः । तथा द्विविधान् **पशुंश्चक्रे** प्राणेन्द्रियसमष्टिरूपः प्रजापतिर् एवेति ।। १४ ।।
 </details>
 
-
-
-
 <details><summary>Wilson</summary>
 
 
@@ -254,3 +287,4 @@ Aus diesem vollständig dargebrachten Opfer entsprangen die Hymnen [des Rig-Veda
 Стихотворные размеры родились из нее,  
 Ритуальная формула из нее родилась.
 </details>
+

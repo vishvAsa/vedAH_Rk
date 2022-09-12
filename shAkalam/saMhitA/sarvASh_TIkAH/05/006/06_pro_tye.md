@@ -17,15 +17,73 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agnáyaḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+agníṣu ← agní- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+puṣyanti ← √puṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́ryam ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hinvire ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+invire ← √i- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+iṣaṇyanti ← √iṣaṇ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Zur Blüte bringen alles Gut durch Feuer diese Feuer hier; Sie eilen sich, sie t
 Они спешат один за другим.  
 Принеси восхвалителям жертвенную усладу!
 </details>
+

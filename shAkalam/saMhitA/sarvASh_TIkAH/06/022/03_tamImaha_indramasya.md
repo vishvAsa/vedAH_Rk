@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+nr̥vátaḥ ← nr̥vánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+purukṣóḥ ← purukṣú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+puruvī́rasya ← puruvī́ra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ajáraḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áskr̥dhoyuḥ ← áskr̥dhoyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svàrvān ← svàrvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mādayádhyai ← √mad- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Ihn flehn wir an um solches Gut, den Indra, das reich an Söhnen, Helden sei und
 (Богатство,) которое не скудно, не стареет, солнечно.  
 Его принесли, о хозяин буланых коней, чтобы оно (нас) радовало!
 </details>
+

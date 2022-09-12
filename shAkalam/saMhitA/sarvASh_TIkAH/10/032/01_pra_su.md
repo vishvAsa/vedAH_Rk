@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhiyasānásya ← dhiyasāná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gmántā ← √gam- (root)  
+{case:NOM, gender:M, number:DU, tense:AOR, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sakṣáṇi ← √sah- (root)  
+{case:LOC, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+prasī́dataḥ ← √sad- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+varā́n ← vará- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+varébhiḥ ← vará- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jujoṣati ← √juṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+ubháyam ← ubháya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+búbodhati ← √budh- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+somyásya ← somyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ Rasch eilet vor das Rossepaar des schauenden, der mit den schönen sich zu schö
 Пусть Индра наслаждается у нас тем и другим,  
 Когда он обратит внимание на напиток из сомы!
 </details>
+

@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajayat ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+híraṇyā ← híraṇya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+aśviyā́ ← aśviyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ebhíḥ ← ayám (pronoun)  
+{case:INS, gender:M, number:PL}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nŕ̥tamaḥ ← nŕ̥tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śākaíḥ ← śāká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{}
+
+sambharáḥ ← sambhará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vibhaktā́ ← vibhaktár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +242,4 @@ Durch Kampf gewann viel Gold und Rinder Indra, Rossscharen er, der mächt'ge Bur
 Самый мужественный, с этими мужьями, его помощниками,  
 Раздаватель богатства, собиратель блага.
 </details>
+

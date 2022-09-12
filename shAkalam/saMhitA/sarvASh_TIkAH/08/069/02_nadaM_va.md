@@ -16,14 +16,45 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nadám ← nadá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ódatīnām ← ódatī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+nadám ← nadá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yóyuvatīnām ← √yu- 2 (root)  
+{case:GEN, gender:F, number:PL, tense:PRS, voice:ACT}
+
+ághnyānām ← ághnya- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+dhenūnā́m ← dhenú- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+iṣudhyasi ← √iṣudhy- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +157,4 @@ Auf euren Stier der quellenden, den Stier der sich vermischenden, Auf euren Herr
 
 -ru-
 </details>
+

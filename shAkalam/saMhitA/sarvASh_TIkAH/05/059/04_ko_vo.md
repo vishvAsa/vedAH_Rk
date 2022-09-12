@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśnavat ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mahā́nti ← mahā́nt- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mahatā́m ← mahā́nt- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kā́vyā ← kā́vya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+paúṁsyā ← paúṁsya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bhū́mim ← bhū́mi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+kiráṇam ← kiráṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rejatha ← √rej- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+bháradhve ← √bhr̥- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:MED}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +256,4 @@ Wer kann erreichen, was ihr grosse grosses habt, wer, Maruts, eure Heldenthat un
 Это вы приводите в трепет землю, как пылинку,  
 Когда вы несетесь вперед, чтобы дать счастливый ход (делу).
 </details>
+

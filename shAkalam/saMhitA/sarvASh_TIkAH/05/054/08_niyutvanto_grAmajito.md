@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+grāmajítaḥ ← grāmajít- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+niyútvantaḥ ← niyútvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+aryamáṇaḥ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kabandhínaḥ ← kabandhín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ásvaran ← √svar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+inā́saḥ ← iná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pínvanti ← √pinv- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+útsam ← útsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ándhasā ← ándhas- 2 (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+undanti ← √ud- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Reich an Gespannen, Heerbesiegern, Helden gleich, wie Busenfreunde füllen sie d
 Делают набухшим источник, когда они, стремительные, зашумели.  
 Они наводняют землю напитком меда.
 </details>
+

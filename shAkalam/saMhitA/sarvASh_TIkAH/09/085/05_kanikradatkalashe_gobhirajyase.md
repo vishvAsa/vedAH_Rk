@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajyase ← √añj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+kaláśe ← kaláśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kánikradat ← √krand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+arṣasi ← √arṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+avyáyam ← avyáya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samáyā ← samá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vā́ram ← vā́ra- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marmr̥jyámānaḥ ← √mr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+sānasíḥ ← sānasí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+akṣaraḥ ← √kṣar- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jaṭháre ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Mit Milch der Kuh wirst wiehernd du im Krug gesalbt und mitten durch die Widderw
 Мощно начищаемый, словно скаковой конь, захватчик добычи,  
 Потек ты, о сома, Индре в живот.
 </details>
+

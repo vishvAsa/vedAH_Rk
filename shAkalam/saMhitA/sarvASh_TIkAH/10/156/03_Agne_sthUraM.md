@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sthūrám ← sthūrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśvínam ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gómantam ← gómant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥thúm ← pr̥thú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aṅdhí ← √añj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+khám ← khá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+paṇím ← paṇí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vartáya ← √vr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +163,4 @@ Bring', Agni, starken Reichthum uns an Rindern, Rossen, reichlichen, Die Büchse
 Широкое, состоящее из коров, состоящее из коней!  
 Смажь втулку! Пусти катиться Пани!
 </details>
+

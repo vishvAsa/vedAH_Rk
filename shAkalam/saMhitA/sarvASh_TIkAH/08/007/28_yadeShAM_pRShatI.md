@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+pŕ̥ṣatīḥ ← pŕ̥ṣant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+práṣṭiḥ ← práṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+róhitaḥ ← róhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váhati ← √vah- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+riṇán ← √rī- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+śubhrā́ḥ ← śubhrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yā́nti ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +170,4 @@ Wenn nun ihr rothes Seitenpferd am Wagen beide Hirsche lenkt, So fahren hell sie
 (И) рыжая везет как пристяжная,  
 Прекрасные выезжают (и) выпускают течь воды.
 </details>
+

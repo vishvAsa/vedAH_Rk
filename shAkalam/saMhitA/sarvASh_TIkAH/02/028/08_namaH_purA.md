@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+purā́ ← purā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+aparám ← aparám (invariable)  
+{}
+
+bravāma ← √brū- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+tuvijāta ← tuvijātá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+kam ← kam (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+párvate ← párvata- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śritā́ni ← √śri- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+ápracyutāni ← ápracyuta- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dūḷabha ← dūḷábha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Verehrung sprechen wir dir aus von jeher, so jetzt und künftig, Varuna, du star
 Ведь на тебя, как на гору, опираются обеты (человека),  
 (Чтобы быть) неколебимыми, о (бог,) которого трудно обмануть!
 </details>
+

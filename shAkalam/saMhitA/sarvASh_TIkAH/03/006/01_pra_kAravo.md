@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kāravaḥ ← kārú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mananā́ ← mananā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vacyámānāḥ ← √vañc- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:PASS}
+
+devadrī́cīm ← devadryáñc- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+devayántaḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+nayata ← √nī- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dakṣiṇāvā́ṭ ← dakṣiṇāváh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prā́cī ← prā́ñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vājínī ← vājín- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhárantī ← √bhr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ghr̥tā́cī ← ghr̥tā́ñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +188,4 @@ O Sänger streckt mit Andacht eifrig wirkend, ihr Frommen, vor den Löffel für 
 Следующая направо, содержащая награду, она движется вперед,  
 Неся жертвенное возлияние, полная масла для Агни.
 </details>
+

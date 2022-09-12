@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+arṣati ← √arṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kóśam ← kóśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+vásānaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+hiyānáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sotŕ̥bhiḥ ← sotár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+avīvaśat ← √vāś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+janáyan ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mandánāḥ ← mandána- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kr̥ṇvānáḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+nirṇíjam ← nirṇíj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +184,7 @@ apó vásānaḥ returns from 4b, 18c, along with the verb árṣa-, ubiquitous 
 gā́ḥ ‘cows’ needs to be read with both c and d. In the former it is the referent of the hapax mandánāḥ (whose sense is, however, easy to divine) and the obj. of the caus. redupl. aor. ‘causes to bellow’; in the latter it is the obj. of kṛṇvānáḥ and the target of the simile: “making the cows as if into his garment” (a simile that of course depends on a metaphor: cows = milk). I consider the ná to be displaced - we might expect *nirṇíjaṃ ná. This pāda, in this order, is also found in IX.14.5; for variants on the phrase without simile particle see IX.86.26, 95.1, all adduced by Geldner (n. 26d).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/25-26.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/25-26.md">
 <details open><summary><h2>25-26 ...{Loading}...</h2></summary>
 
 No particular signs of cohesion.
@@ -167,3 +216,4 @@ In Flut gekleidet strömt er zu dem Fass hindurch von Pressern Indu ausgesandt, 
 Порождая свет, он вызвал мычание радостных  
 Коров, как бы создавая себе праздничный наряд.
 </details>
+

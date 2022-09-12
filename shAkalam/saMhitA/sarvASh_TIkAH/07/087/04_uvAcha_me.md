@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+médhirāya ← médhira- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+uvā́ca ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ághnyā ← ághnya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bibharti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+gúhyā ← gúhya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+padásya ← padá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+vocat ← √vac- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+śíkṣan ← √śak- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+úparāya ← úpara- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yugā́ya ← yugá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Zu mir sprach Varuna, dem einsichtsvollen: »Die Weltkuh trägt der Namen dreima
 Кто ведает знак (имен), пусть произносит (их) как сокровенные,  
 Если этот вдохновенный хочет помочь будущему поколению.
 </details>
+

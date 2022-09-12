@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+sthána ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+vaiśvānarā́ḥ ← vaiśvānará- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+sapráthaḥ ← sapráthas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+áśvāya ← áśva- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gáve ← gáv- ~ gó- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yachata ← √yam- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +180,4 @@ Ihr Götter, die bei uns ihr seid, und alle in der ganzen Welt, Erstrecket ausge
 Держите широкий щит  
 Над нами, над коровой, над конем!
 </details>
+

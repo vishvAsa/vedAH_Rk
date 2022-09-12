@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ketúḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+préṣṭhaḥ ← préṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG, mood:OPT}
+
+śréṣṭhaḥ ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+upasthasát ← upasthasád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bódha ← √budh- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+dádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+stotré ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +163,4 @@ Du, Agni, bist der Menschen Licht, der liebste beste hier im Sitz; Des Sängers 
 Самый любимый, лучший, сидящий в лоне (закона).  
 Бодрствуй, давая силу восхвалителю!
 </details>
+

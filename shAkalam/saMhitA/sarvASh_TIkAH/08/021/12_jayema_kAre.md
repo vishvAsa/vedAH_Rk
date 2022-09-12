@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jáyema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+kāré ← kārá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kāríṇaḥ ← kārín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+dūḍhyàḥ ← dūḷhī́- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tiṣṭhema ← √sthā- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+hanyā́ma ← √han- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śūśuyā́ma ← √śū- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áveḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:OPT, tense:PRS, voice:ACT}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Wir seien siegreich, jubelnd in dem Schlachtenlärm, den bösen lass uns widerst
 Пусть убьем мы врага с помощью мужей и прибавим с силе!  
 Да поможешь ты, о Индра, нашим замыслам!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+suvr̥ktím ← suvr̥ktí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+asurā ← ásura- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kr̥ṇve ← √kr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+návīyaḥ ← návīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádabdhaḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ináḥ ← iná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+padavī́ḥ ← padavī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+bruvāṇáḥ ← √brū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ca ← ca (invariable)  
+{}
+
+jánam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yatati ← √yat- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Dies Loblied bring' ich, Varuna und Mitra, aufs neue euch wie Labetrunk, o Gött
 Один из вас деятельный пролагатель пути, не допускающий обмана.  
 А тот, кто зовется Митрой, приводит в порядок народ.
 </details>
+

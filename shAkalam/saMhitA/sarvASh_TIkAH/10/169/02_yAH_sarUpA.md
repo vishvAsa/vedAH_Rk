@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ékarūpāḥ ← ékarūpa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sárūpāḥ ← sárūpa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vírūpāḥ ← vírūpa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+íṣṭyā ← íṣṭi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+nā́māni ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+véda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yā́sām ← yá- (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+áṅgirasaḥ ← áṅgiras- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+cakrúḥ ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+tápasā ← tápas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+parjanya ← parjánya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tā́bhyaḥ ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:F, number:PL}
+
+yacha ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Die ähnlich, gleich, verschieden sind an Farbe, und deren Namen Agni kennt durc
 Кого Ангирасы создали здесь (своим) пылом,  
 Им, о Парджанья, даруй великую защиту!
 </details>
+

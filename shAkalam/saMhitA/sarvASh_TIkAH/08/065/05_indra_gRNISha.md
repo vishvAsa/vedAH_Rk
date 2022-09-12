@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+gr̥ṇīṣé ← √gr̥̄- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stuṣé ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+u ← u (invariable)  
+{}
+
+īśānakŕ̥t ← īśānakŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sutám ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +154,7 @@ is certainly not excluded. Since the “you” of the published translation (/ �
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/065/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/065/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 Note the cross-pragātha lexical agreement: 4a purusambhrtám̥ , 5c sám bharāmasi.
@@ -148,3 +185,4 @@ Dich, Indra, lob' und preise ich, dich, den Gebieter stark und gross, Komm her u
 Как великий, грозный, власть имеющий.  
 Иди, пей нашего выжатого (сому)!
 </details>
+

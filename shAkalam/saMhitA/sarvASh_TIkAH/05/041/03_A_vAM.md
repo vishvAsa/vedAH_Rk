@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+huvádhyai ← √hū- (root)  
+{case:DAT, number:SG, tense:AOR}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yéṣṭhā ← yéṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pátman ← pátman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+puṣṭaú ← puṣṭí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ráthyasya ← ráthya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vā́tasya ← vā́ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ásurāya ← ásura- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+ándhāṁsi ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bharadhvam ← √bhr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+yájyave ← yájyu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Euch Ritter ruf' ich, die ihr fahrt aufs beste, im Flug des Windes, in des Rosse
 Или же Асуре неба принесите  
 Молитву, как соки сомы – жаждущему жертвы!
 </details>
+

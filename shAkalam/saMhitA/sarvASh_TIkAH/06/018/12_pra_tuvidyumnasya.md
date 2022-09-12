@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ghŕ̥ṣveḥ ← ghŕ̥ṣvi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sthávirasya ← sthávira- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tuvidyumnásya ← tuvidyumná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mahimā́ ← mahimán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+rarapśe ← √rapś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pratimā́nam ← pratimā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śátruḥ ← śátru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pratiṣṭhíḥ ← pratiṣṭhí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+purumāyásya ← purumāyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sáhyoḥ ← sáhyu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Weit über Erd' und Himmel ragt die Grösse des wilderregten, tapfern, güterrei
 Нет на него врага, нет (ему) равного,  
 Нет удержу сильному, многохитрому.
 </details>
+

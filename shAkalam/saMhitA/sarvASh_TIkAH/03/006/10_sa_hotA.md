@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+urvī́ ← urú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+gr̥ṇītáḥ ← √gr̥̄- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vr̥dhé ← vŕ̥dh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yajñáṁ-yajñam ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adhvarā́ ← adhvará- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+prā́cī ← prā́ñc- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+suméke ← suméka- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tasthatuḥ ← √sthā- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+r̥tájātasya ← r̥tájāta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+r̥tā́varī ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+satyé ← satyá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Er ist der Priester, dessen Opfer alle zum Heil geniessen, selbst die weiten Wel
 Обе они обращены на восток, словно для обряда, хорошо укреплены,  
 Преданы закону, истинны, (две матери Агни,) рожденного законом.
 </details>
+

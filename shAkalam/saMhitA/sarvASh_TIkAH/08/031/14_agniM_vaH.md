@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+devám ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īḷe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+purupriyám ← purupriyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saparyántaḥ ← √sapary- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+kṣetrasā́dhasam ← kṣetrasā́dhas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +176,4 @@ Den Agni preise ich zuerst mit Lied, den Gott der Schätze gibt, den Hort des Fe
 Почитая многолюбимого,  
 Как Митру, приводящего в порядок поля.
 </details>
+

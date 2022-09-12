@@ -18,16 +18,71 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+asmaí ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+prábhūtaye ← prábhūti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+marúdbhyaḥ ← marút- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+váruṇāya ← váruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+árca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vidúṣṭarebhyaḥ ← vidúṣṭara- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+dhītā́ ← √dhī- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+mā́nuṣāṇām ← mā́nuṣa- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+paśváḥ ← paśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rákṣati ← √rakṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,9 +182,6 @@ if one is favored by it the bhrAtR^ivyas are slain.
 The verse though simple is simply misunderstood and mistranslated by most (for example the ridiculous translations of the Germans Grassmann and Geldner as also sAyaNa’s incorrect idea). What they do not realize is that the verb rakShati has two meanings : 1) protect 2) To keep watch. The second meaning is critical to correctly understand this mantra. Its prayoga can be successful only with this latter meaning taken into account.
 </details>
 
-
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -174,3 +226,4 @@ Ich singe diesem Varuna, dem mächt'gen und der Marutschar, den weisheitsreichen
 Как (следят) за коровами (в стаде) скота.  
 Пусть лопнут все ничтожные другие!
 </details>
+

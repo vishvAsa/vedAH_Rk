@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āpa ← √āp- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+índrā ← índra- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+varuṇā ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+amŕ̥taḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havíṣmān ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+stómaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+hr̥dí ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+krátumān ← krátumant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uktáḥ ← √vac- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+indrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+námasvān ← námasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paspárśat ← √spr̥ś- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +208,7 @@ My ‘will obtain’ is a wishful thinking, however, at odds with the grammar. I
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/041/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/041/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 Note āpa ending 1a matched with āpī́ending 2a. Also the accumulation of -vant-/-mant- forms in these 2 vss.: havíṣmān 1b, krátumān 1c, námasvān 1d, práyasvān 2b.
@@ -179,3 +240,4 @@ Welch Lob gefällt euch, Varuna und Indra, versehn mit Opfer, wie der Priester A
 Произнесенное нами, (такое) полное силы духа, что оно коснется  
 Вашего сердца, о Индра-Варуна вместе с поклонением?
 </details>
+

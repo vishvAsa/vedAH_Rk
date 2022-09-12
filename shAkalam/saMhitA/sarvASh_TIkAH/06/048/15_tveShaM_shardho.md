@@ -17,15 +17,85 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tuviṣváṇi ← tuviṣván- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tveṣám ← tveṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+anarvā́ṇam ← anarván- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pūṣáṇam ← pūṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+śatā́ ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+carṣaṇíbhyaḥ ← carṣaṇí- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+kā́riṣat ← √kr̥̄- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+āvís ← āvís (invariable)  
+{}
+
+gūḷhā́ ← √guh- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+karat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+karat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suvédā ← suvéda- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +243,7 @@ form. Moreover, a proper neut. acc. to this stem would be *anarvá, which almost
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
 <details open><summary><h2>14-19 ...{Loading}...</h2></summary>
 
 On these Pūṣan vss., see published introduction.
@@ -206,3 +276,4 @@ Den Puschan, der unnahbar wie die Marutschar, die ungestüme, dass er Schatz Dem
 Пусть тайные блага он сделает явными,  
 Пусть он сделает блага легко находимыми для нас!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajyámānā ← √añj- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:PASS}
+
+sadyás ← sadyás (invariable)  
+{}
+
+starī́ḥ ← starī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sū́ta ← √sū- 2 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+avyathī́ḥ ← avyathí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kr̥ṇuta ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+svágopā ← svágopa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vyáthiḥ ← vyáthi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jániṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+pitróḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+pū́rvaḥ ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gaúḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+jagāra ← √gr̥̄- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pr̥chā́n ← √praś- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+śamyā́m ← śamyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +247,4 @@ Als kaum belegt zuerst gebar die Weltkuh, schuf selbst sich pflegend, wankend si
 Когда сын родился раньше родителей,  
 Корова проглотила колышек, если уж (об этом) спросят.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sukr̥tyáyā ← sukr̥tyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+avardhata ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+cit ← cit (invariable)  
+{}
+
+maháḥ ← mahá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mandānáḥ ← √mand- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+út ← út (invariable)  
+{}
+
+vr̥ṣāyate ← √vr̥ṣāy- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ So gross er war, doch grösser noch ward Soma durch das fromme Werk, Erfreut ger
 
 -ru-
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX
+#### Morph
+dhúnayaḥ ← dhúni- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jigatnávaḥ ← jigatnú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vā́tāsaḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+agnīnā́m ← agní- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+jihvā́ḥ ← jihvā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+virokíṇaḥ ← virokín- (nominal stem)  
+{case:NOM, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śímīvantaḥ ← śímīvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vármaṇvantaḥ ← vármaṇvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yodhā́ḥ ← yodhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pitr̥̄ṇā́m ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śáṁsāḥ ← śáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+surātáyaḥ ← surātí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +204,4 @@ Eilend wie stürmende Winde, glänzend wie die Flammenzungen, kräftig vordringe
 Свирепые, словно воины, защищенные щитами;  
 С прекрасными дарами, как прославления отцов:
 </details>
+

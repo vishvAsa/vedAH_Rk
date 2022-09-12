@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átithim ← átithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dyutānám ← √dyut- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+svàrṇaram ← svàrṇara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+svadhvarám ← svadhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dyukṣávacasam ← dyukṣávacas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vípram ← vípra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aratím ← aratí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havyavā́ham ← havyavā́h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥ñjase ← √r̥j- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Ich streb' dem Gaste, eurem lichten Glanzesherrn, dem Priester Agni, der des Men
 (К тому,) кто, словно вдохновенный (поэт), обладает речью, пребывающей на небе,  
 К вознице жертв, погонщику (коней), к богу я устремляюсь с гимнами.
 </details>
+

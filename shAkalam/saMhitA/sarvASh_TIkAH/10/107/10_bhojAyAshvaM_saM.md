@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āśúm ← āśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhojā́ya ← bhojá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mr̥janti ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+āste ← √ās- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+bhojā́ya ← bhojá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kanyā̀ ← kanyā̀- ~ kanī́n- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śúmbhamānā ← √śubh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+bhojásya ← bhojá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+puṣkaríṇī ← puṣkaríṇī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+véśma ← véśman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+citrám ← citrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devamānā́ ← devamāná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+páriṣkr̥tam ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Dem Freigiebigen schmückt man das schnelle Ross aus; des Freigiebigen harret di
 У щедрого это жилье, словно лотосовый пруд,  
 Отделанное, как сверкающие хоромы богов.
 </details>
+

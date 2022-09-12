@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vā́hiṣṭhaḥ ← vā́hiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śrutáḥ ← √śru- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yātu ← √yā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+darśathaḥ ← √dr̥ś- (root)  
+{number:DU, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+stómān ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+turásya ← turá- 1 (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +171,4 @@ Eur Wagen, Ritter, komme her, der hehre, der am schnellsten fährt, Vernehmt des
 Знаменитая, пусть приедет, о два мужа!  
 Присматривайтесь к восхвалениям способного – для (его) блеска!
 </details>
+

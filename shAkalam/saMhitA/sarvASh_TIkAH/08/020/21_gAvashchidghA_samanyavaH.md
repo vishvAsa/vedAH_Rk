@@ -15,13 +15,44 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gha ← gha (invariable)  
+{}
+
+samanyavaḥ ← sámanyu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sábandhavaḥ ← sábandhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sajātyèna ← sajātyà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+kakúbhaḥ ← kakúbh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mithás ← mithás (invariable)  
+{}
+
+rihaté ← √rih- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +164,4 @@ Die Rinder auch, die euch verwandt, durch gleichen Ursprung, gleichgesinnte Maru
 Друг другу горбы, о Маруты,  
 Одинаково яростные, (вы) родственны общим происхождением.
 </details>
+

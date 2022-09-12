@@ -15,13 +15,47 @@ ChandaH = "पिपीलिकमध्या"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+cakré ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+dásyave ← dásyu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+suhánāya ← suhána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hírīmān ← hírīmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hirīmaśás ← hirīmaśás (invariable)  
+{}
+
+ádbhutam ← ádbhuta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+árutahanuḥ ← árutahanu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +172,4 @@ Welcher, um schnell den Dämon zu tödten, den Donnerkeil sich machte von goldne
 Рыжеватый, золотистый,  
 С неразбитой челюстью, подобный загадочному туману.
 </details>
+

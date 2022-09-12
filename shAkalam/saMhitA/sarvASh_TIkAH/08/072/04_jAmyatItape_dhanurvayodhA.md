@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+atītape ← √tap- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+dhánuḥ ← dhánur ~ dhánvan- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jāmí ← jāmí- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aruhat ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+vánam ← vána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vayodhā́ḥ ← vayodhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+avadhīt ← √vadhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dr̥ṣádam ← dr̥ṣád- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jihváyā ← jihvā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +150,4 @@ Die eignen Waffen liess er glühn, stieg kraftverleihend auf das Holz, Schlug mi
 (Агни), наделяющий жизненной силой, поднялся на дерево.  
 Языком он ударил по давильному камню.
 </details>
+

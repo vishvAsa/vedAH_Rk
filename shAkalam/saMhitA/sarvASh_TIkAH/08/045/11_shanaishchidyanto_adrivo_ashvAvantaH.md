@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+śánais ← śánais (invariable)  
+{}
+
+yántaḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+áśvāvantaḥ ← áśvāvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śatagvínaḥ ← śatagvín- (nominal stem)  
+{case:NOM, number:PL}
+
+anehásaḥ ← anehás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vivákṣaṇāḥ ← vivákṣaṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +136,4 @@ Auch langsam gehend, Schleuderer, doch rossversehen hundertfach Und unvergleichl
 Приносящие коней, приносящие сотни коров,  
 Наделяющие красноречием, беспорочные...
 </details>
+

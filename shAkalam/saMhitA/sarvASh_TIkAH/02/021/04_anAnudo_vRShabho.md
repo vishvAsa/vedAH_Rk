@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anānudáḥ ← anānudá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dódhataḥ ← dódhat- (nominal stem)  
+{case:GEN, number:SG}
+
+vadháḥ ← vadhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásamaṣṭakāvyaḥ ← ásamaṣṭakāvya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gambhīráḥ ← gambhīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥ṣváḥ ← r̥ṣvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thúḥ ← pr̥thú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+radhracodáḥ ← radhracodá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śnáthanaḥ ← śnáthana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīḷitáḥ ← √vīḍ- ~ √vīḷ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janat ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+suyajñáḥ ← suyajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +214,4 @@ Der nimmer weicht, der Held, der schlägt den Tobenden, der tiefe, hohe, unerrei
 Вдохновитель слабого, пронзающий, твердый, широкий -  
 Индра, получающий прекрасные жертвы, породил утренние зори, небо.
 </details>
+

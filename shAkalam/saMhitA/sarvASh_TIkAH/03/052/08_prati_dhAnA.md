@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+bharata ← √bhr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhānā́ḥ ← dhānā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+tū́yam ← tū́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥ṇā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+puroḷā́śam ← puroḷā́ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīrátamāya ← vīrátama- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sadŕ̥śīḥ ← sadŕ̥ś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dhr̥ṣṇo ← dhr̥ṣṇú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+somapéyāya ← somapéya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+várdhantu ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +226,4 @@ Die Getreidekörner bringt ihm schnell entgegen, den Kuchen ihm, dem tapfersten 
 Каждый день для тебя те же самые (жареные зерна), о Индра.  
 Пусть укрепят они тебя для питья сомы, о отважный!
 </details>
+

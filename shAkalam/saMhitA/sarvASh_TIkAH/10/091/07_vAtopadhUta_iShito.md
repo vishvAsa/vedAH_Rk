@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+iṣitáḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+váśān ← váśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vā́topadhūtaḥ ← vā́topadhūta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánnā ← ánna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tr̥ṣú ← tr̥ṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+véviṣat ← √viṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vitíṣṭhase ← √sthā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+pŕ̥thak ← pŕ̥thak (invariable)  
+{}
+
+rathyàḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yatante ← √yat- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yáthā ← yáthā (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ajárāṇi ← ajára- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dhákṣataḥ ← √dah- (root)  
+{case:ACC, gender:M, number:SG, tense:AOR, voice:ACT}
+
+śárdhāṁsi ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Wenn gierig du vom Wind bewegt nach Wunsch dich regst, und deine Speisen rasch e
 (То) выстраиваются по отдельности, как колесничие,  
 Нестареющие отряды, о Агни, у тебя, испепеляющего.
 </details>
+

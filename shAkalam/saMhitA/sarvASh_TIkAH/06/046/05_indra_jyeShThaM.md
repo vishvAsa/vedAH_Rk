@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jyéṣṭham ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ójiṣṭham ← ójiṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pápuri ← pápuri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+citra ← citrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vajrahasta ← vájrahasta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+prā́ḥ ← √prā- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+suśipra ← suśiprá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Bring, Indra, besten, kräftigsten und reichgefüllten Schatz uns her, Mit dem d
 Которою, о поразительный громовержец, ты заполнил  
 Обе эти половины вселенной, о прекрасногубый.
 </details>
+

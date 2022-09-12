@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jánāḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mamasatyéṣu ← mamasatyá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+hvayante ← √hvā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+samīké ← samīká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+saṁtasthānā́ḥ ← √sthā- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+átra ← átra (invariable)  
+{}
+
+havíṣmān ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yújam ← yúj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ásunvatā ← ásunvant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaṣṭi ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Dich, Indra, rufen hier und dort die Menschen, wenn sie im Kampf um Mein und Dei
 Тут обретает союзника тот, кто приносит жертвы.  
 Герой не хочет дружбы с не выжимающим (сому).
 </details>
+

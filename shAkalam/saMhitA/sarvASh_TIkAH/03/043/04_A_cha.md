@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+etā́ ← eṣá (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+váhātaḥ ← √vah- (root)  
+{number:DU, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+vŕ̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sákhāyā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sudhúrā ← sudhúr- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sváṅgā ← sváṅga- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dhānā́vat ← dhānā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+juṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+sávanam ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhyuḥ ← sákhi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śr̥ṇavat ← √śru- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+vándanāni ← vándana- 3 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Wenn diese goldnen Hengste her dich fahren, gepaart an schöner Deichsel, schön
 То Индра, радуясь выжиманию с жареными ячменными зернами,  
 Как друг пусть слушает прославления друга.
 </details>
+

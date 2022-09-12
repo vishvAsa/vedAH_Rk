@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+sasvár ← sasvár (invariable)  
+{}
+
+śúmbhamānāḥ ← √śubh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+apaptan ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+haṁsā́saḥ ← haṁsá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nī́lapr̥ṣṭhāḥ ← nī́lapr̥ṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhítas ← abhítas (invariable)  
+{}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+seda ← √sad- (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mádantaḥ ← √mad- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+raṇvā́ḥ ← raṇvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sávane ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Denn im Verborgnen ihre Leiber schmückend, mit schwarzem Rücken flogen her die
 Уселась вокруг меня вся стая,  
 Опьяняясь на выжимании (сомы), словно радостные мужи.
 </details>
+

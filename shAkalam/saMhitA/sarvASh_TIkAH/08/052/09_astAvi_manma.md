@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+ástāvi ← √stu- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+mánma ← mánman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vocata ← √vac- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+br̥hatī́ḥ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+asr̥kṣata ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+medhā́ḥ ← medhā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+stotúḥ ← stotár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +176,4 @@ Gesungen ist das alte Lied, dem Indra habt ihr das Gebet gesprochen; erklungen s
 Прозвучало много высоких (песен) обряда.  
 Излились вдохновенные мысли восхвалителя.
 </details>
+

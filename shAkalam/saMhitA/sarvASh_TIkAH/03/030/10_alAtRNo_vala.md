@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+alātr̥ṇáḥ ← alātr̥ṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+valáḥ ← valá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vrajáḥ ← vrajá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āra ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bháyamānaḥ ← √bhī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+hántoḥ ← √han- (root)  
+{case:ABL, number:SG}
+
+purā́ ← purā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+akr̥ṇot ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+niráje ← √aj- (root)  
+{case:DAT, number:SG}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+sugā́n ← sugá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+āvan ← √avⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dhámantīḥ ← √dhamⁱ- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+puruhūtám ← puruhūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́ṇīḥ ← vā́ṇī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +243,4 @@ Der geiz'ge Vala und der Stall der Kühe, sie gaben nach aus Furcht vor deinem H
 Он сделал пути легкопроходимыми, чтобы выгнать коров.  
 Сильно поддержали (тебя,) многопризываемого, трубящие голоса (Марутов).
 </details>
+

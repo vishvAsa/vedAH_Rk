@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+govít ← govíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hiraṇyavít ← hiraṇyavíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vasuvít ← vasuvíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árpitaḥ ← √r̥- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+bhúvaneṣu ← bhúvana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+retodhā́ḥ ← retodhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suvī́raḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+viśvavít ← viśvavíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āsate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +231,7 @@ You, Soma, are rich in good heroes, finder of all [/all-knowing]. These  inspire
 On viśvavíd- see comm. ad vs. 29. Geldner takes it as ‘all-knowing’ here, but the other -víd- cmpds in the vs. favor ‘all-finding’. Renou, like me, ‘all-finding’ here, though ‘all-knowing’ in 29.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/37-39.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/37-39.md">
 <details open><summary><h2>37-39 ...{Loading}...</h2></summary>
 
 For the first time in this hymn (save for briefly in vs. 18), this tṛca shows some interest in what Soma might do for us, particularly in the 2nd two vss.
@@ -201,3 +262,4 @@ O riesle, Indu, spendend Rinder, Güter, Gold, und Samen schaffend, in die Wesen
 
 -ru-
 </details>
+

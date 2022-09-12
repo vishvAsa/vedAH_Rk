@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+trasádasyum ← trasádasyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+ā́vatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dháne ← dhána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+kŕ̥tvye ← kŕ̥tvya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sú ← sú (invariable)  
+{}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+avatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +169,4 @@ Wie ihr dem Trasadasju halft, o Männer, im Entscheidungskampf, Mit solchen Hül
 Ими нам, о Ашвины, хорошенько  
 Помогите при захвате награды!
 </details>
+

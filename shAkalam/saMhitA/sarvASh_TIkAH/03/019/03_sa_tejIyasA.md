@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+téjīyasā ← téjīyaṁs- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tvótaḥ ← tvóta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śikṣa ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
+śikṣóḥ ← śikṣú- (nominal stem)  
+{case:GEN, gender:N, number:SG, mood:DES}
+
+svapatyásya ← svapatyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nŕ̥tamasya ← nŕ̥tama- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prábhūtau ← prábhūti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhūyā́ma ← √bhū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+suṣṭutáyaḥ ← suṣṭutí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,14 +180,11 @@ genre M
 **सुष्टुतयः** । नञ्सुभ्याम् ' इत्युत्तरपदान्तोदात्तत्वम् । वस्वः । आगमानुशासनस्यानित्यत्वात् नुमभावः । संज्ञापूर्वकस्य विधेरनित्यत्वाद्गुणाभावः । यणादेशः ॥
 </details>
 
-
 <details><summary>भट्टभास्करटीका</summary>
 
 हे अग्ने स यजमानः पूर्वोक्तगुणविशिष्टो यस्त्वया तेजस्वीति सः तेजीयसा तेजस्वितरेण मनसा, तेजनं तेजः तद्वता निशिततरेण सावधानेनेत्यर्थः । 'अस्मायामेधास्रजो विनिः', 'विन्मतोर्लुक्', 'टेः' इति टिलोपः । त्वोतः त्वया ऊतस्त्वयैव रक्षितोस्त्विति शेषः । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । तत्र त्वदूत इति वक्तव्ये पृषोदरादित्वाद्व्यञ्जनलोपः । उत अपि च स्वपत्यस्य शोभनपुत्रपौत्रादेः । 'नञ्सुभ्याम् इत्युत्तरपदान्तोदात्तत्वम् । शिक्षोः शक्तुमिच्छतः । 'सनिमीमा' इत्यादिना इस्भावोऽभ्यासलोपश्च, 'सनाशंसभिक्ष उः' । नृतमस्य मनुष्यतमस्य मनुष्योत्तमस्य यजमानस्य रायः धनानि शिक्ष यजमानकार्यसमर्थान्कर्तुं कृतसङ्कल्पोभव । सन्नन्ताल्लोट्, जिज्ञासाया अविवक्षितत्वात् 'शिक्षेर्जिज्ञासायाम्' इत्यात्मनेपदाभावः । यजमानाय देहीति विवक्षितम् । प्रभूतौ प्रभवार्थं यजमानस्य यथायं लोके तेजस्वी भवति तदर्थमित्यर्थः । निमित्तात्कर्मसंयोगे सप्तमी, 'तादौ च' इति पूर्वपदप्रकृतिस्वरत्वम् ।    
 किञ्च - ते तव प्रसादाद्वयं सुष्टुतयः शोभना स्तुतिर्येषां ताडृशास्त्वद्विषयामेव शोभनां स्तुतिं सदा कुर्वन्तः, वस्वः वसुमन्तो भूयाम भवेम अमोघप्रयत्नास्स्यामेति भावः । भवतेर्विध्यादि लिङ्, 'बहुलं छन्दसि' इति शपो लुक् । 'लुगकारेकाररेफाश्च' इति वसुशब्दात्परस्य मत्वर्थीयस्य लुक्, 'जसादिषु वा वचनं छन्दसि प्राङ्णौ चङ्युपधायाः' इति गुणाभावः, 'वा छन्दसि' इति पूर्वसवर्णदीर्घाभावः ह्रस्वादपि भविष्यतीति । यद्वा - तव प्रभूतौ प्रभावे वयं भूयाम प्रभावानुगुणमस्मासु कुर्विति भावः । तदेवाह - सुष्टुतयस्त्वामेव स्तुवन्तो वयं वसुमन्तस्स्याम, यथा ते प्रभावो न हीयत इति ॥
 </details>
-
-
 
 <details><summary>Wilson</summary>
 
@@ -169,7 +218,6 @@ O Agni, may we enjoy wealth richest in heroes;
 (Wealth) that is excellent, uttering praises to thee.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Der tut es mit schärferem Geist, der von dir unterstützt wird. Bemühe auch du dich für den, der sich bemüht um Reichtum an guten Kindern! Agni! Wir möchten in der Fülle des männertüchtigsten Schatzes und als deine Lobsänger in der Fülle des Guts sein.
@@ -187,3 +235,4 @@ Wen du begünstigst, der wird schärfern Geistes, und du, o Spender, spend' ihm 
 О Агни, да будем мы среди изобилия самого мужественного богатства  
 Прекрасными восхвалителями твоего добра!
 </details>
+

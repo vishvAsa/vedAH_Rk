@@ -15,14 +15,51 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tritásya ← tritá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+īraya ← √īr- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pr̥ṣṭhéṣu ← pr̥ṣṭhá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mímīte ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yójanā ← yójana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +161,7 @@ seem to worry about this question. I very much doubt that it is Soma, who is oth
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/102/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/102/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 Trita figures in these two vss. Although the name Trita has several different referents, or at least several different roles, in the RV, in Maṇḍala IX he is the archetypal soma presser: see esp. comm. ad IX.37.4. In these two vss. there is also a play on the literal sense of tritá- ‘third’, which is played off against the dual pāṣyòḥ in 2a and the numeral trī́ṇi ‘three’ in 3a. The Anukr. ascribes this hymn to Trita Āptya, a mythical figure most prominent in X.8, but this ascription is presumably based on the occurrence of tritá- in vss. 2-3. Trita Āptya is credited with several other hymns in the RV, incl., in this maṇḍala, IX.33-34.
@@ -155,3 +192,4 @@ Bring durch drei Stätten Trita's her im Strom auf deinen Rücken Schatz; Es mis
 Приведи в движение богатство на трех спинах!  
 Он измеряет свои расстояния, наделенный силой духа.
 </details>
+

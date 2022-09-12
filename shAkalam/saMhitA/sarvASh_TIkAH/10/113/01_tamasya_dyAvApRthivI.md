@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sácetasā ← sácetas- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+āvatām ← √avⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víśvebhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+aít ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+indriyám ← indriyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇvānáḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+avardhata ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+krátumān ← krátumant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pītvī́ ← √pā- 2 (root)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Es haben Erd' und Himmel diese seine Kraft mit allen Göttern eines Sinnes anger
 Когда он отправился, создавая себе величие, свойственное Индре,  
 Обладатель силы духа возрос, выпив сомы.
 </details>
+

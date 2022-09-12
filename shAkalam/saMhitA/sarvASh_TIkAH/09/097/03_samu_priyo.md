@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ávye ← ávya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mr̥jyate ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sā́no ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+kṣaítaḥ ← kṣaíta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yaśásām ← yaśás- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yaśástaraḥ ← yaśástara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+dhánva ← √dhanv- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pūyámānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+svara ← √svar- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +199,7 @@ nṛ́- is almost always used of Indra, as are ratheṣṭhā́- and ratheṣṭ
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 No obvious cohesion in this tṛca, though it ends with a clan refrain.
@@ -173,3 +231,4 @@ Auf wollnem Gipfel wird geklärt der liebe, der Fürst bei uns beliebter als bel
 Шуми, беги, очищаясь!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
+

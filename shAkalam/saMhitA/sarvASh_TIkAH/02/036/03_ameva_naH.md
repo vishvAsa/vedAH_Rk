@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+amā́ ← amā́ (invariable)  
+{}
+
+gántana ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suhavāḥ ← suháva- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+ráṇiṣṭana ← √ranⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sadatana ← √sad- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+jujuṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+mandasva ← √mand- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+jánibhiḥ ← jáni- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sumádgaṇaḥ ← sumádgaṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tváṣṭar ← tváṣṭar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Denn wie zur Heimat kommt ihr, gernerhörende, setzt auf die Streu euch nieder u
 И опьяняйся с охотой соком (сомы),  
 О Тваштар, в сопровождении богов (и их) жен!
 </details>
+

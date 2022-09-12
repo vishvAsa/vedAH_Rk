@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+deváhitim ← deváhiti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dvādaśásya ← dvādaśá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jugupuḥ ← √gup- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+minanti ← √mī- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+r̥túm ← r̥tú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́gatāyām ← √gam- (root)  
+{case:LOC, gender:F, number:SG, non-finite:PPP}
+
+prāvŕ̥ṣi ← prāvŕ̥ṣ- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+saṁvatsaré ← saṁvatsará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+aśnuvate ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+gharmā́ḥ ← gharmá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+taptā́ḥ ← √tap- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+visargám ← visargá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +183,7 @@ The final pāda of the vs. is the ritual climax: the gharmá-drinks, heated on t
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/103/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/103/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 With the behavioral model of the frogs established in the first 6 vss., the next three treat the ritual application of this model.
@@ -171,3 +220,4 @@ Des zwölfgetheilten heil'ge Ordnung wahrend, versäumen nie die rechte Zeit die
 Когда через год приходит время дождей,  
 Пылающий зной приходит к концу.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+saráyuḥ ← saráyu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+síndhuḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ūrmíbhiḥ ← ūrmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vákṣaṇīḥ ← vákṣaṇa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yantu ← √i- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mātáraḥ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sūdayitnvàḥ ← sūdayitnú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+arcata ← √r̥c- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ghr̥távat ← ghr̥távant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mádhumat ← mádhumant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +204,4 @@ Sarasvati, Saraju, Sindhu mögen nahn mit Huld, die grossen Ströme, herrlich, w
 
 -ru-
 </details>
+

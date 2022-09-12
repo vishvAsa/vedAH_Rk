@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+nárāśáṁsaḥ ← nárāśáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suṣūdati ← √sūd- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+ádābhyaḥ ← ádābhya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádhuhastyaḥ ← mádhuhastya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +142,4 @@ Der Männerpreis vollendet schön dies Opfer, der untrügliche; Denn Süsses hat
 Пусть сделает вкусной эту жертву:  
 Ведь он поэт с медом в руке.
 </details>
+

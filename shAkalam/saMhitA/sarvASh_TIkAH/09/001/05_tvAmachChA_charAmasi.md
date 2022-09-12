@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+carāmasi ← √carⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āśásaḥ ← āśás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +163,4 @@ Zu diesem Zwecke gehen wir an jedem Tage hin zu dir, Auf dich, o Indu, hoffen wi
 С одной и той же целью день за днем.  
 О капля, в тебе – наши надежды!
 </details>
+

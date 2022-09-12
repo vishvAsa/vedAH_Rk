@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āvaḥ ← √vas- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pathyā̀ ← pathyā̀- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+bodháyantī ← √budh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+kṣitī́ḥ ← kṣití- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mā́nuṣīḥ ← mā́nuṣa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+páñca ← páñca- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+aśret ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhānúm ← bhānú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+susaṁdŕ̥gbhiḥ ← susaṁdŕ̥ś- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ukṣábhiḥ ← ukṣán- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+āvar ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+cákṣasā ← cákṣas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +228,4 @@ Die Morgenröthe hat der Menschen Pfade enthüllt, der Völker fünf Geschlechte
 (Правя своими) прекрасными на вид быками, она распространила свет.  
 Сурья открыл (из тьмы) взглядом два мира.
 </details>
+

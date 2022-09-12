@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dákṣata ← √dakṣ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sominaḥ ← somín- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sredhata ← √sridh- (root)  
+{number:PL, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ātúje ← √tuj- (root)  
+{case:DAT, number:SG}
+
+kr̥ṇudhvám ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+jayati ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣéti ← √kṣi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+púṣyati ← √puṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+taráṇiḥ ← taráṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kavatnáve ← kavatnú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Nicht opfert fehl, o Priester, macht's dem grossen recht, zur Reichthumsgabe reg
 Только ревностный побеждает, живет (счастливо), процветает!  
 Боги – не для жадного!
 </details>
+

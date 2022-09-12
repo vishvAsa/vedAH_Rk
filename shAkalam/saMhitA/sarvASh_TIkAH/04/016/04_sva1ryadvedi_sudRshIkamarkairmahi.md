@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sudŕ̥śīkam ← sudŕ̥śīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+védi ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rurucuḥ ← √ruc- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vástoḥ ← vástu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+andhā́ ← andhá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dúdhitā ← dúdhita- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+támāṁsi ← támas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vicákṣe ← √cakṣ- (root)  
+{case:DAT, number:SG}
+
+abhíṣṭau ← abhíṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+nŕ̥bhyaḥ ← nár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+nŕ̥tamaḥ ← nŕ̥tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +241,4 @@ Wenn schön sich zeigt die Sonne mit den Strahlen und morgens sie das grosse Lic
 (То) самый мужественный в стремлении помочь мужам, сделал (так),  
 Что сквозь слепой, дикий мрак стало можно видеть.
 </details>
+

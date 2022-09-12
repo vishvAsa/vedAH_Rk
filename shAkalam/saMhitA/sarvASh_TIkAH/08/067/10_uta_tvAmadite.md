@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+adite ← áditi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+mahi ← máh- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+bruve ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+devi ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+abhíṣṭaye ← abhíṣṭi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sumr̥ḷīkā́m ← sumr̥ḷīká- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +150,4 @@ Und dich, o grosse Aditi, o Göttin, rufe ich herbei, Die gnadenreiche mir zum S
 Я обращаюсь, о богиня,  
 Как к очень милосердной – чтобы ты (нас) поддержала.
 </details>
+

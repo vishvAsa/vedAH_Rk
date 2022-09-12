@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:DU}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gabhīré ← gabhīrá- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+rájasī ← rájas- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+suméke ← suméka- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+urvī́ ← urú- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+airayam ← √īr- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+dhāráyam ← √dhr̥- (root)  
+{number:SG, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Ich bin, o Indra, Varuna, und mein ist das tiefe, weite, segensreiche Weltpaar, 
 (Своим) величием я привел в движение и поддержал (эти) два мира,  
 Зная, как Тваштар, все существа.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+aśr̥ṇavam ← √śru- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+dvé ← dvá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+pitr̥̄ṇā́m ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+srutī́ ← srutí- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mártyānām ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+éjat ← √ej- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+tā́bhyām ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:DU}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+antarā́ ← antarā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Zwei Pfade gibt's, so sagten mir die Väter, den Göttern gangbar und den Mensch
 
 -ru-
 </details>
+

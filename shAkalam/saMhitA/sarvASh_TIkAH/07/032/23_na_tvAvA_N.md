@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+divyáḥ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pā́rthivaḥ ← pā́rthiva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā́vān ← tvā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janiṣyate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:FUT, voice:MED}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+aśvāyántaḥ ← √aśvāy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gavyántaḥ ← √gavy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +201,4 @@ Kein andrer ist im Himmel, auf der Erd' wie du gewesen nicht, noch wird er sein;
 Жаждя коней, о щедрый Индра, жаждя коров,  
 Мы, борцы за награду, зовем тебя.
 </details>
+

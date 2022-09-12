@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+abhavaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ketúḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kā́vyāni ← kā́vya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mandráḥ ← mandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+avāsayaḥ ← √vas- 3 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dámūnāḥ ← dámūnas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártān ← márta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rathiráḥ ← rathirá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sā́dhan ← √sādh- ~ sidh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yāsi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Du Agni warst der Götter helles Banner, erfreuend, kennend alle Geisteskräfte;
 Как друг дома ты дал смертным жилье.  
 Как колесничий ты едешь к богам, достигая цели.
 </details>
+

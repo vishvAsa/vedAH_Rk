@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+arcíṣā ← arcís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+áyodaṁṣṭraḥ ← áyodaṁṣṭra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yātudhā́nān ← yātudhā́na- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sámiddhaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+spr̥śa ← √spr̥ś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jihváyā ← jihvā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mū́radevān ← mū́radeva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rabhasva ← √rabh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ápi ← ápi (invariable)  
+{}
+
+āsán ← āsán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhatsva ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+kravyā́daḥ ← kravyā́d- (nominal stem)  
+{gender:M}
+
+vr̥ktvī́ ← √vr̥j- 1 (root)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Mit ehernem Gebiss ergreif, entflammter, die Zauberer mit Glut, o Wesenkenner; M
 Лови языком сторонников глупых богов!  
 Сшиби пожирателей сырого мяса (и) сунь (их) в пасть!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ághnyāyāḥ ← ághnya- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+pipye ← √pī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+dhā́rābhiḥ ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sacate ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sumedhā́ḥ ← sumedhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+camū́ṣu ← camū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mūrdhā́nam ← mūrdhán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+niktaíḥ ← √nij- (root)  
+{case:INS, gender:M, number:PL, voice:PASS}
+
+śrīṇanti ← √śrī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vásubhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Geschwollen ist das Euter schon der Milchkuh, der weise Indu geht mit ihr in Str
 Коровы украшают молоком (его) голову  
 В чанах, словно (свежее)вымытыми хорошими (покрывалами).
 </details>
+

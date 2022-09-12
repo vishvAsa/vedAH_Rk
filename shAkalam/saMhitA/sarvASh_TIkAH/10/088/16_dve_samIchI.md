@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bibhr̥taḥ ← √bhr̥- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dvé ← dvá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+samīcī́ ← samyáñc- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śīrṣatás ← śīrṣatás (invariable)  
+{}
+
+vímr̥ṣṭam ← √mr̥ś- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pratyáṅ ← pratyáñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tasthau ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+áprayuchan ← áprayuchant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhrā́jamānaḥ ← √bhrāj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+taráṇiḥ ← taráṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Vereinigt tragen beide sie den Wandrer, den Haupt-entstammten, mit Verstand gesc
 Он стоит, обращенный ко всем существам,  
 Неослабевающий, энергичный, сияющий.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́bhiḥ ← ayám (pronoun)  
+{case:INS, gender:F, number:PL}
+
+áriṣaṇyan ← áriṣaṇyant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mithatī́ḥ ← mithatí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+amítrasya ← amítra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+manyúm ← manyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vyathaya ← √vyath- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́bhiḥ ← ayám (pronoun)  
+{case:INS, gender:F, number:PL}
+
+abhiyújaḥ ← abhiyúj- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víṣūcīḥ ← víṣvañc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ā́ryāya ← ā́rya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+dā́sīḥ ← dā́sī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tārīḥ ← √tr̥̄- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+víśaḥ ← víś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Mit diesen stürze hin die nah'nden Feinde, des Hassers Zorn, o Indra, ohne Säu
 Ими (размечи) во все стороны всех нападающих (на нас),  
 Подчини арию племена дасов!
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+supraṇīte ← supráṇīti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+upakṣetā́raḥ ← upakṣetár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+dhányā ← dhánya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śrávasā ← śrávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+surétasā ← surétas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+túñjamānāḥ ← √tuj- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+abhí ← abhí (invariable)  
+{}
+
+ádevān ← ádeva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pr̥tanāyū́n ← pr̥tanāyú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +203,4 @@ Uns, deine Treuen, der du trefflich leitest, lass, Agni, aller Güter Füll' emp
 (Мы,) возрастающие благодаря славе прекрасного семени, -  
 Да осилим мы безбожных противников!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dhiṣáṇābhyaḥ ← dhiṣáṇā- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+bhójanā ← bhójana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+náryāṇi ← nárya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vidvā́ṁsaḥ ← √vid- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dyumántam ← dyumánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uttamám ← uttamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣaśuṣmam ← vŕ̥ṣaśuṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+takṣata ← √takṣ- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Aus euren vollgefüllten Schalen schafft uns her, die ihr's versteht, die Nahrun
 Сверкающую награду, дающую бычье неистовство, высшую,  
 О Рибху, (вытешите) вы для нас телесную силу!
 </details>
+

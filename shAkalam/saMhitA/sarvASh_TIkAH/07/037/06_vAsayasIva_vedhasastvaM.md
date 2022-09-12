@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vāsáyasi ← √vas- 3 (root)  
+{tense:PRS}
+
+vedhásaḥ ← vedhás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bubodhaḥ ← √budh- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vácasaḥ ← vácas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ástam ← ásta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvī́ram ← suvī́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tātyā́ ← tātyá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+árvā ← árvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+pr̥kṣáḥ ← pr̥kṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uhīta ← √vah- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +244,4 @@ Du scheinest uns Verehrer hinzuhalten; wann wirst auf unser Wort du achten, Indr
 Пусть благодаря силе поэтического дара, унаследованного от отца, скакун,  
 Завоевывающий награду, привезет нам домой богатство, прекрасных сыновей, силы наполнения!
 </details>
+

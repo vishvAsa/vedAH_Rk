@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+samañján ← √añj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tmányā ← tmányā (invariable)  
+{}
+
+upā́vasr̥ja ← √sr̥j- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+havī́ṁṣi ← havís- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pā́thaḥ ← pā́thas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥tuthā́ ← r̥tuthā́ (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śamitā́ ← śamitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vánaspátiḥ ← vánaspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mádhunā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+svádantu ← √svad- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +200,4 @@ Nach deiner Art ergiess die Opfertränke der Ordnung nach der Götter Stätte sa
 , заклатель, бог Агни, –  
 Пусть сделают они жертву вкусной благодаря меду (и) жиру!
 </details>
+

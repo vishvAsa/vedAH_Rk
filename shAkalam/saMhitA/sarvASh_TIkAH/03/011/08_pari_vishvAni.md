@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+pári ← pári (invariable)  
+{}
+
+súdhitā ← súdhita- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aśyāma ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+mánmabhiḥ ← mánman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+jātávedasaḥ ← jātávedas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víprāsaḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +139,4 @@ Von Agni mögen durch Gebet wir seine Sänger, stets empfahn, Vom Wesenkenner, w
 Мы хотели бы достигнуть с помощью поэтических мыслей Агни  
 Джатаведаса, (мы,) вдохновенные!
 </details>
+

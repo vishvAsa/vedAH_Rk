@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+samásvaran ← √svar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+avratā́n ← avratá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥cā́ ← ŕ̥c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+saṁdáhantaḥ ← √dah- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+śócantaḥ ← √śuc- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+dhamanti ← √dhamⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índradviṣṭām ← índradviṣṭa- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+māyáyā ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ásiknīm ← ásita- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bhū́manaḥ ← bhū́man- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+tvácam ← tvác- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,14 +203,14 @@ Note the return of √dham ‘blow’ from 1a. In its earlier occurrence this ro
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 See comm. on IX.41.1-2 on the similarity of phraseology in these two pairs of vss. These vss. usher in the use of ritual speech against a variety of enemies.
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 These two vss., almost in the center of the hymn, have a similar structure.
@@ -186,3 +244,4 @@ Sie, die mit Glanz vom Vater und der Mutter her erstrahlend rauschten, brennend 
 С помощью колдовской силы сдувают прочь ненавистную Индре  
 Черную кожу с земли (и) с неба.
 </details>
+

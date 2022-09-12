@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+arṣa ← √arṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vāyúm ← vāyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vītī́ ← vītí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+mitrā́váruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pūyámānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+abhí ← abhí (invariable)  
+{}
+
+dhījávanam ← dhījávana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náram ← nár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ratheṣṭhā́m ← ratheṣṭhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vájrabāhum ← vájrabāhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +182,7 @@ Oldenberg, Geldner, Renou identify the acc. goal in c as Pūṣan, because dhīj
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/49-51.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/49-51.md">
 <details open><summary><h2>49-51 ...{Loading}...</h2></summary>
 
 In contrast to the tṛcas with faint or no signs of cohesion, this one is over-determined. The verbal lexeme that dominates is abhí √ṛṣ: the preverb abhí opens every one of the 12 pādas, and the impv. arṣa/ā is found in the first pāda of every vs. (49a, 50a, 51a). The part. pūyámānaḥ ends the first hemistich of each vs. Most of the rest of the material consists of acc. goals of motion. The goals in the first vs. of the tṛca are gods, in the first half of the 2nd vs. the substances with which Soma will be mixed, and in the rest of the tṛca those things that we want Soma to provide us. The result is a tṛca of utmost banality, enlivened by a small play of words in the last pāda.
@@ -165,3 +214,4 @@ O ström gepriesner her zum Mahl den Vaju, hellflammender, den Varuna und Mitra,
 К мужу, вдохновляющему поэтическую мысль, стоящему на колеснице,  
 К Индре-быку с ваджрой в руке!
 </details>
+

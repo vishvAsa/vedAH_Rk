@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sukŕ̥t ← sukŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+supāṇíḥ ← supāṇí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svávān ← svávas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhāt ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mādayadhvam ← √mad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+pūṣaṇvántaḥ ← pūṣaṇvánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ataṣṭa ← √takṣ- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ūrdhvágrāvāṇaḥ ← ūrdhvágrāvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +208,4 @@ Gott Tvaschtar, schön an Händen, Werk und Beistand, der heilige, gewähr' uns 
 О Рибху, радуйтесь вместе с Пушаном!  
 Вы вытесали обряд, направив вверх давильные камни.
 </details>
+

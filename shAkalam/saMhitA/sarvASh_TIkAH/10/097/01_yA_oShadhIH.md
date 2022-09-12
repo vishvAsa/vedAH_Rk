@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+jātā́ḥ ← √janⁱ- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pū́rvāḥ ← pū́rva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+purā́ ← purā́ (invariable)  
+{}
+
+triyugám ← triyugá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+babhrū́ṇām ← babhrú- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+mánai ← √man- 1 (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+nú ← nú (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dhā́māni ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +202,4 @@ Vom Kraut, das aus der Urzeit stammt, – drei Alter vor den Göttern selbst –
 Сто и семь видов (этих) коричневатых  
 Я хочу сейчас вспомнить.
 </details>
+

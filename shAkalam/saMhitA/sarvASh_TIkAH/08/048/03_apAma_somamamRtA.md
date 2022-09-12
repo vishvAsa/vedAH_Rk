@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+abhūma ← √bhū- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+amŕ̥tāḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ápāma ← √pā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áganma ← √gam- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ávidāma ← √vid- 1 (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+árātiḥ ← árāti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇavat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+nūnám ← nūnám (invariable)  
+{}
+
+amr̥ta ← amŕ̥ta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhūrtíḥ ← dhūrtí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mártyasya ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +228,4 @@ Wir tranken Soma, wurden nun unsterblich, erlangten Glanz und fanden auf die Gö
 Что может нам сделать теперь недоброжелательность  
 И что – злоба смертного, о бессмертный?
 </details>
+

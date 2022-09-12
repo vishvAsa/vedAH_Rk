@@ -17,15 +17,55 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+asaú ← asaú (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+éṣi ← √i- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vīrakáḥ ← vīraká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gr̥háṁ-gr̥ham ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vicā́kaśat ← √kāś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+jámbhasutam ← jámbhasuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+piba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhānā́vantam ← dhānā́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+karambhíṇam ← karambhín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apūpávantam ← apūpávant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ukthínam ← ukthín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +183,4 @@ Du, der du gehst ein Männchen noch, indem du Haus für Haus beschaust, Den durc
 
 -ru-
 </details>
+

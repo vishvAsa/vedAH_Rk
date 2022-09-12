@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+práti ← práti (invariable)  
+{}
+
+śavasī́ ← śavasín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vadat ← √vadⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ápsaḥ ← ápsas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+giraú ← girí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yodhiṣat ← √yudh- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+ācaké ← √kā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+śatrutvám ← śatrutvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +172,4 @@ Da sprach zu dir die kräftige: Wie Nebel auf des Berges Höh' Wird kämpfen, de
 (Это) все равно, что биться лбом о гору,  
 (Для того,) кто стремится враждовать с тобой!
 </details>
+

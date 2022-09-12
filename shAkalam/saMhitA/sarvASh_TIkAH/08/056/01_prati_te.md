@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line
+#### Morph
+dasyave ← dásyu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vr̥ka ← vŕ̥ka- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+adarśi ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+áhrayam ← áhraya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prathinā́ ← prathimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +146,4 @@ Es hat sich gezeigt, o Dasjavevrika, dein reichliches Geschenk, wie der Himmel b
 Твой дар, которого не придется стыдиться.  
 Сила (твоя) протяженностью, словно небо!
 </details>
+

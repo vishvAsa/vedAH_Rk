@@ -14,12 +14,40 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+áśevā ← áśeva- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+didyút ← didyút- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dviṣā́m ← dvíṣ- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+rápaḥ ← rápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tanū́nām ← tanū́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+víṣvak ← víṣvañc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yuyóta ← √yu- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

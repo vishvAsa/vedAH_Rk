@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gabhīrám ← gabhīrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+samrā́je ← samrā́j- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śrutā́ya ← √śru- (root)  
+{case:DAT, gender:M, number:SG, non-finite:PPP}
+
+váruṇāya ← váruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cárma ← cárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jaghā́na ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+śamitā́ ← śamitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sū́ryāya ← sū́rya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+upastíre ← upastír- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Auf, singe laut dem Varuna ein Loblied, ein tiefes, lieb dem allberühmten Herrs
 Который, как заклатель – шкуру, разбил  
 Землю, чтобы разостлать ее под солнцем.
 </details>
+

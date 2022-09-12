@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vacovídaḥ ← vacovíd- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+skr̥ṇvanti ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vedhásaḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mr̥janti ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,7 +137,7 @@ the Āyus groom you all over.
 A minor poetic echo, the rhyming openings of pāda a táṃ tvā and c sáṃ tvā.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/22-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 The mention of the divine recipients of the soma in vss. 22 and 24 marks this tṛca, though the middle vs. lacks this feature. The (human) inspired poets (víprāḥ) in 23 implicitly contrast with the kaví- Soma, addressed in the voc. in 24. Note also that this is the third tṛca in a row that refers to sitting on (or coming to) “the womb of truth” (17c, 20ab, 22c), a trope found also in 11c; all four expressions are slightly different, though containing the same basic elements: 11c sī́dann ṛtásya yónim ā́, 17c ágmann ṛtásya yónim ā́, 20ab ā́… yóniṃ hiraṇyáyam … ṛtásya sī́dati, 22c ṛtásya yónim āsádam. For further on this trope see comm. ad vs. 30 below.
@@ -132,3 +166,4 @@ Rings schmücken die verehrenden, die liederkund'gen Sänger dich, Es läutern d
 
 -ru-
 </details>
+

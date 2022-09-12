@@ -14,12 +14,43 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ácha ← ácha (invariable)  
+{}
+
+gámanti ← √gam- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pátnīḥ ← pátnī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dádhātu ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+supāṇíḥ ← supāṇí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīrā́n ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Wenn unsre Weiber – mit uns sich paaren, dann geb uns Tvaschtar, – der Küns
 Когда же придут к нам жены,  
 Тваштар с прекрасными ладонями пусть наделит (нас) сыновьями!
 </details>
+

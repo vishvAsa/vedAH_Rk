@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eté ← eṣá (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+ít ← ít (invariable)  
+{}
+
+jánima ← jániman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+viviktaḥ ← √vyac- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bíbhratī ← √bhr̥- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+maháḥ ← máh- (nominal stem)  
+{case:ACC, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vyathete ← √vyath- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+dhruvám ← dhruvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+éjat ← √ej- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+patyate ← √pat- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cárat ← √carⁱ- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+patatrí ← patatrín- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+víṣuṇam ← víṣuṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +245,4 @@ Sie halten alle Wesen auseinander, sie wanken nicht, die grossen Götter tragend
 Одно правит всем: что движется, что твердо,  
 Что бродит, что летает, что разнообразно, что по-разному рождено.
 </details>
+

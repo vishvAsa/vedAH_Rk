@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+etā́ ← eṣá (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vedhaḥ ← vedhás- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vidúṣe ← √vid- 2 (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+niṇyā́ ← niṇyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+nīthā́ni ← nīthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vácāṁsi ← vácas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kaváye ← kaví- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kā́vyāni ← kā́vya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+nivácanā ← nivácana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+áśaṁsiṣam ← √śaṁs- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +212,4 @@ Gesungen hab' ich alle diese Lieder, o Ordner, Agni, und geheime Worte; dem weis
 Скрытые выражения, поэтические прозрения, для поэта,  
 Возвестил я, вдохновенный, в молитвах (и) гимнах.
 </details>
+

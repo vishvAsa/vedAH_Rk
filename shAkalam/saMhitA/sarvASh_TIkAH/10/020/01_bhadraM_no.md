@@ -13,11 +13,27 @@ ChandaH = "एकपदा विराट् (पाद एव वा शान
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M
+#### Morph
+ápi ← ápi (invariable)  
+{}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vātaya ← √vat- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -91,3 +107,4 @@ O flösse schönen Sinn uns ein.
 
 Вдохни же в нас счастливую мысль!
 </details>
+

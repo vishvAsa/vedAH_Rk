@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sū́raḥ ← svàr- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+upāké ← upāká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+céti ← √cit- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+várpaḥ ← várpas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+hastī́ ← hastín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥gáḥ ← mr̥gá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+táviṣīm ← táviṣī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+uṣāṇáḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ā́yudhāni ← ā́yudha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bhīmáḥ ← bhīmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bíbhrat ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+siṁháḥ ← siṁhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Den Leib hinsetzend in der Sonne Nähe, wenn deine Pracht, des ewigen, sich zeig
 Словно слон, рядясь в силу,  
 Страшный, словно лев, когда ты несешь оружие...
 </details>
+

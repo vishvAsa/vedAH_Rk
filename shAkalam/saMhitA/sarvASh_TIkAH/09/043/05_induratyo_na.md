@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vājasŕ̥t ← vājasŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+kánikranti ← √krand- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ákṣār ← √kṣar- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+devayúḥ ← devayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +153,4 @@ Der Indu wiehert wie ein Ross, das Preis erstrebt, zur Seihe hin, Wenn er hindur
 
 -ru-
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+cākl̥pré ← √kl̥p- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+manuṣyā̀ḥ ← manuṣyà- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+jāté ← √janⁱ- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+purāṇé ← purāṇá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yajñé ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+cákṣasā ← cákṣas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+manye ← √man- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+páśyan ← √paś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+áyajanta ← √yaj- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Danach haben sich die menschlichen Dichter gerichtet, unsere Väter, als das ura
 Я считаю, что вижу мыслью-взором тех,  
 Кто первыми пожертвовал эту жертву.
 </details>
+

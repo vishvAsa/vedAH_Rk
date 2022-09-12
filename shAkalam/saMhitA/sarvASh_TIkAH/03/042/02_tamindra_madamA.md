@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mádam ← máda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+barhiṣṭhā́m ← barhiṣṭhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+grā́vabhiḥ ← grā́van- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sutám ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kuvít ← kuvít (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+tr̥pṇávaḥ ← √tr̥p- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +168,4 @@ Zum Rauschtrank komm, o Indra! her, dem steingepressten auf der Streu, Wirst du 
 Стоящий на жертвенной соломе, выжатый давильными камнями!  
 Конечно, ты им насытишься!
 </details>
+

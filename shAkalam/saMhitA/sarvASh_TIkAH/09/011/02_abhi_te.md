@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+mádhunā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+aśiśrayuḥ ← √śrī- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+átharvāṇaḥ ← átharvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+devayú ← devayú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +151,4 @@ Die Priester haben wohl gemischt mit süssem Tranke deinen Saft, Den Gott dem Go
 Твоей сладостью молоко,  
 Посвященное богам, бога – для бога.
 </details>
+

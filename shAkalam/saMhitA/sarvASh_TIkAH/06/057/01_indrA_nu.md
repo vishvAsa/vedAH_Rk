@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+índrā ← índra- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+nú ← nú (invariable)  
+{}
+
+pūṣáṇā ← pūṣán- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+huvéma ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,3 +133,4 @@ Lasst Indra, Puschan rufen uns zur Brüderschaft, zum Wohlergehn, Dass reiche Be
 Хотим призвать для дружбы,  
 Для счастья, для захвата добычи.
 </details>
+

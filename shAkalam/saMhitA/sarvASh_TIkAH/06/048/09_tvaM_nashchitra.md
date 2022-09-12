@@ -16,14 +16,69 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+citráḥ ← citrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ūtyā́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+codaya ← √cud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rā́dhāṁsi ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+váso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+rathī́ḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+gādhám ← gādhá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tú ← tú (invariable)  
+{}
+
+tucé ← túc- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vidā́ḥ ← √vid- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Durch deine Huld, o strahlender, o guter, treib uns Schätze zu; O Agni, Fährma
 Ты Агни, колесничий этого богатства,  
 Найди же брод для нашего потомства!
 </details>
+

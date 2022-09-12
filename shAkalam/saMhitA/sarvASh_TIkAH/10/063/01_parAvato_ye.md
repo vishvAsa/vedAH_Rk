@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́pyam ← ā́pya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dídhiṣante ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+jánima ← jániman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mánuprītāsaḥ ← mánuprīta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vivásvataḥ ← vivásvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+nahuṣyàsya ← nahuṣyà- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yayā́teḥ ← yayā́ti- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ā́sate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+bruvantu ← √brū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +201,4 @@ Die gern von ferne kommen zur Genossenschaft, geliebt von Menschen, des Vivasvat
 
 -ru-
 </details>
+

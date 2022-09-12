@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tāvŕ̥dhaḥ ← r̥tāvŕ̥dh- (nominal stem)  
+{case:NOM, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+havanaśrútaḥ ← havanaśrút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥túbhiḥ ← r̥tú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+juṣántām ← √juṣ- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:MED}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yújyam ← yújya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,7 +129,7 @@ The use of yújya- in c is not entirely clear to me. I take it to mean that the 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
 <details open><summary><h2>07-12 ...{Loading}...</h2></summary>
 
 These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an elementary production, with almost no tricks (though see vs. 9). One wonders whether great swaths of RV-period poetry were similarly lackluster and therefore not generally preserved.
@@ -135,3 +160,4 @@ Die heil'gen Götter mögen all' zur Festzeit hörend unsern Ruf, Geniessen den 
 Слышащие призывы в положенное время,  
 Пусть наслаждаются молоком, (которое им) положено!
 </details>
+

@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+akṣaíḥ ← akṣá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dīvyaḥ ← √dīv- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+kr̥ṣasva ← √kr̥ṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+kr̥ṣím ← kr̥ṣí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+bahú ← bahú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mányamānaḥ ← √man- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ramasva ← √ram- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vitté ← √vid- 1 (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jāyā́ ← jāyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kitava ← kitavá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tátra ← tátra (invariable)  
+{}
+
+tátra ← tátra (invariable)  
+{}
+
+aryáḥ ← aryá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+caṣṭe ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +250,4 @@ Spiele nicht mehr mit den Würfeln, bestelle deinen Acker; begnüge dich mit dei
 Вот коровы, о игрок, вот жена, –  
 На это указывает мне этот господин Савитар.
 </details>
+

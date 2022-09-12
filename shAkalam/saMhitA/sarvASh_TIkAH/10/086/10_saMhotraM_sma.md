@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+nā́rī ← nā́rī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+purā́ ← purā́ (invariable)  
+{}
+
+saṁhotrám ← saṁhotrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+áva ← áva (invariable)  
+{}
+
+gachati ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sámanam ← sámana- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vedhā́ḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīríṇī ← vīrín- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+índrapatnī ← índrapatnī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mahīyate ← √mahīy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +196,4 @@ Sonst ist die Frau auch zum gemeinsamen Opfer oder zur Festversammlung gegangen;
 
 -ru-
 </details>
+

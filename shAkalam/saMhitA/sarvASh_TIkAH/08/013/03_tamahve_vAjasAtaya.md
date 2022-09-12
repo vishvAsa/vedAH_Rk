@@ -15,14 +15,51 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+ahve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+bhárāya ← bhára- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śuṣmíṇam ← śuṣmín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ántamaḥ ← ántama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sumné ← sumná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥dhé ← vŕ̥dh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +171,4 @@ Den Indra habe ich angerufen, um den Siegerpreis zu erringen, zum Gewinn den Ung
 Индру, для добычи – неистового.  
 Будь нам по благожелательности самым близким другом - для укрепления (нашего)!
 </details>
+

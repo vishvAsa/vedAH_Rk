@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajā́śvaḥ ← ajā́śva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paśupā́ḥ ← paśupā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́japastyaḥ ← vā́japastya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árpitaḥ ← √r̥- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+bhúvane ← bhúvana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhiyaṁjinváḥ ← dhiyaṁjinvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áṣṭrām ← áṣṭrā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śithirā́m ← śithirá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+udvárīvr̥jat ← √vr̥j- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bhúvanā ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+saṁcákṣāṇaḥ ← √cakṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +209,4 @@ Der Schatz ins Haus bringt, Heerden schirmt, mit Ziegen fährt, der Andachtwecke
 Бог Пушан, размахивающий гибким стрекалом,  
 Движется, озирая все существа.
 </details>
+

@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+marútvantam ← marútvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥jīṣíṇam ← r̥jīṣín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ójasvantam ← ójasvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+virapśínam ← virapśín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,3 +126,4 @@ Den mächt'gen mit der Marutschar, der vorwärts dringt mit Kraft begabt, Mit Li
 
 -ru-
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣitī́ḥ ← kṣití- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+suráṇaḥ ← suráṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vibhā́vā ← vibhā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+babhūva ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sumádrathaḥ ← sumádratha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhūripoṣíṇaḥ ← bhūripoṣín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhūṣema ← √bhūṣ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +231,4 @@ Erfreuend weilte Agni in den Wohnungen, der lichte Gott mit seinem Wagen voller 
 Заветам этого обильно кормящего (бога) мы  
 Хотим служить в доме прекрасно сложенными гимнами!
 </details>
+

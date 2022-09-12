@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+amŕ̥tāya ← amŕ̥ta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+júṣṭam ← júṣṭa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+amŕ̥tāsaḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhāsuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+purājā́ḥ ← purājā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pastyā̀nām ← pastyā̀- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+śúcikrandam ← śúcikranda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajatám ← yajatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anarvā́ṇam ← anarván- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+huvema ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +208,4 @@ Dies unser Lied, das er der ew'ge gern hat, erregten uns die urgebornen Götter;
 Мы хотим призывать неодолимого Брихаспати,  
 Ясно звучащего, достойного жертв (хозяина) поселений.
 </details>
+

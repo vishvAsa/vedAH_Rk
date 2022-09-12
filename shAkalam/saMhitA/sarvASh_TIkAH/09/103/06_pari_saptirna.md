@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+ná ← ná (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+sáptiḥ ← sápti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājayúḥ ← vājayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+dhāvati ← √dhāv- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+vyānaśíḥ ← vyānaśí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +153,4 @@ Der Gott, den Göttern ausgepresst, dem Renner gleich, der Preis erstrebt, Ergie
 Бог, выжатый для богов,  
 Всепроникающий Павамана течет через (цедилку).
 </details>
+

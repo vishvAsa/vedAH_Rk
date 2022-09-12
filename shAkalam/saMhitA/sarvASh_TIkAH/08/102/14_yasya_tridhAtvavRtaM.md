@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ávr̥tam ← ávr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tridhā́tu ← tridhā́tu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ásaṁdinam ← ásaṁdina- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tasthaú ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+dadha ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +188,4 @@ Ihr Wasser, setztet hin den Platz ihm, dessen dreigetheilte Streu Noch unbeengt 
 Остается неперевернутой, несвязанной,  
 Даже воды скрыли (его) след.
 </details>
+

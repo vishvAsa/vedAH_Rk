@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áti ← áti (invariable)  
+{}
+
+ávyā ← ávya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+eté ← eṣá (pronoun)  
+{}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́rāṇi ← vā́ra- 1 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+abhrávarṣāḥ ← abhrávarṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+divyā́ḥ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kóśāsaḥ ← kóśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+nī́cīḥ ← nyàñc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+asr̥gran ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+kaláśān ← kaláśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sutā́saḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Ergossen sind die Soma's durch die Wolle, wie Himmels Eimer, die aus Wolken regn
 Охотно, словно реки – низинами в море,  
 Стекли в кувшины выжатые соки.
 </details>
+

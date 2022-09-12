@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jīvám ← jīvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mayante ← √mi- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+rudanti ← √rud- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+dīdhiyuḥ ← √dhī- (root)  
+{number:PL, person:3, mood:INJ, tense:PRF, voice:ACT}
+
+dīrghā́m ← dīrghá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prásitim ← prásiti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+pitŕ̥bhyaḥ ← pitár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sameriré ← √īr- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+jánayaḥ ← jáni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+máyaḥ ← máyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pariṣváje ← √svaj- (root)  
+{case:DAT, number:SG}
+
+pátibhyaḥ ← páti- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Sie beweinen den lebenden, gehen hin und her (?) beim Opferfest; die Männer san
 Благо для предков, которые это устроили.  
 Радость для мужей – жены, которых предстоит обнимать.
 </details>
+

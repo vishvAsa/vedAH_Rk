@@ -16,16 +16,68 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+ávasi ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+āvitha ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+kṣatrā́ya ← kṣatrá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tvam ← tva- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvam ← tva- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+śacīpate ← śácīpáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+víśvābhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+mā́dhyaṁdinasya ← mā́dhyaṁdina- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sávanasya ← sávana- 1 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+anedya ← ánedya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vajrivaḥ ← vajrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Dem einen hilfst zur Herrschaft du, dem andern nicht, o Herr der Kraft, mit alle
 О безупречный,  
 Испей сомы, о громовержец!
 </details>
+

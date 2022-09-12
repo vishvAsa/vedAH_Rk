@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+auśijáḥ ← auśijá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥jíśvā ← r̥jíśvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stómebhiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+darayat ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+píproḥ ← pípru- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabhéṇa ← vr̥ṣabhá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dīdáyat ← √dī- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+gī́ḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sútvā ← sútvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajatáḥ ← yajatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+bhū́t ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+iyānáḥ ← √yā- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+várpasā ← várpas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Durch die Lieder, die ihn preisen, erbrach Ridschiçvan, der Nachkomme des Uçid
 Когда выжиматель сомы, достойный жертв певец ярко засверкал,  
 Попрошенный (об этом), он овладел крепостями в измененном облике.
 </details>
+

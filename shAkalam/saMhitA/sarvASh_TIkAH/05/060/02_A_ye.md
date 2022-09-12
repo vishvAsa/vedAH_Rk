@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+pŕ̥ṣatīṣu ← pŕ̥ṣant- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+śrutā́su ← √śru- (root)  
+{case:LOC, gender:F, number:PL, non-finite:PPP}
+
+tasthúḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rátheṣu ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+rudrā́ḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sukhéṣu ← sukhá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+bhiyā́ ← bhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+jihate ← √hā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+ugrāḥ ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vánā ← vána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+párvataḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rejate ← √rej- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +215,7 @@ The person changes between hemistichs from 3rd (ab: yé tasthúḥ) in the rel. 
 to 2nd (cd: voc. ugrāḥ … vaḥ) in the main cl.. This is hardly unusual in the RV. The standard tr. register this anacoluthon in various ways, Witzel Gotō most sharply, by supplying a main cl. for ab: “(Sie sind es), die …” and separating the two hemistichs into two sentences. This seems unnec.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/060/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/060/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 Note the concatenation: 2d … párvataś cit# // 3a #párvataś cit … The two vss. also hold the verb rejate/rejata steady (2d, 3b, though in slightly different metrical position, both post-caesura, with one pres. and the other injunc.), but in the first instance it’s earth (pṛthivī́) that trembles and in the 2nd (the back of) heaven (diváḥ, initial in its pāda like pṛthivī́). So the standard pair heaven/earth are contrasted and identically positioned, but they are grammatically non-parallel. There is also a repetition of ‘fear’, though again in different forms -- nominal bhiyā́in 2c, pf. bibhāya in 3c, both pāda-final. This kind of patterned and varied repetition may not reach the heights of poetic art, but it is a pleasing demonstration of the way a RVic poet infuses freshness into the clichéś that are his bread-and-butter.
@@ -183,3 +247,4 @@ Wenn sie bestiegen die gepriesnen Hirsche und schnellen Wagen, sie, die lichten 
 Даже лесные деревья клонятся от страха перед вами, о грозные,  
 Даже земля трясется, даже гора.
 </details>
+

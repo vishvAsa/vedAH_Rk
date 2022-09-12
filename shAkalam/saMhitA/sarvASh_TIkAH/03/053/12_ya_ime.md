@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+imé ← ayám (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+átuṣṭavam ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PLUPRF, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rakṣati ← √rakṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+viśvā́mitrasya ← viśvā́mitra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhā́ratam ← bhā́rata- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jánam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +184,4 @@ Der ich diese beiden Welten erregt habe, den Indra zu preisen, mein, des Viçvam
 Это заклинание Вишвамитры  
 Охраняет народ Бхаратов.
 </details>
+

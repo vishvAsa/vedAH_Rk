@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhūma ← √bhū- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+níṣṭyāḥ ← níṣṭya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áraṇāḥ ← áraṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prajahitā́ni ← √hā- 2 (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+vánāni ← vána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+amanmahi ← √man- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+duróṣāsaḥ ← duróṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +192,4 @@ Nicht seien wir wie Fremde dir, noch, Indra, wie dir unbekannt; Nicht galten wir
 Мы считали себя вялыми,  
 О повелитель давильных камней, словно поваленные деревья.
 </details>
+

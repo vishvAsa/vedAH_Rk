@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+carátham ← carátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvádevyaḥ ← viśvádevya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+avatu ← √avⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+iṣṭáye ← iṣṭí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+nápāt ← nápat- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāyúḥ ← vāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+arcata ← √r̥c- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ātmā́nam ← ātmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásyaḥ ← vásyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́tam ← vā́ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śrutam ← √śru- (root)  
+{number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
+
+suhavā ← suháva- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yā́mani ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +223,4 @@ Mit allen Göttern fördre Puschan unsern Gang, der Sohn der Fluten, Vaju helf u
 
 -ru-
 </details>
+

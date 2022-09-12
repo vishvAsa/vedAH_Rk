@@ -17,15 +17,73 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dāśema ← √dāś- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sudā́nūn ← sudā́nu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áchoktau ← áchokti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+evayā́ḥ ← evayā́- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áchoktau ← áchokti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+práśravasaḥ ← práśravas- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áhiḥ ← áhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+budhnyàḥ ← budhnyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhāt ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+riṣé ← ríṣ- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+upamātivániḥ ← upamātiváni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Wie dienen wir den gabenreichen Maruts, den eilend gehnden andachtsvoll beim Anr
 Да не нашлет беду на нас Ахи Будхнья!  
 Да будет он нам заступником!
 </details>
+

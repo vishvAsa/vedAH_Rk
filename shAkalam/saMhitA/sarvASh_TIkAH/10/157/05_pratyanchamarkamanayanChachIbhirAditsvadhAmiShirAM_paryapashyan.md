@@ -14,12 +14,43 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular;; repeated line
+#### Morph
+anayan ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pratyáñcam ← pratyáñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+apaśyan ← √paś- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ā́t ← ā́t (invariable)  
+{}
+
+iṣirā́m ← iṣirá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+svadhā́m ← svadhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +143,4 @@ Da führten sie mit Kraft die Sonne herwärts, da sah man ihre Schöpferkraft si
 Своими способностями обратили к себе солнце,  
 И тогда увидели свою животворную природу.
 </details>
+

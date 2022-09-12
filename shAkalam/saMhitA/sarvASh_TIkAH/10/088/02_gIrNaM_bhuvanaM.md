@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular;; repeated line  
 popular  
 popular
+#### Morph
+ápagūḷham ← √guh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+bhúvanam ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gīrṇám ← √gr̥̄- 2 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+támasā ← támas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+agnaú ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+āvís ← āvís (invariable)  
+{}
+
+jāté ← √janⁱ- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+áraṇayan ← √ranⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Verschlungen war die Welt, verhüllt vom Dunkel; Lichtglanz erschien, als Agni w
 Боги, земля, небо, а также воды,  
 Растения возрадовались в дружбе с ним.
 </details>
+

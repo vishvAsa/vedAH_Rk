@@ -18,16 +18,65 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+nabhākavát ← nabhākavánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+indrāgníbhyām ← indrāgní- (nominal stem)  
+{case:DAT, gender:M, number:DU}
+
+irajyata ← √irajy- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+arṇavám ← arṇavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saptábudhnam ← saptábudhna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+aporṇutáḥ ← √vr̥- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jihmábāram ← jihmábāra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ī́śānaḥ ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +231,4 @@ Nabhaka gleichend wendet hin zu Indra-Agni eur Gebet. Das Meer, das sieben Böde
 Индра, владеющий силой.  
 Пусть лопнут все ничтожные другие!
 </details>
+

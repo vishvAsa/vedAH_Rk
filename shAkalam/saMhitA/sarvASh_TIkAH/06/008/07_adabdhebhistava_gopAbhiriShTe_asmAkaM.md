@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádabdhebhiḥ ← ádabdha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gopā́bhiḥ ← gopā́- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+iṣṭe ← iṣṭí- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sūrī́n ← sūrí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+triṣadhastha ← triṣadhástha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dadúṣām ← √dā- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rákṣa ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+stávānaḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+tārīḥ ← √tr̥̄- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+vaíśvānara ← vaiśvānará- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Mit deinen treuen Hütern, o du Helfer, bewahre dreifach thronend unsre Edlen, U
 И защищай толпу наших дарителей, о Агни,  
 И продлевай (срок жизни), о Вайшванара, когда тебя восхваляют!
 </details>
+

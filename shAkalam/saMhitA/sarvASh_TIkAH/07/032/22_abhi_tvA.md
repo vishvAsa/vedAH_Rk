@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+nonumaḥ ← √nu- ~ nū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ádugdhāḥ ← ádugdha- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ī́śānam ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+jágataḥ ← jágat- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+svardŕ̥śam ← svardŕ̥ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ī́śānam ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+tasthúṣaḥ ← √sthā- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +191,4 @@ Wir schreien an, o Held, zumal wie ungemolkne Kühe dich; Den himmelsgleichen, d
 К властвующему над этим живым миром, к выглядящему как солнце,  
 К властвующему, о Индра, над неживым миром.
 </details>
+

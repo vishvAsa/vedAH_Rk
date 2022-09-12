@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+párvateṣu ← párvata- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sugā́ ← sugá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+supáthā ← supátha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+avāté ← avātá- 1 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+svabhāno ← svábhānu- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+tarasi ← √tr̥̄- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥thuyāman ← pr̥thuyāman- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+r̥ṣve ← r̥ṣvá- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+divaḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitar ← duhitár- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+iṣayádhyai ← √iṣay- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Und schön sind deine Bahnen auf den Bergen, durch Nebel dringst im stillen Raum
 Привези нам богатство для наслаждения,  
 О высокая дочь неба с широким путем!
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dhītáyaḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vardhantu ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+viśváhā ← viśváhā (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bodhi ← √budh- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sakhyásya ← sakhyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +157,4 @@ Es stärke meine Andacht dich und meine Lieder allezeit, Nimm, Agni, unsrer Freu
 (Мои) хвалебные песни пусть все дни усиливают тебя!  
 О Агни, заметь нашу дружбу!
 </details>
+

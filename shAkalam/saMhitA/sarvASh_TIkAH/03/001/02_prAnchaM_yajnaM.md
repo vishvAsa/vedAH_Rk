@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakr̥ma ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+gī́ḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+prā́ñcam ← prā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+várdhatām ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+duvasyan ← √duvasy- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+samídbhiḥ ← samídh- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+kavīnā́m ← kaví- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śaśāsuḥ ← √śās- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vidáthā ← vidátha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gŕ̥tsāya ← gŕ̥tsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+īṣuḥ ← √iṣ- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+taváse ← tavás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Wir förderten das Opfer, Sang gedeihe; Agni versahn mit Flammen sie voll Ehrfur
 С неба они предоставили (ему) жертвенные раздачи поэтов.  
 Они искали выход для него, хоть он и опытен, и силен.
 </details>
+

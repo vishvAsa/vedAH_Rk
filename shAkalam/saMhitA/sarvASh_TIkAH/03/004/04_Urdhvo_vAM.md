@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+akāri ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+gātúḥ ← gātú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+prásthitā ← √sthā- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śocī́ṁṣi ← śocís- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ūrdhvā́ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asādi ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nā́bhā ← nā́bhi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devávyacāḥ ← devávyacas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+str̥ṇīmáhi ← √str̥̄- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +239,4 @@ Eur beider Gang war aufrecht bei dem Feste aufrecht die Flammen, dringend in die
 жертвенную солому  
 , образующую место для богов.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+suvr̥ktím ← suvr̥ktí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+taváse ← tavás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ugrā́ya ← ugrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+īraya ← √īr- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+paśváḥ ← paśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śivátamāya ← śivátama- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+gírvāhase ← gírvāhas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+dhehí ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kuvít ← kuvít (invariable)  
+{}
+
+tanvè ← tanū́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+védat ← √vid- 2 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Dem grossen, hehren, starken sende Loblied, und Heerden treibe hin zum heilbegab
 
 -ru-
 </details>
+

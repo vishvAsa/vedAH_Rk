@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+sū́rye ← sū́rya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+udyatí ← √i- 1 (root)  
+{case:LOC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dadhá ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+príyakṣatrāḥ ← priyakṣatra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nimrúci ← nimrúc- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+prabúdhi ← prabúdh- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+viśvavedasaḥ ← viśvávedas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+madhyáṁdine ← madhyáṁdina- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +200,4 @@ Wenn ihr bei Sonnenaufgang heut, geliebte Herrscher Gutes schenkt, Beim Untergan
 Когда при заходе (солнца), на заре  
 Или же в середине дня,
 </details>
+

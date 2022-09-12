@@ -15,13 +15,62 @@ ChandaH = "ऊर्ध्वबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́pyam ← ā́pya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+páśyamānāsaḥ ← √paś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+abhí ← abhí (invariable)  
+{}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+divyā́ḥ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vasurúcaḥ ← vasurúc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūrṇute ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vā́ram ← vā́ra- 2 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +189,7 @@ My interpr. of the final pāda differs from the standard, which takes deváḥ s
 In the frame, the first reading is the filter: Soma uncovers the fleece - that is, the juice passes beyond it; “desirable thing” is the reading in the simile, and in fact a 2nd reading in the frame. The tr. should be slightly emended to “He uncovers the fleece (/desirable thing) as the god Savitar uncovers a desirable thing.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 A very challenging tṛca, esp. the last two vss.
@@ -171,3 +220,4 @@ Jetzt haben alle himmlischen, erstrahlenden ihm zugejauchzt erblickend den Befre
 (Существа,) сверкающие, как Васу, приветствовали его криками.  
 Он раскрывает (свою) драгоценность, как бог Савитар.
 </details>
+

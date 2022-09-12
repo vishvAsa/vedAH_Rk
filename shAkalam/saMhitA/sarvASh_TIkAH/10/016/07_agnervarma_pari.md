@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+várma ← várman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vyayasva ← √vyā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+médasā ← médas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pī́vasā ← pī́vas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+ūrṇuṣva ← √vr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+dhr̥ṣṇúḥ ← dhr̥ṣṇú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hárasā ← háras- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+járhr̥ṣāṇaḥ ← √hr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+dadhŕ̥k ← dadhŕ̥k (invariable)  
+{}
+
+paryaṅkháyāte ← √aṅkhay- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+vidhakṣyán ← √dah- (root)  
+{case:NOM, gender:M, number:SG, tense:FUT, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +221,4 @@ Bedecke Agni's Rüstung rings mit Butter, umhüll sie ganz mit Fett und Opfersch
 Чтобы дерзкий (Агни), играющий пламенем,  
 Не охватил тебя крепко, чтобы сжечь дотла!
 </details>
+

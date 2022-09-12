@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devájuṣṭaiḥ ← devájuṣṭa- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sūktébhiḥ ← sūktá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vácobhiḥ ← vácas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+agnī́ ← agní- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+huvádhyai ← √hū- (root)  
+{case:DAT, number:SG, tense:AOR}
+
+índrā ← índra- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+nú ← nú (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sma ← sma (invariable)  
+{}
+
+suyajñā́ḥ ← suyajñá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ukthébhiḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+āvívāsantaḥ ← √vanⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT, mood:DES}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yájanti ← √yaj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Zu Hülfe ruft nun Indra her und Agni durch eure schönen, gottgefäll'gen Sprü
 Ведь это гимнами поэты, прекрасно приносящие жертвы,  
 Стремящиеся заманить Марутов, почитают (богов).
 </details>
+

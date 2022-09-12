@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agnáyaḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+smádrātiṣācaḥ ← smádrātiṣāc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pátnīvantaḥ ← pátnīvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váṣaṭkr̥tāḥ ← váṣaṭkr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +138,4 @@ Varuna, Mitra, Arjaman, die Feuer mit der Spenderschar Nebst ihren Frauen sind b
 (Многие) Агни вместе с (богинями,) сопровождающими дары,  
 С женами (богов), которым провозглашается: Вашат!,
 </details>
+

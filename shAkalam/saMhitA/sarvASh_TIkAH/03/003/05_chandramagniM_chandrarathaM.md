@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+candrám ← candrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+candráratham ← candráratha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hárivratam ← hárivrata- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apsuṣádam ← apsuṣád- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svarvídam ← svarvíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaiśvānarám ← vaiśvānará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́vr̥tam ← √vr̥- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+táviṣībhiḥ ← táviṣī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tū́rṇim ← tū́rṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vigāhám ← vigāhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhū́rṇim ← bhū́rṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+suśríyam ← suśrī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +219,4 @@ Den hellen Agni hellen Wagens, goldnen Werks, den Männerhort, der Flut bewohnt 
 Скрывающегося, стремительного, окруженного силами,  
 Неистового – боги устроили здесь, прекрасного.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jajñe ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+svadhā́vān ← svadhā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīryā̀ya ← vīryà- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ápaḥ ← ápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cákriḥ ← cákri- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kariṣyán ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:FUT, voice:ACT}
+
+náryaḥ ← nárya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ávobhiḥ ← ávas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+jágmiḥ ← jágmi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥ṣádanam ← nr̥ṣádana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yúvā ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+énasaḥ ← énas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+trātā́ ← trātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Zur Heldenthat erstand der starke Selbstherr; welch Werk der Held sich vornimmt,
 Юноша, посещающий собрание мужей со (своими) поддержками,  
 Индра, спасающий нас даже от великого греха.
 </details>
+

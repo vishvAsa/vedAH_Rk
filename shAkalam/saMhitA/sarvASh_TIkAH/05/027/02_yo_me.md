@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+gónām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śatā́ ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+viṁśatím ← viṁśatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dádāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hárī ← hári- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sudhúrā ← sudhúr- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yuktā́ ← √yuj- (root)  
+{case:ACC, gender:M, number:DU, non-finite:PPP}
+
+súṣṭutaḥ ← súṣṭuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaíśvānara ← vaiśvānará- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vāvr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tryàruṇāya ← tryàruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yácha ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ Der mir hundertundzwanzig Kühe schenkt, ein Paar rotber Rosse, die an schöne D
 Тръяруне, о Агни Вайшванара, прекрасно восхваленный  
 (И) возросший, даруй защиту!
 </details>
+

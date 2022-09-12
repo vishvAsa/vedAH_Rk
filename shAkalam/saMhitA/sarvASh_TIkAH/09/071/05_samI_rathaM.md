@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aheṣata ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+bhuríjoḥ ← bhuríj- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+ī ← ī (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áditeḥ ← áditi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+svásāraḥ ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+apīcyàm ← apīcyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+jígāt ← √gā- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+jrayati ← √jri- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+ájījanan ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+matúthāḥ ← matútha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +243,4 @@ Zehn Schwestern haben in dem Schooss der Aditi wie Wagen in der Schnitzbank ihn 
 Он движется, бросается к тайному (месту) коровы,  
 Когда (это) место его породили мудрецы.
 </details>
+

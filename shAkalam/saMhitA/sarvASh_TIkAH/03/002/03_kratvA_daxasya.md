@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+táruṣaḥ ← tárus- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vídharmaṇi ← vídharman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cíttibhiḥ ← cítti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+janayanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+bhānúnā ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mahā́m ← máh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rurucānám ← √ruc- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:MED}
+
+átyam ← átya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bruve ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+saniṣyán ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:FUT, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Die Götter zeugten durch des Geistes Siegsgewalt im Himmelsraum den Agni durch 
 К великому (богу,) сверкающему лучом (и) светом,  
 Я обращаюсь, как (человек,) стремящийся захватить награду, – к скакуну.
 </details>
+

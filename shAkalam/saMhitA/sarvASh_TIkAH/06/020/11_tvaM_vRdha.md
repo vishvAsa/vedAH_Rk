@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhūḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pūrvyáḥ ← pūrvyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vr̥dháḥ ← vr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kāvyā́ya ← kāvyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+uśáne ← uśánā- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+varivasyán ← √varivasy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+anudéyam ← anudéya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+návavāstvam ← návavāstva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+dadātha ← √dā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nápātam ← nápat- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pitré ← pitár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svám ← svá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Du, Indra, bist von Alters her der Helfer, der Raum du schafftest Uçana dem Kav
 Нававаству, которого нужно было оставить (?),  
 Ты передал (ему), деду – его собственного внука.
 </details>
+

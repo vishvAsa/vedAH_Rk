@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kravyavā́hanaḥ ← kravyavā́hana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pitr̥̄́n ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥tāvŕ̥dhaḥ ← r̥tāvŕ̥dh- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yákṣat ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+havyā́ni ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vocati ← √vac- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+pitŕ̥bhyaḥ ← pitár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Der Agni, der das Fleisch entführt, den heil'gen Vätern Opfer bringt, Der kün
 Да провозгласит он жертвоприношения  
 И богам, и отцам!
 </details>
+

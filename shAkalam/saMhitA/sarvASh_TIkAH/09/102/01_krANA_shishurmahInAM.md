@@ -15,14 +15,51 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+krāṇā́ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+mahī́nām ← máh- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+śíśuḥ ← śíśu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dī́dhitim ← dī́dhiti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+hinván ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+bhuvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+priyā́ ← priyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ádha ← ádha (invariable)  
+{}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +175,4 @@ Der grossen Fluten kräft'ger Spross, er, der des Opfers Andacht hegt, Umfange a
 Возбуждая силу видения вселенского закона,  
 Он охватил все любимые (вещи), и (это) с самого начала.
 </details>
+

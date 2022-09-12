@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakartha ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+énaḥ ← énas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tyájaḥ ← tyájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ávidvān ← ávidvaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+pr̥chā́mi ← √praś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+adán ← adánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ákrīḷan ← ákrīḷant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áttave ← √ad- (root)  
+{case:DAT, number:SG}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+krī́ḷan ← √krīḍ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+asíḥ ← así- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cakarta ← √kr̥t- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+parvaśás ← parvaśás (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +249,4 @@ Hast frevelnd du Gewalt verübt an Göttern? dich frage ich, der ich's nicht wei
 Не играя (и все-таки) играя, золотистый, чтобы сьесть без зубов,  
 Разрезал (дерево), как нож быка по суставам.
 </details>
+

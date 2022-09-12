@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+gantam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mayobhúvā ← mayobhū́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+áśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śambhúvā ← śambhū́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vipanyū ← vipanyú- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ávīvr̥dhat ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vatsáḥ ← vatsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +188,4 @@ Kommt her zu uns, die Lust ihr bringt, o Ritter, die ihr Segen schafft, Zu Vatsa
 К (тому) Ватсе, который вас, о удивительные,  
 Усилил молитвами (и) песнями!
 </details>
+

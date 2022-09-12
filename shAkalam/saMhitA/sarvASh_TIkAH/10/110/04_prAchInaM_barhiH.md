@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prācī́nam ← prācī́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pradíśā ← pradíś- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+asyā́ḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+vástoḥ ← vástu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vr̥jyate ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+prathate ← √prathⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+u ← u (invariable)  
+{}
+
+várīyaḥ ← várīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vitarám ← vitarám (invariable)  
+{}
+
+áditaye ← áditi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+syonám ← syoná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ Man streut den Grassitz nach der Erde Osten an diesem Morgen bei des Tages Anbru
 Она распространяется все дальше, все шире,  
 Как мягкое (ложе) для богов, для Адити.
 </details>
+

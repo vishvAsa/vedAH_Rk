@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+havírbhiḥ ← havís- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+jyéṣṭham ← jyéṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+gr̥ṇīṣe ← √gr̥̄- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suśévam ← suśéva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+daívyaḥ ← daívya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+siṣaktu ← √sac- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ślókaḥ ← ślóka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+devákr̥tasya ← devákr̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Den hehren preis' ich mit Gebet und Opfer, den holdgesinnten Schützer des Gebet
 Пусть божественный возглас мощно следует за Индрой! -  
 (Того,) кто царь созданного для богов священного слова.
 </details>
+

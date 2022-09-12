@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+sacate ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sahásreṇa ← sahásra- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yavīyúdhā ← yavīyúdh- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́naṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+úpastutim ← úpastuti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+prāvargám ← prāvargá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvī́rye ← suvī́rya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dāśnóti ← √dāś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+náma:uktibhiḥ ← náma:ukti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +193,4 @@ Umgeben wie von tausendfacher Streiterschar, ist der, der deinen Beifall fand; D
 Сына (своего) тот приводит к успеху в высшем мужестве,  
 (Кто) почитает (тебя) выражениями поклонения.
 </details>
+

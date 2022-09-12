@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádreḥ ← ádri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhānúm ← bhānú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhāsím ← dhāsí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kavím ← kaví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hinvánti ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rājyám ← rājyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ródasyoḥ ← ródasī- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+śám ← śám (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+puraṁdarásya ← puraṁdará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vivāse ← √vanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mahā́ni ← mahá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pūrvyā́ ← pūrvyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Den weisen Führer, senden aus dem Fels sie als Licht und Lust zum Heil, zur Wel
 Я хочу привлечь к себе песнями древние великие заветы  
 Агни – проломителя крепостей.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+míham ← míh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vápanti ← √vap- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+párvatān ← párvata- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vepayanti ← √vip- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vāyúbhiḥ ← vāyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yā́mam ← yā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́nti ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -100,7 +131,7 @@ vápanti is also echoed by vepayanti in the next pāda, and the whole verse is m
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/01-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
 Note recycling of vocab. -- íṣam 1, 3; párvata- 1, 2, 4; yā́mam 2, 4; vip/vep 1, 4; vāyúbhiḥ 3, 4.
@@ -136,3 +167,4 @@ Die Maruts säen Regen aus, und regen das Gebirge auf, Wenn sie mit Winden eilen
 Они сотрясают горы,  
 Когда отправляются в поход на ветрах,
 </details>
+

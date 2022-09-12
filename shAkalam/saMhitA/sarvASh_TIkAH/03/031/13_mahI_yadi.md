@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhā́t ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+dhiṣáṇā ← dhiṣáṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śiśnáthe ← śiśnátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yádi ← yádi (invariable)  
+{}
+
+ródasyoḥ ← ródasī- (nominal stem)  
+{case:LOC, gender:F, number:DU}
+
+sadyovŕ̥dham ← sadyovŕ̥dh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vibhvàm ← vibhū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anavadyā́ḥ ← anavadyá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+samīcī́ḥ ← samyáñc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+ánuttāḥ ← ánutta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+táviṣīḥ ← táviṣī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Wenn die grosse mit Soma gefüllte Schale den schnell er- starkten Helden beider
 На ком сходятся безупречные песни,  
 Все силы были предоставлены Индре.
 </details>
+

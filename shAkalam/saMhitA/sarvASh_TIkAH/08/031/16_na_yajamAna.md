@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ná ← ná (invariable)  
+{}
+
+riṣyasi ← √riṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yajamāna ← √yaj- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+devayo ← devayú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sunvāna ← √su- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+íyakṣati ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yájamānaḥ ← √yaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+abhí ← abhí (invariable)  
+{}
+
+áyajvanaḥ ← áyajvan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bhuvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Nicht trifft dich Schaden, Opferer, nicht Somapresser, Frommer dich; Wer recht d
 Хочет покорить сердце богов,  
 Одерживает верх над тем. кто не приносит жертв.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ca ← ca (invariable)  
+{}
+
+dīdihi ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+kṣápaḥ ← kṣáp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+usráḥ ← uṣár- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svagnáyaḥ ← svagní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+asmayúḥ ← asmayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvī́raḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Des Nachts und Morgens leuchte du, durch dich sind reich an Feuern wir, Du männ
 С тобою у нас есть хороший костер.  
 Ты богат прекрасными мужами, (если) предан нам.
 </details>
+

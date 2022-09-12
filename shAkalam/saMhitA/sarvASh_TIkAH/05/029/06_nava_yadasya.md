@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhogā́n ← bhogá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+náva ← náva- 1 (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+navatím ← navatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sākám ← sākám (invariable)  
+{}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vivr̥ścát ← √vr̥śc- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+árcanti ← √r̥c- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sadhásthe ← sadhástha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bādhata ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+traíṣṭubhena ← traíṣṭubha- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vácasā ← vácas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Als er des Dämons neunundneunzig Schanzen der starke mit dem Blitz zerbrach auf
 Маруты стали на месте воспевать Индру.  
 Речью в форме триштубха он штурмовал небо.
 </details>
+

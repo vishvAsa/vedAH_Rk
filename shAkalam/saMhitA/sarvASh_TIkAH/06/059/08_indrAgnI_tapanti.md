@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+tápanti ← √tap- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+aghā́ḥ ← aghá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+árātayaḥ ← árāti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+dvéṣāṁsi ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kr̥tam ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ádhi ← ádhi (invariable)  
+{}
+
+sū́ryāt ← sū́rya- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yuyutám ← √yu- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +188,4 @@ Es quälen, Indra-Agni, mich die bösen Feinde unheilvoll, O thut hinweg der Has
 Отвратите проявления ненависти!  
 Лишите (его) солнца!
 </details>
+

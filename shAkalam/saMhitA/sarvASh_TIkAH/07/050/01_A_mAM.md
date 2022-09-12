@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rakṣatam ← √rakṣⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gan ← √gam- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+kulāyáyat ← √kulāyay- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+viśváyat ← √śvā- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+ajakāvám ← ajakāvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+durdŕ̥śīkam ← durdŕ̥śīka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+pádyena ← pádya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rápasā ← rápas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tsáruḥ ← tsáru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidat ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +232,4 @@ Beschirmet mich, o Varuna und Mitra, hier, nicht komm an mich, was im Verborgnen
 Аджакаву мерзкого вида я устраняю.  
 Пусть не найдет меня ползун, вредящий ногам!
 </details>
+

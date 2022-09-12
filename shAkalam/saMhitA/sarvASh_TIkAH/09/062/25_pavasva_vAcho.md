@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+agriyáḥ ← agriyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vācáḥ ← vā́c- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+citrā́bhiḥ ← citrá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sóma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+kā́vyā ← kā́vya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -98,7 +126,7 @@ Both Geldner and Renou supply an intermediate infinitive to govern víśvāni k�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/25-27.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 This tṛca shows more signs of unity than others in this hymn, esp. in the 1st two vss. Both 25 and 26 contain pāda-initial pávasva (25a, 26c) and the variant phrases vācó agriyáḥ (25a) / agriyó vā́caḥ (26b), as well as forms of víśva- (25c víśvāni, 26c viśvam(ejaya)). In 27a Soma is addressed by the voc. kave, while 25c contains the phrase víśvāni kā́vyā.
@@ -127,3 +155,4 @@ Mit reichen Hülfen riesle du, des Liedes Führer, Soma, uns Die Dichtergaben al
 
 -ru-
 </details>
+

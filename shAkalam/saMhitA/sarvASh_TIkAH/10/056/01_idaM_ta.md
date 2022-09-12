@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+parás ← parás (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+tr̥tī́yena ← tr̥tī́ya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+viśasva ← √viś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+cā́ruḥ ← cā́ru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+edhi ← √as- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+saṁvéśane ← saṁvéśana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+janítre ← janítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Hier ist der eine Glanz und dort ein zweiter und mit dem dritten sollst du dich 
 При соединении с телом будь прекрасным.  
 Приятным богам на высшей родине!
 </details>
+

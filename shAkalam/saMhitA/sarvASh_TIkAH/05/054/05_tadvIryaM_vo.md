@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahitvanám ← mahitvaná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+vīryàm ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dīrghám ← dīrghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tatāna ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yójanam ← yójana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ágr̥bhītaśociṣaḥ ← ágr̥bhītaśocis- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+étāḥ ← éta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+yā́me ← yā́ma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ánaśvadām ← ánaśvadā- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áyātana ← √yā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+girím ← girí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,3 +252,4 @@ Es dehnte weit sich eure Gröss' und Heldenkraft, der Sonne gleich, o Maruts, au
 Когда вы с необьятгым блеском, словно антилопы в пути,  
 Переехали гору, не отдающую коней.
 </details>
+

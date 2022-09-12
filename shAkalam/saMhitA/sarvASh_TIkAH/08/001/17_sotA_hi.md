@@ -16,14 +16,69 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sóta ← √su- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+dhāvata ← √dhāv- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+gavyā́ ← gavyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vāsáyantaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vástrā ← vástra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dhukṣan ← √duh- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+vakṣáṇābhyaḥ ← vakṣáṇā- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +194,7 @@ On vakṣáṇā- ‘belly’ as a pl. tantum, see comm. ad X.27.16.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/001/14-17.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/001/14-17.md">
 <details open><summary><h2>14-17 ...{Loading}...</h2></summary>
 
 Note the concentration of nominal forms of the root √stu ‘praise’ in these verses: stómam 14d, 15a, sadhástutim 16a, úpastutiḥ 16c, suṣṭutím 16d. The appearance of sómam in 17a signals a sort of ring-composition by variant, echoing the two forms of stómam in successive pādas of 14 and 15.
@@ -171,3 +226,4 @@ So presst mit Steinen Soma denn, und spület ihn mit Wasser durch, Und Männer i
 Мужи, будто рядя его в молочные одежды,  
 Пусть выдаивают (его) из нутра!
 </details>
+

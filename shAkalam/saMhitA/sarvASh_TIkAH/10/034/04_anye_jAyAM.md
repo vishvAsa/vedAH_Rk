@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+anyé ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+jāyā́m ← jāyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mr̥śanti ← √mr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+ágr̥dhat ← √gr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+akṣáḥ ← akṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+védane ← védana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bhrā́taraḥ ← bhrā́tar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+baddhám ← √bandh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+jānīmaḥ ← √jñā- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+náyata ← √nī- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +239,4 @@ Von andern wird umarmt des Spielers Gattin, nach dessen Gut der rasche Würfel t
 Отец, мать, братья говорят о нем:  
 Мы не знаем (его!) Уведите его связанным!
 </details>
+

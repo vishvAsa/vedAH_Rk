@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+ábhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+anudéyī ← anudéya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ajāyata ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+tátas ← tátas (invariable)  
+{}
+
+ā́tataḥ ← √tan- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+budhnáḥ ← budhná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purástāt ← purástāt (invariable)  
+{}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+niráyaṇam ← niráyaṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+paścā́t ← paścā́t (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +177,4 @@ Wie seine Amme war? Von da kam der Anfang her. Vorerst wird der Grund gelegt, hi
 Сперва было растянуто дно,  
 Потом сделано отверстие.
 </details>
+

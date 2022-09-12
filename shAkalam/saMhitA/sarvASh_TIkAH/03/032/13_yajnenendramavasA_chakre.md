@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+cakre ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñéna ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+návyase ← návyas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sumnā́ya ← sumná- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vavr̥tyām ← √vr̥t- (root)  
+{number:SG, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+pūrvyébhiḥ ← pūrvyá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+stómebhiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vāvr̥dhé ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+madhyamébhiḥ ← madhyamá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nū́tanebhiḥ ← nū́tana- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Durch Lied und Opfer schafft' ich her den Indra, zu neuer Gunst will ich ihn her
 (Того,) кто усилился древними восхвалениями,  
 Кто средними, а также нынешними.
 </details>
+

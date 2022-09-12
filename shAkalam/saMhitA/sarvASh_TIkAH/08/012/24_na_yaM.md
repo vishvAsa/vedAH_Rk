@@ -15,14 +15,54 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+ná ← ná (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+viviktáḥ ← √vyac- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+antárikṣāṇi ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vajríṇam ← vajrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ámāt ← áma- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+titviṣe ← √tvíṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ójasaḥ ← ójas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +174,4 @@ Den Erd' und Himmel nicht umfasst, die Lüfte nicht, den Blitzenden, Vor seinem 
 Ни воздушные просторы – громовержца,  
 Только перед его неистовством сотрясался всегда (мир) - вместе, перед силой.
 </details>
+

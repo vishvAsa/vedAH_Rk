@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+óṣadhīṣu ← óṣadhī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sr̥jyáte ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+iṣáyan ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sumné ← sumná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+úpāvasuḥ ← úpāvasu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vidyútā ← vidyút- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+daívyam ← daívya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jánam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mādáyan ← √mad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Der mit der Milch sich von den Pflanzen her ergiesst, hinstrebend nach der Gött
 (Тот) очищается молнией, выжатым потоком,  
 Сома, опьяняющий Индру (и весь) божественный род.
 </details>
+

@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+mr̥tyúbandhavaḥ ← mr̥tyúbandhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ā́dityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mánavaḥ ← mánu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+smási ← √as- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+tiretana ← √tr̥̄- 1 (root)  
+{number:PL, person:2, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +172,4 @@ Aditja's, die als Menschen wir dem Tode unterworfen sind, Verlängert unser Alte
 Связаны со смертью,  
 Продлите (нам) хорошенько срок нашей жизни!
 </details>
+

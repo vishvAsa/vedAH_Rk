@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+támasaḥ ← támas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+vijānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥ṇīta ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+abhī́ke ← abhī́ka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+āré ← āré (invariable)  
+{}
+
+duritā́t ← duritá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+imā́ḥ ← ayám (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+somapāḥ ← somapā́- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+somavr̥ddha ← sómavr̥ddha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+juṣásva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+kāróḥ ← kārú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+purutámasya ← purutáma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ Aus Dunkel schuf er Licht, es sicher scheidend, wir mögen fern von allem Unglü
 Наслаждайся этими песнями поэта, первого из многих,  
 О пьющий сому, растущий от сомы Индра!
 </details>
+

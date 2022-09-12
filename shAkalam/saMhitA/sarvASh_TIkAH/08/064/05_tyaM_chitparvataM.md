@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+cit ← cit (invariable)  
+{}
+
+girím ← girí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+párvatam ← párvata- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+sahasríṇam ← sahasrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatávantam ← śatávant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rurojitha ← √ruj- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +147,4 @@ Selbst jenen Berg, der hundertfach und tausendfach sich mächtig dehnt, Erbräch
 (Таящую в себе) сотню, тысячу (коров),  
 Ты пробил для певцов.
 </details>
+

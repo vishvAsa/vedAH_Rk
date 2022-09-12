@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+chandastúbhaḥ ← chandastúbh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kubhanyávaḥ ← kubhanyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+kīríṇaḥ ← kīrín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nr̥tuḥ ← √nr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+útsam ← útsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tāyávaḥ ← tāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+āsan ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dr̥śí ← dŕ̥ś- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+tviṣé ← tvíṣ- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ū́māḥ ← ū́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Lied singend, hüpfend tanzten sie her zu dem Born die jubelnden; Wie Räuberban
 Эти помощники, словно какие-нибудь воры,  
 Возникали предо мной, чтобы поразить.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; 12 = 5+7, ending LHX  
 genre M;; repeated line  
 genre M
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+véda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vidáthāni ← vidátha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+jánma ← jánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sanutár ← sanutár (invariable)  
+{}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+márteṣu ← márta- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+páśyan ← √paś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+r̥jú ← r̥jú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vr̥jinā́ ← vr̥jiná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+caṣṭe ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+évān ← éva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +243,4 @@ Der Sonnengott, der die drei Götterscharen und ihren Ursprung kennet fern und n
 Глядя на прямое и кривое у смертных,  
 Это Солнце замечает действия чужого.
 </details>
+

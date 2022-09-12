@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+aítam ← √i- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+yamé ← yamá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yátamāne ← √yat- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+bharan ← √bhr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+devayántaḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+mā́nuṣāḥ ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+sīdatam ← √sad- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+svám ← svá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ulokám ← uloká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vídāne ← √vid- 2 (root)  
+{case:NOM, gender:F, number:DU, tense:PRF, voice:MED}
+
+bhavatam ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índave ← índu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+svāsasthé ← svāsasthá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Als ihr herbeikamt wie zwei zusammengehende Schwestern, brachten euch die fromme
 Усаживайтесь на свое место и занимайте (его)!  
 Устройте хорошее место для нашего сока!
 </details>
+

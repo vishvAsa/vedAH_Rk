@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+adhvarīyatā́m ← √adhvarīy- (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+véṣi ← √vī- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+upavaktā́ ← upavaktár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mā́nuṣāṇām ← mā́nuṣa- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +140,4 @@ Denn du als der Ermunterer der Männer, die das Fest begehn, Verzehrst der Mensc
 Среди людей, занятых на жертвоприношении,  
 И (отвозишь) жертвенные возлияния людей.
 </details>
+

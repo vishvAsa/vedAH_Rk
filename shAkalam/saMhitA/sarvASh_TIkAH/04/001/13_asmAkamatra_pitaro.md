@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+átra ← átra (invariable)  
+{}
+
+manuṣyā̀ḥ ← manuṣyà- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+āśuṣāṇā́ḥ ← √śvasⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+seduḥ ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+áśmavrajāḥ ← áśmavraja- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sudúghāḥ ← sudúgha- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vavré ← vavrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ājan ← √aj- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+huvānā́ḥ ← √hū- (root)  
+{case:NOM, gender:F, number:PL, tense:AOR, voice:MED}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+usrā́ḥ ← usrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +209,7 @@ This would of course make just as much sense; my choice is based on the usage of
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details open><summary><h2>10-18 ...{Loading}...</h2></summary>
 
 Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
@@ -191,3 +246,4 @@ Dort sassen unsre Väter, hold den Menschen, ihm zugewandt, den heiligen entflam
 Призывая утренние зори, они выгнали коров,  
 Имевших загон в скале, хорошо доящихся в пещере.
 </details>
+

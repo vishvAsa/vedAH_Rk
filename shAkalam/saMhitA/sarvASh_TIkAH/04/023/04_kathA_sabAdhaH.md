@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+sabā́dhaḥ ← sabā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śaśamānáḥ ← √śamⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+abhí ← abhí (invariable)  
+{}
+
+dī́dhyānaḥ ← √dhī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+náśat ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+bhuvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+návedāḥ ← návedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tā́nām ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+jagr̥bhvā́n ← √gr̥bhⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+jújoṣat ← √juṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Wie doch erlangt, wer eifervoll ihm dienet, mit Andacht aufmerkt, seine Gütersp
 Да уважит бог мои праведные (слова),  
 Принимая (поклонение), в котором он находит удовольствие!
 </details>
+

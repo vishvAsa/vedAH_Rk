@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D
+#### Morph
+ikṣvākúḥ ← ikṣvākú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vraté ← vratá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+édhate ← √idh- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+marāyī́ ← marāyín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+revā́n ← revánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kr̥ṣṭáyaḥ ← kr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+páñca ← páñca- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +154,4 @@ In dessen Dienst Ikschvaku auch, der reiche, strahlende gedeiht, Den Sternen gle
 Процветает, богатый владелец обмолоченного зерна,  
 (И) пять народов, как на небе (солнце).
 </details>
+

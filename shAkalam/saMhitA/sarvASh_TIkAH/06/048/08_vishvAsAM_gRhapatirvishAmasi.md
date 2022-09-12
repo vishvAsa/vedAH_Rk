@@ -17,15 +17,73 @@ ChandaH = "महासतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+gr̥hápatiḥ ← gr̥hápati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+víśvāsām ← víśva- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́nuṣīṇām ← mā́nuṣa- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pūrbhíḥ ← púr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yaviṣṭha ← yáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hímāḥ ← hímā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sameddhā́ram ← sameddhár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dádati ← √dā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Der Hausgebieter aller Stämme bist du ja, o Agni, du der menschlichen; Mit hund
 Сотню зим – зажигающего (тебя)  
 И (тех,) кто дарит восхвалителям!
 </details>
+

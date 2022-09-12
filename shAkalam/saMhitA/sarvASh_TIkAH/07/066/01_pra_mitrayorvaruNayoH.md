@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+mitráyoḥ ← mitrá- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+váruṇayoḥ ← váruṇa- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+stómaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śūṣyàḥ ← śūṣyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+námasvān ← námasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tuvijātáyoḥ ← tuvijātá- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +149,4 @@ Es dringe unser kräft'ges Lob zu Varuna und Mitra vor, Voll Ehrfurcht zu den m�
 Наше вдохновляющее восхваление,  
 Сопровождаемое поклонением, (к ним), мощнорожденным!
 </details>
+

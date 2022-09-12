@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agrayā́vā ← agrayā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+yātu ← √yā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nárāśáṁsaḥ ← nárāśáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvárūpebhiḥ ← viśvárūpa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+miyédhaḥ ← miyédha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+devátamaḥ ← devátama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+suṣūdat ← √sūd- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +198,4 @@ Er komme her nun an der Götter Spitze, der Männerpreis mit allgestalt'gen Ross
 Пусть на пути закона лучший из богов  
 Сделает жертвенное блюдо вкусным для богов благодаря поклонению!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+iṣṭáye ← iṣṭí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+suyújaḥ ← suyúj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+amúṣmai ← asaú (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+nī́cīḥ ← nyàñc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+r̥tāvŕ̥dhaḥ ← r̥tāvŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yamyàḥ ← yamī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+abhī́śubhiḥ ← abhī́śu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sarvaśāsaíḥ ← sarvaśāsá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+suyántubhiḥ ← suyántu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kríviḥ ← krívi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+muṣāyati ← √muṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nā́māni ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pravaṇé ← pravaṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +229,4 @@ Diese schöngeschirrten [Presssteine] sind bestrebt zu senden auf ihrem Gange je
 Благодаря вожжам (жрецов), хорошо держащим, всеми управляющим,  
 Рыжий (бог) при падении (на этих сестер) отнимает (их) имена.
 </details>
+

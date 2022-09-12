@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śáśvat ← śáśvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vadhryaśvásya ← vadhryaśvá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jigāya ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sutásomavadbhiḥ ← sutásomavant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+adahaḥ ← √dah- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+citrabhāno ← citrábhānu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sámanam ← sámana- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+abhinat ← √bhid- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+vrā́dhantam ← √vrādh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥dháḥ ← vr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +197,4 @@ Besiegt hat Agni stets des Vadhriaçva Bekämpfer durch der Somapresser Freunde,
 
 -ru-
 </details>
+

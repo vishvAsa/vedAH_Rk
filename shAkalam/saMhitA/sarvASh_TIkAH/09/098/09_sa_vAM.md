@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mānavī ← mānavá- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yajñéṣu ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janiṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devī ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+giriṣṭhā́ḥ ← giriṣṭhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásredhan ← ásredhant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tuviṣváṇi ← tuviṣván- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +182,4 @@ Bei euren Opfern ist erzeugt, o holde Welten, Göttinnen, Indu der Berg-entspros
 Бог, о две богини, пребывающий на горе.  
 Не ошибаясь, (жрец славит) его под мощный шум.
 </details>
+

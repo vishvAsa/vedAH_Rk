@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+kr̥ṣṇā́ ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+patsutás ← patsutás (invariable)  
+{}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jātávedasaḥ ← jātávedas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prayā́ṇe ← prayā́ṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣámi ← kṣám- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ródhati ← √rudh- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +145,4 @@ Zu Füssen liegt der dunkle Raum, wenn Agni aus dem Boden spriesst, Der Wesenken
 При продвижении Джатаведаса,  
 Когда Агни вырастает на земле.
 </details>
+

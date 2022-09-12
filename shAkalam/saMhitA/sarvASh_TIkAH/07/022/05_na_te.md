@@ -15,13 +15,59 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ápi ← ápi (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mr̥ṣye ← √mr̥ṣ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+turásya ← turá- 1 (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asuryàsya ← asuryà- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sádā ← sádā (invariable)  
+{}
+
+svayaśaḥ ← sváyaśas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vivakmi ← √vañc- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +197,4 @@ Mit Wissen nie versäum' ich deine Lieder, das schöne Lob des starken Himmelsge
 Ни прекрасной хвалы для (тебя,) асурского, я знаток.  
 Всегда провозглашаю я твое имя, о обладающий собственным блеском!
 </details>
+

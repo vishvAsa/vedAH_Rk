@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+kā́ ← ká- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nidā́nam ← nidā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pramā́ ← pramā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pratimā́ ← pratimā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́jyam ← ā́jya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+paridhíḥ ← paridhí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+chándaḥ ← chándas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+prá:ugam ← prá:uga- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ukthám ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áyajanta ← √yaj- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +249,4 @@ Welches war das Urbild? das Abbild? welches die Verbindung? welches war das Opfe
 Что было поэтическим размером, речью жрецов, что гимном,  
 Когда Все-Боги принесли в жертву бога?
 </details>
+

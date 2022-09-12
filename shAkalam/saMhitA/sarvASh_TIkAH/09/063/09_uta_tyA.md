@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+harítaḥ ← harít- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tyā́ḥ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+ayukta ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+sū́raḥ ← svàr- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yā́tave ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
+bruván ← √brū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+íti ← íti (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +153,7 @@ The third pāda (índur índra íti bruván) presents another set of problems: h
 quite appealing and have adopted it.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 On this tṛca see published introduction. In these vss. Soma is compared to the sun, and his ritual journey compared to the Sun’s daily journey across the sky. At the same time the purification of the soma is linked with Manu, the first sacrificer (vss. 7-8), and so the cosmic and the ritual are connected.
@@ -148,3 +182,4 @@ Die zehn Goldrosse hat sich schon der Sonnengott zur Fahrt geschirrt, Der Indu, 
 
 -ru-
 </details>
+

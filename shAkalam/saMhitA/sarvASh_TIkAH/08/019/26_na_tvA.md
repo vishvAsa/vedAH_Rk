@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhíśastaye ← abhíśasti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rāsīya ← √rā- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pāpatvā́ya ← pāpatvá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+santya ← santya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+amatīvā́ ← amatīván- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dúrhitaḥ ← dúrhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+stotā́ ← stotár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pāpáyā ← pāpá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+syā́t ← √as- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ So gäb' ich dich, o guter, nicht dem Unheil Preis, noch, trefflicher, der Dürf
 Мой восхвалитель не был бы ни заброшенным,  
 Ни плохо содержимым, о Агни, ни с плохой (судьбой)!
 </details>
+

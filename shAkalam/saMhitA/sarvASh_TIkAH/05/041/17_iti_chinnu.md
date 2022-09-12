@@ -17,15 +17,88 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+íti ← íti (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+paśumátyai ← paśumánt- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+prajā́yai ← prajā́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+dévāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vánate ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vanate ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+asyā́ḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+dhāsím ← dhāsí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śivā́m ← śivá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+jagrasīta ← √gras- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:MED}
+
+jarā́m ← jarā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+nírr̥tiḥ ← nírr̥ti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,3 +270,4 @@ So auch um reichen Nachwuchs unsrer Heerde ruft euch nun an der Sterbliche, o G�
 Сок этого тела (сделайте) здесь благоприятным!  
 Пусть Небытие проглотит только мою старость!
 </details>
+

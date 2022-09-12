@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aparā́ya ← aparā́ya (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nūnám ← nūnám (invariable)  
+{}
+
+syāḥ ← √as- 1 (root)  
+{number:SG, person:2, mood:OPT, tense:PRS, voice:ACT}
+
+abhíṣṭau ← abhíṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mr̥ḷīkáḥ ← mr̥ḷīká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+gr̥ṇántaḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+mahínasya ← mahína- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śárman ← śárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+goṣátamāḥ ← goṣátama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pā́rye ← pā́rya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +232,4 @@ Sei unser, Indra, jetzt und für die Zukunft, sei huldreich du und uns mit Hülf
 Так воспевая, под защитой могучего  
 В решающий день мы хотели бы больше всего захватить коров!
 </details>
+

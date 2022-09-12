@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jíghnate ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+samithéṣu ← samithá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rakṣate ← √rakṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sádā ← sádā (invariable)  
+{}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+hávāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+indrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yachatam ← √yam- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Der eine von euch erschlägt in den Kämpfen die Feinde, der andere wacht bestä
 Мы призываем вас гимнами, о два быка.  
 Нам, о Индра-Варуна, даруйте защиту!
 </details>
+

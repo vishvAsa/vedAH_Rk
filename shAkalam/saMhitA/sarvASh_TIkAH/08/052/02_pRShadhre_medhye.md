@@ -16,14 +16,51 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+mātaríśvani ← mātaríśvan- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+médhye ← médhya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pŕ̥ṣadhre ← pŕ̥ṣadhra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ámandathāḥ ← √mand- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:MED}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suvāné ← √su- (root)  
+{case:LOC, gender:M, number:SG, tense:AOR, voice:MED}
+
+dáśaśipre ← dáśaśipra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dáśoṇye ← dáśoṇya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ŕ̥jūnasi ← ŕ̥jūnas- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+syū́maraśmau ← syū́maraśmi- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +158,4 @@ Wie du bei Prischadhra, Medhja, Mātariçvan, o Indra, dich am gepressten Tranke
 Как (пил ты) сому у Дашашипры, Дашоньи,  
 Сьюмарашми, Риджунаса…
 </details>
+

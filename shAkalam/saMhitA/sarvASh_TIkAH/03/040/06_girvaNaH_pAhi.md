@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+gírvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhí ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sutám ← √su- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+ajyase ← √añj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+dhā́rābhiḥ ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+mádhoḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+tvā́dātam ← tvā́dāta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yáśaḥ ← yáśas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +151,4 @@ Den Liedern hold geniess den Trank, du wirst mit süssem Strom gesalbt; Von dir 
 Тебя мажут потоками меда.  
 О Индра, только данное тобою – честь!
 </details>
+

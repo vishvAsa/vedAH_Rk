@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dúḥ ← √dā- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ī́vat ← ī́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vásubhyaḥ ← vásu- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+mitré ← mitrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sūktávācaḥ ← sūktávāc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váruṇe ← váruṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ábhvam ← ábhva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+kr̥ṇutá ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+várīyaḥ ← várīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+diváspr̥thivyóḥ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+madema ← √mad- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ Die solche Huldigung den Vasu's weihten, dem Varuna und Mitra Sprüche sprechend
 Да уйдет (от них) ужас! Создайте широкий выход (для нас)!  
 Да возрадуемся мы от помощи Неба и Земли!
 </details>
+

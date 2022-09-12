@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+avatám ← avatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+íṣkr̥tāhāvam ← íṣkr̥tāhāva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suṣecanám ← suṣecaná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvaratrám ← suvaratrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ákṣitam ← ákṣita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+siñce ← √sic- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+udríṇam ← udrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +135,4 @@ Den Brunnen mit fertig gemachtem Eimer und schönem Riemen, den reichlich ström
 С хорошим ремнем, из легко отдающего воду,  
 Полного воды, неиссякающего.
 </details>
+

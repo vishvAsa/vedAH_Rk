@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dā́śema ← √dāś- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+svā́hā ← svā́hā (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ghr̥távadbhiḥ ← ghr̥távant- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+havyaíḥ ← havyá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+íḷābhiḥ ← íḷā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ámitaiḥ ← ámita- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+máhobhiḥ ← máhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tébhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+ā́yasībhiḥ ← āyasá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pūrbhíḥ ← púr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +224,4 @@ Wie gern mit Heilruf wir dem Agni dienen, mit Tränken rings und butterreichen O
 О Агни, этими неизмеримыми силами,  
 Сотней железных крепостей защити нас!
 </details>
+

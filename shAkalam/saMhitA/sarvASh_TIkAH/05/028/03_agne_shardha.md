@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahaté ← mahā́nt- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+śárdha ← √śardh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+saúbhagāya ← saúbhaga- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dyumnā́ni ← dyumná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+uttamā́ni ← uttamá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jāspatyám ← jāspatyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇuṣva ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+suyámam ← suyáma- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+máhāṁsi ← máhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śatrūyatā́m ← √śatrūy- (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+tiṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Erweise kühn zu hohem Glück dich, Agni; es seien dein die höchsten Herrlichke
 Создай (этому человеку) положение главы семьи, которой легко управляешь!  
 Превзойди силы тех, кто враждует (с нами)!
 </details>
+

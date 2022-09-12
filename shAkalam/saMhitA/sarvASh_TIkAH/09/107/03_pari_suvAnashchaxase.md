@@ -14,12 +14,34 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+cákṣase ← cákṣas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+devamā́danaḥ ← devamā́dana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+suvānáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+krátuḥ ← krátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -90,7 +112,7 @@ Both Geldner and Renou make this vs. a separate cl., supplying a verb (“fliess
 Note cákṣase … vicakṣaṇáh.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The first metrical unit in the hymn has a third vs. appended to the pragātha with a 2-pāda configuration of 12 8, identified by the Anukr. as Dvipadā Virāj Bhurij. Arnold (248, E72) analyses vss. 2-3 as simply an extended Satobṛhatī (12 8 / 12 8 / 12 8). See Oldenberg (Proleg. 104-5) on the types of extensions of pragāthas, incl. this one. Since vs. 3 simply hangs off vs. 2 and need not be syntactically independent, the “extension” suggestion is quite plausible.
@@ -121,3 +143,4 @@ Rings gepresst [lieblich (?)] anzusehn der Götter erfreuende starke Indu, der w
 Выжатый, (он течет) кругом, чтоб заявить о себе, (этот) пьянящий напиток богов,  
 Сила духа, сок, смотрящий далеко.
 </details>
+

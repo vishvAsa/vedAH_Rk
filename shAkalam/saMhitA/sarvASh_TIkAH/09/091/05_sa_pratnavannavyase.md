@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+návyase ← návyas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+pratnavát ← pratnavát (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+viśvavāra ← viśvávāra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥ṇuhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+prā́caḥ ← prā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sūktā́ya ← sūktá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+br̥hántaḥ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+duḥṣáhāsaḥ ← duḥṣáhas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vanúṣā ← vanús- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+aśyāma ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+purukr̥t ← purukŕ̥t- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+purukṣo ← purukṣú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +232,4 @@ So bahne du nach alter Art dem neuen Gesang die Wege vor uns, güterreicher! Die
 Те великие непереносимые для завистника (успехи) –  
 Мы хотели бы их у тебя достигнуть, о многодействующий, у кого много скота!
 </details>
+

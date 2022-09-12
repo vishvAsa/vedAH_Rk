@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kṣétrasya ← kṣétra- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pátinā ← páti- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+hiténa ← √hi- (root)  
+{case:INS, gender:M, number:SG, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+jayāmasi ← √ji- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+poṣayitnú ← poṣayitnú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+īdŕ̥śe ← īdŕ̥ś- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mr̥ḷāti ← √mr̥ḍ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +212,4 @@ Wir mögen durch den Feldesherrn, wie durch einen lieben Freund, Rind und Ross, 
 Кормящее скотину (и) коней.  
 Да смилуется он над таким, как мы!
 </details>
+

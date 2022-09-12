@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+gómataḥ ← gómant- (nominal stem)  
+{case:ACC, number:PL}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+aśvínaḥ ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+híraṇyavataḥ ← híraṇyavant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+íḷābhiḥ ← íḷā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+rabhemahi ← √rabh- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +145,4 @@ O mache uns an Rossen reich, an Rindern und an Goldbesitz, Uns werde Labetrunk z
 Коров,золота, коней!  
 Пусть нам достанутся освежающие струи!
 </details>
+

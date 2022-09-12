@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pipyuḥ ← √pī- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+staryàḥ ← starī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jaritā́raḥ ← jaritár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nákṣan ← √nakṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+niyútaḥ ← niyút- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vāyúḥ ← vāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yāhí ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dáyase ← √dā- 3 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +255,4 @@ Der Trank ward fett wie unbelegte Kühe, ihr Werk lass, Indra, deine Sänger üb
 Приезжай к нам, словно Ваю (направляя свои) упряжки -  
 Ведь за произведения ты раздаешь награды!
 </details>
+

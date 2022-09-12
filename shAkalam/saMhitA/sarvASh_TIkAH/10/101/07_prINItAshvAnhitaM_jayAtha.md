@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hitám ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+jayātha ← √ji- 1 (root)  
+{number:PL, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+prīṇītá ← √prī- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+kr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svastivā́ham ← svastiváh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áśmacakram ← áśmacakra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avatám ← avatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dróṇāhāvam ← dróṇāhāva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áṁsatrakośam ← áṁsatrakośa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nr̥pā́ṇam ← nr̥pā́ṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+siñcata ← √sic- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +203,4 @@ Erfrischt die Rosse und gewinnt den Kampfpreis, und euren Wagen lasst zum Heile 
 Черпайте из колодца с ведром-кадкой (для сомы),  
 С колесом-(давильным) камнем, с сосудом-панцирем, (колодца), из которых пьют мужи.
 </details>
+

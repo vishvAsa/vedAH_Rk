@@ -16,14 +16,51 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dáśakakṣyebhyaḥ ← dáśakakṣya- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+dáśāvanibhyaḥ ← dáśāvani- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+dáśayojanebhyaḥ ← dáśayojana- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+dáśayoktrebhyaḥ ← dáśayoktra- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ajárebhyaḥ ← ajára- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+arcata ← √r̥c- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dáśābhīśubhyaḥ ← dáśābhīśu- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+dáśa ← dáśa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dáśa ← dáśa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dhúraḥ ← dhúr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+váhadbhyaḥ ← √vah- (root)  
+{case:DAT, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yuktā́ḥ ← √yuj- (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +188,4 @@ Singt denen, die der Bahnen und der Gurte zehn, die zehn der Stränge haben, zeh
 
 -ru-
 </details>
+

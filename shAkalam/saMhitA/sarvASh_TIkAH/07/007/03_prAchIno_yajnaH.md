@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+prācī́naḥ ← prācī́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+súdhitam ← súdhita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īḷitáḥ ← √īḍ- ~ √īḷ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+prīṇīté ← √prī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+huvānáḥ ← √hū- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+mātárā ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+viśvávāre ← viśvávāra- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+jajñiṣé ← √janⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+suśévaḥ ← suśéva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yátas ← yátas (invariable)  
+{}
+
+yaviṣṭha ← yáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Vor strebt das Opfer, schön ist Streu gebreitet, erfreut ist Agni, ein erflehte
 Призывая двоих родителей, наделяющих всем желанным,  
 От которых ты родился как любимец, о самый юный.
 </details>
+

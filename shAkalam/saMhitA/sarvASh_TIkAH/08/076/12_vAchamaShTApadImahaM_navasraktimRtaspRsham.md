@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+aṣṭā́padīm ← aṣṭā́pad- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+návasraktim ← návasrakti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥taspŕ̥śam ← r̥taspŕ̥ś- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+índrāt ← índra- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mame ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +154,4 @@ Achtsilbiges, neunzeiliges, herzrührendes, erhabnes Lied Hab' ich dem Indra zug
 
 -ru-
 </details>
+

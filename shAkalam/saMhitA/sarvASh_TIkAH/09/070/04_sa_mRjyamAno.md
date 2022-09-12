@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+daśábhiḥ ← dáśa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mr̥jyámānaḥ ← √mr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sukármabhiḥ ← sukárman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+madhyamā́su ← madhyamá- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+mātŕ̥ṣu ← mātár- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+pramé ← √mā- 1 (root)  
+{case:DAT, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+cā́ruṇaḥ ← cā́ru- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pānáḥ ← pāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+nr̥cákṣāḥ ← nr̥cákṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paśyate ← √paś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+víśau ← víś- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +231,4 @@ Wenn er geklärt wird von den zehn geschäftigen, ist er zu bilden in der mittle
 Охраняя заветы милого (мира) бессмертия,  
 (Он) со взглядом героя озирает оба племени.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular;; repeated line  
 popular  
 popular
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dakṣiṇatáḥ ← dakṣiṇatáḥ (invariable)  
+{}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jaṅghanāva ← √han- (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dharúṇam ← dharúṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+juhómi ← √hu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+pibāva ← √pā- 2 (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ubhaú ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+upāṁśú ← upāṁśú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +211,4 @@ Komm her zu mir und steh zu meiner Rechten, dann werden viele Feinde wir erschla
 
 -ru-
 </details>
+

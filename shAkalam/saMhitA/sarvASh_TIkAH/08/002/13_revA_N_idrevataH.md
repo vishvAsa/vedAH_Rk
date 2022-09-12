@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ít ← ít (invariable)  
+{}
+
+revā́n ← revánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+revátaḥ ← revánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+stotā́ ← stotár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghónaḥ ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+syā́t ← √as- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+tvā́vataḥ ← tvā́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+śrutásya ← √śru- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +171,4 @@ Reich soll sein des reichen Sänger, eines mächtigen wie du bist, Hochberühmte
 У богатого и щедрого, как ты.  
 Впереди (всех он дол жен быть) у знаменитого, о хозяин буланых коней.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+balavijñāyáḥ ← balavijñāyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+právīraḥ ← právīra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stháviraḥ ← sthávira- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáhamānaḥ ← √sah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sáhasvān ← sáhasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhísatvā ← abhísatvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhívīraḥ ← abhívīra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahojā́ḥ ← sahojā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+govít ← govíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jaítram ← jaítra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tiṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Durch Stärke kenntlich, fest, der Helden kühnster, siegreich, gewaltig, stark 
 
 -ru-
 </details>
+

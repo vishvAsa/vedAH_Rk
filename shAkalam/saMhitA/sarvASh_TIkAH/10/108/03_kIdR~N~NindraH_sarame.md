@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dr̥śīkā́ ← dr̥śīkā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kā́ ← ká- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+kīdŕ̥ṅ ← kīdŕ̥ś- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sarame ← sarámā- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ásaraḥ ← √sr̥- 1 (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+dūtī́ḥ ← dūtī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+parākā́t ← parāká- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dadhāma ← √dhā- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+ena ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+gáchāt ← √gam- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+mitrám ← mitrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+bhavāti ← √bhū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+gópatiḥ ← gópati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +236,4 @@ Was für einer ist Indra, o Sarama, welches ist sein Aussehen, als dessen Botin 
 И станет он повелителем наших коров.  
 Сарама:
 </details>
+

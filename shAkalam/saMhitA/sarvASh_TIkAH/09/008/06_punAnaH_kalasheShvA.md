@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+kaláśeṣu ← kaláśa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+aruṣáḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vástrāṇi ← vástra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+avyata ← √vyā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+gávyāni ← gávya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pári ← pári (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +139,4 @@ Gereinigt in den Schalen hat der rothe, goldne sich gehüllt In Kleidung, die de
 Рыжий, золотистый (бог)  
 Окутался коровьими одеждами.
 </details>
+

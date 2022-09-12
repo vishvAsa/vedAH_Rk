@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+cakaram ← √kr̥- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRF, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ápratītam ← ápratīta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+daívyam ← daívya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+varate ← √vr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+mamádan ← √mad- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+apāré ← apārá- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+bhayete ← √bhī- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+rájasī ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:N, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Das alles that ich, und der Götter Kraft selbst sie hemmet nimmer mich, den unb
 Оба безграничных пространства боятся (меня).  
 (Варуна:)
 </details>
+

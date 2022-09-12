@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hváyāmasi ← √hvā- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śrudhí ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sātaú ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vā́jasya ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vāvr̥ṣāṇā́ḥ ← √vr̥ṣ- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+áyanta ← √i- 2 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+śū́rasātau ← śū́rasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áhan ← áhar ~ áhan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pā́rye ← pā́rya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +212,7 @@ On vāvṛṣāṇā́ḥ, see comm. ad VIII.61.7 on úd vāvṛṣasva.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, the 1st two vss. play on the word vā́ja-, presumably as a reference to the Bharadvāja bardic line: 1b, 2b mahó vā́jasya, 2a vājī́ … vājineyáḥ.
@@ -183,3 +244,4 @@ Hör Indra uns, wir rufen Opfer strömend, dich an, um grosse Beute zu erlangen;
 Когда племена собрались для битвы,  
 В решающий день окажи нам грозную помощь!
 </details>
+

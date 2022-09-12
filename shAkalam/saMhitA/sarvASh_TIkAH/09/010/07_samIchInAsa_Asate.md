@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+āsate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+samīcīnā́saḥ ← samīcīná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hótāraḥ ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saptájāmayaḥ ← saptájāmi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ékasya ← éka- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+píprataḥ ← √pr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +145,4 @@ Die Priester sitzen im Verein, mit sieben Schwestern eng verknüpft, Den Ort des
 Хотары, сопровождаемые семью сестрами,  
 Охраняя шаг единственного.
 </details>
+

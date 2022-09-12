@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+bhavāti ← √bhū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+kṣéme ← kṣéma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+púṣyāt ← √puṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yóge ← yóga- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jayāti ← √ji- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+saṁyatī́ ← √i- 1 (root)  
+{case:ACC, gender:F, number:DU, tense:PRS, voice:ACT}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+vŕ̥tau ← vŕ̥t- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+agnā́ ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bhavāti ← √bhū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sū́rye ← sū́rya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dádāśat ← √dāś- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sutásomaḥ ← sutásoma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +242,4 @@ Im Frieden blüh' er und im Kriege sieg' er, und überwinde beide Kampfesscharen
 Пусть будет приятным Сурье, приятным Агни (тот.)  
 Кто выжав сому для Индры, почитает (его)!
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+paurám ← paurá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+udaprútam ← udaprút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jínvathaḥ ← √ji- 2 ~ jinv- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+paúrā = ← paurá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+paurā́ya ← paurá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gr̥bhītátātaye ← gr̥bhītátāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+druháḥ ← drúh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+siṁhám ← siṁhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +188,4 @@ Ihr Füller regt den Paura an den Füller, der im Wasser schwimmt, Wenn diesen i
 Когда его для захвата  
 (Загоняют,) словно льва на место обмана.
 </details>
+

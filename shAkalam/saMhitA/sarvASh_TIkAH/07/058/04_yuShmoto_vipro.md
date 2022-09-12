@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śatasvī́ ← śatasvín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuṣmótaḥ ← yuṣmóta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árvā ← árvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahasrī́ ← sahasrín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáhuriḥ ← sáhuri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuṣmótaḥ ← yuṣmóta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hanti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+samrā́ṭ ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuṣmótaḥ ← yuṣmóta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+deṣṇám ← deṣṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhūtayaḥ ← dhū́ti- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Durch euch empfängt der Sänger hundert Güter, durch euch das Ross im Wettlauf
 Поддержанный же вами вседержитель убивает врага.  
 Пусть этот дар ваш, о сотрясатели, превзойдет (все остальные)!
 </details>
+

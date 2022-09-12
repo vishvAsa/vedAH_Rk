@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+apatasthúṣaḥ ← √sthā- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+śikṣa ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
+úpa ← úpa (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhiyásam ← bhiyás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śátruṣu ← śátru- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+pávamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidā́ḥ ← √vid- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Die fern sich halten, zieh' heran, den Feinden flösse Schrecken ein, Verleihe R
 Вложи страх во врагов!  
 О Павамана, создай (нам) богатство!
 </details>
+

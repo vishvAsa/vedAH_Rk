@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+asrídhaḥ ← asrídh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rathirā́saḥ ← rathirá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+píprati ← √pr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́tasya ← vā́ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dásyum ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+nighóṣayaḥ ← √ghuṣ- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+parī́yase ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +195,4 @@ Die holden Rosse, welche deinen Wagen ziehn, sind schneller als des Windes. Wehn
 С помощью которых ты с грохотом разбил дасью перед лицом Мануса,  
 На которых ты догоняешь солнце.
 </details>
+

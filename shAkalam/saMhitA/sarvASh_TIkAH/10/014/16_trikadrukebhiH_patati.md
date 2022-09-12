@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+patati ← √pat- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tríkadrukebhiḥ ← tríkadruka- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+ṣáṭ ← ṣáṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+urvī́ḥ ← urú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+chándāṁsi ← chándas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+gāyatrī́ ← gāyatrī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+triṣṭúp ← triṣṭúbh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́hitā ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+sárvā ← sárva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+yamé ← yamá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +187,4 @@ In die Trikadruka-Gefässe fällt der Soma; sechs Welträume, ein Hohes [der Him
 Триштубх, гаятри, размеры  
 Все эти для Ямы сложены.
 </details>
+

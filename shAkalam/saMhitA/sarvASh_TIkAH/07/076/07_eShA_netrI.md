@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+netrī́ ← netrī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rā́dhasaḥ ← rā́dhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūnŕ̥tānām ← sūnŕ̥ta- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ribhyate ← √ribh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+uchántī ← √vas- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vásiṣṭhaiḥ ← vásiṣṭha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dádhānā ← √dhā- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+dīrghaśrútam ← dīrghaśrút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Die Führerin des Reichthums und der Lieder, die lichte Uschas preisen die Vasis
 Создавая нам богатство с далеко разносящейся славой.  
 Защищайте вы нас всегда своими милостями!
 </details>
+

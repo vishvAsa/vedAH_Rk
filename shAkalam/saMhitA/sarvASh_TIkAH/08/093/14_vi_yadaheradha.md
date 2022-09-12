@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+áheḥ ← áhi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tviṣáḥ ← tvíṣ- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ákramuḥ ← √kramⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+ámaḥ ← áma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥gásya ← mr̥gá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+vidát ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,7 +146,7 @@ The positioning ... yád ... ádha … is unusual, though Klein (II: 111) simply
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 The connection among the verses in this tṛca eludes me, though the fact that they are all set in an apparent mythic past and are joined by logical and/or temporal connectors (14a ádha, 15a ā́d u) suggests that they should form a thematic unit.
@@ -138,3 +175,4 @@ Als vor des Drachens Ungestüm die Götter alle flüchteten, Und sie des Thieres
 
 -ru-
 </details>
+

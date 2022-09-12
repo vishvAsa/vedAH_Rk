@@ -16,14 +16,66 @@ ChandaH = "पुरस्ताद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+gmántā ← √gam- (root)  
+{case:ACC, gender:M, number:DU, tense:AOR, voice:ACT}
+
+pr̥chate ← √praś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+uśánā ← uśánā- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gr̥hám ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kádarthā ← kádartha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jagmathuḥ ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+parākā́t ← parāká- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+gmáḥ ← kṣám- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+mártyam ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +204,4 @@ Da fragt man eifrig euch die beiden eilenden: Was heischend kommt ihr uns ins Ha
 Вы прибыли издалека:  
 С неба и с земли – к смертному.
 </details>
+

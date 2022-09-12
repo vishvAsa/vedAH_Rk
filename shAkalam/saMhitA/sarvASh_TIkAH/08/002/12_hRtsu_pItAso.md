@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+hr̥tsú ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+pītā́saḥ ← √pā- 2 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+yudhyante ← √yudh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+durmádāsaḥ ← durmáda- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+súrāyām ← súrā- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+jarante ← √gr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+nagnā́ḥ ← nagná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Die hineingetrunknen kämpfen, wie berauscht vom Suratranke, Nahn der Brust wie 
 Словно пьяницы в винном угаре.  
 Они воспевают вымя, как нагие (, просящие одежды).
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+áva ← áva (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dvéṣāṁsi ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jahí ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+sanvantu ← √sanⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{gender:N}
+
+aṁśávaḥ ← aṁśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+madirā́saḥ ← madirá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śī́ṣṭeṣu ← śī́ṣṭa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tr̥mpási ← √tr̥p- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +225,4 @@ Die Feinde alle schlage und verjage sie ihr Gut werd' allen uns zu Theil, Auch b
 И у шиштов есть для тебя опьяняющие стебли,  
 От которых ты насыщаешься сомой.
 </details>
+

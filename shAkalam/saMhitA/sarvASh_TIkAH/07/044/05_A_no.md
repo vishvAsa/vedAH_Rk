@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+anaktu ← √añj- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dadhikrā́ḥ ← dadhikrā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pathyā̀m ← pathyā̀- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ánvetavaí ← √i- 1 (root)  
+{case:DAT, number:SG}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+daívyam ← daívya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śr̥ṇótu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ámūrāḥ ← ámūra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mahiṣā́ḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śr̥ṇvántu ← √śru- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +208,4 @@ Es ebne Dadhikra uns unsre Strasse, dass wir entlang den Pfad des Rechtes wander
 Пусть услышит нас небесная толпа (и) Агни,  
 Пусть услышат Все(-Боги), буйволы, лишенные заблуждений!
 </details>
+

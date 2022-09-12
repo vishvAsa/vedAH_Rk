@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kārū́ ← kārú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+mā́nuṣeṣu ← mā́nuṣa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+víprā ← vípra- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yajñéṣu ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+jātávedasā ← jātávedas- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+mánye ← √man- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yájadhyai ← √yaj- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+háveṣu ← háva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+kr̥tam ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ūrdhvám ← ūrdhvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+vanathaḥ ← √vanⁱ- (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+vā́ryāṇi ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ Euch, Priester beide, Wesenkenner, Dichter, will ich verehren bei der Menschen O
 Сделайте наш обряд устремленным вверх при призывах (богов)!  
 Вы двое добываете у богов желанные блага.
 </details>
+

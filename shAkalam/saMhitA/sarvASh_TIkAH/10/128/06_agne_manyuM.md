@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+manyúm ← manyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+páreṣām ← pára- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pratinudán ← √nud- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ádabdhaḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+nigútaḥ ← nigút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pratyáñcaḥ ← pratyáñc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+púnar ← púnar (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yantu ← √i- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+amā́ ← amā́ (invariable)  
+{}
+
+cittám ← √cit- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+neśat ← √naś- 2 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+prabúdhām ← prabúdh- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +233,4 @@ Zurück die Wuth der Feinde stossend, Agni! sei du um uns ein Hüter, nie zu tä
 Пусть противники те снова уберутся обратно!  
 Пусть у них, когда они пробудятся, замысел исчезнет!
 </details>
+

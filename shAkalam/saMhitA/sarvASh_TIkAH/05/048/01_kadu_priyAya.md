@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhā́mne ← dhā́man- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+manāmahe ← √man- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+priyā́ya ← priyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+svákṣatrāya ← svákṣatra- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sváyaśase ← sváyaśas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhré ← abhrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+āmenyásya ← āmenyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+māyínī ← māyín- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vitanóti ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vr̥ṇānā́ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +235,4 @@ Was doch ersinnen wir der lieben Götterschar, der grossen, die aus eigner Macht
 Когда в туче меняющегося (?) воздушного пространства  
 Обладательница колдовской силы выбирает себе воды и протягивает их?
 </details>
+

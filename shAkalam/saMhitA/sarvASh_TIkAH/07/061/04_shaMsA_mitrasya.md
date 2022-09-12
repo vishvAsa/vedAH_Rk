@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śáṁsa ← √śaṁs- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+badbadhe ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+śúṣmaḥ ← śúṣma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+avī́rāḥ ← avī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áyajvanām ← áyajvan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+áyan ← √i- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+mā́sāḥ ← mā́sa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+tirāte ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+vr̥jánam ← vr̥jána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajñámanmā ← yajñámanman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +201,4 @@ Des Varuna und Mitra Herrschaft preis' ich, ihr hoher Muth bestürmet Erd' und H
 Пусть пройдут месяцы тех, кто не приносит жертв, без сыновей!  
 Пусть усилит (свое) окружение (тот,) чья мысль о жертвах!
 </details>
+

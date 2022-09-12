@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+dhárma ← dhárman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+samidhyámānaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+ajyate ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+aktúbhiḥ ← aktú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+viśvávāraḥ ← viśvávāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ghr̥tánirṇik ← ghr̥tánirṇij- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pāvakáḥ ← pāvaká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śocíṣkeśaḥ ← śocíṣkeśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+suyajñáḥ ← suyajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajáthāya ← yajátha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +212,4 @@ Entzündet nach althergebrachten Bräuchen wird er der reiche nun gesalbt mit Sa
 Пламенновласый, в одеянии из жира, очищающий,  
 Агни, прекрасно жертвующий, – для жертвы богам.
 </details>
+

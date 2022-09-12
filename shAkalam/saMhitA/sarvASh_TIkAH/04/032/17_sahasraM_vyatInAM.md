@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vyátīnām ← vyáti- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuktā́nām ← √yuj- (root)  
+{case:GEN, gender:M, number:PL, non-finite:PPP}
+
+khāryàḥ ← khārī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +149,4 @@ Um tausend Renner flehn wir an den Indra, die uns angeschirrt, Um hundert Eimer 
 О тысяче упряжных конных пар,  
 О сотне ведер сомы.
 </details>
+

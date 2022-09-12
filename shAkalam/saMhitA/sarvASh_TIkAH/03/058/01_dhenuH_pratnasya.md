@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dúhānā ← √duh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+kā́myam ← kā́mya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pratnásya ← pratná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dákṣiṇāyāḥ ← dákṣiṇa- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dyotaním ← dyotaní- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śubhráyāmā ← śubhráyāma- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vahati ← √vah- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ajīgar ← √gr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+aśvínau ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+stómaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +201,4 @@ Die Kuh empfängt den lieben Saft des alten, und aus der Trächt'gen kommt der S
 Обладательница блистательного выезда привозит свет.  
 Прославление Ушас разбудило Ашвинов.
 </details>
+

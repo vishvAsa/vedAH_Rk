@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mŕ̥gayam ← mŕ̥gaya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+píprum ← pípru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śūśuvā́ṁsam ← √śū- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+randhīḥ ← √randh- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+r̥jíśvane ← r̥jíśvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vaidathinā́ya ← vaidathiná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kr̥ṣṇā́ ← kr̥ṣṇá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+pañcāśát ← pañcāśát- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vapaḥ ← √vap- 2 (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+átkam ← átka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dardar ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+jarimā́ ← jarimán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Du gabst den Pipru, das gewalt'ge Unthier, dahin dem Sohne Vidathins, Ridschiçv
 Пятьдесят тысяч черных ты засеял.  
 Ты взорвал крепость, как старость (изнашивает) одежду.
 </details>
+

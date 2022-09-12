@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+darśatám ← darśatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+óṣadhīnām ← óṣadhī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+jajāna ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+subhágā ← subhága- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vánā ← vánā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vírūpam ← vírūpa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+jagmúḥ ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+duvasyan ← √duvasy- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+jātám ← √janⁱ- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+pániṣṭham ← pániṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tavásam ← tavás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Den schönen Spross der Wasser und Gewächse, an Farben bunt gebar die holde Van
 Ведь даже боги сошлись мыслью (на этом),  
 Они почтили самого удивительного, сильного, когда он родился.
 </details>
+

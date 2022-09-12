@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+johavīti ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sattáḥ ← √sad- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+rātím ← rātí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+satrā́cīm ← satrā́ñc- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ī́vataḥ ← ī́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vr̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ádvayāvī ← ádvayāvin- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havate ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +204,7 @@ gopā́- ‘herdsman’ is regularly construed with ṛtásya ‘truth’ (e.g.,
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/056/18-19.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/056/18-19.md">
 <details open><summary><h2>18-19 ...{Loading}...</h2></summary>
 
 As was just noted, vs. 17 “feels” like a final (or pseudo-final) vs. If vs. 18 marks a new beginning, we can note both that in vs. 18 the Hotar invokes the gods as he would at the beginning of a sacrifice and that in vs. 19 (and 20a) the Maruts are referred to four times (19a, b, c, 20a) with the near-deictic pronoun imé “these right here,” which might indicate their epiphany on the ritual ground.
@@ -175,3 +233,4 @@ Euch ruft herbei der Priester auf dem Sitze, und preist euch an die mannichfache
 
 -ru-
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+arthínaḥ ← arthín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+yánti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dadúṣaḥ ← √dā- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+gáchān ← √gam- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+rātím ← rātí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tŕ̥ṣyataḥ ← √tr̥ṣ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vavr̥jyúḥ ← √vr̥j- 1 (root)  
+{number:PL, person:3, mood:OPT, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +174,4 @@ Wenn Erwerber auf Erwerb gehn, lass des Gebers Gunst sie finden Und des Durst'ge
 Они получат награду дарителя.  
 Пусть избегают они желания (слишком) жадного (человека)!
 </details>
+

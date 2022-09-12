@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyumátaḥ ← dyumánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vā́javataḥ ← vā́javant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhūta ← √bhū- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+dātā́raḥ ← dātár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nr̥vátaḥ ← nr̥vánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+purukṣóḥ ← purukṣú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+daśasyántaḥ ← √daśasy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+divyā́ḥ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pā́rthivāsaḥ ← pā́rthiva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ápyāḥ ← ápya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+gójātāḥ ← gójāta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mr̥ḷáta ← √mr̥ḍ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +228,4 @@ Seid Geber uns des glanzbegabten Gutes, das reich an Nahrung, Helden sei und Lab
 Проявляя благожелательность, небесные, земные,  
 Рожденные от коровы, водные – смилуйтесь, о боги!
 </details>
+

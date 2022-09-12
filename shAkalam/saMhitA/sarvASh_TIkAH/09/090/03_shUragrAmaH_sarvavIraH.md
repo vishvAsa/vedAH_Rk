@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sáhāvān ← sáhāvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárvavīraḥ ← sárvavīra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śū́ragrāmaḥ ← śū́ragrāma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhánāni ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jétā ← jétar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sánitā ← sánitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣiprádhanvā ← kṣiprádhanvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samátsu ← samád- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+tigmā́yudhaḥ ← tigmā́yudha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áṣāḷhaḥ ← áṣāḷha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sāhvā́n ← √sah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +207,4 @@ Umschart von Helden, alle Männer führend, ström hell, ein mächt'ger Sieger, 
 (Бог) с острым оружием, с луком, быстрым в боях,  
 Не покоренный, (но) покоряющий врагов в битвах!
 </details>
+

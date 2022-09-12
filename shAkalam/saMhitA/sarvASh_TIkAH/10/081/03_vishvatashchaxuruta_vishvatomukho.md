@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+utá ← utá (invariable)  
+{}
+
+viśvátaścakṣuḥ ← viśvátaścakṣus- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvátomukhaḥ ← viśvátomukha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+viśvátaspāt ← viśvátaspad- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvátobāhuḥ ← viśvátobāhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bāhúbhyām ← bāhú- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+dhámati ← √dhamⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pátatraiḥ ← pátatra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyā́vābhū́mī ← dyā́vābhū́mī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janáyan ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Er der sein Auge hat an allen Orten, und überall den Mund, die Arm' und Füsse,
 Он сплавляет (все) вместе (своими) руками, (своими) крыльями,  
 Порождая небо и землю, единый бог.
 </details>
+

@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pūṣṇáḥ ← pūṣán- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+riṣyati ← √riṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+kóśaḥ ← kóśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+padyate ← √pad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pavíḥ ← paví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+vyathate ← √vyath- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +169,4 @@ Nicht bricht des Puschan Wagenrad, nicht fällt sein Wagenkorb herab, Noch wankt
 Кузов не падает,  
 Обод у него не шатается.
 </details>
+

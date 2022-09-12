@@ -18,16 +18,68 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́ryāṇām ← vā́rya- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+coditā́ ← coditár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+radhrásya ← radhrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stotr̥̄ṇā́m ← stotár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+dviṣáḥ ← dvíṣ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vívakṣase ← √vac- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Der du der Herr der Schätze bist, und des erschlafften Kräftiger, Der Sänger 
 Помощник восхвалителей – защити нас от враждебности, от беды –  
 В опьянении (сомой) я хочу вам (это) провозгласить.
 </details>
+

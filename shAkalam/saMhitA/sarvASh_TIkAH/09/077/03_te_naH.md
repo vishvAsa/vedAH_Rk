@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pū́rvāsaḥ ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+úparāsaḥ ← úpara- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhanvantu ← √dhanv- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+gómate ← gómant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vā́jāya ← vā́ja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ahyàḥ ← ahī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+cā́ravaḥ ← cā́ru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īkṣeṇyā̀saḥ ← īkṣeṇyà- (nominal stem)  
+{case:NOM, gender:M, number:PL, mood:DES}
+
+ná ← ná (invariable)  
+{}
+
+bráhma-brahma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+havír-haviḥ ← havís- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+jujuṣúḥ ← √juṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Die früheren, die spätern Tropfen mögen uns zu rinderreicher grosser Gabe str
 Достойные внимания, приятные, как коровы-матери,  
 (Капли,) которые радуются каждому священному слову, каждому возлиянию.
 </details>
+

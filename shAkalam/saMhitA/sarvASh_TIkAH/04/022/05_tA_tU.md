@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahā́ni ← mahá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mahatáḥ ← mahā́nt- (nominal stem)  
+{case:GEN, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tú ← tú (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+pravā́cyā ← pravā́cya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sávaneṣu ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+víśveṣu ← víśva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dadhr̥ṣvā́n ← √dhr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+dhr̥ṣatā́ ← √dhr̥ṣ- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dhr̥ṣṇo ← dhr̥ṣṇú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áviveṣīḥ ← √viṣ- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PLUPRF, voice:ACT}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

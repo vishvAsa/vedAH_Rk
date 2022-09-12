@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+deṣṇám ← deṣṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+uvócitha ← √uc- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+árbhasya ← árbha- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vásunaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vibhāgé ← vibhāgá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+gábhastī ← gábhasti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pūrṇā́ ← √pr̥̄- 1 (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+vásunā ← vásu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+sūnŕ̥tā ← sūnŕ̥ta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vasavyā̀ ← vasavyà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yamate ← √yam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Denn du, o Mächt'ger, findest Lust am Geben bei grossen und bei kleinen Guts Ve
 Обе руки твои полны добра.  
 Великодушие не удерживает обилия благ.
 </details>
+

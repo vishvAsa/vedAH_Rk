@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhā́ratī ← bhā́ratī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tū́yam ← tū́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cetáyantī ← √cit- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+íḷā ← íḷā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+manuṣvát ← manuṣvát (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+syonám ← syoná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sadantu ← √sad- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svápasaḥ ← svápas- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Schnell komme Bhāratī zu unserm Opfer und Iḍā hier nach Menschen Art ersche
 , – (среди них) Сарасвати – пусть усядутся здесь  
 На этой удобной жертвенной соломе, (они,) искусные!
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+asr̥kṣata ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+pávamānāḥ ← √pū- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+áti ← áti (invariable)  
+{}
+
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+háyāḥ ← háya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+indriyā́ḥ ← indriyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marútvantaḥ ← marútvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+matsarā́ḥ ← matsará- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+medhā́m ← medhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+práyāṁsi ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +157,7 @@ Pāda c is a clever twist on 17ab índrāya … marútvate sutáḥ “pressed f
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/25-26.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/25-26.md">
 <details open><summary><h2>25-26 ...{Loading}...</h2></summary>
 
 No particular signs of cohesion.
@@ -149,3 +189,4 @@ Ergossen sind die flammenden im Strome durch das Somasieb, Die lust'gen Rosse In
 Сопровождаемые Марутами, пьянящие кони Индры,  
 (Чтоб дать нам) мудрость (и) жертвенные услады.
 </details>
+

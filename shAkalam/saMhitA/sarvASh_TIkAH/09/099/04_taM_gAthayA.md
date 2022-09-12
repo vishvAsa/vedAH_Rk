@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gā́thayā ← gā́thā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+purāṇyā́ ← purāṇá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+punānám ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dhītáyaḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+kr̥panta ← √kr̥p- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+bíbhratīḥ ← √bhr̥- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +177,4 @@ Ihn priesen sie, den flammenden, mit altem Lobgesange jetzt, Und auch Gebete fle
 И также стремятся (к нему) поэтические мысли,  
 Несущие имя богов.
 </details>
+

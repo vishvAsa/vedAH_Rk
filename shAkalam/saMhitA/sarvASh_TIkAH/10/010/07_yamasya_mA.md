@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agan ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+kā́maḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+yamásya ← yamá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yamyàm ← yamī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sahaśéyyāya ← sahaśéyya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+samāné ← samāná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jāyā́ ← jāyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pátye ← páti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+riricyām ← √ric- (root)  
+{number:SG, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+cakrā́ ← cakrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+ráthyā ← ráthya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+vr̥heva ← √vr̥h- (root)  
+{number:DU, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +221,4 @@ I, Yami, am possessed by love of Yama, that I may rest on the same couch beside 
 Да будем мы двое кататься туда-сюда, как колеса колесницы!  
 Яма:
 </details>
+

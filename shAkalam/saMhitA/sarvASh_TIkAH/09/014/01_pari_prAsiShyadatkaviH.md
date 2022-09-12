@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asiṣyadat ← √syand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+síndhoḥ ← síndhu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śritáḥ ← √śri- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ūrmaú ← ūrmí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bíbhrat ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kārám ← kārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puruspŕ̥ham ← puruspŕ̥h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +157,4 @@ Der Seher strömte rings hervor, sich stützend auf des Stromes Flut, Erhebend v
 Покоясь на волне реки  
 Неся многожеланное воздействие.
 </details>
+

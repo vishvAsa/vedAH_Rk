@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+suvī́ryaiḥ ← suvī́rya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+sasavā́ṁsaḥ ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+śr̥ṇvire ← √śru- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+agnā́ ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dadhiré ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+dúvaḥ ← dúvas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +170,4 @@ Berühmt sind die an Heldenschar, und hoher Reichthum ist ihr Theil, Die ihm, de
 (Своим) богатством, те – прекрасными мужами,  
 Кто приносил почитание Агни.
 </details>
+

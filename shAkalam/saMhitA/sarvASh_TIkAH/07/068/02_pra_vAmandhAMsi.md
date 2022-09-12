@@ -15,13 +15,59 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ándhāṁsi ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+mádyāni ← mádya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+áram ← áram (invariable)  
+{}
+
+gantam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+havíṣaḥ ← havís- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+vītáye ← vītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hávanāni ← hávana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śrutám ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+tirás ← tirás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +183,4 @@ Es stehn vor euch die Kräuter, die berauschen, kommt her, um meinen Opferguss z
 Приезжайте вовремя, чтобы вкусить моего возлияния,  
 Минуя призывы чужого! Слушайте нас!
 </details>
+

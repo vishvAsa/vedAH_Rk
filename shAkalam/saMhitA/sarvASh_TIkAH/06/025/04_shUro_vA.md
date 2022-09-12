@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+śárīraiḥ ← śárīra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śū́ram ← śū́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vanate ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+kr̥ṇvaíte ← √kr̥- (root)  
+{number:DU, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+tanūrúcā ← tanūrúc- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+táruṣi ← tárus- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+tánaye ← tánaya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+toké ← toká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+brávaite ← √brū- (root)  
+{number:DU, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+krándasī ← krándas- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+urvárāsu ← urvárā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Mag einzeln Mann nun wider Mann sich stemmen in Rüstung glänzend, wenn im Kamp
 Или когда за семя, за коров, за продолжение рода, за вбды,  
 За пашни спорят два отряда противников.
 </details>
+

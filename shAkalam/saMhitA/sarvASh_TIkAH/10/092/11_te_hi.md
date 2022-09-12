@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́riretasā ← bhū́riretas- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+hí ← hí (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cáturaṅgaḥ ← cáturaṅga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nárāśáṁsaḥ ← nárāśáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yamáḥ ← yamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+draviṇodā́ḥ ← draviṇodā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥bhukṣáṇaḥ ← r̥bhukṣán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arhire ← √arh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+rodasī́ ← rodasī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ Die samenreichen Erd und Himmel, Jama auch, an Gliedern vierfach Naraçansa, Adi
 
 -ru-
 </details>
+

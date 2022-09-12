@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+adáḥ ~ adó ← asaú (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dā́ru ← dā́ru- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+plávate ← √plu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+apūruṣám ← apūruṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pāré ← pārá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+síndhoḥ ← síndhu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+durhaṇo ← durhaṇu- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+rabhasva ← √rabh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gacha ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+parastarám ← parastarám (invariable)  
+{}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +188,4 @@ Das Floss, was in dem Flusse dort entblösst von Menschen drüben schwimmt, Das 
 За него хватайся, ты с дурными челюстями,  
 На нем уезжай подальше!
 </details>
+

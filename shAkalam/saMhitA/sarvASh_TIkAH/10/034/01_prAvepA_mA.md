@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+mādayanti ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prāvepā́ḥ ← prāvepá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+íriṇe ← íriṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pravātejā́ḥ ← pravātejá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+várvr̥tānāḥ ← √vr̥t- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+bhakṣáḥ ← bhakṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+maujavatásya ← maujavatá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+achān ← √chand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jā́gr̥viḥ ← jā́gr̥vi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+vibhī́dakaḥ ← vibhī́daka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +190,4 @@ Die hüpfenden aus luft'gem Wipfel stammend berauschen mich, wenn in der Bahn si
 Как глоток сомы с (горы) Муджават,  
 Показалась мне бодрствующая (игральная кость) вибхидака.
 </details>
+

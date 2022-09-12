@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+inádhate ← √idh- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yatásruk ← yatásruc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áhan ← áhar ~ áhan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇávat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+sásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+trís ← trís (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dyumnaíḥ ← dyumná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+prasákṣat ← √sah- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+cikitvā́n ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +230,7 @@ The last word of the verse, the perf. part. cikitvā́n, is characteristically u
 In the published translation I construe táva krátvā with the preceding pāda: may the man succeed “in accordance with your purpose,” but I now wonder if it is not another indication of the closed loop of reciprocity: the mortal worshiper is observant like Agni because it is Agni’s will or purpose that he should be. Of course it can be applicable to both pādas.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/012/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/012/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 On the parallel pres. and pf. subjunctives in these vss. see comm. ad
@@ -203,3 +267,4 @@ Wer, Agni, dich entflammt, den Löffel ausstreckt, dreimal dir Spende schafft an
 Пусть он мощно превосходит (всех) славными делами, победитель,  
 Благодаря твоей силе духа, о Джатаведас, (бог,) который понимает!
 </details>
+

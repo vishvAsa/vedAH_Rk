@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+sáṁvr̥ktadhr̥ṣṇum ← sáṁvr̥ktadhr̥ṣṇu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ukthyàm ← ukthyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádam ← máda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahā́mahivratam ← mahā́mahivrata- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rurukṣáṇim ← rurukṣáṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG, mood:DES}
+
+śatám ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +152,4 @@ Den beutelust'gen, rühmlichen, den sehr gewalt'gen Somatrank, Der hundert Burge
 
 -ru-
 </details>
+

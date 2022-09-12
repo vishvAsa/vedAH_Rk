@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+draviṇaḥ ← dráviṇas- (nominal stem)  
+{case:VOC, gender:N, number:SG}
+
+pr̥kṣáprayajaḥ ← pr̥kṣáprayaj- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+suvā́caḥ ← suvā́c- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suketávaḥ ← suketú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ūṣuḥ ← √vas- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+daśasya ← √daśasy- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+énaḥ ← énas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +238,4 @@ Dem Rosse [Agni] zueilend [oder huldigend] strahlten, o Spender [Agni], reich di
 И ты тоже, о Агни, силой величия земли  
 Прости грех, даже если он (нами) совершен, – на великую (удачу)!
 </details>
+

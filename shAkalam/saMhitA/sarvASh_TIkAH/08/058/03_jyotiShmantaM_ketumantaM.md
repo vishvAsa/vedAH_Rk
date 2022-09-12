@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; Vālakhilya  
 popular;; Vālakhilya  
 popular;; Vālakhilya  
 popular;; Vālakhilya
+#### Morph
+jyótiṣmantam ← jyótiṣmant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ketumántam ← ketumánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tricakrám ← tricakrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhū́rivāram ← bhū́rivāra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sukhám ← sukhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suṣádam ← suṣád(a)- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adhijajñe ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+citrā́maghā ← citrā́magha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+yóge ← yóga- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+átiriktam ← √ric- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+huvé ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+píbadhyai ← √pā- 2 (root)  
+{case:DAT, number:SG, tense:PRS}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +207,4 @@ Den lichten, hellen, güterreichen Wagen mit gutem Sitz, schnell rollend auf dre
 Для запрягания которой рождается (Ушас) с яркими дарами,  
 Эту вашу (колесницу) я призываю, чтобы (вы) пили оставшегося в избытке (сому).
 </details>
+

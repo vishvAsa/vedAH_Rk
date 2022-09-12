@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bībhatsū́nām ← bībhatsú- (nominal stem)  
+{case:GEN, gender:F, number:PL, mood:DES}
+
+haṁsám ← haṁsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sayújam ← sayúj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+cárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+divyā́nām ← divyá- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+anuṣṭúbham ← anuṣṭúbh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+carcūryámāṇam ← √carⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED, mood:DES}
+
+cikyuḥ ← √ci- 3 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+manīṣā́ ← manīṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ní ← ní (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Einen Schwan [haṅsám] nannten sie den Genossen der mit Abscheu entfliehenden 
 Поэты распознали с помощью размышления Индру,  
 Движущегося тюда-сюда вслед за ануштубхом.
 </details>
+

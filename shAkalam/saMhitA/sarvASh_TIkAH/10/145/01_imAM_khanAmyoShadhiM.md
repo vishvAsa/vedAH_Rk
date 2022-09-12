@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+khanāmi ← √khanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+óṣadhim ← óṣadhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bálavattamām ← bálavattama- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vīrúdham ← vīrúdh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bā́dhate ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sapátnīm ← sapátnī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saṁvindáte ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Ich grabe diese Pflanze aus, dies Kraut, das reich an Kräften ist, Durch das di
 С помощью которой прогоняют соперницу,  
 С помощью которой покоряют мужа полностью.
 </details>
+

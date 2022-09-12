@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+madema ← √mad- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sasavā́ṁsaḥ ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+havyéna ← havyá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yávasena ← yávasa- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+indrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ánapasphurantīm ← ánapasphurant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+viśvā́hā ← viśvā́hā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Lasst froh uns sein des Guts, das wir erlangten, beim Opfer, Götter, Kühe auf 
 Все дни давайте вы нам, о Индра-Варуна,  
 Ту дойную корову, которая не брыкается (при доении)!
 </details>
+

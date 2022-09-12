@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ādabhúḥ ← √dabh- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+gavyatā́ ← √gavy- (root)  
+{case:INS, gender:N, number:SG, tense:PRS, voice:ACT}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śátrum ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+abhipraghnánti ← √han- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhr̥ṣṇuyā́ ← dhr̥ṣṇuyā́ (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sma ← sma (invariable)  
+{}
+
+ántamaḥ ← ántama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tanūpā́ḥ ← tanūpā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +177,7 @@ So then, as ever, o bounteous Indra longing for songs, as the protector  of our 
 dhṛṣṇuyā́reprises 2a.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/09-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
 The unity of this pragātha is required by the fact that the rel. cl. of 10ab must depend on the imperatival cl. of 9d, with initial yé (10a) picking up the last word of 9, ebhyaḥ ‘from those’.
@@ -160,3 +209,4 @@ Die beutelust'gen Sinns den Feind verwundeten, ihn niederschlagen kühnen Muths;
 Затем, о щедрый Индра, жаждущий хвалебных песен,  
 Стань ближайшим защитником наших тел!
 </details>
+

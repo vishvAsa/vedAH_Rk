@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ī́śīya ← √īś- (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+góṣakhā ← góṣakhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+stotā́ ← stotár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syāt ← √as- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +175,4 @@ Wenn mir, o Indra, so wie dir, zu eigen aller Reichthum wär', So sollte reich m
 Я владел бы добром один одинешенек,  
 Мой восхвалитель был бы богат коровами.
 </details>
+

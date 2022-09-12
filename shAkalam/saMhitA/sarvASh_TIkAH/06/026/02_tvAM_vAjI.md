@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+havate ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājineyáḥ ← vājineyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gádhyasya ← gádhya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sātaú ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vā́jasya ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sátpatim ← sátpati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tárutram ← tárutra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vr̥tréṣu ← vr̥trá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+caṣṭe ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+muṣṭihā́ ← muṣṭihán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yúdhyan ← √yudh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +206,7 @@ Since pāda c lacks a main verb, it could belong either with ab or with d. Geldn
 On the basis of VI.25.6c with contrastive locatives of the stake, one of which is vṛtré (see comm. immed. above), I am now inclined to reassign it to d, with vṛtréṣu (c) and góṣu (d) the stakes. The revised tr. would be “… secured; to you … when obstacles (are at stake), to you when cows (are at stake) does the fistfighter look as he fights.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, the 1st two vss. play on the word vā́ja-, presumably as a reference to the Bharadvāja bardic line: 1b, 2b mahó vā́jasya, 2a vājī́ … vājineyáḥ.
@@ -183,3 +238,4 @@ Dich ruft der Held, aus Heldenstamm entsprossen, an um Erlangung grosser, werthe
 Тебя, о Индра, как истинного господина в боях, как спасителя.  
 На тебя смотрит кулачный боец, сражающийся за коров.
 </details>
+

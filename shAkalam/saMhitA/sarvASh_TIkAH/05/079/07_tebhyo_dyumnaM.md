@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dyumnám ← dyumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tébhyaḥ ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+yáśaḥ ← yáśas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+maghoni ← maghávan- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+áśvyā ← áśvya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rā́dhāṁsi ← rā́dhas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+bhájanta ← √bhaj- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+gavyā́ ← gavyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśvasūnr̥te ← aśvasūnr̥ta- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sújāte ← sujātá- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

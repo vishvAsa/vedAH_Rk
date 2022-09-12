@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+áśru ← áśru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+bravāṇi ← √brū- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+vartáyate ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ādhyè ← ādhī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+krandat ← √krand- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+śivā́yai ← śivá- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:LOC, number:PL}
+
+hinavā ← √hi- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́paḥ ← √āp- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+ástam ← ásta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+mūra ← mūrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nahí ← nahí (invariable)  
+{}
+
+párā ← párā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +240,4 @@ Ich will ihm Rede stehen, wenn er die Tränen rollen läßt. Wie ein schreiendes
 
 -ru-
 </details>
+

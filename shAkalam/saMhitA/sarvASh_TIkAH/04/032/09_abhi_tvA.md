@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gótamāḥ ← gótama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ánūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ghŕ̥ṣvaye ← ghŕ̥ṣvi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā́jāya ← vā́ja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +149,4 @@ Dir jauchzten zu die Gotamer mit Lied, um Güter zu empfahn, Indra, zu lust'gem 
 Песней, ликуя, о Индра,  
 Чтобы ты дал вожделенную награду!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dharúṇaḥ ← dharúṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śrīṇā́m ← śrī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+udāráḥ ← udārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manīṣā́ṇām ← manīṣā́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+prā́rpaṇaḥ ← prā́rpaṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómagopāḥ ← sómagopā- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+sūnúḥ ← sūnú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásuḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bhāti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+idhānáḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+uṣásām ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Des Glücks Erreger und des Reichthums Gründer, der Lieder Wecker und des Soma'
 Добрый сын силы, царь вод,  
 Ярко сверкает он, зажигаемый перед утренними зорями.
 </details>
+

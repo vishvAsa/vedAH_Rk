@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, number:SG}
+
+satyámugrasya ← satyámugra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+saṁsravā́ḥ ← saṁsravá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sravanti ← √sru- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rásāḥ ← rása- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rasínaḥ ← rasín- (nominal stem)  
+{case:GEN, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+hare ← hári- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +218,4 @@ Zusammen strömt der Ströme Flut des hohen, wahrhaft kräftigen, Des saft'gen S
 Очищаясь священным словом, о золотистый,  
 Для Индры, о капля, растекайся вокруг!
 </details>
+

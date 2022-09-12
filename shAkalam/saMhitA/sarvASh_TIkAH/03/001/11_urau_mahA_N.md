@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anibādhé ← anibādhá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uraú ← urú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vavardha ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+yaśásaḥ ← yaśás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+aśayat ← √śī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dámūnāḥ ← dámūnas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apási ← apás- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+jāmīnā́m ← jāmí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+svásr̥̄ṇām ← svásar- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Der grosse wuchs in weiter Unbeschränktheit; denn viele schöne Wasser sind um 
 В лоне закона отдыхал друг дома  
 Агни во время деятельности сестер.
 </details>
+

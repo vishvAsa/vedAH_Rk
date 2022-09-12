@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+índrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mádhumattamasya ← mádhumattama- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vr̥ṣethām ← √vr̥ṣ- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:MED}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ándhaḥ ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+páriṣiktam ← √sic- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+āsádya ← √sad- (root)  
+{non-finite:CVB}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mādayethām ← √mad- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +173,7 @@ The hymn is (in my view) repetitive and pedestrian, with only a few striking ima
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/068/09-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/068/09-11.md">
 <details open><summary><h2>09-11 ...{Loading}...</h2></summary>
 
 On the annunciatory forms of ayám in these three vss., see published introduction.
@@ -156,3 +205,4 @@ Den Soma schlürfet, Varuna und Indra, den süssesten, den Stier, ihr Stiere bei
 Этот напиток разлит у нас для вас.  
 Опьяняйтесь, усевшись на эту жертвенную-солому!
 </details>
+

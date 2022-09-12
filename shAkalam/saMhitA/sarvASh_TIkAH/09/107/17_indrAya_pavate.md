@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mádaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+marútvate ← marútvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+arṣati ← √arṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+ávyam ← ávya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sahásradhāraḥ ← sahásradhāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ī ← ī (invariable)  
+{}
+
+mr̥janti ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +166,7 @@ The enclitic ī in d could stand for *īm in this sandhi position before mṛjan
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/17-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/17-18.md">
 <details open><summary><h2>17-18 ...{Loading}...</h2></summary>
 
 No particular internal cohesion, but a number of ties with other parts of the hymn. The Āyus are found in 17d as the groomers of Soma, while in 14a they were identified with him. The verb arṣati (17c) returns from 15c (see also 4b, 5c), and avyata (18d) from 13a. The phrase apó vásānaḥ (18c) is also found in 4a, and see disc. of the rest of 18c below.
@@ -155,3 +198,4 @@ Dem Indra mit den Maruts strömt gepresst der helle Somatrank; In tausend Ström
 В тысячу потоков он течет (через сито) из овечьей шерсти.  
 Это его начищают (люди) Аю.
 </details>
+

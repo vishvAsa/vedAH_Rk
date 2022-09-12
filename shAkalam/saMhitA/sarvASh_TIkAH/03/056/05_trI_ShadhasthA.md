@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kavīnā́m ← kaví- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sadhásthā ← sadhástha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sindhavaḥ ← síndhu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+trī́ ← trí- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+samrā́ṭ ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+trimātā́ ← trimātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ápyāḥ ← ápya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+r̥tā́varīḥ ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yóṣaṇāḥ ← yóṣaṇā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pátyamānāḥ ← √pat- 2 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+trís ← trís (invariable)  
+{}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Dreimal drei Sitz', o Ströme, sind der Weisen, und der drei Mütter hat, ist F�
 Три водные жены, связанные с (вселенским) законом,  
 Властвуют на месте жертвенных раздач трижды в день.
 </details>
+

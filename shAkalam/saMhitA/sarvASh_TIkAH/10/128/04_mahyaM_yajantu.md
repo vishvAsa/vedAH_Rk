@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+havyā́ ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+yajantu ← √yaj- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yā́ni ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+ā́kūtiḥ ← ā́kūti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+mánasaḥ ← mánas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+satyā́ ← satyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+énaḥ ← énas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gām ← √gā- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+katamát ← katamá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+devāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+vocata ← √vac- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +239,4 @@ Die Priester sollen meine Gaben opfern; es mög' sich meines Herzens Wunsch erf�
 Да не впаду я в какое-нибудь прегрешение!  
 О Все-Боги, заступитесь за нас!
 </details>
+

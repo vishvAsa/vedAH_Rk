@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+kavím ← kaví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+márjyam ← márjya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mr̥janti ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+avasyávaḥ ← avasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arṣati ← √arṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kánikrat ← √krand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -95,7 +123,7 @@ The bull rushes ever roaring.
 Note kavím (of Soma) contrasting with víprāḥ, the human poets who groom him.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 This tṛca has more internal unity, as well as connection to the preceding tṛca, than usual. For its external connections, see 19a vā́je ná vājayúm picking up the vāj- forms just noted, mádhumattamam in 19c matching the same word (in the nom.) in 16a, and 20a kavím mṛjanti echoing 17a tám ī mṛjanti (note the identical vowel pattern in kavím / tám ī).
@@ -126,3 +154,4 @@ Nach Gunst verlangend läutern ihn, den Läutrungswerthen, andachtsvoll Die Sän
 
 -ru-
 </details>
+

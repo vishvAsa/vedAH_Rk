@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+mandrā́ ← mandrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tanudhvam ← √tan- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+aritrapáraṇīm ← aritrapáraṇa- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+nā́vam ← naú- ~ nā́v- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áram ← áram (invariable)  
+{}
+
+ā́yudhā ← ā́yudha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+íṣkr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+kr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+nayata ← √nī- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+prā́ñcam ← prā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sakhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +224,4 @@ Schafft, was erfreut, und webet die Gebete, durch Ruder lasst eur Schiff zum Zie
 Приведите в порядок оружие, держите (его) наготове,  
 Ведите жертву вперед, о друзья!
 </details>
+

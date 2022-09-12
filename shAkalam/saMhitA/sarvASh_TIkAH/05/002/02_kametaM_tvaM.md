@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+kumārám ← kumārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yuvate ← yuvatí- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+bibharṣi ← √bhr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+jajāna ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+máhiṣī ← máhiṣī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+péṣī ← péṣī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+gárbhaḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vavárdha ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ápaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+ásūta ← √sū- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+jātám ← √janⁱ- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +232,4 @@ Wie trägst du junge bergend noch dies Knäblein als Pflegerin? die Büffelin ge
 Ведь много осеней возрастал зародыш.  
 Я видел новорожденного, когда мать произвела (его) на свет.
 </details>
+

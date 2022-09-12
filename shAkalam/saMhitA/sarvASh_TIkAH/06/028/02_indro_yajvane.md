@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ca ← ca (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥ṇaté ← √pr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śikṣati ← √śak- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+yájvane ← yájvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dadāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+muṣāyati ← √muṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+svám ← svá- (pronoun)  
+{case:ACC, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhū́yo-bhūyaḥ ← bhū́yaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vardháyan ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ábhinne ← ábhinna- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dadhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devayúm ← devayú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+khilyé ← khilyá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +244,4 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 Все больше и больше наращивая его богатство,  
 Он устраивает почитателя богов на неурезанном чистом поле.
 </details>
+

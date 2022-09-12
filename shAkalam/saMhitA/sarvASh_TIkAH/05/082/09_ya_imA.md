@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+jātā́ni ← √janⁱ- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āśrāváyati ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ślókena ← ślóka- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvā́ti ← √sū- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -100,7 +131,7 @@ by Klein [DGRV I.248 n. 93, 251]) takes cá as subordinating, tr. ‘wenn’, th
 
 The phrase āśrāváyati ślókena is technically an etymological figure, somewhat obscured by the l-form of ślóka- and its highly lexicalized state.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/082/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/082/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 There are no overt main clauses in these last two vss., whose vs.-init. rel.
@@ -133,3 +164,4 @@ Der alles hier geborene mit seinem lauten Schall erfüllt, Und Gut uns schaffe, 
 Обращается (со своим) возгласом,  
 Пусть (этот) Савитар вызывает к жизни!
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ājikŕ̥t ← ājikŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ājím ← ājí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yā́ti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svaśvayúḥ ← svaśvayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+rathī́nām ← rathī́- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rathī́tamaḥ ← rathī́tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +151,4 @@ Wenn Indra in den Wettkampf geht, kampfwirkend, schöner Rosse froh, So ist der 
 Индра, жаждя прекрасных коней,  
 Лучший из колесничих,
 </details>
+

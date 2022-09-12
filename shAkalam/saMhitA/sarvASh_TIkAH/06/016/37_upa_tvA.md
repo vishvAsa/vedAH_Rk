@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+raṇvásaṁdr̥śam ← raṇvásaṁdr̥ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+práyasvantaḥ ← práyasvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sahaskr̥ta ← sáhaskr̥ta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sasr̥jmáhe ← √sr̥j- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +138,4 @@ Zu dir, dem lieblich blickenden, ergossen, Agni, Lieder wir, O krafterzeugter, o
 Мы, имеющие жертвенные услады, о созданный силой,  
 О Агни, излили (наши) песни.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dákṣeṇa ← dákṣa- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jāyate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+gárbhaḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+níhitaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+parás ← parás (invariable)  
+{}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yamā́ ← yamá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ha ← ha (invariable)  
+{}
+
+jajñatuḥ ← √janⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sántā ← √as- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+yū́nā ← yúvan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gúhā ← gúhā (invariable)  
+{}
+
+hitám ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+jánima ← jániman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+némam ← néma- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+údyatam ← √yam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,3 +265,4 @@ Der weise ist durch starke Geisteskraft erzeugt, als Spross des Rechtes hinters 
 Еще совсем юными они сразу же распознали (его).  
 (Его) рождение держалось втайне; другое (рождение) выставлено (на обозрение).
 </details>
+

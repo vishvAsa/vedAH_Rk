@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+avenat ← √ven- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mahiṣám ← mahiṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+amī́ ← asaú (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jahati ← √hā- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+putra ← putrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+abravīt ← √brū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+haniṣyán ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:FUT, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kramasva ← √kramⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sákhe ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+viṣṇo ← víṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vitarám ← vitarám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Dann wandte sich zum hohen Sohn die Mutter: »Mein Sohn, die Götter lassen dich
 Тогда сказал Индра, собираясь убить Вритру:  
 О друг Вишну, шагни пошире!
 </details>
+

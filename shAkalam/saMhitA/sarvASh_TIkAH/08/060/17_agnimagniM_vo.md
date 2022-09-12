@@ -16,14 +16,48 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ádhrigum ← ádhrigu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním-agnim ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+huvéma ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+vr̥ktábarhiṣaḥ ← vr̥ktábarhis- (nominal stem)  
+{case:NOM, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hitáprayasaḥ ← hitáprayas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śaśvatī́ṣu ← śáśvant- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +178,4 @@ Zu allen Stämmen wollen wir den Agni, welcher rastlos eilt, Die Streu bereitend
 Приготовив жертвенные услады, Агни, хотара  
 Народов при всех сменяющих друг друга (зорях).
 </details>
+

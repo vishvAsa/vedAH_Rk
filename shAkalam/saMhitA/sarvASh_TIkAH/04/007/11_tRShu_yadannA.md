@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánnā ← ánna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tr̥ṣú ← tr̥ṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tr̥ṣúṇā ← tr̥ṣú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vavákṣa ← √vakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tr̥ṣúm ← tr̥ṣú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yahváḥ ← yahvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+meḷím ← meḷí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nijū́rvan ← √jūrv- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sacate ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vā́tasya ← vā́ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+árvā ← árvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āśúm ← āśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hinvé ← √hi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+vājayate ← √vājay- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Voll Gier nach Speisen wachsend durch den gier'gen, macht Agni schnell ihn sich 
 Сжигая (все), он следует за шумом ветра.  
 Он словно пришпоривает быстрого (коня), скакуна погоняют.
 </details>
+

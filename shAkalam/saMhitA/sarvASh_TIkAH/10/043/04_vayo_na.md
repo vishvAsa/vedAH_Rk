@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+asadan ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+supalāśám ← supalāśá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vr̥kṣám ← vr̥kṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+camūṣádaḥ ← camūṣád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mandínaḥ ← mandín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dávidyutat ← √dyut- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ā́ryam ← ā́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vidát ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +220,4 @@ Wie Vögel auf belaubten Baum, so setzten sich auf Indra aus den Bechern lust'ge
 Их передовой отряд, мощно сверкая,  
 Нашел солнце для Ману, свет арийский.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+juhā́va ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kīríḥ ← kīrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+bhū́reḥ ← bhū́ri- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ī́śānam ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+saúbhagasya ← saúbhaga- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+babhūtha ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+śatamūte ← śatámūti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+abhikṣattúḥ ← abhikṣattár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tvā́vataḥ ← tvā́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+varūtā́ ← varūtár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +182,7 @@ The “man like you” (tvā́vataḥ) is the human patron because he, too, dist
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/021/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/021/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 Final varūtā́of 8d is matched by final tarutra in 9b.
@@ -162,3 +214,4 @@ Ja, auch der Sänger rief dich an um Hülfe, der, Indra, du des Glückes viel be
 Ты всегда был для нас поддержкой, о стократно помогающий,  
 Хранителем того, кто потчует подобно тебе.
 </details>
+

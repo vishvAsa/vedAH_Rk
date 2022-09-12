@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvarīyatā́m ← √adhvarīy- (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+véṣi ← √vī- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+kr̥ṇu ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+samŕ̥dhaḥ ← samŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+viśpate ← viśpáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+aṅgiraḥ ← áṅgiras- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+juṣásva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +186,4 @@ Denn in der frommen Stämme Haus, o Agni, kommst als Priester du; Gedeihen schaf
 Создай удачу, о господин племен!  
 Наслаждайся жертвой, о Ангирас!
 </details>
+

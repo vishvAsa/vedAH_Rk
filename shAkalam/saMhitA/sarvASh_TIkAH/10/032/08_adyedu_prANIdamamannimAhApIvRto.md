@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+áhā ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ámaman ← √man- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+ānīt ← √anⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+adhayat ← √dhā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ápīvr̥taḥ ← √vr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+āpa ← √āp- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+jarimā́ ← jarimán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yúvānam ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áheḷan ← áheḷant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+babhūva ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásuḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +242,4 @@ Heute erst begann er zu athmen; er hatte diese letzten Tage gezögert; zugedeckt
 И вот этого юношу настигла старость.  
 Он стал нераздражительным, добрым, благожелательным.
 </details>
+

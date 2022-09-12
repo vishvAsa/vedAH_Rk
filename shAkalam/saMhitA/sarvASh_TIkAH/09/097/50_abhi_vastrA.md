@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+arṣa ← √arṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+suvasanā́ni ← suvasaná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vástrā ← vástra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+dhenū́ḥ ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pūyámānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+sudúghāḥ ← sudúgha- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+bhártave ← √bhr̥- (root)  
+{case:DAT, number:SG}
+
+candrā́ ← candrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+híraṇyā ← híraṇya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rathínaḥ ← rathín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +199,7 @@ And surely these garments and cows are actually references to the milk mixture, 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/49-51.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/49-51.md">
 <details open><summary><h2>49-51 ...{Loading}...</h2></summary>
 
 In contrast to the tṛcas with faint or no signs of cohesion, this one is over-determined. The verbal lexeme that dominates is abhí √ṛṣ: the preverb abhí opens every one of the 12 pādas, and the impv. arṣa/ā is found in the first pāda of every vs. (49a, 50a, 51a). The part. pūyámānaḥ ends the first hemistich of each vs. Most of the rest of the material consists of acc. goals of motion. The goals in the first vs. of the tṛca are gods, in the first half of the 2nd vs. the substances with which Soma will be mixed, and in the rest of the tṛca those things that we want Soma to provide us. The result is a tṛca of utmost banality, enlivened by a small play of words in the last pāda.
@@ -176,3 +231,4 @@ O ströme her schönkleidende Gewänder, du hellentflammter, milchgefüllte Küh
 Яркие золотые украшения, чтоб (мы) носили,  
 Коней с колесницей, о бог сома!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devávītaye ← devávīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+mánavaḥ ← mánu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syā́ma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nayata ← √nī- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+prā́ñcam ← prā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sādhuyā́ ← sādhuyā́ (invariable)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́dityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+rúdrāḥ ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+súdānavaḥ ← sudā́nu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vásavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+jinvata ← √ji- 2 ~ jinv- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śasyámānāni ← √śaṁs- (root)  
+{case:ACC, gender:N, number:PL, tense:PRS, voice:PASS}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Wir Menschen seien Freunde euch zum Göttermahl, und unser Opfer führet grade h
 
 -ru-
 </details>
+

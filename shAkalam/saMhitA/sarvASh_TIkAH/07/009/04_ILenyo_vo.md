@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+īḷényaḥ ← īḷénya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yugéṣu ← yugá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+aśucat ← √śuc- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jātávedāḥ ← jātávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samanagā́ḥ ← samanagā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhānúnā ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+susaṁdŕ̥śā ← susaṁdŕ̥ś- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vibhā́ti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+budhanta ← √budh- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+samidhānám ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +194,4 @@ Eur preisenswerther Wesenkenner glänzte beim Stamm der Menschen zur Versammlung
 (Тот,) что ярко светит (своим) лучом, прекрасный на вид.  
 Коровы проснулись навстречу зажженному (богу).
 </details>
+

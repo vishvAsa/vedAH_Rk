@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+saṁjárbhurāṇaḥ ← √bhur- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sutegŕ̥bham ← sutegŕ̥bh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tárubhiḥ ← táru- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+cittágarbhāsu ← cittágarbha- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+susváruḥ ← susváru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vayākínam ← vayākín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhāravākéṣu ← dhāravāká- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+r̥jugātha ← r̥jugātha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śobhase ← √śubh- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+abhí ← abhí (invariable)  
+{}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jīváḥ ← jīvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pátnīḥ ← pátnī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+várdhasva ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +205,4 @@ Schnell bewegend mit den raschen [Flammen] das somafassende gehenkelte [Gefäss]
 О ты, чей путь прям, ты украшаешься в потоках речи.  
 Перерасти (своих) жен, живой во время обряда!
 </details>
+

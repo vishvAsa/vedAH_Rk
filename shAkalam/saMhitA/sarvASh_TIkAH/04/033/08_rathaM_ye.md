@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakrúḥ ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+nareṣṭhā́m ← nareṣṭhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvŕ̥tam ← suvŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+viśvajúvam ← viśvajū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+viśvárūpām ← viśvárūpa- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥bhávaḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+takṣantu ← √takṣ- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+suhástāḥ ← suhásta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svápasaḥ ← svápas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svávasaḥ ← svávas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +236,4 @@ Des Wagens Bildner, der nun rollt, nun stillsteht, der allgestalt'gen Kuh, die a
 Пусть эти Рибху создадут нам богатство,  
 (Они,) хорошо помогающие, хорошо работающие, с умелыми руками!
 </details>
+

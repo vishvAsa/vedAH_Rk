@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asanam ← √sanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+áśvyasya ← áśvya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ayútā ← ayúta- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ṣaṣṭím ← ṣaṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śatā́ ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+úṣṭrānām ← úṣṭra- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+viṁśatím ← viṁśatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śatā́ ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śyā́vīnām ← śyā́vī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tryàruṣīṇām ← tryàruṣa- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Sechzigtausend und Myriaden von Rossen empfing ich, zweitausend Büffel, tausend
 Десять (сотен) – с тремя рыжими пятнами,  
 Десять тысяч коров.
 </details>
+

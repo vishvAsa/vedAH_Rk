@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kánikranti ← √krand- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sr̥jyámānaḥ ← √sr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+jaṭháre ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sī́dan ← √sad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vánasya ← vána- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+nirṇíjam ← nirṇíj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yatáḥ ← √yam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+átas ← átas (invariable)  
+{}
+
+janayata ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+matī́ḥ ← matí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svadhā́bhiḥ ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Der Goldhengst wiehert, wenn er ausgesandt wird, er setzt sich flammend in den B
 Направленный мужами, он делает коровье молоко (своим) праздничным нарядом.  
 Затем своими силами он порождает (поэтические) мысли.
 </details>
+

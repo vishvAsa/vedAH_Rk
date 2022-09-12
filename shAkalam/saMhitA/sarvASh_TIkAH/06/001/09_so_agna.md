@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+īje ← √yaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śaśamé ← √śamⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ā́naṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+havyádātim ← havyádāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+samídhā ← samídh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́hutim ← ā́huti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+véda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dadhate ← √dhā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tvótaḥ ← tvóta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāmā́ ← vāmá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +254,4 @@ Der Mensch, o Agni, hat gewirkt, geopfert, der dir mit Brennholz Opfergabe weiht
 Кто знает основательно жертвенное возлияние с поклонениями,  
 Тот, поддержанный тобой, получает все желанные вещи.
 </details>
+

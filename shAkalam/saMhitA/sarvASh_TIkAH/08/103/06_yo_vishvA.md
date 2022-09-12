@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dáyate ← √dā- 3 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mandráḥ ← mandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+mádhoḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pā́trā ← pā́tra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+prathamā́ni ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+stómāḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +195,4 @@ Zu ihm, der alles Gut vertheilt, der Menschen holder Priester ist, Zu Agni gehn 
 К этому Агни продвигаются восхваления,  
 Словно первые сосуды сладкого (сомы).
 </details>
+

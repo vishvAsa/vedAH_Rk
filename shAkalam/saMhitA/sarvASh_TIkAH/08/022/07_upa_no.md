@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+vājinīvasū ← vājínīvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pathíbhiḥ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yātám ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+trāsadasyavám ← trāsadasyavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tr̥kṣím ← tr̥kṣí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+jínvathaḥ ← √ji- 2 ~ jinv- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+kṣatrā́ya ← kṣatrá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +167,4 @@ O labungsreiche kommet heut zu uns her auf der Wahrheit Pfad, Auf dem den Triksc
 На которых вы, о два быка, поощряете Трикши, сына Трасадасью,  
 К великому господству.
 </details>
+

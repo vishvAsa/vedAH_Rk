@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+arcíḥ ← arcís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jihatām ← √hā- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+śúṣmāḥ ← śúṣma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+út ← út (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śaśamānásya ← √śamⁱ- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+út ← út (invariable)  
+{}
+
+vā́jāḥ ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nama ← √nam- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+śvañcasva ← √śvañc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+út ← út (invariable)  
+{}
+
+várdhamānaḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adyá ← adyá (invariable)  
+{}
+
+sadantu ← √sad- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vásavaḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +240,4 @@ Dein Licht lass aufwärts steigen, und dein Schnaufen, und wenn du opferst, Agni
 Взвейся вверх, пригнись вниз, набираясь силы!  
 Пусть усядутся возле тебя сегодня все Васу!
 </details>
+

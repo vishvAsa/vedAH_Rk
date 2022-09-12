@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥tsutaú ← pr̥tsutí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yáśasvati ← yáśasvant- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ava ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+krándasi ← krándas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+śímīvati ← śímīvant- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhr̥ṣitéṣu ← √dhr̥ṣ- (root)  
+{case:LOC, gender:M, number:PL, non-finite:PPP}
+
+góṣātā ← góṣāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+khādíṣu ← khādí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+didyávaḥ ← didyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nr̥ṣā́hye ← nr̥ṣā́hya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pátanti ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+víṣvak ← víṣvañc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +205,4 @@ Hilf zur Erbeutung, Indra, uns in diesem Kampf, der Ruhm verleiht, im mühevolle
 Когда в схватке за коров среди отважных, украшенных кольцами (бойцов)  
 Во все стороны летят стрелы при покорении мужей!
 </details>
+

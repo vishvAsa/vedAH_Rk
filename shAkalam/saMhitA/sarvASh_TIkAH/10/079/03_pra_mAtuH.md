@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gúhyam ← gúhya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ichán ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pratarám ← pratarám (invariable)  
+{}
+
+kumāráḥ ← kumārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sarpat ← √sr̥p- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+urvī́ḥ ← urú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vīrúdhaḥ ← vīrúdh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+avidat ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pakvám ← pakvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sasám ← sasá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śucántam ← √śuc- (root)  
+{case:ACC, gender:M, number:SG, tense:AOR, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+ripáḥ ← ríp- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ririhvā́ṁsam ← √rih- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +214,4 @@ Er schlüpft dem Kinde gleich, das vor der Mutter sich bergen will, in weitverzw
 Он нашел (его,) пылающего, словно готовая еда,  
 Усиленно лижущего (все вокруг) в лоне земли.
 </details>
+

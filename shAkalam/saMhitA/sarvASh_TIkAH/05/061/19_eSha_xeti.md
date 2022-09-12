@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kṣeti ← √kṣi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ráthavītiḥ ← ráthavīti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+gómatīḥ ← gómant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápaśritaḥ ← √śri- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+párvateṣu ← párvata- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -94,7 +119,7 @@ Geldner and Renou take gómatīḥ as a ref. to the Gomatī river; Witzel Gotō 
 
 [V.62-78 JPB]
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/17-19.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/17-19.md">
 <details open><summary><h2>17-19 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, the patron’s name Rathavīti (‘pursuit of the chariot’?) in 18, 19 is punned upon. In 17 (before he is explicitly mentioned, though the patronymic Dārbhya would presumably evoke him) Night is asked to carry the hymns “like a charioteer” (rathī́r iva); in 18 the 2nd cmpd. member -vīti- is derived from the same root √vī ‘pursue’ that supplies the verb ápa veti ‘goes off track’.
@@ -125,3 +150,4 @@ Dieser Fürst Räthaviti wohnt nun an rinderreichen Orten, nachdem er sich in de
 Щедрый (покровитель), на (берегу) Гомати,  
 Расположившись среди гор.
 </details>
+

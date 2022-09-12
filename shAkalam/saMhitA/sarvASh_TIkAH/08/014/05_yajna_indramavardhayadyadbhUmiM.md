@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+avardhayat ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávartayat ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhū́mim ← bhū́mi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cakrāṇáḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+opaśám ← opaśá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +164,4 @@ Das Opfer gab dem Indra Kraft, als er die Erde um sich schlang, Den Haarbusch au
 Когда он развернул землю,  
 Делая себе на небе головное украшение.
 </details>
+

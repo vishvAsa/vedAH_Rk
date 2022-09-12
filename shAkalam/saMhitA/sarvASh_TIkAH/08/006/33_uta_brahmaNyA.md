@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+brahmaṇyā́ ← brahmaṇyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+pravr̥ddha ← √vr̥dh- (root)  
+{case:VOC, gender:M, number:SG, non-finite:PPP}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vajrivaḥ ← vajrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+atakṣma ← √takṣ- (root)  
+{number:PL, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,3 +137,4 @@ Wir Sänger haben andachtsvoll, dir, o gewalt'ger Schleuderer, Dies Lied gemacht
 Для тебя, о подкрепленный громовержец,  
 Придали форму (молитве) – чтобы жить!
 </details>
+

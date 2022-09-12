@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ásya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+gr̥hé ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+prajā́vatī ← prajā́vant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ásaścantī ← ásaścant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhenumátī ← dhenumánt- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+duhe ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+íḷā ← íḷā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +142,4 @@ In dessen Haus wird Tag für Tag der Trunk gemelkt, der nie versiegt, Der reichl
 Богатая дойными коровами Ида,  
 Не иссякая доится каждый день.
 </details>
+

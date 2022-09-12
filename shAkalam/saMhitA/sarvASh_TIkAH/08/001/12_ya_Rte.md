@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhiśríṣaḥ ← abhiśríṣ- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+r̥té ← r̥té (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ātŕ̥daḥ ← √tr̥d- (root)  
+{case:ABL, number:SG}
+
+jatrúbhyaḥ ← jatrú- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+purā́ ← purā́ (invariable)  
+{}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purūvásuḥ ← purūvásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáṁdhātā ← sáṁdhātar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saṁdhím ← saṁdhí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+íṣkartā ← íṣkartar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+víhrutam ← √hvr̥- ~ hru- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +185,4 @@ Der ohne zu befestigen und Glieder zu beschädigen, Gelenk zusammenfügt, der re
 Складывает сустав, (этот) щедрый обладатель многих благ,  
 Снова приводящий в порядок поврежденное...
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mīḷhúṣaḥ ← mīḍhváṁs- (nominal stem)  
+{case:GEN, number:SG}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánādhr̥ṣṭābhiḥ ← ánādhr̥ṣṭa- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+upadŕ̥k ← upadŕ̥ś- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +141,4 @@ Des gnadenreichen Gottes Platz an unbezwungnen Hülfen reich, Ein schöner Anbli
 С (его) неприкосновенными поддержками  
 Прекрасен на вид, словно солнце.
 </details>
+

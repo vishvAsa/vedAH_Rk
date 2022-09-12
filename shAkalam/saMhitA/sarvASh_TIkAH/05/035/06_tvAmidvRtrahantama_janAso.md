@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vr̥trahantama ← vr̥trahántama- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jánāsaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vr̥ktábarhiṣaḥ ← vr̥ktábarhis- (nominal stem)  
+{case:NOM, number:PL}
+
+pūrvī́ṣu ← purú- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hávante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +166,4 @@ Denn dich, o feindetödtendster, dich rufen um den Preisgewinn Die Männer Streu
 Зовут грозного первым  
 Во многих (битвах) для захвата добычи.
 </details>
+

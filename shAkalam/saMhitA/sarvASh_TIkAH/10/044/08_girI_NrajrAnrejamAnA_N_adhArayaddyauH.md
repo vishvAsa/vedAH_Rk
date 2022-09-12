@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhārayat ← √dhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ájrān ← ájra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+girī́n ← girí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+réjamānān ← √rej- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:MED}
+
+antárikṣāṇi ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kopayat ← √kup- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+krandat ← √krand- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+dhiṣáṇe ← dhiṣáṇā- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+samīcīné ← samīcīná- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+skabhāyati ← √skambhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pītvā́ ← √pā- 2 (root)  
+{}
+
+śaṁsati ← √śaṁs- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ukthā́ni ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Die Höhn und Triften, da sie wankten, stützte er; der Himmel dröhnte und die 
 Он укрепляет порознь две соединенные чаши.  
 Испив крепкого (сомы), в опьянении он исполняет хвалебные песни.
 </details>
+

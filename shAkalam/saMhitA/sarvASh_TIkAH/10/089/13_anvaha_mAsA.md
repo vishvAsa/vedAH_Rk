@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áha ← áha (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+mā́sāḥ ← mā́sa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vánāni ← vána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+párvatāsaḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vāvaśāné ← √vaś- (root)  
+{case:NOM, gender:F, number:DU, tense:PRF, voice:MED}
+
+ajihata ← √hā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ánu ← ánu (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jā́yamānam ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +208,4 @@ Dem Indra gaben Monde nach und Wälder, dem Indra die Gewächse und die Berge, D
 Под(чинились) охотно Индре две половины вселенной,  
 Под(чинились воды, когда он родился.
 </details>
+

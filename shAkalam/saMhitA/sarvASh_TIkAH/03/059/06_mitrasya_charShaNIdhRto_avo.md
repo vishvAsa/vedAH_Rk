@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+carṣaṇīdhŕ̥taḥ ← carṣaṇīdhŕ̥t- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sānasí ← sānasí- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+citráśravastamam ← citráśravastama- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dyumnám ← dyumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +140,4 @@ Des Mitra, der die Menschen schützt, des Gottes Hülfe spendet uns Den Glanz, d
 Поддерживающего людей, приносит добычу.  
 Блеск (его) окружен самой яркой славой.
 </details>
+

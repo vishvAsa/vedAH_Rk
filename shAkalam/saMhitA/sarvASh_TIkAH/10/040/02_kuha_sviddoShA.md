@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvínā ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+doṣā́ ← doṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+kúha ← kúha (invariable)  
+{}
+
+kúha ← kúha (invariable)  
+{}
+
+svit ← svit (invariable)  
+{}
+
+vástoḥ ← vástu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+abhipitvám ← abhipitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+karataḥ ← √kr̥- (root)  
+{number:DU, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+kúha ← kúha (invariable)  
+{}
+
+kúha ← kúha (invariable)  
+{}
+
+ūṣatuḥ ← √vas- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+deváram ← devár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śayutrā́ ← śayutrā́ (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vidhávā ← vidhávā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+máryam ← márya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sadhásthe ← sadhástha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +252,4 @@ Wo weilt des Abends, wo des Morgens, Ritter ihr? wo kehrt ihr ein? und wo verwei
 Кто возьмет вас к себе в постель, как вдова – деверя,  
 Как женщина молодого мужчину (пригласит) на свидание?
 </details>
+

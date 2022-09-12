@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árvā ← árvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pr̥tsú ← pŕ̥t- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sahā́vā ← sahā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+taráṇiḥ ← taráṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mehánāvān ← mehánāvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+vyānaśíḥ ← vyānaśí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hávyaḥ ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kāré ← kārá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+matīnā́m ← matí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+cā́ruḥ ← cā́ru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suhávaḥ ← suháva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vayodhā́ḥ ← vayodhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ In Schlachten siegreich, wie ein schneller Renner, durchdringt er reich an Gaben
 Тот, кого нужно призывать как Бхагу при ратном подвиге в молитвах,  
 Милый, как отец, легко призываемый, наделяющий телесной силой...
 </details>
+

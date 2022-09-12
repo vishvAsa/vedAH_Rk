@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cā́ru ← cā́ru- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+apīcyàm ← apīcyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+náptuḥ ← nápat- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vardhate ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+indháte ← √idh- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yuvatáyaḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+híraṇyavarṇam ← híraṇyavarṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Dies sein Erscheinen und sein liebes Wesen, des Wassersohnes, im Verborgnen wäc
 Которого возжигают здесь сообща юные жены.  
 Жир золотого цвета – его пища.
 </details>
+

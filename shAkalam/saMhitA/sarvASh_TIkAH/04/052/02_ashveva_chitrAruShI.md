@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+áruṣī ← áruṣī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+áśvā ← áśvā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+citrā́ ← citrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+r̥tā́varī ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+abhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+aśvínoḥ ← aśvín- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +169,4 @@ Der Ritter Freundin glänzendroth ward Uschas, einer Stute gleich, Der Kühe hei
 Мать коров, соблюдающая закон,  
 Ушас стала подругой Ашвинов.
 </details>
+

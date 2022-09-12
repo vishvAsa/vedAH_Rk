@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágopāḥ ← ágopā- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īyúḥ ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+yávasāt ← yávasa- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+citā́saḥ ← √ci- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yathākr̥tám ← yathākr̥tám (invariable)  
+{}
+
+pŕ̥śnigāvaḥ ← pŕ̥śnigav- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pŕ̥śninipreṣitāsaḥ ← pŕ̥śninipreṣita- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+cakruḥ ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+niyútaḥ ← niyút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+rántayaḥ ← ránti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śruṣṭím ← śruṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +219,4 @@ Wie hirtenlose Kühe von der Weide entflohn gesellt dem Freund sie, wie sich's f
 С запряженными пестрыми быками, загнанные вниз Пришни,  
 Они охотно последовали: упряжки и воины (?).
 </details>
+

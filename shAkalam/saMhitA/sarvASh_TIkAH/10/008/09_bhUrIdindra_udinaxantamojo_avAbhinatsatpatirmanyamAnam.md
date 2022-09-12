@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+udínakṣantam ← √naś- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+abhinat ← √bhid- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+mányamānam ← √man- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sátpatiḥ ← sátpati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+gónām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+tvāṣṭrásya ← tvāṣṭrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+viśvárūpasya ← viśvárūpa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ācakrāṇáḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+párā ← párā (invariable)  
+{}
+
+śīrṣā́ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vark ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Der gross sich dünkte, viele Kraft erstrebend, den schmetterte herab der mächt
 Забрав себе коров самого сына Тваштара  
 Вишварупы, он оторвал три его головы.
 </details>
+

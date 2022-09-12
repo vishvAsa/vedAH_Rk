@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+pŕ̥thuṣṭuke ← pr̥thuṣṭuka- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sínīvāli ← sinīvālī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+svásā ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ā́hutam ← √hu- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+juṣásva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+devi ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+didiḍḍhi ← √diś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prajā́m ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +178,4 @@ Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den darg
 Наслаждайся возлитой жертвой,  
 Направь нас, о богиня, к потомству!
 </details>
+

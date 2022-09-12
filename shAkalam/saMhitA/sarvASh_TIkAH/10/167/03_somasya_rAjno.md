@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dhármaṇi ← dhárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+rā́jñaḥ ← rā́jan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ánumatyāḥ ← ánumati- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+bŕ̥haspáteḥ ← bŕ̥haspáti- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śármaṇi ← śárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+adyá ← adyá (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+úpastutau ← úpastuti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+abhakṣayam ← √bhakṣay- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+dhā́tar ← dhātár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kaláśān ← kaláśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vídhātar ← vidhātár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Nach Brauch des Königs Soma und des Varuna, mit Zustimmung und unter Schutz Bri
 О Устроитель (и) распределитель, пил я из кувшинов.  
 Индра:
 </details>
+

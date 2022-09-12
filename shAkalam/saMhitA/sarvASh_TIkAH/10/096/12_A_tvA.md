@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+haryántam ← √hary- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+prayújaḥ ← prayúj- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+háriśipram ← háriśipra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vahantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prátibhr̥tasya ← √bhr̥- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+yáthā ← yáthā (invariable)  
+{}
+
+dáśoṇim ← dáśoṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+háryan ← √hr̥- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sadhamā́de ← sadhamā́da- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Dich goldbehelmten, holden Indra möge im Wagen fahren das Gespann der Menschen;
 Чтобы ты испил предложенного меду,  
 Желающий жертву, приготовленного десятью руками на общем пиру.
 </details>
+

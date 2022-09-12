@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahimánaḥ ← mahimán- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nahí ← nahí (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+samasya ← sama- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghavattvásya ← maghavattvá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+nū́tanasya ← nū́tana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rā́dhaso-rādhasaḥ ← rā́dhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dadr̥śe ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indriyám ← indriyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Denn nicht erkannten deine ganze Grösse, und deine ganze Macht wir, o du mächt
 Ни каждого (твоего) теперешнего дарения.  
 О Индра, твоя сила Индры еще не проявилась.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+práti ← práti (invariable)  
+{}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+suyúk ← suyúj- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vahanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+bhavanti ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+médhāḥ ← médha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pitárā ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ūrdhvā́ḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+járethām ← √gr̥- (root)  
+{number:DU, person:2, mood:INJ, tense:PRS, voice:MED}
+
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+paṇéḥ ← paṇí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cakr̥ma ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +240,4 @@ Euch fahren her nach Brauch die schöngeschirrten, wie Aeltern stehn die Säulen
 Отведите от нас молитву скупца!  
 Мы создали (себе) вашу помощь. Приезжайте к нам!
 </details>
+

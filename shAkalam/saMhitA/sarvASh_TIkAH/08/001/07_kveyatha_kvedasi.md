@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+iyatha ← √i- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+kvà ← kvà (invariable)  
+{}
+
+kvà ← kvà (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+álarṣi ← √r̥- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+khajakr̥t ← khajakŕ̥t- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+puraṁdara ← puraṁdará- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yudhma ← yudhmá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+agāsiṣuḥ ← √gā(y)- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gāyatrā́ḥ ← gāyatrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Wo gingst du hin, wo weilest du? denn vielbeschäftigt ist dein Sinn; Du Burgzer
 Ты возбуждаешься, о воин, вызывающий пыл битвы, о проломитель крепостей, –  
 Напевы зазвучали.
 </details>
+

@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+parómātram ← parómātra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ŕ̥cīṣamam ← ŕ̥cīṣama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+surā́dhasam ← surā́dhas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+ī́śānam ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,3 +133,4 @@ Den unermessnen, glänzenden, den starken Indra, reich an Schatz, Der über alle
 
 -ru-
 </details>
+

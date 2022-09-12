@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ánr̥tadevaḥ ← ánr̥tadeva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́sa ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+yádi ← yádi (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+apyūhé ← √vāh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+mógham ← mógha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+hr̥ṇīṣe ← √hr̥̄- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+droghavā́caḥ ← droghavā́c- (nominal stem)  
+{case:NOM, number:PL}
+
+nirr̥thám ← nirr̥thá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sacantām ← √sac- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +234,4 @@ Wenn, Agni, ich ein falscher Spieler wäre, wenn heuchlerisch die Götter ich ve
 За что ты сердишься на нас, о Джатаведас?  
 Те, кто ведет лживые речи, пусть погибнут с твоей помощью!
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+sárasvatīvatoḥ ← sárasvatīvant- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indrāgnyóḥ ← indrāgní- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+vr̥ṇe ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+gāyatrám ← gāyatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥cyáte ← √r̥c- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+yā́bhyām ← yá- (pronoun)  
+{case:DAT, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +150,4 @@ Ich flehe die Hülfe der von Sarasvati begleiteten Indra und Agni an, welchen di
 Индры-Агни, сопровождаемых Сарасвати,  
 Для которых поется гимн гаятри.
 </details>
+

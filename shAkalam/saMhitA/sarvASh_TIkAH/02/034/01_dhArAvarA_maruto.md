@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhārāvarā́ḥ ← dhārāvará- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhr̥ṣṇvòjasaḥ ← dhr̥ṣṇvòjas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arcínaḥ ← arcín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhīmā́ḥ ← bhīmá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mr̥gā́ḥ ← mr̥gá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+táviṣībhiḥ ← táviṣī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+agnáyaḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+r̥jīṣíṇaḥ ← r̥jīṣín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śuśucānā́ḥ ← √śuc- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+ápa ← ápa (invariable)  
+{}
+
+avr̥ṇvata ← √vr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+bhŕ̥mim ← bhŕ̥mi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhámantaḥ ← √dhamⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +195,7 @@ As Geldner (and Renou) point out, ‘well-ornamented’ (supéśas-) of hymns me
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
 The first words of each hemistich in this series of vss. echo each other: 1a úpem, 1c apā́m, 2a imám, 2c apā́m, 3a sám, 3c tám, 4a tám. Since similar openings are found only in scattered vss. later in the hymn (9a apā́m, 11c yám, 12c sám) I consider the effect deliberate.
@@ -175,3 +227,4 @@ Die Marut's, Regen liebend, ungestüm an Kraft, wie grimm'ge Löwen, vorwärtsdr
 Сверкающие, словно огни, пьющие выжимки (сомы),  
 Дующие в трубу (?), они открыли коров.
 </details>
+

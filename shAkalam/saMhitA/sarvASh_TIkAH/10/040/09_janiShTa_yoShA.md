@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jániṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+kanīnakáḥ ← kanīnaká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+patáyat ← √pat- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+áruhan ← √ruh- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+daṁsánāḥ ← daṁsánā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+vīrúdhaḥ ← vīrúdh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+nivanā́ ← nivaná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+rīyante ← √rī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+áhne ← áhar ~ áhan- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+asmaí ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+patitvanám ← patitvaná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +230,4 @@ Geboren ward das Mädchen und der Knabe lief, und Pflanzen sprossen auf durch eu
 Для него текут реки, словно в низину.  
 В (счастливый) день для него происходит это супружество.
 </details>
+

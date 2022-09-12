@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arcī́ṁṣi ← arcís- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+aśret ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+jánima ← jániman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mā́nuṣāṇām ← mā́nuṣa- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dadr̥śe ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+divā́ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rócamānaḥ ← √ruc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+samáḥ ← samá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+kartŕ̥bhiḥ ← kartár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+kr̥táḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+súkr̥taḥ ← súkr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +239,4 @@ Weithin liess Surja seine Lichter strahlen in reicher Schar zu allen Menschenst�
 Он явился, сверкая, подобный небу.  
 Сотворенный силой духа, он был прекрасно создан творцами.
 </details>
+

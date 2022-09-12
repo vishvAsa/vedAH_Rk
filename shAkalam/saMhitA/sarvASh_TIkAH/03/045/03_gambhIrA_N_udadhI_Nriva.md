@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gambhīrā́n ← gambhīrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+udadhī́n ← udadhí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puṣyasi ← √puṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sugopā́ḥ ← sugopā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yathā ← yathā (invariable)  
+{}
+
+yávasam ← yávasa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āśata ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+hradám ← hradá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kulyā́ḥ ← kulyā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Wie tiefe Seen nimmst du auf den Krafttrunk wie der Rinder Schar; Wie gutbewacht
 Как дойные коровы с хорошим пастухом (идут) на пастбище,  
 Как ручьи (впадают) в озеро, (так) достигли (тебя соки сомы).
 </details>
+

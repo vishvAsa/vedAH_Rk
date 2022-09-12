@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ávaram ← ávara- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dadhiṣe ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+páram ← pára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ā́vitha ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jigatnū́ ← jigatnú- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+mātárā ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+sthāpayase ← √sthā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+átas ← átas (invariable)  
+{}
+
+inoṣi ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+kárvarā ← kárvara- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Du hast bewahrt das untre Gut, das obre, im Hause, wo mit deiner Huld du hold bi
 Ты удерживаешь двоих подвижных родителей,  
 Из-за этого ты совершаешь многие деяния.
 </details>
+

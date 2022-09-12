@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ádribudhnaḥ ← ádribudhna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+nidhíḥ ← nidhí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sarame ← sarámā- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+áśvebhiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nyr̥̀ṣṭaḥ ← √r̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vásubhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+paṇáyaḥ ← paṇí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rákṣanti ← √rakṣⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sugopā́ḥ ← sugopā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+álakam ← álakam (invariable)  
+{}
+
+jagantha ← √gam- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+padám ← padá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+réku ← réku- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +228,4 @@ Diese Schatzkammer auf felsigem Grund ist voll von Rindern, Rossen, Schätzen, o
 Напрасно пришла ты по оставленному следу.  
 Сарама:
 </details>
+

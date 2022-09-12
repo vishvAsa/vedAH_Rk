@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line
+#### Morph
+árdayaḥ ← √r̥d- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+atithigvám ← atithigvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āyúm ← āyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kútsam ← kútsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vāvr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+háryaśvam ← háryaśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatákratum ← śatákratu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+vājayántaḥ ← √vājay- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +176,4 @@ Der Aju, Kutsa und den Atithigva du bedrängt hast, wachsend Tag für Tag, Der h
 Тебя, такого, повелителя буланых коней, стоумного,  
 Мы зовем, жаждя награды.
 </details>
+

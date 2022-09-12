@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apūrvya ← ápūrvya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jā́yathāḥ ← √janⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mághavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥trahátyāya ← vr̥trahátya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+aprathayaḥ ← √prathⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+astabhnāḥ ← √stambhⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +173,4 @@ Als, unerreichter, du entsprangst, o mächtiger, zum Vritrakampf, Da dehntest du
 То распростер ты землю,  
 То укрепил также небо.
 </details>
+

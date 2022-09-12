@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+hávaḥ ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nakṣata ← √nakṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+kṣā́m ← kṣám- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+niṁsata ← √nas- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+śravasyatā́ ← √śravasy- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+cákṣāṇāḥ ← √cakṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇávanta ← √kr̥- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+svaíḥ ← svá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+vā́rebhiḥ ← vā́ra- 2 (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Es dringt ihr Ruf, der göttliche, zum Himmel, und küsst die Erde schatzbegier'
 Когда боги, появляясь для счастливого путешествия,  
 Действуют, как небо, со своими драгоценностями.
 </details>
+

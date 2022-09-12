@@ -18,16 +18,65 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yajñébhiḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+havyébhiḥ ← havyá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+śacīnām ← śácī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+śácīpate ← śácīpáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śréṣṭham ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́ryam ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vívakṣase ← √vac- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +196,4 @@ Dich gehen wir mit Opfern an, mit Sprüchen und mit Opferguss; O du der Kräfte 
 О повелитель сил, дай нам лучший избранный дар –  
 В опьянении (сомой) я хочу вам (это) провозгласить.
 </details>
+

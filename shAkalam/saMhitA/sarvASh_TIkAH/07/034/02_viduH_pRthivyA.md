@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+janítram ← janítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vidúḥ ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ádha ← ádha (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+kṣárantīḥ ← √kṣar- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+śr̥ṇvánti ← √śru- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +142,4 @@ Man kennt der Erde, – des Himmels Ursprung, die Wasser lauschen – in ihrem S
 Они знают место рожденья земли (и) неба:  
 Прислушиваются вбды, конечно, когда текут.
 </details>
+

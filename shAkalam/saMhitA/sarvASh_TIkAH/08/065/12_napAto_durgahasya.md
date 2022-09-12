@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+durgáhasya ← durgáha- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+nápātaḥ ← nápat- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sahásreṇa ← sahásra- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+surā́dhasaḥ ← surā́dhas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+akrata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +150,4 @@ Die Enkel des Durgaha mich tausendfach herrlich beschenkend, haben sich Ruhm bei
 Ко мне благодаря (своей) тысяче,  
 Создали себе славу среди богов.
 </details>
+

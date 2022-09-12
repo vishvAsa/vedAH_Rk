@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhr̥ṣanmanaḥ ← dhr̥ṣanmanas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhr̥ṣatā́ ← √dhr̥ṣ- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+asat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+árṣantu ← √arṣ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+jávasā ← jávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mātáraḥ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+hánaḥ ← √han- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+jáya ← √ji- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Mit diesem schiesse kühnlich, kühngesinnter du, erhabner Ruhm erstehe dir; Die
 Пусть быстро разольются воды-матери!  
 Убей Вритру! Завоюй небо!
 </details>
+

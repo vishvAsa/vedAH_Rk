@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+paprathānā́ ← √prathⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:MED}
+
+sumatíḥ ← sumatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ábhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhū́manā ← bhū́man- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+gaúḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pūrvyā́ ← pūrvyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ásurasya ← ásura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+sánīḷāḥ ← sánīḷa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bháraṇe ← bháraṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bíbhramāṇāḥ ← √bhr̥- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+samāné ← samāná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Es dehnte weit sich diese seine Huld aus; die erste Kuh entstand durch seine Fü
 В лоне этого асуры (находятся) (те, что) одного происхождения,  
 Что вынашиваются одинаковым вынашиванием.
 </details>
+

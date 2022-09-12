@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+párā ← párā (invariable)  
+{}
+
+uruṣyá ← √uruṣy- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+aghāyaté ← √aghāy- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+durādhyè ← durādhī́- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mártāya ← márta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,3 +137,4 @@ Schütze uns, o Wesenkenner, gib nicht hin uns dem Verfolger, Nicht dem bösgesi
 
 -ru-
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajirám ← ajirá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dūtyā̀ya ← dūtyà- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+īḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+havíṣmantaḥ ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+mā́nuṣāsaḥ ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sádam ← sádam (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ásadaḥ ← √sad- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+áhāni ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+bhavanti ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sudínā ← sudína- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Dich fordern stets, die Opferspeisen bringend, den emsigen, die Menschen auf zur
 На чью жертвенную солому ты уселся вместе с богами, о Агни,  
 Дни бывают для того светлыми.
 </details>
+

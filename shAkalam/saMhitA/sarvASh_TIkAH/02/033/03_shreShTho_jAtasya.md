@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+jātásya ← √janⁱ- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+rudra ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śréṣṭhaḥ ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śriyā́ ← śrī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tavásām ← tavás- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tavástamaḥ ← tavástama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vajrabāho ← vájrabāhu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pārám ← pārá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+párṣi ← √pr̥- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+abhī̀tīḥ ← abhī̀ti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rápasaḥ ← rápas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yuyodhi ← √yu- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Du bist an Schönheit schönster der gebornen, den Blitz im Arm, der starken st�
 Переправь нас благополучно по ту сторону нужды!  
 Отбей все преследования недуга!
 </details>
+

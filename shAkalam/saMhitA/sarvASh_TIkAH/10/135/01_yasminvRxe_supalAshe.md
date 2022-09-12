@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+supalāśé ← supalāśá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vr̥kṣé ← vr̥kṣá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sampíbate ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yamáḥ ← yamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśpátiḥ ← viśpáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+purāṇā́n ← purāṇá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+venati ← √ven- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +181,4 @@ Auf welchem schönbelaubten Baum dort Jama mit den Göttern trinkt, Da neigt sic
 Там наш отец, глава рода,  
 Озирается в поисках древних.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "पादनिचृत्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sákhīnām ← sákhi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jaritr̥̄ṇā́m ← jaritár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+bhavāsi ← √bhū- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +141,4 @@ Bald komme als Beschützer du der Freunde, der lobsingenden, Mit hundert Hülfen
 Как помощник (твоих) друзей-певцов  
 С сотней (твоих) поддержек!
 </details>
+

@@ -15,13 +15,65 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idhaté ← √idh- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dī́divaḥ ← √dī- 1 (root)  
+{case:VOC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+pā́vaka ← pāvaká- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śúkra ← śukrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vásiṣṭha ← vásiṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ebhíḥ ← ayám (pronoun)  
+{case:INS, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+staváthaiḥ ← stavátha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+syāḥ ← √as- 1 (root)  
+{number:SG, person:2, mood:OPT, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +196,4 @@ Den Männern, Agni, die dein Licht entzündet, o bester, heller, strahlender, en
 О лучший, светлый, пламенный, чистый, –  
 Благодаря этим (его) восхвалениям будь здесь также и у нас!
 </details>
+

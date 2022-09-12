@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+pā́jaḥ ← pā́jas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tasthe ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+jajñānám ← √janⁱ- (root)  
+{case:NOM, gender:N, number:SG, tense:PRF, voice:MED}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tiṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pratnéna ← pratná- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sákhyā ← sákhi- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+yújyena ← yújya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+dhr̥ṣṇo ← dhr̥ṣṇú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nudasva ← √nud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +247,4 @@ Des Unholds Andrang trat dir rings entgegen, dem hochgebornen; dem begegne schne
 С помощью своего старого друга-союзника  
 Ваджры смело оттолкни ее прочь!
 </details>
+

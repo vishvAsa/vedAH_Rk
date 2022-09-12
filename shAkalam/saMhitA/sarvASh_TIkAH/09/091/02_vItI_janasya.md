@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+divyásya ← divyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jánasya ← jána- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kavyaíḥ ← kavyá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vītī́ ← vītí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nahuṣyèbhiḥ ← nahuṣyà- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+suvānáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+amŕ̥taḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártyebhiḥ ← mártya- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+adbhíḥ ← áp- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ávibhiḥ ← ávi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+marmr̥jānáḥ ← √mr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Gepresst zum Mahl des himmlischen Geschlechtes ist Indu von der Menschen Prieste
 Который мощно начищается мужами, бессмертный смертными,  
 С помощью (цедилок) из овечьей шерсти, струй молока, вод.
 </details>
+

@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+gómatīḥ ← gómant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+divaḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitar ← duhitár- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sākám ← sākám (invariable)  
+{}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+arcíbhiḥ ← arcí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śócadbhiḥ ← √śuc- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+śukraíḥ ← śukrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áśvasūnr̥te ← aśvasūnr̥ta- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sújāte ← sujātá- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Und rinderreiche Labungen, o Himmelstochter, fahr zugleich Uns mit der Sonne Str
 С сверкающими, светлыми языками пламени (Агни),  
 О благородная, о щедро дающая коней!
 </details>
+

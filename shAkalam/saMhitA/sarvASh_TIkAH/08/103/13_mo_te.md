@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; 11 = 4+7, ending HLX  
 genre M  
 genre M  
 genre M
+#### Morph
+áchoktibhiḥ ← áchokti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+riṣan ← √riṣ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kébhiḥ ← ká- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+dūtyā̀ya ← dūtyà- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ī́ṭṭe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+kīríḥ ← kīrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+rātáhavyaḥ ← rātáhavya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svadhvaráḥ ← svadhvará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

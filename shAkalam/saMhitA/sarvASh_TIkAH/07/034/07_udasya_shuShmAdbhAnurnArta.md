@@ -14,12 +14,46 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M
+#### Morph
+ārta ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhānúḥ ← bhānú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śúṣmāt ← śúṣma- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+bhārám ← bhārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhū́ma ← bhū́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+bíbharti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Aus seinem Schnaufen – erhob's wie Glanz sich; wie Erde Wesen, – so trägt d
 Из ее бушевания будто луч поднялся.  
 Несет она груз, словно земля почву.
 </details>
+

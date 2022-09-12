@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+makhásya ← makhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+híraṇyapāṇibhiḥ ← híraṇyapāṇi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dévāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+gantana ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +154,4 @@ Mit goldbehuften Rossen kommt, o Götter, nun zu uns herbei, Den muntern Helden 
 Приезжайте, о боги,  
 На конях с золотыми подковами!
 </details>
+

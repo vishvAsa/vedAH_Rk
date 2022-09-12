@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánimiṣā ← ánimiṣ- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+acetásam ← acetás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cikitvā́ṁsaḥ ← √cit- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+nayanti ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+gādhám ← gādhá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+pravrājé ← pravrājá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pārám ← pārá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+parṣan ← √pr̥- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+viṣpitásya ← viṣpitá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Als muntre Wächter Himmels und der Erde, als weise führen sicher sie den Thore
 Даже в стремнине реки есть брод.  
 Пусть переправят они нас на другой берег этой опасности!
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ṣaṣṭíḥ ← ṣaṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+trís ← trís (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vāvr̥dhānā́ḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+rāśáyaḥ ← rāśí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+usrā́ḥ ← usrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yajñíyāsaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhāgadhéyam ← bhāgadhéya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+imaḥ ← √i- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+kr̥dhí ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +217,7 @@ Although the med. pf. of √vṛdh is ordinarily intransitive or reflexive, vāv
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 The da capo-like structure of the verses in this tṛca, with the first pāda repeated verbatim as the last one, is quite unusual.
@@ -182,3 +246,4 @@ Dir folgen dreimal sechzig starke Maruts, ehrwürdige, wie morgendliche Sterne; 
 
 -ru-
 </details>
+

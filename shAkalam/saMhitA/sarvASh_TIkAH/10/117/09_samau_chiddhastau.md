@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+cit ← cit (invariable)  
+{}
+
+hástau ← hásta- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+samám ← samá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samaú ← samá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+viviṣṭaḥ ← √viṣ- 2 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+duhāte ← √duh- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+samám ← samá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sammātárā ← sammātár- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+samā́ ← samá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vīryā̀ṇi ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yamáyoḥ ← yamá- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+jñātī́ ← jñātí- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+pr̥ṇītaḥ ← √pr̥̄- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+samám ← samá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sántau ← √as- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +255,4 @@ Die gleichen Hände wirken doch nicht gleiches; nicht gleiches saugen Kinder gle
 Даже у близнецов силы не одинаковы.  
 Неодинаково дарят двое даже кровных родных.
 </details>
+

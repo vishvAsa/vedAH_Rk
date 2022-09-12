@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhíśastīḥ ← abhíśasti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+adhamat ← √dhamⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+aśastihā́ ← aśastihán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+dyumnī́ ← dyumnín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yemire ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+bŕ̥hadbhāno ← br̥hádbhānu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+márudgaṇa ← marúdgaṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Der Fluchvertilger blies hinweg der Flucher Schar, da zeigte er sich kraftbegabt
 Боги держаться за дружбу с тобой, о Индра  
 С высоким блеском, сопровождаемый толпой Марутов.
 </details>
+

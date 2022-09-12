@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bhūyā́ḥ ← √bhū- (root)  
+{number:SG, person:2, mood:OPT, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+vánaspate ← vánaspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vīḍvàṅgaḥ ← vīḍvàṅga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmátsakhā ← asmátsakhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pratáraṇaḥ ← pratáraṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvī́raḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sáṁnaddhaḥ ← √nah- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vīḷáyasva ← √vīḍ- ~ √vīḷ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+āsthātā́ ← āsthātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jayatu ← √ji- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+jétvāni ← jétva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +190,7 @@ Because of the hí, I have made ab the causal foundation for the beginning of c.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
 <details open><summary><h2>26-31 ...{Loading}...</h2></summary>
 
 These vss. are repeated in the Aśvamedha section of several early Vedic ritual texts, directly after the 1st 14 vss. of the weapon hymn VI.75 (e.g., VS XXIX.52-57, TS IV.6.6.
@@ -176,3 +222,4 @@ O Wagengestell, sei fest an deinen Gliedern, uns ein Gefährte, vordringend, hel
 Ты связано коровьими (ремнями) – держись крепко!  
 Взошедший на тебя пусть завоюет добычу!
 </details>
+

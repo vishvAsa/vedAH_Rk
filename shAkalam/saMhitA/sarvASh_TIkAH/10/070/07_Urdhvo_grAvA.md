@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+grā́vā ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sámiddhaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áditeḥ ← áditi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+dhā́māni ← dhā́man- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+priyā́ ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+puróhitau ← puróhita- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+r̥tvijā ← r̥tvíj- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yajñé ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidúṣṭarā ← vidúṣṭara- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yajethām ← √yaj- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +204,4 @@ Hoch schwebt der Pressstein, hell entflammt ist Agni, lieb sind im Schooss der A
 , поставленные впереди на этом жертвоприношении,  
 Знающие больше других, добудьте богатство с помощью жертв.
 </details>
+

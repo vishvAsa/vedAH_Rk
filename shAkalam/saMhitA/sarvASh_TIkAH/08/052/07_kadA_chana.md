@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+caná ← caná (invariable)  
+{}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+yuchasi ← √yu- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+jánmanī ← jánman- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+ní ← ní (invariable)  
+{}
+
+pāsi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:N, number:DU}
+
+āditya ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hávanam ← hávana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indriyám ← indriyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+túrīya ← turī́ya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tasthau ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,8 +185,6 @@ genre M;; Vālakhilya
 पुनश् च सवनं विशिनष्टि - **दिवि** आदित्ये द्यु-लोके वा अमृतत्वेना **तस्थौ** आस्थितम् । नास्मिन् मृतं मरणमस्य वा नास्तीत्यमृतम् अमरणहेतुरित्यर्थः । 'नञो जरमरमित्रमृताः' इत्युत्तरपदाद्युदात्तत्वम् । यद्वा - दिवि हविर्धाने आतस्थौ, इदं सवनं हविर्धान एव समाप्यत इत्यर्थः । 'द्यौर्हविर्धानम्' इति च मन्त्रवर्णः । 'ऊडिदम्' इत्यादिना दिवो विभक्तिरुदात्ता । यद्वा - 'तस्यै चत्वार आदित्या अजायन्त' इति तुरीयादित्योस्त्येव, स एवात्रामन्त्र्यते ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -168,7 +218,6 @@ The pressing is thy strength, O fourth Aditya
 The ambrosia is ready in the sky.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Auch nicht einmal wirst du nachlässig. Du behütest die beiden Geschlechter. O vierter Aditya, die Anrufung ist bis zu deinem indrischen unsterblichen Namen im Himmel gedrungen.
@@ -186,3 +235,4 @@ Nimmer bist du fern; du schützest beide Geschlechter [Götter und Menschen]; o 
 О четвертый Адитья, этот призыв к тебе, передающий суть Индры,  
 Поднялся как напиток бессмертия на небо.
 </details>
+

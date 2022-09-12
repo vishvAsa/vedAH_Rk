@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+antár ← antár (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+urvī́ ← urú- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+śīrṣṇé-śīrṣṇe ← śíras- ~ śīrṣán- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vibabhā́ja ← √bhaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vibhaktā́ ← vibhaktár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gr̥ṇanti ← √gr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sravátaḥ ← sravát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+abhī́ke ← abhī́ka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+aśiśāt ← √śā- ~ śī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+yudhyāmadhím ← yudhyāmadhí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Dessen Ruhm sich zwischen den beiden weiten Welten verbreitet, der jedem Haupte 
 Они воспевают (его), как семь потоков – Индру.  
 В единоборстве он заколол Юдхьямадхи.
 </details>
+

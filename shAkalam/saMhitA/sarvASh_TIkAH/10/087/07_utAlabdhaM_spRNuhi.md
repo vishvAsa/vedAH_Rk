@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́labdham ← √labh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+spr̥ṇuhi ← √spr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+ālebhānā́t ← √labh- (root)  
+{case:ABL, gender:M, number:SG, tense:PRF, voice:MED}
+
+r̥ṣṭíbhiḥ ← r̥ṣṭí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yātudhā́nāt ← yātudhā́na- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jahi ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+pū́rvaḥ ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śóśucānaḥ ← √śuc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+adantu ← √ad- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+āmā́daḥ ← āmā́d- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+énīḥ ← éta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+kṣvíṅkāḥ ← kṣvíṅkā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Mach den ergriffnen frei, o Wesenkenner, vom Zaubrer, den mit Speeren du ergreif
 О Агни, сначала, вспыхивая, пришиби его!  
 Да сожрут его питающиеся падалью пестрые коршуны!
 </details>
+

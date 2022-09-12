@@ -17,15 +17,70 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámavān ← ámavant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rejayat ← √rej- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+svanáḥ ← svaná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+evayā́marut ← evayā́marut- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+taviṣáḥ ← taviṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tveṣáḥ ← tveṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yayíḥ ← yayí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥ñjáta ← √r̥j- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+sáhantaḥ ← √sah- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+svárociṣaḥ ← svárocis- (nominal stem)  
+{case:NOM, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+hiraṇyáyāḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sthā́raśmānaḥ ← sthā́raśman- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iṣmíṇaḥ ← iṣmín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svāyudhā́saḥ ← svāyudhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +245,4 @@ Gleich eurem ungestümen Lärm erschüttert der gewaltige Stier [Vischnu] der sc
 Крепкими вожжами, золотистые,  
 Хорошо вооруженные, со стрелами.
 </details>
+

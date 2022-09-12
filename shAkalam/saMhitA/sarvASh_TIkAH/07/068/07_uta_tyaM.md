@@ -15,13 +15,59 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+bhujyúm ← bhujyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+durévāsaḥ ← duréva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jahuḥ ← √hā- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+árāvā ← árāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+nís ← nís (invariable)  
+{}
+
+parṣat ← √pr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yuvā́kuḥ ← yuvā́ku- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +182,4 @@ Den Budschju auch, den böse Freunde mitten. im Meer verliessen, ihn kann selbst
 Злонравные бросили посреди моря.  
 Его спас (тот ранее) враждебный, кто предан вам двоим.
 </details>
+

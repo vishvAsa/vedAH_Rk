@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámr̥dhraḥ ← ámr̥dhra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pū́rvebhyaḥ ← pū́rva- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+śatasā́ḥ ← śatasā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+paryáyāḥ ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+sahasrasā́ḥ ← sahasrasā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+návyase ← návyas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sacante ← √sac- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Wie hundertfach und tausendfach den Vätern du Labung schafftest, Indu, unermüd
 Так очищайся для новой удачи!  
 Твоему завету следуют воды.
 </details>
+

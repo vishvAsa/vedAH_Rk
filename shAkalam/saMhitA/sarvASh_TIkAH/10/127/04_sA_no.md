@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yásyāḥ ← yá- (pronoun)  
+{case:GEN, gender:F, number:SG}
+
+ávikṣmahi ← √viś- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vasatím ← vasatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vr̥kṣé ← vr̥kṣá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +173,4 @@ Sei unser du, bei deren Nahn wir heute heimgewandert sind, Wie Vögel in des Bau
 С чьим приходом мы успокоились.  
 Как птицы – в гнезде на дереве!
 </details>
+

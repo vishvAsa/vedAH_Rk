@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+aghā́ ← aghá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+āré ← āré (invariable)  
+{}
+
+dadarśa ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+sthāpayanti ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yuñjánti ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+bharanti ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+tŕ̥ṇam ← tŕ̥ṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+udakám ← udaká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhuráḥ ← dhúr- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+pradédiśat ← √diś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vahati ← √vah- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +251,4 @@ Gefahr ist fern; wer hat ihn recht gesehen? den man sonst anschirrt, führt man 
 
 -ru-
 </details>
+

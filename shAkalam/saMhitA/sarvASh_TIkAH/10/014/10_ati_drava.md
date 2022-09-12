@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+áti ← áti (invariable)  
+{}
+
+drava ← √dru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sārameyaú ← sārameyá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śvā́nau ← śván- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+caturakṣaú ← caturakṣá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śabálau ← śabála- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sādhúnā ← sādhú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pitr̥̄́n ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+suvidátrān ← suvidátra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+mádanti ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sadhamā́dam ← sadhamā́da- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yaména ← yamá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Lauf graden Wegs vorbei an den zwei Hunden, der Sarama, die bunt sind und vierä
 И достигни отцов, которых легко найти,  
 Которые веселятся на общем пиру с Ямой!
 </details>
+

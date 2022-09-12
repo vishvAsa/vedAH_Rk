@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+r̥taspŕ̥śaḥ ← r̥taspŕ̥ś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+satyā́ḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+jáne-jane ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+r̥tā́vānaḥ ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sudā́navaḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sunīthā́saḥ ← sunīthá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aṁhóḥ ← aṁhú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+urucákrayaḥ ← urucákri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +179,4 @@ Denn wahre Pfleger heil'gen Rechts, sind heilig sie bei jedem Mann; Sie leiten s
 Добрые поводыри, добрые дарители,  
 Создающие широкий простор даже из узости.
 </details>
+

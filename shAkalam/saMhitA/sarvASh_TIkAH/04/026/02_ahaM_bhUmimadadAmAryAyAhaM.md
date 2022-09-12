@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adadām ← √dā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ā́ryāya ← ā́rya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhū́mim ← bhū́mi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mártyāya ← mártya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+anayam ← √nī- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vāvaśānā́ḥ ← √vāś- (root)  
+{case:ACC, gender:F, number:PL, tense:PRF, voice:MED}
+
+ánu ← ánu (invariable)  
+{}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kétam ← kéta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Dem Arier verlieh ich einst die Erde und Regenguss dem sterblichen Verehrer; Ich
 Я провел громко шумящие воды.  
 По моей воле пришли боги.
 </details>
+

@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayuji ← √yuj- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+dhurí ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+háyaḥ ← háya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+svayám ← svayám (invariable)  
+{}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+avasyúvam ← avasyú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pratáraṇīm ← pratáraṇa- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+vahāmi ← √vah- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+āvŕ̥tam ← āvŕ̥t- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+vaśmi ← √vaś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vimúcam ← vimúc- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+neṣati ← √nī- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+puraetā́ ← puraetár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥jú ← r̥jú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +249,4 @@ Ein kluges Pferd, schirr selbst ich an die Deichsel mich, und ziehe sie, die vor
 Я не хочу освободиться от него и повернуть назад.  
 Знаток пути, идущий впереди, пусть ведет прямо.
 </details>
+

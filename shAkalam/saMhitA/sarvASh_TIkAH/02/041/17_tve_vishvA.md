@@ -16,14 +16,51 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+sarasvati ← sárasvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́yūṁṣi ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+devyā́m ← devī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śritā́ ← √śri- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+matsva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+śunáhotreṣu ← śunáhotra- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+devi ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+didiḍḍhi ← √diś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prajā́m ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ O göttliche Sarasvatī, in dir ist alle Lebenskraft, Sei froh bei Çunahotra's 
 Опьянись у потомков Шунахотры!  
 Даруй нам потомство, о богиня!
 </details>
+

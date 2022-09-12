@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+háryamāṇaḥ ← √hr̥- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+haryasi ← √hr̥- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+návyaṁ-navyam ← návya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+asura ← ásura- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+haryatám ← haryatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pastyàm ← pastyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+āvís ← āvís (invariable)  
+{}
+
+háraye ← hári- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sū́ryāya ← sū́rya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Den beiden Welten bist du hold durch Herrlichkeit und hold dem lieben Liede, das
 О Асура, сделай явным желанное место обитания  
 Коровы для золотистого солнца!
 </details>
+

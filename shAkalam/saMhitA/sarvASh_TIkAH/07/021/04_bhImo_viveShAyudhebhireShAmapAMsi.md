@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́yudhebhiḥ ← ā́yudha- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+bhīmáḥ ← bhīmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+viveṣa ← √viṣ- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ápāṁsi ← ápas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+náryāṇi ← nárya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dūdhot ← √dhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+járhr̥ṣāṇaḥ ← √hr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+jaghāna ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vájrahastaḥ ← vájrahasta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Mit ihren Waffen schlug sie da der grause, er, welcher kennt die Mannesthaten al
 Раздраженный Индра сотряс (их) крепости.  
 С дубиной в руке он мощно разгромил (их).
 </details>
+

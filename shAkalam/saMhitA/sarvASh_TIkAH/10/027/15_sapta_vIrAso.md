@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+adharā́t ← adharā́t (invariable)  
+{}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+vīrā́saḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ajagmiran ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PLUPRF, voice:MED}
+
+aṣṭá ← aṣṭā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+uttarā́ttāt ← uttarā́ttāt (invariable)  
+{}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+náva ← náva- 1 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+paścā́tāt ← paścā́tāt (invariable)  
+{}
+
+sthivimántaḥ ← sthivimánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśnaḥ ← áśman- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prā́k ← prā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sā́nu ← sā́nu- ~ snú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tiranti ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +218,4 @@ Sieben Männer kamen von Süden herauf, acht von Norden her vereinigten sich mit
 
 -ru-
 </details>
+

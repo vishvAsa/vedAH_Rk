@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nāsatyau ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ávīvr̥dhat ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vatsáḥ ← vatsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásranirṇijam ← sahásranirṇij- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+dhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ghr̥taścútam ← ghr̥taścút- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +154,7 @@ with ghee.
 The first hemistich reprises 8cd, but in this vs. the poet asks for something in response to his strengthening hymns.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/008/15-16.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/008/15-16.md">
 <details open><summary><h2>15-16 ...{Loading}...</h2></summary>
 
 Another example of chained vocabulary: ghṛtaścút- ‘dripping with ghee’, which is reasonably appropriate both for ‘refreshment’ (íṣ-, 14) and ‘nourishment’ (ū́rj-, 16).
@@ -149,3 +186,4 @@ Dem Dichter Vatsa, treue ihr, der euch mit Liedern hat erfreut, Gebt tausendfach
 Наделите его тысячецветным  
 Подкреплением, сочащимся жиром!
 </details>
+

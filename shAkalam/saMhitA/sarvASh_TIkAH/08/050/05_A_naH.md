@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sóme ← sóma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+svadhvaré ← svadhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iyānáḥ ← √yā- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+tośate ← √tuś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+gūrtáyaḥ ← gūrtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+svádanti ← √svad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+svadāvan ← svadāvan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+chandayase ← √chand- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pauré ← paurá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +195,4 @@ Zu unserm schönen Soma eilt er wie ein rascher Renner hin; Den dir die Lieder s
 (Тот,) кого хвалы делают вкусным для тебя, о дарящий - сам по себе.  
 Тебе нравится приглашение к Пауре.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+ápi ← ápi (invariable)  
+{}
+
+átra ← átra (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+nahyāmi ← √nah- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ā́rtnī ← ā́rtnī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+jyáyā ← jyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+imā́n ← ayám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sedha ← √sidh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vā́caḥ ← vā́c- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ádharam ← ádhara- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mát ← ahám (pronoun)  
+{case:ABL, number:SG}
+
+vádān ← √vadⁱ- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +204,4 @@ Hier bind' ich euch, wie mit der Schnur die beiden Bogenenden fest; Wirf diese n
 О Повелитель речи, удержи их,  
 Чтобы они были ниже меня в споре!
 </details>
+

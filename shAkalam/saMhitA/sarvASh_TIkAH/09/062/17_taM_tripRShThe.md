@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tripr̥ṣṭhé ← tripr̥ṣṭhá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+trivandhuré ← trivandhurá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yā́tave ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
+yuñjanti ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ŕ̥ṣīṇām ← ŕ̥ṣi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +143,7 @@ The uninflected numeral ‘seven’ (saptá) is stationed between two pl. nouns,
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 Several elements link at least two of the vss. in the tṛca: the presence of vā́jain 16 and 18 (vā́jam 16b, vā́jāya 18b, vājínam 18c) and the dat. inf. yā́tave in 17b and 18b.
@@ -144,3 +172,4 @@ Dem Wagen, der drei Rücken hat, drei Sitze, schirren sie ihn an Zur Fahrt durch
 
 -ru-
 </details>
+

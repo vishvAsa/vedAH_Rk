@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+akṣī́bhyām ← ákṣ- (nominal stem)  
+{case:ABL, gender:N, number:DU}
+
+nā́sikābhyām ← nā́sikā- (nominal stem)  
+{case:ABL, gender:F, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+chúbukāt ← chúbuka- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+kárṇābhyām ← kárṇa- (nominal stem)  
+{case:ABL, gender:M, number:DU}
+
+mastíṣkāt ← mastíṣka- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śīrṣaṇyàm ← śīrṣaṇyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yákṣmam ← yákṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jihvā́yāḥ ← jihvā́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vr̥hāmi ← √vr̥h- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +169,4 @@ Aus deinem Augen, den Nasenlöchern, den Ohren, aus dem Gehirne und der Zunge tr
 Якшму головную – из мозга,  
 Из языка я вырываю у тебя!
 </details>
+

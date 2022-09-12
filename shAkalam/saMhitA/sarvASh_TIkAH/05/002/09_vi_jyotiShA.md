@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhāti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+br̥hatā́ ← br̥hánt- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+āvís ← āvís (invariable)  
+{}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ádevīḥ ← ádeva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+durévāḥ ← duréva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+māyā́ḥ ← māyā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sahate ← √sah- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+rákṣase ← rákṣas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+śíśīte ← √śā- ~ śī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+śŕ̥ṅge ← śŕ̥ṅga- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+viníkṣe ← √nikṣ- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +191,6 @@ ________________
 किञ्च - शृङ्गे शृङ्गस्थानीये आत्मीये प्रधाने ज्वाले शत्रूणां वा हिंसके शिशीते तीक्ष्णीकुर्यात् । किमर्थम्? रक्षसे विनिक्षे रक्षसो विनाशार्थं ज्वालाभ्यां निक्षणं चुम्बनं शोधनं वा विनाशोवेति स एव महानुभावोग्निरनुगमनदोषमुपशमय्यात्मनः परापतितं ज्योतिरवरुन्ध इति ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -186,3 +240,4 @@ Mit hellem Glanze strahlet weithin Agni, in Herrlichkeit macht alles offenbar er
 Он осиливает безбожные колдовские чары, действующие во зло.  
 Он оттачивает рога, чтобы пронзить ракшаса.
 </details>
+

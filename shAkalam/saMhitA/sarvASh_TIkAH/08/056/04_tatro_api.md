@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+anīyata ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:PASS}
+
+ápi ← ápi (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+tátra ← tátra (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+pūtákratāyai ← pūtákratā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vyàktā ← √añj- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+áśvānām ← áśva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+yūthyā̀m ← yūthyà- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +149,4 @@ Da wurde auch der Pūtakratā eine schöngeschmückte Stute vorgeführt, die nic
 Для Путакрайи украшенную (кобылу),  
 Как если бы она принадлежала к табуну коней.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+hí ← hí (invariable)  
+{}
+
+pracetasaḥ ← prácetas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vāmásya ← vāmá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ī́śānāsaḥ ← √īś- (root)  
+{case:VOC, gender:M, number:PL, voice:MED}
+
+riśādasaḥ ← riśā́das- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ādityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+aghásya ← aghá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +146,4 @@ Denn über Schatz gebietet ihr, o weise, Feindverzehrer ihr, Aditja's, den der F
 
 -ru-
 </details>
+

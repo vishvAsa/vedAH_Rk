@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āyóḥ ← āyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śukré ← śukrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+agman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+rāspirā́saḥ ← rāspirá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vipanyávaḥ ← vipanyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rātáhavyāḥ ← rātáhavya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suśévyam ← suśévya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mr̥janti ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+śíśum ← śíśu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāsé ← vāsá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Zum höchsten Ort der Mutter und zum hellsten des regen gingen jauchzend hin die
 С поклонением, принося жертвы, они украшают  
 Милого, словно Аю – ребенка в (своем) жилище.
 </details>
+

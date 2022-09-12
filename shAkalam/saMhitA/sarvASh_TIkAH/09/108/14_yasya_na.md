@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+píbāt ← √pā- 2 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+aryamáṇā ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+kárāmahe ← √kr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+mitrā́váruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +199,7 @@ The nom., acc., voc., and gen. pl. of marút- do not fit any standard RVic caden
 marúdbhyaḥ are regularly found in cadences, the other forms are almost entirely absent. Pāda b has a nom. pl. in the cadence (made worse by the fact that the word is preceded by a light syllable, (yá)sya. VII.32.10 has the same sequence, also in a double yásya construction. Most of the few other cadential forms are found in dimeter vs. (e.g., VIII.3.21, VIII.7.30).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/13-14.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/13-14.md">
 <details open><summary><h2>13-14 ...{Loading}...</h2></summary>
 
 The main cl. in these two vss. consists of the first two words of 13, sá sunve “he is pressed,” followed by a series of rel. cl. that fill the rest of 13 (four yáḥ clauses, all nominal, with a single predicate ānetā́and four dependent genitives) and all of 14 (three yásya clause, one yéna, with one finite verb for the yásya cl. and one for the yéna).
@@ -176,3 +231,4 @@ Den unser Indra trinken soll, die Marutschar und Bhaga, nebst dem Arjaman, Durch
 Благодаря кому мы привлечем к себе Митру и Варуну,  
 Индру – для великой помощи:
 </details>
+

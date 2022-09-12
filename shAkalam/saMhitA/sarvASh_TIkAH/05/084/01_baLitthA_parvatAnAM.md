@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+báṭ ← báṭ (invariable)  
+{}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+párvatānām ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+bibharṣi ← √bhr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+khidrám ← khidrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥thivi ← pr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+bhū́mim ← bhū́mi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pravatvati ← pravátvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+jinóṣi ← √ji- 2 ~ jinv- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mahini ← mahín- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +189,4 @@ Ja du, o Erde, trägst fürwahr der hohen Berge schwere Wucht; Die holde du, an 
 (Ты,) что оживляешь почву,  
 (Своим) могуществом, о отлогая, о могучая.
 </details>
+

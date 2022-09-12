@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+satrāsā́ham ← satrāsáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ā́yatam ← √yam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+gīrṣú ← gír- ~ gīr- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+víśvāsu ← víśva- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cyāvayasi ← √cyu- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ Ihn, euren allbezwingenden, den man zu allen Liedern lenkt, Ihn treibest du zur 
 
 -ru-
 </details>
+

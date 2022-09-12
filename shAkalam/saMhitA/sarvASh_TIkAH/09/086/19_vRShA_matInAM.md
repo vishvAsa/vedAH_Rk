@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+matīnā́m ← matí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áhnaḥ ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pratarītā́ ← pratarītár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+avīvaśat ← √vāś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+kaláśān ← kaláśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+krāṇā́ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+síndhūnām ← síndhu- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+āviśán ← √viś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+hā́rdi ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+manīṣíbhiḥ ← manīṣín- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +193,7 @@ should be made, but I make the opposite choice to Geldner’s. In the passage he
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 No obvious signs of unity. The instr. manīṣíbhiḥ is found at the end of 19 and immediately afterwards at the beginning of 20. The dawn(s) and the rivers are found in both 19 and 21, but not in mutually reinforcing ways. As for external connections, the “partnership” (sakhyá-) of Indra and Vāyu in 20 is reminiscent of the companions/partners (implicitly Soma and Indra) in 16b. There are various lexical echoes (e.g., vicakṣaṇáḥ 19a = 11b), but the limited vocab. of the Soma hymns makes this unremarkable.
@@ -170,3 +222,4 @@ Weitschauend rieselt Soma, der Gebete Herr, des Tags, des Morgens und des Himmel
 
 -ru-
 </details>
+

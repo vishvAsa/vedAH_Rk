@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+puruspŕ̥haḥ ← puruspŕ̥h- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+váso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+iṣáḥ ← íṣ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+nédiṣṭhatamāḥ ← nédiṣṭhatama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+adhrigo ← ádhrigu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sumnásya ← sumná- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+syā́ma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +182,4 @@ Lass, Guter, diesem deinem Gut, dem vielbegehrten Labetrunk, Uns deiner Huld die
 Как самые близкие – к жертвенным усладам,  
 К милости, о безудержный!
 </details>
+

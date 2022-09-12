@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+dháneṣu ← dhána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+hitéṣu ← √dhā- 1 (root)  
+{case:LOC, gender:M, number:PL, non-finite:PPP}
+
+ít ← ít (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+adhivākā́ya ← adhivāká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+havante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jayanti ← √ji- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yéṣām ← yá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Diesen rufen sie um Schutz an, wenn des Kampfes Preis gesetzt ist; Sieger sind d
 Зовут для заступничества.  
 На чьей стороне Индра, те побеждают.
 </details>
+

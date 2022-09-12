@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+madiréṇa ← madirá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mandínā ← mandín- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vadanti ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+anā́ ← anā́ (invariable)  
+{}
+
+avidan ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+króśantaḥ ← √kruś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+anartiṣuḥ ← √nr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saṁrábhya ← √rabh- (root)  
+{non-finite:CVB}
+
+svásr̥bhiḥ ← svásar- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+āghoṣáyantaḥ ← √ghuṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+upabdíbhiḥ ← upabdí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +190,4 @@ Sie singen kräftig mit dem Trank, der sie berauscht, nach Indra rufend, denn si
 
 -ru-
 </details>
+

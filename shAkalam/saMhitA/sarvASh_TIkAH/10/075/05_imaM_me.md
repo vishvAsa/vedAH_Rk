@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gaṅge ← gaṅgā- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sarasvati ← sárasvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+yamune ← yamúnā- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+páruṣṇi ← paruṣá- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sacata ← √sac- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śútudri ← śutudrī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+asiknyā́ ← ásita- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+marudvr̥dhe ← marúdvr̥dha- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vitástayā ← vitástā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́rjīkīye ← ārjīkī́ya- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+śr̥ṇuhí ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+suṣómayā ← suṣóma- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Empfangt mein Loblied, Çutudri, Sarasvati, o Ganga du und Jamuna, Paruschni auc
 О Марудвридха с Асикни, с Витастой,  
 О Арджикия с Сушомой, слушай(те)!
 </details>
+

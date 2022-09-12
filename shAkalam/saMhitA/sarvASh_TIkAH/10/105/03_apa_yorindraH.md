@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pā́paje ← √pāj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yóḥ ← yá- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+bibhīvā́n ← √bhī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+śaśramāṇáḥ ← √śramⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+śubhé ← śúbh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+táviṣīvān ← táviṣīvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yuyujé ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +171,4 @@ Vor denen beiden [Rossen] Indra zurückscheute, wie ein ermüdeter sich fürchte
 Как усталый смертный, испуганный,  
 Когда (бог,) наделенный силой, запрягает (этих коней) для блеска.
 </details>
+

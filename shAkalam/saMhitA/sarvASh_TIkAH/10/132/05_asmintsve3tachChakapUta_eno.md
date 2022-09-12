@@ -16,14 +16,72 @@ ChandaH = "विराड्रूपा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+énaḥ ← énas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+śákapūte ← śákapūta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+hanti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hité ← √hi- (root)  
+{case:LOC, gender:N, number:SG, non-finite:PPP}
+
+mitré ← mitrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+nígatān ← √gam- (root)  
+{case:ACC, gender:M, number:PL, non-finite:PPP}
+
+vīrā́n ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+avóḥ ← ayám (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+dhā́t ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+tanū́ṣu ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+árvā ← árvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+priyā́su ← priyá- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yajñíyāsu ← yajñíya- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +216,4 @@ Bei diesem Çakapūta ist ja diese Sünde: Er tödtet die Männer, die zu dem li
 Или когда скаковой конь приносит помощь от вас двоих  
 Любимым достойным жертв телам.
 </details>
+

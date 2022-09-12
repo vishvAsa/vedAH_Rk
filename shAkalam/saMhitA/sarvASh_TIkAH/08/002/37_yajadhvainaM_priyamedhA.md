@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+priyamedhāḥ ← priyámedha- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yájadhva ← √yaj- (root)  
+{tense:PRS}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+satrā́cā ← satrā́ñc- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+bhū́t ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+satyámadvā ← satyámadvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaiḥ ← sóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +157,4 @@ O verehrt ihn, Prijamedha's, Indra mit gespanntem Geiste, Der vom Soma recht ber
 Индре – с духом, устремленным к одной цели,  
 (Тому,) кто будет истинно опьянен!
 </details>
+

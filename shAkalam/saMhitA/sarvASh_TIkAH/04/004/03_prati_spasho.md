@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+práti ← práti (invariable)  
+{}
+
+spáśaḥ ← spáś- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sr̥ja ← √sr̥j- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tū́rṇitamaḥ ← tū́rṇitama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ádabdhaḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asyā́ḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pāyúḥ ← pāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśáḥ ← víś- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+agháśaṁsaḥ ← agháśaṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánti ← ánti (invariable)  
+{}
+
+dūré ← dūrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dadharṣīt ← √dhr̥ṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRF, voice:ACT}
+
+mā́kis ← mā́kis (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vyáthiḥ ← vyáthi- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +216,6 @@ genre M
 Dispatch your spies forward, the fast moving one, being undeceived, the guardian of this people \[the Aryas\]. From him who, near or far, is bent on evil, O agni let no trouble sent over overcome us.
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -175,7 +241,7 @@ Geldner renders d “keiner soll es wagen, dich irrezuführen,” but vyáthiḥ
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/004/02-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/004/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
 Note the preverb chaining: 2d ví sṛja, 3a práti … ví sṛja, 4b práti.
@@ -220,3 +286,4 @@ Zum Schutze sende eilig deine Späher, sei zuverläss'ger Hüter dieses Hauses; 
 Кто вдалеке говорит о нас злое, кто вблизи,  
 О Агни, ни один пусть не дерзнет помешать твоему метанию!
 </details>
+

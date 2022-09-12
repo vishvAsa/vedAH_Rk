@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitā́ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pratīcī́ ← pratyáñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ápsaḥ ← ápsas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+riṇīte ← √rī- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vā́ryāṇi ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vyūrṇvatī́ ← √vr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+akar ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+pūrváthā ← pūrváthā (invariable)  
+{}
+
+yuvatíḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Des Himmels Tochter, zugewandt den Männern, lässt fallen wie die schöne Braut
 Раскрывая желанные дары для (своего) почитателя,  
 Юная жена снова создала свет, как прежде.
 </details>
+

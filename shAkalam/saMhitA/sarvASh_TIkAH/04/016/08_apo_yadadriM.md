@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+dárdar ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āvís ← āvís (invariable)  
+{}
+
+bhuvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sarámā ← sarámā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhū́rim ← bhū́ri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+darṣi ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+netā́ ← netár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áṅgirobhiḥ ← áṅgiras- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gotrā́ ← gotrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ruján ← √ruj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +233,7 @@ Verse-final gṛṇānáḥ has an exact match at the end of vs. 1, and this bit
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/016/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/016/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these two vss. tease apart the Vala and Vṛtra myths that have been intertwined in the previous vss., with the Vṛtra myth allotted to vs. 7 and the Vala myth to vs. 8. But even with the clear mention of Vṛtra in 7a and Saramā in 8b, there is some ambiguity, centered on the apó beginning 8a. See comm. on vs. 8.
@@ -200,3 +264,4 @@ Als du zerbrachst des Wassers Fels, gepries'ner, ging Sarama voran als deine Bot
 Как вождь открой нам богатую добычу,  
 Разбивая загоны с коровами, воспеваемый Ангирасами!
 </details>
+

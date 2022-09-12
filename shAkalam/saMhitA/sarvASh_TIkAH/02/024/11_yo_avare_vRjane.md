@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávare ← ávara- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vibhúḥ ← vibhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśváthā ← viśváthā (invariable)  
+{}
+
+vr̥jáne ← vr̥jána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mahā́m ← máh- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+raṇváḥ ← raṇvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+vavákṣitha ← √vakṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+paprathe ← √prathⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+pr̥thú ← pr̥thú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+paribhū́ḥ ← paribhū́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+u ← u (invariable)  
+{}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +244,4 @@ Der mächtig du im untern Opferplatze stets gewachsen bist, erfreuend unter gros
 Этот бог далеко распространился по сравнению с (другими) богами:  
 Все эти (миры) обьял Брахманаспати.
 </details>
+

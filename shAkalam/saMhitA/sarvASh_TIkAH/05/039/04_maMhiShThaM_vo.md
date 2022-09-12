@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+maghónām ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+máṁhiṣṭham ← máṁhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+rā́jānam ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+práśastaye ← práśasti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jujuṣe ← √juṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+pūrvī́bhiḥ ← purú- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +162,4 @@ Ihm, der der Reichen reichster ist, dem König der Lebendigen, Dem Indra mach' z
 Я при(глашаю) для прославления.  
 Он наслаждается песнями благодаря многим (прославлениям).
 </details>
+

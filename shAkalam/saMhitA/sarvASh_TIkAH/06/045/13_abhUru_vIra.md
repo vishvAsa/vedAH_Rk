@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ábhūḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+vīra ← vīrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dháne ← dhána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+hité ← √dhā- 1 (root)  
+{case:LOC, gender:N, number:SG, non-finite:PPP}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bháre ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vitantasā́yyaḥ ← vitantasā́yya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ Du Indra, hochgepriesner Held, bist gross, wenn Kampfes Preis es gilt, Du, den i
 О Индра, когда (была) установлена ставка:  
 При захвате добычи тебя рвут друг у друга.
 </details>
+

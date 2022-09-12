@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+catínam ← catín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śākaíḥ ← śāká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+huvema ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+ihá ← ihá (invariable)  
+{}
+
+nūnám ← nūnám (invariable)  
+{}
+
+vājayántaḥ ← √vājay- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+āsúḥ ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+jaritā́raḥ ← jaritár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+anavadyā́ḥ ← anavadyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánedyāḥ ← ánedya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áriṣṭāḥ ← áriṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Der sich verbarg mit seinen Helden, Indra, ihn rufen wir euch her nun Gut begehr
 (Такие же точно,) как были прежние певцы:  
 Безупречные, беспорочные, невредимые.
 </details>
+

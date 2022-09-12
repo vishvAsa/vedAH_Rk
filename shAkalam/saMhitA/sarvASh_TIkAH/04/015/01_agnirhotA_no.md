@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nīyate ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+pári ← pári (invariable)  
+{}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yajñíyaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -94,8 +128,6 @@ genre M;; repeated line
 agni, the hotar, being the booty bearing horse, is led around in our sacrifice; a deva to be worshipped amongst the devas.
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -145,3 +177,4 @@ Herumgeführt wird bei dem Fest als Priester Agni wie ein Ross, Der Gott bei Gö
 Обводится вокруг (алтаря), словно конь, приносящий награду,  
 Бог среди богов, достойный жертв.
 </details>
+

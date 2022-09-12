@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánniyate ← √anniy- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bhárāt ← √bhr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+átithim ← átithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mandrám ← mandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+niśíṣan ← √śās- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:ACT}
+
+udī́rat ← √īr- (root)  
+{case:NOM, gender:N, number:SG, tense:AOR, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devayúḥ ← devayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+inádhate ← √idh- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dā́svān ← dā́svant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhruváḥ ← dhruvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Wer dir, wenn du begehrst, die Speise darbringt, den Freudentrunk dir reicht, de
 (И,) любя богов, зажигает (тебя) в доме (своем),  
 У того богатство пусть будет прочным (и) щедрым!
 </details>
+

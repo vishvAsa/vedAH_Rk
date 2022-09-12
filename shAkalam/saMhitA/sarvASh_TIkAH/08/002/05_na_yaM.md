@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+dúrāśīḥ ← dúrāśir- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+śukráḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tr̥prā́ḥ ← tr̥prá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uruvyácasam ← uruvyácas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apaspr̥ṇvaté ← √spr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+suhā́rdam ← suhā́rda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +157,4 @@ Den nicht dünnes, schlechtgemischtes, schäumendes Gebräu erfreuet, Ihn, den b
 Ни терпкие (соки) не отвращают,  
 (Его,) огромного с крепким сердцем:
 </details>
+

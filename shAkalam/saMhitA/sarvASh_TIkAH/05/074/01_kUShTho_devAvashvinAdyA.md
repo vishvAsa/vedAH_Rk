@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+devau ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+kū́ ← kū́ (invariable)  
+{}
+
+sthaḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+adyá ← adyá (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+manāvasū ← manāvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śravathaḥ ← √śru- (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ṣaṇvasū ← vŕ̥ṣaṇvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+átriḥ ← átri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vivāsati ← √vanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +177,4 @@ Wo seid ihr Ritter heut am Tag, o treugesinnte Götter ihr? O heldenstarke, dies
 Вы должны услышать это, о богатые конями:  
 Атри хочет вас залучить.
 </details>
+

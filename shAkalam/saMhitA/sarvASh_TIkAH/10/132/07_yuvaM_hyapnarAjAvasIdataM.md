@@ -17,15 +17,70 @@ ChandaH = "महासतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+apnarā́jau ← apnarā́j- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ásīdatam ← √sad- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+dhūrṣádam ← dhūrṣád- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tíṣṭhat ← √sthā- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+vanarṣádam ← vanarṣád- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kaṇūkayántīḥ ← √kaṇūkaya- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+nr̥médhaḥ ← nr̥médha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tatre ← √trā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+sumédhaḥ ← sumédha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tatre ← √trā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Ihr beide ja habt euch niedergelassen als Herren des Reichthums, wie einer, der 
 Нримедха спас от беды,  
 Сумедха спас от беды.
 </details>
+

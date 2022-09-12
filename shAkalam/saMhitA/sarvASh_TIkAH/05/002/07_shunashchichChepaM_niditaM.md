@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+níditam ← √dā- 4 (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+sahásrāt ← sahásra- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+śépam ← śépa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śúnaḥ ← śván- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+amuñcaḥ ← √muc- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+áśamiṣṭa ← √śamⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+hí ← hí (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yū́pāt ← yū́pa- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, gender:M, number:PL}
+
+evá ← evá (invariable)  
+{}
+
+mumugdhi ← √muc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+pā́śān ← pā́śa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+cikitvaḥ ← √cit- (root)  
+{case:VOC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+hótar ← hótar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+niṣádya ← √sad- (root)  
+{non-finite:CVB}
+
+tú ← tú (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +246,4 @@ Den Çunaççepa, den gebundnen, löstest von tausend Pfosten du; denn dringend 
 Также и нас, о Агни, освободи от петель,  
 Усевшись здесь, о знающий хотар!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhavam ← √bhū- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+mánuḥ ← mánu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+asmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+kakṣī́vān ← kakṣī́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ārjuneyám ← ārjuneyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kútsam ← kútsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+r̥ñje ← √r̥j- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+páśyata ← √paś- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+uśánā ← uśánā- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +242,4 @@ Ich ward Manu und ich Surya; ich bin Kasivat, der redegewaltige Rishi. Ich nöti
 Я покорил Кутсу, сына Арджуны.  
 Я – Кави Ушанас. Взгляните на меня!
 </details>
+

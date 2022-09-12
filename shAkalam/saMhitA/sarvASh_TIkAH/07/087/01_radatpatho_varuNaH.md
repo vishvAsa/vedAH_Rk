@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+rádat ← √rad- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+sū́ryāya ← sū́rya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árṇāṁsi ← árṇas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+nadī́nām ← nadī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+samudríyā ← samudríya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+árvatīḥ ← árvatī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+r̥tāyán ← √r̥tāy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sárgaḥ ← sárga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sr̥ṣṭáḥ ← √sr̥j- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+áhabhyaḥ ← áhar ~ áhan- (nominal stem)  
+{case:DAT, gender:N, number:PL}
+
+avánīḥ ← aváni- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+cakā́ra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Der Sonne bahnte Varuna die Pfade und liess zum Meer die Stromesfluten rinnen; W
 Словно скаковых кобылиц, (чей) бег отпущен, (он,) соблюдающий закон.  
 Он создал могучие русла для (течения) дней.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ásarji ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+ráthyaḥ ← ráthya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yathā ← yathā (invariable)  
+{}
+
+camvòḥ ← camū́- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+akramīt ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+kā́rṣman ← kā́rṣman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +146,4 @@ Schon eilt er wie ein Wagenross ins Sieb vom Bretterpaar gepresst, Der Renner l�
 
 -ru-
 </details>
+

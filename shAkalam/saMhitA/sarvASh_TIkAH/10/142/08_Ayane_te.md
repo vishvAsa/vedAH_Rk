@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+ā́yane ← ā́yana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+parā́yaṇe ← parā́yaṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dū́rvāḥ ← dū́rvā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+puṣpíṇīḥ ← puṣpín- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+rohantu ← √ruh- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+hradā́ḥ ← hradá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+puṇḍárīkāṇi ← puṇḍárīka- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+gr̥hā́ḥ ← gr̥há- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+samudrásya ← samudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +164,4 @@ Bei deinem Ankommen und Weggehen mögen blütenreiche Hirsengräser emporsteigen
 (Возникнут) пруды и белые лотосы!  
 Это дом моря.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+śáśīyasī ← śáśīyaṁs- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+strī́ ← strī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tvā ← tva- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+puṁsáḥ ← púmaṁs- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vásyasī ← vásyaṁs- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ádevatrāt ← ádevatra- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+arādhásaḥ ← arādhás- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -96,10 +124,10 @@ if he’s estranged from the gods, ungenerous—
 
 <details><summary>Jamison Brereton Notes</summary>
 
-The comparative śáśīyas- is attested only twice in the RV, here and in IV.32.3. Though they have different senses in the two passages (‘more reliable’ here, ‘more numerous’ there, at least by my interpr.), the semantic dev. from the positive śáśvant- ‘regularly recurring, in unbroken sequence, each and every’ to the two senses of the comp. is fairly straightforward. Here, regularly recurring > constant > reliable. In VIII.1.34 this development takes a sexual turn, with a śáśvatī nā́rī being one who is “ever ready” for sex (in my interpr.), and a sexual nuance is not ruled out in our passage either -- though here the emphasis is on her dependable qualities compared to the unsatisfactory man.
+The comparative śáśīyas- is attested only twice in the RV, here and in IV.32.3. Though they have different senses in the two passages (‘more reliable’ here, ‘more numerous’ there, at least by my interpr.), the semantic dev. from the positive śáśvant- ‘regularly recurring, in unbroken sequence, each and every’ to the two senses of the comp. is fairly straightforward. Here, regularly recurring &gt; constant &gt; reliable. In VIII.1.34 this development takes a sexual turn, with a śáśvatī nā́rī being one who is “ever ready” for sex (in my interpr.), and a sexual nuance is not ruled out in our passage either -- though here the emphasis is on her dependable qualities compared to the unsatisfactory man.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 As indicated in the published translation, I consider these vss. a digression reflecting on the character of women in general, motivated by the introduction of the winning woman in vs. 5.
@@ -130,3 +158,4 @@ Und manches Weib ist beständiger und besser als der Mann, der gottlos und gaben
 Бывает лучше мужчины,  
 Не поклоняющегося богам, не дающего даров,
 </details>
+

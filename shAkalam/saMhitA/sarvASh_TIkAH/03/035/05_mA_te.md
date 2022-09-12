@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+hárī ← hári- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+mā́ ← mā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vītápr̥ṣṭhā ← vītápr̥ṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vŕ̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+anyé ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+rīraman ← √ram- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+yájamānāsaḥ ← √yaj- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+atyā́yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śáśvataḥ ← śáśvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+áram ← áram (invariable)  
+{}
+
+kr̥ṇavāma ← √kr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+sómaiḥ ← sóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sutébhiḥ ← √su- (root)  
+{case:INS, gender:M, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Nicht mögen andre Opfrer deine Hengste die höckerlosen, goldigen ergötzen; An
 Проезжай мимо всех них! Мы хотим  
 Удовлетворить тебя выжатыми соками сомы.
 </details>
+

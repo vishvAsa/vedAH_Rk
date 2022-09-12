@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+dvā́rā ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+matīnā́m ← matí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+kārávaḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pratnā́ḥ ← pratná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥ṇvanti ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hárase ← háras- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +144,4 @@ Es thut der alten Sänger Schar die Thore der Gebete auf, Den Stier zu fassen ra
 Врата мыслей,  
 (Эти) Аю, для захвата быка.
 </details>
+

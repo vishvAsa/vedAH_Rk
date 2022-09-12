@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jihváyā ← jihvā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pāhi ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+yajatra ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+adhvaryóḥ ← adhvaryú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hástāt ← hásta- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+práyatam ← √yam- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+śakra ← śakrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+havíṣaḥ ← havís- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+hótuḥ ← hótar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+vā ← vā (invariable)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ O Indra, trink auf eigne Hand vom Safte, o hehrer, oder mit des Agni Zunge; Geni
 Или предложенного из руки адхварью, о могучий,  
 Или наслаждайся жертвой хотара, (его) возлиянием!
 </details>
+

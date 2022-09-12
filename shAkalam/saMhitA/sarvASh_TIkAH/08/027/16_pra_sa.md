@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kṣáyam ← kṣáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tirate ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+dā́śati ← √dāś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+várāya ← vára- 1 (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dhármaṇaḥ ← dhárman- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+jāyate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+prajā́bhiḥ ← prajā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+áriṣṭaḥ ← áriṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+edhate ← √idh- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sárvaḥ ← sárva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Der mehrt sein Gut und häuft sich grosse Nahrung an, wer eurem Willen huldiget,
 Он возрождается в потомстве, как положено,  
 Он процветает, целый и невредимый.
 </details>
+

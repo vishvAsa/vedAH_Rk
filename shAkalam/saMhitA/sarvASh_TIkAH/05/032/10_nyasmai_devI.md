@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jihīte ← √hā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+svádhitiḥ ← svádhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+gātúḥ ← gātú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+uśatī́ ← √vaś- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+yeme ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ābhiḥ ← ayám (pronoun)  
+{case:INS, gender:F, number:PL}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yuváte ← √yu- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ánu ← ánu (invariable)  
+{}
+
+kṣitáyaḥ ← kṣití- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+namanta ← √nam- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+svadhā́vne ← svadhā́van- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +220,4 @@ Ihm neigt sich nieder auch die Axt des Himmels, ihm gibt sich hin die Welt wie e
 Когда он испытывает на них всю (свою) силу,  
 Своевластному покоряются народы.
 </details>
+

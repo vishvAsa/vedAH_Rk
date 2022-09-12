@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árvataḥ ← árvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sárge ← sárga- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+codáyāse ← √cud- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+mahādhané ← mahādhaná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ádhvani ← ádhvan- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+asamané ← asamaná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pathí ← pánthā- ~ path- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vr̥jiné ← vr̥jiná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+śravasyatáḥ ← √śravasy- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+śyenā́n ← śyená- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +162,7 @@ mahādhané is repeated from 4c.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/13-14.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/13-14.md">
 <details open><summary><h2>13-14 ...{Loading}...</h2></summary>
 
 As was noted in the published introduction, this last pragātha stands somewhat apart from the rest of the hymn, though it does show connections with the beginning of the hymn. The near repetition found between the last two pragāthas (9-10 / 11-12; see disc. above) gave the sense that the hymn was coming to an end. As often, RVic poets seem to enjoy shaking up our structural expectations. The lack of a main clause in the whole of this two-vs. complex is especially striking and ends the hymn on an unsettled and somewhat frenzied note.
@@ -154,3 +194,4 @@ Wenn Indra mit des Renners Flug die gier'gen Rosse Adlern gleich Auf ungebahntem
 На неровной дороге, на кривом пути,  
 (Их, летящих), как соколы, стремясь к славе,
 </details>
+

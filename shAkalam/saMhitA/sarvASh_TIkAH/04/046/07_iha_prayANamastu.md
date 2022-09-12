@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+prayā́ṇam ← prayā́ṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+índravāyū ← indra-vāyú- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vimócanam ← vimócana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +147,4 @@ Hier, Indra-Vaju, fahret vor, hier spannet eure Rosse aus, Zu eurem Somatrunke h
 О Индра-Ваю, (да будет) распрягание (коней)  
 Здесь, чтобы вы пили сому!
 </details>
+

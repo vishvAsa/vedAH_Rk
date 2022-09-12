@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+daśasyántaḥ ← √daśasy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mr̥ḷantu ← √mr̥ḍ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+suméke ← suméka- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+varivasyántaḥ ← √varivasy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+āré ← āré (invariable)  
+{}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+gohā́ ← gohán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥hā́ ← nr̥hán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vadháḥ ← vadhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+namadhvam ← √nam- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sumnébhiḥ ← sumná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ I8 Сев (на свое место), хотар громко призывает
 (Он.) который является защитником такого (жертвователя), как этот.  
 Он, недвуличный, зовет вас (своими) гимнами.
 </details>
+

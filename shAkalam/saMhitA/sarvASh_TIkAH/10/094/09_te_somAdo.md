@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+niṁsate ← √nas- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+somā́daḥ ← somā́d- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+aṁśúm ← aṁśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āsate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+duhántaḥ ← √duh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+gávi ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dugdhám ← √duh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+papivā́n ← √pā- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+somyám ← somyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tébhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+práthate ← √prathⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vardhate ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vr̥ṣāyáte ← √vr̥ṣāy- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ Die Somafresser grüssen Indra's Rossepaar, die Pflanze melkend sitzen dort sie 
 
 -ru-
 </details>
+

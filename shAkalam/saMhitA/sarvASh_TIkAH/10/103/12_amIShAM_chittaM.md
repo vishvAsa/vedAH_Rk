@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+amī́ṣām ← asaú (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+cittám ← √cit- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+pratilobháyantī ← √lubh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+áṅgāni ← áṅga- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+apve ← apvā- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+gr̥hāṇá ← √gr̥hⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+párā ← párā (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+daha ← √dah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+hr̥tsú ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+śókaiḥ ← śóka- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+amítrāḥ ← amítra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+andhéna ← andhá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sacantām ← √sac- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+támasā ← támas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +211,4 @@ O Krankheit, fliehe fort zu jenen Feinden, den Sinn betäubend, ihre Glieder pac
 
 -ru-
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+jajā́na ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vidātha ← √vid- 1 (root)  
+{number:PL, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ántaram ← ántara- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+babhūva ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yuṣmā́kam ← tvám (pronoun)  
+{case:GEN, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+jálpyā ← jálpi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+nīhāréṇa ← nīhārá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+prā́vr̥tāḥ ← √vr̥- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+asutŕ̥paḥ ← asutŕ̥p- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ukthaśā́saḥ ← ukthaśás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Nie seht ihr den, der diese Welt erzeugte, ein andres nur erscheint in eurer Nä
 Скрытые туманом (и) шепотом,  
 Бродят исполнители, уносящие жизнь.
 </details>
+

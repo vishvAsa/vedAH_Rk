@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svayám ← svayám (invariable)  
+{}
+
+vidhartári ← vidhartár- (nominal stem)  
+{case:LOC, number:SG}
+
+ichati ← √iṣ- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víprāya ← vípra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+marmr̥jyáte ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yádi ← yádi (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +155,4 @@ Er selbst, der weise, wünschet dann dem Sänger Schätze zu verleihn, Wenn dies
 
 -ru-
 </details>
+

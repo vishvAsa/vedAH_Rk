@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ca ← ca (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nidé ← níd- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+váktave ← √vac- (root)  
+{case:DAT, number:SG}
+
+árāvṇe ← árāvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+randhīḥ ← √randh- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+ápi ← ápi (invariable)  
+{}
+
+krátuḥ ← krátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +171,4 @@ Nicht gib uns treue hin dem Neid, dem Schmäher, noch dem Geizigen; In dir allei
 Недоброжелательной речи врага!  
 Только в тебе моя сила духа!
 </details>
+

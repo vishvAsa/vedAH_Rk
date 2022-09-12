@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+aṅgiraḥ ← áṅgiras- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+káyā ← ká- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+napāt ← nápat- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+úpastutim ← úpastuti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ū́rjaḥ ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+manyáve ← manyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+várāya ← vára- 1 (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +162,4 @@ Wie sollen Agni Angiras, o Sohn der Kraft, wir Lob, o Gott, Dir bringen recht na
 О отпрыск питательной силы (сложить) восхваление  
 По твоему вкусу (и) буйному праву, о бог?
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśmadidyavaḥ ← áśmadidyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vidyúnmahasaḥ ← vidyúnmahas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+parvatacyútaḥ ← parvatacyút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́tatviṣaḥ ← vā́tatviṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abdayā́ ← abdayā́ (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+hrādunīvŕ̥taḥ ← hrādunīvŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+múhur ← múhur (invariable)  
+{}
+
+rabhasā́ḥ ← rabhasá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+stanáyadamāḥ ← stanáyadama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+údojasaḥ ← údojas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +207,4 @@ Blitzglänzend sind die Männer, Felsen schleudern sie, windschnell die Maruts, 
 Даже желая дать воду, в один миг покрываю (землю) градом,  
 Ошарашивающие громом, неистовые, развивающие силу.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hitáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+nīyate ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+ví ← ví (invariable)  
+{}
+
+antár ← antár (invariable)  
+{}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śubhrā́vatā ← śubhrā́vant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+bhū́rṇayaḥ ← bhū́rṇi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tuñjánti ← √tuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yádi ← yádi (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ Er wird entsandt und fortgeführt auf seinem glanzbegabten Weg, Wenn ihn ergiess
 Вглубь (сосуда) сверкающим путем,  
 Когда (его) выбивают усердные (жрецы).
 </details>
+

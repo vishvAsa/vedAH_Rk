@@ -15,13 +15,47 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+abhipitvé ← abhipitvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+arāraṇuḥ ← √ranⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+vr̥kṣā́ḥ ← vr̥kṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhajanta ← √bhaj- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mehánā ← mehánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhajanta ← √bhaj- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+mehánā ← mehánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +164,4 @@ Die Bäume selbst erfreuten sich bei meinem Nahn; Rinder schenkte man in Fülle,
 Их щедро одарили быком,  
 Щедро одарили конем.
 </details>
+

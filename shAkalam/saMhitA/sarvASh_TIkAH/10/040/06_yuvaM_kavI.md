@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+kavī́ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pári ← pári (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sthaḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+jaritúḥ ← jaritár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kútsaḥ ← kútsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+naśāyathaḥ ← √naśāy- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+víśaḥ ← víś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ha ← ha (invariable)  
+{}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mákṣā ← mákṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+āsā́ ← ā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+bharata ← √bhr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+niṣkr̥tám ← niṣkr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yóṣaṇā ← yóṣaṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +239,4 @@ Ihr Ritter haltet weise euren Wagen auf, wie Kutsa dringt ihr zu des Sängers St
 Это вам, о Ашвины, пчела ртом передала  
 Мед, как женщина (сообщает) место свидания.
 </details>
+

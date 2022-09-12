@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+vŕ̥kam ← vŕ̥ka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥kyàm ← vr̥kī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yāváya ← √yu- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+stenám ← stená- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrmye ← ū́rmyā- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+yaváya ← √yu- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sutárā ← sutára- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Halt ab die Wölfin und den Wolf, halt ab den Dieb, o wallende, Und führ uns si
 Удержи вора, о Ночь!  
 И будь легко проходящей для нас!
 </details>
+

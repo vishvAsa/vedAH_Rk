@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ī́ḷe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+vipaścítam ← vipaścít- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sā́dhanam ← sā́dhana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhitā́vānam ← dhitā́van- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śruṣṭīvā́nam ← śruṣṭīván- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +138,4 @@ Den weisen Agni preise ich, den Opfersegner mit Gesang, Der gern erhört und Gab
 Прозорливца, приводящего жертву к цели,  
 Прислушивающегося (к нам), (того,) в ком сложены (дары).
 </details>
+

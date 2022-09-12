@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+kṣáyāya ← kṣáya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pányase ← pányaṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá-pra ← prá (invariable)  
+{}
+
+adrúhe ← adrúh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+júṣṭaḥ ← júṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arṣa ← √arṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+cániṣṭhayā ← cániṣṭha- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vītī́ ← vītí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Auf, ströme zum berühmten Sitz, willkommen dem gerechten Mann Mit sehr beliebt
 Для удивительного жилища, для безобманного народа,  
 Ради самого привлекательного приглашения!
 </details>
+

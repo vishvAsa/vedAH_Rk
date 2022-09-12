@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhuraṇā ← bhuraṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ékasmin ← éka- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+samāné ← samāná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yóge ← yóga- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+gāt ← √gā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sravátaḥ ← sravát- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+deváyuktāḥ ← deváyukta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+subhvàḥ ← subhū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vāyanti ← √vā- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhūrṣú ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+taráṇayaḥ ← taráṇi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váhanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Mit einer Fahrt, einmal geschirrt, o schnelle, geh euer Wagen durch die sieben S
 Не устают могучие запряженные богами (кони,)  
 Которые тянут, рвясь вперед, ваше дышло.
 </details>
+

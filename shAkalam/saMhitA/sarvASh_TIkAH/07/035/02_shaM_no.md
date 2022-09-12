@@ -16,14 +16,90 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+śám ← śám (invariable)  
+{}
+
+śáṁsaḥ ← śáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+púraṁdhiḥ ← púraṁdhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rā́yaḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+śám ← śám (invariable)  
+{}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+śáṁsaḥ ← śáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satyásya ← satyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+suyámasya ← suyáma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+purujātáḥ ← purujātá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śám ← śám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,3 +280,4 @@ Zum Heile sei uns Bhaga, sei uns Çansa, zum Heil die Güter und die Segensfüll
 На счастье нам произнесение истины, легко управляемой!  
 На счастье нам пусть будет Арьяман, много раз рожденный!
 </details>
+

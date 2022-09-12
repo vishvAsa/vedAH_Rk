@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cakr̥ṣé ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+hí ← hí (invariable)  
+{}
+
+várdhanāni ← várdhana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tā́vat ← tā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+viviṣmaḥ ← √viṣ- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+śáṁtamāni ← śáṁtama- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sóme ← sóma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sutapāḥ ← sutapā́- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+kriyāsma ← √kr̥- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+rā́ṇḍyā ← rā́ṇḍya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vákṣaṇāni ← vákṣaṇa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +230,4 @@ Denn du hast dir Gebet erwählt als Labsal, so dienen wir dir, Indra, mit Gebete
 Когда выжат сома, о (ты,) пьющий сому, самые благодатные  
 ...усиления мы хотим создать (тебе) с помощью жертв!
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śiṣāmahi ← √śās- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:MED}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vajríṇe ← vajrín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dhr̥ṣṇáve ← dhr̥ṣṇú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nŕ̥tamāya ← nŕ̥tama- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+stuṣé ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ O Freunde, lasst uns ein Gebet dem blitzbewehrten Indra weihn; Gern sing' ich eu
 Молитву для Индры-громовержца.  
 Я хочу хорошенько восхвалить для вас самого мужественного, отважного.
 </details>
+

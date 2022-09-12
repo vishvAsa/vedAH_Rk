@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+aśret ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūrdhvám ← ūrdhvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhúvanāya ← bhúvana- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇván ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+víśvasmai ← víśva- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aprāḥ ← √prā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+cékitānaḥ ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Gott Savitar liess hoch die Strahlen steigen, der ganzen Welt das helle Licht ve
 Сурья заполнил небо и землю, воздушное пространство,  
 Давая о себе знать (своими) лучами.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+párvatānām ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+upásthāt ← upástha- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+uśatī́ ← √vaś- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+
+áśve ← áśvā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+hā́samāne ← √hās- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+víṣite ← √sā- ~ si- (root)  
+{case:NOM, gender:F, number:DU, non-finite:PPP}
+
+gā́vā ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+mātárā ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+rihāṇé ← √rih- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+śubhré ← śubhrá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+javete ← √jū- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śutudrī́ ← śutudrī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vípāṭ ← vípāś- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Vom Schooss der Berge eilen lustig vorwärts im Wettlauf wie zwei lossgelassne S
 Прекрасные, как две коровы, две матери, лижущие (своих телят),  
 Випаш и Шутудри со (своей) водой.
 </details>
+

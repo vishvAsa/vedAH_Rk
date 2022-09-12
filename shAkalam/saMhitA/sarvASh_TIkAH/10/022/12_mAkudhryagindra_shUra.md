@@ -16,14 +16,57 @@ ChandaH = "पुरस्ताद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+akudhryàk ← akudhryàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vásvīḥ ← vásu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+abhíṣṭayaḥ ← abhíṣṭi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+bhūvan ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayáṁ-vayam ← ahám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+sumné ← sumná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vajrivaḥ ← vajrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ Es mögen, Indra, deine guten Hülfen nie bei uns vergeblich sein, o Held; Wir, 
 Только мы пусть будем  
 У них в милости, о громовержец!
 </details>
+

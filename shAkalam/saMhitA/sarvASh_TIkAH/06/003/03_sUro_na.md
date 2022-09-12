@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arepā́ḥ ← arepás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dr̥śatíḥ ← dr̥śatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhīmā́ ← bhīmá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhī́ḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+éti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śucatáḥ ← √śuc- (root)  
+{case:GEN, gender:M, number:SG, tense:AOR, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aktóḥ ← aktú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+héṣasvataḥ ← héṣasvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śurúdhaḥ ← śurúdh- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+kútra ← kútra (invariable)  
+{}
+
+raṇváḥ ← raṇvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vanejā́ḥ ← vanejā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vasatíḥ ← vasatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +254,4 @@ Wenn strahlenreich mit hehrem Glanz du nahest, ganz fleckenlos an Aussehn wie di
 Устремляется к добыче – (тот) ночью не таков:  
 Веселый, где бы ни было (его) жилье, он рожден в дереве.
 </details>
+

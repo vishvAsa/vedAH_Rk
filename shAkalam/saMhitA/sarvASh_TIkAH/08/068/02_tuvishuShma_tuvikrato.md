@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+túvikrato ← tuvikratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+túviśuṣma ← tuviśúṣma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mate ← matí- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+śácīvaḥ ← śácīvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvayā ← víśva- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mahitvanā́ ← mahitvaná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+paprātha ← √prā- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +151,4 @@ Sehr mächtiger, vielwirkender, o starker, allbeachtender, Erfüllt hast alles G
 
 -ru-
 </details>
+

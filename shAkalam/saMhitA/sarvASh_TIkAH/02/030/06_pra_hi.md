@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vanutháḥ ← √vanⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vr̥háthaḥ ← √vr̥h- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+codaú ← codá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+radhrásya ← radhrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sthaḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yájamānasya ← √yaj- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+aviṣṭam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+índrāsomā ← índrāsóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+bhayásthe ← bhayástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kr̥ṇutam ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ulokám ← uloká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Denn Kraft vermehrt ihr, wenn ihr beide hold seid, die ihr den müden Opfrer kr�
 О Индра-Сома, помогите вы нам:  
 Создайте широкий выход из этого опасного положения!
 </details>
+

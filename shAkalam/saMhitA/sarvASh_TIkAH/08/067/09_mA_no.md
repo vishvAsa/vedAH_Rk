@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+mā́ ← mā́ (invariable)  
+{}
+
+mr̥cā́ ← mŕ̥c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ripūṇā́m ← ripú- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+aviṣyavaḥ ← aviṣyú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vr̥jinā́nām ← vr̥jiná- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+dévāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mr̥kṣata ← √mr̥ś- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ Nicht packt uns, die ihr gerne helft, o Götter, durch Beschäd'gung an der Fein
 Лживых врагов,  
 О боги, жаждущие помочь!
 </details>
+

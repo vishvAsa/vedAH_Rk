@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+puruvī́rasya ← puruvī́ra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śárman ← śárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+praṇetar ← praṇetár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+uruśáṁsasya ← uruśáṁsa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+adabdhāḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aditeḥ ← áditi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+putrāḥ ← putrá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+kṣamadhvam ← √kṣam- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+yújyāya ← yújya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ Wir sein in deinem Schutz, der reich an Helden weithin du waltest, Varuna, o Fü
 Вы, сыновья Адити, не поддающиеся обману,  
 Снизойдите до союзничества с нами, о боги!
 </details>
+

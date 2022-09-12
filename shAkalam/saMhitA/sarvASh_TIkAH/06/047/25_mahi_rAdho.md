@@ -14,12 +14,37 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+dádhānān ← √dhā- 1 (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:MED}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+viśvájanyam ← viśvájanya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ayaṣṭa ← √yaj- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+bharádvājān ← bharádvāja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sārñjayáḥ ← sārñjayá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,3 +130,4 @@ Die Bharadvadscher, welche grosses, allen zu Gute kommendes Geschenk empfingen, 
 Сын Сринджайи уважил Бхарадваджей,  
 Получивших великий почетный дар, предназначенный для всех людей.
 </details>
+

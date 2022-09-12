@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+nímiślaḥ ← nímiśla- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sóme ← sóma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+bráhmaṇi ← bráhman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śasyámāne ← √śaṁs- (root)  
+{case:LOC, gender:N, number:SG, tense:PRS, voice:PASS}
+
+stóme ← stóma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ukthé ← ukthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+háribhyām ← hári- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yuktā́bhyām ← √yuj- (root)  
+{case:INS, gender:M, number:DU, non-finite:PPP}
+
+bāhvóḥ ← bāhú- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+bíbhrat ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́si ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +239,4 @@ Du liebst, o Indra, ausgepressten Soma, Gebet und Loblied, hergesagte Sprüche, 
 Когда на паре буланых коней, о щедрый,  
 Ты выезжаешь, о Индра, держа ваджру в руках;
 </details>
+

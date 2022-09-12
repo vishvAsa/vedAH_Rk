@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+priyā́ ← priyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+hitáḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+naptyòḥ ← naptī́- (nominal stem)  
+{case:LOC, gender:F, number:DU}
+
+váyāṁsi ← váyas- 2 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kavíkratuḥ ← kavíkratu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvānáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +171,4 @@ Des Himmels weiser Seher wird ans Töchterpaar gefügt und geht Gepresst zu lieb
 Выжатый, проходит кругами любимые  
 Формы жизни, (он) с силой духа поэта.
 </details>
+

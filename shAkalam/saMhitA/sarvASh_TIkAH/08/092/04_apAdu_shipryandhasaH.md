@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ápāt ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+śiprī́ ← śiprín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+prahoṣíṇaḥ ← prahoṣín- (nominal stem)  
+{case:GEN, number:SG}
+
+sudákṣasya ← sudákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índoḥ ← índu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yávāśiraḥ ← yávāśir- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +156,4 @@ Den Soma trank der schlürfende, den kräftereichen Opfertrank, Den gerstgemisch
 
 -ru-
 </details>
+

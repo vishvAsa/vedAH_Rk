@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnáyaḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+idhānā́ḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+śóśucan ← √śuc- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+dvís ← dvís (invariable)  
+{}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+vāvr̥dhánta ← √vr̥dh- (root)  
+{number:PL, person:3, mood:INJ, tense:PRF, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+areṇávaḥ ← areṇú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+hiraṇyáyāsaḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhūvan ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+nr̥mṇaíḥ ← nr̥mṇá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+paúṁsyebhiḥ ← paúṁsya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sākám ← sākám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Sie, die erstrahlten wie entflammte Feuer, die Maruts, als sie zwiefach, dreifac
 Их (колесницы), не пыльные, золотистые,  
 Появились одновременно с (их) силами мужества, героическими силами.
 </details>
+

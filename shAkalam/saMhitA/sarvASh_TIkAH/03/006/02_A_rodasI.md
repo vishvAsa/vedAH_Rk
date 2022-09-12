@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+apr̥ṇāḥ ← √pr̥̄- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+jā́yamānaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ádha ← ádha (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+prayajyo ← práyajyu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rikthāḥ ← √ric- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:MED}
+
+utá ← utá (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+saptájihvāḥ ← saptájihva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vacyántām ← √vañc- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:PASS}
+
+váhnayaḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Geboren kaum erfülltest beide Welten, ja überragtest du sie noch, o hehrer, Gr
 Самого неба, о Агни, и земли (своим) величием.  
 Пусть скачут твои (кони), возницы (жертвы), семиязыкие!
 </details>
+

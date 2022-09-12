@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suhiraṇyáḥ ← suhiraṇyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sváśvaḥ ← sváśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+upayā́ti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vásumatā ← vásumant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+bhavasi ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+trātā́ ← trātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+ātithyám ← ātithyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jújoṣat ← √juṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,8 +192,6 @@ genre M
 किञ्च - तस्य सखा भवसि । कस्य? यस्त्वामानुषक् अनुषक्तं नित्यं आतिथ्यमतिथिसत्कारम् । यद्वा - अनुषक्तं यथाभिलषितमातिथ्यं जुजोषत् जोषयति प्रापयति । जुषेरन्तर्भावितण्यर्थात् लेटि 'बहुलं च्छन्दसि' इति शपश्श्लुः । 'लेटोडाटौ' इत्यडागमः, 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । ते इति कर्मणस्सम्प्रदानत्वात् चतुर्थ्यर्थे षष्ठी । 'अतिथेर्ण्यः' ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -193,3 +246,4 @@ Wer zu dir kommt an Rossen reich und Goldschmuck, o Agni, und mit schatzbeladnem
 Ты бываешь защитником того, другом того,  
 Кто наслаждается твоим гостеприимством, как подобает.
 </details>
+

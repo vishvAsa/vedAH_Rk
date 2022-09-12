@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+rokā́ḥ ← roká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rucayanta ← √ruc- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+bhāsi ← √bhā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+uṣáḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vibhātī́ḥ ← √bhā- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+uśádhak ← uśádhak (invariable)  
+{}
+
+váneṣu ← vána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hótuḥ ← hótar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mandrásya ← mandrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+panáyanta ← √panⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +222,4 @@ Vom Himmel her auch strahlen deine Lichter, du leuchtest nach den vielen lichten
 Когда, о Агни, охотно сжигающий (деревья) в лесах,  
 Боги дивятся работе веселого хотара.
 </details>
+

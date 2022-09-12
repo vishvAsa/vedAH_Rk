@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ábhavata ← √bhū- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sukr̥tyā́ ← sukr̥tyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+niṣedá ← √sad- (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+śyenā́ḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhāta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+napātaḥ ← nápat- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śavasaḥ ← śávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ábhavata ← √bhū- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+amŕ̥tāsaḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saúdhanvanāḥ ← saudhanvaná- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Die ihr durch gute Werke Götter wurdet, und euch wie Adler in dem Himmel setzte
 Вы должны дать сокровище, о отпрыски силы!  
 О сыновья Судханваны, вы стали бессмертными!
 </details>
+

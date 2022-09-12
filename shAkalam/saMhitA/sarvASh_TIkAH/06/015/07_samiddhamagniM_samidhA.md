@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gr̥ṇe ← √gr̥̄- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+sámiddham ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+samídhā ← samídh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dhruvám ← dhruvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pāvakám ← pāvaká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purás ← purás (invariable)  
+{}
+
+śúcim ← śúci- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adrúham ← adrúh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puruvā́ram ← puruvā́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vípram ← vípra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+jātávedasam ← jātávedas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kavím ← kaví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sumnaíḥ ← sumná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Ich preis' mit Lied den Agni, der durch Holz entflammt, hell vor dem Opfer aufge
 Вдохновенного хотара, богатого избранными дарами, лишенного обмана,  
 Поэта просим мы словами, приносящими милость Джатаведаса.
 </details>
+

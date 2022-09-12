@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhā́ḥ ← bhā́s- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+éma ← éman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṣṇám ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+purás ← purás (invariable)  
+{}
+
+rúśataḥ ← rúśant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+arcíḥ ← arcís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cariṣṇú ← cariṣṇú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+vápuṣām ← vápus- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+ápravītā ← ápravīta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dádhate ← √dhā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhávasi ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sadyás ← sadyás (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,3 +267,4 @@ Dein Weg ist hell, voran geht Glanz dem Hellen, und flatternd Licht ist der Gest
 (А еще то,) что (твоя мать) зачинает зародыша неоплодотворенная,  
 (И) ты, едва родившись, сразу же становишься вестником.
 </details>
+

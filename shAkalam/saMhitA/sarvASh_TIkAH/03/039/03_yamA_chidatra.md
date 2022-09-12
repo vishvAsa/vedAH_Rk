@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asūta ← √sū- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+átra ← átra (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+yamā́ ← yamá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yamasū́ḥ ← yamasū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ásthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+jihvā́yāḥ ← jihvā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+pátat ← √pat- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+jātā́ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+mithunā́ ← mithuná- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sacete ← √sac- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+vápūṁṣi ← vápus- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+budhné ← budhná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+étā ← √i- 1 (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+tamohánā ← tamohán- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tápuṣaḥ ← tápus- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,3 +249,4 @@ Die Dämmerung gebar die Zwillingsbrüder; da stieg das Lied rasch auf der Zunge
 (Едва) родившись, (эта) пара оказалась связанной с прекрасными образами.  
 Прогоняя мрак, она на дне огня.
 </details>
+

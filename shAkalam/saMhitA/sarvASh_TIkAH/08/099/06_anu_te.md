@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+īyatuḥ ← √i- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+turáyantam ← √tvarⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kṣoṇī́ ← kṣoṇí- ~ kṣoṇī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+mātárā ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+śíśum ← śíśu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+manyáve ← manyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śrathayanta * ← √śrathⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tū́rvasi ← √tūr(v)- ~ tur- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +203,7 @@ The phrase itá ūtī́(also, as itá ūtī́ḥ I.119.8, I.130.5) cannot be sep
 Here in this Anhangslied it is likely that ūtí- ‘help’ has captured the de-compounded phrase, but that the phrase is still associated with the notion of constancy, hence my compromise “with enduring help.” Geldner tr. “zu eurem unmittelbaren (immediate) Beistand,” but in n. allows “den durch Fortdauer (oder Verjüngung) Alterlosen.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/099/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/099/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 This pragātha is tightly bound lexically. Note first víśvāḥ spṛ́dhaḥ in both 5a and 6c. But more striking are the six occurrences of the root √tari : prátūrtiṣu (5a), (viśva-)tū́r (5c), tūrya taruṣyataḥ (5d), turáyantam (6a), tūrvasi (6d). In this group not a single stem is repeated: there are two different nominal stems and four different verbal stems. (See also átūrtam in 7d, to yet another stem.) On the formulaic use of this root and its Indo-European background, see Watkins, Dragon 344-46.
@@ -180,3 +235,4 @@ Die beiden Fluten eilen seiner Siegerkraft wie Aeltern ihrem Kinde nach und alle
 Все твои противники слабеют перед (твоей) яростью,  
 Когда, о Индра, ты побеждаешь Вритру.
 </details>
+

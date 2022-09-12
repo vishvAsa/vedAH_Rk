@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áṣāḷham ← áṣāḷha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sāsahím ← sāsahí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+urujráyaḥ ← urujrí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+anonavuḥ ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jā́yamāne ← √janⁱ- (root)  
+{case:LOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+anonavuḥ ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dyā́vaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kṣā́maḥ ← kṣám- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +189,4 @@ Der unbesiegt in Schlachten siegt, der mächtige, bei dess Geburt die Kühe scho
 
 -ru-
 </details>
+

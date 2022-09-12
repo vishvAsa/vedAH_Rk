@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+antár ← antár (invariable)  
+{}
+
+asmin ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+dyā́vaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+níhitāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhū́mīḥ ← bhū́mi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ṣáḍvidhānāḥ ← ṣáḍvidhāna- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+úparāḥ ← úpara- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+cakre ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+gŕ̥tsaḥ ← gŕ̥tsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+hiraṇyáyam ← hiraṇyáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kám ← kám (invariable)  
+{}
+
+preṅkhám ← preṅkhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śubhé ← śúbh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Drei Himmel sind in diesem Ort geborgen, drei Erden drunter, eine Schar von sech
 Искусный царь Варуна сотворил себе на небе  
 Эти золотые качели для блеска.
 </details>
+

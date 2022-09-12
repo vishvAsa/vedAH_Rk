@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sábandhavaḥ ← sábandhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yádi ← yádi (invariable)  
+{}
+
+apasyávaḥ ← apasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+páñca ← páñca- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vrā́tāḥ ← vrā́ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dharṇasím ← dharṇasí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pariṣkr̥ṇvánti ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +145,4 @@ Wenn die verwandten thätigen fünf Stämme mit dem Lobgesang Ausschmücken den 
 Деятельных отрядов с песней  
 Приготавливают крепкого,
 </details>
+

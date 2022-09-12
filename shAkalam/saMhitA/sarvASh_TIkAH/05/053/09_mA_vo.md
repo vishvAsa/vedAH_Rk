@@ -16,14 +16,81 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánitabhā ← ánitabhā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+krúmuḥ ← krúmu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kúbhā ← kúbhā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+rasā́ ← rasā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+rīramat ← √ram- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+síndhuḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+purīṣíṇī ← purīṣín- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+saráyuḥ ← saráyu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sthāt ← √sthā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rukmáḥ ← rukmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urucákṣāḥ ← urucákṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+bhrā́jamānaḥ ← √bhrāj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dūréarthaḥ ← dūréartha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+taráṇiḥ ← taráṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jánāḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nūnám ← nūnám (invariable)  
+{}
+
+prásūtāḥ ← √sū- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ápāṁsi ← ápas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+árthāni ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+áyan ← √i- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+kr̥ṇávan ← √kr̥- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Weitschauend steigt empor des Himmels Goldschmuck, nach weitem Ziele dringend, h
 Пусть же сейчас люди, побужденные Сурьей,  
 Отправятся по (своим) делам, возьмутся за работу!
 </details>
+

@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+ā́hitam ← √dhā- 1 (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+bibharti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háste ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jighnate ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,3 +133,4 @@ Der eine hält den Blitz mit seiner Hand umfasst, mit dem er seine Feinde schlä
 Один несет вложенную в руку  
 Ваджру. Ею он убивает врагов.
 </details>
+

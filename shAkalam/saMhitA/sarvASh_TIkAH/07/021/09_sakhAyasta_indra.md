@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+viśváha ← viśváha (invariable)  
+{}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+namovr̥dhā́saḥ ← namovr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tarutra ← tárutra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+samīké ← samīká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vanvántu ← √vanⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+abhī̀tim ← abhī̀ti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śávāṁsi ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vanúṣām ← vanús- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +183,7 @@ vanvántu ‘let them combat’ and vanúṣām ‘rapacious ones’ are presuma
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/021/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/021/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 Final varūtā́of 8d is matched by final tarutra in 9b.
@@ -163,3 +215,4 @@ Wir seien stets, o Indra, deine Freunde, Anbetung übend eifervoll, o Helfer; Be
 Да отразят они с твоей помощью в бою  
 Нападение врага, силы завистников!
 </details>
+

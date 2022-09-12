@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+gnā́ḥ ← gnā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vāvr̥dhánta ← √vr̥dh- (root)  
+{number:PL, person:3, mood:INJ, tense:PRF, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+narā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+svágūrtāḥ ← svágūrta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+ebhyaḥ ← ayám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+indrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+bhūtam ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivi ← pr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+urvī́ ← urú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Wenn alle Götter, Weiber auch und Männer, sich mächtig zeigen, hochgelobt von
 Вы, о Индра-Варуна, были впереди них по (своему) величию,  
 (А также) Небо и Земля, огромные.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+antarikṣaprā́m ← antarikṣaprā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vimā́nīm ← vimā́nī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śikṣāmi ← √śak- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+úpa ← úpa (invariable)  
+{}
+
+urváśīm ← urváśī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rātíḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sukr̥tásya ← sukr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tíṣṭhāt ← √sthā- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+hŕ̥dayam ← hŕ̥daya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+tapyate ← √tap- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vartasva ← √vr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Die Urvaçī, die die Luft erfüllt, und den Raum durchmisst, verehre ich, der t
 
 -ru-
 </details>
+

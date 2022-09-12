@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adbhuta ← ádbhuta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+maṁhánā ← maṁhánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aruhat ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asuryàm ← asuryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+krāṇā́ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yajñíyaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +188,4 @@ Die Bahn, o hehrer Agni, uns durch Weisheit und durch Kräftigung; Auf dir stieg
 В тебе поднялась природа Асуры –  
 Благодаря содействию (нам) достоин жертв, подобно Митре.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+raśmím ← raśmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sr̥jánti ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sū́ryāya ← sū́rya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yā́tave ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
+bhānúbhiḥ ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tasthire ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +166,4 @@ Sie werfen kräftig ihre Schnur, der Sonne Pfad zu messen, aus; Mit Strahlen bre
 Чтобы солнце двигалось по (своему) пути,  
 С лучами (солнца) они рассеялись.
 </details>
+

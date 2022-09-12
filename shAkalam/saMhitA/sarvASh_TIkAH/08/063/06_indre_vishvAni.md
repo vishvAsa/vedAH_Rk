@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vīryā̀ ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+kártvāni ← kártva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kr̥tā́ni ← √kr̥- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+arkā́ḥ ← arká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vidúḥ ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +170,4 @@ In Indra ruhn die Thaten all', die noch zu thun sind und gethan, Auf den die Sä
 Совершенные и те, что предстоит совершить,  
 (С тем,) кого певцы знают как (цель) обряда.
 </details>
+

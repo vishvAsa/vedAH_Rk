@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+áha ← áha (invariable)  
+{}
+
+jihvā́bhiḥ ← jihvā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+nánnamat ← √nam- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+arcíṣā ← arcís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jañjaṇābhávan ← jañjaṇābhávant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rocate ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+váneṣu ← vána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +136,4 @@ Mit seinen Zungen beugend sich und funkelnd mit der Flamme Glanz Erstrahlet Agni
 Вспыхивая пламенем,  
 Агни сверкает среди деревьев.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+áśvyam ← áśvya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śatádātu ← śatádātu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tú ← tú (invariable)  
+{}
+
+híraṇyavat ← híraṇyavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+paśumát ← paśumánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sahásradātu ← sahásradātu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+br̥hatī́ḥ ← br̥hánt- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+māsva ← √mā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+revátīḥ ← revánt- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pavamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+stotrásya ← stotrá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ O Indu, hundertfaches, tausendfaches Gut, das reich an Rossen, reich an Heerden 
 Отмерь (нам) мощные, богатые жертвенные услады!  
 Обрати внимание на нашу хвалу, о Павамана!
 </details>
+

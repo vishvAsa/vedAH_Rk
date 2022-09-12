@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+nr̥cákṣāḥ ← nr̥cákṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+aruṣáḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhāhi ← √bhā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kr̥ṣṇā́su ← kr̥ṣṇá- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+néṣi ← √nī- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+párṣi ← √pr̥- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+váso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥dhí ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+uśíjaḥ ← uśíj- (nominal stem)  
+{case:ACC, number:PL}
+
+yaviṣṭha ← yáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +250,4 @@ Erstrahl', o Stier, du männerschau'nder, rother in schwarzen Nächten wie in vi
 Веди нас, хороший, и переправь через нужду!  
 Сделай нас ушиджами, чтобы добыть богатство, о самый юный!
 </details>
+

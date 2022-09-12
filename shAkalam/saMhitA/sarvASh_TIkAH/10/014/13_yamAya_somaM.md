@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sunuta ← √su- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yamā́ya ← yamá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+juhuta ← √hu- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yamā́ya ← yamá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gachati ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yamám ← yamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agnídūtaḥ ← agnídūta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áraṁkr̥taḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +176,4 @@ Dem Jama keltert Somasaft, ergiesst dem Jama Opfertrank; Zu Jama geht das Opfer 
 К Яме направляется жертва,  
 Чей вестник – Агни, (хорошо) приготовленная.
 </details>
+

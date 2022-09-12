@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amŕ̥tānām ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+gī́ḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+kr̥páṇanta ← √kr̥paṇ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sarvátātā ← sarvátāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sā́dhantaḥ ← √sādh- ~ sidh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ásāmi ← ásāmi- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dhāntu ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vasavyàm ← vasavyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ Dies ist das Lied der Götter, die unsterblich bei ihrer Macht sich doch nach Sc
 Приводя к цели молитву и жертву,  
 Пусть дадут они нам полноценное богатство!
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+út ← út (invariable)  
+{}
+
+bhrā́jantaḥ ← √bhrāj- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+īrate ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+śukrā́ḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arcáyaḥ ← arcí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jyótīṁṣi ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +151,6 @@ Bright, flaming (rays) arise,
 Thy lights, thy flames.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Deine reinen hellen Flammen erheben sich strahlend, deine Lichter, deine Flammen, Agni.
@@ -137,3 +167,4 @@ Es steigen deine Flammen auf, die lichten, hellen, strahlenden, O Agni, deiner L
 Прозрачные сверкающие,  
 Твои светила, языки пламени.
 </details>
+

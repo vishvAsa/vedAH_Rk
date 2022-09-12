@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+pā́rāvatasya ← pā́rāvata- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rātíṣu ← rātí- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+āśúṣu ← āśú- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+draváccakreṣu ← draváccakra- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tíṣṭham ← √sthā- (root)  
+{number:SG, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+vánasya ← vána- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +153,4 @@ Bei den Spenden des Pārāvata, den Rossen mit schnelllaufenden Wagen, stieg ich
 Среди быстро вертящихся колес,  
 Скакунов, среди древесины.
 </details>
+

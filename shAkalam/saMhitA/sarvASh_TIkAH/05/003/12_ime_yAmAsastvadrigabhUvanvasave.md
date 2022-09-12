@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhūvan ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+tvadrík ← tvadrík (invariable)  
+{}
+
+yā́māsaḥ ← yā́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́gaḥ ← ā́gas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+avāci ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+ít ← ít (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vásave ← vásu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+abhíśastaye ← abhíśasti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+dāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+párā ← párā (invariable)  
+{}
+
+rī́ṣate ← √riṣ- (root)  
+{case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+
+vāvr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +247,4 @@ Auf dich hin zielten diese Opferfeste, dem guten ward auch diese Noth gemeldet; 
 Но никогда этот Агни, подкрепленный (возлиянием),  
 Пусть не выдаст нас ни наговору, ни тому, кто хочет навредить!
 </details>
+

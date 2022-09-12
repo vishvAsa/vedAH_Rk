@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ājaú ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ásarji ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+ráthye ← ráthya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vákvā ← vákvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+manīṣī́ ← manīṣín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manótā ← manótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ávye ← ávya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sā́no ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+svásāraḥ ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ácha ← ácha (invariable)  
+{}
+
+ájanti ← √aj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sádanāni ← sádana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+váhnim ← váhni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Es eilt der Tummler wie beim Wagenrennen, mit Kunst der weise, erste Liederfinde
 Десять сестер на спине (сита) из овечьей шерсти  
 Погоняют упряжного коня к (его) сиденьям.
 </details>
+

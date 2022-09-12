@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dūtyàm ← dūtyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+véṣi ← √vī- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jújoṣaḥ ← √juṣ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mártasya ← márta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vóḷhave ← √vah- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Für den gehst du auf Botschaft aus, dess Opfer gerne du empfängst, Zu fahren s
 Чьим обрядом ты наслаждаешься,  
 Чтобы увезти жертву смертного.
 </details>
+

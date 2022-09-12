@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahiṣa ← mahiṣá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vŕ̥ṣṇyebhiḥ ← vŕ̥ṣṇya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+anyā́n ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dhanaspŕ̥t ← dhanaspŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáhamānaḥ ← √sah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ugra ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+jánān ← jána- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kṣayáya ← √kṣi- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yodháya ← √yudh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Ein grosser Stier bist du an Stiereskräften, erbeutend Gut, o Held, besiegend a
 Единственный царь всего света,  
 Веди народы на битву и рассели их в мире!
 </details>
+

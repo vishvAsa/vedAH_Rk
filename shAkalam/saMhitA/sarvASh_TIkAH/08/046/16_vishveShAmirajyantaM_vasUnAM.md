@@ -15,13 +15,47 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+irajyántam ← √irajy- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+víśveṣām ← víśva- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+sāsahvā́ṁsam ← √sah- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+várpasaḥ ← várpas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+áti ← áti (invariable)  
+{}
+
+kr̥payatáḥ ← √kr̥p- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+nūnám ← nūnám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +172,4 @@ Der über alle Güter verfügt, der Gewalt hat auch über jene Truggestalt, die 
 (Бога,) даже способного справиться с этим лживым обликом  
 Чрезмерно причитающего (врага) – теперь и также далее!
 </details>
+

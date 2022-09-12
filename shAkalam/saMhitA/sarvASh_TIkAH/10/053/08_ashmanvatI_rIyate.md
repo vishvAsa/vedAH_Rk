@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+áśmanvatī ← áśmanvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rabhadhvam ← √rabh- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+rīyate ← √rī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+sakhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tarata ← √tr̥̄- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tiṣṭhata ← √sthā- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+ásan ← √as- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+áśevāḥ ← áśeva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+átra ← átra (invariable)  
+{}
+
+jahāma ← √hā- 2 (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+śivā́n ← śivá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tarema ← √tr̥̄- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Der mit Steinen versehene Fluss strömt, haltet euch gegenseitig fest, steigt he
 Здесь мы бросаем (тех,) кто будет неблагоприятен (для нас).  
 Мы хотим вылезти (на берег) к благоприятным наградам.
 </details>
+

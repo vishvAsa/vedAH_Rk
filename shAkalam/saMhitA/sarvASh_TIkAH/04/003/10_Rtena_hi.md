@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aktáḥ ← √añj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pr̥ṣṭhyèna ← pr̥ṣṭhyà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+púmān ← púmaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+acarat ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áspandamānaḥ ← áspandamāna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vayodhā́ḥ ← vayodhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+duduhe ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+pŕ̥śniḥ ← pŕ̥śni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śukrám ← śukrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +203,7 @@ What -- if anything -- this refers to naturalistically is unclear. The tendency 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/09-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/09-12.md">
 <details open><summary><h2>09-12 ...{Loading}...</h2></summary>
 
 Each of these vss. begins with the resonant and charged instr. ṛténa ‘by truth’, the usual introduction to a truth formulation. Each of the vss. does seem to express a mystical truth about the ritual or its mythic background. There is no obvious connection to the group of vss. that precede (the question vss. of 4cd-8), but if I am correct that we should supply ‘thought’ or ‘thoughts’ in 8cd, where we ask Agni to send them all the way to heaven, it may not be fanciful to think that vss. 9-12 are these very thoughts.
@@ -185,3 +240,4 @@ Denn traun der Stier durch rechte Milch gesalbet auf seinem Rücken, Agni, er de
 Не дергаясь, двигается (этот) наделитель жизненной силой.  
 Бык-Пришни выдаивает свое вымя, (давая) чистое (молоко).
 </details>
+

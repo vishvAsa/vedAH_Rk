@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mr̥thāḥ ← √mr̥- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:MED}
+
+paptaḥ ← √pat- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+púrūravaḥ ← purūrávas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áśivāsaḥ ← áśiva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kṣan ← √ghas- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+vŕ̥kāsaḥ ← vŕ̥ka- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sakhyā́ni ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+santi ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+straíṇāni ← straíṇa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vaí ← vaí (invariable)  
+{}
+
+etā́ ← eṣá (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+hŕ̥dayāni ← hŕ̥daya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sālāvr̥kā́ṇām ← sālāvr̥ká- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +217,4 @@ Pururavas, du sollst nicht sterben, nicht davonlaufen; nicht sollen dich die bö
 
 -ru-
 </details>
+

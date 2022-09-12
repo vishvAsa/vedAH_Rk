@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gaṇám ← gaṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+khā́dihastam ← khā́dihasta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tavásam ← tavás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tveṣám ← tveṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dā́tivāram ← dā́tivāra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhúnivratam ← dhúnivrata- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+māyínam ← māyín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ámitāḥ ← ámita- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mayobhúvaḥ ← mayobhū́- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tuvirā́dhasaḥ ← tuvirā́dhas- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vándasva ← √vandⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vipra ← vípra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +215,4 @@ Die wilde, starke Schar, die ringgeschmückte, die brausendgehnde, weise, gabenr
 (Те,) что подкрепляют (и) неизмеримы в (своем) могуществе, -  
 Славь, о вдохновенный, (этих) мощнодарящих мужей!
 </details>
+

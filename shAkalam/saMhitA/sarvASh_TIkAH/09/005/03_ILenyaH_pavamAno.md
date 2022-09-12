@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+īḷényaḥ ← īḷénya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dyumā́n ← dyumánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rājati ← √rāj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+dhā́rābhiḥ ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+mádhoḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +139,4 @@ Der preisenswerthe, rieselnde, erstrahlet als ein heller Schatz Im Strom des sü
 Блистательное богатство, ярко сверкает,  
 Со (своими) потоками сладости – мощно,
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhánva ← dhánvan- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ádrayaḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+akṣār ← √kṣar- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adhinīyámānaḥ ← √nī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+manyúḥ ← manyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+rujáti ← √ruj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śr̥ṇā́ti ← √śr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sthirā́ṇi ← sthirá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vīḷú ← vīḷú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Ihm rinnt der Soma, dem nicht Erd' und Himmel, nicht Wüste, Luft, noch Felsen w
 Когда его ярость, усиливаясь,  
 Разбивает твердое, ломает крепкое.
 </details>
+

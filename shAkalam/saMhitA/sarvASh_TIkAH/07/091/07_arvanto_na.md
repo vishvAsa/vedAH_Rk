@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+árvantaḥ ← árvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhíkṣamāṇāḥ ← √bhaj- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED, mood:DES}
+
+ná ← ná (invariable)  
+{}
+
+śrávasaḥ ← śrávas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+indravāyū́ ← indra-vāyú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+suṣṭutíbhiḥ ← suṣṭutí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vásiṣṭhāḥ ← vásiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+huvema ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+sú ← sú (invariable)  
+{}
+
+vājayántaḥ ← √vājay- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +198,4 @@ Wie Renner, die des Sieges Preis erstreben, so gehn zu Indra-Vaju wir Vasischtha
 Хотим призвать на помощь Индру-Ваю.  
 Защищайте вы нас всегда (своими) милостями!
 </details>
+

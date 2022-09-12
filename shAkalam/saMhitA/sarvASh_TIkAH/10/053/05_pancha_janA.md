@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular;; repeated line  
 popular;; repeated line  
 popular;; repeated line
+#### Morph
+hotrám ← hotrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jánāḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+juṣantām ← √juṣ- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:MED}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+páñca ← páñca- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gójātāḥ ← gójāta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+yajñíyāsaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pā́rthivāt ← pā́rthiva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+pātu ← √pā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+divyā́t ← divyá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+pātu ← √pā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Die fünf Geschlechter, die Gestirn-entsprossnen, die heil'gen mögen meinen Tra
 Воздушное пространство пусть защитит нас от небесной!  
 Жрецы:
 </details>
+

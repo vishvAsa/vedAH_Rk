@@ -15,13 +15,59 @@ ChandaH = "ऊर्ध्वबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+prathamā́ḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+vr̥ktábarhiṣaḥ ← vr̥ktábarhis- (nominal stem)  
+{}
+
+dadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śrávase ← śrávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vā́jāya ← vā́ja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+codaya ← √cud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vīra ← vīrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vīryā̀ya ← vīryà- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +178,7 @@ Geldner and Renou take naḥ as the obj. of codaya in c, but I think rather dhí
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Considerably clearer than the previous tṛca.
@@ -163,3 +209,4 @@ Auf dich, o Soma, richteten zu grosser Kraft und Ruhm die ersten Streubereiter i
 Вложили поэтическую мысль для великой награды (и) славы.  
 О муж, вдохнови ты нас на мужество!
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya;; repeated line  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sā́dhiṣṭhaḥ ← sā́dhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bháreṣu ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+deváhūtibhiḥ ← deváhūti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+hótrābhiḥ ← hótrā- 2 (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+manāmahe ← √man- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+sasavā́ṁsaḥ ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +185,4 @@ In Kämpfen seien solche wir, die dir zum Schutz die liebsten sind; Wir denken d
 Мы считаем себя достигшими цели  
 Благодаря (нашим) возлияниям и призывом богов.
 </details>
+

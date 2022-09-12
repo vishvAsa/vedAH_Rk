@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+moghám ← moghá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úlūkaḥ ← úlūka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vádati ← √vadⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+agnaú ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kapótaḥ ← kapóta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇóti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣáḥ ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+práhitaḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+mr̥tyáve ← mr̥tyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+yamā́ya ← yamá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Wenn wir, o Indra, Brahmanaspati, Unrecht begehen, so möge uns der weise Herr d
 Чьим вестником отправлен этот,  
 Тому Яме, смерти, да будет это поклонение!
 </details>
+

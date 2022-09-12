@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+amā́ ← amā́ (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+nahí ← nahí (invariable)  
+{}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+ádhvasu ← ádhvan- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vāraṇéṣu ← vāraṇá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+agháśaṁsaḥ ← agháśaṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ī́śe ← √īś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ripúḥ ← ripú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ Denn nimmer hat ein böser Feind daheim noch auch auf rauhem Pfad Macht über ei
 Злоречивый обманщик  
 Ни дома, ни на опасных дорогах.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hotrā́ṇi ← hotrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vr̥ṇānā́ḥ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+ínvantaḥ ← √i- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yan ← √i- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+jātā́ḥ ← √janⁱ- (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
+nr̥péśasaḥ ← nr̥péśas- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+caranta ← √carⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Die sieben Opfer sich mit Lust erwählend, das All belebend gehn sie nach der Or
 (врата)  
 Украшенные мужами, возникшие на жертвенных раздачах!
 </details>
+

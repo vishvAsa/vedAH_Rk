@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kṣétrasya ← kṣétra- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mádhumantam ← mádhumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ūrmím ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmā́su ← ahám (pronoun)  
+{case:LOC, number:PL}
+
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhukṣva ← √duh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+madhuścútam ← madhuścút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+súpūtam ← súpūta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mr̥ḷayantu ← √mr̥ḍ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pátayaḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Feldesherr, lass uns die süsse Welle reichlich strömen, so wie Milch die Milch
 (Волной,) сочащейся медом, прекрасно очищенной, словно жир.  
 Да смилуются над нами господа закона!
 </details>
+

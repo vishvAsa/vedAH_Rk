@@ -15,13 +15,59 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+syā́m ← √as- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+syā́ḥ ← √as- 1 (root)  
+{number:SG, person:2, mood:OPT, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+āśíṣaḥ ← āśís- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+satyā́ḥ ← satyá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+syúḥ ← √as- 1 (root)  
+{number:PL, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +188,4 @@ Wenn ich, o Agni, wäre du, und du dagegen wärest ich, Dann würde dein Gebet e
 Или же ты был мной,  
 То тут твои желания сбылись бы!
 </details>
+

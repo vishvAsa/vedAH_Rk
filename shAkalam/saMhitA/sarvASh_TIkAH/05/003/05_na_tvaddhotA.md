@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pū́rvaḥ ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+yájīyān ← yájīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kā́vyaiḥ ← kā́vya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+parás ← parás (invariable)  
+{}
+
+svadhāvaḥ ← svadhā́vant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+átithiḥ ← átithi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhávāsi ← √bhū- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+viśáḥ ← víś- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+yásyāḥ ← yá- (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mártān ← márta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vanavat ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yajñéna ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +243,4 @@ Nie war ein bessrer Opfrer als du, Agni; an Weisheit ist dir keiner vor, o Mäch
 И у какого племени ты бываешь гостем,  
 Жертвой оно превзойдет смертных, о бог.
 </details>
+

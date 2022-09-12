@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aryā́ ← aryá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ásurā ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+taú ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+karatam ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+kṣitī́ḥ ← kṣití- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+ūrjáyantīḥ ← √ūrjay- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+aśyā́ma ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+áhā ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pīpáyan ← √pī- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +239,4 @@ Ihr seid der Götter Geister, ihr die Treuen; drum lasst uns reichlich unser Vol
 Мы хотим достигнуть вас, о Митра-Варуна,  
 (Там,) где небо и земля и дни насыщают через край!
 </details>
+

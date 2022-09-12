@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+ā́lāktā ← ā́lākta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rúruśīrṣṇī ← rúruśīrṣan- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+áyaḥ ← áyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+múkham ← múkha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+yásyāḥ ← yá- (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+parjányaretase ← parjányaretas- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devyaí ← devī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+íṣvai ← íṣu- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +195,4 @@ Der mit Gift bestrichen ist, am Kopf ein Gemshorn trägt, dessen Mund Eisen ist,
 Божественной стреле из семени Парджаньи  
 Это высокое поклонение!
 </details>
+

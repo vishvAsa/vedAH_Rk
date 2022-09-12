@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+námasi ← námas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+stabhāyán ← √stambhⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+íyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+janáyan ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yájadhyai ← √yaj- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+puruvā́raḥ ← puruvā́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥ñjasānáḥ ← r̥ñjasāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇvīta ← √kr̥- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+sádaneṣu ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Der an Verehrung eng Verehrung schliessend, die Stimm' erhebt, zum Opferdienst e
 Обладатель многих благ, идущий прямо вперед с помощью гимнов,  
 Хотар пусть привлечет Индру на (жертвенные) сидения!
 </details>
+

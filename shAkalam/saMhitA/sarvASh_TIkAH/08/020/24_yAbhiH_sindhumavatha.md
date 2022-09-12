@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávatha ← √avⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+síndhum ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tū́rvatha ← √tūr(v)- ~ tur- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+daśasyátha ← √daśasy- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+krívim ← krívi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+bhūta ← √bhū- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+máyaḥ ← máyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mayobhuvaḥ ← mayobhū́- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+asacadviṣaḥ ← asacadviṣ- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śivā́bhiḥ ← śivá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +203,4 @@ Durch die den Strom ihr fördert, und durch die ihr siegt, durch die ihr hold de
 Этими благими поддержками будьте нам радостью,  
 О несущие радость, не подверженные ненависти!
 </details>
+

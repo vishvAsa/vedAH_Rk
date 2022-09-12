@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rocanā́ ← rocaná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+trī́ ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+trī́n ← trí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhārayathaḥ ← √dhr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mitra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+amátim ← amáti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kṣatríyasya ← kṣatríya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vāvr̥dhānaú ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
+
+ajuryám ← ajuryá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+rákṣamāṇau ← √rakṣⁱ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Drei Aetherräume, Varuna, drei Himmel, drei Luftgebiete haltet fest ihr, Mitra;
 Усиливаясь по образу властителя,  
 Охраняя нестареющий завет.
 </details>
+

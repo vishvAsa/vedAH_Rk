@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mīḍhvaḥ ← mīḍhváṁs- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+kr̥ṇu ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+subhágām ← subhága- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+suputrā́m ← suputrá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asyām ← ayám (pronoun)  
+{case:LOC, gender:F, number:SG}
+
+dáśa ← dáśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+putrā́n ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ekādaśám ← ekādaśá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +205,4 @@ Diese Gattin mache du, o gnädiger Indra, reich an Kindern und an Glück; verlei
 Вложи в нее десять сыновей!  
 Мужа сделай одиннадцатым!
 </details>
+

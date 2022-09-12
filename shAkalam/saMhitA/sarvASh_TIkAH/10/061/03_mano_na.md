@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hávaneṣu ← hávana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tigmám ← tigmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yéṣu ← yá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+drávantā ← √dru- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+śácyā ← śácī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vanutháḥ ← √vanⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vípaḥ ← víp- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+śáryābhiḥ ← śáryā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tuvinr̥mṇáḥ ← tuvinr̥mṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ādíśam ← ādíś- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áśrīṇīta ← √śrī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+gábhastau ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Bei welchen Opferspenden ihr beiden kräftig laufenden [Açvinen] dem gleichsam 
 
 -ru-
 </details>
+

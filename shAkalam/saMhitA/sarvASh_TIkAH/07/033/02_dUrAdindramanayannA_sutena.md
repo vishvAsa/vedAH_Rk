@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+anayan ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dūrā́t ← dūrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suténa ← √su- (root)  
+{case:INS, gender:M, number:SG, non-finite:PPP}
+
+áti ← áti (invariable)  
+{}
+
+pā́ntam ← pā́nta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaiśantám ← vaiśantá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pā́śadyumnasya ← pā́śadyumna- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sómāt ← sóma- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vāyatásya ← vāyatá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+avr̥ṇīta ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutā́t ← √su- (root)  
+{case:ABL, gender:M, number:SG, non-finite:PPP}
+
+vásiṣṭhān ← vásiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Durch gebrauten Soma führten sie von ferne her den gewaltigen Indra über Teich
 Соме, выжатому у Пашадьюмна Ваята,  
 Индра предпочел Васиштхов.
 </details>
+

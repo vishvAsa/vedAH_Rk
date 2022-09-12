@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+dhāráyethe ← √dhr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+dr̥ṁhéthe ← √dr̥h- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+dyóḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sā́num ← sā́nu- ~ snú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+upamā́t ← upamá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+dr̥ḷháḥ ← √dr̥h- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+nákṣatraḥ ← nákṣatra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+viśvádevaḥ ← viśvádeva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+atān ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+āyóḥ ← āyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhū́mim ← bhū́mi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhāsínā ← dhāsí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +251,4 @@ Denn ihr behauptet fort und fort die Herrschaft, des Himmels Kuppe stützt ihr w
 И укрепленное небесное тело, принадлежащее всем богам,  
 Затянуло землю и небо их потоком.
 </details>
+

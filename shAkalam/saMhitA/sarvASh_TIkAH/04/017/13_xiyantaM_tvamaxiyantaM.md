@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ákṣiyantam ← ákṣiyant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇoti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣiyántam ← √kṣi- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tvam ← tva- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+íyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+reṇúm ← reṇú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samóham ← samóha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśánimān ← aśánimant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+vibhañjanúḥ ← vibhañjanú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhāt ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stotā́ram ← stotár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vásau ← vásu- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Den macht er wohnungslos, den macht er wohnend; der Mächt'ge regt zusammenwirbe
 Разбивая (все), словно небо, мечущее громы;  
 Щедрый также наделяет добром восхвалителя.
 </details>
+

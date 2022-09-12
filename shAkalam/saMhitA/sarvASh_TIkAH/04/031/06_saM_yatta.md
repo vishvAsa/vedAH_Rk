@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+manyávaḥ ← manyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cakrā́ṇi ← cakrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dadhanviré ← √dhanv- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+sū́rye ← sū́rya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +162,4 @@ Wenn, Indra, deines Eifers Drang, und wenn die Räder eilig gehn Bei dir und bei
 (И) колеса мчатся вместе,  
 (То я получил долю) как в тебе, так и в солнце.
 </details>
+

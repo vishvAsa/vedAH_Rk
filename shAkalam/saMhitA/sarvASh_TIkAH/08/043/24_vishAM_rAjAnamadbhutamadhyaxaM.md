@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ádbhutam ← ádbhuta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rā́jānam ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ádhyakṣam ← ádhyakṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhármaṇām ← dhárman- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īḷe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śravat ← √śru- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +156,4 @@ Den wunderbaren Menschenherrn, den Hüter aller Ordnungen, Den Agni preis' ich, 
 Следящего за обычаями,  
 Агни я призываю – пусть услышит он1
 </details>
+

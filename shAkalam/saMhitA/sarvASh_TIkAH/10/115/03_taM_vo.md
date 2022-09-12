@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+druṣádam ← druṣád- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vím ← ví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+arṇavám ← arṇavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pravápantam ← √vap- 2 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+próthantam ← √pruthⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+āsā́ ← ā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+váhnim ← váhni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+virapśínam ← virapśín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádhvanaḥ ← ádhvan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+máhivratam ← máhivrata- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sarájantam ← sarájanta- (?) (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +226,4 @@ Preist euren Gott, der auf dem Holz als Vogel sitzt, des Krautes Tropfen sprüht
 Кто, словно жрец, (приносит жертвы) ртом, переполненного пламенем,  
 Подобного могучему повелителю, пролагающему дороги.
 </details>
+

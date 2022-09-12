@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+idhmám ← idhmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jabhárat ← √bhr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+siṣvidānáḥ ← √svid- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mūrdhā́nam ← mūrdhán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tatápate ← √tap- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:MED}
+
+tvāyā́ ← tvám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhúvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+pāyúḥ ← pāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svátavān ← svátavas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+aghāyatáḥ ← √aghāy- (root)  
+{case:ABL, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sīm ← sīm (invariable)  
+{}
+
+uruṣya ← √uruṣy- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +228,4 @@ Wer, Agni, dir im Schweiss das Brennholz anlegt, und dir zu Liebe sich den Kopf 
 Будь тому защитником, обладающим собственной силой, о Агни!  
 Охраняй его от любого злоумышленника!
 </details>
+

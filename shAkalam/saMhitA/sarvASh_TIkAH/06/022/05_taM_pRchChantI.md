@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pr̥chántī ← √praś- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ratheṣṭhā́m ← ratheṣṭhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vájrahastam ← vájrahasta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gī́ḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+vákvarī ← vákvan- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vépī ← vépī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+rabhodā́m ← rabhodā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tuvigrābhám ← tuvigrābhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tuvikūrmím ← tuvikūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iṣe ← iṣe (invariable)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+nákṣate ← √nakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+túmram ← túmra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Den Indra ruft das Lied, der steht im Wagen den Blitz im Arme, dem der rege Ruf 
 О мощно захватывающем, мощно действующем, дарующем отвагу,  
 Она ищет доступа (и) достигает сильного.
 </details>
+

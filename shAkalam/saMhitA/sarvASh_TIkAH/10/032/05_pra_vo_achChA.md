@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+devayúḥ ← devayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ririce ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rudrébhiḥ ← rudrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+turváṇiḥ ← turváṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+amŕ̥teṣu ← amŕ̥ta- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+jarā́ ← jarā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yéṣu ← yá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+siñcata ← √sic- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ū́mebhyaḥ ← ū́ma- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ Zu eurer Stätte ragt der fromme Mann empor; siegreich allein geht Indra mit den
 Или с бессмертными, у которых для подарка – старость.  
 Налейте же меду вашим помощникам!
 </details>
+

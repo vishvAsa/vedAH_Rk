@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rathyàm ← rathī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ándhasā ← ándhas- 2 (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vásānam ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+áṇveṣu ← áṇva- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+goṣā́m ← goṣā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saścima ← √sac- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +145,4 @@ Der weise lenkt der Kraft Gefährt, und seinen Saft in Wasser hüllt, Den Spende
 За колесничим, рядящимся в воды  
 Со (своим) соком, добывающим коров в мелком (сите).
 </details>
+

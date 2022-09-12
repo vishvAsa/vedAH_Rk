@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:ABL, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+párvatāt ← párvata- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+gantu ← √gam- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yajatā́ ← yajatá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ghr̥tā́cī ← ghr̥tā́ñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jujuṣāṇā́ ← √juṣ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śagmā́m ← śagmá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śr̥ṇotu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+uśatī́ ← √vaś- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Zu unserm Opfer komme her vom Himmel, vom hohen Berg Sarasvati, die hehre; Die b
 Богиня, наслаждающаяся (нашим) зовом, окруженная жиром,  
 Пусть услышит благосклонно нашу могучую речь!
 </details>
+

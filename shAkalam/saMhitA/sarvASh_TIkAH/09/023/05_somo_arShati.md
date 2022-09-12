@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+arṣati ← √arṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dharṇasíḥ ← dharṇasí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+indriyám ← indriyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rásam ← rása- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhiśastipā́ḥ ← abhiśastipā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvī́raḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +143,4 @@ Der Soma strömet kraftbegabt, ergiessend Saft, den Indra liebt, Vor Fluch bewah
 Несущий сок для Индры,  
 Обилие сыновей, защищающий от проклятья.
 </details>
+

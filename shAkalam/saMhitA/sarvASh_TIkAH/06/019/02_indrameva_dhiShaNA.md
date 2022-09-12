@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+dhāt ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+dhiṣáṇā ← dhiṣáṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ajáram ← ajára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥ṣvám ← r̥ṣvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yúvānam ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áṣāḷhena ← áṣāḷha- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śūśuvā́ṁsam ← √śū- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ásāmi ← ásāmi- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+sadyás ← sadyás (invariable)  
+{}
+
+vāvr̥dhé ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +189,7 @@ swollen with invincible strength, who in just a single day grew strong  and not 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 These two vss. show a penchant for synonymous pairs: 1d urúḥ pṛthúḥ “wide (and) broad,” 2b bṛhántam ṛṣvám “lofty (and) towering,” ajáraṃ yúvānam “unaging (and) youthful.”
@@ -169,3 +221,4 @@ Den Indra trieb die Schale an zum Geben, den hohen grossen Jüngling, der nicht 
 Переполненного непокоренной силой,  
 (Того,) кто сразу же возрастает безмерно.
 </details>
+

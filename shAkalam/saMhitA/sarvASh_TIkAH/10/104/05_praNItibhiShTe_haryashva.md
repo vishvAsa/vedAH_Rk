@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+haryaśva ← háryaśva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+práṇītibhiḥ ← práṇīti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+suṣṭóḥ ← suṣṭú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+jánāsaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pururúcaḥ ← pururúc- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+suṣumnásya ← suṣumná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+máṁhiṣṭhām ← máṁhiṣṭha- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ūtím ← ūtí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vitíre ← √tr̥̄- 1 (root)  
+{case:DAT, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stotā́raḥ ← stotár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sūnŕ̥tābhiḥ ← sūnŕ̥ta- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +185,4 @@ Durch deine Huld, gepriesner Füchselenker, du gnadenreicher, glänzender empfan
 
 -ru-
 </details>
+

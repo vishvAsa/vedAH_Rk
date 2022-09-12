@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+drúhvaṇe ← drúhvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mánuṣe ← mánus- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ūrdhvasānáḥ ← ūrdhvasāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+arśasānā́ya ← arśasāná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śárum ← śáru- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sāviṣat ← √sū- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+náhuṣaḥ ← náhus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nŕ̥tamaḥ ← nŕ̥tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sújātaḥ ← sújāta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhinat ← √bhid- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+árhan ← √arh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dasyuhátye ← dasyuhátya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Er schoss auf den arglistigen, verletzenden Menschen hoch aufgerichtet seinen Pf
 Гораздо более мужественный, чем Нахус, этот прекраснорожденный ради нас  
 Проломил крепости при убийстве дасью (он,) достойный (этого).
 </details>
+

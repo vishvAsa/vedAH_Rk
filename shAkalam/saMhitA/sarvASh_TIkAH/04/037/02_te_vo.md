@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hr̥dé ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mánase ← mánas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yajñā́ḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+adyá ← adyá (invariable)  
+{}
+
+ghr̥tánirṇijaḥ ← ghr̥tánirṇij- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+guḥ ← √gā- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+júṣṭāsaḥ ← júṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+harayanta ← √hr̥- 2 (root)  
+{mood:SBJV, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+pūrṇā́ḥ ← √pr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+sutā́saḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+dákṣāya ← dákṣa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+harṣayanta ← √hr̥ṣ- (root)  
+{}
+
+krátve ← krátu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pītā́ḥ ← √pā- 2 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Willkommen seien eurem Sinn und Herzen die Opfer heute, diese fettumhüllten; La
 Выжатые соки (сомы), полно (налитые,) пусть понесут вас вперед!  
 Выпитые, пусть они вдохновят (вас) на мысли и поступки!
 </details>
+

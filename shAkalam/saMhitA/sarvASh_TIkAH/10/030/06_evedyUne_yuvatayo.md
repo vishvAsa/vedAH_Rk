@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+evá ← evá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+namanta ← √nam- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+yū́ne ← yúvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yuvatáyaḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ácha ← ácha (invariable)  
+{}
+
+éti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+uśán ← √vaś- (root)  
+{tense:PRS, voice:ACT}
+
+uśatī́ḥ ← √vaś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cikitre ← √cit- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+jānate ← √jñā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+adhvaryávaḥ ← adhvaryú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dhiṣáṇā ← dhiṣáṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +233,4 @@ So beugen sich die Jungfraun vor dem Jüngling, wenn liebend er den liebenden si
 Они едины мыслью, едины намерением,  
 О адхварью, Дхишана и божественные воды.
 </details>
+

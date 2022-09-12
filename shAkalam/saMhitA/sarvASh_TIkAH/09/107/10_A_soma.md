@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suvānáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+avyáyā ← avyáya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tirás ← tirás (invariable)  
+{}
+
+vā́rāṇi ← vā́ra- 1 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+camvòḥ ← camū́- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+purí ← púr- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+viśat ← √viś- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+dadhiṣe ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+sádaḥ ← sádas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váneṣu ← vána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +175,7 @@ Like a man into a fortress, the tawny one enters into the two cups. You  have es
 With Geldner, Renou, Hoffmann (133), in the published translation I supply a verb in ab. I now think this may be unnec. The impetus was the apparent change of person between the first hemistich and the second: with voc. soma in pāda a but a 3rd ps. verb (viśat) with Soma as subj. in c. However, as in vs. 12 the 3rd-ps. verb may result from attraction to the simile (jáno ná purí … viśat “as a man enters a fortress”), and the underlying person could be 2nd throughout; see dadhiṣe in d. It is hard to convey the change in Engl. but something like “O Soma, while you are being pressed by the stones here across the sheep's fleeces, as a man enters a fortress, as tawny one (you enter) into the two cups. You have established …” Hoffmann (133) argues that the changes of ps. mark pāda c as parenthetic, allowing it to be interpr. in his “general” sense. This sense should be possible even without branding the pāda as a parenthesis.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/10-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 Little overt cohesion. The adv. tiráḥ ‘across’ referring to the filter is found in both vss. (10b, 11a). And the part. s(u)vāná- in 10a echoes the occurrences in vss. 3 and 8.
@@ -158,3 +207,4 @@ Von Somasteinen ausgepresst geht Soma durch des Widders Haar, Der goldne ins Gef
 Буланый входит в два чана, как отряд в крепость.  
 Ты устроил себе место в деревянных сосудах.
 </details>
+

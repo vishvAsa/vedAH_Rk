@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M  
 genre M
+#### Morph
+bharadhvam ← √bhr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yuktā́śvam ← yuktā́śva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dadhīta ← √dhā- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+dhī́ḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+éṣe ← éṣa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+auśijásya ← auśijá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suśévaḥ ← suśéva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+évāḥ ← éva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+turā́ṇām ← turá- 1 (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +243,4 @@ Bringt her nun euren rossgelenkten Reichthum, zur Guts-Erlangung sei die Andacht
 Хотар семьи Ушиджей очень благоприятен в (своих) действиях,  
 Которые также и ваши, о Маруты из быстрых!
 </details>
+

@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+gachātha ← √gam- (root)  
+{number:PL, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+hávamānam ← √hū- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:MED}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+vípram ← vípra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mārḍīkébhiḥ ← mārḍīká- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+nā́dhamānam ← √nādh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +138,4 @@ Wann, Maruts, werdet kommen ihr zum Sänger, der euch eifrig ruft Mit Gnad' und 
 К зовущему (вас) вдохновенному (поэту),  
 Из добрых чувств – к нуждающемуся в помощи?
 </details>
+

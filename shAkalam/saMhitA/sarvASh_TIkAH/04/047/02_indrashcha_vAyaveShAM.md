@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāyo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arhathaḥ ← √arh- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pītím ← pītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sómānām ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yánti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nimnám ← nimná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sadhryàk ← sadhryàñc- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +185,4 @@ O Indra-Vaju, euch gebührt der Trunk der Somasäfte hier; Denn Indutränke gehn
 К вам ведь катятся капли (сомы)  
 Словно воды в низину – (все) в одну сторону!
 </details>
+

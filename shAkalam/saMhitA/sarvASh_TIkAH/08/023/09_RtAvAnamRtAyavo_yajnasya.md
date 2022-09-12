@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+r̥tā́vānam ← ŕ̥tāvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tāyavaḥ ← r̥tāyú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sā́dhanam ← sā́dhana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+jujuṣuḥ ← √juṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+námasaḥ ← námas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +165,4 @@ O fromme preist den heiligen mit Lied den Opferförderer; Sie haben an der Andac
 (Его,) ведущего к цели жертвоприношение с хвалебной песней...  
 Они насладились им, при(ближаясь к нему) на месте поклонения,
 </details>
+

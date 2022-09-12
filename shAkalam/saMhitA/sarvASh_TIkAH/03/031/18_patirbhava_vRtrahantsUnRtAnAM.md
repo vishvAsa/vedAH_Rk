@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sūnŕ̥tānām ← sūnŕ̥ta- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+girā́m ← gír- ~ gīr- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vayodhā́ḥ ← vayodhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvā́yuḥ ← viśvā́yu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sakhyébhiḥ ← sakhyá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+śivébhiḥ ← śivá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahī́bhiḥ ← máh- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+saraṇyán ← √saraṇy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Sei du, o Vritratödter, Herr der schönen Lieder, der Held der alles belebt und
 Приди к нам с добрыми дружескими услугами,  
 Великий, с великими поддержками спешащий!
 </details>
+

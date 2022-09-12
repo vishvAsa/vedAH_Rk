@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+manīṣā́ ← manīṣā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mát ← ahám (pronoun)  
+{case:ABL, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+str̥ṇīte ← √str̥̄- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ácha ← ácha (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+priyā́ ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+úpa ← úpa (invariable)  
+{}
+
+ádhr̥ṣṭam ← ádhr̥ṣṭa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mitrāvaruṇau ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yantám ← √yam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+chardíḥ ← chardís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sudānū ← sudā́nu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+varūthyàm ← varūthyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Dies Andachtslied ward euch von mir gestreuet, hin auf den Streusitz demuthsvoll
 Даруйте нам, о Митра-Варуна, неодолимую  
 Защиту, (всё) заслоняющую собой, которая (есть) у вас, о (боги) с прекрасными дарами!
 </details>
+

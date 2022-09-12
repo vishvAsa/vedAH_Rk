@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥thivi ← pr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ŕ̥ṣīṇām ← ŕ̥ṣi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śravaeṣé ← śravaeṣá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+áram ← áram (invariable)  
+{}
+
+jrayasānaú ← jrayasāná- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pr̥thú ← pr̥thú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+kṣaranti ← √kṣar- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yā́mabhiḥ ← yā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ Dies ist, o Erde, das hohe, heilige Werk der Dichter bei dem Streben nach Ruhm: 
 Они опережают молитвами  
 Двоих широко движущихся,
 </details>
+

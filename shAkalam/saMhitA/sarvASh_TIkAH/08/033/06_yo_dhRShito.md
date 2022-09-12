@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávr̥taḥ ← ávr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhr̥ṣitáḥ ← √dhr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śmáśruṣu ← śmáśru- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+śritáḥ ← √śri- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cyávanaḥ ← cyávana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+puruṣṭutáḥ ← puruṣṭutá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víbhūtadyumnaḥ ← víbhūtadyumna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gaúḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śākináḥ ← śākiná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +204,4 @@ Der kühnen Muthes, ungehemmt zur Feindesschar gedrungen ist, Der vielgerühmte,
 Чей блеск великолепен, (кто) сотрясатель многопрославленный,  
 Силой духа могучий, словно бык...
 </details>
+

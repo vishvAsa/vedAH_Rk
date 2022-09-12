@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sótā ← sótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sunotu ← √su- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+r̥jīpin ← r̥jīpín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vŕ̥ṣan ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dadhanve ← √dhanv- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+nadī́ṣu ← nadī́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+harīṇām ← hári- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sthātar ← sthā́tar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Der Presser presse dir, ein Stier, vordringend bringe Gut, o Stier, Es rinnt der
 Бык послал бежать быка по рекам  
 Для тебя, о правящий парой буланых коней.
 </details>
+

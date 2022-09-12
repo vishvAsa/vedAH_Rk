@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devátāte ← devátāt- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+júṣṭaḥ ← júṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ávye ← ávya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhanva ← √dhanv- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+sā́no ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+snúnā ← sā́nu- ~ snú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ádabdhaḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásradhāraḥ ← sahásradhāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+surabhíḥ ← surabhí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥ṣáhye ← nr̥ṣáhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vā́jasātau ← vā́jasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +180,7 @@ Pāda b pári ṣnúnā dhanva sā́no ávye is identical to 16d ádhi ṣnúnā
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 Attributed to Śakti Vāsiṣṭha, who, unlike most of the other Vasiṣṭhids named by the Anukr. for this hymn, has other vss. attributed to him: VII.32.26, IX.108.3, 14-16. The tṛca is more concerned with the gods’ consumption of soma than previous ones; note the “divine conclave” (devátāte) in 19a, the invitation to the gods to come to the sacrifice to drink soma in 20d, and the pursuit of the gods (devávītim) in 21a. The final verse of the tṛca (21) also begins with a hymnsummarizing evā́and the type of plea for benefits that often end a hymn. The first two vss. of the tṛca also contain forms of √dhanv: impv. dhanva (19b) and dhanvanti (20c), thus continuing the repeated impv. dhanva of the previous tṛca - with this concatenation suggesting a reason for attaching this tṛca here.
@@ -163,3 +212,4 @@ Der Götterschar zum Rausch willkommen, Indu, ergiess dich auf der Somaseihe Gip
 (Сок) в тысячу потоков, с приятным запахом, безобманный,  
 Теки кругами для захвата награды при покорении мужей!
 </details>
+

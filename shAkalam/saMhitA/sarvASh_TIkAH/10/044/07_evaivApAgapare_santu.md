@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápāk ← ápāñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ápare ← ápara- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dūḍhyàḥ ← dūḷhī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+evá ← evá (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āyuyujré ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+duryújaḥ ← duryúj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yéṣām ← yá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+prā́k ← prā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+úpare ← úpara- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+bhójanā ← bhójana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vayúnāni ← vayúna- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Fürwahr die Bösen stehn zurück als letzte stets, sie, deren Rosse schlecht an
 На самом деле, (это те,) кто впереди, но бывают при давании последними,  
 (Хотя) у них есть много полезных жертвенных дел.
 </details>
+

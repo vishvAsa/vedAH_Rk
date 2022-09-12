@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+syā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+yóṣaṇā ← yóṣaṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+aśvyám ← aśvyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pratīcī́ ← pratyáñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+váśam ← váśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádhirukmā ← ádhirukma- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nīyate ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +145,4 @@ Und diese erhabene Gattin wird mit Goldgeschmeide geschmückt dem Vaça Açvia e
 Идущая навстречу Ваше Ашвье,  
 Украшенная драгоценностями, уводится в сторонку.
 </details>
+

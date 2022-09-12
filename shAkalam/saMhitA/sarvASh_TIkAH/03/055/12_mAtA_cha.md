@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dhenū́ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+duhitā́ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+dhāpáyete ← √dhā- 2 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+sabardúghe ← sabardúgha- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+samīcī́ ← samyáñc- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+antár ← antár (invariable)  
+{}
+
+īḷe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sádasi ← sádas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+asuratvám ← asuratvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Wo beide Kühe, Mutter und die Tochter, vereinigt säugen, reichen Nektar ström
 В сидении закона я призываю их обеих.  
 Велико могущество богов, единственно.
 </details>
+

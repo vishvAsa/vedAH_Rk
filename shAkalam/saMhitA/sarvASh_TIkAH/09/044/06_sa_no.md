@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vásuttaye ← vásutti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+gātuvíttamaḥ ← gātuvíttama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kratuvít ← kratuvíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jeṣi ← √ji- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ Erringe zur Bereicherung, der Kraft du schenkst und höchstes Heil, Uns Labung h
 Тем, кто находит совет, лучше всех находит выход!  
 Завоюй (нам) награду, высокую славу!
 </details>
+

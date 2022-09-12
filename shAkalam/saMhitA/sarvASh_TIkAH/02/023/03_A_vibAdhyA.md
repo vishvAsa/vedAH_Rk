@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+parirā́paḥ ← pariráp- (nominal stem)  
+{case:ACC, number:PL}
+
+támāṁsi ← támas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vibā́dhya ← √bādhⁱ- (root)  
+{non-finite:CVB}
+
+jyótiṣmantam ← jyótiṣmant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tiṣṭhasi ← √sthā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+amitradámbhanam ← amitradámbhana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhīmám ← bhīmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gotrabhídam ← gotrabhíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rakṣoháṇam ← rakṣohán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svarvídam ← svarvíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +201,4 @@ Die Dunkel jagend und die grausig summenden, besteigst den hellen Wagen du des O
 О Брихаспати, страшную, подавляющую недругов,  
 Убивающую ракшасов, раскалывающую загоны для коров, находящую небо.
 </details>
+

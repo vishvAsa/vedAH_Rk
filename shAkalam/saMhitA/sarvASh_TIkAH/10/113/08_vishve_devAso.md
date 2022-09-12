@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+vŕ̥ṣṇyāni ← vŕ̥ṣṇya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ávardhayan ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sómavatyā ← sómavant- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vacasyáyā ← vacasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hánmanā ← hánman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+raddhám ← √randh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āvayat ← √āvay- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+jámbhaiḥ ← jámbha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+tr̥ṣú ← tr̥ṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +216,4 @@ Da haben alle Götter deine Stiereskraft gesteigert noch durch somareiche Lieder
 Змея Вритру, поверженного ударом Индры,  
 Тот сожрал, как Агни (своими) клыками – сухую пищу.
 </details>
+

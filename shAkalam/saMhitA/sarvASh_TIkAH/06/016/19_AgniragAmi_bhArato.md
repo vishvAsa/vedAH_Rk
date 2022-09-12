@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agāmi ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhā́rataḥ ← bhā́rata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purucétanaḥ ← purucétana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dívodāsasya ← dívodāsa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sátpatiḥ ← sátpati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +155,4 @@ Verehrt ward Agni Bharata, der Feindetödter, viel gesehn, Des Divodasa tapfrer 
 К убийце врагов, очень приметному,  
 К благому господину Диводасы.
 </details>
+

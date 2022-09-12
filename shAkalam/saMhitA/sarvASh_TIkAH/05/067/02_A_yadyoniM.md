@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+hiraṇyáyam ← hiraṇyáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mítra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sádathaḥ ← √sad- (root)  
+{number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
+
+váruṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+dhartā́rā ← dhartár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+riśādasā ← riśā́das- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yantám ← √yam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ Wenn ihr euch, Mitra, Varuna, hinsetzet auf den goldnen Schooss, Der Menschenst�
 Как поддерживатели народов,  
 Протяните (к нам) благожелательную мысль, о каратели врагов (?)!
 </details>
+

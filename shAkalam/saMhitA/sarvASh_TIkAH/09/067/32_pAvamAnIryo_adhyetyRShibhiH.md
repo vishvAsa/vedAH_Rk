@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424);; repeated line  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+adhyéti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pāvamānī́ḥ ← pāvamānī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+rásam ← rása- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ŕ̥ṣibhiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sámbhr̥tam ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+duhe ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+kṣīrám ← kṣīrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sarpíḥ ← sarpís- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+udakám ← udaká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

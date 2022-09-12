@@ -15,14 +15,45 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+prathamé ← prathamá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vyòmani ← vyòman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vr̥dháḥ ← vr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+supāráḥ ← supārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suśrávastamaḥ ← suśrávastama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apsujít ← apsujít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Er ist im ersten Himmel, am Sitze der Götter ihr Gedeihenbringer, der zu gutem 
 На сидении богов подкрепитель (богов),  
 Превосходно спасающий, больше всех наделенный славой, завоеватель вод.
 </details>
+

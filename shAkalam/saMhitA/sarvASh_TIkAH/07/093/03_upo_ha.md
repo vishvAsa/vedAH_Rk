@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gúḥ ← √gā- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+vājínaḥ ← vājín- (nominal stem)  
+{}
+
+vidátham ← vidátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ichámānāḥ ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+prámatim ← prámati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+árvantaḥ ← árvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kā́ṣṭhām ← kā́ṣṭhā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nákṣamāṇāḥ ← √nakṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+indrāgnī́ ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+jóhuvataḥ ← √hū- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

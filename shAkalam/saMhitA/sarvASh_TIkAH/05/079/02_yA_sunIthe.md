@@ -17,15 +17,61 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+śaucadrathé ← śaucadrathá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sunīthé ← sunīthá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+aúchaḥ ← √vas- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+divaḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitar ← duhitár- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+sáhīyasi ← sáhīyaṁs- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ucha ← √vas- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+satyáśravasi ← satyáśravas- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vāyyé ← vāyyá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+áśvasūnr̥te ← aśvasūnr̥ta- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sújāte ← sujātá- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -15,13 +15,35 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+ī́ḷiṣva ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+pratīvyàm ← pratīvī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jātávedasam ← jātávedas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yájasva ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ágr̥bhītaśociṣam ← ágr̥bhītaśocis- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cariṣṇúdhūmam ← cariṣṇúdhūma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +150,4 @@ Auf, preise ihn, der gern empfängt, den Wesenkenner ehre recht, Dess Rauch aufw
 Почитай Джатаведаса  
 С подвижным дымом, неуловимым пламенем!
 </details>
+

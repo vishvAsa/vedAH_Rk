@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+náryaḥ ← nárya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táturiḥ ← táturi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vícetāḥ ← vícetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gr̥ṇatáḥ ← √gr̥̄- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrótā ← śrótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urvyū̀tiḥ ← urvyū̀ti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kārúdhāyāḥ ← kārúdhāyas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+narā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śáṁsaḥ ← śáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásuḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+stutáḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +187,7 @@ With this pattern established, it seems reasonable to take áva tārīḥ in d a
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 On avīḥ (1c) and áva tārīḥ (2d) as “hortativ,” see Hoffmann Injunk. 264.
@@ -167,3 +219,4 @@ Der Siegesheld, der tapfre und der weise, vernimmt den Ruf des Sängers weitbesc
 Великолепный, хвала мужей, кормилец певца,  
 Прославленный как добытчик награды, он дает награду на жертвенной раздаче.
 </details>
+

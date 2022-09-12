@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ná ← ná (invariable)  
+{}
+
+návam ← náva- 2 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ráthyam ← ráthya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥bhúḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ādíśe ← ādíś- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+dádhāta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kétam ← kéta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+árṇasā ← árṇas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pavadhvam ← √pū- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+śukrā́ḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Wie neues Rad der Künstler fügt, so spendet uns nach unserm Wunsch, Im Strome 
 Создайте (ему новую) волю, чтоб нацелиться (на него)!  
 Очищаясь (своим) течением, (чтоб стать) прозрачными!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eṣi ← √i- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pavítrā ← pavítra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+trī́ ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vítatāni ← √tan- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+ánu ← ánu (invariable)  
+{}
+
+dhāvasi ← √dhāv- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pūyámānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dātā́ ← dātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dātrásya ← dātrá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghávadbhyaḥ ← maghávan- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +200,7 @@ Needless to say, Lüders (703-4) has a cosmic explanation.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/55-58.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/55-58.md">
 <details open><summary><h2>55-58 ...{Loading}...</h2></summary>
 
 The rest of the hymn consists of 4 vss. Oldenberg dithers about whether this consists of an odd vs., 55, followed by a final tṛca, 56-58 - or a tṛca 55-57, with a final independent vs. 58. At least to my mind, the latter analysis is clearly superior.
@@ -181,3 +236,4 @@ Du gehst zu dreien ausgespannten Seihen, durchströmst hellleuchtend eine nach d
 Ты – счастливая доля, ты – даритель дара,  
 Ты – щедрый для щедрых, о сок (сомы).
 </details>
+

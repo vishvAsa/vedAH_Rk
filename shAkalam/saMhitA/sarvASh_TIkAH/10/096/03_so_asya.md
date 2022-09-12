@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+āyasáḥ ← āyasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háritaḥ ← hárita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vájraḥ ← vájra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gábhastyoḥ ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+níkāmaḥ ← níkāma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyumnī́ ← dyumnín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hárimanyusāyakaḥ ← hárimanyusāyaka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suśipráḥ ← suśiprá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háritā ← hárita- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mimikṣire ← √myakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+rūpā́ ← rūpá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Goldfarben ist des Indra Blitz, der eherne, der holde goldne glänzt wie Gold in
 Сверкающий, прекрасногубый, для кого золотистый (сома) - гнев и выстрел:  
 Индре свойственны золотистые тона.
 </details>
+

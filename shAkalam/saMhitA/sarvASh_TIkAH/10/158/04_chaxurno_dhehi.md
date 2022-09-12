@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cákṣuṣe ← cákṣus- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tanū́bhyaḥ ← tanū́- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+vikhyaí ← √khyā- (root)  
+{case:DAT, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+paśyema ← √paś- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +168,4 @@ Gib unserm Auge hellen Blick, den Blick, um weit um uns zu schaun, Dass rings wi
 Способность видеть, чтобы мы различали для себя!  
 Мы хотим глядеть на этот (мир) и разглядывать его!
 </details>
+

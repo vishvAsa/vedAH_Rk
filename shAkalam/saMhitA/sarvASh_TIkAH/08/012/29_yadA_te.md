@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+mā́rutīḥ ← mā́ruta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+niyemiré ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yemire ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +155,7 @@ just after that all these worlds held themselves in submission to you.
 The doubling of te … túbhyam is presumably pleonastic+++(=redundant)+++ in ab, with the yadā́te simply repeated from 27a, 28a.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/28-30.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
 The linkage of tṛcas is unusually close here, with the pāda-length refrain of vss. 25-27 recast as the first hemistich of vs. 28 and ā́d ít te, which opened the refrain of 25-27, retained as the opening of the refrain of 28-30.
@@ -148,3 +188,4 @@ Als deine Marutscharen dann um dich, o Indra, scharten sich, Da schmiegten alle 
 Покорились тебе,о Индра,  
 Только тогда тебе подчинились все существа.
 </details>
+

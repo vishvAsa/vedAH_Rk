@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gavéṣaṇam ← gavéṣaṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+háribhyām ← hári- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yujé ← √yuj- (root)  
+{case:DAT, number:SG}
+
+asthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jujuṣāṇám ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+bādhiṣṭa ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+apratī́ ← apratí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jaghanvā́n ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Ich schirr' an deinen Siegeswagen Rosse, Gebete stiegen auf zu dem Erhörer; An 
 Этот Индра раздвинул (своим) величием две половины вселенной,  
 Убивая врагов, не имеющих себе равных.
 </details>
+

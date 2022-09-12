@@ -16,14 +16,63 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vicetasā ← vícetas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+bhū́miḥ ← bhū́mi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pupūtáni ← √pū- (root)  
+{case:LOC, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+didiṣṭana ← √diś- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+priyā́ ← priyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ninikta ← √nij- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +193,4 @@ Denn eure Mutter, o ihr weisen, ist Aditi; wie der Himmel soll die Erde durch [e
 Предназначьте (нам) приятные (вещи)!  
 Омойте лучами солнца!
 </details>
+

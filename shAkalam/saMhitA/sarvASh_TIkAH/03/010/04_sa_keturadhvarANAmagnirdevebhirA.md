@@ -15,14 +15,48 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+adhvarā́ṇām ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ketúḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gamat ← √gam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+añjānáḥ ← √añj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+hótr̥bhiḥ ← hótar- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+havíṣmate ← havíṣmant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +167,4 @@ Es komme mit der Götter Schar der Opfer Leuchte, Agni her, Von sieben Priestern
 Агни да приидет с богами,  
 Помазанный семью хотарами, к тому, у кого жертвенное возлияние!
 </details>
+

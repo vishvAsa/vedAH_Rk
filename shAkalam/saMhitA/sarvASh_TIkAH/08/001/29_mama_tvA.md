@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+sū́re ← sū́ra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+údite ← √i- 1 (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+madhyáṁdine ← madhyáṁdina- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+apiśarvaré ← apiśarvará- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+prapitvé ← prapitvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+avr̥tsata ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+stómāsaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +179,4 @@ Bei Sonnenaufgang, Indra, sind dir meine Lieder zugerollt, Und in des Tages Mitt
 Мои – при наступлении ночи,  
 О Васу, к тебе обращены.
 </details>
+

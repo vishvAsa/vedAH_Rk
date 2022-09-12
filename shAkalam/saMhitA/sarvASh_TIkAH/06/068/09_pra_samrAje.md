@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+br̥haté ← br̥hánt- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+samrā́je ← samrā́j- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+árca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sapráthaḥ ← sapráthas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váruṇāya ← váruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+máhivrataḥ ← máhivrata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urvī́ ← urú- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ajáraḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vibhā́ti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +211,7 @@ Geldner also (n. 8c) claims (fld. by Renou) that this vs. is entirely Varuṇa�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/068/09-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/068/09-11.md">
 <details open><summary><h2>09-11 ...{Loading}...</h2></summary>
 
 On the annunciatory forms of ayám in these three vss., see published introduction.
@@ -182,3 +243,4 @@ Auf, singe nun ein Lied dem hohen Opferherrn, ein liebes, grosses ihm, dem Gotte
 (Он,) установивший великий завет, тот, кто два огромных великих (мира)  
 Ярко освещает силой духа, как нестареющий (Агни своим) пламенем.
 </details>
+

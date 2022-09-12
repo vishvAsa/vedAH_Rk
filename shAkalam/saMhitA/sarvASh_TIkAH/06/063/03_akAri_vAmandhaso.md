@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ákāri ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+várīman ← várīman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ástāri ← √str̥̄- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suprāyaṇátamam ← suprāyaṇátama- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uttānáhastaḥ ← uttānáhasta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vavanda ← √vandⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yuvayúḥ ← yuvayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ádrayaḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āñjan ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+nákṣantaḥ ← √nakṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +199,4 @@ Gedient ward euch im weiten Strom des Soma, der Sitz gestreut, der schön ist zu
 Стремясь к вам, я приветствовал (вас) с воздетыми руками.  
 Приближающиеся давильные камни сделали вас смазанными.
 </details>
+

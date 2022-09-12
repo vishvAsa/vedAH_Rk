@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+práti ← práti (invariable)  
+{}
+
+stómebhiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vásiṣṭhāḥ ← vásiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abudhran ← √budh- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+prathamā́ḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víprāsaḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rájasī ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+sámante ← sámanta- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+vivartáyantīm ← √vr̥t- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+āviṣkr̥ṇvatī́m ← √kr̥- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +191,4 @@ Durch Lobgesang erweckten die Vasischtha's die Morgenröthe jetzt zuerst mit Lie
 Перевертывающей два граничащих (друг с другом) пространства,  
 Делающей явными все существа.
 </details>
+

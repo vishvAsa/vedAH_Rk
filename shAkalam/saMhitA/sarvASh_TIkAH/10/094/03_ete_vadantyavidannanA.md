@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+anā́ ← anā́ (invariable)  
+{}
+
+ávidan ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+eté ← eṣá (pronoun)  
+{}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vadanti ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ā́miṣi ← ā́mis- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+pakvé ← pakvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ūṅkhayante ← √ūṅkhay- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+aruṇásya ← aruṇá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bápsataḥ ← √bhas- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śā́khām ← śā́khā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥kṣásya ← vr̥kṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+arāviṣuḥ ← √rū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+sū́bharvāḥ ← sū́bharva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vr̥ṣabhā́ḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +218,4 @@ Sie singen, denn sie fanden nun den süssen Trank, sie brummen lüstern bei dem 
 
 -ru-
 </details>
+

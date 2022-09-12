@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árātyāḥ ← árāti- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+aríḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svásyāḥ ← svá- (pronoun)  
+{case:GEN, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+anyásyāḥ ← anyá- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+árātyāḥ ← árāti- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vŕ̥kaḥ ← vŕ̥ka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+arīta ← √r̥- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED}
+
+dhánvan ← dhánvan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+tŕ̥ṣṇā ← tŕ̥ṣṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+durādhyàḥ ← durādhī́- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jahí ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pavamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+sóma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +251,4 @@ Denn auch des eignen Leids Erreger ist der Feind, wie auch des fremden Leids der
 Пусть настигнет их жажда, словно в пустыне!  
 О Сома-Павамана, убей злоумышленников!
 </details>
+

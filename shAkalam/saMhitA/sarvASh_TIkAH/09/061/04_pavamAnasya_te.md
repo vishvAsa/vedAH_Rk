@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+pávamānasya ← √pū- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+abhyundatáḥ ← √ud- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+sakhitvám ← sakhitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -93,7 +118,7 @@ Both Geldner and Renou render pávamānasya as simply the epithet Pavamāna, but
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 There are faint signs of unity in this tṛca: the word pavítram ‘filter’ is found in vss. 4 and 5, and both 4 and 6 have pres. mid. participles derived from √pū ‘purify’ (pávamāna- 4a, punāná- 6a), but since this is a Soma Pavamāna hymn, this is hardly remarkable.
@@ -124,3 +149,4 @@ Wir wünschen deine Freundschaft uns, der du in hellem Strome rinnst, Und durch 
 С тобою, Паваманой,  
 Когда ты наводняешь цедилку.
 </details>
+

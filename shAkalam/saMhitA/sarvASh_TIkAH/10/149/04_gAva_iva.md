@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+grā́mam ← grā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+yū́yudhiḥ ← yū́yudhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dúhānā ← √duh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vāśrā́ ← vāśrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+jāyā́m ← jāyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhartā́ ← dhartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvávāraḥ ← viśvávāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +242,4 @@ Wie Vieh zum Dorfe, wie der Held zum Streitross, wie zu dem Kalb die Kuh, es fre
 Как муж к жене, пусть приблизиться к нам  
 Савитар со всеми избранными дарами, (этот) поддерживатель неба!
 </details>
+

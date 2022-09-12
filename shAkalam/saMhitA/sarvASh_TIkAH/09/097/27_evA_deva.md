@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devátāte ← devátāt- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+devapā́naḥ ← devapā́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+psárase ← psáras- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+hitā́ḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+maháḥ ← mahás- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samaryé ← samaryá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+smási ← √as- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+kr̥dhí ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+suṣṭhāné ← suṣṭhāná- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +201,7 @@ The summary evā́might be more emphatically rendered as “in just this way” 
 The ppl. in the periphrasis in d, smási hitā́ḥ, could belong either to √dhā or to √hi (so Sāyaṇa.). It is actually not clear to me which one Geldner favors from his “denn wir sind in grossem Wettstreit begriffen” (and his n. 27c doesn’t entirely clarify). Renou clear chose √dhā: “Avec ambition [maháś cid?] nous nous sommes en vérité placéś dans la compétition.” I favor √hi: I think the point is that we are “driven” / “hardpressed” in the hostile encounter, and we need divine help - which we will only get once they have partaken of our soma. But there are several logical steps missing in every interpr.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/25-27.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 Like the tṛca 19-21, this one focuses in great part on the gods as drinkers of soma and the desire to bring them to the ritual; the “pursuit” (vītím) of Indra and Vāyu in 25b is reprised in devā-vī́- ‘pursuing the gods’ in 26a, while the gods are mentioned twice in 27ab. The final vs. also begins with the typical hymnsummarizing evā́as three times elsewhere in this hymn (vss. 13-15, 19-21, 34-36).
@@ -180,3 +235,4 @@ So riesle hell, o Gott, der Schar der Götter zum grossen Schmaus, o Soma, gottg
 Ведь мы, действительно, великолепно устроились на состязании!  
 Сделай, очищаясь, чтобы крепко стояли два мира!
 </details>
+

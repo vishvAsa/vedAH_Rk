@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+svarā́ṭ ← svarā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ucathyè ← ucathyà- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vápuṣi ← vápus- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ghr̥tasnā́ḥ ← ghr̥tasnā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vāyo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áśveṣitam ← áśveṣita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rájeṣitam ← rájeṣita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śúneṣitam ← śúneṣita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ájma ← ájman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +230,4 @@ Die fettbedeckt und leuchtend ist, o Vaju, herrlich von Gestalt, Bespannt mit Ro
 Подгоняемый конями, подгоняемый воздухом, подгоняемый собаками,  
 Обоз (движется) вперед – вот он здесь.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+muñcate ← √muc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+rūpā́ṇi ← rūpá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+asāvīt ← √sū- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cátuṣpade ← cátuṣpad- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dvipáde ← dvipád- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+akhyat ← √khyā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+nā́kam ← nā́ka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váreṇyaḥ ← váreṇya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+prayā́ṇam ← prayā́ṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rājati ← √rāj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ In alle Farben kleidet sich der weise Gott, er schaffet Segen für den Menschen 
 Он сделал видным небосвод, Савитар превосходный.  
 Он направляет (свой путь) вслед за выходом Ушас.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+urāmáthiḥ ← urāmáthi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāraṇáḥ ← vāraṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥kaḥ ← vŕ̥ka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhūṣati ← √bhūṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vayúneṣu ← vayúna- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+jujuṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+citráyā ← citrá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Sogar der Wolf, der wilde, welcher Schafe würgt, er fügt in Indra's Ordnung si
 Приходи, наслаждаясь этим нашим восхвалением!  
 О Индра, про(явись) ярким намерением!
 </details>
+

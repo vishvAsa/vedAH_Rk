@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+áhrutaḥ ← áhruta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anantáḥ ← anantá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yásyāḥ ← yá- (pronoun)  
+{case:GEN, gender:F, number:SG}
+
+arṇaváḥ ← arṇavá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cariṣṇúḥ ← cariṣṇú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tveṣáḥ ← tveṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ámaḥ ← áma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cárati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+róruvat ← √rū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -95,7 +123,7 @@ Like vs. 5, this middle vs. of the tṛca contains only a rel. cl., which I cons
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Unlike the preceding tṛca, this one dispenses with repetition and therefore has more room for meat, comparatively speaking.
@@ -126,3 +154,4 @@ Sie, deren starker Wogendrang ohn' Ende, ungehindert stets, Vordringend, wallend
 Опасная, подвижная, бурная  
 Стремнина мчится, громко ревя...
 </details>
+

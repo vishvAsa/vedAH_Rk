@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+asuryā̀ṇi ← asuryà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+catvā́ri ← catúr- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ádābhyāni ← ádābhya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mahiṣásya ← mahiṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+santi ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vitse ← √vid- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+cakártha ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+kármāṇi ← kárman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ Vier allerhöchste Wesenheiten sind dir, dem allgewalt'gen, ewig unvertilgbar; N
 Только ты знаешь их все  
 (Имена,) с помощью которых, о щедрый, ты совершил (свои) подвиги.
 </details>
+

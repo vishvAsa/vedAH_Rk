@@ -15,13 +15,41 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX
+#### Morph
+hí ← hí (invariable)  
+{}
+
+supsárastamam ← supsárastama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+hūmáhe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+nr̥ṣádaneṣu ← nr̥ṣádana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+áśvapr̥ṣṭham ← áśvapr̥ṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+grā́vāṇam ← grā́van- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maṁhánā ← maṁhánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +156,4 @@ Zum Männersitze laden wir dich ein, den schönstens schmausenden, Dem Steine gl
 Тебя, получающего прекраснейшее угощение,  
 Великолепно мчащегося на спине коня, как давильный камень.
 </details>
+

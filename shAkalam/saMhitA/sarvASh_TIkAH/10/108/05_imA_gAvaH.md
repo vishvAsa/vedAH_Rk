@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+aíchaḥ ← √iṣ- 2 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+sarame ← sarámā- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ántān ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+pátantī ← √pat- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+subhage ← subhága- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+áyudhvī ← áyudhvin- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+enāḥ ← ena- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sr̥jāt ← √sr̥j- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+ā́yudhā ← ā́yudha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+santi ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tigmā́ ← tigmá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +242,4 @@ Diese Kühe, die du suchtest, die Grenzen des Himmels überfliegend, o holde Sar
 А оружие у нас острое.  
 Сарама:
 </details>
+

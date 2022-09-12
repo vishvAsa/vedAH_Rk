@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitáram ← duhitár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahīyámānām ← √mahīy- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:MED}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+piṇak ← √piṣ- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+uṣā́sam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -100,7 +131,7 @@ The voc. indra was omitted in the published translation, so “o Indra” should
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details open><summary><h2>08-21 ...{Loading}...</h2></summary>
 
 These vss. are tr. by Hoffmann (Injunk., 184-86).
@@ -131,3 +162,4 @@ Des Himmels Tochter, Indra, hast du grosser, die sich gross erschien, Die Morgen
 Мнящую себя великой,  
 Ушас, разбил Индра.
 </details>
+

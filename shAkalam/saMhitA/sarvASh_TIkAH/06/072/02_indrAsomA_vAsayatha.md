@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índrāsomā ← índrāsóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+uṣā́sam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vāsáyathaḥ ← √vas- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nayathaḥ ← √nī- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sahá ← sahá (invariable)  
+{}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+skámbhanena ← skámbhana- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+skambháthuḥ ← √skambhⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+áprathatam ← √prathⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +193,4 @@ Das Morgenroth erhellt ihr, Indra-Soma, und führt herauf mit ihrem Licht die So
 Вы укрепили небо креплением,  
 Вы широко простерли мать-землю.
 </details>
+

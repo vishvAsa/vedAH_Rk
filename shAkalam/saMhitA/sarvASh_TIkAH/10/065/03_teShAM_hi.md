@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anarváṇām ← anarván- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+mahatā́m ← mahā́nt- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+íyarmi ← √r̥- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+r̥tajñā́ḥ ← r̥tajñā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tāvŕ̥dhām ← r̥tāvŕ̥dh- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+stómān ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+apsavám ← ápsava- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+arṇavám ← arṇavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+citrárādhasaḥ ← citrárādhas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+maháye ← √mahay- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rāsantām ← √rā- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:MED}
+
+sumitryā́ḥ ← sumitryá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Denn ich erweck' mit Macht ihr Lob, der Mächtigen, rechtskundig der erhabnen, d
 
 -ru-
 </details>
+

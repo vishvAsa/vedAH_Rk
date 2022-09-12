@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+aptúraḥ ← aptúr- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+várdhantaḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ā́ryam ← ā́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇvántaḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apaghnántaḥ ← √han- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+árāvṇaḥ ← árāvan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -102,7 +127,7 @@ smashing away the non-givers,
 The phrase kṛṇvánto víśvam ā́ryam “making it all Ārya,” esp. in conjunction with aptúraḥ “crossing the waters,” most likely alludes to the Ārya expansion in their migration into the northern part of the subcontinent, specifically to crossing frontier rivers and laying claim to the land on the other side. This territorial expansion is implicitly compared here to Soma’s ritual journey. Since, as Geldner notes (n. 5b), the Soma cult is specifically Ārya, importing this practice into new lands would be a key part of the process of Arya-ization.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 Thematically somewhat unified by the journey theme.
@@ -131,3 +156,4 @@ Den Indra stärkend, rasch im Werk, verschaffend, was der Arjer wünscht, Verjag
 
 -ru-
 </details>
+

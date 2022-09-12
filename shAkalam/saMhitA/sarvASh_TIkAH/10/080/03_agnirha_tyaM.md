@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āva ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+járataḥ ← járant- (nominal stem)  
+{case:GEN, number:SG}
+
+kárṇam ← kárṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+adahat ← √dah- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+adbhyáḥ ← áp- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+járūtham ← járūtha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+átrim ← átri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gharmé ← gharmá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+uruṣyat ← √uruṣy- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asr̥jat ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+nr̥médham ← nr̥médha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prajáyā ← prajā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +237,4 @@ Es labte Agni einst das Ohr des Greises und trieb durch Glut Dscharutha aus den 
 Агни освободил Атрии в пекле.  
 Агни снабдил Нримедху потомством.
 </details>
+

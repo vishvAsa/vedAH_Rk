@@ -16,14 +16,51 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āhāvā́n ← āhāvá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kr̥ṇotana ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+dadhātana ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+varatrā́ḥ ← varatrā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+avatám ← avatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+siñcā́mahai ← √sic- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+udríṇam ← udrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ánupakṣitam ← ánupakṣita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suṣékam ← suṣéka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +172,4 @@ Machet die Eimer zurecht, setzet die Riemen daran; wir wollen den wasserreichen 
 Мы хотим черпать (воду) из колодца, полного воды,  
 Легко отдающего воду, из неиссякающего.
 </details>
+

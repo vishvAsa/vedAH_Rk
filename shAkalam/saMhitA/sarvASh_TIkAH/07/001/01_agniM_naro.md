@@ -15,13 +15,44 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aráṇyoḥ ← aráṇi- ~ aráṇī- (nominal stem)  
+{case:LOC, gender:F, number:DU}
+
+dī́dhitibhiḥ ← dī́dhiti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hástacyutī ← hástacyuti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+janayanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+praśastám ← √śaṁs- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+atharyúm ← atharyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dūredŕ̥śam ← dūredŕ̥ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥hápatim ← gr̥hápati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Den hehren Agni zeugten aus den Hölzern durch Handbewegung andachtsvoll die Mä
 Порождайте движением руки, (его,) прославленного,  
 Далеко видного хозяина дома, пламенеющего!
 </details>
+

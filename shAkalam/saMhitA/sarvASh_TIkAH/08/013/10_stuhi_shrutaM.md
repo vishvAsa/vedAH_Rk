@@ -15,14 +15,45 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment
+#### Morph
+śrutám ← √śru- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+stuhí ← √stu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vipaścítam ← vipaścít- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+prasakṣíṇā ← prasakṣín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dāśúṣaḥ ← dāśváṁs- (nominal stem)  
+{case:GEN, number:SG}
+
+gántārā ← gántar- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+gr̥hám ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+namasvínaḥ ← namasvín- (nominal stem)  
+{case:GEN, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +150,4 @@ Den weisen preise, der berühmt, und dessen Rosse sieggewohnt Hineilen zu des fr
 Чья пара буланых победоносных коней  
 Отправляется к дому поклоняющегося (ему) почитателя!
 </details>
+

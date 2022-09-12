@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvárūpaḥ ← viśvárūpa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jajāna ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+prajā́ḥ ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pupóṣa ← √puṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+purudhā́ ← purudhā́ (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+imā́ ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asuratvám ← asuratvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +206,7 @@ At best we can take prajā́ḥ purudhā́with both verbs: “thrives with regar
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 I’m not sure why Tvaṣṭar appears here. The previous vs., with the arrival of Indra at the sacrifice, may mark the end of the ritualistic vss. that dominated the hymn up till now. The few remaining vss. then celebrate the prosperity and abundance that our good relationship with the gods, via the sacrifice, will produce: teeming life provided by Tvaṣṭar (19), goods filling the two worlds provided by Indra (20), peace provided by Agni (21), and the inanimate earthly supports for all this prosperity, which provide their gifts to Indra (22).
@@ -186,3 +238,4 @@ Tvaschtar, der Gott, belebend, vielgestaltig, erzeugt' und nährte reichlich die
 И все эти существа – его (потомство).  
 Велико могущество богов, единственно.
 </details>
+

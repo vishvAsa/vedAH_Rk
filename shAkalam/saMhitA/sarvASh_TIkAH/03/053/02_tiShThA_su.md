@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gāḥ ← √gā- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+kam ← kam (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+tíṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+súṣutasya ← súṣuta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yakṣi ← √yaj- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rabhe ← √rabh- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+sícam ← síc- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śacīvaḥ ← śácīvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+svā́diṣṭhayā ← svā́diṣṭha- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +241,4 @@ O bleibe stehn, nicht gehe fort, du mächt'ger, nun bring ich dir vom schöngepr
 Словно сын отца, я держу тебя за край (одежды),  
 О Индра, с помощью сладчайшей хвалебной песни, о могучий.
 </details>
+

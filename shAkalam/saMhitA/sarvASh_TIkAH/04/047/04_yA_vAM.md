@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+puruspŕ̥haḥ ← puruspŕ̥h- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+niyútaḥ ← niyút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+yajñavāhasā ← yajñavāhas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+índravāyū ← indra-vāyú- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ní ← ní (invariable)  
+{}
+
+yachatam ← √yam- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +186,4 @@ Die Vielgespanne, die ihr habt, dem Frommen, Männer, vielbegehrt, Die euch zum 
 Удержите их для нас, о Индра-Ваю,  
 О те, кого привозят жертвы!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pŕ̥ṣatībhiḥ ← pŕ̥ṣant- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+r̥ṣṭíbhiḥ ← r̥ṣṭí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sámmiślāḥ ← sámmiśla- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+añjíṣu ← añjí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+priyā́ḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śubhrā́saḥ ← śubhrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+āsádya ← √sad- (root)  
+{non-finite:CVB}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bharatasya ← bharatá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sūnavaḥ ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+divaḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+pibata ← √pā- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+potrā́t ← potrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ O Rudrassöhne, die zum Opfer ihr erscheint, mit Hirschen, Speeren, und beliebt 
 Сев на жертвенную солому, о сыновья Бхараты,  
 Пейте сому из кубка потара, о мужи неба!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tántuḥ ← tántu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vítataḥ ← √tan- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+jihvā́yāḥ ← jihvā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+māyáyā ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+āśata ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+cit ← cit (invariable)  
+{}
+
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+samínakṣantaḥ ← √naś- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT, mood:DES}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áprabhuḥ ← áprabhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+áva ← áva (invariable)  
+{}
+
+kartám ← kartá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+padāti ← √pad- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +243,4 @@ Des Opfers Netz ist in der Seihe ausgespannt beim Opferanfang durch die Macht de
 Только мудрые, стремящиеся достигнуть, достигают (этого).  
 Бессильный же – да падет он в яму!
 </details>
+

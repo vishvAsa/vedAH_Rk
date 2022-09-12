@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line  
 popular
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+gr̥ṇātu ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+viśvā́vasuḥ ← viśvā́vasu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+divyáḥ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gandharváḥ ← gandharvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vimā́naḥ ← vimā́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+avyāḥ ← √avⁱ- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+hinvānáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +245,4 @@ Das gebe uns der himmlische Gandharve, der alles Gut hat, der die Luft durchwand
 Что в самом деле истинно и чего мы не знаем.  
 Возбуждая мысли, пусть поможет он нашим мыслям!
 </details>
+

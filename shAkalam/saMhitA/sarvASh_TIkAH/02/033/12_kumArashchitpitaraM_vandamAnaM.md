@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+kumāráḥ ← kumārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vándamānam ← √vandⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+nānāma ← √nam- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+rudra ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+upayántam ← √i- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bhū́reḥ ← bhū́ri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dātā́ram ← dātár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥ṇīṣe ← √gr̥̄- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+sátpatim ← sátpati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+bheṣajā́ ← bheṣajá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+rāsi ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+stutáḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +216,4 @@ Wie auch das Kind sich dem verehrten Vater in Liebe zuneigt, wenn er kommt, o Ru
 Я воспеваю того, кто дает много, истинного господина.  
 Прославленный, дай ты нам целебные средства!
 </details>
+

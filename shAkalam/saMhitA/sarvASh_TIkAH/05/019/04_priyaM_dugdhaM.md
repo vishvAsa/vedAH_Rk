@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dugdhám ← √duh- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+kā́myam ← kā́mya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ájāmi ← ájāmi- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jāmyóḥ ← jāmí- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+sácā ← sácā (invariable)  
+{}
+
+gharmáḥ ← gharmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vā́jajaṭharaḥ ← vā́jajaṭhara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádabdhaḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dábhaḥ ← dábha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śáśvataḥ ← śáśvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +187,4 @@ Wie lieber begehrungswerther Safterguss, der sich nicht ziemt unter Geschwistern
 (Он) – словно котелок с молоком, таящий в животе жертвенную пищу,  
 Невредимый, вредящий любому другому.
 </details>
+

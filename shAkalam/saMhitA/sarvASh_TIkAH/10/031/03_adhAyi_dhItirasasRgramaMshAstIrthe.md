@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+áṁśāḥ ← áṁśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ásasr̥gram ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+dhītíḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dasmám ← dasmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tīrthé ← tīrthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ū́māḥ ← ū́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+ānaśma ← √naś- 1 (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+śūṣám ← śūṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvitásya ← suvitá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+abhūma ← √bhū- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+amŕ̥tānām ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+návedasaḥ ← návedas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Geweiht ist Andacht, Tränke sind ergossen, zum hehren kommen wie zum Born die F
 Мы добились гимна для счастливого путешествия.  
 Мы стали посвященными у бессмертных.
 </details>
+

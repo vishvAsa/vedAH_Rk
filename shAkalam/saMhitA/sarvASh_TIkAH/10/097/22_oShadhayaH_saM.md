@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+óṣadhayaḥ ← óṣadhi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+vadante ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+rā́jñā ← rā́jan- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+sómena ← sóma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+brāhmaṇáḥ ← brāhmaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇóti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yásmai ← yá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+pārayāmasi ← √pr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +172,4 @@ Mit Soma, ihrem Könige, besprechen sich die Kräuter so: Für wen uns ein Brahm
 Для кого действует брахман,  
 Того, о царь, мы перевозим на другую сторону.
 </details>
+

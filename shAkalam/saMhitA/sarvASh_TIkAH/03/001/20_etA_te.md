@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+etā́ ← eṣá (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+jánima ← jániman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sánāni ← sána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+nū́tanāni ← nū́tana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+pūrvyā́ya ← pūrvyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vocam ← √vac- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+imā́ ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+kr̥tā́ ← √kr̥- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+mahā́nti ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jánmañ-janman ← jánman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+jātávedāḥ ← jātávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+níhitaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Ich will verkünden, Agni, die Geburten, die alten und die neuen, dir dem alten;
 Эти великие выжимания совершены для быка.  
 Из поколения в поколение заложен Джатаведас (как жрец среди людей).
 </details>
+

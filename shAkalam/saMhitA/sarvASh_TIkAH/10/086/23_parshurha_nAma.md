@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+ha ← ha (invariable)  
+{}
+
+mānavī́ ← mānavá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+párśuḥ ← párśu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sākám ← sākám (invariable)  
+{}
+
+sasūva ← √sū- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+viṁśatím ← viṁśatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+abhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhala ← bhala (invariable)  
+{}
+
+tyásyai ← syá- ~ tyá- (pronoun)  
+{case:DAT, gender:F, number:SG}
+
+ā́mayat ← √amⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+udáram ← udára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yásyāḥ ← yá- (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Das menschliche Weib, Parçu mit Namen, hat zwanzig Kinder auf einmal geboren; H
 
 -ru-
 </details>
+

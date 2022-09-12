@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+adhvaryúḥ ← adhvaryú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pathíbhiḥ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+rájiṣṭhaiḥ ← rájiṣṭha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+véti ← √vī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+havyā́ni ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+vītáye ← vītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+niyutvaḥ ← niyútvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+piba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ubháyasya ← ubháya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gávāśiram ← gávāśir- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śúcim ← śúci- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +185,4 @@ Auf gradsten Wegen führt der Opferpriester hin die Tränke zu dem Opfermahl, So
 Испей же, о владелец упряжек, того и другого:  
 Чистого сому (и) смешанного с молоком!
 </details>
+

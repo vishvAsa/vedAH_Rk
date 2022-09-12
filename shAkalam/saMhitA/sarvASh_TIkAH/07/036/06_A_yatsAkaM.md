@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+sākám ← sākám (invariable)  
+{}
+
+vāvaśānā́ḥ ← √vāś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:MED}
+
+yaśásaḥ ← yaśás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+saptáthī ← saptátha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+síndhumātā ← síndhumātar- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sudhārā́ḥ ← sudhārá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sudúghāḥ ← sudúgha- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+suṣváyanta ← √suṣvay- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pī́pyānāḥ ← √pī- 1 (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:MED}
+
+svéna ← svá- (pronoun)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +229,4 @@ Wenn im Verein die schönen Ströme rauschen, sechs Töchter mit Sarasvati, der 
 (Те,) что хорошо плодоносят, хорошо доятся, хорошо текут,  
 Набухая от своего молока:
 </details>
+

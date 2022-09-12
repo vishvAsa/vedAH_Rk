@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line
+#### Morph
+ā́jipate ← ājipati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nr̥pate ← nr̥páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+sukrato ← sukrátu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā́je ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vakṣi ← √vah- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+devávītibhiḥ ← devávīti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+hótrābhiḥ ← hótrā- 1 (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vītī́ ← vītí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sasavā́ṁsaḥ ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+śr̥ṇvire ← √śru- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ O Schlachtenherr, o Männerherr, vielwirkender, zu unserm Opfer fahre du; Durch 
 Жертвенным угощением, возлияниями и приглашениями богов  
 Они прославились как достигшие цели.
 </details>
+

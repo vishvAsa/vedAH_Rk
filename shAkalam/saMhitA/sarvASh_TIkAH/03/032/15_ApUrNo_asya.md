@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́pūrṇaḥ ← √pr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kaláśaḥ ← kaláśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svā́hā ← svā́hā (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+kóśam ← kóśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+píbadhyai ← √pā- 2 (root)  
+{case:DAT, number:SG, tense:PRS}
+
+séktā ← séktar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sisice ← √sic- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+avavr̥tran ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:PASS}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+priyā́ḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pradakṣiṇít ← pradakṣiṇít (invariable)  
+{}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Sein Becher ist ganz angefüllet – Heil ihm – dem Giesser gleich ergoss das 
 Приятные соки сомы все вместе повернули  
 Направо к Индре, чтобы он опьянялся.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádabdhāḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahiṣā́ḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rihanti ← √rih- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gŕ̥dhrāḥ ← gŕ̥dhra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+rebhanti ← √ribh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+daśábhiḥ ← dáśa- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hinvánti ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣípābhiḥ ← kṣípā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+añjate ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+rásena ← rása- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rūpám ← rūpá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +197,7 @@ The insightful ones impel him with their ten fingers. They jointly anoint  his f
 The simile in b is one of the best pieces of evidence for my interpr. of √ribh as ‘squawk, creak,’ etc., rather than ‘sing’. The simile “like birds of prey” (ná gṛ́dhrāḥ) only makes sense if the verb that expresses the sounds of the voices of the poets (kaváyaḥ) is not a mellifluous one. Both Geldner and Renou struggle with this. Geldner reduces rebhanti to ‘become hearable/known’: “… werden die Seher lautbar wie die Geier” (not the first quality one things of for a Geier); Renou simply recasts the simile: “sur sa trace ils psalmodient, comme des poètes avides (de gain).”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/55-58.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/55-58.md">
 <details open><summary><h2>55-58 ...{Loading}...</h2></summary>
 
 The rest of the hymn consists of 4 vss. Oldenberg dithers about whether this consists of an odd vs., 55, followed by a final tṛca, 56-58 - or a tṛca 55-57, with a final independent vs. 58. At least to my mind, the latter analysis is clearly superior.
@@ -178,3 +233,4 @@ Den Indu schlürfen unversehrte Büffel, und rauschen dort wie eifervolle Sänge
 Мудрые поторапливают (его) десятью пальцами,  
 Они умащают его облик соком вод.
 </details>
+

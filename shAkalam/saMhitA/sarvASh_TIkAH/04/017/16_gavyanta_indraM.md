@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gavyántaḥ ← √gavy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aśvāyántaḥ ← √aśvāy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vājáyantaḥ ← √vājay- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ákṣitotim ← ákṣitoti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+janidā́m ← janidā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+janīyántaḥ ← √janīy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+avaté ← avatá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+cyāvayāmaḥ ← √cyu- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+kóśam ← kóśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Wir Sänger ziehn den Indra her zum Beistand, um Rind und Ross und Gut den stark
 Желая женщин – того, кто дает женщин, того, чья помощь нерушима,  
 Мы подтягиваем к себе, словно бадью в колодце.
 </details>
+

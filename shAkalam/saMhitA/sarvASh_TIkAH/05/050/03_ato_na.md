@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+átas ← átas (invariable)  
+{}
+
+átithīn ← átithi- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+átas ← átas (invariable)  
+{}
+
+daśasyata ← √daśasy- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pátnīḥ ← pátnī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+āré ← āré (invariable)  
+{}
+
+patheṣṭhā́m ← patheṣṭhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dviṣáḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yuyotu ← √yu- 2 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yū́yuviḥ ← yū́yuvi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +189,4 @@ Darum seid unsern Gästen hold, darum seid hold auch unsern Frau'n; Die Feind' u
 Каждого, стоящего (поперек) пути, (всех) врагов,  
 Далеко прочь пусть изгонит изгонитель!
 </details>
+

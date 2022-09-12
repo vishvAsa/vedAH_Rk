@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+brahmajāyā́m ← brahmajāyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+punardā́ya ← punardā́ya (invariable)  
+{non-finite:CVB}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kr̥tvī́ ← √kr̥- (root)  
+{}
+
+nikilbiṣám ← nikilbiṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhaktvā́ya ← √bhaj- (root)  
+{non-finite:CVB}
+
+pr̥thivyā́ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+āsate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+urugāyám ← urugāyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +171,4 @@ Wenn sie des Brahmanen Gattin zurückgegeben und durch die Götter ihre Entsünd
 Вкусив питательную силу земли,  
 Они приобщаются к широкому простору для движения.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+prábhr̥tim ← prábhr̥ti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+śáśvac-chaśvat ← śáśvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yā́damānaḥ ← √yād- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+suté-sute ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+várdhanebhiḥ ← várdhana- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vāvr̥dhe ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+bhū́t ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+kármabhiḥ ← kárman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+mahádbhiḥ ← mahā́nt- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+súśrutaḥ ← súśruta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +232,4 @@ Lass dieses Lied und Opfer wohlgelingen, indem mit Hülfen fort und fort du herk
 При каждом выжатом (соме) он крепнул благодаря подкреплениям,  
 (Тот,) кто стал столь знаменит (своими) великими деяниями.
 </details>
+

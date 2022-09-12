@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+uttíṣṭhan ← √sthā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+avepayaḥ ← √vip- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pītvī́ ← √pā- 2 (root)  
+{}
+
+śípre ← śíprā- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+camū́ ← camū́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutám ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +144,4 @@ Du schütteltest die Lippen dir, erhebend Indra dich mit Kraft, Nach des gepress
 
 -ru-
 </details>
+

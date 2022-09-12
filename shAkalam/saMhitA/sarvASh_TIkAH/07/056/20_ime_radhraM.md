@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+junanti ← √jū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+radhrám ← radhrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhŕ̥mim ← bhŕ̥mi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+juṣánta ← √juṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+vásavaḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+bādhadhvam ← √bādhⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+támāṁsi ← támas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vr̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dhattá ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tánayam ← tánaya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tokám ← toká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Den Matten auch ermuntern diese Maruts, damit des regen sich die guten freuen; O
 Прогоните прочь мрак, о быки!  
 Дайте нам полное продолжение рода!
 </details>
+

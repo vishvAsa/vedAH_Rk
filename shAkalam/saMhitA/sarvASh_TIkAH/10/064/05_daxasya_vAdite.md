@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adite ← áditi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jánmani ← jánman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vraté ← vratá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mitrā́váruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+rā́jānā ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vivāsasi ← √vanⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átūrtapanthāḥ ← átūrtapanthā- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pururáthaḥ ← pururátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jánmasu ← jánman- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+saptáhotā ← saptáhotar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víṣurūpeṣu ← víṣurūpa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +205,4 @@ Zu Dakscha's Pflege und Geburt, o Aditi, rufst du die Herrscher Mitra-Varuna her
 
 -ru-
 </details>
+

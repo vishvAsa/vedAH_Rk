@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śunám ← śuná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śunám ← śuná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vāhā́ḥ ← vāhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kr̥ṣatu ← √kr̥ṣ- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+lā́ṅgalam ← lā́ṅgala- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śunám ← śuná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+badhyantām ← √bandh- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:PASS}
+
+śunám ← śuná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+varatrā́ḥ ← varatrā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+áṣṭrām ← áṣṭrā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+iṅgaya ← √iṅg- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śunám ← śuná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +183,4 @@ Zum Gedeihn seien die Zugstiere, zum Gedcihn die Männer, zum Gedeihen pflüge d
 На счастье пусть завязываются ремни!  
 На счастье помахивай стрекалом!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvāt ← áśva- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+íti ← íti (invariable)  
+{}
+
+iyāya ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vádanti ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+manye ← √man- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ójasaḥ ← ójas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+harmyéṣu ← harmyá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+iyāya ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+manyóḥ ← manyú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+tasthau ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prajajñé ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yátas ← yátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Wenn sie sagen: »Aus dem Rosse ist er entsprungen«, so meine ich, er sei aus d
 От гнева он произошел: он был в заточении.  
 Откуда он родился, это знает (только) Индра.
 </details>
+

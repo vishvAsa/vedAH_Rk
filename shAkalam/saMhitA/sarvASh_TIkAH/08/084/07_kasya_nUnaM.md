@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+párīṇasaḥ ← párīṇas- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+dampate ← dámpati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jinvasi ← √ji- 2 ~ jinv- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+góṣātā ← góṣāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +160,4 @@ O Hausherr, wessen Bitten nun erfüllst aus deinem reichen Schatz Du, dem im Kam
 Ты оживляешь полнотой (даров), о хозяин дома?  
 (Ты тот,) чьи песни добывают коров.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+citrám ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+turā́ya ← turá- 1 (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bharadhvam ← √bhr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+mā́rutāya ← mā́ruta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svátavase ← svátavas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sáhāṁsi ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sáhante ← √sah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+makhébhyaḥ ← makhá- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+réjate ← √rej- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

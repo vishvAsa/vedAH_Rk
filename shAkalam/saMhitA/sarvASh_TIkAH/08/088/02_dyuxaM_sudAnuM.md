@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́vr̥tam ← √vr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+dyukṣám ← dyukṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudā́num ← sudā́nu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+táviṣībhiḥ ← táviṣī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+girím ← girí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+purubhójasam ← purubhójas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kṣumántam ← kṣumánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahasríṇam ← sahasrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatínam ← śatín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gómantam ← gómant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +194,4 @@ Den lichten Geber, der mit Kraft umgürtet ist, wie ein Gebirg' das viele nährt
 Мы обращаемся немедленно за сотенной, тысячной  
 Наградой, состоящей из мелкого (и) крупного скота.
 </details>
+

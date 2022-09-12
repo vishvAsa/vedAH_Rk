@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhánānām ← dhána- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+kr̥dhí ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+susanitar ← susanitar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhavasi ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+gha ← gha (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sámiddhaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stotúḥ ← stotár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+subhágasya ← subhága- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dadhiṣe ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+karásnā ← karásna- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sr̥prā́ ← sr̥prá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vápūṁṣi ← vápus- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +238,4 @@ Verschaff der Schätze Fülle, Reichthumspender, das bist du Agni ja, wenn du en
 Богатство в доме осчастливленного восхвалителя:  
 Ты обладаешь ползучими руками, красивыми обличьями!
 </details>
+

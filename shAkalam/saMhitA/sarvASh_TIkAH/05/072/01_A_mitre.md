@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+mitré ← mitrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+váruṇe ← váruṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+atrivát ← atrivát (invariable)  
+{}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+juhumaḥ ← √hu- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sadatam ← √sad- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Nach Atri's Weise rufen wir mit Lied zu Mitra, Varuna; Setzt nieder euch zum Som
 Приносим жертву с песнями, подобно Атри.  
 Пусть сядете вы двое на жертвенную солому для питья сомы!
 </details>
+

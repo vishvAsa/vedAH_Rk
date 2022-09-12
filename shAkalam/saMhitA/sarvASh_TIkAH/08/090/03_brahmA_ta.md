@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bráhma ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ánatidbhutā ← ánatidbhuta- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kriyánte ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:PASS}
+
+haryaśva ← háryaśva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+yójanā ← yójana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ámanmahi ← √man- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +197,4 @@ Dir, Indra, wird Gebet gebracht, liedfroher, unvergleichlicher Nimm, Füchselenk
 
 -ru-
 </details>
+

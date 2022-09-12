@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+índrāsomā ← índrāsóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pári ← pári (invariable)  
+{}
+
+vartáyatam ← √vr̥t- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+agnitaptébhiḥ ← agnitaptá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+áśmahanmabhiḥ ← áśmahanman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ajárebhiḥ ← ajára- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+atríṇaḥ ← atrín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tápurvadhebhiḥ ← tápurvadha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+nisvarám ← nisvará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+párśāne ← párśāna- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vidhyatam ← √vyadh- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yántu ← √i- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +210,4 @@ Vom Himmel, Indra-Soma, schleudert nun herab die gluterhitzten Steingeschosse be
 Нестареющими (языками пламени), вооруженными жаром, столкните вы  
 Атринов в бездну! Да отправятся они (туда) без звука!
 </details>
+

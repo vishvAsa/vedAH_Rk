@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āvŕ̥taḥ ← āvŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saháchandasaḥ ← saháchandas- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sahástomāḥ ← sahástoma- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+daívyāḥ ← daívya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sahápramāḥ ← sahápramā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anudŕ̥śya ← √dr̥ś- (root)  
+{non-finite:CVB}
+
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pū́rveṣām ← pū́rva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+anvā́lebhire ← √labh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+raśmī́n ← raśmí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rathyàḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +193,4 @@ Die sieben göttlichen Dichter mit ihren Lobliedern, ihren Versen, ihren Maassen
 Мудрые, озирая путь древних,  
 Взяли в руки вожжи, словно колесничие.
 </details>
+

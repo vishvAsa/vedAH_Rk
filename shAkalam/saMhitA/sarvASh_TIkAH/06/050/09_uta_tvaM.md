@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vavr̥tyāḥ ← √vr̥t- (root)  
+{number:SG, person:2, mood:OPT, tense:PRF, voice:ACT}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+rātaú ← rātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sádam ← sádam (invariable)  
+{}
+
+syā́m ← √as- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+suvī́raḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syām ← √as- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +222,7 @@ Might I be always within (the sphere of) your giving; by your help might  I poss
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/050/08-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/050/08-10.md">
 <details open><summary><h2>08-10 ...{Loading}...</h2></summary>
 
 These three vss. contain a series of perfect optatives, jagamyāt (8b), vavṛtyāt (9b), jagmyātam (10a), but they do not show any peculiarities of register or usage. The connection among the vss. is also signaled by utá, which opens the second two. Klein (DGRV I.424) notes the co-occurrence of the “optative series” (he does not mention that they are belong to the pf.) and the utá’s.
@@ -187,3 +254,4 @@ Und wende du, o Sohn der Kraft, uns heute die Götter her zu dieser Opferfeier; 
 Да буду я всегда у тебя в милости!  
 Да буду я с твоей помощью обладателем хороших сыновей!
 </details>
+

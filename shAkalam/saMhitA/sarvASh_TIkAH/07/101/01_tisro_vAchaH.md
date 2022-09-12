@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+jyótiragrāḥ ← jyótiragra- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+tisráḥ ← trí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vā́caḥ ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vada ← √vadⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+duhré ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+madhudoghám ← madhudoghá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇván ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+óṣadhīnām ← óṣadhī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+roravīti ← √rū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sadyás ← sadyás (invariable)  
+{}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,3 +257,4 @@ Drei Worte nenne, denen Licht vorangeht, und die das nektarreiche Euter saugen, 
 Создавая теленка, зародыша растений,  
 Едва родившись, бык сразу же громко ревет.
 </details>
+

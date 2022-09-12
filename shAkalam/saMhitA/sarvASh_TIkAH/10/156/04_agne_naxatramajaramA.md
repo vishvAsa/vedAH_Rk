@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ajáram ← ajára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nákṣatram ← nákṣatra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rohayaḥ ← √ruh- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jánebhyaḥ ← jána- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +149,4 @@ Du, Agni, hobst zum Himmel auf die Sonn', das ewige Gestirn, Das Licht dem Mensc
 Нестареющую звезду – солнце,  
 Дающее свет людям.
 </details>
+

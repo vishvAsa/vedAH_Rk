@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+īdhire ← √idh- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+r̥tāyávaḥ ← r̥tāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+pratnám ← pratná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pratnā́saḥ ← pratná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sahaskr̥ta ← sáhaskr̥ta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+puruścandrám ← puruścandrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvádhāyasam ← viśvádhāyas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajatám ← yajatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dámūnasam ← dámūnas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥hápatim ← gr̥hápati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váreṇyam ← váreṇya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +199,4 @@ Dich, Agni, haben frommgesinnte angefacht, den alten alte sich zu Nutz, o Sohn d
 Очень яркого, достойного жертв, всех подкрепляющего,  
 Домашнего, хозяина дома, избранного.
 </details>
+

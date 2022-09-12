@@ -15,13 +15,56 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+papana ← √panⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+apásaḥ ← apás- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+náviṣṭau ← náviṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vájrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ciketa ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +175,4 @@ Auf nichts andres sinn' und denk' ich, Blitzer, bei dem Preis des Dichters, Nur 
 О громовержец, при создании нового произведения.  
 Только тебе я замышлял хвалу.
 </details>
+

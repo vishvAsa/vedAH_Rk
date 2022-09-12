@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+jyéṣṭhaḥ ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ójiṣṭhaḥ ← ójiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugrā́ṇām ← ugrá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+jigetha ← √ji- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śáśvat ← śáśvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yúdhvā ← yúdhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,7 +142,7 @@ As Renou points out, sán here is non-concessive. Instead it seems to have a fun
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 The first two vss. are linked lexically and by their investment in grammatical comparison. The third is unconncected, but 18c echoes vs. 14 in the previous tṛca.
@@ -137,3 +171,4 @@ Gross bist, Soma, du, der beste, Indu, und der starken stärkster, Stets bist Si
 
 -ru-
 </details>
+

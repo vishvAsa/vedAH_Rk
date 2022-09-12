@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ādhréṇa ← ādhrá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+jaghāna ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pétvena ← pétva- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+siṁhyàm ← siṁhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+avr̥ścat ← √vr̥śc- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sraktī́ḥ ← sraktí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+veśyā̀ ← veśī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ayachat ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhójanā ← bhójana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sudā́se ← sudā́s- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +245,4 @@ Durch Schwache auch vollführt' er seine Absicht, die Löwin auch erschlug er du
 Индра обрубил зубцы иглой.  
 Он подарил все запасы Судасу.
 </details>
+

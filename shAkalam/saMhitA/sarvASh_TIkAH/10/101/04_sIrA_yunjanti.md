@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sī́rā ← sī́ra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yuñjanti ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pŕ̥thak ← pŕ̥thak (invariable)  
+{}
+
+tanvate ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+yugā́ ← yugá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sumnayā́ ← sumnayā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Die es verstehen, spannen die Stränge an und legen die Joche gesondert auf, die
 По отдельности надевают хомуты  
 (Эти) мудрые ради благожелательности среди богов.
 </details>
+

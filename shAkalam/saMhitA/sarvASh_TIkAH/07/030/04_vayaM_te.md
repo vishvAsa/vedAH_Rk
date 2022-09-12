@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+dádataḥ ← √dā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+maghā́ni ← maghá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+stávanta ← √stu- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sūríbhyaḥ ← sūrí- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+upamám ← upamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+várūtham ← várūtha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yácha ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+aśnavanta ← √naś- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+jaraṇā́m ← jaraṇā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+svābhúvaḥ ← svābhū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Wir mögen dir, o Indra, recht gefallen, o Gott, und die, o Held, dir Gaben spen
 Предоставь покровителям (нашим) высшую защиту!  
 Хорошо сохранившиеся, пусть достигнут они старости!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ebhíḥ ← ayám (pronoun)  
+{case:INS, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+tvāyúbhiḥ ← tvāyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ājaú ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+maghávadbhiḥ ← maghávan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+aryáḥ ← arí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dyā́vaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dyumnaíḥ ← dyumná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sántaḥ ← √as- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+kṣapáḥ ← kṣáp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+madema ← √mad- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Mit diesen Männern, Indra, die dich lieben, die mächtig sind in jedem Kampf, o
 Превосходя врагов блеском, словно небеса (-землю),  
 Мы хотим радоваться многие ночи и осени!
 </details>
+

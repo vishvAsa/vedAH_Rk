@@ -16,14 +16,63 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dhātam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+dyāvāpr̥thivī ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+eṣu ← ayám (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vīréṣu ← vīrá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+viśvácarṣaṇi ← viśvácarṣaṇi- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pr̥kṣám ← pr̥kṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vā́jasya ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pr̥kṣám ← pr̥kṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+turváṇe ← √tūr(v)- ~ tur- (root)  
+{case:DAT, number:SG}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +187,4 @@ O Himmel und Erde, verleihet uns, den Männern hier, grossen Reichthum, der zu a
 
 -ru-
 </details>
+

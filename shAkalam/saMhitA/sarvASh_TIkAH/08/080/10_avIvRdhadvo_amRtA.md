@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ámandīt ← √mand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+amr̥tāḥ ← amŕ̥ta- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ávīvr̥dhat ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+devīḥ ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+ekadyū́ḥ ← ekadyū́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+kr̥ṇuta ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+praśastám ← √śaṁs- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+dhiyā́vasuḥ ← dhiyā́vasu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jagamyāt ← √gam- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+prātár ← prātár (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Es hat euch, o Unsterbliche, Ekadju verherrlicht und erfreut, o Götter und die 
 
 -ru-
 </details>
+

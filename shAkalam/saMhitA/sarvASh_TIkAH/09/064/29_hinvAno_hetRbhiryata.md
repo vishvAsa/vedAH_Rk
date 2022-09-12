@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+hetŕ̥bhiḥ ← hetár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hinvānáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+yatáḥ ← √yam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+akramīt ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sī́dantaḥ ← √sad- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vanúṣaḥ ← vanús- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yathā ← yathā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,7 +137,7 @@ That vanúṣaḥ is nom. pl. is also the judgment of Geldner and Renou, though 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/28-30.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
 The contrast between the two types of soma drinks, pure and mixed with milk, are highlighted in this tṛca, at least in my view: 28c sómāḥ śukrā́gávāśiraḥ describes them straightforwardly, while 30ab ṛdhák … saṃjagmānáḥ “separately (and) uniting (with milk)” is more cryptic.
@@ -135,3 +166,4 @@ Gespornt von Treibern und gelenkt hat nun der Renner Preis erlangt Wie Krieger s
 
 -ru-
 </details>
+

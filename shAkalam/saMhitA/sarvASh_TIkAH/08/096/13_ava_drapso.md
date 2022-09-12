@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aṁśumátīm ← aṁśumánt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+atiṣṭhat ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+drapsáḥ ← drapsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+daśábhiḥ ← dáśa- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+iyānáḥ ← √yā- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+kr̥ṣṇáḥ ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásraiḥ ← sahásra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ā́vat ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dhámantam ← √dhamⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śácyā ← śácī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+adhatta ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ápa ← ápa (invariable)  
+{}
+
+nr̥máṇāḥ ← nr̥máṇas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+snéhitīḥ ← snéhiti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,30 +170,30 @@ genre M
 केचिद् अन्यथा वदन्ति- 
 तेषां कथाहेतुः **द्रप्स** इति उदक-कणो ऽभिधीयते - स तु सोमः - द्रप्सश् चस्कन्देत्यादिषु । सोम-परत्वेनोक्तत्वाद् एतत् पदम् आश्रित्य् आहुः- 
 
-> अप ऋम्यतु-देवेभ्यः+++(=??)+++  
-> सोमो वृत्र-भयार्दितः  
-> नदीम् **अंशुमतीन्** नाम  
-> अभ्यतिष्ठत् कुरून् प्रति। १  
-> तं बृहस्पतिनैकेन  
-> सोभ्ययाद् वृत्रहा सह ।  
-> योत्स्यमानं सुसंहृष्टैर्  
-> मरुद्भिर् विविधायुधैः २  
-> दृष्ट्वा तान् आयतः सोमः  
-> स्व-बलेन व्यवस्थितः ।  
-> मत्वानो+++(=??)+++ वृत्रमायान्तं  
-> जिघांसुम् अरिसेनया ३  
-> व्यवस्थितन् धनुष्मन्तं  
-> तम् उवाच बृहस्पतिः ।  
-> मरुत्-पतिर् अयं सोमः  
-> प्रेहि देवान् पुनर् विभो ४  
-> सो ऽब्रवीन् नेति तं शक्रः  
-> ओजसैव बलाद् बली ।  
-> इयाय देवान् आदाय  
-> तम्पपुर् विधिवत् सुराः ५  
-> जघ्नुः पीत्वा च दैत्यानां  
-> समरे नवतीर् नव ।  
-> तद् अव-द्रप्स-इत्यस्मिन्न्  
-> ऋचे सर्वन् निगद्यते ६  
+&gt; अप ऋम्यतु-देवेभ्यः+++(=??)+++  
+&gt; सोमो वृत्र-भयार्दितः  
+&gt; नदीम् **अंशुमतीन्** नाम  
+&gt; अभ्यतिष्ठत् कुरून् प्रति। १  
+&gt; तं बृहस्पतिनैकेन  
+&gt; सोभ्ययाद् वृत्रहा सह ।  
+&gt; योत्स्यमानं सुसंहृष्टैर्  
+&gt; मरुद्भिर् विविधायुधैः २  
+&gt; दृष्ट्वा तान् आयतः सोमः  
+&gt; स्व-बलेन व्यवस्थितः ।  
+&gt; मत्वानो+++(=??)+++ वृत्रमायान्तं  
+&gt; जिघांसुम् अरिसेनया ३  
+&gt; व्यवस्थितन् धनुष्मन्तं  
+&gt; तम् उवाच बृहस्पतिः ।  
+&gt; मरुत्-पतिर् अयं सोमः  
+&gt; प्रेहि देवान् पुनर् विभो ४  
+&gt; सो ऽब्रवीन् नेति तं शक्रः  
+&gt; ओजसैव बलाद् बली ।  
+&gt; इयाय देवान् आदाय  
+&gt; तम्पपुर् विधिवत् सुराः ५  
+&gt; जघ्नुः पीत्वा च दैत्यानां  
+&gt; समरे नवतीर् नव ।  
+&gt; तद् अव-द्रप्स-इत्यस्मिन्न्  
+&gt; ऋचे सर्वन् निगद्यते ६  
 
 एतद् अनार्षत्वेनादरणीयं भवति । एषोर्थः क्रमेण ऋक्षु वक्ष्यते । तथा चास्या ऋचो ऽयम् अर्थः-  
 
@@ -181,7 +233,7 @@ The ca in c is one of the rare examples of subordinating ca in the RV, as shown 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 As indicated in the introduction, the identity of the ‘droplet’ (drapsá-) and the purport of this tṛca are quite unclear. Geldner takes both drapsá- and kṛṣṇá- (‘black’) as PNs and the tṛca as their “saga.” Since such a saga is otherwise unknown and both words have lexical meaning, such an approach does not seem to gain us much. 
@@ -217,3 +269,4 @@ Es fiel der Tropfen in die Somaströmung, der dunkle, eilend mit zehntausend and
 
 -ru-
 </details>
+

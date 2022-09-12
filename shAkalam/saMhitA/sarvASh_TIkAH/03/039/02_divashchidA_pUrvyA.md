@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+jā́yamānā ← √janⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+pūrvyā́ ← pūrvyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jā́gr̥viḥ ← jā́gr̥vi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śasyámānā ← √śaṁs- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:PASS}
+
+ví ← ví (invariable)  
+{}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+árjunā ← árjuna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vásānā ← √vas- 2 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+vástrāṇi ← vástra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dhī́ḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+pítryā ← pítrya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+sanajā́ ← sanajā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ Vom Himmel her geboren schon vor Alters, wird früh erweckt beim Feste es gespro
 Облеченная в прекрасные светлые одежды, –  
 Такова эта рожденная для нас издревле, идущая от отцов поэтическая мысль.
 </details>
+

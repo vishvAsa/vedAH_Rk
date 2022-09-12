@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ádevāt ← ádeva- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+pracátā ← pracátā (invariable)  
+{}
+
+yán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+amr̥tatvám ← amr̥tatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+emi ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+prapáśyamānaḥ ← √paś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+áśivaḥ ← áśiva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jáhāmi ← √hā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śivám ← śivá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áraṇīm ← áraṇa- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+emi ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+nā́bhim ← nā́bhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sakhyā́t ← sakhyá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+svā́t ← svá- (pronoun)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Heimlich mich davon machend gehe ich, der Gott, von dem Ungott, die Unsterblichk
 Из-за того, что я, неприветливый, покидаю того, кто был приветлив,  
 Из своего круга я ухожу к чужой родне.
 </details>
+

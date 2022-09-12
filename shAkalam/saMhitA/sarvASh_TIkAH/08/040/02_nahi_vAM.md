@@ -19,10 +19,10 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,79 @@ genre M
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+nahí ← nahí (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vavráyāmahe ← √vavray- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+átha ← átha (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+yajāmahe ← √yaj- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+náram ← nár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nr̥ṇā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śáviṣṭham ← śáviṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+árvatā ← árvant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gámat ← √gam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gámat ← √gam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+medhásātaye ← medhásāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,3 +282,4 @@ Denn nimmermehr verschmähn wir euch, vor allem ehren Indra wir, Den Mann, der M
 Пусть он приедет для завоевания мудрости!  
 Пусть лопнут все ничтожные другие!
 </details>
+

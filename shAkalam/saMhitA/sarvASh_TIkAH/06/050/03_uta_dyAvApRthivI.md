@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyāvāpr̥thivī ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+śaraṇám ← śaraṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suṣumne ← suṣumná- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+karathaḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+maháḥ ← mahás- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+várivaḥ ← várivas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+aneháḥ ← anehás- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dhiṣaṇe ← dhiṣáṇā- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+kṣáyāya ← kṣáya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Und, Erd' und Himmel, macht uns weit die Herrschaft, o holde Welten, gross die Z
 Сделайте, чтобы широкий простор мощно нам (открылся)  
 (И чтобы) для жилья нашего (была) уверенность, о две Дхишана!
 </details>
+

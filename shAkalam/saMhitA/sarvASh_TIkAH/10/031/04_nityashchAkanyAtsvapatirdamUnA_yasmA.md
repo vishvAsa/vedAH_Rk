@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cākanyāt ← √kanⁱ- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+dámūnāḥ ← dámūnas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nítyaḥ ← nítya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svápatiḥ ← svápati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jajā́na ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+yásmai ← yá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+anajyāt ← √añj- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+cā́ruḥ ← cā́ru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+chadayat ← √chand- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+syāt ← √as- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +242,4 @@ Der ew'ge Herrscher sei erfreut, der Hausfreund, und wem Genuss Gott Savitar erz
 Или же Бхага и Арьяман пусть украсит его коровами!  
 Пусть он покажется ему милым и будет (также таковым)!
 </details>
+

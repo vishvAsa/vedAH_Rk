@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+suṣṭúbhaḥ ← suṣṭúbh- (nominal stem)  
+{case:GEN, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vr̥ṣaṇvasū ← vŕ̥ṣaṇvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ā́hitā ← √dhā- 1 (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā́ṇīcī ← vā́ṇīcī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kakuháḥ ← kakuhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥gáḥ ← mr̥gá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+kr̥ṇoti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pŕ̥kṣaḥ ← pŕ̥kṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vāpuṣáḥ ← vāpuṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́dhvī ← mā́dhvī- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+śrutam ← √śru- (root)  
+{number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Auf euren Wagen ist gelegt des Sängers Harfe, Kräftige, Und euer hohes Wagenro
 Создает (вам) силы, удивительный.  
 О любители меда, услышьте мой призыв!
 </details>
+

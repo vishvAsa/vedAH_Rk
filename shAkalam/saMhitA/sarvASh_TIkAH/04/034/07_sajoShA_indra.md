@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váruṇena ← váruṇa- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+marúdbhiḥ ← marút- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pāhi ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agrepā́bhiḥ ← agrepā́- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+r̥tupā́bhiḥ ← r̥tupā́- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gnā́spátnībhiḥ ← gnā́spátnī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ratnadhā́bhiḥ ← ratnadhā́- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +196,4 @@ Mit Varuna vereinigt trink, o Indra, den Soma, Freund der Lieder, mit den Marut'
 С (Рибху,) пьющими сначала, с пьющими во время жертвоприношений, единодушный,  
 (Пей) с божественными женами, наделительницами сокровищ, единодушный!
 </details>
+

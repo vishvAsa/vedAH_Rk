@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ābhíḥ ← ayám (pronoun)  
+{case:INS, gender:F, number:PL}
+
+darśatā́bhiḥ ← darśatá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śrībhíḥ ← śrī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+puṣṭím ← puṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śubhé ← śúbh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sūryā́yāḥ ← sūryā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ūhathuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+paptan ← √pat- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vápuṣe ← vápus- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhiṣṇyā ← dhíṣṇya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nákṣat ← √nakṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+súṣṭutā ← súṣṭuta- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vā́ṇī ← vā́ṇī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Ihr fuhrt mit diesem sehenswerthen Glanze zum Prunksaal hin der Sonnentochter Na
 Ваши птицы (-кони) пролетели (всем) на удивление.  
 Пусть достигнет вас, прекрасно восхваленных, голос певца, о возбуждающие вдохновение!
 </details>
+

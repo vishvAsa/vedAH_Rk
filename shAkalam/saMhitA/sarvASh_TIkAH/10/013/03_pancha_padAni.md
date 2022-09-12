@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+aroham ← √ruh- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+padā́ni ← padá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+páñca ← páñca- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rupáḥ ← rúp- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+cátuṣpadīm ← cátuṣpad- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+emi ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vraténa ← vratá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+akṣáreṇa ← akṣára- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+etā́m ← eṣá (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+mime ← √mā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+nā́bhau ← nā́bhi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+punāmi ← √pū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Fünf Schritten der Kuh [der Erde] ging ich nach, ich folge der vierfüssigen mi
 Слогом я ее соразмеряю.  
 На пупе закона очищаю.
 </details>
+

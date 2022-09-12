@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jényam ← jénya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śíśum ← śíśu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vardháyantī ← √vr̥dh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+bibharti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sacanasyámānā ← √sacanasy- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dhánoḥ ← dhánu- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+háryan ← √hr̥- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pravátā ← pravát- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yāsi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ávasr̥ṣṭaḥ ← √sr̥j- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+jígīṣase ← √ji- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+paśúḥ ← paśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +198,4 @@ Die Mutter, die dich wie ein edles Kind nährt, sie trägt und pflegt dich, ihre
 Из (своего) укрытия ты движешься охотно по склону.  
 Ты стремишься уйти, как выпущенный скот.
 </details>
+

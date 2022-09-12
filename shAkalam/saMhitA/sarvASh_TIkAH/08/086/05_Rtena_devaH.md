@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śamāyate ← √śamⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paprathe ← √prathⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+śŕ̥ṅgam ← śŕ̥ṅga- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+urviyā́ ← urviyā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥tanyatáḥ ← √pr̥tany- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sāsāha ← √sah- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mumócatam ← √muc- (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sakhyā́ ← sakhyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yauṣṭam ← √yu- 2 (root)  
+{number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Mit heiligem Werke wirkt der Gott Savitar, er breitet weit das Horn des heiligen
 Истина покоряла даже можно нападающих.  
 Не уклоняйтесь от дружбы с нами! Распрягайте (коней)!
 </details>
+

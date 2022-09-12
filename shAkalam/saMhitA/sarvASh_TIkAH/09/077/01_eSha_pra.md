@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+acikradat ← √krand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kóśe ← kóśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mádhumān ← mádhumant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vájraḥ ← vájra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vápuṣaḥ ← vápus- (nominal stem)  
+{case:ABL, number:SG}
+
+vápuṣṭaraḥ ← vápuṣṭara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ghr̥taścútaḥ ← ghr̥taścút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sudúghāḥ ← sudúgha- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+arṣanti ← √arṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vāśrā́ḥ ← vāśrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Jetzt brüllte dieser honigsüsse in dem Fass wie Indra's Blitz, noch schöner a
 К нему текут хорошо доящиеся (струи коров) (вселенского) закона,  
 Сочащиеся жиром, как дойные коровы, мычащие со (своим) молоком.
 </details>
+

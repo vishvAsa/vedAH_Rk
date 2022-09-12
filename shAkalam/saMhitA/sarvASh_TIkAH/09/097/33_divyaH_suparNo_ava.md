@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áva ← áva (invariable)  
+{}
+
+cakṣi ← √cakṣ- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+divyáḥ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suparṇáḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devávītau ← devávīti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+dhā́rāḥ ← dhā́rā- 1 (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kármaṇā ← kárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pínvan ← √pinv- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kaláśam ← kaláśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+somadhā́nam ← somadhā́na- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśa ← √viś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+krándan ← √krand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+raśmím ← raśmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +214,7 @@ The form cakṣi (also VII.3.6) is in both of its occurrences pretty clearly an 
 And of course, assuming it belongs to √cakṣ, the form would have to be degeminated from *cakṣ-ṣi (though that would not be hard). The parallel passage IX.71.9 has a medial injunc. to the marginal thematic stem (see Hoffmann 122 n. 33): divyáḥ suparṇó 'va cakṣata kṣā́m. I have no explanation for this aberrant form; it is true that the proper med. impv. to the root pres. cakṣva (3x) would not fit this metrical slot, but that doesn’t seem reason enough to invent cakṣi.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md">
 <details open><summary><h2>31-33 ...{Loading}...</h2></summary>
 
 The first vs. of the tṛca contains a form of √sṛj, thus concatenating with the previous tṛca. Both the first (31) and last (33) vss. contain a reference to the sun, and I see one in the middle vs. as well; see comm. ad 32.
@@ -188,3 +246,4 @@ Des Himmels Adler wird erblickt, o Soma, die Ströme schwellend durch sein Werk 
 О сок сомы, войди в кувшин, содержащий сому,  
 Ревя, приближайся к лучу солнца!
 </details>
+

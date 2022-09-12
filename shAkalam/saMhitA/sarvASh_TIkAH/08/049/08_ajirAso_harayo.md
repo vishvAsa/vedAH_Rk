@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+ajirā́saḥ ← ajirá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+prasakṣíṇaḥ ← prasakṣín- (nominal stem)  
+{}
+
+vā́tāḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ápatyam ← ápatya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+parī́yase ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+dr̥śé ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ Beweglich sind die goldnen Renner, die du hast, die vorwärts dringen wie der Wi
 На которых ты ездишь вокруг потомства Ману,  
 С помощью которых (ты) всему миру (даешь) увидеть солнце.
 </details>
+

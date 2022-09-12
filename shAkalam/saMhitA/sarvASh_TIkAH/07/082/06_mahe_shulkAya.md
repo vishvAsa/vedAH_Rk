@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+śulkā́ya ← śulká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tviṣé ← tvíṣ- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhruvám ← dhruvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mimāte ← √mā- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svám ← svá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ájāmim ← ájāmi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átirat ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+śnatháyantam ← √śnathⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́yasaḥ ← bhū́yaṁs- (nominal stem)  
+{case:ACC, number:PL}
+
+dabhrébhiḥ ← dabhrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vr̥ṇoti ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +230,4 @@ Für hohen Lohn und für den Glanz des Varuna erweisen Kraft sie, welche diesem 
 Один укротил чужого, несущего гибель;  
 Другой отвращает немногими превосходящих.
 </details>
+

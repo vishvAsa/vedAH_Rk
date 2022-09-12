@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+madhūyuvā ← madhūyu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śám ← śám (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+carkr̥tíḥ ← carkr̥tí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+arvācīnā́ ← arvācīná- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vicetasā ← vícetas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dīyatam ← √dī- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+śyenā́ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+víbhiḥ ← ví- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +174,4 @@ Zur Freude sei der Lobgesang euch recht, o die ihr Süsses liebt, Wie Adler flie
 К нам летите, о два прозорливца,  
 На птицах (-конях), как два сокола!
 </details>
+

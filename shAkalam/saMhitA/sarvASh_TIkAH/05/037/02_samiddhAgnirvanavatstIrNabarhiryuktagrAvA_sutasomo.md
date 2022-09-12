@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sámiddhāgniḥ ← sámiddhāgni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stīrṇábarhiḥ ← stīrṇábarhis- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vanavat ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+jarāte ← √gr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+sutásomaḥ ← sutásoma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuktágrāvā ← yuktágrāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+grā́vāṇaḥ ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iṣirám ← iṣirá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vádanti ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+adhvaryúḥ ← adhvaryú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+áyat ← √i- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+síndhum ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +213,4 @@ Der Glutentzünder, Streubereiter ehre, der Steinbeweger Somapresser preise; Der
 Пока у него давильные камни ревностно стучат,  
 Адхварью с жертвенным возлиянием должен спуститься к реке.
 </details>
+

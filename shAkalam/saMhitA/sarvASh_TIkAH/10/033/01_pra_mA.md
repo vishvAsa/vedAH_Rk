@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prayújaḥ ← prayúj- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yuyujre ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ántareṇa ← ántara- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pūṣáṇam ← pūṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+váhāmi ← √vah- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ádha ← ádha (invariable)  
+{}
+
+arakṣan ← √rakṣⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+duḥśā́suḥ ← duḥśā́su- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ghóṣaḥ ← ghóṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+íti ← íti (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Der Vorschub der Menschen hat mich vorgespannt; ich fuhr unterwegs den Pusan auf
 Все боги защищали меня тогда.  
 (Вдруг) раздался крик: Пришел злодей!
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+áva ← áva (invariable)  
+{}
+
+nyàk ← nyàñc- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāti ← √vā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nyàk ← nyàñc- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tapati ← √tap- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+aghnyā́ ← aghnyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+duhe ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+nīcī́nam ← nīcī́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhavatu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+nyàk ← nyàñc- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+rápaḥ ← rápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +182,4 @@ Hernieder weht des Windes Hauch hernieder strahlt der Sonne Glut, Hernieder str�
 Вниз доится корова –  
 Вниз пусть сгинет твое повреждение!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+pūrvyā́ṇi ← pūrvyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+kr̥tā́ni ← √kr̥- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vīryā̀ ← vīryà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vocam ← √vac- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśrathāyaḥ ← √śrathⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+satīnámanyuḥ ← satīnámanyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+akr̥ṇoḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+bráhmaṇe ← bráhman- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+suvedanā́m ← suvedaná- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +232,4 @@ Ich rühme, Indra, deine frühern Thaten, ich rühme nun, die du zuerst vollbrac
 Ты, чье рвение истинно, сделал мягкой скалу,  
 Сделал корову легкодоступной для заклинания.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anarvā́ ← anarván- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+khajakŕ̥t ← khajakŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samádvā ← samádvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yudhmáḥ ← yudhmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áṣāḷhaḥ ← áṣāḷha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+janúṣā ← janúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+satrāṣā́ṭ ← satrāsáh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āse ← √as- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pŕ̥tanāḥ ← pŕ̥tanā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svójāḥ ← svójas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+jaghāna ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+śatrūyántam ← √śatrūy- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Der Held, unnahbar, schlachterregend, kampfreich, der stete Sieger, selber unbes
 Индра со (своей) огромной силой разогнал войска  
 И убил каждого сопротивляющегося.
 </details>
+

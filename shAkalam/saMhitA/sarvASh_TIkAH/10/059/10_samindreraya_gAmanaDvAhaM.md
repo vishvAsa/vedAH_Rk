@@ -17,16 +17,92 @@ ChandaH = "पङ्क्त्युत्तरा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; line affected by realignment;; epic anuṣṭubh (525)  
 popular;; line affected by realignment;; epic anuṣṭubh (525)  
 popular;; line affected by realignment;; epic anuṣṭubh (525)  
 popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
 popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
 popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line
+#### Morph
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+īraya ← √īr- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+anaḍvā́ham ← anaḍváh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávahat ← √vah- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ánaḥ ← ánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uśīnárāṇyāḥ ← uśīnárāṇī- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+bháratām ← √bhr̥- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+rápaḥ ← rápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣamā́ ← kṣám- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pr̥thivi ← pr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+rápaḥ ← rápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+amamat ← √amⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+caná ← caná (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +256,4 @@ O Indra, treibe den Zugstier an, welcher den Wagen der Frau vom Lande der Uçīn
 О Небо (и) Земля, (пусть уйдет) повреждение в землю!  
 Пусть же совсем ничего не болит у тебя!
 </details>
+

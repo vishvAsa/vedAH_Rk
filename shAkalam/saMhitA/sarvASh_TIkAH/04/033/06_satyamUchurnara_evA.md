@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakrúḥ ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+evá ← evá (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ūcuḥ ← √vac- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+etā́m ← eṣá (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+jagmuḥ ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+r̥bhávaḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svadhā́m ← svadhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áhā ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+camasā́n ← camasá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+vibhrā́jamānān ← √bhrāj- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:MED}
+
+ávenat ← √ven- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+catúraḥ ← catúr- (nominal stem)  
+{}
+
+dadr̥śvā́n ← √dr̥ś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Die Männer sprachen wahr, denn so geschah's auch, die Ribhu's führten diesen i
 Тваштар позавидовал, увидев четыре  
 Кубка, ярко сверкающих, словно дни.
 </details>
+

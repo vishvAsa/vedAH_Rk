@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vírūpāsaḥ ← vírūpa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gambhīrávepasaḥ ← gambhīrávepas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+áṅgirasaḥ ← áṅgiras- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sūnávaḥ ← sūnú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+agnéḥ ← agní- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+jajñire ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +191,4 @@ Die mannichfach gestalteten, die weisen Sänger, tief erregt, Die Söhne sie des
 Те сыновья Ангираса,  
 Они происходят от Агни.
 </details>
+

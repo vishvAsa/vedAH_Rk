@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+taviṣā́ḥ ← taviṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+udanyávaḥ ← udanyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+aśvayújaḥ ← aśvayúj- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+párijrayaḥ ← párijri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vayovŕ̥dhaḥ ← vayovŕ̥dh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dádhati ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+tritáḥ ← tritá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́śati ← √vāś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vidyútā ← vidyút- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+avánā ← aváni- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+párijrayaḥ ← párijri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sváranti ← √svar- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Euch vor, o Maruts, ziehn die feuchten Reisigen, euch Rosse schirrend, mächtig,
 Молнией они заряжают (лук). Ревет Трита.  
 Шумят воды, движущиеся кругом по руслу.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́bhūtyā ← ā́bhūti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sahajā́ḥ ← sahajā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sāyaka ← sā́yaka- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vajra ← vájra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+abhibhūte ← abhíbhūti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bibharṣi ← √bhr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+úttaram ← úttara- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+edhi ← √as- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+manyo ← manyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+medī́ ← medín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sahá ← sahá (invariable)  
+{}
+
+mahādhanásya ← mahādhaná- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+saṁsŕ̥ji ← saṁsŕ̥j- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Entsandter Blitz! mit Tüchtigkeit geboren schon besitzest, übermächt'ger, du 
 
 -ru-
 </details>
+

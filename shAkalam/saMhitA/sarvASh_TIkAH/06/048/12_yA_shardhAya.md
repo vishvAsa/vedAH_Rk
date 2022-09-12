@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mā́rutāya ← mā́ruta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śárdhāya ← śárdha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svábhānave ← svábhānu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ámr̥tyu ← ámr̥tyu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dhúkṣata ← √duh- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mr̥ḷīké ← mr̥ḷīká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+turā́ṇām ← turá- 1 (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+evayā́varī ← evayā́van- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sumnaíḥ ← sumná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +171,7 @@ could be used modally, but a presential “who milks out” might be better.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/11-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/11-13.md">
 <details open><summary><h2>11-13 ...{Loading}...</h2></summary>
 
 On these three vss., see published introduction.
@@ -160,3 +203,4 @@ Die strömen soll der lichtbegabten Marutschar ruhmvolles, unvergängliches, Die
 Что в милости у могущественных Марутов,  
 Что спешит с благодеяниями!
 </details>
+

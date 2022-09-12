@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhreṣate ← √bhrī- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+cit ← cit (invariable)  
+{}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+reṣat ← √riṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+āvívāsāt ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT, mood:DES}
+
+ghorám ← ghorá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dádhate ← √dhā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+dúvāṁsi ← dúvas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kṣáyat ← √kṣā- 2 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+r̥tapā́ḥ ← r̥tapā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tejā́ḥ ← r̥tejā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +250,4 @@ Nicht leidet Schaden je der Mann, noch wankt er, der Indra's Sinn, den hocherhab
 Кто жертвами оказывает почтение Индре,  
 Тот живет для богатства, хранящий закон, рожденный в законе.
 </details>
+

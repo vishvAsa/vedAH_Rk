@@ -17,15 +17,73 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+divaḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitar ← duhitár- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ucha ← √vas- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ápaḥ ← ápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cirám ← cirá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+tanuthāḥ ← √tan- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ripúm ← ripú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stenám ← stená- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+arcíṣā ← arcís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tápāti ← √tap- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+áśvasūnr̥te ← aśvasūnr̥ta- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sújāte ← sujātá- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ O Himmelstochter, leuchte auf; und nicht verzögere dein Werk, Damit dich nicht,
 Не спалило солнце (своим) зноем,  
 О благородная, о щедро дающая коней!
 </details>
+

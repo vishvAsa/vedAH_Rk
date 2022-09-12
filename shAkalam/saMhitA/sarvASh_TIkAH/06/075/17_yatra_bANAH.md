@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525)
+#### Morph
+bāṇā́ḥ ← bāṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sampátanti ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+kumārā́ḥ ← kumārá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+viśikhā́ḥ ← viśikhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tátra ← tátra (invariable)  
+{}
+
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yachatu ← √yam- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+viśvā́hā ← viśvā́hā (invariable)  
+{}
+
+yachatu ← √yam- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +209,4 @@ Wo Bolzen fliegen dichtgedrängt, den Knaben gleichend ohne Bart, da möge der G
 (И) Адити пусть дарует защиту,  
 Всегда пусть даруют защиту!
 </details>
+

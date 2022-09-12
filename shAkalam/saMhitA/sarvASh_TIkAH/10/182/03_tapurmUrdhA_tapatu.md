@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line  
 popular;; repeated line
+#### Morph
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tapatu ← √tap- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tápurmūrdhā ← tápurmūrdhan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+brahmadvíṣaḥ ← brahmadvíṣ- (nominal stem)  
+{case:ACC, number:PL}
+
+hántavaí ← √han- (root)  
+{case:DAT, number:SG}
+
+śárave ← śáru- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+áśastim ← áśasti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+durmatím ← durmatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+han ← √han- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+kṣipát ← √kṣip- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+karat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+śám ← śám (invariable)  
+{}
+
+yájamānāya ← √yaj- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+yós ← yós (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Der Glut im Haupt hat, brenn die Nachtgespenster, sein Pfeil durchbohr' die Fein
 Пусть отбросит он проклятие, отшвырнет злую мысль  
 И создаст так для жертвователя счастье и благо!
 </details>
+

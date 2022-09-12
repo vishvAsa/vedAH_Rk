@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áram ← áram (invariable)  
+{}
+
+dāsáḥ ← dāsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+karāṇi ← √kr̥- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+mīḷhúṣe ← mīḍhváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ánāgāḥ ← ánāgas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́rṇaye ← bhū́rṇi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ácetayat ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+acítaḥ ← acít- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+aryáḥ ← aryá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gŕ̥tsam ← gŕ̥tsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+junāti ← √jū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kavítaraḥ ← kavítara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Dem Knechte gleich will ich dem gnäd'gen dienen, Von Schuld befreit dem eifervo
 Благородный бог вразумил неразумных.  
 Сметливого еще более умный (бог) подгоняет к богатству.
 </details>
+

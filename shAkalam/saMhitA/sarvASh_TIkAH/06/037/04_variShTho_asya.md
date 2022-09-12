@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dákṣiṇām ← dákṣiṇa- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+iyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+váriṣṭhaḥ ← váriṣṭha- 2 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghónām ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tuvikūrmítamaḥ ← tuvikūrmítama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pariyā́si ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vajrivaḥ ← vajrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dáyase ← √dā- 3 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+dhr̥ṣṇo ← dhr̥ṣṇú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghā́ ← maghá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sūrī́n ← sūrí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Der trefflichste, der wirkt von allen starken am besten, Indra, sendet seine Mil
 С помощью которой ты, громовержец, обходишь узость,  
 Когда, о отважный, ты наделяешь дарами щедрых покровителей.
 </details>
+

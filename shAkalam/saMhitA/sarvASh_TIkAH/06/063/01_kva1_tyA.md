@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+kvà ← kvà (invariable)  
+{}
+
+puruhūtā́ ← puruhūtá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+tyā́ ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+valgū́ ← valgú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+avidat ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+námasvān ← námasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stómaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vavárta ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ásathaḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+mánman ← mánman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+préṣṭhā ← préṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:DU, tense:AOR}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +225,4 @@ Wo hat die schönen, vielgerufnen heute das Andachtslied gefunden wie ein Bote, 
 (То,) которое (не раз) поворачивало к нам Насатьев?  
 Ведь вы будете самыми дорогими в произведении этого (певца)!
 </details>
+

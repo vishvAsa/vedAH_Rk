@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bā́dhase ← √bādhⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+jánān ← jána- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+manyúnā ← manyú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vr̥ṣabhā́ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ghŕ̥ṣau ← ghŕ̥ṣu- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mīḷhé ← mīḷhá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+r̥cīṣama ← ŕ̥cīṣama- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bodhi ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mahādhané ← mahādhaná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sū́rye ← sū́rya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tanū́ṣu ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +207,4 @@ Du stösst im Zorn hinweg die Menschen wie ein Stier, in wilder Schlacht, o glä
 Будь нам помощником в великой битве  
 За (наши) тела, воды, солнце!
 </details>
+

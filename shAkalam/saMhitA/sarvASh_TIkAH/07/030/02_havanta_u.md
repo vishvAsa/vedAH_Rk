@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hávante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+hávyam ← hávya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+vívāci ← vívāc- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sātaú ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śū́rāḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tanū́ṣu ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+jáneṣu ← jána- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sényaḥ ← sénya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+víśveṣu ← víśva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+randhaya ← √randh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+suhántu ← suhántu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ Dich, rufenswerthen, rufen an die Helden im Kampf ums Leben und um Glanz des Gl�
 Ты воин среди всех народов.  
 Отдай ты врагов (нам) во власть, чтоб (их) легко было убить!
 </details>
+

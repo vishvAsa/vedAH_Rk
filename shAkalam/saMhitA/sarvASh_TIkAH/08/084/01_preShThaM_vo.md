@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+átithim ← átithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+préṣṭham ← préṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG, mood:OPT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stuṣé ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+védyam ← védya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Ich rühme euren liebsten Gast, wie einen werthgeschätzten Freund, Den Agni, de
 Вашего гостя, приятного, как друг,  
 Агни, известного, как колесница,
 </details>
+

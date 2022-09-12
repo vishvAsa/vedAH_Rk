@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular;; repeated line  
 popular;; repeated line  
 popular;; repeated line
+#### Morph
+ápagūḷham ← √guh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+nidhīyámānam ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+uvāca ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vratapā́ḥ ← vratapā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+cacákṣa ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agām ← √gā- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ánuśiṣṭaḥ ← √śās- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ Dass du verborgen in den Wassern ruhest, das that mir kund der Götter Rechtbesc
 Потому что осведомленный Индра обнаружил тебя.  
 Наученный им, о Агни, я пришел.
 </details>
+

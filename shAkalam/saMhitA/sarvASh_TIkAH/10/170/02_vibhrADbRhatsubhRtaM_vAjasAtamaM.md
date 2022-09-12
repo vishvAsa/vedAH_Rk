@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+súbhr̥tam ← súbhr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vājasā́tamam ← vājasā́tama- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vibhrā́ṭ ← vibhrā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árpitam ← √r̥- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+dhárman ← dhárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dharúṇe ← dharúṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+amitrahā́ ← amitrahán- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dasyuhántamam ← dasyuhántama- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asurahā́ ← asurahán- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jajñe ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sapatnahā́ ← sapatnahán- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,8 +194,6 @@ In the second hemistich where we encounter the phrase “jyotir jaj\~ne asurahA 
 These observations together suggest that the sUktaM RV 10.170 comprised a “proto-divAkIrtyA”, which already was linked to elements seen in the classical divAkIrtya-s.
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -183,3 +230,4 @@ Der weithin leuchtet, hat sein schöngetragnes Licht, erzeugt und an des Himmels
 Убивающий недругов, убивающий Вритру, лучше всех убивающий дасью  
 Свет родился, убивающий асуров, убивающий соперников.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+aṁśúḥ ← aṁśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árāvīt ← √rū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+sácamānaḥ ← √sac- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ūrmíṇā ← ūrmí- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+devāvyàm ← devāvī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mánuṣe ← mánus- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pinvati ← √pinv- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tvácam ← tvác- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áditeḥ ← áditi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+dádhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dhā́mahe ← √dhā- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+tánayam ← tánaya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tokám ← toká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Es braust der Saft, wenn er mit Wellen sich ergiesst, dem Menschen füllt den Sc
 Он влагает в лоно Адити зародыша,  
 Благодаря которому мы получаем продолжение рода.
 </details>
+

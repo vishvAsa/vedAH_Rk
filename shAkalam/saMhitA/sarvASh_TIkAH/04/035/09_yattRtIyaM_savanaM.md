@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ratnadhéyam ← ratnadhéya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sávanam ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tr̥tī́yam ← tr̥tī́ya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ákr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:MED}
+
+suhastāḥ ← suhásta- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+svapasyā́ ← svapasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+páriṣiktam ← √sic- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+indriyébhiḥ ← indriyá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mádebhiḥ ← máda- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pibadhvam ← √pā- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +214,4 @@ Das dritte Mahl, die reiche Spende, die ihr, kunstreiche, euch erwarbt durch sch
 Этот (сома) налит для вас, о Рибху:  
 Пейте его вместе с опьяняющими соками, предназначенными для Индры!
 </details>
+

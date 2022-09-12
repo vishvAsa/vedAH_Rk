@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+jāyatām ← √janⁱ- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:MED}
+
+nūnám ← nūnám (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+mánuḥ ← mánu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rohatu ← √ruh- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tókma ← tókman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śatā́śvam ← śatā́śva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dānā́ya ← dāná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+máṁhate ← √maṁh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sadyás ← sadyás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +183,4 @@ Es pflanze sich fort und gedeihe nun dieser Mann, wie ein Reis schiesse er empor
 Кто благородно настраивается дать (мне) в один день  
 Тысячу (коров), сотню коней.
 </details>
+

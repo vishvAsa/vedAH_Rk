@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+áyaḥ ← áyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+híraṇyanirṇik ← híraṇyanirṇij- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sthū́ṇā ← sthū́ṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+aśvā́janī ← aśvā́janī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhrājate ← √bhrāj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+bhadré ← bhadrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+kṣétre ← kṣétra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+nímitā ← √mi- 1 (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+tílvile ← tílvila- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+ádhigartyasya ← ádhigartya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sanéma ← √sanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Mit Gold geschmückt von Erz ist dessen Säule; sie strahlt am Himmel wie der Pe
 Воздвигнутая на счастливом или на плодородном месте.  
 Пусть добьемся мы меду, находящегося на троне!
 </details>
+

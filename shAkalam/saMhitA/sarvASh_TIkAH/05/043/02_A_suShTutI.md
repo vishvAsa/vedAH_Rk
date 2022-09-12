@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+suṣṭutī́ ← suṣṭutí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vartayádhyai ← √vr̥t- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+ámr̥dhre ← ámr̥dhra- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vā́jāya ← vā́ja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mádhuvacāḥ ← mádhuvacas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suhástā ← suhásta- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+aviṣṭām ← √avⁱ- (root)  
+{number:DU, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+bháre-bhare ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yaśásau ← yaśás- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Herwenden will ich durch Gebet und Loblied zur Labung Erd' und Himmel, die nicht
 Пусть отец (и) мать с медовыми речами, с ласковыми руками  
 Помогают нам, знаменитые, в каждом состязании!
 </details>
+

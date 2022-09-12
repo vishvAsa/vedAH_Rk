@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+etā́ ← eṣá (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+kévalā ← kévala- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śrútyāni ← śrútya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tyā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+ákr̥ṇoḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ayajñám ← ayajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+adadhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dyávi ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+māsā́m ← mā́s- 1 (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vidhā́nam ← vidhā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bharati ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pradhím ← pradhí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+víbhinnam ← √bhid- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ Das sind die Ruhmesthaten, die dir eigen sind: Mann gegen Mann erschlugst du den
 Ты установил на небе распределение месяцев.  
 Отец несет обод, расколотый тобою.
 </details>
+

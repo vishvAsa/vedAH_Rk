@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+átas ← átas (invariable)  
+{}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+udvátaḥ ← udvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+cikitvā́n ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+paśyati ← √paś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+éjati ← √ej- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vipānáḥ ← √vip- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+yátas ← yátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +145,4 @@ Dort von der Höhe schaut herab der einsichtsvolle auf das Meer, Von wo es wogen
 На море с этой высоты,  
 Откуда, возбуждаясь, он трогается.
 </details>
+

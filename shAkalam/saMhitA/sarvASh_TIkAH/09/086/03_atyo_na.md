@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+arṣa ← √arṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hiyānáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádrimātaram ← ádrimātar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+kóśam ← kóśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svarvít ← svarvíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+avyáye ← avyáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sā́no ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhā́yase ← dhā́yas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+indriyā́ya ← indriyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +210,7 @@ Although, as noted above, vss. 1 and 3 share the same goal, the kóśa-, the phy
 In the published translation for ease of English parsing I moved the tr. of svarvíd from b to cd, but this mixes the levels: the sun-finding Soma is the one that reaches heaven, while the soma of cd is the substance purified in the sheep’s filter. Better (if somewhat awkward): “… rush to the prize, as the sun-finder (rush) to the cask of heaven …”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The first two vss. of this tṛca begin identically (prá te), and all three vss.
@@ -183,3 +241,4 @@ Gespornt wie zu dem Preis der Renner ströme hin zum felsentsprossnen Himmelskru
 
 -ru-
 </details>
+

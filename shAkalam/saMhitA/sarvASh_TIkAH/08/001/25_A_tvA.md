@@ -16,14 +16,51 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+hiraṇyáye ← hiraṇyáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mayū́raśepyā ← mayū́raśepya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+śitipr̥ṣṭhā́ ← śitipr̥ṣṭhá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vahatām ← √vah- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vivákṣaṇasya ← vivákṣaṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +177,4 @@ Auf goldnem Wagen mögen dich die Rosse mit dem Pfauenschweif, Und weissem Rück
 Со светлыми спинами на питье сладкого  
 Усиливающего сока сомы!
 </details>
+

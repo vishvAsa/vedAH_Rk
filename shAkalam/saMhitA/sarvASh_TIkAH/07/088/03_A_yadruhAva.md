@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+nā́vam ← naú- ~ nā́v- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ruhā́va ← √ruh- (root)  
+{number:DU, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+īráyāva ← √īr- (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+mádhyam ← mádhya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+cárāva ← √carⁱ- (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+snúbhiḥ ← sā́nu- ~ snú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+īṅkhayāvahai ← √īṅkhay- (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+kám ← kám (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+preṅkhé ← preṅkhá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śubhé ← śúbh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +237,4 @@ Wenn ich das Schiff mit Varuna besteige, und beide wir zum hohen Meer es steuern
 Когда движемся по поверхностям вод,  
 Мы будем двоем качаться на качелях – для блеска.
 </details>
+

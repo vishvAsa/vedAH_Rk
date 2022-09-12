@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śū́raiḥ ← śū́ra- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+barháṇā ← barháṇā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tvótāsaḥ ← tvóta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+pūrtáyaḥ ← pūrtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+kṣoṇáyaḥ ← kṣoṇí- ~ kṣoṇī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+návanta ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:INJ, tense:IPRF, voice:MED}
+
+yathā ← yathā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +185,4 @@ Durch unsre Starken bist du stark, und wir durch dich geschützt mit Macht; Von 
 Во многих местах твои щедрые дары  
 Ревут, как дружины.
 </details>
+

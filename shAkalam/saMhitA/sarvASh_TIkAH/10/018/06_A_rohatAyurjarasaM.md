@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jarásam ← jarás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rohata ← √ruh- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vr̥ṇānā́ḥ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+anupūrvám ← anupūrvám (invariable)  
+{}
+
+sthá ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yátamānāḥ ← √yat- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+yáti ← yáti (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sujánimā ← sujániman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dīrghám ← dīrghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+karati ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Des Lebens Kraft erreicht zu hohem Alter, wie viel ihr seid, zu einem Zug verbun
 Пусть согласится тут Тваштар, дающий хорошее рожденье,  
 Создать долгий срок вашей жизни!
 </details>
+

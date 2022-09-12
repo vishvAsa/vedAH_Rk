@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+purā́ ← purā́ (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vocaḥ ← √vac- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+yádi ← yádi (invariable)  
+{}
+
+ānaśúḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jaritā́raḥ ← jaritár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhāgáḥ ← bhāgá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dudhra ← dudhrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+khidvaḥ ← khidvaṁs- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asuraghnáḥ ← asurahán- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+púruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+purūvaso ← purūvásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +257,4 @@ Das künde uns, wenn je zuvor die Sänger, o Indra, deine Huld und Gunst erlangt
 Какова твоя доля (в жертве?). Какова телесная сила у убийцы асуров,  
 О яростный угнетатель, о многопризываемый обладатель большого богатства.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mamanyāt ← √man- 2 (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vivāset ← √vanⁱ- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT, mood:DES}
+
+krátunā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+svéna ← svá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vadeta ← √vadⁱ- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+dákṣam ← dákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jagr̥bhyāt ← √gr̥bhⁱ- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śréyāṁsam ← śréyaṁs- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Den Reichthum mag der Sterbliche erstreben, durch Andacht auf dem Opferpfad herb
 А также если он посовещается со своим разумом,  
 То мыслью схватит лучший способ действия.
 </details>
+

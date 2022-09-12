@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avr̥kā́saḥ ← avr̥ká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+ráthāḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yayúḥ ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nr̥pātā́raḥ ← nr̥pātár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śūśuvuḥ ← √śū- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+svéna ← svá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+kṣiyanti ← √kṣi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sukṣitím ← sukṣití- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Die schirmenden Beherrscher des Volkes, welche vorwärts eilten wie Wagen, die H
 (Эти) мужи усилились от своей собственной силы  
 И живут в прекрасном жилье
 </details>
+

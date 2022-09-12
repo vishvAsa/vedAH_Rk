@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+páruṣṇyām ← paruṣá- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+śundhyávaḥ ← śundhyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ū́rṇāḥ ← ū́rṇā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vasata ← √vas- 2 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+pavyā́ ← paví- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ráthānām ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhindanti ← √bhid- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +164,7 @@ The instr. sg. pavyā́to the masc. stem paví- shows the older -ā ending, whic
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/052/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/052/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 I don't understand the force of utá sma, which opens 8c and 9a, with utá opening 9c. Klein (DGRV I.416-17) says that they introduce parallel statements about the Maruts and represent “concatenation across the stanza-boundary,” halfway between intrastanzaic and interstanzaic usage. But the role of sma, whatever it may be, seems downplayed in this description.
@@ -156,3 +196,4 @@ Sie zogen an ihr wollnes Kleid, die schmucken in dem Sturmgewölk, Und mit der W
 И ободом колесниц  
 Они с силой разбивают скалу.
 </details>
+

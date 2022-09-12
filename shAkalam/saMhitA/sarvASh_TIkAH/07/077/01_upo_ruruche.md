@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ná ← ná (invariable)  
+{}
+
+ruruce ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yuvatíḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+carā́yai ← √carⁱ- (root)  
+{case:DAT, number:SG}
+
+jīvám ← jīvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prasuvántī ← √sū- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ábhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́nuṣāṇām ← mā́nuṣa- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+samídhe ← samídh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ákar ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bā́dhamānā ← √bādhⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+támāṁsi ← támas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +227,4 @@ Wie eine Braut erstrahlet hell die Jungfrau, zum Gehn erweckend alles, was da le
 Пора людям зажигать Агни.  
 Она создала свет, прогоняя мрак.
 </details>
+

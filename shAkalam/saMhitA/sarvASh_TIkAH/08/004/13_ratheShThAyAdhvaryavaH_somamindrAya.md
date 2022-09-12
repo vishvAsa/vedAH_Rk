@@ -16,14 +16,51 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvaryavaḥ ← adhvaryú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ratheṣṭhā́ya ← ratheṣṭhá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sotana ← √su- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ádrayaḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bradhnásya ← bradhná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cakṣate ← √cakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+dāśvàdhvaram ← dāśvàdhvara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sunvántaḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +179,4 @@ Den Soma presst, Gehülfen ihr, dem Wagenkämpfer Indra aus; Und selbst die Stei
 Выжимающие камни над красно-желтым (соком)  
 Дают знать о совершающем обряде почитания.
 </details>
+

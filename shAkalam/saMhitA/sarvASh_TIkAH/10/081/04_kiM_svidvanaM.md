@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; repeated line  
 popular;; repeated line  
 popular  
 popular
+#### Morph
+āsa ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svit ← svit (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vánam ← vána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥kṣáḥ ← vr̥kṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+niṣṭatakṣúḥ ← √takṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yátas ← yátas (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mánīṣiṇaḥ ← manīṣín- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+pr̥cháta ← √praś- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+adhyátiṣṭhat ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dhāráyan ← √dhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +237,4 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 О вы, способные думать, спросите же мыслью (своей) о том,  
 На чем стоял он, укрепляя миры?
 </details>
+

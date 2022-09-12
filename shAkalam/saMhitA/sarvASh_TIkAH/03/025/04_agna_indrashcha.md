@@ -15,13 +15,53 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dāśúṣaḥ ← dāśváṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+sutā́vataḥ ← sutā́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ámardhantā ← ámardhant- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+devā ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+somapéyāya ← somapéya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +178,4 @@ O Agni, Indra, kommt herbei zum Opfer ins Haus des Frommen, der den Saft euch da
 В дом почитателя, выжавшего сому, – на жертву,  
 Для питья сомы, о вы двое (ничего) не упускающих богов!
 </details>
+

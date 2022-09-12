@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+jā́spátiḥ ← jā́spáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maṁsīṣṭa ← √man- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED, mood:PREC}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+iyānáḥ ← √yā- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+bhágam ← bhága- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jóhavīti ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+ánugraḥ ← ánugra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhágam ← bhága- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yāti ← √yā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Darin auch stimme ein des Hauses Herr uns, wenn er Gott Savitar um Schätze ange
 (Даже) сильный громко зовет Бхагу на помощь,  
 И несильный (тоже) просит Бхагу о сокровище.
 </details>
+

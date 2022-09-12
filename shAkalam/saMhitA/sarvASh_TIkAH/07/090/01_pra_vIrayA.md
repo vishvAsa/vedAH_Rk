@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dadrire ← √dā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vīrayā́ ← vīrayā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+adhvaryúbhiḥ ← adhvaryú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mádhumantaḥ ← mádhumant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sutā́saḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ácha ← ácha (invariable)  
+{}
+
+niyútaḥ ← niyút- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+váha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vāyo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +226,4 @@ Aus Liebe sind euch dargereicht die reinen, die honigsüssen Tränke von den Pri
 Привези, о Ваю, упряжки (с дарами), приезжай сюда!  
 Напейся выжатого сомы для опьянения!
 </details>
+

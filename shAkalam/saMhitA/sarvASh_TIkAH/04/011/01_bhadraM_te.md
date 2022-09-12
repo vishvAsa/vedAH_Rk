@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sahasin ← sahasin- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+rocate ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+upāké ← upāká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dadr̥śe ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+dr̥śé ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+naktayā́ ← naktayā́ (invariable)  
+{}
+
+rúśat ← rúśant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+árūkṣitam ← árūkṣita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dr̥śé ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+rūpé ← rūpá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +241,4 @@ Dein schöner Lichtschein, o gewalt'ger Agni, erstrahlet herrlich in der Sonne N
 Светлый на вид, он виден даже ночью.  
 Негрубая пища видна в его внешности.
 </details>
+

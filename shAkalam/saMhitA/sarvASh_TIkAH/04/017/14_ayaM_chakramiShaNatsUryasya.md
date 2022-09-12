@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iṣaṇat ← √iṣaṇ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+étaśam ← étaśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+rīramat ← √ram- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+sasr̥māṇám ← √sr̥- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+jigharti ← √ghr̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+juhurāṇáḥ ← √hr̥̄- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+kr̥ṣṇáḥ ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+budhné ← budhná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tvacáḥ ← tvác- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +231,4 @@ Das Rad der Sonne setzt er in Bewegung, liess ruhn ihr Ross, als es die Bahn dur
 Он швыряет его, рассвирепев,  
 На дно шкуры, темного пространства, в его лоно.
 </details>
+

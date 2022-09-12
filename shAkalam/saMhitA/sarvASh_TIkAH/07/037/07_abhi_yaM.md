@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ī́śe ← √īś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+nírr̥tiḥ ← nírr̥ti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nákṣante ← √nakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+supŕ̥kṣaḥ ← supŕ̥kṣ- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jarádaṣṭim ← jarádaṣṭi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tribandhúḥ ← tribandhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+ásvaveśam ← ásvaveśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇávanta ← √kr̥- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+mártāḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,3 +252,4 @@ Auch wen die Göttin Nirriti beherrscht schon, erreicht, dreifach verwandt, o In
 Связанный троякими узлами (человек) подходит к нему, достигшему старости,  
 (Он,) кого смертные сделали лишенным своего окружения.
 </details>
+

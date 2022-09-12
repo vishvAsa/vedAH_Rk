@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+r̥ṣabhám ← r̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samānā́nām ← samāná- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sapátnānām ← sapátna- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+viṣāsahím ← viṣāsahí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hantā́ram ← hantár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+śátrūṇām ← śátru- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+gópatim ← gópati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+virā́jam ← virā́j- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +171,4 @@ Mach unter gleichen mich zum Stier, der seine Nebenbuhler schlägt, Zum Feindest
 Убийцей врагов сделай меня,  
 Повелителем, хозяином коров!
 </details>
+

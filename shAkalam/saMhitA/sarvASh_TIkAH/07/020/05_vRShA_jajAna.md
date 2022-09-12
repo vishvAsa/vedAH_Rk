@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jajāna ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ráṇāya ← ráṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+nā́rī ← nā́rī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+náryam ← nárya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sasūva ← √sū- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nŕ̥bhyaḥ ← nár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+senānī́ḥ ← senānī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dhr̥ṣṇúḥ ← dhr̥ṣṇú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gavéṣaṇaḥ ← gavéṣaṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ináḥ ← iná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sátvā ← sátvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +235,4 @@ Der Stier erzeugte ihn, den Stier, zum Kampfe, und ihn den starken Mann gebar di
 Кто как предводитель войска находится там впереди мужей,  
 Тот сильный воин, дерзкий захватчик коров.
 </details>
+

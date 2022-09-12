@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pā́ti ← √pā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ripáḥ ← ríp- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+véḥ ← ví- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cáraṇam ← cáraṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pā́ti ← √pā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yahváḥ ← yahvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nā́bhā ← nā́bhi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+pā́ti ← √pā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+saptáśīrṣāṇam ← saptáśīrṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pā́ti ← √pā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+r̥ṣváḥ ← r̥ṣvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+upamā́dam ← upamā́da- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Er schützt des Vogels lieben Fuss vor Schlingen, die Bahn der Sonne schützt er
 Агни наблюдает за семиглавым на пупе (земли).  
 Он, возвышающийся, наблюдает за веселием богов.
 </details>
+

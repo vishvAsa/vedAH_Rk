@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhipitvé ← abhipitvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+sunóti ← √su- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sávanam ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tīvrám ← tīvrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vājāsaḥ ← vā́ja- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sárvavīram ← sárvavīra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mandasānā́ḥ ← mandasāná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+takṣata ← √takṣ- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vr̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Wer euch, o Vadscha's, bei des Tages Sinken den scharfen Soma zur Berauschung ke
 Тому, опьяняясь (сомой), вытешите богатство,  
 Состоящее из здоровых мужей, о Рибху мужественные!
 </details>
+

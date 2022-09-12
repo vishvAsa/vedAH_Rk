@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dāśarājñé ← dāśarājñá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+páriyattāya ← √yat- (root)  
+{case:DAT, gender:M, number:SG, non-finite:PPP}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+aśikṣatam ← √śak- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT, mood:DES}
+
+indrāvaruṇau ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sudā́se ← sudā́s- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kapardínaḥ ← kapardín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śvityáñcaḥ ← śvityáñc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+ásapanta ← √sap- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dhī́vantaḥ ← dhī́vant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tŕ̥tsavaḥ ← tŕ̥tsu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +183,4 @@ Der rings bedrängt war dort in der Zehnkönigsschlacht, dem Sudas gabt ihr Hül
 Когда тритсу, одетые в белое, с косами,  
 Почтили (вас) с поклонением поэтическим произведением, (они,) наделенные поэтическим даром.
 </details>
+

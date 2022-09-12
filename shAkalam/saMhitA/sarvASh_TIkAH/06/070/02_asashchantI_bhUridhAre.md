@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásaścantī ← ásaścant- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+bhū́ridhāre ← bhū́ridhāra- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+páyasvatī ← páyasvant- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+duhāte ← √duh- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śúcivrate ← śúcivrata- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sukŕ̥te ← sukŕ̥t- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rā́jantī ← √rāj- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+mánurhitam ← mánurhita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rétaḥ ← rétas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+siñcatam ← √sic- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

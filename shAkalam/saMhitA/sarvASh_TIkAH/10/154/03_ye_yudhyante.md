@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292);; repeated line
+#### Morph
+pradháneṣu ← pradhána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+yúdhyante ← √yudh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+śū́rāsaḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tanūtyájaḥ ← tanūtyáj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+sahásradakṣiṇāḥ ← sahásradakṣiṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+ápi ← ápi (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+gachatāt ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +187,4 @@ Die kämpfen in so mancher Schlacht, ihr Leben lassen, Helden kühn, Die Opfer l
 Или кто дает тысячу как дакшину,  
 К ним-то пусть он и отправится.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+parāváti ← parāvát- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+cucyuvé ← √cyu- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+návā ← náva- 2 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sánā ← sána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+saṁsátsu ← saṁsád- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+vocata ← √vac- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +159,4 @@ Was alt und neues hat vollbracht der Vritratödter ferne dort, Das rühmet bei d
 Что совершил убийца Вритры вдалеке, –  
 Провозгласите их в собраниях!
 </details>
+

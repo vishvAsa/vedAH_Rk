@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánavaḥ ← ánu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+druhyávaḥ ← druhyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gavyávaḥ ← gavyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ṣaṣṭíḥ ← ṣaṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ṣáṭ ← ṣáṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śatā́ ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+suṣupuḥ ← √svap- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ádhi ← ádhi (invariable)  
+{}
+
+duvoyú ← duvoyú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ṣaṣṭíḥ ← ṣaṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ṣáṭ ← ṣáṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vīrā́saḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+kr̥tā́ni ← √kr̥- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+vīryā̀ ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +240,4 @@ Der kampfbegierigen Anu's und der Druhju's entschliefen sechzighundert, sechsmal
 Героев и еще шесть уснули (навеки) с почетом.  
 Все это подвиги, совершенные Индрой.
 </details>
+

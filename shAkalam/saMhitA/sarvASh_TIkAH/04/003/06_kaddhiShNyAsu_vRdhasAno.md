@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhíṣṇyāsu ← dhíṣṇya- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vr̥dhasānáḥ ← vr̥dhasāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+prátavase ← prátavas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śubhaṁyé ← śubhaṁyā́- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vā́tāya ← vā́ta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kṣé ← kṣám- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nā́satyāya ← nā́satya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+párijmane ← párijman- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+brávaḥ ← √brū- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nr̥ghné ← nr̥hán- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rudrā́ya ← rudrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +191,7 @@ Pāda c is problematic, both metrically (it lacks a syllable) and grammatically:
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
 <details open><summary><h2>05-08 ...{Loading}...</h2></summary>
 
 The list of gods to whom Agni will tattle on us follows a certain pattern.
@@ -183,3 +232,4 @@ Was willst, o Agni, an Altären wachsend, dem mächt'gen Wind du sagen, der zum 
 Насатье, странствующему кругом, земле,  
 Что, о Агни, Рудре, убивающему мужей?
 </details>
+

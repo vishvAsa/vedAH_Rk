@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ásya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+ī́vataḥ ← ī́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+īśīta ← √īś- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mīḷhúṣaḥ ← mīḍhváṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tigmájambhasya ← tigmájambha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +153,4 @@ Ein solcher Agni werde nun zu Theil dem Mann, dem Sterblichen, Der scharfen Zahn
 Владеет муж смертный –  
 (Агни) с острыми клыками, щедрым!
 </details>
+

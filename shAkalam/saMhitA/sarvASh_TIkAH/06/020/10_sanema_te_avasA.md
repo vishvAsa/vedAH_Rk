@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+návyaḥ ← návyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sanéma ← √sanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pūrávaḥ ← pūrú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+stavante ← √stu- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dárt ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śā́radīḥ ← śā́rada- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dā́sīḥ ← dā́sī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+hán ← √han- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+purukútsāya ← purukútsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śíkṣan ← √śak- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +242,4 @@ Mög', Indra, deine Huld uns neues schenken, es preisen dich mit Opfern hier die
 Когда ты разбил семь осенних крепостей, (их) убежище,  
 Ты поубивал (племена) дасов, оказывая милость Пурукутсе.
 </details>
+

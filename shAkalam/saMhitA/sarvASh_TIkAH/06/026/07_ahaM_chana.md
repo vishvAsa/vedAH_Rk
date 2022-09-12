@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ānaśyām ← √naś- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+caná ← caná (invariable)  
+{}
+
+sūríbhiḥ ← sūrí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jyā́yaḥ ← jyā́yaṁs- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+sadhavīra ← sadhavīra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stávante ← √stu- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+vīrā́ḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+náhuṣā ← náhus- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śaviṣṭha ← śáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+trivárūthena ← trivárūtha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Auch mich lass nun erlangen mit den Fürsten, o Indra, deine grösste Huld und S
 Чтобы благодаря тебе, о товарищ мужей, прославились  
 Мужи, о самый могучий, благодаря Нахушу с тремя защитами.
 </details>
+

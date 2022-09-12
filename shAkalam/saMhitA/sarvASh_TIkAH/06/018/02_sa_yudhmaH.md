@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+khajakŕ̥t ← khajakŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+samádvā ← samádvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sátvā ← sátvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yudhmáḥ ← yudhmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nadanumā́n ← nadanumánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥jīṣī́ ← r̥jīṣín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tuvimrakṣáḥ ← tuvimrakṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+br̥hádreṇuḥ ← br̥hádreṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cyávanaḥ ← cyávana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́nuṣīṇām ← mā́nuṣa- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṣṭīnā́m ← kr̥ṣṭí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sahā́vā ← sahā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +205,4 @@ Der tapfre Kämpfer, Schlacht erregend, streitbar, der viele tilgt, wild tobend 
 Высоко вздымающий пыль, стал единственным  
 Победоносным сотрясателем людских племен.
 </details>
+

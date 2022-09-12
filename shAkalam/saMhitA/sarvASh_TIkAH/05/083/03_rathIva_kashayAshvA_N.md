@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhikṣipán ← √kṣip- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+káśayā ← káśā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+rathī́ ← rathín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+āvís ← āvís (invariable)  
+{}
+
+dūtā́n ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+varṣyā̀n ← varṣyà- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dūrā́t ← dūrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+īrate ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+siṁhásya ← siṁhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+stanáthāḥ ← stanátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+kr̥ṇuté ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+nábhaḥ ← nábhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+parjányaḥ ← parjánya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+varṣyàm ← varṣyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +246,4 @@ Dem Fuhrmann gleich, der peitschend seine Rosse treibt, lässt er erscheinen sei
 Издалека вздымаются раскаты грома льва,  
 Когда Парджанья создает дождевую тучу.
 </details>
+

@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+áśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+hariṇaú ← hariṇá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+gauraú ← gaurá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+yávasam ← yávasa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+haṁsaú ← haṁsá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+patatam ← √pat- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sutā́n ← √su- (root)  
+{case:ACC, gender:M, number:PL, non-finite:PPP}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +170,4 @@ O Ritter, wie zwei Rehe kommt, wie Büffel, die zur Weide gehn, So wie zwei Schw
 Как два буйвола на пастбище,  
 Прилетайте, как два лебедя, к выжатым (сокам сомы)!
 </details>
+

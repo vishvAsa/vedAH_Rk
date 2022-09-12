@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́tre ← mā́trā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+nú ← nú (invariable)  
+{}
+
+pūrvī́ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+súmite ← súmita- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kā́vyena ← kā́vya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+majmánā ← majmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ghr̥távantaḥ ← ghr̥távant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sutā́saḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+várāya ← vára- 1 (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+mádhūni ← mádhu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+svā́dman ← svā́dman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Zwei Weiten sind dir, Indra, schön gemessen, durch Kraft der Himmel und die Erd
 По твоему желанию (пусть выжимаются) соки Сомы, богатые жиром,  
 На (твой) вкус пусть будут сладкими для питья!
 </details>
+

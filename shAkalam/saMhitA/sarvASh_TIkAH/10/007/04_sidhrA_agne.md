@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sánutrīḥ ← sánutar- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sidhrā́ḥ ← sidhrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+nítyahotā ← nítyahotar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+trā́yase ← √trā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+purukṣúḥ ← purukṣú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rohídaśvaḥ ← rohídaśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áhabhiḥ ← áhar ~ áhan- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dyúbhiḥ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Erfolgreich sind, erlangend unsre Bitten; wem Agni du stets opfernd hilfst im Ha
 У этого праведного (будут) рыжие кони, много скота.  
 День за днем пусть будет ему (доставаться все) ценное.
 </details>
+

@@ -18,16 +18,83 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+kṣápaḥ ← kṣáp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sasvaje ← √svaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+māyáyā ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+usráḥ ← uṣár- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+darśatáḥ ← darśatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+vénīḥ ← vená- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+avardhayan ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+tisráḥ ← trí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+uṣáḥ ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,3 +263,4 @@ Er hat die Mächte rings umfasst, die Morgen weise eingesetzt, um alles ist er r
 Увеличили три утренние зари.  
 Пусть лопнут все ничтожные другие!
 </details>
+

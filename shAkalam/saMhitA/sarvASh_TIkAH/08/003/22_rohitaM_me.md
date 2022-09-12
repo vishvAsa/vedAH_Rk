@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pā́kasthāmā ← pā́kasthāman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+róhitam ← róhita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kakṣyaprā́m ← kakṣyaprā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudhúram ← sudhúr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+vibódhanam ← vibódhana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +140,4 @@ Das rothe, schönziehende, den Gurt ausfüllende, das zu Reichthum führt, hat m
 Послушного у дышла, заполняющего подпругу,  
 Пробуждающего (надежду) на богатство,
 </details>
+

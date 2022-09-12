@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+jātám ← √janⁱ- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+jātávedasi ← jātávedas- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+átithim ← átithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śiśīta ← √śā- ~ śī- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gr̥hápatim ← gr̥hápati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+syoné ← syoná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +151,4 @@ Bringt schnell zum Wesenkenner hin den neugebornen, lieben Gast, Auf weichen Sit
 Приятного гостя,  
 Домохозяина на (своем) покойном месте!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rákṣa ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rákṣaṇebhiḥ ← rákṣaṇa- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+prīṇānáḥ ← √prī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+rārakṣāṇáḥ ← √rakṣⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+sumakha ← súmakha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+ruja ← √ruj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sphura ← √sphr̥̄- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+vīḷú ← vīḷú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+jahí ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rákṣaḥ ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vāvr̥dhānám ← √vr̥dh- (root)  
+{case:NOM, gender:N, number:SG, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Behüt, o Agni, uns durch deine Huten, und holdgesinnt, o Held, du starker Hüte
 Оттолкни, разбей сильную нужду!  
 Убей ракшаса, даже если он мощно возрос!
 </details>
+

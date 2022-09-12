@@ -15,13 +15,59 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+imā́ ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+túbhya ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kr̥ṇomi ← √kr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+várdhanā ← várdhana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hávyaḥ ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+viśvádhā ← viśvádhā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Ja, dir bereit ich alle diese Säfte, und dir, o Held, die stärkenden Gebete, D
 Тебе я сотворяю подкрепляющие молитвы.  
 Ты должен быть повсюду призываем мужами.
 </details>
+

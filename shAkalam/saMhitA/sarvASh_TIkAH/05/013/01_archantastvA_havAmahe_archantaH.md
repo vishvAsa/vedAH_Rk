@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+árcantaḥ ← √r̥c- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+árcantaḥ ← √r̥c- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+idhīmahi ← √idh- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+árcantaḥ ← √r̥c- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +144,4 @@ Dich Agni rufen preisend wir, und preisend zünden wir dich an, Zu unsrer Hülfe
 Воспевая, хотим зажечь,  
 О Агни, воспевая – для поддержки.
 </details>
+

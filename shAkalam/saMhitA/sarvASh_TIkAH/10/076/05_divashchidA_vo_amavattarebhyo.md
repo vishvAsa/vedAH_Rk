@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ámavattarebhyaḥ ← ámavattara- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+āśvàpastarebhyaḥ ← āśvàpastara- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+vibhvánā ← vibhván- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+sómarabhastarebhyaḥ ← sómarabhastara- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+vāyóḥ ← vāyú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+agnéḥ ← agní- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+arca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+pitukŕ̥ttarebhyaḥ ← pitukŕ̥ttara- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +193,4 @@ Euch sing' ich, die ihr mächt'ger als der Himmel seid, die schneller ihr als Vi
 Сильнее опьяняющимся Сомой, чем сам Ваю,  
 Создающим больше пищи, чем сам Агни.
 </details>
+

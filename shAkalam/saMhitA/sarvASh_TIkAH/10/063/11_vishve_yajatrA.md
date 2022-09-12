@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+vocata ← √vac- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+yajatrāḥ ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+abhihrútaḥ ← abhihrút- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+durévāyāḥ ← duréva- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+trā́yadhvam ← √trā- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+deváhūtyā ← deváhūti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+huvema ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+satyáyā ← satyá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śr̥ṇvatáḥ ← √śru- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +198,4 @@ Ihr hehren Götter alle, sagt uns Hülfe zu, beschirmt uns vor des Bösgesinnten
 
 -ru-
 </details>
+

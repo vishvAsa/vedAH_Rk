@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+prá ← prá (invariable)  
+{}
+
+r̥bhūṇā́m ← r̥bhú- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sūnávaḥ ← sūnú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+navanta ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:INJ, tense:IPRF, voice:MED}
+
+vr̥jánā ← vr̥jána- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+kṣā́ma ← kṣā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+viśvádhāyasaḥ ← viśvádhāyas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+áśnan ← √aśⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +178,4 @@ Die Flammensöhne jubeln laut entgegen den Versammelten, Es lecken die allnähre
 (Те,) питающие всех (сыновья), что землю  
 Пожирают, словно (теленок) дойную корову – мать.
 </details>
+

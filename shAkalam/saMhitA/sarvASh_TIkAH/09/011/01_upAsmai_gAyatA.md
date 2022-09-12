@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+gāyata ← √gā(y)- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+índave ← índu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pávamānāya ← √pū- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+abhí ← abhí (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+íyakṣate ← √naś- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +151,4 @@ O Männer, diesem Indu singt Gesänge ihm, dem rieselnden, Den Göttern strebt e
 Павамане-соку!  
 Он стремится к богам.
 </details>
+

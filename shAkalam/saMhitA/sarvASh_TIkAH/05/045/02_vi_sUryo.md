@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amátim ← amáti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sāt ← √sā- ~ si- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+śríyam ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gāt ← √gā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+jānatī́ ← √jñā- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ūrvā́t ← ūrvá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+dhánvarṇasaḥ ← dhánvarṇas- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+khā́doarṇāḥ ← khā́doarṇas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dr̥ṁhata ← √dr̥h- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sthū́ṇā ← sthū́ṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+súmitā ← súmita- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +244,4 @@ Wie Glanz erschloss die Sonne ihre Schönheit; vom Stall her kam der Kühe Mutte
 Реки с несущимися потоками смывают берега.  
 Укрепилось небо, как хорошо установленный жертвенный столб.
 </details>
+

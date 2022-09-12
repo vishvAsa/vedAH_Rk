@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sū́dam ← sū́da- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+útsam ← útsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhágam ← bhága- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vīrám ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+svádasva ← √svad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samudrā́t ← samudrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +223,7 @@ As in IX.96.14 (see comm. ad loc.), I take the acc. with pavasva as expressing a
 On sū́da- see comm. ad VII.36.3. I argue there that, contra most views, it belongs with the ‘sweet’ words, and in fact that in this passage svádasva … pávamānaḥ in c is a virtual gloss (or poetic repair) of sū́dam pavasva in a.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/43-45.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/43-45.md">
 <details open><summary><h2>43-45 ...{Loading}...</h2></summary>
 
 The tṛca has a superficial unity from the (over-)abundance of forms of √pū, esp. in the middle vs.: pavasva 43a, 44a, 44b, 44d; pávamānaḥ 44c; punānáḥ 45c (the only form of √pū in this vs., and belonging to a different stem). Otherwise there is little to hold it together. The supposed transition between the poets Parāsara Śaktya and Kutsa Āṅgirasa happens after vs. 44, but as noted in the published introduction, this change of poets seems unlikely.
@@ -188,3 +255,4 @@ Des Methes Süss, des Gutes Quell ergiesse und riesle Helden uns herbei und Reic
 Будь вкусным для Индры, когда ты очищаешься, о сок сомы,  
 И дай нам, очищаясь, богатство из океана!
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+vanaspate ← vánaspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+véttha ← √vid- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+gúhyā ← gúhya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+nā́māni ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+gāmaya ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+havyā́ni ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tátra ← tátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +150,4 @@ Wo du der Götter Wesen weisst, o Waldherr, das verborgene, Dahin lass unsre Opf
 Тайные имена богов,  
 Туда отправь жертвы!
 </details>
+

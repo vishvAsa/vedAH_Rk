@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvā́bhiḥ ← tvá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+abhiṣṭipā́ḥ ← abhiṣṭipā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+jánān ← jána- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tvāyatáḥ ← √tvāy- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dāśúṣaḥ ← dāśváṁs- (nominal stem)  
+{case:GEN, number:SG}
+
+ináḥ ← iná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+varūtā́ ← varūtár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+itthā́dhīḥ ← itthā́dhī- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nákṣati ← √nakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Du schützest uns durch deine Hülfen, Indra, bist Beistand uns, den Männern, d
 Ты могучий защитник почитающего (тебя),  
 Когда он приближается с такой мыслью к тебе.
 </details>
+

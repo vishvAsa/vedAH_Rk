@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sumánasaḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+viśvadā́nīm ← viśvadā́nīm (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+páśyema ← √paś- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uccárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+karat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+táthā ← táthā (invariable)  
+{}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+vásupatiḥ ← vásupati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́gamiṣṭhaḥ ← ā́gamiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+óhānaḥ ← √uh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +216,4 @@ Wir seien wohlgemuth zu allen Zeiten, wir mögen sehn die Sonne, wenn sie aufgeh
 Пусть так сделает Повелитель благ,  
 Приметный среди богов (тем, что) быстрее всех приходит со (своей) помощью!
 </details>
+

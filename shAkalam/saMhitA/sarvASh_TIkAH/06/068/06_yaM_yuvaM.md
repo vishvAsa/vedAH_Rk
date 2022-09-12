@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dāśvàdhvarāya ← dāśvàdhvara- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+devā ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+dhattháḥ ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+purukṣúm ← purukṣú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásumantam ← vásumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+indrāvaruṇau ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+syāt ← √as- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+áśastīḥ ← áśasti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+bhanákti ← √bhañj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+vanúṣām ← vanús- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Das Gut, das ihr dem frommen Opfrer schenket, das reich an Schatz und Nahrung is
 У нас пусть оно будет, о Индра-Варуна,  
 (То,) что разбивает дурные речи завистников.
 </details>
+

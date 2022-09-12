@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+hótuḥ ← hótar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+íṣyan ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+upavaktā́ ← upavaktár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sya ← √sā- ~ si- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣáyathaḥ ← √kṣā- 2 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+saúbhagāya ← saúbhaga- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+pátayaḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvī́ryasya ← suvī́rya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +227,4 @@ Die Stimm erhebend wie des Priesters Mahner mach flammend, Indu, frei des Herzen
 Если Индра и (ты) царствуете (нам) на благо,  
 Пусть станем мы повелителями богатства из прекрасных мужей!
 </details>
+

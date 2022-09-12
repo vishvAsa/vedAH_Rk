@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhā́rataḥ ← bhā́rata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+yaṁsat ← √yam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+jyók ← jyók (invariable)  
+{}
+
+paśyāt ← √paś- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uccárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ā́ha ← √ah- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+íti ← íti (invariable)  
+{}
+
+sunávāma ← √su- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+náre ← nár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+náryāya ← nárya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nr̥ṇā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nŕ̥tamāya ← nŕ̥tama- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Den möge Agni Bharata beschützen, und lange schaue der der Sonne Aufgang, Der 
 Кто говорит: Мы будем выжимать (сому) для Индры,  
 Для мужа мужественного, самого мужественного из мужей!
 </details>
+

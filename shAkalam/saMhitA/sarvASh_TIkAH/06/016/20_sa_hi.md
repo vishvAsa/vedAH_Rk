@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+áti ← áti (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+pā́rthivā ← pā́rthiva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dā́śat ← √dāś- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+mahitvanā́ ← mahitvaná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ástr̥taḥ ← ástr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávātaḥ ← ávāta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vanván ← √vanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +168,4 @@ Denn Gut gab er, das grösser ist als aller irdische Besitz, In Ruhe spendend, u
 Пре(восходящее) все земное величием,  
 Побеждающий, (но) непобежденный, не поваленный наземь,
 </details>
+

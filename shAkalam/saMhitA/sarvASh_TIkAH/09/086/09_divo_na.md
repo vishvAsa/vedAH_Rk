@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+acikradat ← √krand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sā́nu ← sā́nu- ~ snú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stanáyan ← √stanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dhármabhiḥ ← dhárman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vivévidat ← √vid- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kaláśeṣu ← kaláśa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sīdati ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +194,7 @@ He purifies himself, always finding the fellowship of Indra. Soma, while  being 
 The rel. cl. of b lacks a verb. I think that whatever is supplied must be able to be construed with dhármabhiḥ “according to (his) ordinances.” My ‘abide’ is a slight elaboration on Geldner’s ‘sind’: “durch dessen Bestimmungen Himmel und Erde sind,” which I think is fundamentally correct. This is another hyperbolic statement of Soma’s cosmic power. Renou’s “lui à qui (appartiennent) le ciel et la terre avec les choses-à-maintenir” separates yásya from dhármabhiḥ and finds little work for the instr. pl. to do. The two instances of dhármabhiḥ (here and 5c) should be more or less in harmony.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 The beginning and end of this tṛca echo the preceding one: ketúḥ in 7a picks up the pl. ketávaḥ in 5-6, and the end of vs. 9, kaláśeṣu sīdati, is identical to the end of 6. The tṛca traces a trajectory from the ritual journey—the filter and the cask in 7—to a cosmic one, with Soma as king (8a) traversing first earthly natural features (seas, rivers, streams, waves 8ab) and then bridging the distance between earth and heaven (8d, 9ab), ending back on the ritual ground (9d). Of course the equivalence of the ritual and cosmic features is always in the foreground, as when in 8c he mounts the sheep’s back (=the filter), which is immediately (8d) then identified as “the navel of the earth” (nā́bhā pṛthivyā́ḥ), with the same word for ‘back’ (sā́nu) used in 8c for the filter and in 9a for heaven.
@@ -165,3 +223,4 @@ Jetzt brüllte donnernd wie des Himmels Gipfel er, in dessen Ordnung Himmel sich
 
 -ru-
 </details>
+

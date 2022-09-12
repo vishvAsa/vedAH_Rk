@@ -16,14 +16,69 @@ ChandaH = "अभिसारिणी"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhúvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+bhúvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+sávaneṣu ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+víśveṣu ← víśva- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yajñíyaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bháre ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bhúvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+cyautnáḥ ← cyautná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+víśvasmin ← víśva- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+jyéṣṭhaḥ ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mántraḥ ← mántra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvacarṣaṇe ← viśvácarṣaṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Du mögest, Indra, mächtig sein durch das Gebet, bei allen Mahlen sollst du hoc
 Ты был вдохновителем мужей в каждой битве  
 И лучшим советчиком, о принадлежащий всем народам.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aṁśúḥ ← aṁśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádyaḥ ← mádya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pipīḷé ← √pīḍ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+síndhuḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+śaktíḥ ← śaktí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śámī ← śámī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śaśamānásya ← √śamⁱ- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+asmadryàk ← asmadryàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śuśucānásya ← √śuc- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+
+yamyāḥ ← √yam- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+āśúḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+raśmím ← raśmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tuvyójasam ← tuvyójas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Gepresst ward Soma wie ein Strom, der Rausch bringt, dich ziehe her der Dienst d
 Пусть притянет тебя к нам,  
 Словно конь – очень мощную узду быка.
 </details>
+

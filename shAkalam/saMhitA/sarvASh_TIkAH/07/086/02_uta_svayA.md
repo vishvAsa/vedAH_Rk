@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sám ← sám (invariable)  
+{}
+
+sváyā ← svá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vade ← √vadⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+antár ← antár (invariable)  
+{}
+
+bhuvāni ← √bhū- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+váruṇe ← váruṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+áhr̥ṇānaḥ ← áhr̥ṇāna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+juṣeta ← √juṣ- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+khyam ← √khyā- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+mr̥ḷīkám ← mr̥ḷīká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +238,4 @@ Und mit mir selber sprech' ich diese Worte: »Wann werd' ich doch mit Varuna ver
 Будет ли он наслаждаться моей жертвой, не гневаясь?  
 Когда же, успокоившийся, я увижу (его) снисхождение?
 </details>
+

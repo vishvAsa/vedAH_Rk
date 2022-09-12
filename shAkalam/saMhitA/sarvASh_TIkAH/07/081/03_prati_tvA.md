@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+divaḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitar ← duhitár- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+abhutsmahi ← √budh- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:MED}
+
+jīrā́ḥ ← jīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+spārhám ← spārhá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váhasi ← √vah- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vananvati ← vánanvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+máyaḥ ← máyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +201,4 @@ Dich Himmelstochter haben wir, o Morgenröthe, schnell erweckt, Die du ja brings
 О (ты), владетельница, что возишь желанное (добро), -  
 Радость, подобно сокровищу, для почитателя (твоего).
 </details>
+

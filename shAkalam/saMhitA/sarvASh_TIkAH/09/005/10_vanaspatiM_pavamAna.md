@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+pavamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+vánaspátim ← vánaspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aṅgdhi ← √añj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mádhvā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+háritam ← hárita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahásravalśam ← sahásravalśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhrā́jamānam ← √bhrāj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+hiraṇyáyam ← hiraṇyáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +153,4 @@ Den Waldesbaum, o rieselnder, benetze mit dem süssen Strom, Den goldnen, feuerf
 (Дерево) с тысячей ветвей, зеленое,  
 Сверкающее, золотое!
 </details>
+

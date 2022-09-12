@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+patayanti ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śváyātavaḥ ← śváyātu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+ádābhyam ← ádābhya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dipsanti ← √dabh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+dipsávaḥ ← dipsú- (nominal stem)  
+{case:NOM, gender:M, number:PL, mood:DES}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+píśunebhyaḥ ← píśuna- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+śakráḥ ← śakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śíśīte ← √śā- ~ śī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vadhám ← vadhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśánim ← aśáni- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+sr̥jat ← √sr̥j- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+yātumádbhyaḥ ← yātumánt- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +198,4 @@ Es rennen dort die hundegleichen Geister, zu schäd'gen Indra, ihn, den niemand 
 Могучий точит смертельное оружие для вредителей.  
 Пусть швырнет он сейчас в колдунов дубину грома!
 </details>
+

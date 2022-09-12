@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dr̥dhrám ← dr̥dhrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gavyatā́ ← √gavy- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ubdhám ← √ubh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yemānám ← √yam- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+daívyena ← daívya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dr̥ḷhám ← √dr̥h- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vácasā ← vácas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+gómantam ← gómant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uśíjaḥ ← uśíj- (nominal stem)  
+{case:NOM, number:PL}
+
+vavruḥ ← √vr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +199,7 @@ The hapax dṛdhrá- is plausibly explained by Hoffmann (reported in EWA s.v.) a
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details open><summary><h2>10-18 ...{Loading}...</h2></summary>
 
 Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
@@ -178,3 +236,4 @@ Sie thaten auf mit beutelust'gem Sinne den Fels, der fest die Kühe hielt umschl
 Крепкий загон, полный коров, мужи  
 Ушиджи открыли с помощью божественной речи.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+marjayāmasi ← √mr̥j- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+indrapā́tamaḥ ← indrapā́tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āsábhiḥ ← āsán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+dadhúḥ ← √dhā- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+nūnám ← nūnám (invariable)  
+{}
+
+purā́ ← purā́ (invariable)  
+{}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +202,4 @@ Wir läutern diesen seinen Trank, den Indra stets am liebsten trinkt, Den Stiere
 Которого раньше сосали губами коровы,  
 А теперь (вкушают) богатые покровители.
 </details>
+

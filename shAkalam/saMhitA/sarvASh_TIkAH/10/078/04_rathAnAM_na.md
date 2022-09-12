@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.
+#### Morph
+arā́ḥ ← ára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ráthānām ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sánābhayaḥ ← sánābhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+abhídyavaḥ ← abhídyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jigīvā́ṁsaḥ ← √ji- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+śū́rāḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ghr̥taprúṣaḥ ← ghr̥taprúṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+máryāḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vareyávaḥ ← vareyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhisvartā́raḥ ← abhisvartár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+suṣṭúbhaḥ ← suṣṭúbh- (nominal stem)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +195,4 @@ Die wie die Speichen der Wagen von je einer Nabe ausgehen, himmelerstrebend wie 
 Юные мужи, кропящие жиром, как будто сватаясь;  
 Прекрасно запевающие, как исполнители песни:
 </details>
+

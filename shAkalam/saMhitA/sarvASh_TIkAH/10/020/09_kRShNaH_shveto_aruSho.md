@@ -15,13 +15,53 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+aruṣáḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kr̥ṣṇáḥ ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śvetáḥ ← śvetá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́maḥ ← yā́ma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bradhnáḥ ← bradhná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥jráḥ ← r̥jrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śóṇaḥ ← śóṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+yáśasvān ← yáśasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+híraṇyarūpam ← híraṇyarūpa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jajāna ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+jánitā ← jánitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +177,4 @@ Schwarz, weiss und roth ist seine Bahn; flammenfarbig, licht und braun ist der h
 Блистательный (бывает) желто-красным, красноватым и ярко-красным.  
 Родитель породил (его) золотистого цвета.
 </details>
+

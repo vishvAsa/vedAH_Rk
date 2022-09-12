@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+indrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+syāt ← √as- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárvavīraḥ ← sárvavīra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+avantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+śaraṇaíḥ ← śaraṇá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+várūtrīḥ ← várūtrī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+bhā́ratī ← bhā́ratī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dákṣiṇābhiḥ ← dákṣiṇa- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+hótrā ← hótrā- 2 (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +216,4 @@ Dies Gut sei uns, o Varuna und Indra, und Schatz an allen Helden reich, o Marut'
 Нас пусть охранят хранительницы (своими) защитами,  
 Нас Хотра, Бхарати – почетными дарами!
 </details>
+

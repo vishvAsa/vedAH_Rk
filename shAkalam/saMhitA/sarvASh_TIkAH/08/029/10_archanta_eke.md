@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+árcantaḥ ← √r̥c- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+éke ← éka- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+manvata ← √man- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+sā́ma ← sā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+arocayan ← √ruc- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +145,4 @@ Ein hohes Lied ersann dir eine Sängerschar, die Sonn' erhellten sie dadurch.
 Несколько, распевая, придумали великую  
 Мелодию. Ею они сделали солнце сверкающим.
 </details>
+

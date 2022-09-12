@@ -14,12 +14,40 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sámiddhaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+suṣamídhā ← suṣamídh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+str̥ṇītām ← √str̥̄- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+urviyā́ ← urviyā́ (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,3 +136,4 @@ Mit gutem Brennholz, Agni sei entzündet und weithin sei der Göttersitz gebreit
 О Агни, пусть будешь ты зажжен прекрасным зажиганием,  
 И солома пусть будет широко расстелена!
 </details>
+

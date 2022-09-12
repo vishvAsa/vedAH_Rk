@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+lokám ← loká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+neṣi ← √nī- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+urúm ← urú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ábhayam ← ábhaya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svàrvat ← svàrvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+bāhū́ ← bāhú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+r̥ṣvā́ ← r̥ṣvá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sthávirasya ← sthávira- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+br̥hántā ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śaraṇā́ ← śaraṇá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+stheyāma ← √sthā- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Zu weitem Raume leite uns, du weiser, zu hellem Glanze und zu sicherm Wohlsein; 
 Высоко вздымаются, о Индра, руки у тебя, крепкого.  
 Мы хотим найти прибежище в (этих) охраняющих мощных (руках)!
 </details>
+

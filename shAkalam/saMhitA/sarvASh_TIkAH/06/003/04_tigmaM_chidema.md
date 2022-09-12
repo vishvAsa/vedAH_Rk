@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+éma ← éman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tigmám ← tigmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+várpaḥ ← várpas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsā́ ← ā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+áśvaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhásat ← √bhas- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+yamasānáḥ ← yamasāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jihvā́m ← jihvā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+paraśúḥ ← paraśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vijéhamānaḥ ← √jeh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dā́ru ← dā́ru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dhákṣat ← √dah- (root)  
+{case:NOM, gender:N, number:SG, tense:AOR, voice:ACT}
+
+drāvayati ← √dru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dravíḥ ← draví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +236,4 @@ Sein Gang ist scharf, erhaben sein Erscheinen; gleich wie ein Ross, das vorn man
 Высовывая язык, словно (сверкающий) топор,  
 Он плавит (всё), как плавильщик, сжигая древесину.
 </details>
+

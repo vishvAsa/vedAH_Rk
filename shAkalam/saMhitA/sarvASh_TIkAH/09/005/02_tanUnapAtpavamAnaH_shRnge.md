@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+tánūnápāt ← tánūnápāt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arṣati ← √arṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śíśānaḥ ← √śā- ~ śī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+śŕ̥ṅge ← śŕ̥ṅga- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+antárikṣeṇa ← antárikṣa- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rā́rajat ← √rāj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,3 +127,4 @@ Sohn seiner selbst, der rieselnde, die Hörner wetzend fliesst er hin hellleucht
 Течет, оттачивая рога,  
 По воздуху, красуясь.
 </details>
+

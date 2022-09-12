@@ -17,15 +17,61 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+subāho ← subāhú- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+svaṅgure ← svaṅgurí- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+pŕ̥thujāghane ← pr̥thujāghana- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+pŕ̥thuṣṭo ← pr̥thuṣṭu- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śūrapatni ← śū́rapatnī- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+amīṣi ← √amⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vr̥ṣā́kapim ← vr̥ṣā́kapi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +205,4 @@ Warum, schönarmige, schönfingrige, breitflechtige, breithüftige, warum, o Hel
 
 -ru-
 </details>
+

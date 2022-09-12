@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ápi ← ápi (invariable)  
+{}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+hnutaḥ ← √hnu- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+jugukṣataḥ ← √guh- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+ná ← ná (invariable)  
+{}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vivāsataḥ ← √vanⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +150,4 @@ Sie weisen nimmer von sich ab, verschmähen nie der Götter Gunst Und grosses Gu
 Богов, не стремятся скрыть (её) –  
 Они хотят добиться высокой славы.
 </details>
+

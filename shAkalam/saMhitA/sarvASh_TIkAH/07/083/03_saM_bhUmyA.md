@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adr̥kṣata ← √dr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ántāḥ ← ánta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhū́myāḥ ← bhū́mi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+dhvasirā́ḥ ← dhvasirá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aruhat ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ghóṣaḥ ← ghóṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+árātayaḥ ← árāti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ásthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+havanaśrutā ← havanaśrút- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Der Erde Enden zeigen sich in Staub gehüllt, zum Himmel steigt der Schlachtlär
 Ко мне возникла враждебность у людей.  
 Приходите с поддержкой в наши края, о вы, слышащие (мой) зов!
 </details>
+

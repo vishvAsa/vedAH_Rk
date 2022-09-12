@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dhartā́ram ← dhartár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+oṇyòḥ ← oṇí- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+pávamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+svardŕ̥śam ← svardŕ̥ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hinvé ← √hi- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,7 +131,7 @@ do I impel—the prize-seeker to the prizes.
 With Geldner (n. 11a) I tentatively assume that the arms (oṇyòḥ) are Indra’s, since he was mentioned in the preceding vs. But as in IX.16.1 they might belong to the officiant.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 Again, no particular signs of unity.
@@ -132,3 +160,4 @@ Der du die Weltenschalen trägst, o Flammender, der Sonne gleich, Dich sporn' ic
 
 -ru-
 </details>
+

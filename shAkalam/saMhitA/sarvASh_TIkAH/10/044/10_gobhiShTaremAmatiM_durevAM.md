@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ámatim ← ámati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+durévām ← duréva- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tarema ← √tr̥̄- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+kṣúdham ← kṣúdh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvām ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yávena ← yáva- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dhánāni ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+prathamā́ḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rā́jabhiḥ ← rā́jan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+asmā́kena ← asmā́ka- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+jayema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vr̥jánena ← vr̥jána- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +193,4 @@ Durch Milchtrank lass den bösen Durst uns stillen, durch Korn, o vielgerufner, 
 Вместе с царями, вместе с нашей общиной  
 Пусть завоюем мы первые ставки!
 </details>
+

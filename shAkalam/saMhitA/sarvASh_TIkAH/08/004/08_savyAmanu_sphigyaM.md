@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+savyā́m ← savyá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sphigyàm ← sphigī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vāvase ← √vas- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dānáḥ ← dāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+roṣati ← √ruṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mádhvā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sámpr̥ktāḥ ← √pr̥c- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+sāraghéṇa ← sāraghá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dráva ← √dru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tū́yam ← tū́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ An seiner linken Hüfte ist der Held bewehrt, und nicht verschmähet er den Schm
 Коровье (молоко) пропитано пчелиным медом.  
 Быстро приходи ! Беги! Пей!
 </details>
+

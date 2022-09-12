@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pastyā̀m ← pastyā̀- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+síndhum ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devī́m ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+īḷe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+svastím ← svastí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áhanī ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+nipā́taḥ ← √pā- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:N, number:DU}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ádabdhe ← ádabdha- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+karatām ← √kr̥- (root)  
+{number:DU, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+uṣā́sānáktā ← uṣā́sānáktā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Die Aditi, die Heimische, die Sindhu, die Segensgöttin ruf' ich an um Freundsch
 Ушас и Ночь, две (богини,) не терпящие обмана, пусть сделают так,  
 Чтобы обе половины суток охраняли нас!
 </details>
+

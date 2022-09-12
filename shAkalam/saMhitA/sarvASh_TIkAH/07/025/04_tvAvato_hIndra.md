@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+krátve ← krátu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tvā́vataḥ ← tvā́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avitúḥ ← avitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rātaú ← rātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā́vataḥ ← tvā́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áhāni ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+taviṣīvaḥ ← táviṣīvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ugra ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥ṇuṣva ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+mardhīḥ ← √mr̥dh- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ókaḥ ← ókas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Denn solchem Gott, wie du, bin ich zu Willen, o Held, in solches Helfers Gunst, 
 Все дни, о сильный, грозный,  
 Удобно устраивайся (у нас), о хозяин буланых коней! Не оставь (нас)!
 </details>
+

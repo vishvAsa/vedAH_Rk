@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+kathā́ ← kathā́ (invariable)  
+{}
+
+nūnám ← nūnám (invariable)  
+{}
+
+stavat ← √stu- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vímanāḥ ← vímanas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadathuḥ ← √dā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vásya: iṣṭaye ← vásya: iṣṭi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+havate ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+tanūkr̥thé ← tanūkr̥thá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+víśvakaḥ ← víśvaka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mumócatam ← √muc- (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sakhyā́ ← sakhyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yauṣṭam ← √yu- 2 (root)  
+{number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +244,4 @@ Wie soll euch nun recht preisen der Verständige? ihr flösstet selbst die Bitt'
 К вам таким взывает Вишвака ради потомства.  
 Не уклоняйтесь от дружбы с нами! Распрягайте (коней)!
 </details>
+

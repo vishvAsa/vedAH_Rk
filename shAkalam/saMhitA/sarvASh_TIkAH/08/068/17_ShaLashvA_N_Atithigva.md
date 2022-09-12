@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ātithigvé ← ātithigvá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ṣáṭ ← ṣáṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+indroté ← indrotá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vadhū́mataḥ ← vadhū́mant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pūtákratau ← pūtákratu- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+sanam ← √sanⁱ- (root)  
+{number:SG, person:1, mood:INJ, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -93,7 +118,7 @@ Dānastutis regularly lump horses and female humans together. Very parallel is I
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/068/15-17.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/068/15-17.md">
 <details open><summary><h2>15-17 ...{Loading}...</h2></summary>
 
 The donors of the various gifts are generally in the locative here and so would be properly translated “bei,” “chez,” “at (the hands of) …” or the like, but a series of locatival tr. is simply too heavy and awkward.
@@ -126,3 +151,4 @@ Sechs Rosse nebst zugehörigem Geschirr empfing ich von Indrota, dem Nachkommen 
 
 -ru-
 </details>
+

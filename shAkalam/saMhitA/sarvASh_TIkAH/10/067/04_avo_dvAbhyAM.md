@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avás ← avás (invariable)  
+{}
+
+dvā́bhyām ← dvá- (nominal stem)  
+{case:INS, gender:F, number:DU}
+
+ékayā ← éka- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+parás ← parás (invariable)  
+{}
+
+ánr̥tasya ← ánr̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+sétau ← sétu- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tíṣṭhantīḥ ← √sthā- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ichán ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+támasi ← támas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+akar ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ā́var ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+tisráḥ ← trí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+usrā́ḥ ← usrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+út ← út (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +229,4 @@ Die Kühe [Lichtstrahlen], welche unterhalb zweier [Verschlüsse] und oberhalb d
 Выпустил коров, находящихся в укрытии, в путах зла,  
 Коров утренней зари – ведь он открыл трое (ворот).
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+tripr̥ṣṭhám ← tripr̥ṣṭhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vayodhā́m ← vayodhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āṅgūṣā́ṇām ← āṅgūṣá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+avāvaśanta ← √vāś- (root)  
+{number:PL, person:3, mood:IND, tense:PLUPRF, voice:MED}
+
+vā́ṇīḥ ← vā́ṇī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+síndhūn ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vánā ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásānaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dayate ← √dā- 3 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ratnadhā́ḥ ← ratnadhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́ryāṇi ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Dem Stier mit dreien Rücken, welcher Lust gibt, ihm jauchzten zu der Preisgesä
 Одеваясь в дерево, как Варуна в реки,  
 Даритель сокровищ раздает желанные блага.
 </details>
+

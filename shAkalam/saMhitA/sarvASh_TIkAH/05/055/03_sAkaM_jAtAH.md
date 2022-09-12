@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+jātā́ḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+sākám ← sākám (invariable)  
+{}
+
+sākám ← sākám (invariable)  
+{}
+
+subhvàḥ ← subhū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ukṣitā́ḥ ← √vakṣ- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pratarám ← pratarám (invariable)  
+{}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vāvr̥dhuḥ ← √vr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+raśmáyaḥ ← raśmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+virokíṇaḥ ← virokín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+avr̥tsata ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ráthāḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúbham ← śúbh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yātā́m ← √yā- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Zugleich geboren und erwachsen glanzbegabt, erblühten noch zu schön'rer Pracht
 Далеко сверкающие, словно лучи солнца.  
 У выезжающих для блеска (Марутов) колесницы последовали (одна за другой).
 </details>
+

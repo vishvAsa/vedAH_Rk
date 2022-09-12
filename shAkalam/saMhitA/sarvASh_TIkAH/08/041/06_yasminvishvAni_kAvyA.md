@@ -18,16 +18,77 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+kā́vyā ← kā́vya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+cakré ← cakrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+nā́bhiḥ ← nā́bhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śritā́ ← √śri- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+jūtī́ ← jūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+saparyata ← √sapary- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tritám ← tritá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+saṁyúje ← √yuj- (root)  
+{case:DAT, number:SG}
+
+vrajé ← vrajá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ayukṣata ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+yujé ← √yuj- (root)  
+{case:DAT, number:SG}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +246,4 @@ In welchem alle Weisheit ruht wie in dem Rad die Nabe sitzt; Wie Rinder man im S
 Для единения они запрягли себе коней.  
 Пусть лопнут все ничтожные другие!
 </details>
+

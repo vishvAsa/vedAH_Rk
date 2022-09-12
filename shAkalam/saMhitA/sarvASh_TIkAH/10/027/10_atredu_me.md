@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+átra ← átra (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+maṁsase ← √man- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:MED}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+uktám ← √vac- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ca ← ca (invariable)  
+{}
+
+cátuṣpāt ← cátuṣpad- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dvipā́t ← dvipád- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+saṁsr̥jā́ni ← √sr̥j- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+pr̥tanyā́t ← √pr̥tany- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+strībhíḥ ← strī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+áyuddhaḥ ← áyuddha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhajāni ← √bhaj- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+védaḥ ← védas- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +243,4 @@ Dann sollst du mein Wort für wahr halten, daß ich Mensch und Tier durcheinande
 
 -ru-
 </details>
+

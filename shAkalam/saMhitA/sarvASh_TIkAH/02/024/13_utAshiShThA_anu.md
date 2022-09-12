@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+ā́śiṣṭhāḥ ← ā́śiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śr̥ṇvanti ← √śru- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+váhnayaḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bharate ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+dhánā ← dhána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+matī́ ← matí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sabhéyaḥ ← sabhéya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ādadíḥ ← ādadí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+r̥ṇám ← r̥ṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váśā ← váśa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vīḷudvéṣāḥ ← vīḷudvéṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+samithé ← samithá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +230,4 @@ Und seinem Wort gehorcht der schnellsten Rosse Schar, der tücht'ge Sänger trä
 Твердый в ненависти, взыскующий долга по (своему) желанию,  
 Этот Брахманаспати – победитель в состязании.
 </details>
+

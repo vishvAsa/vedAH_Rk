@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásāmi ← ásāmi- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+jajñānám ← √janⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:MED}
+
+sáhase ← sáhas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+rā́dhase ← rā́dhas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+śrutā́ya ← √śru- (root)  
+{case:DAT, gender:M, number:SG, non-finite:PPP}
+
+vāvr̥dhānám ← √vr̥dh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:MED}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mahā́m ← máh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vipra ← vípra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+vivāsema ← √vanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT, mood:DES}
+
+vr̥tratū́ryeṣu ← vr̥tratū́rya- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +208,4 @@ So wollen wir gewinnen nun, o Priester, ihn, der geboren ist zur Kraft vollkomme
 Велихого грозного (Индру), о вдохновенный, сейчас  
 Мы хотим завоевать в битвах с врагами.
 </details>
+

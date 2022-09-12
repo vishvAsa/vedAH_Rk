@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cā́rum ← cā́ru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥tám ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kr̥tám ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+praśastā́ ← √śaṁs- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+sūríṣu ← sūrí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+devájūtaḥ ← devájūta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+spārhā́bhiḥ ← spārhá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tiretam ← √tr̥̄- 1 (root)  
+{number:DU, person:2, mood:OPT, tense:PRS, voice:ACT}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +243,4 @@ Lasst unser Opfer lieb euch sein bei Festen und die Gebete preisenswerth den Fü
 Пусть придет к нам богатство, посланное богами!  
 Протяните нам (срок жизни) (вашими) желанными поддержками!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+avadanta ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+etásyām ← eṣá (pronoun)  
+{case:LOC, gender:F, number:SG}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+niṣedúḥ ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+saptar̥ṣáyaḥ ← saptar̥ṣí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tápase ← tápas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+bhīmā́ ← bhīmá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+brāhmaṇásya ← brāhmaṇá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jāyā́ ← jāyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+úpanītā ← √nī- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+dadhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+durdhā́m ← durdhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vyòman ← vyòman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +201,4 @@ Die Götter und die sieben alten Sänger, welche sich zur Busse niedergesetzt ha
 Страшно жена брахмана, приведенная (другим),  
 Она вызывает беспорядок на высшем небе.
 </details>
+

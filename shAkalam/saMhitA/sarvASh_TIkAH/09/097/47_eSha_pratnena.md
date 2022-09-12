@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pratnéna ← pratná- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+váyasā ← váyas- 2 (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+duhitúḥ ← duhitár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
+várpāṁsi ← várpas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+trivárūtham ← trivárūtha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vásānaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+rébhan ← √ribh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sámaneṣu ← sámana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +192,7 @@ In pāda b my interpr. differs significantly from that of Geldner (fld. by Renou
 The following pāda provides a different but parallel image of the mixing of soma with water, with the more widespread trope of “clothing himself in.” The last pāda provides a clever multilevel play, as long as rébhan is properly interpr. As I have often disc. (incl. ad vs. 8 above), √ribh does not mean ‘sing’ as it’s usually glossed, but rather expresses a variety of harsh sounds: rasp, creak, squawk, and crackle. In this pāda Soma is compared to a Hotar priest. But the quintessential Hotar is actually the god Agni, the ritual fire - and fires crackle. So the comparison is to the sound of a lively burning fire, but mediated through the priest.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/46-48.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/46-48.md">
 <details open><summary><h2>46-48 ...{Loading}...</h2></summary>
 
 Again very few signs of cohesion as a whole, though the 1st and last vss. have a few echoes: rathiráḥ (46c, 48a) and a satyá-X bahuvrīhi (satyá-śuṣma46c, satyá-manman- 48d), as well as camū́- (46b, 48b). Also, assuming that the “daughter” in 47b is the Daughter of the Sun (as most do), both 46 and 47 have ref.
@@ -174,3 +226,4 @@ Und er, durch alte Jugendkraft gereinigt, und seiner Tochter Glanzgestalt verdun
 Облачаясь в щит с тройной защитой в водах,  
 Как хотар, он ходит в жертвенных собраниях, распевая.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+cākandhi ← √kanⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+eṣu ← ayám (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sūríṣu ← sūrí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ānaśúḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+maghám ← maghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥dhā́saḥ ← vr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+árcanti ← √r̥c- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+páriṣṭiṣu ← páriṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+tánaye ← tánaya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+toké ← toká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áhraye ← áhraya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dháne ← dhána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+medhásātā ← medhásāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +207,4 @@ An diesen Fürsten, vielgerufner, zeige Lust, die selber fördernd Macht erlangt
 Они славят победителя, когда речь идет о продолжении рода в трудных условиях,  
 При достижении мудрости, при смелой ставке.
 </details>
+

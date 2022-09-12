@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+acaṣṭa ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥cákṣāḥ ← nr̥cákṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sīm ← sīm (invariable)  
+{}
+
+mádantī ← √mad- (root)  
+{case:ACC, gender:F, number:DU, tense:PRS, voice:ACT}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+víghr̥te ← √ghr̥- 1 (root)  
+{case:ACC, gender:F, number:DU, non-finite:PPP}
+
+yónā ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+cakrāte ← √kr̥- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
+nā́nā ← nā́nā (invariable)  
+{}
+
+sádanam ← sádana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+véḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+krátunā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+samānéna ← samāná- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+saṁvidāné ← √vid- 2 (root)  
+{case:NOM, gender:F, number:DU, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +227,4 @@ Sie schaute an der männerschau'nde Seher, die seligen, im heil'gen Schooss besp
 По-разному (эти) двое приготовили себе место, как птица,  
 Согласные (однако) благодаря общей силе духа.
 </details>
+

@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pā́tave ← √pā- 2 (root)  
+{case:DAT, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+sicyase ← √sic- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+vr̥traghné ← vr̥trahán- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dákṣiṇāvate ← dákṣiṇāvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+náre ← nár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sadanāsáde ← sadanāsád- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +167,4 @@ Dem Vritratödter Indra wirst ergossen, Soma, du zum Trunk, Dem Mann, der reiche
 И для мужа, дающего вознаграждение,  
 Для бога, сидящего на сидении.
 </details>
+

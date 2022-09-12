@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sakṣáṇiḥ ← sakṣáṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+gnā́bhiḥ ← gnā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+jūjuvat ← √jū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+br̥haddivā́ ← br̥haddivá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+íḷā ← íḷā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+utá ← utá (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+aśvínau ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pátī ← páti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+púraṁdhiḥ ← púraṁdhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +223,4 @@ Und auch Gott Tvaschtar, aller Welt Genosse er, umschart von Weibern lasse schne
 (Как и) Ида, Бхага, Брихаддива, Два Мира,  
 Пушан, Пурамдхи, Ашвины – два мужа (Сурьи)!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bhū́mim ← bhū́mi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+etā́m ← eṣá (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sarpa ← √sr̥p- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+suśévām ← suśéva- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+uruvyácasam ← uruvyácas- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dákṣiṇāvate ← dákṣiṇāvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ū́rṇamradāḥ ← ū́rṇamradas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yuvatíḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+nírr̥teḥ ← nírr̥ti- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+pātu ← √pā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+upásthāt ← upástha- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +208,4 @@ Nun gehe ein zur mütterlichen Erde, sie öffnet sich zu gütigem Empfange, Wie 
 Отроковица, нежная как шерсть, для того, кто дает награждение,  
 Да защитит она тебя от лона небытия!
 </details>
+

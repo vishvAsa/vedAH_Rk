@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áṅgaiḥ ← áṅga- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+pururū́paḥ ← pururū́pa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sthirébhiḥ ← sthirá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+babhrúḥ ← babhrú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+híraṇyaiḥ ← híraṇya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+pipiśe ← √piś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+śukrébhiḥ ← śukrá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhū́reḥ ← bhū́ri- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ī́śānāt ← √īś- (root)  
+{case:ABL, gender:M, number:SG, voice:MED}
+
+asuryàm ← asuryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rudrā́t ← rudrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+vaí ← vaí (invariable)  
+{}
+
+yoṣat ← √yu- 2 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +231,4 @@ Mit starken Gliedern hat der mächt'ge, braune, und blankem Gold geschmückt sic
 От владыки этого огромного мира,  
 От Рудры никогда ведь не отдаляется асурская сила!
 </details>
+

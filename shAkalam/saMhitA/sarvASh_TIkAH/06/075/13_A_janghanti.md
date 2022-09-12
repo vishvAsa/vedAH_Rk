@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+jaṅghanti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sā́nu ← sā́nu- ~ snú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+jaghánān ← jaghána- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jighnate ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+áśvājani ← aśvā́janī- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+prácetasaḥ ← prácetas- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+codaya ← √cud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+samátsu ← samád- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +174,4 @@ Auf ihren Rücken peitschet sie, und peitscht auf ihre Hintern los, o Peitsche, 
 О кнут, понятливых  
 Коней побуждай в сражениях!
 </details>
+

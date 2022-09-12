@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asvaran ← √svar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ī ← ī (invariable)  
+{}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+átyavim ← átyavi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+krī́ḷantam ← √krīḍ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+váne ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nāvā́ḥ ← nāvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +148,4 @@ Ihm jauchzten jetzt die Freunde zu, der durch die Wolle springt ins Holz, Den In
 
 -ru-
 </details>
+

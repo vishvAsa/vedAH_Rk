@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+átas ← átas (invariable)  
+{}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+īrṣva ← √r̥- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+pátivatī ← pátivant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+út ← út (invariable)  
+{}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+īḷe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+viśvā́vasum ← viśvā́vasu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anyā́m ← anyá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+icha ← √iṣ- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pitr̥ṣádam ← pitr̥ṣád- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vyàktām ← √añj- (root)  
+{case:ACC, gender:F, number:SG, non-finite:PPP}
+
+bhāgáḥ ← bhāgá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janúṣā ← janúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+viddhi ← √vid- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Erhebe dich von hier; denn diese ist vermählt; ich ehre dich, Viçvāvasu, ehrf
 Ищи другую, живущую у отца, отмеченную!  
 Она твоя доля от природы. Ее (и) знай!
 </details>
+

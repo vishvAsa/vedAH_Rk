@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+carúḥ ← carú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īṅkhaya ← √īṅkhay- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dā́nam ← dā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+īṅkhaya ← √īṅkhay- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+īṅkhaya ← √īṅkhay- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vadhaíḥ ← vadhá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vadhasno ← vadhasnu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +175,4 @@ Den schüttle, der dem Kessel gleicht, o Indu, schüttle Gaben her, Mit Schläge
 
 -ru-
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+maháḥ ← máh- (nominal stem)  
+{case:ACC, number:PL}
+
+yájasi ← √yaj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yákṣi ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+daṁsánā ← daṁsánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arvā́caḥ ← arvā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+kr̥ṇuhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sīm ← sīm (invariable)  
+{}
+
+rā́sva ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+utá ← utá (invariable)  
+{}
+
+vā́jā ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vaṁsva ← √vanⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Die grossen Götter ehrst du, ehr sie nach der Reih' durch deine Kraft und Herrl
 Обрати их нам на помощь, о Агни!  
 Подари (и) добудь (для нас) награду!
 </details>
+

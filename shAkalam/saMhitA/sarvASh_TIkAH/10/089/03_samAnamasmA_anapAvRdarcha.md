@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánapāvr̥t ← ánapāvr̥t (invariable)  
+{number:SG}
+
+arca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+samānám ← samāná- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ásamam ← ásama- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+kṣmayā́ ← kṣám- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+návyam ← návya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jánimāni ← jániman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pr̥ṣṭhā́ ← pr̥ṣṭhá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cikā́ya ← √ci- 3 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īṣé ← √īṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +223,4 @@ Ich sing' ihm achtsam nun das neue, schönste Gebet zugleich für Himmel und fü
 Индра, который всегда разглядывает родство чужого,  
 Как спины (лошадей), не оставляет друга в беде.
 </details>
+

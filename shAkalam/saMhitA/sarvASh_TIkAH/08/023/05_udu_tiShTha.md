@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+svadhvara ← svadhvará- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tiṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+devyā́ ← devī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+kr̥pā́ ← kŕ̥p- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+stávānaḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+abhikhyā́ ← abhikhyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+bhāsā́ ← bhā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+br̥hatā́ ← br̥hánt- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śuśukvániḥ ← śuśukváni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +162,4 @@ Erheb dich, trefflich opfernder, gepriesner mit der Glanzgestalt, Mit deinem Sch
 (Своим) божественным обликом, когда (тебя) восхвалили,  
 Озирая (людей), с высоким сиянием, пылающий!
 </details>
+

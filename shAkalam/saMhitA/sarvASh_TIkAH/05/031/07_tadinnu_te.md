@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dasma ← dasmá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+káraṇam ← káraṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vipra ← vípra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ámimīthāḥ ← √mā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:MED}
+
+átra ← átra (invariable)  
+{}
+
+ghnán ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+agr̥bhṇāḥ ← √gr̥bhⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+māyā́ḥ ← māyā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+śúṣṇasya ← śúṣṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+asedhaḥ ← √sidh- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prapitvám ← prapitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +240,7 @@ vádhar appears here in the same metrical position as in 3b. There the weapon wa
 As noted ad vs. 4, the poetic repair effected by prábhṛtā mádasya in 5c is somewhat muddied by 7c vájrasya prábhṛtau. What exactly this latter phrase means is not clear. I doubt that Geldner’s “im Schlag mit der Keule” is correct, since ‘strike’ is not a standard sense of prá √bhṛ (the closest we get is ‘bear down on’). Witzel Gotō’s “beim Vorführen des Vajra” is similar to my “at the proffering of the mace” (‘proffer’ having been chosen to match the tr. of this lexeme in 4c and 5c). The English idiom “present arms” is a direct correspondent, though the action in the English phrase is a gesture of respect, not (as here) of intimidation. The point of both úd … vádhar yámiṣṭa “held up his weapon” and vájrasya prábhṛtau seems to be to show Vṛtra the unbeatable power of the vájra-. See also the mahatā́vadhéna in 8c.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 The recital of Indra’s deeds now reverts to the past tense, to a series of insistently augmented imperfects: 7b ámimīthāḥ, 7c agṛbhṇāḥ, 7d asedhaḥ, 8b áramayaḥ, 8c ayātam, ávahaḥ. (In 8d the Pp. reads unaug. áranta, but in its sandhi situation [uśánā́ranta] it could as easily be ā́ranta; the accent should be on the augment because it’s in a subordinate cl., but ā + áranta would come out this way.
@@ -208,3 +278,4 @@ Und diese That auch, wunderbarer, weiser, dass dort die Schlange tödtend Kraft 
 Ты овладел колдовскими чарами самого Шушны.  
 Стремительно двигаясь, ты выдворил дасью.
 </details>
+

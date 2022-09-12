@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aryáḥ ← arí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+svā́hā ← svā́hā (invariable)  
+{}
+
+amúṣya ← asaú (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śā́sataḥ ← √śās- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dívam ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+divāvaso ← divāvasu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yayá ← √yā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +173,4 @@ Komm vom hohen Herrn weg - Svaha! - zum Trunk des Soma! - Über jenen Himmel her
 Повелевая тем небом,  
 Вы отправились на небо, о Дивавасу.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhānúḥ ← bhānú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+iyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+yujyáte ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+párijmā ← párijman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sā́navi ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+asmin ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+mithunā́ḥ ← mithuná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pr̥kṣā́saḥ ← pr̥kṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dŕ̥tiḥ ← dŕ̥ti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádhunaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rapśate ← √rapś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+turī́yaḥ ← turī́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +243,4 @@ Es hebt empor sich dieser Glanz, es wird geschirrt der Wagen schon, der dieses H
 На ней трое, несущих питательную силу, (образующих) пару.  
 Четвертый, (кожаный) мешок, лопается от меда.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+saṁyátam ← saṁyát- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+svastím ← svastí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ámr̥dhrām ← ámr̥dhra- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+br̥hatī́m ← br̥hánt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śatrutū́ryāya ← śatrutū́rya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ā́ryāṇi ← ā́rya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dā́sāni ← dā́sa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vr̥trā́ ← vr̥trá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+káraḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+nā́huṣāṇi ← nā́huṣa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sutúkā ← sutúka- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Verschaff uns, Indra, zu der Feindbekämpfung viel grosses Heil, das dauernd sei
 (Тем,) благодаря которому врагов – дасов, ариев,  
 Потомков Нахуша ты тут же обращаешь в бегство, о громовержец!
 </details>
+

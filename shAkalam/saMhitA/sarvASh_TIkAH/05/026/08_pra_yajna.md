@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M
+#### Morph
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+devávyacastamaḥ ← devávyacastama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āsáde ← √sad- (root)  
+{case:DAT, number:SG}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+str̥ṇītá ← √str̥̄- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +147,4 @@ Das Opfer schreite heute vor vollauf das götterfassendste Zum sitzen streut das
 По порядку, охватывая как можно больше богов!  
 Расстелите жертвенную солому для сидения!
 </details>
+

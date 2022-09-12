@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávidhat ← √vidh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+avipráḥ ← aviprá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mamandat ← √mand- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śatakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvāyā́ ← tvám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+áhaṁsana ← ahaṁsana- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prā́cāmanyo ← prācāmanyu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +209,4 @@ Mag nun das Wort, o Indra, dir Nichtdichter oder Dichter weihn, Wird er dich doc
 Пусть он возрадуется благодаря тебе, о стоумный,  
 О рвущийся вперед, стремящийся (все) себе захватить!
 </details>
+

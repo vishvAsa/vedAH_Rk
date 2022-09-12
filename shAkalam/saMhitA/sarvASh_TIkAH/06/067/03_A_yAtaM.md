@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+suśastí ← suśastí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+hūyámānā ← √hū- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:PASS}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+priyā́ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+úpa ← úpa (invariable)  
+{}
+
+apásā ← apás- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+apnastháḥ ← apnasthá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jánān ← jána- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+yaú ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śrudhīyatáḥ ← √śrudhīy- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yatathaḥ ← √yat- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +230,4 @@ Kommt her zum Preislied, Varuna und Mitra, herbeigerufen demuthsvoll, ihr lieben
 (Вы,) что (собираете) вместе людей, как два мастера - участников работы.  
 Тех же, кто (говорит вам:) Слушай!, своим величием вы расставляете по местам.
 </details>
+

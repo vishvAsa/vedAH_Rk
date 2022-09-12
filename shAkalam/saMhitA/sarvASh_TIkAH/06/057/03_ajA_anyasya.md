@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ajā́ḥ ← ajá- 2 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anyásya ← anyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+váhnayaḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anyásya ← anyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sámbhr̥tā ← √bhr̥- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+jighnate ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tā́bhyām ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:DU}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +152,4 @@ Den einen fährt der Ziegen Schar, den andern seiner Rosse Paar, Mit diesen schl
 Пара буланых коней, снаряженных (как надо) – другого.  
 С их помощью он разбивает препятствия.
 </details>
+

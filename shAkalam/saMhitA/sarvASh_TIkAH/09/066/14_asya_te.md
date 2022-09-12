@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ásya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+íyakṣantaḥ ← √naś- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT, mood:DES}
+
+tvótayaḥ ← tvóti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sakhitvám ← sakhitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uśmasi ← √vaś- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,7 +132,7 @@ In his endearingly crusty way, Bloomfield (Rig-Veda Repetitions ad IX.31.6) pron
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 No signs of cohesion.
@@ -133,3 +161,4 @@ Drum wünschen deine Freundschaft wir verlangend, Indu, unterstützt Von dir in 
 
 -ru-
 </details>
+

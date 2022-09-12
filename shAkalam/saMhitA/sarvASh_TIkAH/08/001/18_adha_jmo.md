@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jmáḥ ← kṣám- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:ABL, number:SG}
+
+rocanā́t ← rocaná- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vardhasva ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jātā́ ← √janⁱ- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+pr̥ṇa ← √pr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sukrato ← sukrátu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Und sei es von der Erde her, sei's von dem hohen Himmelsraum, Komm, freue dich a
 Возрастай телом от этой песни моей!  
 Накопи (нам) сыновей, о (ты,) очень умный!
 </details>
+

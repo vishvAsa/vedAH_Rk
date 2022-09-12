@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ādityásya ← ādityá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kavéḥ ← kaví- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+svarā́jaḥ ← svarā́j- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sā́nti ← √as- 1 (root)  
+{case:ACC, gender:N, number:PL, tense:PRS, voice:ACT}
+
+víśvāni ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mandráḥ ← mandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yajáthāya ← yajátha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhikṣe ← √bhaj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+bhū́reḥ ← bhū́ri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sukīrtím ← sukīrtí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Aditja's ist die Welt des weisen Herrschers, er überrage, was da ist, an Gröss
 (Восхвалевие Варуны,) который как бог очень приятен для почитания!  
 Я прошу доброй славы у Варуны обильного.
 </details>
+

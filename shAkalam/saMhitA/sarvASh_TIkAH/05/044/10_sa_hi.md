@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cíttibhiḥ ← cítti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+kṣatrásya ← kṣatrá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+manasásya ← manasá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+evāvadásya ← evāvadá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sádhreḥ ← sádhri- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yajatásya ← yajatá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+avatsārásya ← avatsārá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ráṇvabhiḥ ← ráṇvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+spr̥ṇavāma ← √spr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+árdhyam ← árdhya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+śáviṣṭham ← śáviṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidúṣā ← √vid- 2 (root)  
+{case:INS, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +212,4 @@ Mögen wir doch [statt des sinnlosen sä lese ich säm] durch die Pläne des wei
 Благодаря (мыслям) Аватсары, приносящим радость, мы хотим выиграть  
 Самую мощную награду, которую может получить только знаток.
 </details>
+

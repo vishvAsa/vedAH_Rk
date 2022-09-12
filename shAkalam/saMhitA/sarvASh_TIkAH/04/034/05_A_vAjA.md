@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+r̥bhukṣāḥ ← r̥bhukṣā́- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vājāḥ ← vā́ja- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yāta ← √yā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dráviṇasaḥ ← dráviṇas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+gr̥ṇānā́ḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+maháḥ ← máh- (nominal stem)  
+{case:ABL, number:SG}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhipitvé ← abhipitvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+pītáyaḥ ← pītí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ástam ← ásta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+gman ← √gam- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+navasvàḥ ← navasū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +226,4 @@ Kommt her zu uns, o Vadscha's und Ribhukschan's, der grossen Gabe freuend euch, 
 К вам пошли эти напитки в конце дней (жертвоприношений),  
 Как идут домой недавно отелившиеся коровы.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámatraḥ ← ámatra- adj. (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+virapśī́ ← virapśín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥jáne ← vr̥jána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhr̥ṣṇú ← dhr̥ṣṇú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+patyate ← √pat- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vivyāca ← √vyac- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ámandan ← √mand- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+háryaśvam ← háryaśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Gross, unermesslich, kräftig bei dem Opfer, besitzt er hohe Macht und kühne St
 Сама земля не вмещала его,  
 Когда соки сомы опьяняли обладателя буланых коней.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+īyátuḥ ← √i- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+jmāyántam ← √jmāy- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+hástā ← hásta- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hiraṇyáyam ← hiraṇyáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ Du grosser, dessen Hände rings mit Macht den Donnerkeil umfahn, Den goldnen, de
 
 -ru-
 </details>
+

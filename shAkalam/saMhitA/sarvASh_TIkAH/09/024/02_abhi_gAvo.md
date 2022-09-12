@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+adhanviṣuḥ ← √dhanv- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pravátā ← pravát- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yatī́ḥ ← √i- 1 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+āśata ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+punānā́ḥ ← √pū- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -102,7 +133,7 @@ Positing “metrical” motivation for RVic anomalies is rarely successful, beca
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/024/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/024/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The first 3 vss. are united by the use of the (secondary) root √dhanv ‘run’, with the 3rd pl. -iṣ-aor. adhanviṣuḥ (found only here in the RV) in vss. 1 and 2, with the complementary subjects soma drops (1) and cows (2)(or so I think: see below), and the 2nd sg. pres. dhanvasi in 3.
@@ -133,3 +164,4 @@ Milchtränke sind herangeströmt, wie Wasser auf geneigter Bahn, Geläutert zu d
 Словно воды, движущиеся по склону.  
 Очищаясь, он достигли Индры.
 </details>
+

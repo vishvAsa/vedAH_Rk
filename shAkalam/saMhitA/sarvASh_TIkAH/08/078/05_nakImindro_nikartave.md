@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nákīm ← nákīm (invariable)  
+{}
+
+níkartave ← √kr̥- (root)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+páriśaktave ← √śak- (root)  
+{case:DAT, number:SG}
+
+śakráḥ ← śakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+páśyati ← √paś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śr̥ṇoti ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,3 +137,4 @@ Indra ist zu besiegen nicht, der starke zu bezwingen nie; Er hört und sieht das
 
 -ru-
 </details>
+

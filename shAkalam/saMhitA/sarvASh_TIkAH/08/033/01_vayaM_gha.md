@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gha ← gha (invariable)  
+{}
+
+sutā́vantaḥ ← sutā́vant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vr̥ktábarhiṣaḥ ← vr̥ktábarhis- (nominal stem)  
+{case:NOM, number:PL}
+
+pavítrasya ← pavítra- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+prasrávaṇeṣu ← prasrávaṇa- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+āsate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+stotā́raḥ ← stotár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +180,4 @@ Wir Sänger sitzen um dich her, dir Soma bringend Strömen gleich, Nachdem die S
 У источников цедилки, о убийца Вритры,  
 Сидят вокруг восхвалители.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aruhat ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+nā́kam ← nā́ka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pratnáthā ← pratnáthā (invariable)  
+{}
+
+vaiśvānaráḥ ← vaiśvānará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhándamānaḥ ← √bhand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pr̥ṣṭhám ← pr̥ṣṭhá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sumánmabhiḥ ← sumánman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dhánam ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+janáyan ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jantáve ← jantú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pūrvavát ← pūrvavát (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ájmam ← ájma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jā́gr̥viḥ ← jā́gr̥vi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+samānám ← samāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Der Männerhort bestieg den Gipfel wie auch sonst, des Himmels Rücken, strahlen
 Как прежде, порождая награду для живого существа,  
 Кружит он, бодрствующий, по одному и тому же пути.
 </details>
+

@@ -16,14 +16,51 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+gha ← gha (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+stuhí-stuhi ← √stu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+maghónām ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+máṁhiṣṭhāsaḥ ← máṁhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ninditā́śvaḥ ← ninditā́śva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paramajyā́ḥ ← paramajyā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prapathī́ ← prapathín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghásya ← maghá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+medhyātithe ← médhyātithi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +164,4 @@ Preise, preise recht, o Medhjātithi; diese sind dir ja die freigiebigsten der F
 На щедрый дар: Ниндиташва, Прапатхин,  
 Парамаджья, о Медхьятитхи.
 </details>
+

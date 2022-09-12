@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vájrāt ← vájra- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+anamat ← √nam- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhiyásā ← bhiyás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+manyóḥ ← manyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+svásya ← svá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+abhyóhasānam ← abhyóhasāna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+jaghā́na ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+śayáthe ← śayátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+viśvā́yuḥ ← viśvā́yu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,3 +260,4 @@ Da bog der Himmel selbst vor seinem Blitz sich sogleich herab aus Furcht vor sei
 Когда Индра затаившегося змея  
 Пришиб, чтобы (тот) лежал навеки.
 </details>
+

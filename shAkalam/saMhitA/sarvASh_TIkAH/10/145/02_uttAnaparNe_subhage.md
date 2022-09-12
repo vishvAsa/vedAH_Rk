@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+súbhage ← subhága- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+úttānaparṇe ← uttānaparṇa- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+dévajūte ← devájūta- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sáhasvati ← sáhasvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+dhama ← √dhamⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+sapátnīm ← sapátnī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kévalam ← kévala- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kuru ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +181,4 @@ Breitblättrige, glückselige, du gottgesandte, kräftige, Die Mitfrau blase mir
 Сдуй ты прочь мою соперницу,  
 Сделай мужа только моим!
 </details>
+

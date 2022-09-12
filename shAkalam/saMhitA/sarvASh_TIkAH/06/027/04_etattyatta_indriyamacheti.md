@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aceti ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+indriyám ← indriyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ávadhīḥ ← √vadhⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+śéṣaḥ ← śéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+varáśikhasya ← varáśikha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+níhatasya ← √han- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+śúṣmāt ← śúṣma- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vájrasya ← vájra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dadā́ra ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+paramáḥ ← paramá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svanā́t ← svaná- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Jetzt sah man diese deine Indrastärke, mit der du schlugst des Varaçikha Anhan
 Когда от напора опущенной тобой ваджры,  
 От одного звона (ее), о Индра, разлетелись самые отдаленные (ряды врагов).
 </details>
+

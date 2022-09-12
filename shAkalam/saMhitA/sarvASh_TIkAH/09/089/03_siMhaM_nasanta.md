@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayā́sam ← ayā́s- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+nasanta ← √nas- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+siṁhám ← siṁhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aruṣám ← aruṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+hárim ← hári- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥chate ← √praś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yutsú ← yúdh- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ásya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cákṣasā ← cákṣas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+pāti ← √pā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ukṣā́ ← ukṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Dem raschen Löwen nahten süsse Tränke, dem rothen Hengst, dem Herrscher diese
 Первый герой в битвах, он спрашивает о коровах.  
 Бык охраняет (их) своим взглядом.
 </details>
+

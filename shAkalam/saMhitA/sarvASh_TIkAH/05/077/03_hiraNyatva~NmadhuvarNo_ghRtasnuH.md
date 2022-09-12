@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ghr̥tásnuḥ ← ghr̥tásnu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+híraṇyatvak ← híraṇyatvac- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádhuvarṇaḥ ← mádhuvarṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+pŕ̥kṣaḥ ← pŕ̥kṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váhan ← √vah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vartate ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mánojavāḥ ← mánojavas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́taraṁhāḥ ← vā́taraṁhas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+atiyātháḥ ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+duritā́ni ← duritá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +216,4 @@ Her rollet euer goldbedeckter Wagen, der honigfarbne, Speisen fahrend, fettreich
 Быстрая, как мысль, о Ашвины, мчащаяся, как ветер,  
 (Колесница,) на которой вы переезжаете через все опасности.
 </details>
+

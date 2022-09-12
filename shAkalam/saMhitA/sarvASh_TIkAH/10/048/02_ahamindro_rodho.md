@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+átharvaṇaḥ ← átharvan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ródhaḥ ← ródhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vákṣaḥ ← vákṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+áheḥ ← áhi- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ajanayam ← √janⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tritā́ya ← tritá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+dade ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+dásyubhyaḥ ← dásyu- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+nr̥mṇám ← nr̥mṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+dadhīcé ← dadhyáñc- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gotrā́ ← gotrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mātaríśvane ← mātaríśvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śíkṣan ← √śak- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Ich Indra bin des Feuerpriesters Schutz und Wehr, dem Trita schafft' ich Kühe v
 Я забрал мужскую силу у дасью,  
 Желая подарить (их) стада Дадхьянчу, Матаришвану.
 </details>
+

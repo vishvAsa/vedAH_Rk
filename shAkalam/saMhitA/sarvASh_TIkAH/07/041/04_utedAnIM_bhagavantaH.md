@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhágavantaḥ ← bhágavant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+idā́nīm ← idā́nīm (invariable)  
+{}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+prapitvé ← prapitvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+úditā ← úditi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sumataú ← sumatí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +199,7 @@ and at the rising of the sun, o bounteous one, might we be in the good  grace of
 On the structural relationship of the various utá-s here, see Klein DGRV I.355-56.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md">
 <details open><summary><h2>03-05 ...{Loading}...</h2></summary>
 
 The concatenation continues in the next vss. The ending of vs. 3, … nṛvántaḥ syāma, echoes in the following two vss. The 1st pl. opt. syāma is repeated at the end of 4a and d and 5b, while the -vant-stem adj. shifts from nṛvántaḥ (3d) to another punning bhágavantaḥ (both ‘possessing a portion’ and ‘accompanied by Bhaga’) in bhágavantaḥ syāma (4a, 5b; cf. bhágavān 5a). And bhágavān in 5a matches maghavan in the same metrical position in 4c.
@@ -179,3 +231,4 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 А также на восходе солнца, о щедрый!  
 Пусть будем мы в милости у богов!
 </details>
+

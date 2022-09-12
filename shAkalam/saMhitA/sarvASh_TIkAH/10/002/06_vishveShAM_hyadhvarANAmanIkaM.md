@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvarā́ṇām ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+víśveṣām ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+citrám ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jajā́na ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+jánitā ← jánitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+kṣā́ḥ ← kṣám- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+nr̥vátīḥ ← nr̥vánt- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yajasva ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kṣumátīḥ ← kṣumánt- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+spārhā́ḥ ← spārhá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+viśvájanyāḥ ← viśvájanya- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Denn als das Antlitz aller Opferfeste und lichte Fahne zeugte dich der Zeuger, S
 Приноси с помощью жертв одно за другим поселения, богатые мужами,  
 Желанные жертвенные услады, сопровождаемые скотом, принадлежащие всем людям!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+pakṣā́ ← pakṣá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sākaṁyújā ← sākaṁyúj- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śakunásya ← śakuná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+citrā́ ← citrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+gamiṣṭam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+paśvā́ ← paśú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yájuḥ ← yájus- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devayóḥ ← devayú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dīdivā́ṁsā ← √dī- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+párijmānā ← párijman- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+yajathaḥ ← √yaj- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Ihr beide, zusammen verbunden wie zwei Fittige des Vogels, wie zwei glänzende H
 Сверкая, как огонь того, кто предан богам,  
 Приносите жертвы во многих местах, как странствующие кругом!
 </details>
+

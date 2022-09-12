@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+cákṣuṣaḥ ← cákṣus- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dhī́raḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajanat ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ene ← ena- (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nánnamāne ← √nam- 1 (root)  
+{case:ACC, gender:F, number:DU, tense:PRS, voice:MED}
+
+ádadr̥hanta ← √dr̥h- (root)  
+{number:PL, person:3, mood:IND, tense:PLUPRF, voice:MED}
+
+ántāḥ ← ánta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+aprathetām ← √prathⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ā́t ← ā́t (invariable)  
+{}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ít ← ít (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Der Lichtwelt Schöpfer, er von weisem Geiste, erschuf die Welten, die in Flut v
 Как только укрепились древние границы.  
 Небо и земля тут же распространилась.
 </details>
+

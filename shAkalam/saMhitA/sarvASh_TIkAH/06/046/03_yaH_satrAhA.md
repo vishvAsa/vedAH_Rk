@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+satrāhā́ ← satrāhán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vícarṣaṇiḥ ← vícarṣaṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hūmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+sáhasramuṣka ← sahásramuṣka- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sátpate ← sátpati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+túvinr̥mṇa ← tuvinr̥mṇá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+samátsu ← samád- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vr̥dhé ← vŕ̥dh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +197,4 @@ Der allerbeutend, regsam ist, den Indra rufen wir herbei, Der tausendfache Kraft
 О ты с тысячей мошонок, с мощной мужской силой, о истинный господин,  
 Будь нам для усиления в боях!
 </details>
+

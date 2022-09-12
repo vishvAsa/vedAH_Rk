@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line  
 popular;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+varte ← √vr̥t- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+yajñíyām ← yajñíya- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dévāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+devī́m ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+yajatā́m ← yajatá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yajñíyām ← yajñíya- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+duhīyat ← √duh- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+gatvī́ ← √gam- (root)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+yávasā ← yávasa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+gaúḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sahásradhārā ← sahásradhāra- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +240,4 @@ Euren heiligen Sinn wende ich zur Hülfe herbei, o Götter, den göttlichen, ehr
 Пусть она доится для нас, словно великая корова  
 Тысячеструйная (своим) молоком, когда она отправилась на пастбище!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyukṣám ← dyukṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+parvatāvŕ̥dham ← parvatāvŕ̥dh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+harmyásya ← harmyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sakṣáṇim ← sakṣáṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+siñcanti ← √sic- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+suhutā́daḥ ← suhutā́d- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ū́dhani ← ū́dhar- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+agriyám ← agriyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mūrdhán ← mūrdhán- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śrīṇánti ← √śrī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+várīmabhiḥ ← várīman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Sie giessen rings den himmlischen, der Berge liebt, den Freund der Kraft, der S�
 (Того,) на чьей голове коровы, поедающие прекрасные возлияния,  
 В (своем) вымени готовят лучшее (молоко) широкими потоками.
 </details>
+

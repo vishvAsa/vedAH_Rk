@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ábharanta ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+hí ← hí (invariable)  
+{}
+
+prajā́yāḥ ← prajā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómajāmayaḥ ← sómajāmi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átharvā ← átharvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhārayat ← √dhr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bhŕ̥gavaḥ ← bhŕ̥gu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cikitrire ← √cit- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+dákṣaiḥ ← dákṣa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Und diese trugen aller Wesen Preis davon, Brihaspati, der Stier, die Soma-Brüde
 
 -ru-
 </details>
+

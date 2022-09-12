@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhā́masu ← dhā́man- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+divyéṣu ← divyá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kaláśe ← kaláśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sr̥jānáḥ ← √sr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jaṭháre ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+kánikradat ← √krand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sī́dan ← √sad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+arohayaḥ ← √ruh- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yatáḥ ← √yam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +201,7 @@ Although the Pp. analyzes ā́rohayaḥ as containing an augment (ā́/ arohaya�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 The tṛca seems to be characterized by augmented imperfects, though three of the five could be injunctives instead: ā́rohayaḥ [maybe] 22d, abhavaḥ 23c, avṛṇoḥ [maybe] 23d, amadan 24b, ā́bharat [maybe] 24c. It is also characterized by mythic allusions, esp. the Vala myth and the opening of the cowpen for the Aṅgirases (23d) and the stealing of soma from heaven (24c), as well as the cosmogonic act of raising the sun into heaven (22d). Both this latter deed and the opening of the Vala cave are deeds usually attributed to Indra.
@@ -178,3 +236,4 @@ O riesle, Soma, in den Himmelsstätten hell, entsandt, o Indu, in die Seihe zu d
 
 -ru-
 </details>
+

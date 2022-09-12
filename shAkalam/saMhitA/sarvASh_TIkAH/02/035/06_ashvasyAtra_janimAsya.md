@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvasya ← áśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+jánima ← jániman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+druháḥ ← drúh- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+riṣáḥ ← ríṣ- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+sampŕ̥caḥ ← √pr̥c- (root)  
+{case:ABL, number:SG}
+
+sūrī́n ← sūrí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+āmā́su ← āmá- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+apramr̥ṣyám ← apramr̥ṣyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+parás ← parás (invariable)  
+{}
+
+pūrṣú ← púr- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ánr̥tāni ← ánr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+árātayaḥ ← árāti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+naśan ← √naś- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +238,4 @@ Im Himmel ist sein Ursprung und des Rosses, vor bösen Feindes Anlauf schütz di
 В крепостях из сырой (глины) (его) не настигнут  
 Ни недоброжелательность, ни несправедливости, (этого бога,) незабываемого (даже) вдали.
 </details>
+

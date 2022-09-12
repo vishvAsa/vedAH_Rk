@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+gŕ̥tsaḥ ← gŕ̥tsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+táruṇaḥ ← táruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ájaniṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+yátas ← yátas (invariable)  
+{}
+
+yáviṣṭhaḥ ← yáviṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+śúcidan ← śúcidant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vánā ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yuváte ← √yu- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ánnā ← ánna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+atti ← √ad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+sadyás ← sadyás (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +239,4 @@ Der weise Agni sei das Kind der Mutter, aus deren Schooss als jüngster er entst
 (Тот,) с блестящим клыком, кто охватывает деревья.  
 Даже много пищи он пожирает сразу же.
 </details>
+

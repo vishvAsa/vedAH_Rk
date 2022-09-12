@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádabdhān ← ádabdha- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+riśā́dasaḥ ← riśā́das- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sátpatīn ← sátpati- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dātr̥̄́n ← dātár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+maháḥ ← máh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rā́jñaḥ ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvasanásya ← suvasaná- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kṣáyataḥ ← √kṣā- 2 (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sukṣatrā́n ← sukṣatrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yū́naḥ ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ādityā́n ← ādityá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+duvoyú ← duvoyú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yāmi ← √yā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +214,4 @@ Die unbethörten Herrscher, Feindvertilger, die grossen Fürsten, Geber schöner
 Юных добрых властителей, мужей, живущих на небе,  
 Адитьев я молю (и) Адити, полный почтения.
 </details>
+

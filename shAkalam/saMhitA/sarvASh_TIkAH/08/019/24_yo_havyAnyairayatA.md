@@ -16,14 +16,54 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+aírayata ← √īr- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+havyā́ni ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mánurhitaḥ ← mánurhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āsā́ ← ā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sugandhínā ← sugandhí(n)- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+svadhvaráḥ ← svadhvará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́ryāṇi ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vívāsate ← √vanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +181,4 @@ Er, der von Manu eingesetzt die Opfer bringt, mit seinem Mund voll süssen Dufts
 Прекрасно исполняющий обряд, он стремится получить избранные блага,  
 Хотар, бессмертный бог.
 </details>
+

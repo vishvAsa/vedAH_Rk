@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmin ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+didyúm ← didyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índrā ← índra- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+varuṇā ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ní ← ní (invariable)  
+{}
+
+ójiṣṭham ← ójiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ugrā ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vadhiṣṭam ← √vadhⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dabhī́tiḥ ← dabhī́ti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+durévaḥ ← duréva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vr̥kátiḥ ← vr̥káti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhíbhūti ← abhíbhūti- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mimāthām ← √mā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:MED}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Auf den, o Indra Varuna, entsendet den stärksten Blitz, den Donnerkeil, o stark
 Кто для нас злодейский грабитель, обманщик!  
 На нем измерьте (сбою) превосходящую силу!
 </details>
+

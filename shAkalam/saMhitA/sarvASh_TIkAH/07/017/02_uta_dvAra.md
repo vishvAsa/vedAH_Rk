@@ -14,12 +14,46 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+dvā́raḥ ← dvā́r- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śrayantām ← √śri- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+uśatī́ḥ ← √vaś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+uśatáḥ ← √vaś- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +148,4 @@ Und willig mögen sich die Thore öffnen, und fahre uns die Götter willig herw�
 И согласные врата пусть растворятся,  
 И богов согласных привези сюда!
 </details>
+

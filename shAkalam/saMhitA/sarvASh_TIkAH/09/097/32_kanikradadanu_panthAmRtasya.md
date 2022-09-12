@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+kánikradat ← √krand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+bhāsi ← √bhā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śukráḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+matsarávān ← matsarávant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavase ← √pū- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hinvānáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+kavīnā́m ← kaví- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +199,7 @@ The initial sá in both our pāda and the one on which it is based does not foll
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md">
 <details open><summary><h2>31-33 ...{Loading}...</h2></summary>
 
 The first vs. of the tṛca contains a form of √sṛj, thus concatenating with the previous tṛca. Both the first (31) and last (33) vss. contain a reference to the sun, and I see one in the middle vs. as well; see comm. ad 32.
@@ -179,3 +231,4 @@ Hinwiehernd durch des Opfers Pfad durchstrahlst du in hellem Licht des Göttertr
 Полный опьянения, ты очищаешься для Индры,  
 Посылая (свою) речь благодаря поэтическим мыслям поэтов.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śāsáḥ ← śāsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádbhutaḥ ← ádbhuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amitrakhādáḥ ← amitrakhādá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hanyáte ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+ná ← ná (invariable)  
+{}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+jī́yate ← √jyā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+kádā ← kádā (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +182,4 @@ Ein grosser Herrscher bist du traun, ein Feindvernichter wunderbar, Du, dessen F
 Чьего друга не убивают.  
 И никогда не побеждают.
 </details>
+

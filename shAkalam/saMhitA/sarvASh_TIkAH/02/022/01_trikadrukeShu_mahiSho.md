@@ -20,10 +20,10 @@ ChandaH = "अष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -32,6 +32,91 @@ genre M
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+mahiṣáḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tríkadrukeṣu ← tríkadruka- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yávāśiram ← yávāśir- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tuviśúṣmaḥ ← tuviśúṣma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apibat ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutám ← √su- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+tr̥pát ← tr̥pát (invariable)  
+{}
+
+víṣṇunā ← víṣṇu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ávaśat ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+kárma ← kárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+kártave ← √kr̥- (root)  
+{case:DAT, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mamāda ← √mad- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mahā́m ← máh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+urúm ← urú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+saścat ← √sac- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+satyám ← satyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,3 +319,4 @@ Aus den Drei-Eimern trank der Büffel, reich an Kraft, den Somasaft, den gerstge
 Он сопровождал его, бог – бога,  
 Истинного Индру – истинный сок.
 </details>
+

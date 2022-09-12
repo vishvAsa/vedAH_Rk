@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dadhimá ← √dhā- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śáṁsam ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śiśrā́ya ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ārā́t ← ārā́t (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhayatām ← √bhī- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+cit ← cit (invariable)  
+{}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śátruḥ ← śátru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+dyumnā́ ← dyumná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jányā ← jánya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+namantām ← √nam- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +229,4 @@ Vor Indra, dem wir dieses Preislied weihten, dem starken, der mit Liebe uns umfa
 Пусть враг его боится, даже находясь (от него) далеко!  
 Да склонится перед ним великолепие других людей!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+mehánā ← mehánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+párvatāsaḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rudrā́ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+bhárahūtau ← bhárahūti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sajóṣāḥ ← sajóṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vr̥trahátye ← vr̥trahátya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhā́yi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+pajráḥ ← pajrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śáṁsate ← √śaṁs- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+stuvaté ← √stu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+avantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índrajyeṣṭhāḥ ← índrajyeṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +219,4 @@ Mit uns mögen in reicher Menge vereint sein die Rudra's und die Berge in der Fe
 Да помогут нам боги с Индрой во главе.  
 Который оказался надежным для прославителя (и) восхвалителя!
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+adanti ← √ad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ādhyàḥ ← ādhī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+mū́ṣaḥ ← mū́ṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śiśnā́ ← śiśná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+śatakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stotā́ram ← stotár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mr̥ḷaya ← √mr̥ḍ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sakŕ̥t ← sakŕ̥t (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +231,4 @@ Wie Mäuse ihre Schwänze, nagen Sorgen mich, mich, deinen Sänger, kräftiger! 
 Помилуй же еще раз нас, о щедрый Индра!  
 И будь ты нам как отец!
 </details>
+

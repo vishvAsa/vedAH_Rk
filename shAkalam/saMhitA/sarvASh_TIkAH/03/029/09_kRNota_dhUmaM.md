@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+dhūmám ← dhūmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇóta ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sakhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+ásredhantaḥ ← ásredhant- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+itana ← √i- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pr̥tanāṣā́ṭ ← pr̥tanāṣáh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvī́raḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásahanta ← √sah- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +217,4 @@ Lasst Rauch entstehn, o Freunde, geht den Stier um Lab- sal an, nimmer falsch ve
 Вот Агни, победитель в боях, очень мужественный,  
 С чьей помощью боги одолели дасью.
 </details>
+

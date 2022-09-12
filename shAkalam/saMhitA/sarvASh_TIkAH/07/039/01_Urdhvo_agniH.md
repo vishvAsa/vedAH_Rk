@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśret ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+devátātim ← devátāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jūrṇíḥ ← jūrṇí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pratīcī́ ← pratyáñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ádrī ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+bhejā́te ← √bhaj- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rathyā̀ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iṣitáḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajāti ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Entflammt liess Agni seine Güte schauen, entgegen geht sein Glanz den Göttersc
 Два давильных камня отправились в путь, как двое колесничих.  
 Пусть хотар, призванный (для этого), по закону принесет жертву для нас!
 </details>
+

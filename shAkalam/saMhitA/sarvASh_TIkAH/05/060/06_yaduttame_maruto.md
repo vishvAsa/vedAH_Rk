@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+madhyamé ← madhyamá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+uttamé ← uttamá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+avamé ← avamá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sthá ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+subhagāsaḥ ← subhága- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+átas ← átas (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+rudrāḥ ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+havíṣaḥ ← havís- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+vittā́t ← √vid- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+yájāma ← √yaj- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +255,4 @@ Wenn ihr, o reiche Maruts, seid im höchsten, im mittlern oder auch im tiefsten 
 Оттуда, о Рудры, или же (ты), о Агни,  
 Узнайте о том жертвенном возлиянии, что мы приносим!
 </details>
+

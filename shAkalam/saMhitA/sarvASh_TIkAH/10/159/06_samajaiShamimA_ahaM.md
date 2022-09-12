@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ajaiṣam ← √ji- 1 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+imā́ḥ ← ayám (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+abhibhū́varī ← abhibhū́van- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sapátnīḥ ← sapátnī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+vīrásya ← vīrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+jánasya ← jána- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+virā́jāni ← √rāj- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +170,4 @@ Ich habe alle sie besiegt, die Nebenfrauen übermannt, Damit ich über diesen Ma
 Чтобы стала править я  
 Этим мужем и родом (его)!
 </details>
+

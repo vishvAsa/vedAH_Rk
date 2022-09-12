@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+siṣāsátū ← siṣāsátu- (nominal stem)  
+{case:NOM, gender:M, number:DU, mood:DES}
+
+árvatām ← árvant- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bháreṣu ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+jigyúṣām ← √ji- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +151,4 @@ Ein Preisverleiher bist du ja, wie für die Renner auf der Bahn, So für die Sie
 
 -ru-
 </details>
+

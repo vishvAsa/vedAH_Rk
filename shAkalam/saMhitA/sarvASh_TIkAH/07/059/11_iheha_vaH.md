@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ihéha ← ihá (invariable)  
+{}
+
+svatavasaḥ ← svátavas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+kávayaḥ ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sū́ryatvacaḥ ← sū́ryatvac- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vr̥ṇe ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +138,7 @@ Pāda c appears to mean “I choose the/your sacrifice” (yajñám … ā́vṛ
 
 [VII.60-74 JPB]
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
 <details open><summary><h2>09-12 ...{Loading}...</h2></summary>
 
 For the Sākamedha rites reflected in these vss., see published introduction. and, e.g., ŚB II.5.3, esp. 3ff.; ĀpŚS VIII.9; sec. lit. including Hillebrandt, Ritual-Litteratur, 117-19; Keith, Religion and Philosophy, 322-23, etc.
@@ -141,3 +169,4 @@ Hier, hier, o selbstgewaltige, o Seher, sonnenglänzende, Besorg ich Opfer, Maru
 О солнечнокожие поэты –  
 Я выбираю вашу жертву, о Маруты!
 </details>
+

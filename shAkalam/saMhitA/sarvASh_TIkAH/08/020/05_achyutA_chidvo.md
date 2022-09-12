@@ -15,13 +15,47 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ácyutā ← ácyuta- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ájman ← ájman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+nā́nadati ← √nad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+párvatāsaḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vánaspátiḥ ← vánaspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́miḥ ← bhū́mi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rejate ← √rej- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yā́meṣu ← yā́ma- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Das Unbewegte auch erdröhnt, die Berge und das Waldrevier bei eurer Fahrt, Die 
 Громко гудят горы, (большое) лесное дерево.  
 Земля дрожит от (ваших) походов.
 </details>
+

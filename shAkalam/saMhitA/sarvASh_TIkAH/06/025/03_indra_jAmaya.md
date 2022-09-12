@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ájāmayaḥ ← ájāmi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jāmáyaḥ ← jāmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+arvācīnā́saḥ ← arvācīná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vanúṣaḥ ← vanús- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yuyujré ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+śávāṁsi ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vithurā́ ← vithurá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jahí ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kr̥ṇuhí ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+párācaḥ ← párāñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣṇyāni ← vŕ̥ṣṇya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Den Kämpfern, die, verwandte oder fremde, hierhergewandt, o Indra, sich verband
 Ты их силы (сделай) шаткими,  
 Разбей (их) мужество, обрати (их) в бегство!
 </details>
+

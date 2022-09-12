@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ajaniṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dédiṣṭe ← √diś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indriyā́ṇi ← indriyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+acodayat ← √cud- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+sudúghāḥ ← sudúgha- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vavré ← vavrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+avar ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+saṁvavr̥tvát ← √vr̥t- (root)  
+{case:ACC, gender:N, number:SG, tense:PRF, voice:ACT}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +200,7 @@ He impelled forth the good milkers (who were) within the cave; he pried  apart t
 Geldner and Witzel Gotō take sáhaḥ as the only subj. of ájaniṣṭa, while I take sáhaḥ as an appositive qualifying the unexpressed subj. índraḥ. Again the difference is minor, but I favor my interpr. because the birth of Indra and the prodigous feats he performs immediately thereafter are frequent topics in the RV.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 An etymological sequence -- táviṣīm (2d), táviṣībhiḥ (3b), távyān (3d) -- that also builds to a climax, from singular ‘(a) power’ to plural ‘powers’ to the comparative ‘more powerful’, all associated with Indra.
@@ -176,3 +237,4 @@ Als seine Kraft sich aus der Kraft erzeugte, liess Indra sehen alle Indrathaten,
 Он гонит вперед хорошо доящихся коров в глубине пещеры.  
 Светом он раскрыл сгустившийся мрак.
 </details>
+

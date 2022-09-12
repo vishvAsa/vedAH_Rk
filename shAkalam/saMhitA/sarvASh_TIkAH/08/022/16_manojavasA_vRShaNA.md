@@ -16,14 +16,51 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+madacyutā ← madacyút- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mánojavasā ← mánojavas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+makṣuṁgamā́bhiḥ ← makṣuṁgamá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ārā́ttāt ← ārā́ttāt (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+bhūtam ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+purubhojasā ← purubhójas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pūrvī́bhiḥ ← purú- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +177,4 @@ Gedankenschnelle Helden, lusterregende, erscheint mit schnellen Hülfen uns, Aus
 Прибудьте к нам на помощь даже издалека  
 Со многими мгновенными (поддержками), о многополезные!
 </details>
+

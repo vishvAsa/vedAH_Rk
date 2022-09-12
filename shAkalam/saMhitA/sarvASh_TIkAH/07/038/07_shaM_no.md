@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+háveṣu ← háva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devátātā ← devátāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+mitádravaḥ ← mitádru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svarkā́ḥ ← svarká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jambháyantaḥ ← √jambh- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+rákṣāṁsi ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vŕ̥kam ← vŕ̥ka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ámīvāḥ ← ámīvā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+sánemi ← sánemi- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yuyavan ← √yu- 2 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +186,7 @@ The cmpd. sanemí- lit. means ‘along with its/the felly’ (see, e.g., AiG III
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/038/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/038/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These last two vss. concern the vājínaḥ ‘prize-winners’. As indicated in the published introduction, although most (in addition to the usual tr., see Oberlies RdV II.240) take these to be horses, as so often, I instead take the referent of vājín- to be the Maruts. In an All God hymn the default expectation is that gods are the dedicands.
@@ -171,3 +220,4 @@ Zum Heile seien uns die Rosse bei unsern Anrufungen, die schnell laufen und sch�
 Хватая змею, волка, ракшасов,  
 Пусть избавят нас совсем от болезней!
 </details>
+

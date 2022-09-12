@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avindat ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+uṣā́m ← uṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+arkéṇa ← arká- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+babādhe ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+támāṁsi ← támas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+góvapuṣaḥ ← góvapus- (nominal stem)  
+{case:ACC, number:PL}
+
+valásya ← valá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jabhāra ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+majjā́nam ← majján- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nís ← nís (invariable)  
+{}
+
+párvaṇaḥ ← párvan- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Er fand den Morgen, Himmelsglanz und Feuer, er jagte fort durch Licht die Finste
 Брихаспати извлек (коров) Валы, чья красота (была) в коровах,  
 Как (извлекают) костный мозг из сустава.
 </details>
+

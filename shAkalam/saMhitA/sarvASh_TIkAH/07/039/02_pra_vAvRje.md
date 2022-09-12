@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+suprayā́ḥ ← suprayā́- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vāvr̥je ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bī́riṭe ← bī́riṭa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+iyāte ← √yā- 2 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+viśpátī ← viśpáti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+aktóḥ ← aktú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pūrváhūtau ← pūrváhūti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+niyútvān ← niyútvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vāyúḥ ← vāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +236,4 @@ Der Götter Streu hat schön geschmückt der Ordner, wie Mann und Frau so nahen 
 Спешат на утренний призыв на заре в (конце) ночи  
 Ваю (и) Пушан с упряжкой (Ваю) на счастье.
 </details>
+

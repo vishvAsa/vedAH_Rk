@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+naya ← √nī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pūṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+vidúṣā ← √vid- 2 (root)  
+{case:INS, gender:M, number:SG, tense:PRF, voice:ACT}
+
+áñjasā ← áñjasā (invariable)  
+{}
+
+anuśā́sati ← √śās- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+brávat ← √brū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+evá ← evá (invariable)  
+{}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+íti ← íti (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ O Puschan, führe du uns zu den kund'gen Mann, der grade aus Uns weiset und »hi
 Который верно указал бы,  
 Который сказал бы: Вот здесь!
 </details>
+

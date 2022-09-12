@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+ájījanan ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mártyāsaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asremā́ṇam ← asremán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+taráṇim ← taráṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīḷújambham ← vīḷújambha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agrúvaḥ ← agrū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+samīcī́ḥ ← samyáñc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+svásāraḥ ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+púmāṁsam ← púmaṁs- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rabhante ← √rabh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +200,4 @@ Die Sterblichen erzeugten den Unsterblichen, der. nimmer fehlgeht, der vorwärts
 Десять девиц-сестер вместе  
 Охватывают новорожденного мужа.
 </details>
+

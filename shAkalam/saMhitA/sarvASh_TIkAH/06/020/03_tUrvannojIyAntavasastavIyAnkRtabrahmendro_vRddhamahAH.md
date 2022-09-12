@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ójīyān ← ójīyas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tavásaḥ ← tavás- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+távīyān ← távīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tū́rvan ← √tūr(v)- ~ tur- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥tábrahmā ← kr̥tábrahman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ddhámahāḥ ← vr̥ddhámahas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mádhunaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+somyásya ← somyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ā́vat ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dartnúm ← dartnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purā́m ← púr- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+víśvāsām ← víśva- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +218,4 @@ Vordringend, stärker, mächtiger, als Macht ist, voll ausgewachsen Indra durch 
 Стал царем меда из сомы,  
 Который пришел на помощь проломителю всех крепостей.
 </details>
+

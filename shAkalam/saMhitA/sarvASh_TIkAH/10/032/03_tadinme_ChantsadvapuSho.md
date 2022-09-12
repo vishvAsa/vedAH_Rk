@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+chantsat ← √chand- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vápuṣaḥ ← vápus- (nominal stem)  
+{case:ABL, number:SG}
+
+vápuṣṭaram ← vápuṣṭara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adhī́yati ← adhī́yant- (nominal stem)  
+{case:LOC, number:SG}
+
+jā́nam ← jā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pitróḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jāyā́ ← jāyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sumát ← sumát ~ smat- (invariable)  
+{}
+
+vagnúnā ← vagnú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vahati ← √vah- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhadráḥ ← bhadrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+páriṣkr̥taḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+puṁsáḥ ← púmaṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vahatúḥ ← vahatú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +236,4 @@ Das wahrlich dünkt mich schöner als die Schönheit selbst wenn seiner Aeltern 
 Призывом уводит жена с собою мужа:  
 Готов счастливый свадебный поезд мужчины.
 </details>
+

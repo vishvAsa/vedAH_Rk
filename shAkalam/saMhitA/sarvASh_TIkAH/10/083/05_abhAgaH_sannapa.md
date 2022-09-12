@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhāgáḥ ← abhāgá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+asmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+páretaḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pracetaḥ ← prácetas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+taviṣásya ← taviṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+akratúḥ ← akratú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jihīḷa ← √hīḍ- ~ √hīḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+manyo ← manyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+baladéyāya ← baladéya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+svā́ ← svá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+tanū́ḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +240,4 @@ Hinweggegangen bin ich ohne Antheil nach deiner Weisheit, starker du und weiser;
 
 -ru-
 </details>
+

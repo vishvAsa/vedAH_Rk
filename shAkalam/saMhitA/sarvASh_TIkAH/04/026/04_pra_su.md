@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+víbhyaḥ ← ví- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+víḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āśupátvā ← āśupátvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śyenébhyaḥ ← śyená- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+acakráyā ← acakrá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+suparṇáḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhárat ← √bhr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+devájuṣṭam ← devájuṣṭa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +218,7 @@ because the fine-feathered one, with his independent power that needed  no (char
 The first hemistich sounds like a formal eulogistic opening, though I don’t know of any parallels elsewhere (quite possibly for want of looking).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/026/04-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/026/04-07.md">
 <details open><summary><h2>04-07 ...{Loading}...</h2></summary>
 
 The 3rd sg. act. impf./injunc. of √bhṛ is the “hero” of this, the mythological portion, of the hymn: bhárat (4d, 5a), bharat (6c), abharat (7a).
@@ -192,3 +250,4 @@ Voran sei dieser Vogel andern Vögeln, der schnelle Aar den Aaren, o ihr Maruts,
 Когда по собственному порыву без колес прекраснокрылый  
 Понес жертву для Ману, услаждающую богов.
 </details>
+

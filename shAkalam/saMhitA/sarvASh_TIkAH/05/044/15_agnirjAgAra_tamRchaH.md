@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D;; 12 = 5+7, ending LHX  
 genre D;; 12 = 5+7, ending LHX  
 genre D;; 12 = 5+7, ending LHX  
 genre D;; repeated line
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jāgāra ← √gr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kāmayante ← √kam- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ŕ̥caḥ ← ŕ̥c- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jāgāra ← √gr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sā́māni ← sā́man- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āha ← √ah- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+jāgāra ← √gr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+asmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+nyòkāḥ ← nyòkas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

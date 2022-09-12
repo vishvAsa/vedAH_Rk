@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápāḥ ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pū́rveṣām ← pū́rva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sutā́nām ← √su- (root)  
+{case:GEN, gender:M, number:PL, non-finite:PPP}
+
+átha ← átha (invariable)  
+{}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kévalam ← kévala- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sávanam ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mádhumantam ← mádhumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mamaddhí ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jaṭháre ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+vr̥ṣan ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥ṣasva ← √vr̥ṣ- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +213,4 @@ Du trankst die frühern Säfte, Herr der goldnen, so sei auch dieser Trunk nun g
 Опьяняйся Сомой, содержащим сладость, о Индра!  
 Сразу, о бык, плесни (его) себе в живот!
 </details>
+

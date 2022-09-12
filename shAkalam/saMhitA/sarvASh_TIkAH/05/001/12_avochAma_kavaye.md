@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávocāma ← √vac- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+kaváye ← kaví- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+médhyāya ← médhya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vandā́ru ← vandā́ru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vr̥ṣabhā́ya ← vr̥ṣabhá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agnaú ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+gáviṣṭhiraḥ ← gáviṣṭhira- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśret ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+rukmám ← rukmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uruvyáñcam ← uruvyáñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Dem weisen Sänger haben wir die Worte, die preisenden dem starken Stier gesproc
 Гавиштхира с поклоном прикрепил к Агни  
 Восхваление, как к небу – далеко простирающееся золотое украшение.
 </details>
+

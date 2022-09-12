@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámr̥dhraḥ ← ámr̥dhra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥tanāṣā́ṭ ← pr̥tanāṣáh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śūśuvā́ṁsam ← √śū- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+sātaú ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+tánayasya ← tánaya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tokásya ← toká- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+jigīvā́ṁsaḥ ← √ji- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+maṁsīmáhi ← √man- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+tvótāḥ ← tvóta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +193,7 @@ progeny and posterity, aided by you.
 On the long root vowel in jigīvā́ṃsaḥ, see Oldenberg ZDMG 55.324, where on the basis of the metrical evidence he surmises that, at least in this post-caesura position, the form should be read with short root vowel (*jigi-vaṃs-), the form found in the younger Vedic texts. See also Arnold (Ved. Met. 143), who considers the short-i form required in 3 of the 5 occurrences of the strong stem, and Kümmel (189 n. 225), who considers it proper except in III.15.4. Kümmel cites Anttila (1969, Schwebeabl. 61) as explaining the lengthening in the Saṃhitā text as analogy to ninīvā́ṃs-. However, it is much more likely that it is a morphologically conditioned lengthening, meant to distinguish the -i-vowel proper to the root from the -i-liaison vowel that has become associated with suffixes/endings. Thus jigī-vā́ṃs- with long vowel is kept separate from the type tasth-ivā́ṃs-, as I already argued in my 1988 article on the vocalized laryngeal (224-25), though without factoring in the metrical evidence pointing to this lengthening as late and redactional. (Of course, in tasthivā́ṃs- the -i- would originally have represented the zero-grade of this -ā root, but by synchronic RV it has been reanalyzed as part of the suffix. See disc. in my 1988 art.)
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 I tr. śūśuvā́ṃsam in both vss. as ‘swollen with strength’, although the śávasā found in 2c is absent, as a portmanteau tr. to capture the full sense of the root.
@@ -147,7 +202,7 @@ This participle picks up śáviṣṭham … śávaḥ in vs. 6.
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, all three of these vss. contain the phrase “bring here to us”: in 6a and 7b na ā́bhara straddles the early caesura; in 8a ā́no bhara opens the vs. Since vss. 6-8 are the middle vss. of this hymn, this repeated phrase might identify an omphalos, but if so it is quite a weak one. The vss. are not particular noteworthy for their content, and the enclosing vss. do not provide the usual frame structure.
@@ -179,3 +234,4 @@ Welch Muth dir ist, nicht rastend, Schlacht gewinnend, den bring uns her, o Indr
 Благодаря которому при завоевании потомства (и) продолжения рода  
 Мы надеемся стать победителями, поддержанными тобой.
 </details>
+

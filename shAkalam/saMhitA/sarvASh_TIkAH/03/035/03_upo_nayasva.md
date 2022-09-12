@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nayasva ← √nī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+tapuṣpā́ ← tapuṣpā́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+vŕ̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ava ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+svadhāvaḥ ← svadhā́vant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áśvā ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+grásetām ← √gras- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:MED}
+
+ihá ← ihá (invariable)  
+{}
+
+muca ← √muc- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+śóṇā ← śóṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ví ← ví (invariable)  
+{}
+
+addhi ← √ad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhānā́ḥ ← dhānā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sadŕ̥śīḥ ← sadŕ̥ś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +249,4 @@ Die Hengste führe her, die Warmes trinken, erquicke sie, o Held, du selbstgewal
 Пусть кормятся оба коня! Распряги здесь (их) обоих, красных!  
 День за днем ешь такие же зерна!
 </details>
+

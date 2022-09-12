@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+gha ← gha (invariable)  
+{}
+
+jabhāra ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+jóṣam ← jóṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+āsa ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+tvákṣasā ← tvákṣas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vīryèṇa ← vīryà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ajahāt ← √hā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+árātīḥ ← árāti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+īrmā́- ← īrmā́ (invariable)  
+{}
+
+púraṁdhiḥ ← púraṁdhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+atarat ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+śū́śuvānaḥ ← √śū- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+utá ← utá (invariable)  
+{}
+
+vā́tān ← vā́ta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +240,4 @@ Nicht trug er mich gern fort, ich war ihm an Tatkraft und Mannesstärke überleg
 Тут Пурамдхи оставил Арати,  
 И он обогнал ветры, умножив (свою) силу.
 </details>
+

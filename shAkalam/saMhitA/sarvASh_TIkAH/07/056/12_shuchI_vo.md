@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+havyā́ ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śúcī ← śúci- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śúcīnām ← śúci- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hinomi ← √hi- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+śúcibhyaḥ ← śúci- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+śúcim ← śúci- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+r̥tasā́paḥ ← r̥tasáp- (nominal stem)  
+{case:NOM, number:PL}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pāvakā́ḥ ← pāvaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúcijanmānaḥ ← śúcijanman- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +209,4 @@ Hell sind die Güsse, Maruts, euch den hellen ich rüste helles Opferwerk den he
 С помощью закона (эти) почитатели закона пришли к истине,  
 (Они,) чистого рожденья, чистые, очищающие.
 </details>
+

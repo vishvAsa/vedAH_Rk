@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+dántaḥ ← dánta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥gáḥ ← mr̥gá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suparṇám ← suparṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaste ← √vas- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+patati ← √pat- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prásūtā ← √sū- 1 (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+sáṁnaddhā ← √nah- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+drávanti ← √dru- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+yátra ← yátra (invariable)  
+{}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+íṣavaḥ ← íṣu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tátra ← tátra (invariable)  
+{}
+
+yaṁsan ← √yam- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +240,4 @@ Er kleidet sich als Aar, sein Zahn ein Löwe, gefügt an Sehnen, fortgeschnellt 
 Где мужи сбегаются и разбегаются.  
 Там стрелы пусть даруют нам защиту!
 </details>
+

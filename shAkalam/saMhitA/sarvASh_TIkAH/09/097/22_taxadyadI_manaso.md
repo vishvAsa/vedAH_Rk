@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mánasaḥ ← mánas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tákṣat ← √takṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vā́k ← vā́c- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vénataḥ ← √ven- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yádi ← yádi (invariable)  
+{}
+
+ánīke ← ánīka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhármaṇi ← dhárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+jyéṣṭhasya ← jyéṣṭha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kṣóḥ ← kṣú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́t ← ā́t (invariable)  
+{}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+váram ← vára- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāvaśānā́ḥ ← √vāś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:MED}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+júṣṭam ← júṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kaláśe ← kaláśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +227,7 @@ This would more narrowly define the location than the first locative phrase, whi
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/22-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 Karṇaśrut Vāsiṣṭha, a name that has no source in the text and is not otherwise found in the Anukr. This tṛca depicts Soma as a king on a royal journey, and associates him with the resonant words ṛtá- (23b, 24d) and dhárman- (22b) / dharmán- (23c) and the traditional roles they imply.
@@ -195,3 +259,4 @@ Als ihn voll Liebe schuf das Wort des Geistes, wie in des Höchsten Reich, im Si
 Пришли к нему тогда по (своему) желанию, громко мыча,  
 Коровы – к любимому супругу, к соку сомы в кувшине.
 </details>
+

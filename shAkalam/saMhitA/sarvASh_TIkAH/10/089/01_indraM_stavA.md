@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+nŕ̥tamam ← nŕ̥tama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stavā ← √stu- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ántān ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jmáḥ ← kṣám- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+rocanā́ ← rocaná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+vibabādhé ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+carṣaṇīdhŕ̥t ← carṣaṇīdhŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+papraú ← √prā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+várobhiḥ ← váras- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+riricānáḥ ← √ric- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+síndhubhyaḥ ← síndhu- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ Den Indra preis' ich, der durch seine Grösse bedrängt den Lichtraum und der Er
 Кто как поддерживатель народов (своими) размерами заполнил (вселенную),  
 Величиной выступая над реками.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "मध्येज्योतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sammimikṣáthuḥ ← √myakṣ- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bodhatam ← √budh- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+evá ← evá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+kāṇvásya ← kāṇvá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+āśuhéṣasā ← āśuhéṣas- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+aśvínau ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+índrāvíṣṇū ← índrāvíṣṇu- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Wenn einem Manne ihr das Opfer segnetet, so achtet auf den Kānva doch; Brihaspa
 Я зову Брихаспати, Всех-Богов,  
 Индру и Вишну, Ашвинов, погоняющих быстрых коней.
 </details>
+

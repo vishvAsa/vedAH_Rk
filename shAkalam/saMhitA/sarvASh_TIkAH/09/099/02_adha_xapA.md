@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+kṣapā́ ← kṣáp- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+páriṣkr̥taḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+abhí ← abhí (invariable)  
+{}
+
+gāhate ← √gāh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vivásvataḥ ← vivásvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yádi ← yádi (invariable)  
+{}
+
+hárim ← hári- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hinvánti ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yā́tave ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +179,4 @@ Dann in die Opfertränke taucht bei Nacht er schön geschmückt sich ein, Wenn d
 Когда поэтические мысли Вивасвата  
 Поторапливают буланого к движению.
 </details>
+

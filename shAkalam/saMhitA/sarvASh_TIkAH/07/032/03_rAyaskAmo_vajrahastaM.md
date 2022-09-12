@@ -14,12 +14,34 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+rāyáskāmaḥ ← rāyáskāma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sudákṣiṇam ← sudákṣiṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vájrahastam ← vájrahasta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,3 +130,4 @@ N/A
 Желая богатства, зову я бога с ваджрой в руке,  
 С прекрасною десницей, словно сын – отца.
 </details>
+

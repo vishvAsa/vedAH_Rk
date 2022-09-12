@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+asmā́-asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+ádhvaryo ← adhvaryú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sutám ← √su- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+jényasya ← jénya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kuvít ← kuvít (invariable)  
+{}
+
+samasya ← sama- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+śárdhataḥ ← √śardh- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+abhíśasteḥ ← abhíśasti- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+avaspárat ← √spr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +183,4 @@ Ihm, ihm, o Priester, bringe dar den Saft des blütereichen Strauchs; Wird er vo
 Конечно, он защитит (нас) от проклятия  
 Любого наглого соплеменника!
 </details>
+

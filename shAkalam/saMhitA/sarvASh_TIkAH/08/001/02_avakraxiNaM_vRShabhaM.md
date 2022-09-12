@@ -16,14 +16,51 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajúram ← ajúr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avakrakṣíṇam ← avakrakṣín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yathā ← yathā (invariable)  
+{}
+
+carṣaṇīsáham ← carṣaṇīsáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+saṁvánanā ← saṁvánana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ubhayaṁkarám ← ubhayaṁkará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidvéṣaṇam ← vidvéṣaṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máṁhiṣṭham ← máṁhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ubhayāvínam ← ubhayāvín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +172,4 @@ Der nimmer alternd wie ein Stier herniederstürmt, der wie ein Bull die Welt bez
 Вызывающего (действия) обоего рода: стравливание (и) примирение,  
 Самого щедрого, одаряющего обоих...
 </details>
+

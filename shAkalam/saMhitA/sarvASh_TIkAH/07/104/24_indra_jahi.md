@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jahí ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+púmāṁsam ← púmaṁs- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yātudhā́nam ← yātudhā́na- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+māyáyā ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śā́śadānām ← √śad- (root)  
+{case:ACC, gender:F, number:SG, tense:PRF, voice:MED}
+
+stríyam ← strī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+mū́radevāḥ ← mū́radeva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥dantu ← √r̥d- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vígrīvāsaḥ ← vígrīva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dr̥śan ← √dr̥ś- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+uccárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Den männlichen Bezaubrer tödt, o Indra, das Weib auch, das mit Zauberei sich b
 Да падут с переломленной шеей поклоняющиеся тупоумным богам!  
 Да не увидят они восходящего солнца!
 </details>
+

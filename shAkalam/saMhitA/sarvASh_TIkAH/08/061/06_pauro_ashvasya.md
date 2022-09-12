@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+áśvasya ← áśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pauráḥ ← paurá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purukŕ̥t ← purukŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hiraṇyáyaḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+útsaḥ ← útsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dā́nam ← dā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+parimárdhiṣat ← √mr̥dh- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yád-yat ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yā́mi ← √yā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Du spendest Rosse, du vermehrst der Rinder Zahl, o Gott, des Goldes Quelle du; D
 Ведь никогда не прекращается дарение у тебя!  
 Что я ни попрошу, то и принеси!
 </details>
+

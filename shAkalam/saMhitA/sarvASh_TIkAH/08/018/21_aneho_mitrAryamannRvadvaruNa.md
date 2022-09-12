@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+aneháḥ ← anehás- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aryaman ← áryaman- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mitra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nr̥vát ← nr̥vánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śáṁsyam ← śáṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+chardíḥ ← chardís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+trivárūtham ← trivárūtha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yanta ← √yam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +162,4 @@ O reicht uns, Mitra, Arjaman, Varuna, dreifach schirmenden, gepriesnen, sichern,
 О Митра-Арьяман, мужественную,  
 О Варуна, достойную хвалы тройную защиту, о Маруты!
 </details>
+

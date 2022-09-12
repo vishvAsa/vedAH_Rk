@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292);; repeated line  
 popular;; epic anuṣṭubh (292)
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jahi ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mŕ̥dhaḥ ← mŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+nīcā́ ← nyàñc- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pr̥tanyatáḥ ← √pr̥tany- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yacha ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+abhidā́sati ← √dās- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ádharam ← ádhara- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gamaya ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +179,4 @@ Zerschlage, Indra, unsern Feind, wirf nieder, die, uns kämpfend nahn, Wer uns v
 Кто нам угрожает,  
 Отправь (того) в нижний мрак!
 </details>
+

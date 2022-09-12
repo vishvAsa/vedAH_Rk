@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+r̥ṣe ← ŕ̥ṣi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stuhi ← √stu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kuvít ← kuvít (invariable)  
+{}
+
+śrávataḥ ← √śru- (root)  
+{number:DU, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+kūḷayātaḥ ← √kūḷay- (root)  
+{number:DU, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+nédīyasaḥ ← nédīyaṁs- (nominal stem)  
+{case:ACC, number:PL}
+
+paṇī́n ← paṇí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +158,4 @@ Die Ritter preis', o Sänger, laut; ob sie wol hören deinen Ruf? Die Diebe mög
 Конечно, они услышат твой зов!  
 Они должны сжечь пани в непосредственной близости!
 </details>
+

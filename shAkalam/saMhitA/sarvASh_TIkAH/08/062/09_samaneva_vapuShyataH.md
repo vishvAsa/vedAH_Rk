@@ -16,15 +16,61 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+iva ← iva (invariable)  
+{}
+
+sámanā ← sámana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vapuṣyatáḥ ← √vapuṣy- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kr̥ṇávat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+mā́nuṣā ← mā́nuṣa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yugā́ ← yugá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cétanam ← cétana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vidé ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ádha ← ádha (invariable)  
+{}
+
+śrutáḥ ← √śru- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+bhadrā́ḥ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rātáyaḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +209,4 @@ Die Menschenstämme mache er zu Scharen von Bewunderern; Der hochberühmte Indra
 Индра умеет возникать, тем и знаменит  
 Дары Индры несут счастье.
 </details>
+

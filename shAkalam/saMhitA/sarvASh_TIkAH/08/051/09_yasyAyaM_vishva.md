@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+ā́ryaḥ ← ā́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+víśvaḥ ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+aríḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dā́saḥ ← dā́sa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śevadhipā́ḥ ← śevadhipā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aryé ← aryá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+pávīravi ← pávīru- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rúśame ← rúśama- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
+ajyate ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+ít ← ít (invariable)  
+{}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+túbhya ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Der Reichthum, nach welchem jeder Arier hier und der schatzbehütende Barbar beg
 За пределами чужой (области), у Рушамы Павиру,  
 Только для тебя готовится это богатство.
 </details>
+

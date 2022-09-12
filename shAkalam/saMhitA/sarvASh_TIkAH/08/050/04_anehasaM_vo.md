@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+anehásam ← anehás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hávamānam ← √hū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+dhītáyaḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+kṣaranti ← √kṣar- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+hávamānāsaḥ ← √hū- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+stotréṣu ← stotrá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +186,4 @@ Gebete rinnen zu dem Trank, der zum Genuss dich ruft, dem unvergleichlichen, Die
 Призывающие тебя, о Васу, соки сомы  
 Присоединены к восхвалениям.
 </details>
+

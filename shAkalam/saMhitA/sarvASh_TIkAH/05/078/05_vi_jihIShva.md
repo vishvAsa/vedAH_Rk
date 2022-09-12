@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+jihīṣva ← √hā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vanaspate ← vánaspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+sū́ṣyantyāḥ ← √sū- 2 (root)  
+{case:ABL, gender:F, number:SG, tense:FUT, voice:ACT}
+
+yóniḥ ← yóni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śrutám ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+muñcatam ← √muc- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+saptávadhrim ← saptávadhri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +178,4 @@ Thu auseinander dich, o Block, gleichwie der Schooss der kreissenden; O Ritter, 
 Услышьте, о Ашвины, мой зов  
 И освободите Саптавадхри!
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pibatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+cā́ruṇaḥ ← cā́ru- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mádasya ← máda- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+dhiṣṇyā ← dhíṣṇya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rātásya ← √rā- 1 (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +147,4 @@ O trinkt von diesem süssen Trank, dem dargereichten lieblichen, O gabenreiche R
 Милого пьянящего напитка,  
 Пожертвованной (вам) сладости, о возбуждающие вдохновение!
 </details>
+

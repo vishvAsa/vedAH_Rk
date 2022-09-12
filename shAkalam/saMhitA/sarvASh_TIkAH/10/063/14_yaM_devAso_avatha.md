@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+ávatha ← √avⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+devāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vā́jasātau ← vā́jasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+dháne ← dhána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+hité ← √dhā- 1 (root)  
+{case:LOC, gender:N, number:SG, non-finite:PPP}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śū́rasātā ← śū́rasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prātaryā́vāṇam ← prātaryā́van- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sānasím ← sānasí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áriṣyantam ← áriṣyant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ruhema ← √ruh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +196,4 @@ Den Wagen, den, o Götter, ihr im Krieg beeilt, und in der Schlacht, o Maruts, b
 
 -ru-
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hetī́ ← hetí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śúṣkam ← śúṣka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vánam ← vána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aśániḥ ← aśáni- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhīmā́ ← bhīmá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhakṣi ← √dah- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+rákṣaḥ ← rákṣas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+gambhīráyā ← gambhīrá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+r̥ṣváyā ← r̥ṣvá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+rurója ← √ruj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ádhvānayat ← √dhvanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+dambháyat ← √dambh- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+duritā́ ← duritá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Wie Glut das dürre Holz, verbrenn, o Indra, wie grauser Blitz mit heissem Speer
 (Тот,) кто рушил (крепости то) низким, (то) высоким (раскатом грома),  
 Заставил затрещать вместилище зла и подавил (их).
 </details>
+

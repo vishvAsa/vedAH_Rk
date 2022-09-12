@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsu ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+cékite ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mahimnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mahínā ← mahína- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+anyā́ḥ ← anyá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+apásām ← apás- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+apástamā ← apástama- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dyumnébhiḥ ← dyumná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+br̥hatī́ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kr̥tā́ ← √kr̥- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vibhváne ← vibhván- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cikitúṣā ← √cit- (root)  
+{case:INS, gender:M, number:SG, tense:PRF, voice:ACT}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+upastútyā ← upastútya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Sie, welche durch ihre Grösse unter den grossen Strömen sich auszeichnet, durc
 Высокая, словно колесница, созданная, чтобы далеко простираться, –  
 (Такою) должна быть прославлена знатоком Сарасвати.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bharata ← √bhr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bhárāya ← bhára- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+r̥tvíyam ← r̥tvíya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+krandádiṣṭaye ← krandádiṣṭi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śucipé ← śucipā́- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vāyáve ← vāyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ānaśé ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+gaurásya ← gaurá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+páyasaḥ ← páyas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pītím ← pītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sarvátātim ← sarvátāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Als Gabe bringet rasch den Theil, der ihm gebührt, dem Vaju dar, der reines tri
 
 -ru-
 </details>
+

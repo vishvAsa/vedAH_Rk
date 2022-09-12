@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+ávarṣīt ← √vr̥ṣ- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+enān ← ena- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+uśatáḥ ← √vaś- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́gatāyām ← √gam- (root)  
+{case:LOC, gender:F, number:SG, non-finite:PPP}
+
+prāvŕ̥ṣi ← prāvŕ̥ṣ- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+tr̥ṣyā́vataḥ ← tr̥ṣyā́vant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+akhkhalīkŕ̥tya ← akhkhalī-√kr̥- (root)  
+{non-finite:CVB}
+
+ná ← ná (invariable)  
+{}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+vádantam ← √vadⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Wenn im Beginn der Regenzeit der Regen auf die begier'gen, dürstenden herabfäl
 Одна приходит к другой, зовущей (ее)  
 Криком: Аккхала!, как сын к отцу.
 </details>
+

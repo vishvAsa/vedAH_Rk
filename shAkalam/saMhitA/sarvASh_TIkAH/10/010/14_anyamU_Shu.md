@@ -16,14 +16,90 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular;; repeated line  
 popular  
 popular
+#### Morph
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+yami ← yamī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+líbujā ← líbujā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+svajāte ← √svaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+vr̥kṣám ← vr̥kṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ichá ← √iṣ- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+kr̥ṇuṣva ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+saṁvídam ← saṁvíd- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+súbhadrām ← súbhadra- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,3 +269,4 @@ So sollst auch du umschlingen einen andern, und er auch dich so wie der Baum die
 Это его мысль стремись покорить, а он – твою,  
 И (с ним) добейся счастливого согласия!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; 12 = 5+7, ending LHX  
 genre M
+#### Morph
+gūrtávacāḥ ← gūrtávacas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+raúdram ← raúdra- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ājaú ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śácyām ← śácī- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+krāṇā́ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+maṁhaneṣṭhā́ḥ ← maṁhaneṣṭhā́- (nominal stem)  
+{}
+
+pitárā ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áhan ← áhar ~ áhan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+hótr̥̄n ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pakthé ← pakthá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+párṣat ← √pr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+saptá ← saptá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Dies an den Rudra gerichtete Gebet [vollbrachte] der angenehm redende mit Weishe
 
 -ru-
 </details>
+

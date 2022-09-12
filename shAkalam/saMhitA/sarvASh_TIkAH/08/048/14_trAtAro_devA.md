@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D;; repeated line
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+trā́tāraḥ ← trātár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vocata ← √vac- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+īśata ← √īś- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+jálpiḥ ← jálpi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nidrā́ ← nidrā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+priyā́saḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+viśváha ← viśváha (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+suvī́rāsaḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vadema ← √vadⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vidátham ← vidátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Hülfreiche Götter, sprecht uns freundlich Muth ein, nicht Schlaf bezwing' uns,
 Мы, всегда милые для сомы,  
 Хотим провозгласить жертвенную раздачу, (чтобы иметь) прекрасных мужей!
 </details>
+

@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́gaḥ ← ā́gas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+mát ← ahám (pronoun)  
+{case:ABL, number:SG}
+
+raśanā́m ← raśanā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śrathāya ← √śrathⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+khā́m ← khā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥dhyā́ma ← √r̥dh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+chedi ← √chid- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+tántuḥ ← tántu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váyataḥ ← √u- 2 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+apásaḥ ← apás- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́trā ← mā́trā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+purā́ ← purā́ (invariable)  
+{}
+
+r̥tóḥ ← r̥tú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śāri ← √śr̥̄- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +242,4 @@ Lös' ab von mir wie einen Strick die Sünde, wir wollen dir der Andacht Quell e
 Да не порвется нить у меня, ткущего произведение!  
 Да не сломается прежде времени мерка умельца!
 </details>
+

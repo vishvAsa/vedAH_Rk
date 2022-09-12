@@ -16,14 +16,51 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svāduṣaṁsádaḥ ← svāduṣaṁsád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vayodhā́ḥ ← vayodhā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gabhīrā́ḥ ← gabhīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kr̥chreśrítaḥ ← kr̥chreśrít- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śáktīvantaḥ ← śáktīvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ámr̥dhrāḥ ← ámr̥dhra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+citrásenāḥ ← citrásena- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+íṣubalāḥ ← íṣubala- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+satóvīrāḥ ← satóvīra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+urávaḥ ← urú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vrātasāhā́ḥ ← vrātasāhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +191,4 @@ Die gern zusammensitzenden Väter, die Lebenskraft verleihen, sich in Gefahr beg
 Образующие удивительное войско, сильные, как стрелы, ревностные,  
 Поистине мужественные, большие, покоряющие отряды (врагов).
 </details>
+

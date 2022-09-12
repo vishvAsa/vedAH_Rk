@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+dadhīmahi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
+marútsu ← marút- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+dhr̥ṣṇuyā́ ← dhr̥ṣṇuyā́ (invariable)  
+{}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́nuṣā ← mā́nuṣa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+yugā́ ← yugá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mártyam ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pā́nti ← √pā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+riṣáḥ ← ríṣ- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +180,4 @@ Wir bringen euren Maruts dar Gesang und Opfer kühnen Sinns, Die vor dem Feind d
 Всем (тем), которые в течение (многих) человеческих поколений  
 Защищает смертного от вреда.
 </details>
+

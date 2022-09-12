@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+āśúbhiḥ ← āśú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yāmi ← √yā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+etaśébhiḥ ← étaśa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+váhamānaḥ ← √vah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ā́ha ← √ah- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+mánuṣaḥ ← mánuṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nirṇíje ← nirṇíj- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sāváḥ ← sāvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dā́sam ← dā́sa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+háthaiḥ ← hátha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kr̥ṣe ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+kŕ̥tvyam ← kŕ̥tvya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ŕ̥dhak ← ŕ̥dhak (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +222,4 @@ Ich eile, vorwärts fahrend mit den schimmernden, den raschen Sonnen-Rossen ring
 Когда выжимание (сомы) у человека призывает меня к праздничному наряду,  
 Я устраняю смертельными ударами ловкого дасу.
 </details>
+

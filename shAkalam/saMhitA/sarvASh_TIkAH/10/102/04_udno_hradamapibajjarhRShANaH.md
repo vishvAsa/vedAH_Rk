@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+apibat ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+hradám ← hradá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+járhr̥ṣāṇaḥ ← √hr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+udnáḥ ← udán- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+abhímātim ← abhímāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kū́ṭam ← kū́ṭa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+tr̥ṁhát ← √tr̥h- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+ichámānaḥ ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+muṣkábhāraḥ ← muṣkábhāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+abharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ajirám ← ajirá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bāhū́ ← bāhú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+síṣāsan ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +198,4 @@ Der muntre Stier trank einen See voll Wassers, zerschmetternd drang sein Horn de
 
 -ru-
 </details>
+

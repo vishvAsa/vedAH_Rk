@@ -16,14 +16,51 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajáram ← ajára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+itás ← itás (invariable)  
+{}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+áprahitam ← áprahita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prahetā́ram ← prahetár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āśúm ← āśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hétāram ← hétar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jétāram ← jétar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rathī́tamam ← rathī́tama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+átūrtam ← átūrta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tugryāvŕ̥dham ← tugryāvŕ̥dh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ Zieht her zum Schutz den ewigen, den ungetriebnen Treiber euch, Den raschen Sieg
 Стремительного победителя, поощрителя, лучшего из колесничих,  
 Которого не догнать, покровителя сына Тугры.
 </details>
+

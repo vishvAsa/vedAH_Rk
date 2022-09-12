@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+prātaryújam ← prātaryúj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tiṣṭhathaḥ ← √sthā- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+madhuvā́hanam ← madhuvā́hana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prātaryā́vāṇam ← prātaryā́van- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gáchathaḥ ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+víśaḥ ← víś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yájvarīḥ ← yájvan- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+hótr̥mantam ← hótr̥mant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kīréḥ ← kīrí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Den früh geschirrten Wagen, welcher frühe fährt, besteigt ihr treuen, ihn, de
 На которой вы ездите в дома, приносящие жертвы, о два мужа,  
 Даже на жертву бедного, (если) есть (там) хотар, о Ашвины!
 </details>
+

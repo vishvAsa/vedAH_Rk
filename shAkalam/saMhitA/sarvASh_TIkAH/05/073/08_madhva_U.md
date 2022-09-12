@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+madhūyuvā ← madhūyu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+pipyúṣī ← √pī- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:ACT}
+
+rúdrā ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+síṣakti ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+párṣathaḥ ← √pr̥- (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+samudrā́ ← samudrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bharanta ← √bhr̥- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+pakvā́ḥ ← pakvá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pŕ̥kṣaḥ ← pŕ̥kṣ- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +189,4 @@ Süssliebende, o glänzende, die schwillt von Süss, erwartet euch; Wenn ihr dur
 Когда вы пересекаете море,  
 Вам преподносятся вареные подкрепления.
 </details>
+

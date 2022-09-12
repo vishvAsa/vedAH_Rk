@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+átyāḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hetŕ̥bhiḥ ← hetár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hiyānā́ḥ ← √hi- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+ásr̥gram ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ávyam ← ávya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́ram ← vā́ra- 1 (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +153,4 @@ Wie Rosse, die der Lenker spornt, ergossen sie zum Opfer sich, Die raschen durch
 Они устремились к захвату доычи  
 Через сито из овечьей шерсти, (эти) быстрые (кони).
 </details>
+

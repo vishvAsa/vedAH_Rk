@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ī ← ī (invariable)  
+{}
+
+mātŕ̥bhiḥ ← mātár- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gayasā́dhanam ← gayasā́dhana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sr̥játa ← √sr̥j- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+devāvyàm ← devāvī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dvíśavasam ← dvíśavas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádam ← máda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +164,4 @@ Den Hausstandmehrer lasst heraus wie mit der Mütter Schar das Kalb, Zum Rausch,
 (Этого) вызывающего процветание дома!  
 (Сделайте его) пьянящим напитком, приглашающим богов, обладающим двойной силой!
 </details>
+

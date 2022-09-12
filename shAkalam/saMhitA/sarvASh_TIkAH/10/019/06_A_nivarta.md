@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+nivarta ← nivarta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vartaya ← √vr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dehi ← √dā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+púnar ← púnar (invariable)  
+{}
+
+bhunajāmahai ← √bhuj- 2 (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+jīvā́bhiḥ ← jīvá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +155,4 @@ Heimfuhrer, führe sie zurück gib Indra uns die Küh' zurück, Wir woll'n der l
 Отдай нам назад коров, о Индра!  
 Мы будем радоваться живым!
 </details>
+

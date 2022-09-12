@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sudŕ̥śam ← sudŕ̥ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suprátīkam ← suprátīka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sváñcam ← sváñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ávidvāṁsaḥ ← ávidvaṁs- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sapema ← √sap- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vidúṣṭaram ← vidúṣṭara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vayúnāni ← vayúna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yakṣat ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amŕ̥teṣu ← amŕ̥ta- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vocat ← √vac- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Der schön von Antlitz, lieblich und gewandt ist, den weisen lasst uns thöricht
 Да приносит он жертвы, зная все вехи (обрядов)!  
 Да провозгласит Агни (наше) возлияние среди бессмертных!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+dadhiṣe ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+svarṣā́m ← svarṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+átaran ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+māsáḥ ← mā́s- 1 (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+návagvāḥ ← návagva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+devágopāḥ ← devágopā- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tuturyāma ← √tūr(v)- ~ tur- (root)  
+{number:PL, person:1, mood:OPT, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Eu'r Lied, was Licht schafft, gabest du den Wassern, durch das die Neuner zehn d
 С помощью этой молитвы да будем мы под защитой богов!  
 С помощью этой молитвы да пересечем мы узость!
 </details>
+

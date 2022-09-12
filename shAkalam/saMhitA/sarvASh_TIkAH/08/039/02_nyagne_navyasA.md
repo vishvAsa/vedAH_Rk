@@ -18,16 +18,74 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+návyasā ← návyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+śáṁsam ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tanū́ṣu ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+árātīḥ ← árāti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+árāvṇām ← árāvan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+árātīḥ ← árāti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+āmúraḥ ← āmúr- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+itás ← itás (invariable)  
+{}
+
+yuchantu ← √yu- 2 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +244,4 @@ Aufs neue, Agni, stürz herab das Fluchwort auf ihr eignes Haupt, Herab der From
 Пусть уберутся отсюда вредители!  
 Пусть лопнут все ничтожные другие!
 </details>
+

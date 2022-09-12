@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mandasānáḥ ← mandasāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaiḥ ← sóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śraddhā́bhiḥ ← śraddhā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+cúmurim ← cúmuri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dabhī́taye ← dabhī́ti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+siṣvap ← √svap- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+daśasyán ← √daśasy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+píṭhīnase ← píṭhīnas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rajím ← rají- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ahan ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+sácā ← sácā (invariable)  
+{}
+
+śácyā ← śácī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ṣaṣṭím ← ṣaṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +189,7 @@ Pāda d contains a fine sequence of alliterative sibilants of all three types: �
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/03-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/03-06.md">
 <details open><summary><h2>03-06 ...{Loading}...</h2></summary>
 
 These vss. are tr. and discussed by Hoffman (Injunk., 183-84).
@@ -169,3 +221,4 @@ Erfreut durch Glauben, Indra, und durch Soma, schlugst Tschumuri du todt für de
 Ты, проявляя добрую волю, для Питхинчса  
 Убил Раджи (своей) силой, как и шестьдесят тысяч (врагов).
 </details>
+

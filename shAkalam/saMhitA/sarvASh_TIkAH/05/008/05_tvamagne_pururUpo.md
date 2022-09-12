@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pururū́paḥ ← pururū́pa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+viśé-viśe ← víś- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+dadhāsi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pratnáthā ← pratnáthā (invariable)  
+{}
+
+puruṣṭuta ← puruṣṭutá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánnā ← ánna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rājasi ← √rāj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ādhŕ̥ṣe ← √dhr̥ṣ- (root)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+titviṣāṇásya ← √tvíṣ- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+
+tvíṣiḥ ← tvíṣi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ O Agni du, in jedem Haus gestaltenreich, o vielgepriesner, gibst wie früher fri
 Многими кушаньями правишь ты с помощью силы.  
 Никому не дерзнуть против твоего неистовства, когда ты неистов.
 </details>
+

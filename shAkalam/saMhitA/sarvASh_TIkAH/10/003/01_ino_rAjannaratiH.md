@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aratíḥ ← aratí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ináḥ ← iná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sámiddhaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+adarśi ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+dákṣāya ← dákṣa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+raúdraḥ ← raúdra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suṣumā́n ← suṣumánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhāsā́ ← bhā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+bhāti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+br̥hatā́ ← br̥hánt- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+cikít ← cikít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+apā́jan ← √aj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ásiknīm ← ásita- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rúśatīm ← rúśant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Erschienen ist der thät'ge Herr, o König, der prächtige, entflammt, zur Kraft
 Искусно блистает он высоким блеском.  
 Он идет к светлой (Ушас), гоня темную (Ночь).
 </details>
+

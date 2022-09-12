@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+áṅgirasaḥ ← áṅgiras- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+návagvāḥ ← návagva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+átharvāṇaḥ ← átharvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhŕ̥gavaḥ ← bhŕ̥gu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+somyā́saḥ ← somyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sumataú ← sumatí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yajñíyānām ← yajñíya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ápi ← ápi (invariable)  
+{}
+
+bhadré ← bhadrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+saumanasé ← saumanasá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +199,4 @@ Die Angiras, die Neuner, und die Väter, die Feuerpriester und die frommen Bhrig
 Да будем мы в милости у них, достойных жертвы,  
 И в добром (их) расположении!
 </details>
+

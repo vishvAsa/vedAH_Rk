@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+janayatu ← √janⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prajā́m ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prajā́patiḥ ← prajā́pati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ājarasā́ya ← ājarasā́ya (invariable)  
+{}
+
+anaktu ← √añj- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ádurmaṅgalīḥ ← ádurmaṅgala- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+patilokám ← patiloká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśa ← √viś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+cátuṣpade ← cátuṣpad- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dvipáde ← dvipád- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+śám ← śám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Nachkommenschaft zeuge uns der Herr der Nachkommenschaft, Arjaman statte uns rei
 Без дурных примет войди в мир мужа!  
 Будь на счастье нашим двуногим, на счастье – четвероногим!
 </details>
+

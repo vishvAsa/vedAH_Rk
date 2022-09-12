@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+ānr̥cúḥ ← √r̥c- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saptáśīrṣāṇam ← saptáśīrṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yásmai ← yá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tridhā́tum ← tridhā́tu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uttamé ← uttamá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cikradat ← √krand- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tú ← tú (invariable)  
+{}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+janiṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+paúṁsyam ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Welchem sie das siebenköpfige Preislied, das dreitheilige an höchster Stätte 
 Тот пусть огласит ревом все эти миры -  
 И вот тогда родится мужество.
 </details>
+

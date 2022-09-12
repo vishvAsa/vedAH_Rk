@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+tanūtyájā ← tanūtyáj- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+táskarā ← táskara- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vanargū́ ← vanargú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+abhí ← abhí (invariable)  
+{}
+
+adhītām ← √dhā- 1 (root)  
+{number:DU, person:3, mood:IND, tense:AOR, voice:ACT}
+
+daśábhiḥ ← dáśa- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+raśanā́bhiḥ ← raśanā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+manīṣā́ ← manīṣā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+návyasī ← návyas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+áṅgaiḥ ← áṅga- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śucáyadbhiḥ ← √śuc- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yukṣvá ← √yuj- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Umwunden von zehn Stricken sind die Hölzer, ein Räuberpaar, verzweifelnd an de
 Это самое новое поэтическое творение для тебя, о Агни.  
 Запрягай как будто бы колесницу пылающими членами!
 </details>
+

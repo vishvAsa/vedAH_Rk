@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asaú ← asaú (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+māmakáḥ ← māmaká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vidvalā́ ← vidvalá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+asākṣi ← √sah- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+viṣāsahíḥ ← viṣāsahí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Dort ist die Sonne aufgetaucht, und aufgegangen ist mein Glück; Ersiegt hab' ic
 Ведь я, умная, мужа  
 Покорила, покорительница.
 </details>
+

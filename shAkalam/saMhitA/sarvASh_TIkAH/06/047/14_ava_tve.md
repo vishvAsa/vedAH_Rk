@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áva ← áva (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pravátaḥ ← pravát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+ūrmíḥ ← ūrmí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dhavante ← √dhu- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+niyútaḥ ← niyút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+urú ← urú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+índūn ← índu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yuvase ← √yu- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +238,4 @@ Zu dir hin strömen, wie vom Abhang Wellen, Gebete, Indra, Lieder, Spruchgespann
 Словно широкие проявления привязанности, вбираешь ты в себя  
 Многие выжимания (сомы): воды, молоко, о громовержец, соки сомы.
 </details>
+

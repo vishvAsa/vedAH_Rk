@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+níhitam ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+vakṣáṇāsu ← vakṣáṇā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+āmā́ ← āmá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bíbhratī ← √bhr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gaúḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pakvám ← pakvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sámbhr̥tam ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+svā́dma ← svā́dman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+usríyāyām ← usríya- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádadhāt ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhójanāya ← bhójana- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sīm ← sīm (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Ein grosser Glanz ist in den Leib gesetzet, die rohe Kuh geht tragend garen Milc
 Весь вкус был собран в корове (-утренней заре),  
 Когда Индра предназначил ее для наслаждения (человека).
 </details>
+

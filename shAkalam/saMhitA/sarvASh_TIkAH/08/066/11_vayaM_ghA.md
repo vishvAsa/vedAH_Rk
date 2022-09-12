@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápūrvyā ← ápūrvya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+gha ← gha (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+purūtámāsaḥ ← purūtáma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vajrivaḥ ← vajrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bharāmasi ← √bhr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+bhr̥tím ← bhr̥tí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +182,4 @@ Wir tragen unvergleichliche Gebete dir, o Indra, vor, O vielgerufner Vritratödt
 Чаще всех, о многопризываемый громовержец,  
 Приносим тебе как подкрепление.
 </details>
+

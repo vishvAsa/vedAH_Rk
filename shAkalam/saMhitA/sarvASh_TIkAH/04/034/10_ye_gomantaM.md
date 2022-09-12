@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gómantam ← gómant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvī́ram ← suvī́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́javantam ← vā́javant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+dhatthá ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+purukṣúm ← purukṣú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásumantam ← vásumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agrepā́ḥ ← agrepā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mandasānā́ḥ ← mandasāná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+dhatta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gr̥ṇánti ← √gr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rātím ← rātí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Die ihr die Habe schenkt, die reich an Rindern, an Rossen, Helden, Gütern ist u
 Эти пьющие сначала Рибху, опьяняющие себя –  
 Нам дайте (богатство и тем,) которые воспевают дар!
 </details>
+

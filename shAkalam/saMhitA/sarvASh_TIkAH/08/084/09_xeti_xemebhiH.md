@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+kṣémebhiḥ ← kṣéma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kṣéti ← √kṣi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sādhúbhiḥ ← sādhú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ghnánti ← √han- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hánti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+edhate ← √idh- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+suvī́raḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +164,4 @@ Der, Agni, wohnt in Sicherheit, wen niemand schlägt, wer selber schlägt, An He
 Никто его не убьет, он убивает сам.  
 О Агни, он процветает, имея прекрасных сыновей.
 </details>
+

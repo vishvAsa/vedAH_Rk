@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+dadāśúḥ ← √dāś- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+havyádātibhiḥ ← havyádāti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+indhaté ← √idh- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+púṣyantaḥ ← √puṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +162,4 @@ O möchten wir dem Agni recht mit Opfergaben huldigen, ihn uns entzünden zum Ge
 Агни дарами жертвенных возлияний,  
 Кто его зажигает и выращивает!
 </details>
+

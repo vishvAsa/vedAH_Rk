@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+brávīti ← √brū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ádevayūn ← ádevayu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jaghanvā́n ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+samáraṇe ← samáraṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+avā́khyat ← √khyā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ŕ̥ghāvat ← ŕ̥ghāvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samáraṇam ← samáraṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+ā́t ← ā́t (invariable)  
+{}
+
+bruvanti ← √brū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vr̥ṣabhā́ ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +232,4 @@ Den kenne ich nicht, der also spräche, nachdem er die Gottlosen im Kampfe ersch
 
 -ru-
 </details>
+

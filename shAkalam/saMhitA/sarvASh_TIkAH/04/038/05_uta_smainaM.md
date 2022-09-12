@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sma ← sma (invariable)  
+{}
+
+tāyúm ← tāyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vastramáthim ← vastramáthi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+bháreṣu ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+krośanti ← √kruś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣitáyaḥ ← kṣití- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+áyamānam ← √i- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+jásurim ← jásuri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nīcā́ ← nyàñc- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śyenám ← śyená- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+paśumát ← paśumánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yūthám ← yūthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +231,4 @@ Ihm schreien nach die Feinde in den Schlachten, wie einem Diebe, der das Kleid g
 Когда, как измученный коршун, падающий вниз,  
 (Дадхикра кидается) к славе и к стаду скота.
 </details>
+

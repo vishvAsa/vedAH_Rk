@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+járamāṇasya ← √gr̥̄- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+návyasaḥ ← návyas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+bhūṣataḥ ← √bhūṣ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+yuyujānásaptī ← yuyujānásapti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pŕ̥kṣam ← pŕ̥kṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śúbham ← śúbh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+váhantā ← √vah- (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+
+adhrúk ← adrúh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pratnáḥ ← pratná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yakṣat ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+yúvānā ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +216,4 @@ Mit Rossen fahrend nahn sie eifrig achtsam dem Andachtslied des neuesten der Sä
 (Этих) везущих счастье, питание, жертвенную усладу, силу  
 Двоих юношей пусть почтит древний безобманный хотар!
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+svarā́ṭ ← svarā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svayúḥ ← svayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+smáddiṣṭiḥ ← smáddiṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sváyaśastaraḥ ← sváyaśastara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+puruṣṭuta ← puruṣṭutá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vāvr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+bháva ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suśrávastamaḥ ← suśrávastama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +191,4 @@ Selbsteigner Herr bist Indra, du, gut lenkend und von eigner Pracht; An Kraft ge
 Возрастая силой, о многопрославленный,  
 Буть тем, кто к нам лучше всех прислушивается!
 </details>
+

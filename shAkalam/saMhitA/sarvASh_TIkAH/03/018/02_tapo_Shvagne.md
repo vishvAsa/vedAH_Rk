@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ántarān ← ántara- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+tápa ← √tap- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+áraruṣaḥ ← árarivaṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+párasya ← pára- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śáṁsam ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tápa ← √tap- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+acíttān ← acítta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+cikitānáḥ ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+tápa ← √tap- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ajárāḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ayā́saḥ ← ayā́s- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tiṣṭhantām ← √sthā- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Verbrenn, o Agni, schnell die nahen Feinde, zerbrenn den Fluch des fernen Bösew
 Спали, о Васу разумный, неразумных!  
 Пусть распространятся твои нестареющие, неутомимые (языки) пламени!
 </details>
+

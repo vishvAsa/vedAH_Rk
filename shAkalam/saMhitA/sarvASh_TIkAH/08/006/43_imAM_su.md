@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+pūrvyā́m ← pūrvyá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+ghr̥tásya ← ghr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mádhoḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pipyúṣīm ← √pī- 1 (root)  
+{case:ACC, gender:F, number:SG, tense:PRF, voice:ACT}
+
+káṇvāḥ ← káṇva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ukthéna ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vāvr̥dhuḥ ← √vr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +147,4 @@ Dies altherkömmliche Gebet, das von dem Fett des Methes trieft, Ist durch der K
 Пропитанное мёдом (и) жиром,  
 Канвы усилили (своим) гимном.
 </details>
+

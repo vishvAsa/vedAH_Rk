@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajirā́ ← ajirá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+puruhūtā́ya ← puruhūtá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sáptī ← sápti- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+úpa ← úpa (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhūrṣú ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+hárī ← hári- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ráthasya ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yunajmi ← √yuj- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+dravát ← dravát (invariable)  
+{}
+
+sámbhr̥tam ← √bhr̥- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vahātaḥ ← √vah- (root)  
+{number:DU, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Die schnellen Rosse schirr ich an, die hellen, dem vielgerufnen Indra an die Dei
 Чтоб быстро они примчали Индру,  
 На эту жертву, полностью приготовленную.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+apr̥ṇāt ← √pr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mádhyam ← mádhya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+utá ← utá (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+páñca ← páñca- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥tuśás ← r̥tuśás (invariable)  
+{}
+
+saptá-sapta ← saptá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+caṣṭe ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+cátustriṁśatā ← cátustriṁśat- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+purudhā́ ← purudhā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sárūpeṇa ← sárūpa- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vívratena ← vívrata- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Er füllte Erd' und Himmel und die Luft an, fünf Stämme, Götter regelrecht je
 Он озирает (все) во многих местах с помощью тридцати четырех  
 Светил одного цвета, (но) следующих разным обетам.
 </details>
+

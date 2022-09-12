@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mādáyadhvam ← √mad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ŕ̥bhukṣaṇaḥ ← r̥bhukṣán- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vājāḥ ← vā́ja- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+maghavānaḥ ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́caḥ ← arvā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+krátavaḥ ← krátu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yātā́m ← √yā- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+náryam ← nárya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+vartayantu ← √vr̥t- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+víbhvā ← víbhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +207,4 @@ Berauschet euch, o Vadscha's und Ribhukschan's am Somasaft bei uns, o mächt'ge 
 Пусть (наши молитвы), словно силы духа едущих,  
 Повернут вас в нашу сторону, о Вибху, (и) вашу мужественную колесницу!
 </details>
+

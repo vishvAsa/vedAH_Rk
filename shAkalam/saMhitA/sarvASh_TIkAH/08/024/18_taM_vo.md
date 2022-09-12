@@ -15,13 +15,41 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vā́jānām ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+áhūmahi ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+śravasyávaḥ ← śravasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áprāyubhiḥ ← áprāyu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vāvr̥dhényam ← vāvr̥dhénya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñébhiḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +144,4 @@ Wir haben euren Gabenherrn nach Schatz begierig angefleht, Ihn, den durch steten
 Мы позвали, жаждя славы,  
 (Того,) кого надо усиливать непрерывными жертвами!
 </details>
+

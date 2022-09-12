@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvareṣṭhā́ḥ ← adhvareṣṭhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+udŕ̥ci ← udŕ̥c- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yajñé ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dádāśat ← √dāś- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+mā́nuṣaḥ ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marúdbhyaḥ ← marút- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+dadhate ← √dhā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+suvī́ram ← suvī́ra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+gopīthé ← gopīthá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Wer beim Opfer fort und fort mit der heiligen Handlung beschäftigt als Mensch d
 Он получит жизненную силу, заключенную в прекрасных сыновьях.  
 Да будет он под покровительством богов!
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+vīryàm ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cakártha ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+paúṁsyam ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+durhaṇāyúvam ← durhaṇāyú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+stríyam ← strī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitáram ← duhitár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vádhīḥ ← √vadhⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +172,7 @@ The juxtaposition of vīryám … paúṃsyam “manly and masculine” with str
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 My interpr. of the structural relationship of these two vss. and of the internal structure of vs. 8 differs considerably from the standard. Because of the parallelism of the openings of these vss., both with utá smā, I think that there should be two parallel clauses. But vs. 7 is a hí clauses with accented verb (āhúḥ), whereas the only verb in vs. 8 is maṃhase in pāda c. I am also puzzled by the pári in 8a, which is difficult to construe with the rest. There is no pári √maṃh elsewhere, and pári is in any case not situated where we would expect a preverb in tmesis. Witzel Gotō tr.
@@ -140,7 +183,7 @@ I suggest instead that pāda a contains an abbreviated form of a common formula 
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details open><summary><h2>08-21 ...{Loading}...</h2></summary>
 
 These vss. are tr. by Hoffmann (Injunk., 184-86).
@@ -172,3 +215,4 @@ Auch dieses grosse Heldenwerk, die Mannesthat vollführtest du, dass du das Weib
 Что злонамеренную жену,  
 Дочь неба ты прибил.
 </details>
+

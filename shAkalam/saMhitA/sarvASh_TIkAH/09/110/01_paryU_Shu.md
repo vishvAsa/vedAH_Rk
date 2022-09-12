@@ -15,13 +15,56 @@ ChandaH = "अनुष्टुप्पिपीलिकमध्या"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dhanva ← √dhanv- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+sakṣáṇiḥ ← sakṣáṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dviṣáḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+īyase ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+r̥ṇayā́ḥ ← r̥ṇayā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tarádhyai ← √tr̥̄- 1 (root)  
+{case:DAT, number:SG, tense:PRS}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +181,4 @@ Rings um nun ströme schnell hervor zum Opferfest besiegend alle Hasser rings, D
 (Ты,) преодолевающий награды (везде) вокруг!  
 Чтоб пересечь враждебности, ты ходишь у нас как преследователь за вину.
 </details>
+

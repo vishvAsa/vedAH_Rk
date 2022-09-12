@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devayatā́m ← √devay- (UNK_TYPE)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+mánāṁsi ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+cákṣūṁṣi ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+sū́rye ← sū́rya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+súvāte ← √sū- 2 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+uṣásā ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vírūpe ← vírūpa- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+jāyate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+śvetáḥ ← śvetá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Zu Agni gehen hin der Frommen Wünsche, so wie zur Sonne sich die Blicke wenden;
 Стоит только Ушас (и Ночи), несхожим (друг с другом), произвести (его) на свет,  
 Как рождается (этот) белый конь, приносящий награду, в начале дней.
 </details>
+

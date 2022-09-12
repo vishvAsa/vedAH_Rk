@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+amitrāyúdhaḥ ← amitrāyúdh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+prayā́ḥ ← prayā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+prathamajā́ḥ ← prathamajā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+viduḥ ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dyumnávat ← dyumnávant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+īrire ← √īr- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+kuśikā́saḥ ← kuśiká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+éka-ekaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īdhire ← √idh- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Die Ku^iker, den Feind bekämpfend, wie die Anläufe der Maruts, die erstgeboren
 Люди из рода Кушики привели в движение сверкающую священную речь.  
 Они зажгли Агни: каждый в своем доме.
 </details>
+

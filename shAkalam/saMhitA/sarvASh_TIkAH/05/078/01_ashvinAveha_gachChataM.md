@@ -15,13 +15,56 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+áśvinau ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gachatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+venatam ← √ven- (root)  
+{number:DU, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+haṁsaú ← haṁsá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+patatam ← √pat- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sutā́n ← √su- (root)  
+{case:ACC, gender:M, number:PL, non-finite:PPP}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +181,4 @@ O Ritter, kommet her zu uns, entzieht euch nicht, wahrhaftige; So wie zwei Schw�
 О Насатьи, не отворачивайтесь!  
 Прилетайте, как два лебедя, к выжатым (сокам сомы)!
 </details>
+

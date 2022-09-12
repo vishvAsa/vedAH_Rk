@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agnáyaḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+káti ← káti (invariable)  
+{}
+
+káti ← káti (invariable)  
+{}
+
+sū́ryāsaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+káti ← káti (invariable)  
+{}
+
+káti ← káti (invariable)  
+{}
+
+svit ← svit (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+uṣā́saḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pitaraḥ ← pitár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+upaspíjam ← upaspíj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vadāmi ← √vadⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+kám ← kám (invariable)  
+{}
+
+kavayaḥ ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+pr̥chā́mi ← √praś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vidmáne ← vidmán- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +224,4 @@ Wie viel der Feuer gibt's und Morgenröthen? wie viele Sonnen und wie viel Gewä
 Без (всякого) умысла я говорю вам, о отцы.  
 Я спрашиваю вас, о мудрые, чтобы узнать.
 </details>
+

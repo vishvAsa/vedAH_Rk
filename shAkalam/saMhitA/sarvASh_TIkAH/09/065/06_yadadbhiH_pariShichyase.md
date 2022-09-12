@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+adbhíḥ ← áp- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+pariṣicyáse ← √sic- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gábhastyoḥ ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+mr̥jyámānaḥ ← √mr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+aśnuṣe ← √naś- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+drúṇā ← dā́ru- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sadhástham ← sadhástha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -89,7 +114,7 @@ you attain to your seat by means of the wooden (vessel).
 On druṇā́see comm. ad IX.1.2.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 No obvious signs of unity
@@ -118,3 +143,4 @@ Wenn du durch Flut ergossen wirst, gereinigt von den Armen du, Erreichst du auf 
 
 -ru-
 </details>
+

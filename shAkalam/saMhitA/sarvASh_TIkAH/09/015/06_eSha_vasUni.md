@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pibdanā́ ← pibdaná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vásūni ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+páruṣā ← párus- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yayivā́n ← √yā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+gachati ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śā́deṣu ← śā́da- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +158,4 @@ Wenn durch die Flocken er geeilt, so dringt zu festen Gütern er, Geht nieder in
 Спускается, (создавая) прочные блага  
 В (мягких) побегах.
 </details>
+

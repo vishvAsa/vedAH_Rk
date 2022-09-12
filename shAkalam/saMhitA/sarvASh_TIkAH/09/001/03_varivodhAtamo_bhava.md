@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+varivodhā́tamaḥ ← varivodhā́tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máṁhiṣṭhaḥ ← máṁhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trahántamaḥ ← vr̥trahántama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghónām ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+párṣi ← √pr̥- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +144,4 @@ Sei du es, der am besten schenkt, die Feinde schlägt und Freiheit schafft, Der 
 Самым щедрым, самым лютым убийцей врагов!  
 Переполни щедрость покровителей!
 </details>
+

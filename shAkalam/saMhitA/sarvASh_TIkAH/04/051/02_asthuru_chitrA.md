@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+citrā́ḥ ← citrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+purástāt ← purástāt (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+adhvaréṣu ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+mitā́ḥ ← √mi- 1 (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+sváravaḥ ← sváru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dvā́rā ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+támasaḥ ← támas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+vrajásya ← vrajá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+avran ← √vr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+pāvakā́ḥ ← pāvaká- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+uchántīḥ ← √vas- 1 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Im Ost erstanden lichte Morgenröthen, wie Säulen, die beim Opfer aufgerichtet;
 Они раскрыли врата загона, мрака,  
 Зажигающиеся, светлые, чистые.
 </details>
+

@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; 12 = 8+4
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+satya ← satyá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+somapāḥ ← somapā́- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+babhū́tha ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sunvatáḥ ← √su- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥dháḥ ← vr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +183,4 @@ Denn beide Welten überragst, o wahrer Somatrinker, du, Du, Indra, bist des Pres
 Превосходишь обе половины вселенной.  
 О Индра, ты покровитель выжимающего (сому), господин неба.
 </details>
+

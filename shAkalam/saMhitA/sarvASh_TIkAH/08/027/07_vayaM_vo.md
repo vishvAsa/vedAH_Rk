@@ -16,14 +16,45 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+vr̥ktábarhiṣaḥ ← vr̥ktábarhis- (nominal stem)  
+{case:NOM, number:PL}
+
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+hitáprayasaḥ ← hitáprayas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+sutásomāsaḥ ← sutásoma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iddhā́gnayaḥ ← iddhā́gni- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+manuṣvát ← manuṣvát (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +170,4 @@ Wir rufen euch der Reihe nach, die Streu und Opfer wir besorgt, Den Somatrank ge
 Выжав сому, о Варуна,  
 Подобно Ману, зажегши огонь.
 </details>
+

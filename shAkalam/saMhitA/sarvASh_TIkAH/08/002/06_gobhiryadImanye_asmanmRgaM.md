@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+anyé ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mr̥gám ← mr̥gá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mr̥gáyante ← √mr̥gay- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+vrā́ḥ ← vrā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+abhitsáranti ← √tsar- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhenúbhiḥ ← dhenú- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +159,4 @@ Wenn ihn wie ein Reh die Treiber, andere als wir erjagen, Und ihn mit der Milch 
 Охотятся (за ним), словно толпа (охотников) за диким зверем,  
 Подкрадываются со (своими) дойными коровами:
 </details>
+

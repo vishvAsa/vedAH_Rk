@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dáṁsāṁsi ← dáṁsas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yé ← yá- (pronoun)  
+{}
+
+parimāmr̥śúḥ ← √mr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+víprāsaḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bodhatam ← √budh- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+evá ← evá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+kāṇvásya ← kāṇvá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +149,4 @@ Vor allen Sängern, welche je erwogen eure Wundermacht, O Ritter, nehmt des Kān
 Ваших чудесных деяний, о Ашвины, –  
 (Из них) прежде всего заметьте потомка Канвы!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+jánāḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+panayanti ← √panⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sma ← sma (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+abhíbhūtim ← abhíbhūti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+āśóḥ ← āśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jūtím ← jūtí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kr̥ṣṭipráḥ ← kr̥ṣṭiprā́- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+samithé ← samithá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+viyántaḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+asarat ← √sr̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dadhikrā́ḥ ← dadhikrā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+sahásraiḥ ← sahásra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Und seinen Lauf bewundern alle Menschen, die Uebermacht des schnellen Weltdurchd
 А также о нем говорят, когда расходятся в разные стороны при столкновении:  
 Дадхикра умчится с тысячами.
 </details>
+

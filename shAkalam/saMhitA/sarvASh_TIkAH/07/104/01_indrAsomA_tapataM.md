@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+índrāsomā ← índrāsóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rákṣaḥ ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tápatam ← √tap- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ubjátam ← √ubj- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+arpayatam ← √r̥- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+tamovŕ̥dhaḥ ← tamovŕ̥dh- (nominal stem)  
+{case:ACC, number:PL}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+acítaḥ ← acít- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+oṣatam ← √uṣ- (root)  
+{number:DU, person:1, mood:IMP, tense:PRS, voice:ACT}
+
+párā ← párā (invariable)  
+{}
+
+śr̥ṇītam ← √śr̥̄- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+atríṇaḥ ← atrín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hatám ← √han- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+nudéthām ← √nud- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+śiśītam ← √śā- ~ śī- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Verbrennt, versenkt, o Indra-Soma, das Gespenst, o Stiere stürzt, die sich des 
 Раздробите безумных, сожгите (их) дотла!  
 Убейте, столкните, зарежьте атринов!
 </details>
+

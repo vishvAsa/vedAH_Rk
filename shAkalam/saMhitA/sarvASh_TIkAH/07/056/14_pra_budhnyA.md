@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+budhnyā̀ ← budhnyà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+īrate ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+máhāṁsi ← máhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+nā́māni ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+prayajyavaḥ ← práyajyu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tiradhvam ← √tr̥̄- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dámyam ← dámya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+sahasríyam ← sahasríya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥hamedhī́yam ← gr̥hamedhī́ya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+juṣadhvam ← √juṣ- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:MED}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Vor dringet aus der Tiefe euer Glänzen, macht herrlich eur Erscheinen, o ihr St
 Наслаждайтесь этой долей тысячекратной,  
 Домашней, относящейся к семейному обряду, о Маруты!
 </details>
+

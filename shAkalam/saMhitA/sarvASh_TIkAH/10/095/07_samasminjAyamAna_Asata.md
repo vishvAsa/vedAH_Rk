@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+āsata ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+asmin ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+gnā́ḥ ← gnā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jā́yamāne ← √janⁱ- (root)  
+{case:LOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+avardhan ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+svágūrtāḥ ← svágūrta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+purūravaḥ ← purūrávas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ráṇāya ← ráṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ávardhayan ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dasyuhátyāya ← dasyuhátya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Als dieser geboren wurde, saßen die Götterfrauen dabei und die Flüsse, die ih
 
 -ru-
 </details>
+

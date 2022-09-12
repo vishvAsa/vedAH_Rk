@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avr̥ṇīta ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+śríyam ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+duhitā́ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+páritakmyāyām ← páritakmya- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sū́raḥ ← svàr- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ávathaḥ ← √avⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+devayántam ← √devay- (UNK_TYPE)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gāt ← √gā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ghraṁsám ← ghraṁsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ománā ← omán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +205,4 @@ Die junge Maid erwählte eure Schönheit, der Sonne Tochter, in des Morgens Dunk
 Когда вы помогаете преданному богам (своими) помощами,  
 То вашей милостью птицы избегают зноя.
 </details>
+

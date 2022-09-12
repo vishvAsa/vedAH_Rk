@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+devákāmaḥ ← devákāma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+náryaḥ ← nárya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jujoṣa ← √juṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uśán ← √vaś- (root)  
+{tense:PRS, voice:ACT}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pā́ryāya ← pā́rya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+agnaú ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+īṭṭe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sámiddhe ← √idh- 1 (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+sutásomaḥ ← sutásoma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Welch Sterblicher genoss, die Götter liebend, des Indra Freundschaft heute voll
 Или кто призывает (его) на великую помощь  
 Выжав сому, при зажженном огне, в решающий день?
 </details>
+

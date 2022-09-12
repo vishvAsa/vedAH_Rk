@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvebhiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+usrā́ḥ ← usrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+váhate ← √vah- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vásto ← vástu- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saptatīnā́m ← saptatí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+ebhíḥ ← ayám (pronoun)  
+{case:INS, gender:M, number:PL}
+
+somapāḥ ← somapā́- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+somasúdbhiḥ ← somasút- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sómebhiḥ ← sóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dānā́ya ← dāná- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śukrapūtapāḥ ← śukrapūtapā- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +209,4 @@ Er fährt mit Rossen dreimal sieb'nmal siebzigen und schmückt die Morgenröthen
 (Поощренный) этими выжимателями сомы с помощью соков сомы, о (ты,) пьющий сому,  
 Для дарения, о пьющий прозрачный чистый сок,
 </details>
+

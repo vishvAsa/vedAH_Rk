@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hinvānáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+janitā́ ← janitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ródasyoḥ ← ródasī- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+ayāsīt ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saniṣyán ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:FUT, voice:ACT}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́yudhā ← ā́yudha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+gáchan ← √gam- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saṁśíśānaḥ ← √śā- ~ śī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ādádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+hástayoḥ ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Schon naht entsandt der Zeuger beider Welten gleich einem Wagen, der den Preis e
 К Индре идет он, оттачивая оружие.  
 Держа все блага (у себя) в руках.
 </details>
+

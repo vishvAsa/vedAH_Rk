@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+nŕ̥bhyaḥ ← nár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sauśravasā́ ← sauśravasá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+suvī́rā ← suvī́ra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+puṣyáse ← √puṣ- (root)  
+{case:DAT, number:SG}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+kr̥ṇóṣi ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+paśváḥ ← paśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aráye ← arí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jásuraye ← jásuri- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vŕ̥kāya ← vŕ̥ka- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Den Menschen schenke kinderreichen Segen, o Sohn der Kraft, dass sie gedeih'n, o
 Если ты (своей) силой создаешь большую жизненную стойкость  
 У скота против волка, голодного врага!
 </details>
+

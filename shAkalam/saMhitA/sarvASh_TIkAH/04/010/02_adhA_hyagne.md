@@ -16,14 +16,48 @@ ChandaH = "पदपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+bhadrásya ← bhadrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+krátoḥ ← krátu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sādhóḥ ← sādhú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+babhū́tha ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, number:SG}
+
+rathī́ḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +168,4 @@ Denn du, o Agni, – warst schöner Thatkraft, – gerechten Sinnes Und hehren O
 Для доброй силы действия  
 Для высокого закона (всегда) был колесничим.
 </details>
+

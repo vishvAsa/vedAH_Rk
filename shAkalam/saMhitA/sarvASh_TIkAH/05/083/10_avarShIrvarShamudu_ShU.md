@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ávarṣīḥ ← √vr̥ṣ- 1 (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+gr̥bhāya ← √gr̥bhⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+varṣám ← varṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ákar ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+átyetavaí ← √i- 1 (root)  
+{case:DAT, number:SG}
+
+dhánvāni ← dhánvan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+u ← u (invariable)  
+{}
+
+ájījanaḥ ← √janⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+bhójanāya ← bhójana- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+kám ← kám (invariable)  
+{}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+avidaḥ ← √vid- 1 (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prajā́bhyaḥ ← prajā́- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Du liessest Ströme regnen, nun halt inne; die trocknen Steppen machtest du durc
 Ты породил растения для питания,  
 И ты нашел молитву (благодарности) от (всех) существ.
 </details>
+

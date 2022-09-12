@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+etā́ni ← eṣá (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+sómārudrā ← somārudra- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+bheṣajā́ni ← bheṣajá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tanū́ṣu ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+muñcátam ← √muc- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+syatam ← √sā- ~ si- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+baddhám ← √bandh- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+énaḥ ← énas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+tanū́ṣu ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +238,4 @@ O Soma-Rudra, alle Arzeneien, die wohlbekannten, legt in unsre Leiber; Macht fre
 Развяжите, освободите нас от содеянного греха,  
 Который привязан к нашим телам!
 </details>
+

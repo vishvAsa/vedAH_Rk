@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+ádadhāt ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jyótiṣi ← jyótis- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ásr̥jat ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mádhunā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mádhūni ← mádhu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mánma ← mánman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śūṣám ← śūṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+avāci ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+brahmakŕ̥taḥ ← brahmakŕ̥t- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+br̥hádukthāt ← br̥háduktha- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Der du ins Licht des Lichtes Glanz gesetzt hast, und Süssigkeit mit Süssigkeit
 Поэтому Брихадуктхой-творцом священного слова было исполнено  
 Произведение как приятная бодрящая песнь для Индры
 </details>
+

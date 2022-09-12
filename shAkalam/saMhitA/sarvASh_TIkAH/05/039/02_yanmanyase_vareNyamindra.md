@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mányase ← √man- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+váreṇyam ← váreṇya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dyukṣám ← dyukṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+vidyā́ma ← √vid- 2 (root)  
+{number:PL, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+ákūpārasya ← ákūpāra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +180,7 @@ spreads itself out longest, also an image of unbounded expanse. The means of exp
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/039/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/039/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 In the refrain (1-3cd) the pl. ‘bulls’ (vṛ́ṣabhiḥ) accompanying Indra were identified with the Maruts already by Sāyaṇa. Since this section culminates in the Midday Pressing (4d), this identification makes sense, since that pressing is shared by Indra and the Maruts.
@@ -168,3 +211,4 @@ Was, Indra, dir vorzüglich dünkt, das himmlische, das bringe her; Wir mögen d
 Мы хотели бы тебя таким узнать:  
 Безграничным в дарении!
 </details>
+

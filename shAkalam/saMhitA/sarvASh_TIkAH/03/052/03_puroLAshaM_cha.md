@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D
+#### Morph
+ca ← ca (invariable)  
+{}
+
+ghásaḥ ← √ghas- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+puroḷā́śam ← puroḷā́ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+joṣáyāse ← √juṣ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+vadhūyúḥ ← vadhūyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yóṣaṇām ← yóṣaṇā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +163,4 @@ Verzehre unsern Kuchen, und an unsern Liedern habe Ge- fallen, wie an der Braut 
 И наслаждайся нашими хвалебными песнями,  
 Словно тот, кто хочет женщину, – молодой женщиной!
 </details>
+

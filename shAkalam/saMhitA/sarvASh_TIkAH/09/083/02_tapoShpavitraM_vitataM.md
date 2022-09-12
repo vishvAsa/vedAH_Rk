@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tápoḥ ← tápu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vítatam ← √tan- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+asthiran ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+śócantaḥ ← √śuc- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+tántavaḥ ← tántu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ávanti ← √avⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pavītā́ram ← pavītár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+cétasā ← cétas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pr̥ṣṭhám ← pr̥ṣṭhá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tiṣṭhanti ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Am Himmel ist des heissen Trankes Netz gespannt, und seine lichten Fäden haben 
 Помогают очистителю его быстрые (кони).  
 Мысленно они восходят на спину неба.
 </details>
+

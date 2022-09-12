@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhárante ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+kīstā́saḥ ← kīstá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+manānā́ḥ ← √man- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+nivídaḥ ← nivíd- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śáṁsanti ← √śaṁs- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́t ← ā́t (invariable)  
+{}
+
+bravāma ← √brū- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+satyā́ni ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+yatathaḥ ← √yat- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +209,7 @@ rather than in its usual meaning ‘no one’, since the verb yatathaḥ is 2nd 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/067/09-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/067/09-11.md">
 <details open><summary><h2>09-11 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these vss. seem to concern themselves with rival sacrificers.
@@ -183,3 +241,4 @@ Wenn nun die Sänger ihre Stimm' erheben und andachtsvoll im Chor nach Vorschrif
 Это мы должны произносить вам истинные гимны:  
 Вы не сопоставимы с богами по величию!
 </details>
+

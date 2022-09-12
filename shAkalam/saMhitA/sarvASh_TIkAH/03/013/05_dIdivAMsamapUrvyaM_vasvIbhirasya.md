@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápūrvyam ← ápūrvya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dīdivā́ṁsam ← √dī- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vásvībhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indhate ← √idh- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ŕ̥kvāṇaḥ ← ŕ̥kvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+viśpátim ← viśpáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +162,4 @@ Ihn, welcher strahlt wie nie zuvor durch dieses Mannes frommes Werk, Ihn, Agni, 
 Зажигают исполнители гимнов,  
 Хотара, господина племен.
 </details>
+

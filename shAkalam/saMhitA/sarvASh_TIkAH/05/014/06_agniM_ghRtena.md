@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vāvr̥dhuḥ ← √vr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+stómebhiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+viśvácarṣaṇim ← viśvácarṣaṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svādhī́bhiḥ ← svādhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vacasyúbhiḥ ← vacasyú- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +135,4 @@ Mit Schmalz und Liedern haben sie Agni gestärkt, den Menschenhort, Mit andachts
 Восхвалениями, внимательными,  
 Красноречивыми, (его,) принадлежащего всем народам.
 </details>
+

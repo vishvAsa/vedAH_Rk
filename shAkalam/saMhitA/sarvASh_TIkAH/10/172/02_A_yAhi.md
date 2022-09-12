@@ -14,13 +14,35 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vásvyā ← vásu- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+jārayánmakhaḥ ← jārayánmakha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máṁhiṣṭhaḥ ← máṁhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sudā́nubhiḥ ← sudā́nu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,3 +125,4 @@ Mit frohem Sinne komme her; freigiebig naht mit Spendern Dschārajanmakha.
 Приходи с добрым намерением,  
 Как охотнее всех дающий, пробуждающий щедрых вместе с изливающими дары (богами)!
 </details>
+

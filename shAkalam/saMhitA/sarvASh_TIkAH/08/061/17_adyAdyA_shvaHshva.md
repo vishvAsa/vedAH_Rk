@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyā́dya ← adyá (invariable)  
+{}
+
+śváḥ-śvaḥ ← śvás (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+paré ← pára- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+trā́sva ← √trā- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+áhā ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+jaritr̥̄́n ← jaritár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+satpate ← sátpati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+dívā ← dívā (invariable)  
+{}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rakṣiṣaḥ ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Uns Sänger schütz, o Indra, heut und morgen und in Zukunft auch, Und alle Tage
 И все дни, о благой повелитель, защищай нас,  
 Певцов, – днем и ночью!
 </details>
+

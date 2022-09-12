@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+carṣaṇī́ḥ ← carṣaṇí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+páñca ← páñca- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dáme-dame ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+niṣasā́da ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+gr̥hápatiḥ ← gr̥hápati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yúvā ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +142,4 @@ Der bei den fünf Geschlechtern sich in jedem Hause niederliess, Als weiser, jun
 (Кто) устроился в каждом доме,  
 Поэт, домохозяин, юноша!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+abhimātiṣā́haḥ ← abhimātiṣáh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśvāsaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+índrāviṣṇū ← índrāvíṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sadhamā́daḥ ← sadhamád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vahantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+hávanā ← hávana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+juṣéthām ← √juṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:MED}
+
+matīnā́m ← matí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śr̥ṇutam ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +194,4 @@ Euch Feindbezwinger mögen her die Rosse, o Indra-Vischnu, die Genossen fahren; 
 Наслаждайтесь всеми призывами (наших поэтических) мыслей!  
 Прислушайтесь к священным словам и моим песням!
 </details>
+

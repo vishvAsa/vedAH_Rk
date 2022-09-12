@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+akarma ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+aśvinau ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+átakṣāma ← √takṣ- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+bhŕ̥gavaḥ ← bhŕ̥gu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+amr̥kṣāma ← √mr̥j- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+márye ← márya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+yóṣaṇām ← yóṣaṇā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+nítyam ← nítya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sūnúm ← sūnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tánayam ← tánaya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Dies Preislied haben wir gemacht euch Rittern, gezimmert wie die Künstler einen
 Мы привели ее, как женщину для юного мужа,  
 Держа, как собственного сына, продолжателя рода.
 </details>
+

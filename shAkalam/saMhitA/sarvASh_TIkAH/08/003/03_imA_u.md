@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+purūvaso ← purūvásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+vardhantu ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+pāvakávarṇāḥ ← pāvakávarṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vipaścítaḥ ← vipaścít- (nominal stem)  
+{case:NOM, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+stómaiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +188,4 @@ Und diese meine Lieder lass, o reicher Herr, dich kräftigen; Die flammenfarb'ge
 Светлого вида, чистые прозорливцы  
 Приветствовали тебя восхвалениями.
 </details>
+

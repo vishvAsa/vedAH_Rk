@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+mātáraḥ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śíśum ← śíśu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svásāraḥ ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jajñānám ← √janⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:MED}
+
+jényam ← jénya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+návam ← náva- 2 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vipaścítam ← vipaścít- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+divyám ← divyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gandharvám ← gandharvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nr̥cákṣasam ← nr̥cákṣas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rājáse ← √rāj- (root)  
+{case:DAT, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +195,7 @@ Who the seven sisters (bzw. mothers) are is a matter of dispute: Sāyaṇa.: the
 On the expression in the last pāda, see similar phrases in vss. 5 and 28.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/34-36.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/34-36.md">
 <details open><summary><h2>34-36 ...{Loading}...</h2></summary>
 
 Nothing much in the way of internal unity or external connection, beyond the obvious soma themes.
@@ -172,3 +224,4 @@ Die Mütter, sieben Schwestern eilen hin zum Spross, dem neugebornen, herrlichen
 
 -ru-
 </details>
+

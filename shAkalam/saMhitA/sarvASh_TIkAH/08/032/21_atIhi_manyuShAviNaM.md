@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+áti ← áti (invariable)  
+{}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+manyuṣāvíṇam ← manyuṣāvín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suṣuvā́ṁsam ← √su- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+upā́raṇe ← upā́raṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+piba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rātám ← √rā- 1 (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+sutám ← √su- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,3 +133,4 @@ An dem, der ungern Soma presst und unrecht keltert, geh vorbei Und trink den hie
 Кто выжал (его) неверно!  
 Пей этого поднесенного сому!
 </details>
+

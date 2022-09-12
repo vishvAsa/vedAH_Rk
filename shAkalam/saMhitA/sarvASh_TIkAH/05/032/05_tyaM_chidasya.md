@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+krátubhiḥ ← krátu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+níṣattam ← √sad- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+amarmáṇaḥ ← amarmán- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+márma ← márman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vidát ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+mádasya ← máda- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prábhr̥tā ← prábhr̥ti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sukṣatra ← sukṣatrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dhā́ḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+harmyé ← harmyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+támasi ← támas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yúyutsantam ← √yudh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Der sich nach seinem Willen niedersetzte, der hiebfest schien, den traf er in di
 Когда ты, о благой властитель, после принесения (тебе) хмельного питья  
 Устроил его, рвущегося в бой, во мраке, в прочном доме.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átra ← átra (invariable)  
+{}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+paspr̥dhānā́saḥ ← √spr̥dh- (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+devayántīḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mandrā́ḥ ← mandrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+arvā́cī ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+pathyā̀ ← pathyā̀- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śárman ← śárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sumataú ← sumatí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+syā́ma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +224,4 @@ Es eilten zu dir diese Lieder eifernd, zu Göttern strebend, die dich hier erfre
 Да обратится к нам путь твоего богатства!  
 Да будем мы у тебя в милости, о Индра, (и) под твоей защитой!
 </details>
+

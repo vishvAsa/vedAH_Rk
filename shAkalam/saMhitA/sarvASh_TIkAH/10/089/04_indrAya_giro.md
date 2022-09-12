@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ániśitasargāḥ ← ániśitasarga- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+budhnā́t ← budhná- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+īrayam ← √īr- (root)  
+{number:SG, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+ságarasya ← ságara- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ákṣeṇa ← ákṣa- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+cakríyā ← cakrī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tastámbha ← √stambhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+víṣvak ← víṣvañc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +207,4 @@ Dem Indra will ich Lieder nun ergiessen in stetem Strom, wie Wasser aus dem Meer
 (Для того,) кто (своими) силами установил врозь  
 Небо и землю, словно колеса с помощью оси.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+valaṁrujáḥ ← valaṁrujá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trakhādáḥ ← vr̥trakhādá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajáḥ ← ajá- 1 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+darmáḥ ← darmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purā́m ← púr- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+abhisvaré ← abhisvaré (invariable)  
+{}
+
+háryoḥ ← hári- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+ráthasya ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sthā́tā ← sthā́tar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ārujáḥ ← ārujá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dr̥ḷhā́ ← √dr̥h- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +195,4 @@ Der Vritra schlägt, den Vala tilgt, der Burgen bricht, die Wasser treibt, Den W
 Возница колесницы, погонщик пары буланых коней –  
 Индра проломил даже твердыни.
 </details>
+

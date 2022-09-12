@@ -17,15 +17,94 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+jātā́ḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+svayám ← svayám (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+bruváte ← √brū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+evayā́marut ← evayā́marut- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vidmánā ← vidmán- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ādhŕ̥ṣe ← √dhr̥ṣ- (root)  
+{case:DAT, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+dānā́ ← dāmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádhr̥ṣṭāsaḥ ← ádhr̥ṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádrayaḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,3 +297,4 @@ Die geboren sind in Herrlichkeit und die nun selbst durch Weisheit sich kundgebe
 По щедрости, величию она у них,  
 Словно неодолимые горы.
 </details>
+

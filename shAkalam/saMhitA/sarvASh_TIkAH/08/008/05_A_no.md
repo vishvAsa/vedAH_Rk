@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+úpaśrutī ← úpaśruti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+áśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+stómasya ← stóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+svā́hā ← svā́hā (invariable)  
+{}
+
+vardhanā ← várdhana- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+kavī ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +193,4 @@ Uns zu erhören kommt herbei, o Ritter, zu dem Somatrunk; Heil euch! ihr Segner 
 Свага! – о растущие от восхваления.  
 О два мужа-поэта, по заботам (о нас вы) впереди (других).
 </details>
+

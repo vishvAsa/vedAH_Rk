@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āyejé ← √yaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+hótrām ← hótrā- 1 (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mánuḥ ← mánu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prathamā́m ← prathamá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yébhyaḥ ← yá- (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+hótr̥bhiḥ ← hótar- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sámiddhāgniḥ ← sámiddhāgni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ábhayam ← ábhaya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ādityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yachata ← √yam- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+karta ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sugā́ ← sugá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+supáthā ← supátha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +240,4 @@ Ihr, denen Manu weihte einst den ersten Guss, mit sieben Priestern willig bei de
 
 -ru-
 </details>
+

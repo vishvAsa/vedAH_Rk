@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+jánanā ← jánana- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sómāpūṣaṇā ← somāpūṣán- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jánanā ← jánana- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+jánanā ← jánana- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+gopaú ← gopā́- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+jātaú ← √janⁱ- (root)  
+{case:ACC, gender:M, number:DU, non-finite:PPP}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+akr̥ṇvan ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nā́bhim ← nā́bhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +206,4 @@ O Soma, Puschan, ihr des Reichthums Zeuger, des Himmels Zeuger und der Erde Zeug
 (Как только) вы родились (и стали) пастухами всего мироздания,  
 Боги сделали (вас) пупом бессмертия.
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aírayaḥ ← √īr- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+āmā́su ← āmá- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+pakvám ← pakvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rohayaḥ ← √ruh- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gharmám ← gharmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sā́man ← sā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tapata ← √tap- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gírvaṇase ← gírvaṇas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+júṣṭam ← júṣṭa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +192,4 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 Как котелок с молоком, раскаляйте в мелодии с помощью гимнов  
 Высокий (напев), приятный для любящего хвалебные песни!
 </details>
+

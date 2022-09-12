@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ihá ← ihá (invariable)  
+{}
+
+napātaḥ ← nápat- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śavasaḥ ← śávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yāta ← √yā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+bhūta ← √bhū- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+saúdhanvanāḥ ← saudhanvaná- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ratnadhéyam ← ratnadhéya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sávane ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+gámantu ← √gam- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádāsaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ O kommet her, ihr Söhne des Sudhanvan, ihr kraftentsprossnen, seid nicht fern, 
 Ведь при этом выжимании (происходит) раздача ваших сокровищ.  
 Пусть ваши опьяняющие соки направятся за Индрой!
 </details>
+

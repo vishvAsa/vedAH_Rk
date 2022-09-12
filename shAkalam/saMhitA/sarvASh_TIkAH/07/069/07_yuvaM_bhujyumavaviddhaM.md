@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávaviddham ← √vyadh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+bhujyúm ← bhujyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+árṇasaḥ ← árṇas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ásridhānaiḥ ← ásridhāna- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ūhathuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+aśramaíḥ ← aśramá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+avyathíbhiḥ ← avyathí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+patatríbhiḥ ← patatrín- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+daṁsánābhiḥ ← daṁsánā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+pāráyantā ← √pr̥- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +179,4 @@ Den Bhudschju fuhrt ihr, den ins Meer gestossnen, aus Flut empor mit euren Flüg
 Не сбивающихся с пути, неутомимых, незаблуждающихся,  
 (Вы,) спасающие (своими) чудесными силами, о Ашвины.
 </details>
+

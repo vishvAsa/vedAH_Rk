@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+īḷitáḥ ← √īḍ- ~ √īḷ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+citrám ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ráthebhiḥ ← rátha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sukhaíḥ ← sukhá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +166,4 @@ Gepriesner Agni fahre du den lichten, lieben Indra her Auf schnellen Wagen zum G
 Сюда Индру, яркого, любимого,  
 На легкоходных колесницах – для поддержки!
 </details>
+

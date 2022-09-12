@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+páteḥ ← páti- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yathāvaśám ← yathāvaśám (invariable)  
+{}
+
+kariṣyatáḥ ← √kr̥- (root)  
+{case:ACC, gender:M, number:SG, tense:FUT, voice:ACT}
+
+kárma ← kárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+manyúḥ ← manyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhajat ← √bhaj- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+divé ← dyú- ~ div- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+udā́jat ← √aj- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asarat ← √sr̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pŕ̥thak ← pŕ̥thak (invariable)  
+{}
+
+rītíḥ ← rītí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +255,4 @@ Ihm, dem Gebets Herrn, ward nach Wunsch der Zorn zur That als er zu thun das gro
 Тот (пыл), который выгнал коров и распределил (их) в небе.  
 Мощно, словно великий поток, (стадо) растеклось в разные стороны.
 </details>
+

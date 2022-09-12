@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+átas ← átas (invariable)  
+{}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+rā́jānam ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sukrato ← sukrátu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+avyathíḥ ← avyathí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+suparṇáḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,7 +139,7 @@ you, the king, to wealth, o strong-willed one.
 The átaḥ ‘from there’ that begins this vs. was used by Hillebrandt as evidence for the mythological connection between vss. 2 and 3, persuasively in my view, contra Oldenberg
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/048/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/048/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 The phrases suparṇáḥ … bharat (3c) “the falcon brought” and vír bharat (4c) “the bird brought” are directly reminiscent of IV.26, where the 3rd sg. (a)bharat occurs 4x in 4 vss. (4-7), incl. 4cd suparṇáḥ … bhárat and 5a bhárat … víḥ, with the same subjects as here.</details>
@@ -135,3 +166,4 @@ Von dort her brachte dich, den Schatz, den Himmelskönig, mächtiger! Der Adler,
 
 -ru-
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+avasiṣṭa ← √vas- 2 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+hinvānáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ádhukṣan ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ávibhiḥ ← ávi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sīm ← sīm (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+práhutam ← √hu- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+svā́hā ← svā́hā (invariable)  
+{}
+
+váṣaṭkr̥tam ← váṣaṭkr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+hotrā́t ← hotrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ī́śiṣe ← √īś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +234,4 @@ In Milch und Wasser hat dein Trank sich eingehüllt; die Männer melkten durch d
 Пей, о Индра – Свага! – возлитого (и) приготовленного под (возглас) Вашат!  
 Сому из кубка хотара, (ты,) кто имеет (на это) право первым!
 </details>
+

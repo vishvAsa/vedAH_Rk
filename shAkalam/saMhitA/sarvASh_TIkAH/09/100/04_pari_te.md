@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jigyúṣaḥ ← √ji- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yathā ← yathā (invariable)  
+{}
+
+dhā́rā ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhāvati ← √dhāv- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+avyáyam ← avyáya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ráṁhamāṇā ← √raṁh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+sānasíḥ ← sānasí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́ram ← vā́ra- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ Es dringet deines Saftes Strom, gleich wie des Siegers Heer hindurch, Hineilend 
 Спеша через сито из овечьей шерсти,  
 Как скакун-захватчик награды.
 </details>
+

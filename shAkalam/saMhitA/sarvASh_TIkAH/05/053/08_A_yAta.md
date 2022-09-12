@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yāta ← √yā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+amā́t ← amā́t (invariable)  
+{}
+
+antárikṣāt ← antárikṣa- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+áva ← áva (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+sthāta ← √sthā- (root)  
+{number:PL, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,7 +146,7 @@ There is also the question of what the lexeme áva √sthā means here.
 Generally it means ‘descend’, often into a river or the like (see Renou ad loc.). But that doesn’t make sense here: if the Maruts are to come here from heaven or the midspace, as they are invited to in ab, they will have to descend. If we take the áva seriously, perhaps the idea is that the Maruts shouldn’t perform their descent somewhere else than here-- at a distance -- perhaps into the rivers named in the next vs. But this seems overly complex.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/053/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/053/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 Note the phonological modulation of #ā́... (8a) to #mā́va...(8c) to #mā́vo (9a) / mā́vaḥ (9bc). The vaḥ then migrates to the end of 9d.
@@ -139,3 +176,4 @@ Vom Himmel kommt, o Maruts her, aus weiter Luft, von nahem Ort, nicht bleibet in
 Из воздушного пространства, а также из дому!  
 Не задерживайтесь в далеких краях!
 </details>
+

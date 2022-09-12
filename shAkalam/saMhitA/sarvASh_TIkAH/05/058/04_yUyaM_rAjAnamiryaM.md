@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+íryam ← írya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rā́jānam ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+janayatha ← √janⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vibhvataṣṭám ← vibhvataṣṭá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajatrāḥ ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+bāhújūtaḥ ← bāhújūta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+muṣṭihā́ ← muṣṭihán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuṣmát ← tvám (pronoun)  
+{case:ABL, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sádaśvaḥ ← sádaśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvī́raḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuṣmát ← tvám (pronoun)  
+{case:ABL, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +225,4 @@ Ihr schafft dem Volke einen kräft'gen König, den Vibhvan formte, o ihr ehrenwe
 От вас идет он, убивающий кулаком, быстрый руками,  
 От вас, о Маруты, обладатель прекрасных коней, прекрасных героев.
 </details>
+

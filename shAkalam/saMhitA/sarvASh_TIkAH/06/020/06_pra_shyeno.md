@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+aṁśúm ← aṁśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+madirám ← madirá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dāsásya ← dāsá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mathāyán ← √mathⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+námuceḥ ← námuci- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+āvat ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+námīm ← námī- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sāpyám ← sāpyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sasántam ← √sas- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+iṣā́ ← íṣ- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pr̥ṇák ← √pr̥c- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+svastí ← svastí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +222,4 @@ Als ihm der Adler zugeführt den Rauschtrank, riss ab das Haupt er Namutschi des
 Он помог спящему Нами Сапья,  
 Он задарил его богатством, жертвенной усладой, счастьем.
 </details>
+

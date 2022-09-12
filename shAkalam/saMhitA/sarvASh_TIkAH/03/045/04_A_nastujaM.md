@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tújam ← túj- 2 (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áṁśam ← áṁśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pratijānaté ← √jñā- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+aṅkī́ ← aṅkín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhūnuhi ← √dhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+pakvám ← pakvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+phálam ← phála- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥kṣám ← vr̥kṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sampā́raṇam ← sampā́raṇa- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Uns bringe raschen Reichthum her, wie Erbtheil dem, der sein ihn nennt, Und sch�
 Стряхни, как спелый плод крюком с дерева,  
 О Индра, спасительное богатство!
 </details>
+

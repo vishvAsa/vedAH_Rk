@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhiṣā́ ← dhiṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dhiṣaṇyántaḥ ← √dhiṣaṇy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+saraṇyā́n ← √saraṇy- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yádi ← yádi (invariable)  
+{}
+
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+auśijásya ← auśijá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+góhe ← góha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sádantaḥ ← √sad- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+duróṣāḥ ← duróṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pāstyásya ← pāstyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+saṁváraṇeṣu ← saṁváraṇa- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+váhniḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +198,7 @@ On the problematic duróṣāḥ (here apparently an -s-stem, as opposed to the 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 As discussed in the published introduction, the next few vss. are very challenging; they have received multiple interpretations, which can’t be discussed in detail here.
@@ -180,3 +232,4 @@ Wenn andachtsvoll die Andachtreichen eilen, den Stein umlagernd im Versteck des 
 То (должен был принять участие?) трудноодолимый хотар дома (?),  
 (Тот), кто наш великий возница (жертвы) в укрытых местах.
 </details>
+

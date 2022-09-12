@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ádhriguḥ ← ádhrigu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráthebhiḥ ← rátha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yā́tā ← yā́tar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pŕ̥tanānām ← pŕ̥tanā- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+tarutā́ ← tarutár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvāsām ← víśva- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+gr̥ṇé ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+jyéṣṭhaḥ ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +173,4 @@ Ihn, der der Menschen König ist, auf Wagen unaufhaltsam fährt, Den Schlachtens
 
 -ru-
 </details>
+

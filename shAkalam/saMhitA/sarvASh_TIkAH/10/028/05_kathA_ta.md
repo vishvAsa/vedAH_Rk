@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ciketam ← √cit- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRF, voice:ACT}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+gŕ̥tsasya ← gŕ̥tsa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pā́kaḥ ← pā́ka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tavásaḥ ← tavás- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+r̥tuthā́ ← r̥tuthā́ (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+vocaḥ ← √vac- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+árdham ← árdha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhū́ḥ ← dhúr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kṣemyā́ ← kṣemyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +240,4 @@ Wie soll ich dies dein Wort doch recht verstehen, ich Thor, des weisen, kräftig
 В какую сторону, о щедрый, (направлено) твое мирное дышло.  
 Индра:
 </details>
+

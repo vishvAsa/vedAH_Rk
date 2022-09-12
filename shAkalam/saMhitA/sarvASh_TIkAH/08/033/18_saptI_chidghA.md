@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+cit ← cit (invariable)  
+{}
+
+gha ← gha (invariable)  
+{}
+
+madacyútā ← madacyút- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sáptī ← sápti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mithunā́ ← mithuná- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vahataḥ ← √vah- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhū́ḥ ← dhúr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+úttarā ← úttara- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +153,7 @@ In my interpretation Indra’s speech continues here, and having admitted the dr
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/033/16-19.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/033/16-19.md">
 <details open><summary><h2>16-19 ...{Loading}...</h2></summary>
 
 As discussed in the published introduction, in my view this strange pendant to the hymn is an oblique attack on what I consider a late RVic ritual innovation, the introduction of the Patnī, Sacrificer’s Wife, as a required role in standard ritual. For both general discussion of this situation and some detailed consideration of passages throughout the RV, including this one, that fight this doctrinal battle, see Jamison 2011 “The Secret Lives of Texts” (Presidential Address, American Oriental Society 2010; JAOS 131: 1-7) and “‘Sacrificer's Wife’ in the Rig Veda: Ritual Innovation?” (Brereton and Proferes, eds., Creating the Veda, Living the Veda: Selected Papers from the 13th World Sanskrit Conference, 19-30). The division of speakers, again in my view, is that the poet, who opposes the new ritual model, speaks the first (16) and last (19) verses, while 17-18 are put in the mouth of Indra, who is a proponent.
@@ -149,3 +186,4 @@ Die beiden gepaarten Rosse, von Rausch erregt, ziehen den Wagen; das Joch liegt 
 Везет (вместе) колесницу,  
 Но дышло выше жеребца.
 </details>
+

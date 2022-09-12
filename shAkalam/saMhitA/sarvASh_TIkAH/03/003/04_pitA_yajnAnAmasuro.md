@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vipaścítām ← vipaścít- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yajñā́nām ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+vāghátām ← vāghát- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vayúnam ← vayúna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vimā́nam ← vimā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhū́rivarpasā ← bhū́rivarpas- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+viveśa ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bhandate ← √bhand- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+dhā́mabhiḥ ← dhā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purupriyáḥ ← purupriyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Der Opfer Vater und der weisen Dichter Geist der Beter Richtschnur, Agni, und ih
 Он вошел в оба многообразных мира.  
 Горячо любимый поэт восхваляется за (свои) свойства.
 </details>
+

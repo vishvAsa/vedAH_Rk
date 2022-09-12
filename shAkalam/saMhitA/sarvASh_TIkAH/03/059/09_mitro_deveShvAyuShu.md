@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+āyúṣu ← āyú- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vr̥ktábarhiṣe ← vr̥ktábarhis- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+akar ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+iṣṭávratāḥ ← iṣṭávrata- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +153,4 @@ Den Göttern und den Menschen lieb, verleiht er Kraft, so viel man wünscht, Dem
 Для человека, разложившего жертвенную солому,  
 Создал подкрепления, соответствующие обетам, которых пожелали.
 </details>
+

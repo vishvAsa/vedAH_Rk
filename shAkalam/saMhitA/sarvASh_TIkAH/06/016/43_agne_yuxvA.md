@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+yukṣvá ← √yuj- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+áśvāsaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sādhávaḥ ← sādhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áram ← áram (invariable)  
+{}
+
+manyáve ← manyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+váhanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +171,4 @@ O Agni, schirr die Rosse an, die dein sind, Gott, die richtig gehn, Sie fahren d
 Коней, о бог, которые мчатся прямо к цели,  
 (И) везут (жертвы) в соответствии с рвением (жертвователей)!
 </details>
+

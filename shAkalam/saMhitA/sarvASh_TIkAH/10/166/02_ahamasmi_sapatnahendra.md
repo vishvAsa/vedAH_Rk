@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+asmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+sapatnahā́ ← sapatnahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ákṣataḥ ← ákṣata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áriṣṭaḥ ← áriṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+adhás ← adhás (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+padóḥ ← pád- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+sapátnāḥ ← sapátna- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhíṣṭhitāḥ ← √sthā- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+sárve ← sárva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ Ich bin's, der Nebenbuhler schlägt, wie Indra sicher, unverletzt, Die Nebenbuhl
 Все эти соперники  
 Раздавлены у меня под ногами.
 </details>
+

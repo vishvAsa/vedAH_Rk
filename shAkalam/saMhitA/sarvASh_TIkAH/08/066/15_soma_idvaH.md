@@ -16,14 +16,69 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+bibhītana ← √bhī- (root)  
+{number:PL, person:2, mood:INJ, tense:PRF, voice:ACT}
+
+kálayaḥ ← kalí- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+ayati ← √i- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+dhvasmā́ ← dhvasmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+ayati ← √i- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+eṣáḥ ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+svayám ← svayám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +201,4 @@ Der Soma sei euch gepresst; fürchtet euch nicht, o Kali's, fort geht diese Verd
 Пусть разойдется это помрачение!  
 Само собой пусть оно разойдется!
 </details>
+

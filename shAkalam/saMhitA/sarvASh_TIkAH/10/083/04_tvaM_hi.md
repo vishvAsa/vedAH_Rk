@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhíbhūtyojāḥ ← abhíbhūtyojas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+manyo ← manyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+abhimātiṣāháḥ ← abhimātiṣāhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhā́maḥ ← bhā́ma- 2 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svayambhū́ḥ ← svayambhū́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáhāvān ← sáhāvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáhuriḥ ← sáhuri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvácarṣaṇiḥ ← viśvácarṣaṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmā́su ← ahám (pronoun)  
+{case:LOC, number:PL}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +175,4 @@ Denn deine Kraft ist unbezwinglich, Manju, selbsteigner Grimm bist du, den Feind
 
 -ru-
 </details>
+

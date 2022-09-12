@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+ārā́t ← ārā́t (invariable)  
+{}
+
+emi ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+purāṇám ← purāṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sánā ← sána- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+jāmí ← jāmí- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+janitúḥ ← janitár- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+panitā́raḥ ← panitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+antár ← antár (invariable)  
+{}
+
+pathí ← pánthā- ~ path- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tasthúḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+uraú ← urú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vyùte ← √u- 2 (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Das alte stets erwäg' ich aus der Ferne, dies unser Stammen von dem grossen Vat
 (Там,) где боги, восхищаясь (им) по (своему) обычаю,  
 Пребывают между (ним и людьми) на своем широком особом пути.
 </details>
+

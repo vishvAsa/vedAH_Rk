@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abādhata ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+evá ← evá (invariable)  
+{}
+
+jajñānáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+apaśyat ← √paś- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+paúṁsyam ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ráṇam ← ráṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+ávr̥ścat ← √vr̥śc- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sasyádaḥ ← sasyád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sr̥jat ← √sr̥j- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ástabhnāt ← √stambhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+nā́kam ← nā́ka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥thúm ← pr̥thú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svapasyáyā ← svapasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +218,4 @@ Als er geboren, stiess der Held die Feinde fort und sah sogleich sich um nach Ma
 Он расколол скалу, выпустил течь потоки,  
 Он искусно укрепил широкий небосвод.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+váreṇyaḥ ← váreṇya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amŕ̥tāya ← amŕ̥ta- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+hūyámānaḥ ← √hū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+matsva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dāśúṣaḥ ← dāśváṁs- (nominal stem)  
+{case:GEN, number:SG}
+
+gr̥hé ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+marjayan ← √mr̥j- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+bhŕ̥gavaḥ ← bhŕ̥gu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rurucuḥ ← √ruc- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+stómebhiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +206,4 @@ Der erste Bote bist du, den man gern erwählt, berausche dich gerufen zu dem Gö
 Тебя начищают Маруты в доме почитателя (твоего).  
 Тебя Бхригу восхвалениями заставили ярко засверкать.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ātápaḥ ← ātáp- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+várethe ← √vr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+átraye ← átri- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vádate ← √vadⁱ- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+valgú ← valgú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ánti ← ánti (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhūtu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+sát ← √as- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Des Feuers Gluten wehret ihr dem Atri ab, der lieblich singt; Es sei uns eure H�
 Вы отводите огонь, чтоб он не жег.  
 Пусть ваша помощь будет рядом!
 </details>
+

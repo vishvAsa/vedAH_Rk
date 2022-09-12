@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahā́nām ← mahá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pūrvyáḥ ← pūrvyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ānaje ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+krátubhiḥ ← krátu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+venáḥ ← vená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dvā́rā ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+mánuḥ ← mánu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ānajé ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +197,4 @@ Der Freund der grossen Götter wird zuerst mit Geisteskraft gesalbt, Dess Haus u
 (Тот,) чьи врата (еще) Ману – отец  
 Помазал молитвами среди богов.
 </details>
+

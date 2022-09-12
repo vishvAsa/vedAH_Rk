@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+huvema ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maghávānam ← maghávan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śunám ← śuná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+bháre ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+nŕ̥tamam ← nŕ̥tama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jasātau ← vā́jasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+samátsu ← samád- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+śr̥ṇvántam ← √śru- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+dhánānām ← dhána- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+ghnántam ← √han- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+saṁjítam ← saṁjít- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +193,4 @@ Den mächt'gen Indra rufen wir zum Heil uns, den männlichsten in diesem Kampf u
 (Бога,) слышащего (нас), грозного-для поддержки в сражениях,  
 Убивающего врагов, завоевывающего награды!
 </details>
+

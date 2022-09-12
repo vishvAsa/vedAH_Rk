@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+parás ← parás (invariable)  
+{}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+triṁśáti ← triṁśát- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ásadan ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áha ← áha (invariable)  
+{}
+
+asanan ← √sanⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+vidán ← √vid- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Die dreiunddreissig Götter, die sich niedersetzten auf die Streu, Sie fanden un
 Уселись на жертвенную солому.  
 Они, конечно, нашли( там, что надо) и в самом деле они (все) получили.
 </details>
+

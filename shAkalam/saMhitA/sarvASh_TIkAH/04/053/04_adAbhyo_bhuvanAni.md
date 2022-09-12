@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádābhyaḥ ← ádābhya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pracā́kaśat ← √kāś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rakṣate ← √rakṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asrāk ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bāhū́ ← bāhú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prajā́bhyaḥ ← prajā́- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+ájmasya ← ájma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhr̥távrataḥ ← dhr̥távrata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rājati ← √rāj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +200,4 @@ Die Wesen rings beschauend der untrügliche Gott Savitar bewacht die festen Ordn
 Он простер руки ко (всем) существам в мире.  
 Твердо придерживаясь обета, он правит великим путем.
 </details>
+

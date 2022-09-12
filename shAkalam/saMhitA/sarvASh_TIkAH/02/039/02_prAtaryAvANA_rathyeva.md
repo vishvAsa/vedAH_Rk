@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+iva ← iva (invariable)  
+{}
+
+prātaryā́vāṇā ← prātaryā́van- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rathyā̀ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vīrā́ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ajā́ ← ajá- 2 (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+sacethe ← √sac- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+váram ← vára- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yamā́ ← yamá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+méne ← ménā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+śúmbhamāne ← √śubh- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dámpatī ← dámpati- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+jáneṣu ← jána- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+kratuvídā ← kratuvíd- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Die ihr frühmorgiens kommt wie zwei wagenlenkende Männer, geht wie zwei gepaar
 Красуясь телом, как две наложницы,  
 Вдохновляя людей, как два домохозяина.
 </details>
+

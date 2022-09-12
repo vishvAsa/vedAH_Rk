@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ráthānām ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+senānī́ḥ ← senānī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gavyán ← √gavy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+hárṣate ← √hr̥ṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sénā ← sénā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhadrā́n ← bhadrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+indrahavā́n ← indrahavá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kr̥ṇván ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sákhibhyaḥ ← sákhi- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+datte ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+rabhasā́ni ← rabhasá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vástrā ← vástra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Voran den Wagen geht des Heeres Führer, der Held voll Kampflust und es freut se
 Делая призывы Индры удачными для друзей,  
 Сома надевает на себя яркие одежды.
 </details>
+

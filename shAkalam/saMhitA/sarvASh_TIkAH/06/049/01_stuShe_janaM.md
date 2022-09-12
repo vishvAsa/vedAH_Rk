@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jánam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+návyasībhiḥ ← návyas- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+stuṣé ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+suvratám ← suvratá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+mitrā́váruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sumnayántā ← √sumnay- (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gamantu ← √gam- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+śruvantu ← √śru- (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sukṣatrā́saḥ ← sukṣatrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Mit neuen Liedern preis' ich das sehr weise Geschlecht und Mitra-Varuna, die hol
 Пусть (все) они придут, пусть здесь прислушаются эти  
 Добрые властелины, Варуна, Митра, Агни!
 </details>
+

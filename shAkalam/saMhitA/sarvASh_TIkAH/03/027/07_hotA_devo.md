@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+māyáyā ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+purástāt ← purástāt (invariable)  
+{}
+
+pracodáyan ← √cud- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vidáthāni ← vidátha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +142,4 @@ Vor schreitet weisheitsvoll der Gott, der Priester der unsterbliche, Und treibt 
 Он идет впереди благодаря (своей) чудесной силе,  
 Приводя в возбуждение места жертвенных раздач.
 </details>
+

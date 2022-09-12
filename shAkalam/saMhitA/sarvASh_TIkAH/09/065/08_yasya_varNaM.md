@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+madhuścútam ← madhuścút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+várṇam ← várṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hárim ← hári- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hinvánti ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -95,7 +123,7 @@ the drop for Indra to drink,
 The construction of the first hemistich is somewhat tricky. The rel. yásya must refer to soma, with the rel. cl. hanging off vs. 7. In pāda a the yásya qualifies várṇam ‘color’, which serves as obj. of hinvánti in b. “They impel his color” is a slightly odd locution, and it becomes odder in b, with the acc. hárim. The stem hári- is a color term and could qualify várṇa- (“tawny color”), but it also is regularly applied directly to soma (e.g., in vss. 12 and 25 of this hymn) and also identifies Indra’s horse(s). Geldner (n. 8b) cleverly suggests that hári- is to be read twice, with the second reading an unmarked simile referring to a horse of the appropriate color. This provides a more appropriate obj. for hinvánti (“they impel (like) a fallow bay (horse)”), while connecting the putative horse with the “tawny color” (várṇam … hárim) that is the 1st obj. of the verb.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Again no signs of unity.
@@ -124,3 +152,4 @@ Dess helle Flut von Honig trieft, dess Ross sie spornen durchs Gestein, Zum Trun
 
 -ru-
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhānávaḥ ← bhānú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhā́r̥jīkam ← bhā́r̥jīka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+br̥hántaḥ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sacanta ← √sac- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+śukrā́ḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vidyútaḥ ← vidyút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+antár ← antár (invariable)  
+{}
+
+gúhā ← gúhā (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+sádasi ← sádas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+vr̥ddhám ← √vr̥dh- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+apāré ← apārá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dúhānāḥ ← √duh- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+ūrvé ← ūrvá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Dem lichtdurchstrahlten strebten lichte Götter, dem Agni zu wie glanzbegabte Bl
 За (тем,) кто словно тайно вырос в своем сиденье,  
 В безбрежном океане (следуют коровы,) доящиеся амритой.
 </details>
+

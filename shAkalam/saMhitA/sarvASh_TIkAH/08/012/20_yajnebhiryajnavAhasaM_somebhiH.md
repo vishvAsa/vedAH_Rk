@@ -15,14 +15,42 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+yajñávāhasam ← yajñavāhas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñébhiḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+somapā́tamam ← somapā́tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómebhiḥ ← sóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hótrābhiḥ ← hótrā- 1 (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāvr̥dhuḥ ← √vr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ānaśuḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Durch Opfer ihn, der Opfer liebt, durch Soma ihn, der Soma schlürft, Durch Lied
 Соками сомы – (того,) кто больше всех пьет сому,  
 Возлияниями Индру они усилили – они достигли (цели).
 </details>
+

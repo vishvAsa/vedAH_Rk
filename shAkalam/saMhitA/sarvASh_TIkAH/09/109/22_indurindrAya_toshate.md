@@ -14,13 +14,41 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; line affected by realignment  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tośate ← √tuś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+tośate ← √tuś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+riṇán ← √rī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śrīṇán ← √śrī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +145,4 @@ Indu träufelt dem Indra, träufelt herab, der kräftige siedend, Fluten entstr�
 Сок сомы льется для Индры,  
 Грозный наливается, смешиваясь, вызывая течение вод.
 </details>
+

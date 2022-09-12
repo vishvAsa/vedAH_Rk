@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+pávamānasya ← √pū- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+rúcaḥ ← rúc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sudhārā́ḥ ← sudhārá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sudúghāḥ ← sudúgha- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́nītaḥ ← √nī- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+puruvā́raḥ ← puruvā́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ácikradat ← √krand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+devayūnā́m ← devayú- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+kaláśe ← kaláśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +216,4 @@ Wie Bräute gehn, o Soma, deine Strahlen, des hell entflammten, reich an Milch u
 Буланый приведен в воды, обладатель многих желанных даров.  
 Он громко заржал в кувшине у (людей,) преданных богам.
 </details>
+

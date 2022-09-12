@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX
+#### Morph
+śrayantām ← √śri- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+urviyā́ ← urviyā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+vyácasvatīḥ ← vyácasvant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jánayaḥ ← jáni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pátibhyaḥ ← páti- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+śúmbhamānāḥ ← √śubh- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+br̥hatīḥ ← br̥hánt- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+dévīḥ ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+dvāraḥ ← dvā́r- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+viśvaminvāḥ ← viśvaminvá- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+bhavata ← √bhū- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+suprāyaṇā́ḥ ← suprāyaṇá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +193,4 @@ Die Götterthore mögen weit sich öffnen, so wie geschmückte Frauen ihren Gatt
 , высокие, всему благоприятствующие.  
 Дайте богам удачно пройти!
 </details>
+

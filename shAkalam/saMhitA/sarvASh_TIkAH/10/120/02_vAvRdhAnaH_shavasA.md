@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bhū́ryojāḥ ← bhū́ryojas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vāvr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+bhiyásam ← bhiyás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dadhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dāsā́ya ← dāsá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śátruḥ ← śátru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávyanat ← ávyanant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+sásni ← sásni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vyanát ← √anⁱ- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+mádeṣu ← máda- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+navanta ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:INJ, tense:IPRF, voice:MED}
+
+prábhr̥tā ← √bhr̥- (root)  
+{non-finite:PPP}
+
+sám ← sám (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ An Macht erstarkend als der vielgewalt'ge, versetzt den Dämon er als Feind, in 
 Захватчик того, что не дышит и что дышит.  
 Они приветствуют тебя вместе криками в опьянении во время приношения (сомы).
 </details>
+

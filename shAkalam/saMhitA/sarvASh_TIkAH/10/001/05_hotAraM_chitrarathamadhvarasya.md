@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvarásya ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+citráratham ← citráratha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rúśantam ← rúśant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñásya-yajñasya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+devásya-devasya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+prátyardhim ← prátyardhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+átithim ← átithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śriyā́ ← śrī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tú ← tú (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +198,4 @@ Den Priester ihn des Fests mit lichtem Wagen, der hell erstrahlt als Fahne jedes
 Агни, получающего равную долю по сравнению с любым богом благодаря (своему) величию,  
 Но благодаря (своему) блеску (остающегося) гостем у людей, ( – его я призываю).
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ghr̥távantam ← ghr̥távant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥thúpragāṇam ← pr̥thúpragāṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uśānáḥ ← √vaś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+uśántam ← √vaś- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dī́dyānaḥ ← √dī- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+pāvakáḥ ← pāvaká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥ṣváḥ ← r̥ṣvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mātárā ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+návyasī ← návyas- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+púnaḥ-punar ← púnar (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +220,4 @@ Zum butterreichen Schooss mit weitem Zugang, dem willigen, begab sich Agni willi
 Сверкающий, прозрачный, вздымающийся, чистый,  
 Опять и опять он делает новыми {своих) родителей.
 </details>
+

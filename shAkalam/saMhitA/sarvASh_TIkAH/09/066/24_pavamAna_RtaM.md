@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ajījanat ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śukrám ← śukrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jáṅghanat ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kr̥ṣṇā́ ← kr̥ṣṇá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+támāṁsi ← támas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +129,7 @@ With Lüders (266), I take ṛtáṃ bṛhát as a nom. in apposition to Soma, r
 But I would certainly accept an acc. interpr. as alternative.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/22-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 No strong signs of unity, though a form of pávamāna- opens vss. 22 and 24, but Soma as the sun in 22c returns in the theme of light and the defeat of darkness in 24bc.
@@ -134,3 +162,4 @@ Erhabnes Werk hat er erzeugt und helles Licht der flammende, Verjagend schwarze 
 
 -ru-
 </details>
+

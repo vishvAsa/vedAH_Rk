@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pitŕ̥bhyaḥ ← pitár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+īyúḥ ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pū́rvāsaḥ ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+úparāsaḥ ← úpara- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+níṣattāḥ ← √sad- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+pā́rthive ← pā́rthiva- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+rájasi ← rájas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+nūnám ← nūnám (invariable)  
+{}
+
+suvr̥jánāsu ← suvr̥jána- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Dies Andachtswerk sei heut geweiht den Vätern, die früher und die später heim
 Которые осели в земном пространстве  
 Или которые теперь среди племен с прекрасными жертвенными общинами.
 </details>
+

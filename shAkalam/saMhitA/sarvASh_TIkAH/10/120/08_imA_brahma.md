@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+br̥háddivaḥ ← br̥háddiva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+vivakti ← √vañc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+agriyáḥ ← agriyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śūṣám ← śūṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svarṣā́ḥ ← svarṣā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gotrásya ← gotrá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+kṣayati ← √kṣā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+svarā́jaḥ ← svarā́j- (nominal stem)  
+{case:GEN, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+avr̥ṇot ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svā́ḥ ← svá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Brihaddiva, der beste Glanzerringer ruft dies Gebet dem Indra zu als Labsal; Den
 Он правит великим загоном для коров самодержавного.  
 Он открыл все свои ворота.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mádvane ← mádvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sutám ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+stobhantu ← √stubh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+arcantu ← √r̥c- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kārávaḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +145,4 @@ Rings um des lust'gen Indra Trank ertöne unsrer Lieder Schall; Die Sänger sing
 
 -ru-
 </details>
+

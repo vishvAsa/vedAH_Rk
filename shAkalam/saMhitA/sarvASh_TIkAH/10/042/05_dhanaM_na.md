@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+bahulám ← bahulá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhánam ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+syandrám ← syandrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āsunóti ← √su- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+práyasvān ← práyasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómān ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tīvrā́n ← tīvrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áhnaḥ ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+prātár ← prātár (invariable)  
+{}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sutúkān ← sutúka- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+hánti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+sváṣṭrān ← sváṣṭra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuváti ← √yu- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Wer ihm wie reiche schnellerlangte Beute an Speisen reich den starken Soma kelte
 Тому в раннее время он отдает во власть врагов,  
 Мчащихся во весь дух, погоняемых стрекалом, (и) убивает Вритру.
 </details>
+

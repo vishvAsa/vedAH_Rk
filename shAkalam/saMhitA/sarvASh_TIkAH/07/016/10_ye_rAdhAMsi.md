@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvyā ← áśvya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dádati ← √dā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+maghā́ ← maghá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+rā́dhāṁsi ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+kā́mena ← kā́ma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+śrávasaḥ ← śrávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+partŕ̥bhiḥ ← partár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pipr̥hi ← √pr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+pūrbhíḥ ← púr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yaviṣṭhya ← yáviṣṭhya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +197,4 @@ Die Rossescharen reichlich als Geschenk verleihn, von hohen Ruhms Begier erregt,
 Спаси ты их от беды (своими) спасителями,  
 Сотней крепостей, о самый юный!
 </details>
+

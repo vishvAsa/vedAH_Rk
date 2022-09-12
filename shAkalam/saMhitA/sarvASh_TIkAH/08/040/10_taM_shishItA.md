@@ -18,16 +18,80 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+śiśīta ← √śā- ~ śī- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+r̥gmíyam ← r̥gmíya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sátvānam ← sátvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tveṣám ← tveṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āṇḍā́ni ← āṇḍá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bhédati ← √bhid- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+śúṣṇasya ← śúṣṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jéṣat ← √ji- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+svàrvatīḥ ← svàrvant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +254,4 @@ Ihn schärfet durch der Lieder Drang, den kühnen, starken, preislichen, Und er,
 (И) завоюет воды, окружающие солнце!  
 Пусть лопнут все ничтожные другие!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhúvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+divyásya ← divyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jánasya ← jána- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jágataḥ ← jágat- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pā́rthivasya ← pā́rthiva- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tveṣasaṁdr̥k ← tveṣásaṁdr̥ś- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dákṣiṇe ← dákṣiṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dhiṣvá ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+háste ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ajurya ← ajuryá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dayase ← √di- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+māyā́ḥ ← māyā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Du, Indra, bist des himmlischen Geschlechtes und, prächtiger, der ird'schen Wel
 Возьми, Индра, ваджру в правую руку,  
 (И тогда) ты уничтожишь все колдовские чары, о нестареющий.
 </details>
+

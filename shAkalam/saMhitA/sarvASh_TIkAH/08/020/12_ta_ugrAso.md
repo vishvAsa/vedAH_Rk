@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ugrábāhavaḥ ← ugrábāhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ugrā́saḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+tanū́ṣu ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yetire ← √yat- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ā́yudhā ← ā́yudha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dhánvāni ← dhánur ~ dhánvan- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rátheṣu ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sthirā́ ← sthirá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ánīkeṣu ← ánīka- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+śríyaḥ ← śrī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +204,4 @@ Die kräft'gen Helden, deren Arme kräftig sind, sie hadern miteinander nie, Auf
 Прочны луки, оружие на ваших колесницах,  
 Лица прекрасны.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́yudhāni ← ā́yudha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pítryāṇi ← pítrya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+āptyáḥ ← āptyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayudhyat ← √yudh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+índreṣitaḥ ← índreṣita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jaghanvā́n ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+saptáraśmim ← saptáraśmi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+triśīrṣā́ṇam ← triśīrṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+nís ← nís (invariable)  
+{}
+
+sasr̥je ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+tritáḥ ← tritá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvāṣṭrásya ← tvāṣṭrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Wohl kennend seine väterlichen Waffen, gesandt von Indra kämpfte Trita Aptja, 
 Убив трехглавого, о семи лучах,  
 Трита выпустил коров у сына Тваштара.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; line affected by realignment  
 genre M;; line affected by realignment  
 genre M  
 genre M
+#### Morph
+pāvakávarcāḥ ← pāvakávarcas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śukrávarcāḥ ← śukrávarcas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánūnavarcāḥ ← ánūnavarcas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhānúnā ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+iyarṣi ← √r̥- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+avasi ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mātárā ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vicáran ← √carⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pr̥ṇákṣi ← √pr̥c- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +201,4 @@ In Flammenglanz, in hellem Licht, in vollem Glanz erhebst du dich mit deinem Str
 Сын двух матерей, проходящий сквозь (них), ты приходишь (им) на помощь.  
 Ты заполняешь обе половины мира.
 </details>
+

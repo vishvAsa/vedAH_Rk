@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asyā́ḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śámyāḥ ← śámī- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+bodhi ← √budh- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+r̥tacit ← r̥tacít- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+svādhī́ḥ ← svādhī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+sadhamā́dyāni ← sadhamā́dya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bhavanti ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gr̥hé ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+sakhyā́ ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Beachte recht dies unser Werk, o Agni, den frommen Brauch, o Kenner frommen Brau
 Когда же гимны, произнесенные при совместном опьянении (сомой, понравятся) тебе?  
 Когда (твои) дружеские чувства будут в доме (у нас)?
 </details>
+

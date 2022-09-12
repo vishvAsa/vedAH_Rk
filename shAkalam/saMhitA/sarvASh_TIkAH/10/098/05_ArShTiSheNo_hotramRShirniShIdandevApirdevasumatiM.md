@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ārṣṭiṣeṇáḥ ← ārṣṭiṣeṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hotrám ← hotrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+niṣī́dan ← √sad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cikitvā́n ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+devā́piḥ ← devā́pi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devasumatím ← devasumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ádharam ← ádhara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úttarasmāt ← úttara- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+asr̥jat ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+divyā́ḥ ← divyá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+varṣyā̀ḥ ← varṣyà- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +201,4 @@ Devapi, Rischtischena's Sohn, der Dichter, sass nieder und erfuhr die Gunst der 
 Пустил течь из верхнего в нижнее море  
 Небесные дождевые воды.
 </details>
+

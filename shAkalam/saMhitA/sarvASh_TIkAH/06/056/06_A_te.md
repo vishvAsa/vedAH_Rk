@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+svastím ← svastí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+āréaghām ← āréagha- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+úpāvasum ← úpāvasu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+sarvátātaye ← sarvátāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+sarvátātaye ← sarvátāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+śvás ← śvás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Wir wünschen deinen Segen uns, der fern von Leid uns Gut verschafft, Zu hohem G
 Сегодня для полноты (счастья),  
 И завтра для полноты (счастья).
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajījanan ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vimadā́ḥ ← vimadá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ápūrvyam ← ápūrvya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purutámam ← purutáma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudā́nave ← sudā́nu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhójanam ← bhójana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+inásya ← iná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+karāmahe ← √kr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+paśúm ← paśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Dir, Indra, haben Lob die Vimada's erzeugt dem gabenreichen neues und sehr herrl
 Ведь мы знаем отраду этого могучего,  
 Когда пригоняем его, как пастухи скот.
 </details>
+

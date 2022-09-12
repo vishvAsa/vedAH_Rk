@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+śíśum ← śíśu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yathā ← yathā (invariable)  
+{}
+
+aráṇī ← aráṇi- ~ aráṇī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jániṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+návam ← náva- 2 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhartā́ram ← dhartár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́nuṣīṇām ← mā́nuṣa- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svadhvarám ← svadhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśā́m ← víś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +182,4 @@ Und den wie einen jungen Sohn auch jetzt das Reibeholz gebar, Den Agni, der das 
 (Этого) поддерживателя племен человеческих,  
 Агни, прекрасно исполняющего обряд.
 </details>
+

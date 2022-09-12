@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́t ← ā́t (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+skabhāyat ← √skambhⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+vitarám ← vitarám (invariable)  
+{}
+
+bhiyáse ← bhiyás- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mr̥gám ← mr̥gá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saṁvivyānáḥ ← √vyā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+apajárgurāṇaḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jígartim ← jígarti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+dānavám ← dānavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+han ← √han- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+śvasántam ← √śvasⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Da stützte Indra sondernd Erd' und Himmel, verborgen auch erschreckte er das Un
 Глотателя, фыркающего Данаву  
 Индра заглатывающий отразил и сразил.
 </details>
+

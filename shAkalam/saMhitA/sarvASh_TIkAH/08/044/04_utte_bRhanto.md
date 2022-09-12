@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+arcáyaḥ ← arcí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+br̥hántaḥ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+út ← út (invariable)  
+{}
+
+dīdivaḥ ← √dī- 1 (root)  
+{case:VOC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+samidhānásya ← √idh- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:AOR, voice:MED}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+īrate ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+śukrā́saḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +141,4 @@ Wenn du entflammt bist, richten sich, o glanzbegabter, hell und hoch, O Agni, de
 Когда ты зажжен, о сверкающий  
 Агни, взмывают ввысь, чистые.
 </details>
+

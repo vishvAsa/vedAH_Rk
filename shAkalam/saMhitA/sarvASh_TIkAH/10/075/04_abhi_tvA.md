@@ -16,14 +16,87 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+mātáraḥ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sindho ← síndhu- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+śíśum ← śíśu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+arṣanti ← √arṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vāśrā́ḥ ← vāśrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+nayasi ← √nī- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sícau ← síc- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yúdhvā ← yúdhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+ínakṣasi ← √naś- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+pravátām ← pravát- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +254,4 @@ Dir, Sindhu, eilen wie die Mütter ihrem Kind, wie mit der Milch die Kühe, raus
 Как воинственный царь, ведешь ты два фланга,  
 Когда хочешь встать во главе этих текучих (вод).
 </details>
+

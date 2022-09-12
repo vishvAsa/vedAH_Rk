@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+mánau ← mánu- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vívasvati ← vívasvant- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ápibaḥ ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+śakra ← śakrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutám ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+chándaḥ ← chándas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jújoṣasi ← √juṣ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+trité ← tritá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+āyaú ← āyú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mādayase ← √mad- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+sácā ← sácā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +183,4 @@ Wie du, o starker, bei dem Manu, dem Sohne des Vivasvat, den gepressten Soma get
 Как у Триты, о Индра, ты наслаждаешься стихами,  
 (Так) опьяняешься ты вместе с Аю.
 </details>
+

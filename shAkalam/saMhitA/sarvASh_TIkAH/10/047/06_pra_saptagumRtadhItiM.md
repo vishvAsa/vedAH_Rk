@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+prá ← prá (invariable)  
+{}
+
+r̥tádhītim ← r̥tádhīti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saptágum ← saptágu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sumedhā́m ← sumedhá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jigāti ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+matíḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+āṅgirasáḥ ← āṅgirasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+upasádyaḥ ← upasádya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+citrám ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Zum heiligen Brihaspati, dem weisen, der fährt mit sieben Rindern, eilt Gebet h
 К (богу,) принадлежащему к Ангирасам, к которому надо приближаться с поклонением.  
 Нам даруй яркое, мощное богатство!
 </details>
+

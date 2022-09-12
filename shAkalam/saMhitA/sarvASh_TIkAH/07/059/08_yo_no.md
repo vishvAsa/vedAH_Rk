@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+durhr̥ṇāyúḥ ← durhr̥ṇāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cittā́ni ← √cit- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+jíghāṁsati ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+tirás ← tirás (invariable)  
+{}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+druháḥ ← drúh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+mucīṣṭa ← √muc- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED, mood:PREC}
+
+pā́śān ← pā́śa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hánmanā ← hánman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+hantana ← √han- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tápiṣṭhena ← tápiṣṭha- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +196,7 @@ may he be fastened to the fetters of deceit. With your most scorching  stroke st
 tiráś cittā́ni is a striking expression, without obvious parallels. In interpreting it, we can begin by noting that tiráś cid is a reasonably frequent pāda opening (IV.29.1, V.75.7, VIII.33.14, 51.9, 66.12), including in the next hymn, VII.60.6. Although I toyed with the possibility of reading tiráś cit tā́ni here, with the neut. pl. prn., this does not seem to be productive. However, the fact that tiráś cid is a formulaic expression may help account for the fact that our tiráś cittā́ni seems to be only loosely connected syntactically to the rest of the clause. Geldner takes the expression as meaning “against/contrary to expectation” (wider Erwartung), but I’m not at all sure that tiráḥ can mean ‘against’ (though see X.171.4 devā́nāṃ cit tiró váśam “even 96 athwart the will of the gods”). And in any case we would surely want to punish someone who tried to kill us, whether we expected him to or not. Renou’s “en croisant (nos) pensées” is better; I have adapted an English idiom “cross-purposes,” which is practically a calque on the Skt. phrase. Here it reflects the hostility between the would-be attacker and “us.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 Although, as noted in the published introduction, the last four vss. of the hymn (9- 12) must be late additions, there is a verbal link between vs. 8 and vs. 9: tápiṣṭhena “with the most scorching …” opening 8d is echoed by the Maruts’ ritual epithet sā́ṃtapanāḥ opening 9a. This link may help account for why these Sākamedha vss.
@@ -174,3 +229,4 @@ Wer grimmig zürnend uns zu schlagen trachtet, o gute Maruts, ehe wir's nur dach
 Да оденется он в петли зла!  
 Убейте его раскаленнейшим ударом!
 </details>
+

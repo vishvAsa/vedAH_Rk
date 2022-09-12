@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árūrucat ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rocanā́ ← rocaná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+áti ← áti (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+róruvat ← √rū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+duhate ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+nr̥cákṣasaḥ ← nr̥cákṣas- (nominal stem)  
+{case:GEN, number:SG}
+
+pīyū́ṣam ← pīyū́ṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +202,7 @@ The double vision of both heavenly Soma/Sun and earthly ritual soma is clear her
 of d is probably, on the one hand, the ritual officiants, who perform the ritual action of milking (that is, pressing) the soma. But the substance obtained is “the beestings [colostrum, first milk] of heaven” (pīyúṣam … diváḥ), and the next vs. makes clear that those performing the milking here are also the venā́ḥ ‘seekers’ in 10b, where they are located “in the vault of heaven” (divó nā́ke).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md">
 <details open><summary><h2>09-12 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these four vss. treat the identification of Soma and the sun and are similar to the very enigmatic Vena hymn, X.123, which is attributed to the same poet, Vena Bhārgava.
@@ -176,3 +234,4 @@ Zum Himmel stieg weitschauend jetzt der Stier empor, der weise hat das Licht des
 Царь проходит через цедилку, громко ревя.  
 (Жрецы) со взглядом героя доят сливки неба.
 </details>
+

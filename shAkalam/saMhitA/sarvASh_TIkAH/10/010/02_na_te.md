@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vaṣṭi ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhávāti ← √bhū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+sálakṣmā ← sálakṣman- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+víṣurūpā ← víṣurūpa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ásurasya ← ásura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+putrā́saḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vīrā́ḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhartā́raḥ ← dhartár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+khyan ← √khyā- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+urviyā́ ← urviyā́ (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Dein Freund verlangt nach solcher Freundschaft nimmer, als wär die gleichentspr
 Поддерживатели неба, смотрят далеко вокруг.  
 Ями:
 </details>
+

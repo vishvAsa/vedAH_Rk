@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+ít ← ít (invariable)  
+{}
+
+jānāti ← √jñā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ótum ← ótu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tántum ← tántu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+r̥tuthā́ ← r̥tuthā́ (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vadāti ← √vadⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+váktvāni ← váktva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+cíketat ← √cit- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+anyéna ← anyá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+avás ← avás (invariable)  
+{}
+
+cáran ← √carⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+parás ← parás (invariable)  
+{}
+
+páśyan ← √paś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,3 +263,4 @@ Nur dieser versteht den Faden, er den Einschlag, er wird richtig die Worte reden
 (Он,) хранитель бессмертия, который понимает это,  
 Передвигаясь внизу, (но) видя выше другого.
 </details>
+

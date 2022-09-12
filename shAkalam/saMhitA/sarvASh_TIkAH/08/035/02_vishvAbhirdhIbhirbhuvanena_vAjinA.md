@@ -16,14 +16,60 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line
+#### Morph
+bhúvanena ← bhúvana- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vājinā ← vājín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+víśvābhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+divā́ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pr̥thivyā́ ← pr̥thivī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sacābhúvā ← sacābhū́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+sajóṣasau ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+uṣásā ← uṣás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pibatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +186,4 @@ Mit allen Geistern, mit der Welt, o reiche ihr, mit Erd' und Himmel, mit den Fel
 Единодушные с Ушас и Сурьей  
 Пейте сому, о Ашвины!
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ájuṣat ← √juṣ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+namasvínaḥ ← namasvín- (nominal stem)  
+{case:GEN, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ádurmakhasya ← ádurmakha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śámīm ← śámī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+avati ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gha ← gha (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vr̥dhā́ ← vŕ̥dh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Den Beter und den Emsigen, dess Arbeit er mit Huld empfing, Den fördert Agni du
 
 -ru-
 </details>
+

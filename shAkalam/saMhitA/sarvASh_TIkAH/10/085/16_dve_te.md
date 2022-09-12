@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+cakré ← cakrá- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+dvé ← dvá- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+sūrye ← sūryā́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+brahmā́ṇaḥ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tuthā́ ← r̥tuthā́ (invariable)  
+{}
+
+viduḥ ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+addhātáyaḥ ← addhātí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+viduḥ ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Zwei Räder deines Wagens, o Suriā, kennen die Brahmanen der Wahrheit gemäss; 
 А единственное колесо, которое сокрыто,  
 Его знают только мудрые.
 </details>
+

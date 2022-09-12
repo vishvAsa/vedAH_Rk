@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+brahmáṇām ← brahmán- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nūnám ← nūnám (invariable)  
+{}
+
+r̥ṇám ← r̥ṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prāśūnā́m ← prāśú- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sunvatā́m ← √su- (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+apratā́ ← apratí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pape ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +164,4 @@ Nicht wirken falsch die Beter jetzt, noch auch die schnellen Kelterer, Nicht ist
 Брахманов, выжимающих (сому),  
 И сома не был выпит понапрасну.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+aṅgá ← aṅgá (invariable)  
+{}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+gopā́m ← gopā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+abhiśastipā́m ← abhiśastipā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nidyámānān ← √nid- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:PASS}
+
+paśyasi ← √paś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+asya ← √as- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+brahmadvíṣe ← brahmadvíṣ- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+hetím ← hetí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tápuṣim ← tápuṣi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +244,4 @@ Warum doch nennt man dich der Andacht Hüter? warum dich den, der vor dem Fluch 
 Что же смотришь ты, как нас оскорбляют?  
 Швырни пылающий дротик в ненавистника молитвы!
 </details>
+

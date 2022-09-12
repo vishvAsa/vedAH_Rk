@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+cakrathuḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ulokám ← uloká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+urúm ← urú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñā́ya ← yajñá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+janáyantā ← √janⁱ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uṣā́sam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dā́sasya ← dā́sa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+māyā́ḥ ← māyā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vr̥ṣaśiprásya ← vr̥ṣaśiprá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jaghnáthuḥ ← √han- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pr̥tanā́jyeṣu ← pr̥tanā́jya- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +217,4 @@ Dem Opfer schufet weiten Raum ihr beide, die Sonne zeugend, Feuer, Morgenröthen
 О два героя, в битвах вы уничтожили  
 Колдовские чары даже самого дасы Вришашипры.
 </details>
+

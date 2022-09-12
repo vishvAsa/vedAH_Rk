@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+dádhāmi ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+sutā́nām ← √su- (root)  
+{case:GEN, gender:M, number:PL, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pūrvapā́yyam ← pūrvapā́yya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+amúṣya ← asaú (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śā́sataḥ ← √śās- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dívam ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+divāvaso ← divāvasu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yayá ← √yā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +177,4 @@ Ich gebe dir wie einem Stier der Somasäfte ersten Trunk; Von jenes Herrschers H
 Повелевая тем небом,  
 Вы отправились на небо, о Дивавасу.
 </details>
+

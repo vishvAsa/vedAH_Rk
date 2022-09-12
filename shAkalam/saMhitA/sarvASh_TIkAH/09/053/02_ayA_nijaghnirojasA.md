@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+nijaghníḥ ← nijaghní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dháne ← dhána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+hité ← √dhā- 1 (root)  
+{case:LOC, gender:N, number:SG, non-finite:PPP}
+
+rathasaṁgé ← rathasaṁgá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ábibhyuṣā ← ábibhīvaṁs- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+stávai ← √stu- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +163,4 @@ So sing' ich nun mit muth'gem Sinn, den Feind erschlagend mit Gewalt, Im Wagenka
 
 -ru-
 </details>
+

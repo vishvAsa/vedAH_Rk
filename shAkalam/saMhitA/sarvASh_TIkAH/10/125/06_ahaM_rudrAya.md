@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+dhánuḥ ← dhánur ~ dhánvan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+rudrā́ya ← rudrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tanomi ← √tan- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+brahmadvíṣe ← brahmadvíṣ- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+hántavaí ← √han- (root)  
+{case:DAT, number:SG}
+
+śárave ← śáru- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kr̥ṇomi ← √kr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+samádam ← samád- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+viveśa ← √viś- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Ich bin es, die des Rudra Bogen spannet, damit sein Pfeil den Gottesleugner tref
 Я вызываю состязание среди народа.  
 Я пропитала (собой) небо и землю.
 </details>
+

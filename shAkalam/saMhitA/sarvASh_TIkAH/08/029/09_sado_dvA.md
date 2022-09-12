@@ -14,12 +14,34 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+cakrāte ← √kr̥- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dvā́ ← dvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sádaḥ ← sádas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+upamā́ ← upamá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+samrā́jā ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sarpírāsutī ← sarpírāsuti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,3 +129,4 @@ Zwei nahmen als die höchsten in dem Himmel Platz, Weltherrscher, Trinker heisse
 Сиденье двое приготовили себе высшее  
 На небе как два вседержителя, (те,) чье питье – расплавленный жир.
 </details>
+

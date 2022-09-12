@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhī́vantam ← dhī́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+kāṇvám ← kāṇvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+médhyātithim ← médhyātithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+áyaḥ ← √i- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+bhūtáḥ ← √bhū- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+meṣáḥ ← meṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +160,4 @@ Zu dem wahrhaft frommen Mediatithi, dem Nachkommen des Kanva, komme, o Schleuder
 Потомка Канвы – Медхьятитхи (ты услышал),  
 Когда, превратившись в барана, отвел (его на небо).
 </details>
+

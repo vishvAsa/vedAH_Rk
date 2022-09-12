@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádreḥ ← ádri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rugṇám ← √ruj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sarámā ← sarámā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vidát ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+yádi ← yádi (invariable)  
+{}
+
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pā́thaḥ ← pā́thas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sadhryàk ← sadhryàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ákṣarāṇām ← ákṣarā- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+nayat ← √nī- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+supádī ← supád- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+gāt ← √gā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+jānatī́ ← √jñā- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rávam ← ráva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +245,4 @@ Als Sarama den Spalt des Felsens auffand, da bahnte sie den grossen, alten Himme
 Прекрасноногая повела главу коров.  
 Знающая, она первой отправилась на зов.
 </details>
+

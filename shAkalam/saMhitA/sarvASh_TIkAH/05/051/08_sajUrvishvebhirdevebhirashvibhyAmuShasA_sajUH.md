@@ -15,14 +15,51 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sajū́s ← sajū́s (invariable)  
+{}
+
+víśvebhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+aśvíbhyām ← aśvín- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+sajū́s ← sajū́s (invariable)  
+{}
+
+uṣásā ← uṣás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+atrivát ← atrivát (invariable)  
+{}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+raṇa ← √ranⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +171,4 @@ Mit allen Göttern im Verein, den Rittern und dem Morgenroth Komm, Agni, wie zum
 С Ашвинами, с Ушас в согласии  
 Приходи, о Агни, веселись у выжатого (сомы), как у Атри!
 </details>
+

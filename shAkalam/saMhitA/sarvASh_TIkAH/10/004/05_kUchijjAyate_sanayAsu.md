@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jāyate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+kū́cit ← kū́cit (invariable)  
+{}
+
+návyaḥ ← návya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sánayāsu ← sánaya- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+dhūmáketuḥ ← dhūmáketu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+palitáḥ ← palitá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tasthau ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+váne ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+asnātā́ ← asnātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+veti ← √vī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártāḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+praṇáyanta ← √nī- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+sácetasaḥ ← sácetas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Stets wird er neu geboren in den alten, von Rauch umwallt und grau stand auf dem
 (Отнюдь) не купальщик, он, как бык, устремился к воде,  
 (Тот,) кого смертные единодушно проводят (к алтарю).
 </details>
+

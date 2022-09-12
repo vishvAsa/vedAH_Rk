@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhvaryo ← adhvaryú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+drāváya ← √dru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pipāsati ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+nūnám ← nūnám (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+vŕ̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yuyuje ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+jagāma ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +193,4 @@ Dein Werk beeile, Opferer, denn Indra heischt den Somatrunk, Schon hat er seine 
 Вот сейчас он запряг пару бычьих буланых коней  
 И приехал, убийца Вритры.
 </details>
+

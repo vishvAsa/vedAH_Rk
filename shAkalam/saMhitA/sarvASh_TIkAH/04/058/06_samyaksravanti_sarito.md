@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+dhénāḥ ← dhénā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+samyák ← samyáñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sarítaḥ ← sarít- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sravanti ← √sru- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pūyámānāḥ ← √pū- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:PASS}
+
+arṣanti ← √arṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ghr̥tásya ← ghr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ūrmáyaḥ ← ūrmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ī́ṣamāṇāḥ ← √īṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED, mood:DES}
+
+iva ← iva (invariable)  
+{}
+
+kṣipaṇóḥ ← kṣipaṇú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mr̥gā́ḥ ← mr̥gá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +186,7 @@ Pāda c combines etā́arṣanti from 5a with a variant of the repeated ghr̥tá
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
 <details open><summary><h2>05-10 ...{Loading}...</h2></summary>
 
 Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: ūrmáyo ghrtásya ̥ in 6c).
@@ -166,3 +218,4 @@ Zusammen strömen Flüssen gleich die Tränke, gereinigt innen durch Gebet von H
 Бегут эти волны жира,  
 Словно газели, мчащиеся от стрелы.
 </details>
+

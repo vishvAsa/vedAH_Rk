@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; repeated line  
 popular;; repeated line  
 popular;; repeated line  
 popular;; repeated line
+#### Morph
+ánipadyamānam ← ánipadyamāna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+gopā́m ← gopā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+cárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+párā ← párā (invariable)  
+{}
+
+pathíbhiḥ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sadhrī́cīḥ ← sadhryàñc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vásānaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+víṣūcīḥ ← víṣvañc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+antár ← antár (invariable)  
+{}
+
+bhúvaneṣu ← bhúvana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+varīvarti ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Ich sah den Hüter, welcher nimmer hinfällt, der hin und her auf seinen Pfaden 
 Скрываясь (в водах), текущих вместе и в разные стороны,  
 Он шевелится во всех существах.
 </details>
+

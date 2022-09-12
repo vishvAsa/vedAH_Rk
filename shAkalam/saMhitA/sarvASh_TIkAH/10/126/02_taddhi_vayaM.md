@@ -16,15 +16,67 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+hí ← hí (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+vr̥ṇīmáhe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+áryaman ← áryaman- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mítra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+váruṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+mártyam ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nethá ← √nī- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pāthá ← √pā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+dvíṣaḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Denn das begehren wir von euch, Varuna, Mitra, Arjaman, Wodurch ihr vor Gefahr u
 С помощью чего вы защищаете от беды  
 И ведете смертного через проявления враждебности.
 </details>
+

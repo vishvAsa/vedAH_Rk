@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dīné ← dīná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+gabhīré ← gabhīrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+párṣi ← √pr̥- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+jíghāṁsataḥ ← √han- (root)  
+{case:ABL, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+úgraputre ← ugraputra- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+mā́kis ← mā́kis (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+riṣat ← √riṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+tokásya ← toká- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +153,4 @@ Wo's flach, wo's tief ist, rette uns, o Göttermutter, von dem Feind, Vor Leid b
 О мать грозных сыновей, от желающего (нас) убить!  
 Да не пострадает никто из нашего потомства!
 </details>
+

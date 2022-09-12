@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ānaṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dívam ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kakuháḥ ← kakuhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+caturyújaḥ ← caturyúj- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dádat ← √dā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+úṣṭrān ← úṣṭra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jánam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrávasā ← śrávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yā́dvam ← yā́dva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Der grosse reicht zum Himmel empor, der mir vierjochige Büffel geschenkt hat, m
 Кто дал мне (горбатых) буйволов, запрягаемых четверкой,  
 (Он, покрывающий) славой род Яду.
 </details>
+

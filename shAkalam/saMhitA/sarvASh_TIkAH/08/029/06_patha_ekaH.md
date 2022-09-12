@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+pīpāya ← √pī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+táskaraḥ ← táskara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yathā ← yathā (invariable)  
+{}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+nidhīnā́m ← nidhí- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +144,4 @@ Der eine sucht die Wege wie ein Räuber auf, ihm ist bekannt der Schätze Ort.
 Один сделал набухшими дороги, как грабитель.  
 Он знает (спрятанные) сокровища.
 </details>
+

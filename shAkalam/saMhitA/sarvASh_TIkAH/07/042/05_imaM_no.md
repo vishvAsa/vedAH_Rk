@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+marútsu ← marút- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yaśásam ← yaśás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+náktā ← nákt- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sadatām ← √sad- (root)  
+{number:DU, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+uṣā́sā ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ihá ← ihá (invariable)  
+{}
+
+mitrā́váruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+uśántā ← √vaś- (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+
+yaja ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +232,4 @@ Dies unser Opfer, Agni, lass dir schmecken, und mach es lieb dem Indra und den M
 Пусть Ночь (и) Ушас усядутся на жертвенную солому!  
 Почти здесь Митру-Варуну, желающих (этого)!
 </details>
+

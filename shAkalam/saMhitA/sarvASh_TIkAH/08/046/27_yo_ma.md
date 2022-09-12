@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ámandat ← √mand- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+citrám ← citrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+ákṣe ← ákṣa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+araṭvé ← araṭvá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+náhuṣe ← náhuṣa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sukŕ̥tvani ← sukŕ̥tvan- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sukŕ̥ttarāya ← sukŕ̥ttara- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +208,4 @@ Der diesen Herrn begeisterte, um Herrliches zu schenken mir, Auf festem Wagen be
 У Аратвы Акши, у благочестивого Нахуши,  
 (Мне,) еще более благочестивому, он с прекрасной силой Духа,
 </details>
+

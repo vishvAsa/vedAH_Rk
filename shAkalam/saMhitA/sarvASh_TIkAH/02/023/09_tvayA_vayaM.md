@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+brahmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suvŕ̥dhā ← suvŕ̥dh- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dadīmahi ← √dā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
+manuṣyā̀ ← manuṣyà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+spārhā́ ← spārhá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+árātayaḥ ← árāti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dūré ← dūrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+taḷítaḥ ← taḷít- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+anapnásaḥ ← anapnás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jambháya ← √jambh- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +225,4 @@ Durch deinen Beistand, o Gebets Herr, mögen wir empfahn der Menschen Güter, di
 Враждебные происки, которые издали, которые изблизи  
 Угрожают нам, – искромсай их, отнимающих имущество!
 </details>
+

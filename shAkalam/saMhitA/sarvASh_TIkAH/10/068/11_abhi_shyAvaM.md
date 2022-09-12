@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kŕ̥śanebhiḥ ← kŕ̥śana- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śyāvám ← śyāvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apiṁśan ← √piś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nákṣatrebhiḥ ← nákṣatra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áhan ← áhar ~ áhan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rā́tryām ← rā́trī- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhinát ← √bhid- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vidát ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Den Himmel schmückten mit Gestirn die Väter, gleich wie das schwarze Ross mit 
 Ночью они установили мрак, днем свет.  
 Брихаспати расколол скалу, нашел коров.
 </details>
+

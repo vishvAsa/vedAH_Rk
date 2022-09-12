@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+jajñānáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+nú ← nú (invariable)  
+{}
+
+śatákratuḥ ← śatákratu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+íti ← íti (invariable)  
+{}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pr̥chat ← √praś- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ha ← ha (invariable)  
+{}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+śr̥ṇvire ← √śru- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ugrā́ḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ Als er geboren, fragte so die Mutter der vielwirkende: »Wer ist gewaltig, wer b
 Стал так расспрашивать мать:  
 Кто (эти) грозные? Кем слывут?
 </details>
+

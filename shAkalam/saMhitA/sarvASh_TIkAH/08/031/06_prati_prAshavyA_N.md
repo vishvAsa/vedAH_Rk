@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+itaḥ ← √i- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prāśavyā̀n ← prāśavyà- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+āśāte ← √naś- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samyáñcā ← samyáñc- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+vāyataḥ ← √vā- 2 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +157,4 @@ Das dringt zu reicher Nahrung hin, vereint bereiten sie die Streu, Bei Opfern we
 Оба вместе достигают жертвенной соломы –  
 Они не устают, когда речь идет о наградах.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+áti ← áti (invariable)  
+{}
+
+devavī́ḥ ← devavī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ráṁhyā ← ráṁhi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśa ← √viś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,7 +137,7 @@ As noted in the published introduction, this hymn begins with the quintessential
 
 The 2nd word devavī́ḥ ‘pursuing the gods’ also matches up with the previous hymn:
 
-> 1.4
+&gt; 1.4
 devā́nāṃ vītím.
 
 The expression “across the filter” is iconically split across the pāda break: áti, pavítram.
@@ -133,3 +167,4 @@ In Eile riesle durch das Sieb den Gott erlabend, Soma, hin, In Indra, Indu, drin
 В быстром беге через цедилку!  
 Как бык войди в Индру, о капля!
 </details>
+

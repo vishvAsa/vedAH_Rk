@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+avipré ← aviprá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+anāśúnā ← anāśú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+árvatā ← árvant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dhánam ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hitám ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jétā ← jétar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Auch in den Matten legt er Kraft, mit trägem Rosse auch erlangt Indra den ausge
 Даже с небыстрым скакуном  
 Индра – завоеватель установленной награды.
 </details>
+

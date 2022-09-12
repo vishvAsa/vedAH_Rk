@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+cit ← cit (invariable)  
+{}
+
+dódhataḥ ← dódhat- (nominal stem)  
+{case:GEN, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vr̥trásya ← vr̥trá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śatáparvaṇā ← śatáparvan- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+bibheda ← √bhid- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vr̥ṣṇínā ← vr̥ṣṇí- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +145,4 @@ Des Vritra Haupt, des tobenden, zerschlug er auch mit seinem Blitz, Dem hundertz
 Он проломил голову  
 Мужественной ваджрой с сотней сочленений.
 </details>
+

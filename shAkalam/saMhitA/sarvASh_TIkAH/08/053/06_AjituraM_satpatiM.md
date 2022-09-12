@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+ājitúram ← ājitúr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sátpatim ← sátpati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvácarṣaṇim ← viśvácarṣaṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́bhagam ← ā́bhaga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥dhí ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+prajā́su ← prajā́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tira ← √tr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ukthínaḥ ← ukthín- (nominal stem)  
+{case:NOM, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+punaté ← √pū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +198,4 @@ Den Fürsten aller Menschen, der in Schlachten siegt, den mache du an Kindern re
 Силами (своими) возвеличь хорошенько (тех,) кто как твои воспеватели  
 Последовательно очищают силу духа.
 </details>
+

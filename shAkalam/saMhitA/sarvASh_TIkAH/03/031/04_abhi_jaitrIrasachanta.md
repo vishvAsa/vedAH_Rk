@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+asacanta ← √sac- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+jaítrīḥ ← jaítra- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+spr̥dhānám ← √spr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+ajānan ← √jñā- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+támasaḥ ← támas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+jānatī́ḥ ← √jñā- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+uṣā́saḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+út ← út (invariable)  
+{}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +242,4 @@ Die Siegerinnen [die Morgenröthen, als über das Dunkel siegend] strebten hin z
 Узнавая его, утренние зори вышли (ему) навстречу.  
 Индра стал единственным господином коров.
 </details>
+

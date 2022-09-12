@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+áhinā ← áhi- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+budhnyèna ← budhnyà- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+ápyebhiḥ ← ápya- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+devī ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+iṣṭaíḥ ← √iṣ- 2 (root)  
+{case:INS, gender:M, number:PL, non-finite:PPP}
+
+stuvītá ← √stu- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+saṁcáraṇe ← saṁcáraṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saniṣyávaḥ ← saniṣyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+gharmásvarasaḥ ← gharmásvaras- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vran ← √vr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +215,4 @@ Preis sei euch nun, o Welten beide, nebst der Schlange der Tiefe, o Göttinnen, 
 Словно жаждущие добычи в совместном походе (открыли) океан,  
 Они открыли реки, шумящие, как кипящий котелок.
 </details>
+

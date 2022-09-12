@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayoji ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+bhuriṣā́ṭ ← bhuriṣáh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+maháḥ ← mahá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vásūni ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́t ← ā́t (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+jātā́ ← √janⁱ- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+nahuṣyā̀ṇi ← nahuṣyà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+navanta ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:INJ, tense:IPRF, voice:MED}
+
+svàrṣātā ← svàrṣāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ūrdhvā́ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+váne ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Vielfassend wie ein Wagen ist geschirrt er, der grosse, viele Güter zu gewinnen
 А после все существа, происходящие от Нахуша,  
 Зашумели, чтобы он захватил солнце, (стоя) прямо в деревянном сосуде.
 </details>
+

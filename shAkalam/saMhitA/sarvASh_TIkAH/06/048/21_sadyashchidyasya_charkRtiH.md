@@ -17,15 +17,79 @@ ChandaH = "यवमध्या महाबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+carkr̥tíḥ ← carkr̥tí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+sadyás ← sadyás (invariable)  
+{}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+éti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tveṣám ← tveṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajñíyam ← yajñíya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥trahám ← vr̥trahá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jyéṣṭham ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥trahám ← vr̥trahá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +239,4 @@ Die Maruts, deren Ruhmeswerk an einem Tag den Himmel, wie der Sonnengott, Durchl
 Маруты, силу, убивающую врагов,  
 Лучшую силу, убивающую врагов.
 </details>
+

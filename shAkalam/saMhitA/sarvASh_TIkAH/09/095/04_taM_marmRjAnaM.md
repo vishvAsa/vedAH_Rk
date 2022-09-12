@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahiṣám ← mahiṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+marmr̥jānám ← √mr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+sā́nau ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+aṁśúm ← aṁśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+duhanti ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+giriṣṭhā́m ← giriṣṭhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ukṣáṇam ← ukṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+matáyaḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sacante ← √sac- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vāvaśānám ← √vāś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+bibharti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tritáḥ ← tritá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇam ← váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +216,4 @@ Ihn, welcher prangt wie auf dem Berg der Büffel, ihn melken sie, den Saft, den 
 Его, громко ревущего, сопровождают молитвы.  
 Трита уносит Варуну в море.
 </details>
+

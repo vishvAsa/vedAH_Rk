@@ -18,10 +18,10 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment  
@@ -29,6 +29,64 @@ genre M;; line affected by realignment
 genre M;; line affected by realignment  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+jātā́ ← √janⁱ- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártānām ← márta- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+apīcyàm ← apīcyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+draviṇodā́ḥ ← draviṇodā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dvā́rā ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ūrṇute ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+návīyasā ← návīyaṁs- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+svā̀hutaḥ ← svā̀huta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,3 +255,4 @@ Agni erkennt der Götter Stamm, und Agni den der Menschen auch, Und Agni ist's d
 Когда его снова хорошо польют (жиром).  
 Пусть лопнут все ничтожные другие!
 </details>
+

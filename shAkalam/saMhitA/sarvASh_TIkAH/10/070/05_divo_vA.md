@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sā́nu ← sā́nu- ~ snú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+spr̥śáta ← √spr̥ś- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+várīyaḥ ← várīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mā́trayā ← mā́trā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pr̥thivyā́ ← pr̥thivī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śrayadhvam ← √śri- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vā ← vā (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+dvāraḥ ← dvā́r- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+mahádbhiḥ ← mahā́nt- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+uśatī́ḥ ← √vaś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+devám ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhārayadhvam ← √dhr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rathayúḥ ← rathayú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Berühret weit des Himmels Gipfel oder eröffnet weit euch nach dem Maass der Er
 , желающие (этого), задержите (своим) могуществом.  
 Вместе с могучими (богами) божественную колесницу, стремясь к (этой) колеснице!
 </details>
+

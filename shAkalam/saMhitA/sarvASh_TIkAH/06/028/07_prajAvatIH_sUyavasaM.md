@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+prajā́vatīḥ ← prajā́vant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+riśántīḥ ← √riś- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+sūyávasam ← sūyávasa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+píbantīḥ ← √pā- 2 (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+śuddhā́ḥ ← √śudh- (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
+suprapāṇé ← suprapāṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+agháśaṁsaḥ ← agháśaṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īśata ← √īś- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+stenáḥ ← stená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+hetíḥ ← hetí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+rudrásya ← rudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vr̥jyāḥ ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ An Kälbern reich, abweidend schöne Wiesen, an guter Tränke reines Wasser trin
 Пусть не овладеет вами ни вор, ни злоумышленник!  
 Пусть минует вас стрела Рудры!
 </details>
+

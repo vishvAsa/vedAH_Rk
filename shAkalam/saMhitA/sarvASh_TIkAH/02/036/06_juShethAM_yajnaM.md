@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bódhatam ← √budh- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+hávasya ← háva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+juṣéthām ← √juṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:MED}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nivídaḥ ← nivíd- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pūrvyā́ḥ ← pūrvyá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sattáḥ ← √sad- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ácha ← ácha (invariable)  
+{}
+
+āvŕ̥tam ← āvŕ̥t- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rā́jānā ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pibatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+praśāstrā́t ← praśāstrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+somyám ← somyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +219,4 @@ Geniesst das Opfer, merket beid' auf meinen Ruf, gesetzt hat sich der Priester n
 К двум царям направляется поклонение, чтобы (они) повернулись (к нам).  
 Пейте вы двое из кубка прашастара сладость сомы!
 </details>
+

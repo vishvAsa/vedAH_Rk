@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+idhyate ← √idh- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+sám ← sám (invariable)  
+{}
+
+śraddháyā ← śraddhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hūyate ← √hu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+śraddháyā ← śraddhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+bhágasya ← bhága- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mūrdháni ← mūrdhán- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śraddhā́m ← śraddhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+vácasā ← vácas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vedayāmasi ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +168,4 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 Веру на вершине счастья  
 Мы выражаем (своей) речью.
 </details>
+

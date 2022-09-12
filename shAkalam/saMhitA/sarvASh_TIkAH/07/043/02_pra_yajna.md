@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+hétvaḥ ← hétva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+sáptiḥ ← sápti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ghr̥tā́cīḥ ← ghr̥tā́ñc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sámanasaḥ ← sámanas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+yachadhvam ← √yam- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+adhvarā́ya ← adhvará- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sādhú ← sādhú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+str̥ṇītá ← √str̥̄- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+asthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+devayū́ni ← devayú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śocī́ṁṣi ← śocís- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ūrdhvā́ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +192,7 @@ As noted above ad 42.3, our pāda d seems to be a clearer expression of the imag
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/043/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/043/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 The 1st two vss. of this hymn begin with prá, recalling the insistent prá in the 1st vs. of the preceding hymn (VII.42.1) and presumably fulfilling the same function: to express the energetic initiation of the ritual. However, both prá √ṛc (1a) and prá √i (2a) are standard lexemes, unlike those in 42.1.
@@ -169,3 +224,4 @@ Vor geh das Opfer wie das Ross des Treibers, die Butterlöffel strecket gleichge
 Правильно расстелите жертвенную солому для обряда!  
 Распрямились языки пламени, устремленные к богам.
 </details>
+

@@ -17,15 +17,55 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dā́nāsaḥ ← dā́na- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pr̥thuśrávasaḥ ← pr̥thuśrávas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kānītásya ← kānītá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+surā́dhasaḥ ← surā́dhas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dádat ← √dā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+hiraṇyáyam ← hiraṇyáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhūt ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+máṁhiṣṭhaḥ ← máṁhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sūríḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+akr̥ta ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+várṣiṣṭham ← várṣiṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +188,4 @@ Die Gaben des Prithuçravas Kānīta sind sehr reichlich, einen goldenen Wagen s
 Он стал самым щедрым покровителем,  
 Он создал себе высшую славу.
 </details>
+

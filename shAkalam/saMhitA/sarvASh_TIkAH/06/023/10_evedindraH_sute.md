@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+astāvi ← √stu- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+evá ← evá (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sóme ← sóma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+bharádvājeṣu ← bharádvāja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+kṣáyat ← √kṣā- 2 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+maghónaḥ ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+jaritré ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sūríḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+dātā́ ← dātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+viśvávārasya ← viśvávāra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ So ist gerühmt beim Somasafte Indra, bei Bharadvadschern treib er an den Fürst
 (И над тем,) чтобы у певца был щедрый покровитель.  
 Индра даритель богатства, желанного для всех.
 </details>
+

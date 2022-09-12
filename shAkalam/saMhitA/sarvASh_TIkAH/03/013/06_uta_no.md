@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aviṣaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+bráhman ← bráhman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+devahū́tamaḥ ← devahū́tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukthéṣu ← ukthá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+marúdvr̥dhaḥ ← marúdvr̥dha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+śoca ← √śuc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sahasrasā́tamaḥ ← sahasrasā́tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +176,4 @@ Nimm unsre Bitte gnädig an, die Götter ruf zu Sprüchen her; Erstrahl, der Mar
 Пламеней нам на благо, усиленный Марутами,  
 О Агни, добывающий тысячи!
 </details>
+

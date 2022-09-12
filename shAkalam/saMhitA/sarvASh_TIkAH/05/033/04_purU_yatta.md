@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+purú ← purú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cakártha ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+gáve ← gáv- ~ gó- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+urvárāsu ← urvárā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yúdhyan ← √yudh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+ókasi ← ókas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sū́ryāya ← sū́rya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+tatakṣé ← √takṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+cit ← cit (invariable)  
+{}
+
+dāsásya ← dāsá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+samátsu ← samád- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,3 +259,4 @@ Wenn viele Sprüche, Indra, dir geweiht sind, so wirkst für Heerden du um Flure
 Даже для Сурьи в своем доме обрубил  
 Бык само имя дасы в сражениях.
 </details>
+

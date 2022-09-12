@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+kṣitā́yuḥ ← kṣitā́yus- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+páretaḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vā ← vā (invariable)  
+{}
+
+yádi ← yádi (invariable)  
+{}
+
+yádi ← yádi (invariable)  
+{}
+
+antikám ← antiká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+mr̥tyóḥ ← mr̥tyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nī̀taḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yádi ← yádi (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+harāmi ← √hr̥- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+nírr̥teḥ ← nírr̥ti- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+upásthāt ← upástha- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+áspārṣam ← √spr̥- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+śatáśāradāya ← śatáśārada- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Wenn er halb todt ist oder heimgegangen, wenn er genaht ist schon dem Todesantli
 Я забираю его из лона Небытия.  
 Я отвоевал его для жизни в сто осеней!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+trātā́ ← trātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+varūtā́ ← varūtár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+adite ← áditi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+dyā́vābhūmī ← dyā́vābhū́mī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+trā́sīthām ← √trā- (root)  
+{number:DU, person:2, mood:OPT, tense:AOR, voice:MED}
+
+mártāt ← márta- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mitra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sáhīyasaḥ ← sáhīyaṁs- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+dhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+várivaḥ ← várivas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Wer von euch Vasu's ist's, der schützt und rettet? o Erd' und Himmel, Aditi, be
 От более сильного смертного, о Варуна, Митра!  
 Кто из вас, о боги, создает широкое пространство в ходе обряда?
 </details>
+

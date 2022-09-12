@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bhŕ̥miḥ ← bhŕ̥mi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+gha ← gha (invariable)  
+{}
+
+tū́tujiḥ ← tū́tuji- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+citra ← citrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+citríṇīṣu ← citrín- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+citrám ← citrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇoṣi ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +175,4 @@ Du bist ein schneller Wirbelwind, hell bei der Morgenröthe Schein, Verschaffst 
 Ты, чудесный, творишь чудеса  
 В чудных (битвах нам) на помощь!
 </details>
+

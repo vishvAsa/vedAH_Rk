@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átyān ← átya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sasāna ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sasā́na ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purubhójasam ← purubhójas- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sasāna ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bhógam ← bhóga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hiraṇyáyam ← hiraṇyáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sasāna ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+ā́ryam ← ā́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āvat ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hatvī́ ← √han- (root)  
+{non-finite:CVB}
+
+prá ← prá (invariable)  
+{}
+
+várṇam ← várṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Die Rosse auch gewann er und die Sonne, Indra gewann die Kuh, die viele nähret,
 И власть над золотом он захватил.  
 Убив дасью, он поддержал арийскую расу.
 </details>
+

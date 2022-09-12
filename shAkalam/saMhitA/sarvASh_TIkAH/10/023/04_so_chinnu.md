@@ -16,14 +16,87 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+svā́ ← svá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yūthyā̀ ← yūthyà- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+háritā ← hárita- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pruṣṇute ← √pruṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+śmáśrūṇi ← śmáśru- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sukṣáyam ← sukṣáya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+veti ← √vī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhūnoti ← √dhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+vánam ← vána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +254,4 @@ Er kommt, der Held und seine ganze Schar zugleich; den blonden Schnurrbart netzt
 Он выискивает мед, хорошо размещенный в выжатом (соке).  
 Он трясет (бородой), словно ветер (качает) дерево.
 </details>
+

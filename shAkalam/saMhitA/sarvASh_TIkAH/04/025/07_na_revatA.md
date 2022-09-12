@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+paṇínā ← paṇí- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+revátā ← revánt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ásunvatā ← ásunvant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+gr̥ṇīte ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+sutapā́ḥ ← sutapā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+hánti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+khidáti ← √khid- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nagnám ← nagná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+védaḥ ← védas- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+kévalaḥ ← kévala- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paktáye ← paktí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+súṣvaye ← súṣvi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Nicht mit dem reichen, kargen, somalosen verbündet Indra sich, der Somatrinker,
 Он вырывает его имущество, убивает (его), бессмысленного.  
 Он должен быть единственным для выжимающего (сок), варящего (жертву).
 </details>
+

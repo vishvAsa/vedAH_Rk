@@ -15,13 +15,41 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+dhruvákṣemā ← dhruvákṣema- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sthaḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vraténa ← vratá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dhármaṇā ← dhárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yātayájjanā ← yātayájjana- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sadatam ← √sad- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +156,4 @@ Eur Thron ist fest durch das Gesetz; durch Recht vereint die Menschen ihr; Setzt
 Благодаря установлению (людей) вы объединяете народы.  
 Пусть сядете вы двое на жертвенную солому для питья сомы!
 </details>
+

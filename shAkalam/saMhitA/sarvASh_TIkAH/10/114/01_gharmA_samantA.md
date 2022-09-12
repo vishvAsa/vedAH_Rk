@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āpatuḥ ← √āp- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+gharmā́ ← gharmá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sámantā ← sámanta- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+trivŕ̥tam ← trivŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+jagāma ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+júṣṭim ← júṣṭi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mātaríśvā ← mātaríśvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táyoḥ ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+aveṣan ← √viṣ- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dídhiṣāṇāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED, mood:DES}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sahásāmānam ← sahásāman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidúḥ ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Zwei verbundene Kessel füllten den dreitheiligen [Herd?] an; um aus ihnen zu ge
 Они устремились, желая добыть молоко неба:  
 Боги знали хвалебную песнь вместе с мелодией.
 </details>
+

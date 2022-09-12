@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+áśmānam ← áśman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vartaya ← √vr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+śiśādhi ← √śā- ~ śī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómaśitam ← sómaśita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adharā́t ← adharā́t (invariable)  
+{}
+
+ápāktāt ← ápāktāt (invariable)  
+{}
+
+prā́ktāt ← prā́ktāt (invariable)  
+{}
+
+údaktāt ← údaktāt (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+jahi ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+párvatena ← párvata- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Vom Himmel schleudre deinen Pfeil, o Indra, den Soma schärfte, schärf ihn neu,
 Спереди, сзади, снизу, сверху  
 Разможжи ракшасов горою!
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ghŕ̥ṣuḥ ← ghŕ̥ṣu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kŕ̥tvane ← kŕ̥tvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śyenā́ya ← śyená- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+āsú ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+svā́su ← svá- (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+váṁsagaḥ ← váṁsaga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ahīśúvaḥ ← ahīśū́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+dīdhet ← √dhī- (root)  
+{number:SG, person:3, mood:INJ, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +139,4 @@ Der wilde Ahīçuva, der Bull mit diesen seinen [Weibern] lauerte dem rührigen 
 Проворного сокола  
 Среди этих своих (крепостей) (демона) Ахишу.
 </details>
+

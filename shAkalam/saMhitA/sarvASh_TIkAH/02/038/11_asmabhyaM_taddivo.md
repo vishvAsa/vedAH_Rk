@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adbhyáḥ ← áp- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dattám ← √dā- 1 (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+gāt ← √gā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+kā́myam ← kā́mya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+āpáye ← āpí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhávāti ← √bhū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+śám ← śám (invariable)  
+{}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jaritré ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+uruśáṁsāya ← uruśáṁsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Uns fliesse zu von Himmel, Erd' und Wassern begehrenswerthes Gut, von dir gesche
 Что бывает на благо восхвалителям, другу,  
 Певцу, слова которого разносятся далеко, о Савитар!
 </details>
+

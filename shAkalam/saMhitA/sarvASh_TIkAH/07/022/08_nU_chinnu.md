@@ -15,13 +15,62 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+dasma ← dasmá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mányamānasya ← √man- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+nú ← nú (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+aśnuvanti ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ugra ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vīryàm ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +176,7 @@ nor to your heroism, Indra, nor to your generosity—
 Geldner seems to take the participle mányamānasya as a functional reflexive ‘think oneself to be’, with the added sense of self-conceit (“der du dir darauf etwas einbildest”). Although I would certainly not ascribe to Indra excessive modesty, in this context, where the poet is emphasizing the poets’ inability to capture all of Indra’s greatness, I think it unlikely that he is focusing on Indra’s egotism. I instead take the participle in a passive sense ‘be thought to be’, as sometimes elsewhere - pace Kulikov (339-40), who follows Gotō. 26
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/022/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/022/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 The subject of the verb in 8b, úd aśnuvanti, is not specified. In my view the subject is postponed to 9ab: neither the older nor the younger poets are capable of expressing all of Indra’s powers in their formulations. Although this interpretation requires enjambment over a verse boundary, the main clause in 9c to which 9ab is supposedly subordinate has no appropriate referent for the relative pronoun (asmé works awkwardly at best), whereas 9ab neatly completes the thought of vs. 8.
@@ -158,3 +207,4 @@ Niemals erreichen andre deine Grösse, o vielgerühmter, wunderbarer, starker, N
 (Что есть) у тебя, почитаемого, о удивительный, о грозный,  
 Ни мужества твоего, о Индра, ни щедрости!
 </details>
+

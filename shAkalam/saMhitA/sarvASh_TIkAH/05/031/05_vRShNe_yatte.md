@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árcān ← √r̥c- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+grā́vāṇaḥ ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sajóṣāḥ ← sajóṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anaśvā́saḥ ← anaśvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arathā́ḥ ← arathá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+paváyaḥ ← paví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+ávartanta ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+índreṣitāḥ ← índreṣita- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +208,7 @@ In b I supply ‘thinking himself’ with amarmáṇaḥ on the basis of 3c and 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 Vs. 5 is syntactically problematic, in that it has two subordinate clauses, one marked by yád in pāda a and one marked by yé in pāda c, but no obvious main clause. The rel. cl. beginning in c must extend through d, which contains the accented imperfect ávartanta, but the extent of the yád clause is unclear. It must go as far as the end of pāda a because of the accented subjunctive árcān, but the status of b is in question. Since the vs. otherwise lacks a main clause, Geldner and Witzel Gotō make b the nominal main clause, e.g., Geldner “…, da waren die Presssteine, die Aditi einverstanden.” This is possible, but seems conceptually weak, and both Geldner and Witzel Gotō fail to render the subjunctive value of the verb in the yád clause -- Geldner silently changing it into a preterite (“anstimmten”) and Witzel Gotō using a simple pres. (“singen”).
@@ -194,3 +249,4 @@ Als dir dem Stier die Stiere Preislied sangen vereint die Stiere, Indra, und der
 Ободья, что без коней (и) без колесниц,  
 Посланные Индрой, наехали на дасью.
 </details>
+

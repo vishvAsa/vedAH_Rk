@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́miślatamaḥ ← ā́miślatama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+dhānā́ḥ ← dhānā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pacyáte ← √pac- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+paktíḥ ← paktí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+brahmakārā́ḥ ← brahmakāra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+stuvántaḥ ← √stu- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+devávātatamāḥ ← devávātatama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śáṁsantaḥ ← √śaṁs- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +224,4 @@ Gebraut ist Soma, der sich gern vermischet, in welchem Körner sind und Brühe s
 (Над которым) мужи, славящие Индру, самые любимые у богов,  
 Творят молитву, исполняют гимны.
 </details>
+

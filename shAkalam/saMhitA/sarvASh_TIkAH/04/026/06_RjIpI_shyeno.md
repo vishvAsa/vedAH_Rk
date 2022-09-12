@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M  
 genre M
+#### Morph
+aṁśúm ← aṁśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dádamānaḥ ← √dad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+r̥jīpī́ ← r̥jīpín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádam ← máda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mandrám ← mandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+śakunáḥ ← śakuná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+dādr̥hāṇáḥ ← √dr̥h- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+devā́vān ← devā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ādā́ya ← √dī- 2 (root)  
+{non-finite:CVB}
+
+amúṣmāt ← asaú (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+úttarāt ← úttara- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +186,7 @@ Goto (1st Kl, 171-72, flg. Wackernagel) argues that the thematic middle dádate 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/026/04-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/026/04-07.md">
 <details open><summary><h2>04-07 ...{Loading}...</h2></summary>
 
 The 3rd sg. act. impf./injunc. of √bhṛ is the “hero” of this, the mythological portion, of the hymn: bhárat (4d, 5a), bharat (6c), abharat (7a).
@@ -169,3 +218,4 @@ Der rasche Aar, die Somapflanze nehmend, von Ferne trug den Freudentrank der Vog
 Радостный опьяняющий напиток – сому, нес (его),  
 После того как он забрал (его) с того высшего (неба).
 </details>
+

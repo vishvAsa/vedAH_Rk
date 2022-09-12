@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+kaváṣam ← kaváṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrutám ← √śru- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+vr̥ddhám ← √vr̥dh- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+ánu ← ánu (invariable)  
+{}
+
+druhyúm ← druhyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+vájrabāhuḥ ← vájrabāhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṇak ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vr̥ṇānā́ḥ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+ámadan ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+tvāyántaḥ ← √tvāy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Er warf den grossen Kavascha, den hehren, mit Blitz bewehrt ins Wasser, nach die
 В то время как (те,) кто предан тебе, приветствовали тебя криками,  
 Выбирая дружбу за дружбу.
 </details>
+

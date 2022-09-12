@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+antár ← antár (invariable)  
+{}
+
+dasmé ← dasmá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+níhite ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:DU, non-finite:PPP}
+
+padé ← padá- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āvís ← āvís (invariable)  
+{}
+
+gúhyam ← gúhya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+táyoḥ ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+pathyā̀ ← pathyā̀- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+sadhrīcīnā́ ← sadhrīcīná- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+víṣūcī ← víṣvañc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+asuratvám ← asuratvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +213,7 @@ The ‘pathway’ (pathyā̀) takes us back to III.54.5 where a question about �
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/14-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/14-15.md">
 <details open><summary><h2>14-15 ...{Loading}...</h2></summary>
 
 The published translation is somewhat misleading, in that vápūṃṣi in 14a is tr. as “wondrous forms” and dasmé in 15a as “the wondrous one.” I might substitute “marvellous forms” for the first, to avoid the impression of an etymological connection.
@@ -190,3 +245,4 @@ Wie zwei Fusstapfen stehen dort die Schönen, verborgen eine, offenbar die andre
 (Их) путь устремлен к одной цели, (но направлен) он в разные стороны.  
 Велико могущество богов, единственно.
 </details>
+

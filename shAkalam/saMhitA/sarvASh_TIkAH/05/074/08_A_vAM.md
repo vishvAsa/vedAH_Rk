@@ -16,14 +16,57 @@ ChandaH = "निचृत्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráthānām ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yātu ← √yā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yéṣṭhaḥ ← yéṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmayúḥ ← asmayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tirás ← tirás (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+āṅgūṣáḥ ← āṅgūṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártyeṣu ← mártya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +178,4 @@ Eur Wagen, der bestfahrende der Wagen, Ritter, fahre her Zu uns, an vielen auch 
 Стремясь к нам через очень много (пространств),  
 Звучная хвала среди смертных!
 </details>
+

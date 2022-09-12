@@ -15,13 +15,56 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+gāma ← √gā- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ABL, gender:M, number:SG, tense:PRF, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+somínaḥ ← somín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yajñā́t ← yajñá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+árātayaḥ ← árāti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +179,4 @@ Lass, Indra, nicht vom rechten Pfad, vom Somaopfer weichen uns; Nicht seien Bös
 Ни от жертвы того, кто приносит сому, о Индра!  
 Да не окажутся у нас недруги на пути!
 </details>
+

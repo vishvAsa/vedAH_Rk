@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dhū́tayaḥ ← dhū́ti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádanti ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
+arepásaḥ ← arepás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tájātāḥ ← r̥tájāta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +144,4 @@ Wer hat von ihnen Kunde recht, wo die Erschüttrer schwelgen nun, die Recht - en
 Где опьяняются сотрясатели,  
 Рожденные законом, беспорочные?
 </details>
+

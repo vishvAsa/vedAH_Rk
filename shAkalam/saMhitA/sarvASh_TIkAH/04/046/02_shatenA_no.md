@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+abhíṣṭibhiḥ ← abhíṣṭi- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śaténa ← śatá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+índrasārathiḥ ← índrasārathi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+niyútvān ← niyútvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+tr̥mpatam ← √tr̥p- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vā́yo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +140,4 @@ Mit hundert Hülfen, Vaju, komm, mit Indra fahrend, vielbespannt; Ergötzet beid
 С Индрой-возницей, (приезжайте) к нам!  
 О Ваю (и Индра), насыщайтесь выжатым (соком)!
 </details>
+

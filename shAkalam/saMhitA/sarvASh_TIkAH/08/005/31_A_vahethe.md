@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+parākā́t ← parāká- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+vahethe ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+aśnántau ← √aśⁱ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+amartyā ← ámartya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dā́sīḥ ← dā́sī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Ihr fahret aus der Ferne her, wo Ritter viele Tränke ihr Der Fremden trinkt, Un
 Многие принадлежащие дасам  
 Подкрепления, вкушая (их), о бессмертные!
 </details>
+

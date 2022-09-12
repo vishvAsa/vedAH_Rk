@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+kárat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+kuvít ← kuvít (invariable)  
+{}
+
+kuvít ← kuvít (invariable)  
+{}
+
+śákat ← √śak- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+kárat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+kuvít ← kuvít (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vásyasaḥ ← vásyaṁs- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kuvít ← kuvít (invariable)  
+{}
+
+patidvíṣaḥ ← patidvíṣ- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yatī́ḥ ← √i- 1 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+saṁgámāmahai ← √gam- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +193,4 @@ Ob er's vermag, und ob er's thut? ob er nicht bald uns reicher macht? Ob von dem
 
 -ru-
 </details>
+

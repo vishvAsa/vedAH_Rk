@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sūryā́yāḥ ← sūryā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vahatúḥ ← vahatú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+avā́sr̥jat ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+aghā́su ← aghá- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hanyante ← √han- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+árjunyoḥ ← árjuna- (nominal stem)  
+{case:LOC, gender:F, number:DU}
+
+pári ← pári (invariable)  
+{}
+
+uhyate ← √vah- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +167,4 @@ Der Brautzug der Suriā setzte sich in Bewegung, welchen Savitar entsandte; im S
 Под агхами закалывают быков,  
 Под обоими арджуни вводят в дом (невесту).
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mr̥ṇasi ← √mr̥̄- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sanā́t ← sanā́t (invariable)  
+{}
+
+yātudhā́nān ← yātudhā́na- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jigyuḥ ← √ji- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+rákṣāṁsi ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+daha ← √dah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kravyā́daḥ ← kravyā́d- (nominal stem)  
+{gender:M}
+
+sahámūrān ← sahámūra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+daívyāyāḥ ← daívya- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+hetyā́ḥ ← hetí- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mukṣata ← √muc- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Du tilgst von je die Zaubergeister Agni, und nie besiegen dich im Kampf Gespenst
 Сожги с корнями пожирателей кровавого мяса!  
 Да не избавятся они от твоего божественного выстрела!
 </details>
+

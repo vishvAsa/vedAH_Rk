@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+carkirāma ← √kr̥̄- 2 (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+dadhikrā́vṇaḥ ← dadhikrā́van- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+sūdayantu ← √sūd- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+āṅgirasásya ← āṅgirasá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bŕ̥haspáteḥ ← bŕ̥haspáti- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jiṣṇóḥ ← jiṣṇú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Den Dadhikravan wollen wir nun preisen, mir mögen helfen alle Morgenröthen, de
 Воды, Агни, Ушас, Сурью,  
 Брихаспати, победоносного Ангираса.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+gamat ← √gam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cíketat ← √cit- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+dā́manaḥ ← dā́man- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dā́tum ← √dā- 1 (root)  
+{case:ACC, number:SG}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+dhanvacaráḥ ← dhanvacará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tr̥ṣāṇáḥ ← √tr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+váṁsagaḥ ← váṁsaga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aṁśúm ← aṁśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cakamānáḥ ← √kam- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+dugdhám ← √duh- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+pibatu ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +227,4 @@ Her komme Indra, der auf Reichthumsgabe sich wohl versteht, und Güter zu versch
 Мучимый жаждой, словно бык, бродящий по пустыне,  
 Пусть он жадно пьет выдоенный сок (сомы)!
 </details>
+

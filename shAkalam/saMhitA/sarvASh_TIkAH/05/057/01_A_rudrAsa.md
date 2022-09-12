@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+índravantaḥ ← índravant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rudrāsaḥ ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sajóṣasaḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gantana ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+híraṇyarathāḥ ← híraṇyaratha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+haryate ← √hr̥- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+matíḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tr̥ṣṇáje ← tr̥ṣṇáj- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+udanyáve ← udanyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+útsāḥ ← útsa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ O Rudra's, kommt mit Indra in Gemeinschaft her, zu hohem Glück auf goldnem Wage
 Вам нравится эта молитва от нас,  
 Словно источники неба – жаждущему, стремящемуся к воде!
 </details>
+

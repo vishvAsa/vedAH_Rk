@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adruhaḥ ← adrúh- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+śaṁsāmi ← √śaṁs- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+saṁsthé ← saṁsthā́- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+úpastutīnām ← úpastuti- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+dhūrtíḥ ← dhūrtí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mártyam ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mitra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ávidhat ← √vidh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dhā́mabhyaḥ ← dhā́man- (nominal stem)  
+{case:DAT, gender:N, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +201,4 @@ Euch, holdgesinnte, preise ich in dieser Lieder Chorgesang; Nicht trifft, o Mitr
 Не (настигнет) зло того смертного, о Варуна, о Митра,  
 Кто почтил ваши установления!
 </details>
+

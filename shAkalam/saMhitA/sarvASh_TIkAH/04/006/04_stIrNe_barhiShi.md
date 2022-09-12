@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnaú ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+samidhāné ← √idh- 1 (root)  
+{case:LOC, gender:M, number:SG, tense:AOR, voice:MED}
+
+stīrṇé ← √str̥̄- (root)  
+{case:LOC, gender:N, number:SG, non-finite:PPP}
+
+adhvaryúḥ ← adhvaryú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jujuṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+paśupā́ḥ ← paśupā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pradívaḥ ← pradív- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+triviṣṭí ← triviṣṭí (invariable)  
+{case:INS, gender:F, number:SG}
+
+urāṇáḥ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Bei fert'ger Streu und bei entflammtem Feuer stand aufrecht da erfreut der Opfer
 Агни, хотар, избранный от века, трижды  
 Обходит (место жертвоприношения), словно пастух (- стадо).
 </details>
+

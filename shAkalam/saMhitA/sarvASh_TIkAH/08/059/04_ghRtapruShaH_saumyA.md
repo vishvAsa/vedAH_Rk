@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D;; Vālakhilya  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya
+#### Morph
+ghr̥taprúṣaḥ ← ghr̥taprúṣ- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jīrádānavaḥ ← jīrádānu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saúmyāḥ ← saúmya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+svásāraḥ ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ghr̥taścútaḥ ← ghr̥taścút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+indrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+dhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śikṣatam ← √śak- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+yájamānāya ← √yaj- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Von Butter trieft, von Tränken strömt im Sitz des Rechts der sieben Schwestern
 (Те) самые, что струят вам жир, о Индра-Варуна,  
 Ради них дайте (богатство), поддержите жертвователя!
 </details>
+

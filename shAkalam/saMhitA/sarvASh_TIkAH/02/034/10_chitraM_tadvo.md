@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cekite ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+citrám ← citrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yā́ma ← yā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āpáyaḥ ← āpí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ápi ← ápi (invariable)  
+{}
+
+duhúḥ ← √duh- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+pŕ̥śnyāḥ ← pŕ̥śni- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+návamānasya ← √nu- ~ nū- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+nidé ← níd- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+rudriyāḥ ← rudríya- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+adābhyāḥ ← ádābhya- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+járāya ← jára- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+juratā́m ← √jr̥̄- ~ jūr- (root)  
+{case:GEN, gender:M, number:PL, tense:AOR, voice:ACT}
+
+tritám ← tritá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +220,7 @@ This vs. strenuously develops the “golden” theme that appeared in 9d -- a co
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/10-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 The ends of the d pādas in these vss. are very similar: 10d … ánnam asmai, 11d … ánnam asya. In 10d “The givers of gold give food to him” implies that his food is gold; 11d further makes clear that the gold(en) food is really gold-colored ghee.
@@ -188,3 +252,4 @@ Es zeigt sich Marut's, dieser euer lichter Zug, wenn ihr der Priçni Euter melkt
 Или когда вы, о Рудры, не терпящие обмана, (помогли) Трите  
 (Взять на себя) хулу певца, старость старящих.
 </details>
+

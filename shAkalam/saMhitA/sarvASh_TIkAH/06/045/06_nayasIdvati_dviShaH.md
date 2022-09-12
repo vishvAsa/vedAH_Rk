@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+áti ← áti (invariable)  
+{}
+
+dvíṣaḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+náyasi ← √nī- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+kr̥ṇóṣi ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ukthaśaṁsínaḥ ← ukthaśaṁsín- (nominal stem)  
+{}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+suvī́raḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ucyase ← √vac- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +174,4 @@ Du führst uns durch die Feinde hin und regst zu Lobgesang uns an, Bei Männern 
 Ты делаешь (мужей) исполнителями гимнов.  
 Мужами ты зовешься прекрасным героем.
 </details>
+

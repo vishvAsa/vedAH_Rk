@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+sarátham ← sarátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+yātha ← √yā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+bhavatha ← √bhū- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sahá ← sahá (invariable)  
+{}
+
+śriyā́ ← śrī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+váśānām ← váśa- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pratimaí ← √mā- 1 (root)  
+{case:DAT, number:SG}
+
+sukr̥tā́ni ← sukr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vāghataḥ ← vāghát- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+saúdhanvanāḥ ← saudhanvaná- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vīryā̀ṇi ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +241,4 @@ Auf gleichem Wagen kommt mit Indra her zum Trank, es werd' Erfüllung eurer Wün
 Вашим способностям к созиданию невозможно подражать, о жрецы,  
 О Рибху – сыновья Судханвана, и (вашим) героическим подвигам.
 </details>
+

@@ -14,12 +14,37 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular
+#### Morph
+ásurān ← ásura- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ā́yan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hatvā́ya ← √han- (root)  
+{non-finite:CVB}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhirákṣamāṇāḥ ← √rakṣⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devatvám ← devatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,3 +134,4 @@ Als nach Besiegung der Asuren kamen die Götter ihre Gottheit zu befest'gen,
 Когда боги пришли, убив асуров,  
 Боги, защищающие (свою) божественную суть,
 </details>
+

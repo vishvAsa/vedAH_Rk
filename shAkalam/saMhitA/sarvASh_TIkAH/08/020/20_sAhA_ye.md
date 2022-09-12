@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hávyaḥ ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+muṣṭihā́ ← muṣṭihán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sāhā́ḥ ← sāhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+hótr̥ṣu ← hótar- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+pr̥tsú ← pŕ̥t- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+víśvāsu ← víśva- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+candrā́n ← candrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+suśrávastamān ← suśrávastama- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áha ← áha (invariable)  
+{}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vándasva ← √vandⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Die kräftig wie ein vielbegehrter Ringer sind bei allem Streit und Kampfgewühl
 Как белых быков, самых прославленных,  
 Превозноси же Марутов хвалебной песнью!
 </details>
+

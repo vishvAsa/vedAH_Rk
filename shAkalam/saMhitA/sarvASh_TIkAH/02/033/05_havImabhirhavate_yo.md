@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hávate ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+hávīmabhiḥ ← hávīman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+havírbhiḥ ← havís- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+diṣīya ← √dā- 3 (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:MED}
+
+rudrám ← rudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stómebhiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+asyaí ← ayám (pronoun)  
+{case:DAT, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+r̥dūdáraḥ ← r̥dūdára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suhávaḥ ← suháva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+babhrúḥ ← babhrú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manā́yai ← manā́- 1 (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+rīradhat ← √randh- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+suśípraḥ ← suśípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +227,4 @@ Der durch Gebet sich rufen lässt und Opfer, den Rudra will mit Liedern ich bes�
 Пусть мягкосердечный, легкопризываемый, бурый,  
 Прекрасногубый не отдаст нас во власть такому подозрению!
 </details>
+

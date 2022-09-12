@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aja ← √aj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+amū́ḥ ← asaú (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+pratyā́vartaya ← √vr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dundubhíḥ ← dundubhí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ketumát ← ketumánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vāvadīti ← √vadⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+áśvaparṇāḥ ← áśvaparṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cáranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jayantu ← √ji- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+rathínaḥ ← rathín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +192,7 @@ Geldner explains pāda a persuasively as “Raub und Wiederraub der Kühe,” wi
 
 I do not understand why cáranti is accented. Geldner takes it as implicitly subordinated (“Wenn … sich sammeln”), which would account for the accent, but there’s no other evidence for subordination. It could be ascribed to the vague principle that the verb is accented in a clause that provides the basis for the next clause, as Oldenberg suggests only to question (ZDMG 60: 725 n. 1 = KlSch. p. 200).
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
 <details open><summary><h2>26-31 ...{Loading}...</h2></summary>
 
 These vss. are repeated in the Aśvamedha section of several early Vedic ritual texts, directly after the 1st 14 vss. of the weapon hymn VI.75 (e.g., VS XXIX.52-57, TS IV.6.6.
@@ -172,3 +224,4 @@ Her treibe jene, jage rückwärts diese, mit lautem Schall ertönet diese Pauke;
 Когда наши конекрылые мужи собираются,  
 Наши колесничие, о Индра, пусть победят!
 </details>
+

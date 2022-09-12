@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nahí ← nahí (invariable)  
+{}
+
+r̥tuthā́ ← r̥tuthā́ (invariable)  
+{}
+
+sthū́ri ← sthū́ri (invariable)  
+{}
+
+yātám ← √yā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+saṁgaméṣu ← saṁgamá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vivide ← √vid- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+gavyántaḥ ← √gavy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aśvāyántaḥ ← √aśvāy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vājáyantaḥ ← √vājay- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +197,4 @@ Rechtzeitig kommt nicht, wer mit einem Ross fährt, der findet Ruhm nicht in der
 Желая коров, желая коней, желая добычи,  
 (Зовут) вдохновенные Индру-быка для дружбы.
 </details>
+

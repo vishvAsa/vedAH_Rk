@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+aśrīrā́ ← aśrīrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tanū́ḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+amuyā́ ← amuyā́ (invariable)  
+{}
+
+pāpáyā ← pāpá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+rúśatī ← rúśant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vadhvàḥ ← vadhū́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vā́sasā ← vā́sas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhidhítsate ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+áṅgam ← áṅga- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+svám ← svá- (pronoun)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +174,4 @@ Hässlich wird der glänzende Leib [des Gatten], wenn auf jene verkehrte Weise d
 Когда муж одеждой новобрачной  
 Хочет прикрыть свой уд.
 </details>
+

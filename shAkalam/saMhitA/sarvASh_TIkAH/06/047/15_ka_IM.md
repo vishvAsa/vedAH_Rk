@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+īm ← īm (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pr̥ṇāt ← √pr̥̄- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+stavat ← √stu- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yajāte ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+ávet ← √avⁱ- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśváhā ← viśváhā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+anyám-anyam ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pā́dau ← pád- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+praháran ← √hr̥- 3 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+áparam ← ápara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇóti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pū́rvam ← pū́rva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +229,7 @@ Geldner renders d exactly opposite to the published translation: “so macht er 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/15-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/15-18.md">
 <details open><summary><h2>15-18 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, this section, which concerns Indra’s fickle attentions to various clients in turn, is marked grammatically by āmreḍitas and intensives (i.e., iterative/frequentatives), expressing the constantly shifting nature of the actions and their objects. See the published introduction. for the continuity of content I see in this section.
@@ -197,3 +261,4 @@ Wer preist ihn recht, wer sättigt, wer verehrt ihn, dass auch dem starken stets
 Подобно тому как (при ходьбе) выставляют ноги вперед: то одну, то другую,  
 Переднего он делает задним (своими) силами.
 </details>
+

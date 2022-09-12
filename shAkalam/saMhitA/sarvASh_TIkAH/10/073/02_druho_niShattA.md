@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+druháḥ ← drúh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+níṣattā ← √sad- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+pr̥śanī́ ← pr̥śanī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śáṁsena ← śáṁsa- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vāvr̥dhuḥ ← √vr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+abhī́vr̥tā ← √vr̥- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+mahāpadéna ← mahāpadá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+aranta ← √r̥- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+dhvāntā́t ← √dhvanⁱ- (root)  
+{case:ABL, gender:M, number:SG, non-finite:PPP}
+
+gárbhāḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prapitvā́t ← prapitvá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Sich an ihn schmiegend sass sie da wie eine Rächerin (?); sie [die Maruts] stä
 Эти (миры) словно накрыты (его) огромной стопой.  
 По выходе из мрака они возникли как потомки.
 </details>
+

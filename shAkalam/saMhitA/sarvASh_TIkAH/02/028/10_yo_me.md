@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yújyaḥ ← yújya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ha ← √ah- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bhayám ← bhayá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhīráve ← bhīrú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+svápne ← svápna- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dípsati ← √dabh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+stenáḥ ← stená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+vŕ̥kaḥ ← vŕ̥ka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tásmāt ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +258,4 @@ Wer mir, o König, sei er Freund, Verwandter, dem bangen drohend, Furcht im Schl
 Или вор, который преследует нас, или волк, –  
 Ты сохрани нас от этого, о Варуна!
 </details>
+

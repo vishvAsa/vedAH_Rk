@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dadarśa ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+katamáḥ ← katamá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bahudhā́ ← bahudhā́ (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+paryápaśyat ← √paś- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+kṣiyanti ← √kṣi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kvà ← kvà (invariable)  
+{}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+devayā́nīḥ ← devayā́na- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+samídhaḥ ← samídh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,8 +198,6 @@ popular
 These cryptically allude exactly to what de Santillana and von Dechend mention as the armillary sphere of the sky with agni as the equinotical colure. The point where he enters the waters is the intersection with the celestial equator. They mention that the Aztecs took Castor and Pollux to be the fire sticks from which men learned to make fire.
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -179,3 +235,4 @@ Wer hat mich gesehen, welcher ist es unter den Göttern, der meine Leiber vielfa
 Все поленья Агни, служащие (ему) дорогой к богам?  
 Боги:
 </details>
+

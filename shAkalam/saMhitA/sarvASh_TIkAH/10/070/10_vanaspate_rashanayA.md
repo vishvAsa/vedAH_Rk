@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+niyū́ya ← √yu- 1 (root)  
+{non-finite:CVB}
+
+raśanáyā ← raśanā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vánaspate ← vánaspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pā́thaḥ ← pā́thas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vakṣi ← √vah- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havī́ṁṣi ← havís- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kr̥ṇávat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+svádāti ← √svad- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ávatām ← √avⁱ- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ O Opferpfosten, mit dem Strang dich schirrend, fahr kundig her nun zu dem Ort de
 Пусть бог сделает вкусными, пусть приготовит возлияния!  
 Пусть Небо-и-Земля помогут моему призыву!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+indravā́haḥ ← indraváh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nr̥pátim ← nr̥páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vájrabāhum ← vájrabāhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+taviṣā́saḥ ← taviṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ugrā́saḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prátvakṣasam ← prátvakṣas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+satyáśuṣmam ← satyáśuṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmatrā́ ← asmatrā́ (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+sadhamā́daḥ ← sadhamád- (nominal stem)  
+{case:NOM, number:PL}
+
+vahantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Des Indra Rosse, seine Festgenossen, die starken kräft'gen mögen ihn, den star
 Пусть привезут этого очень деятельного быка,  
 Чье неистовство истинно, к нам, (эти его) сотрапезники!
 </details>
+

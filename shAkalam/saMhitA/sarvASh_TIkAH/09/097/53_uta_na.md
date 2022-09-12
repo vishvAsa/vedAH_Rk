@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+pavayā́ ← pavā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+śravā́yyasya ← śravā́yya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śruté ← √śru- (root)  
+{case:LOC, gender:N, number:SG, non-finite:PPP}
+
+tīrthé ← tīrthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+naigutáḥ ← naigutá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ṣaṣṭím ← ṣaṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dhūnavat ← √dhū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pakvám ← pakvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ráṇāya ← ráṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vr̥kṣám ← vr̥kṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +205,7 @@ The 2nd hemistich is entirely clear, except for the nom. sg. subject, the hapax 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/52-54.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/52-54.md">
 <details open><summary><h2>52-54 ...{Loading}...</h2></summary>
 
 The simplistic repetition of the previous tṛca contrasts markedly with the contents of this one, which is mind-bogglingly difficult and opaque. Oldenberg pronounces it “grösstenteils hoffnungslos.” Thematically it seems to deal with the distribution of wealth in a ritual/martial context, and it also shows signs of lexical cohesion, esp. the hapaxes mām̐ścatvá- (52b) and mā́m̐ścatva- (54b), also vásūni (52a, 53c), and of varied formulaic repetition: ayā́pavā́pavasvainā́(52a) / enā́ pavayā́pavasva (53a). My interpr. of this tṛca, in its many obscure details and in its entirety, is very different from the standard ones. In places it pushes the morphology, syntax, and semantics perhaps further than is warranted, and it may seems at times far-fetched. But it has, I think, a richer semantics than the other accounts, and above all it deliberately avoids the refuge taken by others, to make the difficult words into proper nouns.
@@ -182,3 +237,4 @@ Und flamme hell mit diesem Flammenstrome an der berühmten Furt des preisenswert
 Пусть Найгута (нам) на радость потрясет,  
 Как спелое дерево, шестьдесят тысяч благ!
 </details>
+

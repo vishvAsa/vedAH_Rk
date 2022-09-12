@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kr̥ṇuṣvá ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+pā́jaḥ ← pā́jas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prásitim ← prásiti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pr̥thvī́m ← pr̥thú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ámavān ← ámavant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+íbhena ← íbha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yāhí ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+drūṇānáḥ ← √drū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+prásitim ← prásiti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tr̥ṣvī́m ← tr̥ṣú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ástā ← ástar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tápiṣṭhaiḥ ← tápiṣṭha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vídhya ← √vyadh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,8 +204,6 @@ Forcefully casting your widespreading net, like a king impetously setting forth 
 swiftly hurling your net, shooting your missiles, pierce the rakShas with your intensely hot flames.
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -218,3 +274,4 @@ Breit aus dein Licht wie eine weite Heerschar, gleich mächt'gem König geh mit 
 Кинувшись вслед за жадной петлей, –  
 Ты (ведь) стрелок-пронзи ракшасов самыми раскаленными (стрелами)!
 </details>
+

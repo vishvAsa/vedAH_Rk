@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dádr̥śānaḥ ← √dr̥ś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+mātárā ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+usríyaḥ ← usríya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nā́nadat ← √nad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+svanáḥ ← svaná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svàrṇaram ← svàrṇara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+avr̥ṇīta ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+kám ← kám (invariable)  
+{}
+
+práśastaye ← práśasti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Dem Kalbe gleich, was seine Mütter hat erblickt, geht brüllend er gleich wie d
 Поскольку он знает, каков изначальный закон,  
 Сварнару выбрал себе для восхваления (этот) прекрасный силой духа.
 </details>
+

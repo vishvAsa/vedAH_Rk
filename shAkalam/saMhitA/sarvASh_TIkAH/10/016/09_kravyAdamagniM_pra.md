@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dūrám ← dūrá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+hinomi ← √hi- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+kravyā́dam ← kravyā́d- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+gachatu ← √gam- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ripravāháḥ ← ripravāhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yamárājñaḥ ← yamárājan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+ítaraḥ ← ítara- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+jātávedāḥ ← jātávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prajānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vahatu ← √vah- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Den Agni, der das Fleisch verzehrt, entfern' ich; er geh zum Reich des Jama, Fle
 Здесь же другой – Джатаведас.  
 Пусть отвезет он жертву богам, зная путь!
 </details>
+

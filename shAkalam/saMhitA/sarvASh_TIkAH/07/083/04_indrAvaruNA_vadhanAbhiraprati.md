@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apratí ← apratí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+índrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vadhánābhiḥ ← vadhánā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+āvatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+bhedám ← bhedá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sudā́sam ← sudā́s- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vanvántā ← √vanⁱ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+hávīmani ← hávīman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śr̥ṇutam ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+puróhitiḥ ← puróhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+satyā́ ← satyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tŕ̥tsūnām ← tŕ̥tsu- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ Unwiderstehlich schlagend, Indra-Varuna, mit Hieb den Bheda, standet ihr dem Sud
 Услышьте эти заклинания в призыве (богов)!  
 Служба пурохиты охазалась истинной для тритсу.
 </details>
+

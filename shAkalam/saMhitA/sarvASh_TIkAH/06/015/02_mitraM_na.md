@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhŕ̥gavaḥ ← bhŕ̥gu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dadhúḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+súdhitam ← súdhita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ī́ḍyam ← ī́ḍya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrdhváśociṣam ← ūrdhváśocis- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vánaspátau ← vánaspáti- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+adbhuta ← ádbhuta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+súprītaḥ ← súprīta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vītáhavye ← vītáhavya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mahayase ← √mahay- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+práśastibhiḥ ← práśasti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Den wohlbewahrt die Bhrigu's bargen in dem Holz, wie einen Freund, den herrliche
 Очень довольный, о удивительный, у Витахавьи  
 Ты возвеличиваешься прославлениями день за днем.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ichánti ← √iṣ- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jāmáyaḥ ← jāmí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śaktím ← śaktí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+asmin ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jānate ← √jñā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+namasyántīḥ ← √namasy- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+ácha ← ácha (invariable)  
+{}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāvaśānā́ḥ ← √vāś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:MED}
+
+bíbhratam ← √bhr̥- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+vápūṁṣi ← vápus- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Die Schwestern, die des Stieres Kraft begehren, erkennen ihre Frucht in ihm voll
 Дойные коровы мыча быстро направляются  
 К сыну, несущему (свои) красоты.
 </details>
+

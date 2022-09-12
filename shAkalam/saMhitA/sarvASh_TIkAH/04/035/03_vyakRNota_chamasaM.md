@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+akr̥ṇota ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+camasám ← camasá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+caturdhā́ ← caturdhā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+abravīta ← √brū- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+sákhe ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śikṣa ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+aita ← √i- 1 (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājāḥ ← vā́ja- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+gaṇám ← gaṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+suhastāḥ ← suhásta- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Vier Becher machtet ihr aus einer Schale, »sei hülfreich uns, Genosse«, also 
 Затем отправились вы, о Ваджи, путем бессмертия,  
 К толпе богов, о Рибху прекраснорукие.
 </details>
+

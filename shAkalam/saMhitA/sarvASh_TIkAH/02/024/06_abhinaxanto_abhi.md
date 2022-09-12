@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+abhinákṣantaḥ ← √nakṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ānaśúḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+gúhā ← gúhā (invariable)  
+{}
+
+hitám ← √dhā- 1 (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+nidhím ← nidhí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+paṇīnā́m ← paṇí- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+paramám ← paramá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánr̥tā ← ánr̥ta- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+praticákṣya ← √cakṣ- (root)  
+{non-finite:CVB}
+
+púnar ← púnar (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vidvā́ṁsaḥ ← √vid- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+āvíśam ← √viś- (root)  
+{case:ACC, number:SG}
+
+ā́yan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+īyuḥ ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+yátas ← yátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +246,4 @@ Sie welche nahend hingelangten zu dem Schatz der Schätzehüter, dem verborg'nen
 Эти знатоки, разглядев обманы, снова  
 Отправились туда, откуда они вышли, чтобы проникнуть (в гору).
 </details>
+

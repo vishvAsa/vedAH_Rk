@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rādhānām ← rādha- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sutám ← √su- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tú ← tú (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +156,4 @@ Gebraut ist hier ringsum mit Kraft der Soma, o der Gaben Herr, So trink ihn denn
 По (правилам), о господин подарков.  
 Пей же его, о жаждущий хвалебных песен!
 </details>
+

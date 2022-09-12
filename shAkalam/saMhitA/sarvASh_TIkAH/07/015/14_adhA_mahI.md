@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+ā́yasī ← āyasá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ánādhr̥ṣṭaḥ ← ánādhr̥ṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nŕ̥pītaye ← nŕ̥pīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pū́ḥ ← púr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śatábhujiḥ ← śatábhuji- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ Sei jetzt uns eine eh'rne Burg, die gross sei, hundertfach umhegt, Unangreifbar,
 Великой железной крепостью  
 В сто колец для защиты мужей!
 </details>
+

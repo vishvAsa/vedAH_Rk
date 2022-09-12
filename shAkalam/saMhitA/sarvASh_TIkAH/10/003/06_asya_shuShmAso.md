@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dadr̥śānápaveḥ ← dadr̥śānápavi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śúṣmāsaḥ ← śúṣma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jéhamānasya ← √jeh- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+niyúdbhiḥ ← niyút- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+svanayan ← √svanⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+devátamaḥ ← devátama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pratnébhiḥ ← pratná- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+rúśadbhiḥ ← rúśant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+aratíḥ ← aratí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhā́ti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rébhadbhiḥ ← √ribh- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+víbhvā ← víbhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +185,4 @@ Sein Schnaufen wenn er fährt mit lichten Rädern und wenn er keucht, ertönt mi
 (У того,) кто как самый божественный посланник  
 Сверкает древними светлыми поющими (языками пламени), (этот) выдающийся.
 </details>
+

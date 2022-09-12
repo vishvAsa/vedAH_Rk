@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vaíśvānara ← vaiśvānará- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dadharṣa ← √dhr̥ṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mahā́ni ← mahá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+jā́yamānaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+pitróḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+ávindaḥ ← √vid- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vayúneṣu ← vayúna- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +207,7 @@ To return to the question of the relationship between the two hemistichs, I sugg
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/03-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/03-05.md">
 <details open><summary><h2>03-05 ...{Loading}...</h2></summary>
 
 The middle of the hymn is characterized by initial (or modified initial) forms of the 2nd sg. prn.: 3a tvát, 3b tvát, 3c VOC tvám, 4a tvā́m, 4c táva, 5a VOC táva.
@@ -187,3 +239,4 @@ O Männerhort, an diese deine Werke, die grossen, Agni, wagt heran sich keiner; 
 Что, рождаясь в лоне родителей,  
 Ты нашел знак, чтобы отмечать дни вехами.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+cit ← cit (invariable)  
+{}
+
+giráyaḥ ← girí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jihate ← √hā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+mányamānāḥ ← √man- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+párśānāsaḥ ← párśāna- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+párvatāḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yemire ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +165,4 @@ Die Berge selbst, sie sinken hin, als wären tiefe Gründe sie, Und auch die Fel
 Считая себя впадинами,  
 Даже скалы поддались.
 </details>
+

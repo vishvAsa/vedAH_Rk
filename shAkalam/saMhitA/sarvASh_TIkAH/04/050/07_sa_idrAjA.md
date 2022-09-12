@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+prátijanyāni ← prátijanya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+śúṣmeṇa ← śúṣma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tasthau ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vīryèṇa ← vīryà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+bibhárti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+súbhr̥tam ← súbhr̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pūrvabhā́jam ← pūrvabháj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+valgūyáti ← √valgūy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vándate ← √vandⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +186,7 @@ The sense of pūrvabhā́j- is limited by pū́rva eti in 8d and for that reason
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These vss. are structured similarly: a main clause (or clauses) referring to the happy results for the king who (now a rel. cl.) properly treats a particular figure.
@@ -176,3 +225,4 @@ Nur der König hat stets alle seine Gegner durch Muth und Heldenstärke besiegt,
 Который хорошо заботится о Брихаспати,  
 Любит (его), восхваляет (его), считает получающим первую долю.
 </details>
+

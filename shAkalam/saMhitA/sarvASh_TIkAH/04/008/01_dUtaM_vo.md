@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+viśvávedasam ← viśvávedas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ámartyam ← ámartya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havyavā́ham ← havyavā́h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+r̥ñjase ← √r̥j- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+yájiṣṭham ← yájiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +144,4 @@ Den weisen Boten preise ich, den Gott, der eure Opfer fährt, Den besten Opfrer 
 Отвозящего жертвы, бессмертного,  
 Я превозношу в (своей) песне как лучшего жертвователя.
 </details>
+

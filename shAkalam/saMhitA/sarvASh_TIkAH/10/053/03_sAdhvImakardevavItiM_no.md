@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+akar ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+devávītim ← devávīti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sādhvī́m ← sādhú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+avidāma ← √vid- 1 (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+gúhyām ← gúhya- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jihvā́m ← jihvā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+surabhíḥ ← surabhí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásānaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+adyá ← adyá (invariable)  
+{}
+
+akar ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhadrā́m ← bhadrá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+deváhūtim ← deváhūti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +244,6 @@ He hath come, fragrant, clothed in life;
 He hath made our sacrifice this day to prosper.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Er hat unsere Götterladung heute erfolgreich gemacht; wir haben des Opfers geheime Zunge gefunden. Duftend ist er gekommen, sich in Lebenskraft kleidend; er hat heute unsere Götteranrufung gesegnet gemacht.
@@ -202,3 +262,4 @@ Ein heilsam Göttermahl vollbracht er heut uns, wir fanden nun des Opfers Wunder
 Он сделал счастливым для нас призыв богов сегодня.  
 Агни:
 </details>
+

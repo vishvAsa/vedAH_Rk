@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+atti ← √ad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jagāra ← √gr̥̄- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pattás ← pattás (invariable)  
+{}
+
+pratyáñcam ← pratyáñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadhau ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śīrṣṇā́ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+várūtham ← várūtha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́sīnaḥ ← √ās- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+kṣiṇāti ← √kṣī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+upási ← upás- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ūrdhvā́m ← ūrdhvá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+bhū́mim ← bhū́mi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nyàṅ ← nyàñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uttānā́m ← uttāná- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +208,4 @@ Von den Füssen an verzehrte er [etwa Agni?] den ihm zugewandten [Todten?], mit 
 
 -ru-
 </details>
+

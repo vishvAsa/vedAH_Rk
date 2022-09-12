@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+adhūnuta ← √dhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+br̥hatī́ḥ ← br̥hánt- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́yaḥ ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+kṣoṇī́ ← kṣoṇí- ~ kṣoṇī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+gávāśiraḥ ← gávāśir- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śukrā́saḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+amandiṣuḥ ← √mand- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Indra hat grosse Reichthümer hervorgeschüttelt, er die beiden Welten, und er d
 Вместе прозрачные чистые (и) вместе смешанные с молоком  
 Соки сомы Индру опьянили.
 </details>
+

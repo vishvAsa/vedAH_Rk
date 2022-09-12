@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+parjányāvā́tā ← parjányāvā́ta- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+purīṣíṇā ← purīṣín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vr̥ṣabhā́ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indravāyū́ ← indra-vāyú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ādityā́n ← ādityá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+divyā́saḥ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pā́rthivāsaḥ ← pā́rthiva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +194,4 @@ Gewölk und Wind die beiden Stiere wasserreich, Indra, Vaju, Varuna, Mitra, Arja
 
 -ru-
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+pīpayataḥ ← √pī- 1 (root)  
+{number:DU, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+samīcī́ ← samyáñc- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+púṣyan ← √puṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+subhágaḥ ← subhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ājáyan ← √ji- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kṣáyau ← kṣáya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pr̥tsú ← pŕ̥t- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+árdhau ← árdha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+bhavataḥ ← √bhū- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sādhū́ ← sādhú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ubhaú ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Ihm strömen beide Welten im Vereine des Himmels Regen, hochbeglückt gedeiht er
 Завоевывая оба места для жилья, идет он на битвы.  
 К нему благосклонны обе стороны!
 </details>
+

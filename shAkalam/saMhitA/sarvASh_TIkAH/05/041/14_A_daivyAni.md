@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+daívyāni ← daívya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jánma ← jánman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pā́rthivāni ← pā́rthiva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ácha ← ácha (invariable)  
+{}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+súmakhāya ← súmakha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vocam ← √vac- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+candrā́grāḥ ← candrā́gra- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dyā́vaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+várdhantām ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+abhíṣātāḥ ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+árṇāḥ ← árṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+udā́ ← úd- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vardhantām ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +224,4 @@ Ich ruf' des Himmels und der Erde Stämme, die Wasser ruf' ich her dem tapfern H
 Пусть растут небеса, горы со сверкающими вершинами!  
 Пусть растут от воды покоренные потоки!
 </details>
+

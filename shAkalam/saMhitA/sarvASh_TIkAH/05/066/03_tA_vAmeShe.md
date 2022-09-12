@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+éṣe ← éṣa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ráthānām ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+gávyūtim ← gávyūti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+urvī́m ← urú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rātáhavyasya ← rātáhavya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dadhŕ̥k ← dadhŕ̥k (invariable)  
+{}
+
+manāmahe ← √man- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+stómaiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ Mit Lob gedenken eurer wir, mit Ernst, wenn eurer Wagen Schar Hineilet auf die w
 Мы решительно задумали  
 Прекрасное восхваление (для вас) с помощью песен Ратахавьи.
 </details>
+

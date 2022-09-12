@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asiṣyadat ← √syand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+janáyan ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+iyakṣati ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+vásānaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+áviḥ ← ávi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gr̥bhṇā́ti ← √gr̥bhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+riprám ← riprá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tā́nvā ← tā́nva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+niṣkr̥tám ← niṣkr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śuddháḥ ← √śudh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+úpa ← úpa (invariable)  
+{}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +231,7 @@ but also on the árātayaḥ of c. The point is: if the stranger’s hostilities
 As I just said, I don’t have a high degree of certainty about the correctness of this interpr. Those produced by the others just named, which all assign both verbs to ‘reach, attain’, are certainly not out of the question. Unfortunately I can’t endorse either of Oldenberg’s alternatives, however.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/078/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/078/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 The opening of this vs. prá ṇo dhanvantv índavaḥ … echoes that of vs. 1 X no dhanvantv índavaḥ, prá but with the preverb in tmesis relocated to a more standard, pre-verbal position.
@@ -204,3 +265,4 @@ Gesang erzeugend ist der König vorgeströmt; gehüllt in Wasser strebt er nach 
 Овца забирает нечистое, (частицы) его тела.  
 Чистым приходит он на свидание с богами.
 </details>
+

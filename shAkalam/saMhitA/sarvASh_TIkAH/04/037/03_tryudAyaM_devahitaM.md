@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+deváhitam ← deváhita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tryudāyám ← tryudāyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+dadé ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+r̥bhukṣaṇaḥ ← r̥bhukṣán- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+stómaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vājāḥ ← vā́ja- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+juhvé ← √hu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+manuṣvát ← manuṣvát (invariable)  
+{}
+
+úparāsu ← úpara- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+br̥háddiveṣu ← br̥háddiva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sácā ← sácā (invariable)  
+{}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuṣmé ← tvám (pronoun)  
+{case:LOC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Wie euch dreimal'ges gottgeliebtes Opfer und Loblied, Vadscha's, Ribhu's, euch g
 Подобно Манусу, я возливаю сому среди теперешних племен  
 Для вас вместе с (богами, живущими) на высоком небе.
 </details>
+

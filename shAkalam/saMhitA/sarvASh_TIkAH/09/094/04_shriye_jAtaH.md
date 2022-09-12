@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+iyāya ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+nís ← nís (invariable)  
+{}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+dadhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jaritŕ̥bhyaḥ ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+śríyam ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+amr̥tatvám ← amr̥tatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+śríyam ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vásānāḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+bhávanti ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mitádrau ← mitádru- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+samithā́ ← samithá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+satyā́ ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +239,4 @@ Zum Glanz geboren ging hervor zum Glanz er und Glanz und Jugend schenket er den 
 Рядясь в блеск, (соки сомы) вошли в бессмертие.  
 Сражения проходят успешно, когда он бежит размеренным шагом.
 </details>
+

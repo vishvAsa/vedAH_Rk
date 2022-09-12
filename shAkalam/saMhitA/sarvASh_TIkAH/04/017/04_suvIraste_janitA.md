@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janitā́ ← janitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manyata ← √man- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+suvī́raḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kartā́ ← kartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svápastamaḥ ← svápastama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+jajā́na ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+suvájram ← suvájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svaryàm ← svaryà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ánapacyutam ← ánapacyuta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhū́ma ← bhū́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sádasaḥ ← sádas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +220,7 @@ On the tangled paternity here, see published introduction.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/01-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
 Hoffmann (Injunk. 178-180) treats these four vss. They express the cosmic disruptions attendant on Indra’s birth and the further disruptions caused by his smashing of Vṛtra. On the ring composition that demarcates this section, see comm. on vs. 4 below.
@@ -197,3 +252,4 @@ Dein Vater dünkte mächtig sich, der Himmel; des Indra Zeuger hat vollbracht da
 Который породил его, громкогласного, с прекрасной ваджрой,  
 Несдвигаемого, словно земля, с места.
 </details>
+

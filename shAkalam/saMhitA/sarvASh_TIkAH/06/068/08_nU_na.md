@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gr̥ṇānā́ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+indrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+devā ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pr̥ṅktám ← √pr̥c- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sauśravasā́ya ← sauśravasá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+gr̥ṇántaḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+mahínasya ← mahína- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+duritā́ ← duritá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nāvā́ ← naú- ~ nā́v- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tarema ← √tr̥̄- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +201,4 @@ Nun füllt, gepriesne, Varuna und Indra, uns Reichthum zu zum Wohlergehn, o Göt
 Так воспевая могущество великого,  
 Да пересечем мы трудности, словно воды на лодке.
 </details>
+

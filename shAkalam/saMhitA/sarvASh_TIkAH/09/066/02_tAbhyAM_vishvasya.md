@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+rājasi ← √rāj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tā́bhyām ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:DU}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhā́manī ← dhā́man- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+pavamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:N, number:DU}
+
+pratīcī́ ← pratyáñc- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tasthátuḥ ← √sthā- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,7 +136,7 @@ This interpr. gives pratīcī́in c more content than the fairly empty rendering
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The tṛca shows clear signs of unity, esp. lexically. Not only do all three vss.
@@ -139,3 +167,4 @@ Du flammender beherrschst das All durch beide Weltenstätten, die, O Soma, sich 
 
 -ru-
 </details>
+

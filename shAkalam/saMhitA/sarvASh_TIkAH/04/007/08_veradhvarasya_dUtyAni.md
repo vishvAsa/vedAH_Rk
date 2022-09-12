@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvarásya ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dūtyā̀ni ← dūtyà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+véḥ ← √vī- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+antár ← antár (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+saṁcikitvā́n ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īyase ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+pradívaḥ ← pradív- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+urāṇáḥ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+āródhanāni ← āródhana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vidúṣṭaraḥ ← vidúṣṭara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +163,7 @@ The VP √vid āródhanaṃ diváḥ (a variant of our vidúṣṭaro divá ār�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/007/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/007/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 On 3rd sg. veḥ (√vī) in 7d, see comm. ad II.5.3. Here the form serves as a pivot, veḥ in 8a having the more morphologically orthodox 2nd ps. reference. The near identity of the two adjacent phrases, 7d #vér adhvarā́ya and 8a #vér adhvarásya (dūtyā̀ni), requires us to consider them together. The first is clearly 3rd sg. (with nom. agníḥ in the preceding pāda, nom. ṛtā́vā in the same pāda). The 2nd ps. ref. of the second only emerges in pāda 8c, with 2nd sg. verb īyase. The poet seems to want first to enforce the 3rd ps. reference of the verb (even in 8ab the nom. pf. participles vidvā́n and cikitvā́n appear to continue the 3rd ps.) and then require us to construct a paradigm: 2nd sg. vés [sandhi vér], 3rd sg. vés [sandhi vér], like 2nd sg. (ā́)var, 3rd sg.
@@ -158,3 +204,4 @@ Er geht, auf Opfers Botschaft sich verstehend, hin zwischen beiden Welten, wohl 
 От века ты движешься, выбранный вестником,  
 Лучше других знающий подъемы на небо.
 </details>
+

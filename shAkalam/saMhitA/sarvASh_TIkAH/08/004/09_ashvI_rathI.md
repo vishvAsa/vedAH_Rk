@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvī́ ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+rathī́ ← rathín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+surūpáḥ ← surūpá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gómān ← gómant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+sacate ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sádā ← sádā (invariable)  
+{}
+
+śvātrabhā́jā ← śvātrabháj- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+váyasā ← váyas- 2 (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+candráḥ ← candrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sabhā́m ← sabhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ An Wagen, Rossen, Rindern reich, ist, Indra, schön dein Freund geschmückt, Mit
 Всегда есть у него еда, поддерживающая силы.  
 Блистательный приходит он в собрание.
 </details>
+

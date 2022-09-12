@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+srávitavaí ← √sru- (root)  
+{case:DAT, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+áhinā ← áhi- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+páriṣṭhitāḥ ← √sthā- (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhénāḥ ← dhénā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+rathyàḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+vāvakre ← √vañc- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+bhīṣā́ ← bhiyás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+kr̥trímāṇi ← kr̥tríma- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+réjante ← √rej- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Du liessest, Indra, die Gewässer strömen, o Held, die vielen von der Schlang' 
 Из-за тебя выкатились потоки, словно на колесах,  
 Сотрясаются от страха все искусственные (валы).
 </details>
+

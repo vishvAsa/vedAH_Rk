@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+aráṇī ← aráṇi- ~ aráṇī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+hiraṇyáyī ← hiraṇyáya- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+nirmánthataḥ ← √manthⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+daśamé ← daśamá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+māsí ← mā́s- 1 (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sū́tave ← √sū- 2 (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ Die Frucht, die dir das Ritterpaar hervorreibt mit dem goldnen Holz, Die wünsch
 Этот плод мы призываем для тебя,  
 Чтоб родила (ты его) на десятом месяце.
 </details>
+

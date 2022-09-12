@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+gāyata ← √gā(y)- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+parjányāya ← parjánya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mīḷhúṣe ← mīḍhváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+putrā́ya ← putrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ichatu ← √iṣ- 2 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yávasam ← yávasa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +147,4 @@ Auf, singet dem Pardschanja nun dem gabenreichen Himmelssohn; Er schaffe uns der
 Для сына неба, для щедрого!  
 Пусть найдет он нам пастбище!
 </details>
+

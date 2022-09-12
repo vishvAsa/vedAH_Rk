@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+arakṣásam ← arakṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+hávāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+rātím ← rātí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vājinīvasū ← vājínīvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvā́bhyām ← tvám (pronoun)  
+{case:INS, number:DU}
+
+hótrām ← hótrā- 2 (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+itam ← √i- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+prā́cīm ← prā́ñc- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pratirántau ← √tr̥̄- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+gr̥ṇānā́ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+jamádagninā ← jamádagni- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +187,4 @@ Wenn eure holde Spende wir erflehen uns von euch, o gabenreiche ihr, So kommt, o
 Приезжайте, о два мужа, отправляясь за устремленной вперед жертвой,  
 Восхваленные Джамадагни!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dáśamāyam ← dáśamāya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dáśoṇim ← dáśoṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vetasúm ← vetasú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svabhiṣṭísumnaḥ ← svabhiṣṭísumna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tū́tujim ← tū́tuji- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dyótanāya ← dyótana- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+íbham ← íbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śáśvat ← śáśvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+túgram ← túgra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iyádhyai ← √yā- 2 (root)  
+{case:DAT, number:SG}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sīm ← sīm (invariable)  
+{}
+
+sr̥jai ← √sr̥j- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +238,4 @@ Den sehr gewandten Vetasu, den schnellen Daçoni und mit allen Dienern Tugra, De
 Тугру, Ибху я хочу подогнать к Дьотане,  
 Чтобы он постоянно возвращался к нему, как (теленок) к матери.
 </details>
+

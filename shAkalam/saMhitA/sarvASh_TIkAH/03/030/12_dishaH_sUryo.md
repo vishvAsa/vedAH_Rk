@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+díśaḥ ← díś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mināti ← √mī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+prádiṣṭāḥ ← √diś- (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+háryaśvaprasūtāḥ ← háryaśvaprasūta- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ádhvanaḥ ← ádhvan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ā́naṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tú ← tú (invariable)  
+{}
+
+vimócanam ← vimócana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +245,4 @@ Die Sonne ändert nicht die festen Ziele, der Tag für Tag vom Rosseherrn gesetz
 Только после того, как оно достигло конца (своих) путей,  
 Оно распрягает коней – такова его (работа).
 </details>
+

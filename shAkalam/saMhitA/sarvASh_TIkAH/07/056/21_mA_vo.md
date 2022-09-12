@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arāma ← √r̥- 1 (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+dātrā́t ← dātrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+nís ← nís (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+daghma ← √dagh- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+paścā́t ← paścā́t (invariable)  
+{}
+
+rathyaḥ ← rathī́- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vibhāgé ← vibhāgá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhajatana ← √bhaj- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+spārhé ← spārhá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vasavyè ← vasavyà- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+sujātám ← sujātá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vr̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +244,4 @@ Entzieht uns nicht, o Maruts, eure Gabe, noch setzt zurück uns bei des Guts Ver
 Дайте нам долю в желанном богатстве,  
 (Всё,) что у вас есть прекрасного, о быки!
 </details>
+

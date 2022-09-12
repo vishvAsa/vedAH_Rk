@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+cyautnā́ni ← cyautná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+etā́ ← eṣá (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+kr̥tā́ ← √kr̥- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+párīṇasā ← párīṇas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+várṣiṣṭhāni ← várṣiṣṭha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+adhārayaḥ ← √dhr̥- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vīḷú ← vīḷú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +150,4 @@ All diese höchsten Thaten hast in reicher Fülle du vollbracht, Das Feste schü
 Целиком совершенные тобой,  
 Ты непреклонно вынашивал в сердце.
 </details>
+

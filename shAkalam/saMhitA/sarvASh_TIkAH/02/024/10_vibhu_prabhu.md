@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mehánāvataḥ ← mehánāvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prabhú ← prabhú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vibhú ← vibhú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bŕ̥haspáteḥ ← bŕ̥haspáti- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rā́dhyā ← rā́dhya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+suvidátrāṇi ← suvidátra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+sātā́ni ← √sanⁱ- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:GEN, number:SG}
+
+venyásya ← venyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhuñjaté ← √bhuj- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jánāḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ubháye ← ubháya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +193,4 @@ Gross, mächtig ist des Gabenreichen erste That, erwünscht die reichen Gaben de
 Эти приобретения ясновидца, завоевывающего награду,  
 Которого используют оба рода, (все) племена.
 </details>
+

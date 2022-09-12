@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D
+#### Morph
+ásamātiṣu ← ásamāti- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kṣatrā́ ← kṣatrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dhāraya ← √dhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ráthaproṣṭheṣu ← ráthaproṣṭha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dr̥śé ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +143,4 @@ Indra, bewahr den trefflichen Rathaproschtha's die Herrschermacht, Wie Sonnenlic
 У (людей) Асамати, у (людей) Ратхапроштха,  
 Как солнце на небе, чтоб (можно было) видеть!
 </details>
+

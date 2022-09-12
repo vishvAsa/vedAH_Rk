@@ -14,12 +14,37 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M
+#### Morph
+jātávedāḥ ← jātávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+karati ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+svadhvarā́ ← svadhvará- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+amŕ̥tān ← amŕ̥ta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pipráyat ← √prī- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+yákṣat ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +137,4 @@ Erwünschte Feier wirk der Wesenkenner, die ew'gen Götter ehr er und erfreu sie
 Пусть создаст прекрасные обряды Джатаведас,  
 Пусть почтит он богов бессмертных и обрадует!
 </details>
+

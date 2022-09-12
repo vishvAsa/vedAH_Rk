@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ayā́sam ← ayā́s- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ghorám ← ghorá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádhupr̥ṣṭham ← mádhupr̥ṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+r̥ṣvám ← r̥ṣvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+urucakré ← urucakrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yuñjanti ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+jāmáyaḥ ← jāmí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+marjayanti ← √mr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+svásāraḥ ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sánābhayaḥ ← sánābhi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ūrjayanti ← √ūrjay- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ Sie schirren an den Wagen, breit an Rädern, den hohen, hehren, milchbedeckten R
 Родные сестры начищают его,  
 Кровные родственницы подкрепляют завоевателя награды.
 </details>
+

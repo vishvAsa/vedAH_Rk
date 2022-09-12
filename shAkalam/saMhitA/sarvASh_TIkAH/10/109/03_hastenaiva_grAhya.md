@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ādhíḥ ← ādhí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+grāhyàḥ ← grāhyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hástena ← hásta- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ávocan ← √vac- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+brahmajāyā́ ← brahmajāyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+íti ← íti (invariable)  
+{}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+dūtā́ya ← dūtá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prahyè ← √hi- (root)  
+{case:DAT, number:SG}
+
+tasthe ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+gupitám ← √gup- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+kṣatríyasya ← kṣatríya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rāṣṭrám ← rāṣṭrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+táthā ← táthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ Mit der eigenen Hand muß er ihr Pfand fassen, wenn sie entschieden haben: Dies 
 Если провозгласили: Она жена брахмана.  
 Она не была расположена, чтобы отправили вестника.
 </details>
+

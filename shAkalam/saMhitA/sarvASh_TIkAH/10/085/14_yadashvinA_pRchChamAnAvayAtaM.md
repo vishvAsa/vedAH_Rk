@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+áyātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+pr̥chámānau ← √praś- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sūryā́yāḥ ← sūryā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+tricakréṇa ← tricakrá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vahatúm ← vahatú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ajānan ← √jñā- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+avr̥ṇīta ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+pitárau ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Als ihr, o Açvinen, voll Verlangen auf eurem dreirädrigen Wagen zu der Hochzei
 Все боги вам это разрешили.  
 Пушан, сын, выбрал (вас) родителями.
 </details>
+

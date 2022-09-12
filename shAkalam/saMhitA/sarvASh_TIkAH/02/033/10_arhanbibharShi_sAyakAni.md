@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árhan ← √arh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bibharṣi ← √bhr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dhánva ← dhánur ~ dhánvan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sā́yakāni ← sā́yaka- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+árhan ← √arh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+niṣkám ← niṣká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvárūpam ← viśvárūpa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajatám ← yajatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ábhvam ← ábhva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+árhan ← √arh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dayase ← √dā- 3 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ójīyaḥ ← ójīyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rudra ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+vaí ← vaí (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +239,4 @@ Als würd'ger trägst du deinen Pfeil und Bogen, als würd'ger hehren reichgezie
 По праву ты уничтожаешь здесь все чудовищное.  
 Ведь нет, о Рудра, (никого) сильнее тебя!
 </details>
+

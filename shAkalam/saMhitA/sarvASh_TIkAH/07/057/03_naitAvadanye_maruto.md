@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anyé ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+etā́vat ← etā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ā́yudhaiḥ ← ā́yudha- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+bhrā́jante ← √bhrāj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+rukmaíḥ ← rukmá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tanū́bhiḥ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+piśānā́ḥ ← √piś- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+viśvapíśaḥ ← viśvapíś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+añjate ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+añjí ← añjí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+kám ← kám (invariable)  
+{}
+
+samānám ← samāná- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śubhé ← śúbh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Nicht glänzen andre so wie diese Maruts an goldnem Schmuck, an Waffen und an Le
 Украшая две половины вселенной, (они,) украшающие всё,  
 Натираются общим (сверкающим) притираньем – для красоты.
 </details>
+

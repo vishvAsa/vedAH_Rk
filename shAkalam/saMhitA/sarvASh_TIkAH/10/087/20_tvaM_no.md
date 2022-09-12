@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+adharā́t ← adharā́t (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+údaktāt ← údaktāt (invariable)  
+{}
+
+paścā́t ← paścā́t (invariable)  
+{}
+
+purástāt ← purástāt (invariable)  
+{}
+
+rakṣa ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ajárāsaḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+tápiṣṭhāḥ ← tápiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+agháśaṁsam ← agháśaṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dahantu ← √dah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+śóśucataḥ ← √śuc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ Beschütz von unten, Agni, uns von oben, beschirme uns von hinten und von vorne,
 Эти твои нестареющие самые жаркие (языки пламени)  
 Пусть ярко пылая, испепелят злоречивца!
 </details>
+

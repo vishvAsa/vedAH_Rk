@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágohyam ← ágohya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nárā ← nár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pūṣáṇam ← pūṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śáṁsam ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+arcase ← √r̥c- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+devéddham ← devéddha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+candrámasā ← candrámas- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sū́ryāmā́sā ← sū́ryāmā́s- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yamám ← yamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aktúm ← aktú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+tritám ← tritá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vā́tam ← vā́ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Den Naraçansa, Puschan, den kein Dunkel birgt, den gottenflammten Agni preis' i
 
 -ru-
 </details>
+

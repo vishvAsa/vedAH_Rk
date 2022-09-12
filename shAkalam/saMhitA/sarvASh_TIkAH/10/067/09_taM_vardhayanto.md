@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śivā́bhiḥ ← śivá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vardháyantaḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+nā́nadatam ← √nad- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:MED}
+
+sadhásthe ← sadhástha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+siṁhám ← siṁhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śū́rasātau ← śū́rasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+bháre-bhare ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jiṣṇúm ← jiṣṇú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+madema ← √mad- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Den Brihaspati durch heilsame Lieder stärkend, ihn, der wie ein Löwe auf seine
 (Этого) Брихаспати-быка победоносного  
 Мы хотим бурно приветствовать при захвате (награды) среди героев, в каждой битве.
 </details>
+

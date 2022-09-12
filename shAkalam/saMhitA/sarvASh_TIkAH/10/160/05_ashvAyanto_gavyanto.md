@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvāyántaḥ ← √aśvāy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+gavyántaḥ ← √gavy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vājáyantaḥ ← √vājay- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+hávāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+úpagantavaí ← √gam- (root)  
+{case:DAT, number:SG}
+
+ābhū́ṣantaḥ ← √bhūṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+návāyām ← náva- 2 (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sumataú ← sumatí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+huvema ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śunám ← śuná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +191,4 @@ Wir rufen dich, damit du zu uns kommest, und wünschen Rosse, Rinder uns und Spe
 Предвкушая твою новую милость,  
 Мы, о Индра, хотим звать тебя на счастье.
 </details>
+

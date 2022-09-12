@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+áramamāṇaḥ ← áramamāṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+duhitúḥ ← duhitár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rávam ← ráva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
+abharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+jóṣam ← jóṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vinaṁgr̥sáḥ ← vinaṁgr̥sá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dvayī́bhiḥ ← dvayá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+jāmíbhiḥ ← jāmí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+kṣeti ← √kṣi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+svásr̥bhiḥ ← svásar- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +245,4 @@ Er schreitet rastlos zu der Milch der Kühe hin, vordringend durch der Sonnentoc
 По (его) желанию:принес ему (хвалу?).  
 Он живет с сестрами-родственницами с двух сторон.
 </details>
+

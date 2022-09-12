@@ -15,13 +15,53 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+áhānām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+idā́ ← idā́ (invariable)  
+{}
+
+taú ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+bruve ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+taú ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+úpa ← úpa (invariable)  
+{}
+
+vándamānaḥ ← √vandⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+taú ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +172,4 @@ Als solche red' ich beide an, die beiden Ritter, sie verehrend heut am Tag, Sie 
 К этим Ашвинам я обращаюсь, почитая –  
 Мы просим их с поклонениями –
 </details>
+

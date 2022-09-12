@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+kumāríṇā ← kumārín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+putríṇā ← putrín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+aśnutaḥ ← √naś- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+híraṇyapeśasā ← híraṇyapeśas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +147,4 @@ An Söhnen und an Töchtern reich erreichen sie des Lebens Ziel, Sie beide reich
 Они достигают полного срока жизни,  
 Оба украшенные золотом.
 </details>
+

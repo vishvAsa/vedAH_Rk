@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sahā́vā ← sahā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+sāviṣat ← √sū- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vásupatiḥ ← vásupati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amátim ← amáti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+urūcī́m ← uruvyáñc- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+viśráyamāṇaḥ ← √śri- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ádha ← ádha (invariable)  
+{}
+
+martabhójanam ← martabhójana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rāsate ← √rā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Es schaffe nun Gott Savitar, der starke, uns Schätze her, der reiche Herr der S
 Развертывая далеко (свой) образ.  
 Пусть он даст нам пищу, (подобающую) смертным!
 </details>
+

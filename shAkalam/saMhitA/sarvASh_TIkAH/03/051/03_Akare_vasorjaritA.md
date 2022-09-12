@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ākaré ← ākará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jaritā́ ← jaritár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+panasyate ← √panasy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vásoḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+anehásaḥ ← anehás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+duvasyati ← √duvasy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stúbhaḥ ← stúbh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+pipriyé ← √prī- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vivásvataḥ ← vivásvant- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+abhimātihánam ← abhimātihán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+satrāsā́ham ← satrāsáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stuhi ← √stu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Beim Gutvertheiler ist der Sänger gern gesehn, die fehlerlosen Lieder sind dem 
 Ведь ему нравится на месте жреца:  
 Славь того, кто побеждает всегда, кто убивает преследователя!
 </details>
+

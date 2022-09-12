@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M  
 genre M
+#### Morph
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+sadhásthe ← sadhástha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vidhántaḥ ← √vidh- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+gman ← √gam- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+naṣṭám ← √naś- 2 (root)  
+{case:NOM, gender:M, number:SG, voice:PASS}
+
+padaíḥ ← padá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+paśúm ← paśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cátantam ← √cat- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+gúhā ← gúhā (invariable)  
+{}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+uśíjaḥ ← uśíj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+avindan ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhŕ̥gavaḥ ← bhŕ̥gu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ichántaḥ ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Ihm eilten in des Wassers Sitz die frommen mit Schritten nach wie dem verirrten 
 Ушиджи, с поклонениями ища скрывающегося в тайне,  
 Нашли (его, эти) мудрые Бхригу.
 </details>
+

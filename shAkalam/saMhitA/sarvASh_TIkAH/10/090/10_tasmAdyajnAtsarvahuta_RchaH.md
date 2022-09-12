@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+ajāyanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tásmāt ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ubhayā́dataḥ ← ubhayā́dant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+jajñire ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+tásmāt ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+ajāváyaḥ ← ajāví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jātā́ḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+tásmāt ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,9 +189,6 @@ popular;; epic anuṣṭubh (380)
 अध्यात्मपक्षे **सर्वहुतः** सर्वात्मा पुरुषः पशुत्वेन हूयते ऽस्मिन्निति सोऽयं **सर्वहुत्** तस्मात् पूर्वोक्ताद् मानसाद् **यज्ञात्** । शिष्टं समानम् ।। १३ ।। 
 </details>
 
-
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -191,3 +231,4 @@ Aus ihm entsprangen die Rosse und alle mit zwei Zahnreihen versehenen Thiere; au
 Быки родились из нее,  
 Из нее родились козы и овцы.
 </details>
+

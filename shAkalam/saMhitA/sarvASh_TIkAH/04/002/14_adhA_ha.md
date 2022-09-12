@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+tvāyā́ ← tvám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cakr̥má ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+hástebhiḥ ← hásta- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+paḍbhíḥ ← pád- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tanū́bhiḥ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ápasā ← ápas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+bhuríjoḥ ← bhuríj- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+krántaḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āśuṣāṇā́ḥ ← √śvasⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sudhyàḥ ← sudhī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yemuḥ ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +237,4 @@ Was wir nun auch aus Lieb' zu dir vollbrachten mit Füssen, Händen und mit Leib
 (Служили) трудом двух рук, как те, кто делает колесницу,  
 (Люди) с добрыми мыслями, радея, придерживались закона.
 </details>
+

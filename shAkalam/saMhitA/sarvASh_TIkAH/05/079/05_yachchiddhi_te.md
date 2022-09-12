@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+cit ← cit (invariable)  
+{}
+
+gaṇā́ḥ ← gaṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+chadáyanti ← √chand- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+magháttaye ← maghátti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+váṣṭayaḥ ← váṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áhrayam ← áhraya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dádataḥ ← √dā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áśvasūnr̥te ← aśvasūnr̥ta- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sújāte ← sujātá- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +228,4 @@ Wenn irgend diese Scharen dir gefallen zu des Guts Empfang, So sind um uns begeh
 Давая подобающий почетный дар,  
 О благородная, о щедро дающая коней!
 </details>
+

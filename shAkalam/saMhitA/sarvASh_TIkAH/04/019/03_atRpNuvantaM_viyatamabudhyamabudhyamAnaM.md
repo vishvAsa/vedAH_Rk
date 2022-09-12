@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abudhyám ← abudhyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+átr̥pṇuvantam ← átr̥pṇuvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víyatam ← √yam- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+ábudhyamānam ← ábudhyamāna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suṣupāṇám ← √svap- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+āśáyānam ← √śī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+pravátaḥ ← pravát- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aparván ← aparván- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+riṇāḥ ← √rī- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +206,4 @@ Du, Indra, trafst den nimmersatten Drachen, der ausgestreckt nicht wachend, nich
 Разлегшегося через семь потоков,  
 Ты разбил ваджрой по бессуставью.
 </details>
+

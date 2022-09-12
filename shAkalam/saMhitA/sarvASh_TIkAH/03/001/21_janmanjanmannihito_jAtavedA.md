@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+jánmañ-janman ← jánman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+jātávedāḥ ← jātávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+níhitaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ájasraḥ ← ájasra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+idhyate ← √idh- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+viśvā́mitrebhiḥ ← viśvā́mitra- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sumataú ← sumatí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yajñíyasya ← yajñíya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+bhadré ← bhadrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+saumanasé ← saumanasá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +194,4 @@ In jedem Haus ist Gast der Wesenkenner, ohn' End' entflammt vom Stamm des Viçva
 Да будем мы в милости у него, достойного жертв,  
 И в добром его расположении!
 </details>
+

@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+aśnavat ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vājasā́tamaḥ ← vājasā́tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+stotré ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -98,7 +123,7 @@ The self-purifying one will pervade with his rays, the best winner of prizes, es
 In this vs. we seem to have returned to the identification of Soma with the sun, as shown esp. by raśmíbhiḥ “with his rays” - this instr. pl. being reserved almost exclusively for the sun’s rays (see, e.g., nearby IX.61.8 sū́ryasya raśmíbhiḥ). The image is of the sun / Soma pervading space, with Soma’s rays being the traces of the golden liquid as it spreads across the filter.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/25-27.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 Each vs. opens with a form of pávamāna-, which also connects it with the preceding tṛca (see above). An even stronger link to the previous tṛca is the gen. intens. part.
@@ -129,3 +154,4 @@ Mit seinen Strahlen dringe durch der flammende, der Kraft verleiht, Dem Sänger 
 
 -ru-
 </details>
+

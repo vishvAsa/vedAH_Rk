@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áyāmi ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+devájāmiḥ ← devájāmi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ghóṣaḥ ← ghóṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+irajyánta ← √irajy- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+śurúdhaḥ ← śurúdh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vívāci ← vívāc- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cikité ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+jáneṣu ← jána- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+nahí ← nahí (invariable)  
+{}
+
+svám ← svá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áṁhāṁsi ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+parṣi ← √pr̥- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +240,4 @@ Der gottverwandte Ruf erscholl, o Indra, als in der Schlacht Befehl die Helden g
 Ведь тесен собственный срок жизни среди людей –  
 Так перевези нас через эти трудности!
 </details>
+

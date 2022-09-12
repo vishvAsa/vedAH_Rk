@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+alalābhávantīḥ ← alalābhávant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+arṣanti ← √arṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+etā́ḥ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+r̥tā́varīḥ ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saṁkróśamānāḥ ← √kruś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+bhananti ← √bhan- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+etā́ḥ ← eṣá (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+pr̥cha ← √praś- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+paridhím ← paridhí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rujanti ← √ruj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,14 +182,14 @@ As suggested in the published introduction, the (real) waters in the amniotic sa
 The simile in b, ṛtā́varīr iva saṃkróśamāṇāḥ “like truthful women together shouting their witness” may have a quasi-legal resonance. The root √kruś is later used for raising a hue and cry on witnessing a crime (vel sim.), such as a Rākṣasa abduction (see my Sacr.Wife 233). Configuring the waters as truthful and articulate witnesses in this pāda leads directly to the suggestion in the next pāda that they should be asked what they are saying.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md">
 <details open><summary><h2>06-09 ...{Loading}...</h2></summary>
 
 For my interpr. of the speakers in these vss. and the role of the waters in the myth, see published introduction. Most tr. take the vss. as all spoken by Indra’s mother (Geldner [/Witzel Gotō], Doniger), whereas I distribute them to a variety of voices: 6 Indra, 7 Indra’s mother, 8 waters, 9 Indra’s mother. As I see it, in 6 Indra prompts his mother to ask the waters questions; in 7 she rather sarcastically and belittlingly asks questions about them, whom she seems to accuse of trying to lay claim to her son. They respond directly to him in 8, reminding him of his mother’s dereliction of maternal duty and suggesting that they are better at mothering him than she is. So that she rather defiantly points out in 9 that subsequent negative things that happened to him were not her fault.
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 The responsive phrases kím … bhananti (6c) and kím … bhananta (7a) provide a textbook case of -anta replacement. See my 1979 IIJ 21 article, pace Gotō’s (1st Kl., 222) characterization of bhananta as “reziprok.”
@@ -169,3 +221,4 @@ Es rinnen munter plätschernd diese Fluten, wie heil'ge Frauen miteinander plaud
 Расспроси их, что это они говорят,  
 Что за скалу-плотину они разбивают.
 </details>
+

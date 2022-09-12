@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D;; repeated line
+#### Morph
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yajñíyāḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yajñíyānām ← yajñíya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+amŕ̥tāḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mánoḥ ← mánu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+r̥tajñā́ḥ ← r̥tajñā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yájatrāḥ ← yájatra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+adyá ← adyá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rāsantām ← √rā- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:AOR, voice:MED}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+urugāyám ← urugāyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +193,7 @@ let them grant us wide-ranging space today. – Do you protect us always  with y
 
 The just discussed phrase in 14d yé yajñíyāsaḥ is picked up by 15a yé devā́nāṃ yajñíyā yajñíyānām. I assume that this phrase doesn’t introduce another group of worthies, but is simply an intensive elaboration of the original phrase. The next pāda qualifies them with another derivative of √yaj, the -tra-stem yájatra-, which I interpr., somewhat capaciously, as meaning that they provide the occasion or reason for Manu’s sacrifice.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/035/14-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/035/14-15.md">
 <details open><summary><h2>14-15 ...{Loading}...</h2></summary>
 
 These last two vss. stand apart from the 13 monotonous vss. that precede them, though they hardly have more content.
@@ -170,3 +225,4 @@ Die unter den ehrwürdigen Göttern ehrwürdig sind, die von dem Menschen zu ver
 Пусть они даруют нам сегодня широкий путь!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
+

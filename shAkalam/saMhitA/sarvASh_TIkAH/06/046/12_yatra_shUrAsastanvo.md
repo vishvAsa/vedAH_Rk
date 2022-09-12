@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+śū́rāsaḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vitanvaté ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yátra ← yátra (invariable)  
+{}
+
+pitr̥̄ṇā́m ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+priyā́ ← priyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ádha ← ádha (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+chardíḥ ← chardís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+táne ← tán- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tanvè ← tanū́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yacha ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+acíttam ← acítta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dvéṣaḥ ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yāváya ← √yu- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +196,7 @@ Pādas abc strongly echo 9abc, with the c pādas esp. close, both containing the
 The last pādas of vss. 9 and 12 provide the final thread of connection between the two vss., since both contain the impv. yāváyā̆ ‘keep away’. In 12d the accent on the verb is anomalous, but I have no trouble assuming that it was adapted from 9d, where the initial position of the verb requires it.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/11-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
 
 This pragātha shows both internal and external connections. As in the previous pragātha the 2nd vs. is syntactically dependent on the first, with the yátra clause of 12ab parallel to the yád clause of 11cd and both subordinate to the imperatival clause of 11b. In addition the first and last hemistichs (11ab, 12cd) open identically, with ádha smā, which echoes ádha smā of the last hemistich of the previous pragātha (10cd).
@@ -178,3 +230,4 @@ Wo ihre Leiber Helden dehnen breit und hoch, der Väter lieben Schutz und Schirm
 Там даруй заслон (нам) самим и потомству!  
 Отведи неразумную ненависть!
 </details>
+

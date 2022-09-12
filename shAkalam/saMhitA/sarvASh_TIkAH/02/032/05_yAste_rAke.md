@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+rāke ← rākā́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sumatáyaḥ ← sumatí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+supéśasaḥ ← supéśas- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+dádāsi ← √dā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+adyá ← adyá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+upā́gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+rárāṇā ← √rā- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+sahasrapoṣám ← sahasrapoṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+subhage ← subhága- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Mit reichen Gaben, die dir, Rākā, eigen sind, durch die du Güter dem Verehren
 С ними приди ты к нам сегодня благосклонная,  
 Давая процветание тысячам, о любимая!
 </details>
+

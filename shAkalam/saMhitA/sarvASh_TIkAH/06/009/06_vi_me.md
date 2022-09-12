@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kárṇā ← kárṇa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+patayataḥ ← √pat- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+ā́hitam ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+hŕ̥daye ← hŕ̥daya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dūráādhīḥ ← dūráādhī- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+maniṣye ← √man- 1 (root)  
+{number:SG, person:1, mood:IND, tense:FUT, voice:MED}
+
+nú ← nú (invariable)  
+{}
+
+svit ← svit (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vakṣyā́mi ← √vac- (root)  
+{number:SG, person:1, mood:IND, tense:FUT, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

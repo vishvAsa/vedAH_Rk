@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mádaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mamé ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+saṁyatī́ ← √i- 1 (root)  
+{case:ACC, gender:F, number:DU, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yamyā̀ ← yamī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ákṣitā ← ákṣita- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pinvat ← √pinv- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+sākaṁvŕ̥dhā ← sākaṁvŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+apāré ← apārá- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+mahī́ ← máh- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+rájasī ← rájas- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+vivévidat ← √vid- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhivrájan ← √vraj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ákṣitam ← ákṣita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dade ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+pā́jaḥ ← pā́jas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Der Trank, durchmessend das vereinte Weltenpaar, erfüllt mit Milch die gleicher
 Хорошо зная два великих бескрайных пространства,  
 Отправляясь (им) навстречу, он принимает непреходящую форму.
 </details>
+

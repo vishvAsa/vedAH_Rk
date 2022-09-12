@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dáśagvāḥ ← dáśagva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prathamā́ḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ūhire ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hinvantu ← √hi- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vyùṣṭiṣu ← vyùṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+aruṇaíḥ ← aruṇá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+rāmī́ḥ ← rāmī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ūrṇute ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+góarṇasā ← góarṇas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śucatā́ ← √śuc- (root)  
+{case:INS, gender:M, number:SG, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +244,4 @@ Zum Opfer fuhren sie zuerst, je zehn und zehn; sie seien hold uns bei der Morgen
 Как Ушас раскрывает ночи (своими) алыми (лучами),  
 (Так и Маруты) мощно (своим) чистым блеском (находят) поток коров.
 </details>
+

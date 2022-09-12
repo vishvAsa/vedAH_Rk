@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bradhnásya ← bradhná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+viṣṭápam ← viṣṭápa- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+gánvahi ← √gam- (root)  
+{number:DU, person:1, mood:IND, tense:AOR, voice:ACT}
+
+gr̥hám ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pītvā́ ← √pā- 2 (root)  
+{}
+
+sacevahi ← √sac- 1 (root)  
+{number:DU, person:1, mood:OPT, tense:PRS, voice:MED}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sákhyuḥ ← sákhi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+trís ← trís (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Wenn zu des lichten Rosses Haus und Stätte Indra geht mit mir, So bleiben nach 
 
 -ru-
 </details>
+

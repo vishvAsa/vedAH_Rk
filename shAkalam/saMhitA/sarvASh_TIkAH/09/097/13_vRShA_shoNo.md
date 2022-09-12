@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhikánikradat ← √krand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śóṇaḥ ← śóṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nadáyan ← √nad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ājaú ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+śr̥ṇve ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vagnúḥ ← vagnú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+arṣati ← √arṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+pracetáyan ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +208,7 @@ Note also IX.70.6 mātárā … nā́nadad eti “he goes bellowing to his two m
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 No particular signs of cohesion in this tṛca, which is a collection of soma tropes. If there is any unifying theme it is movement, with eti (13b), eṣi (14b, c), arṣati (13d), arṣa (15d); for other repeated lexical items also pariṣicyámānaḥ (14d), pári … siktáḥ (15d). Also the final vs. (15) begins with evā́, the common hymn-ending summary particle - an effect that is muted in the published translation
@@ -181,3 +242,4 @@ Der rothe Stier den Küh'n entgegenbrüllend, geht mit Getön erfüllend Erd' un
 Голос (его) слышен, как (голос) Индры в сражении.  
 Он течет, заявляя (о себе) этой самой речью.
 </details>
+

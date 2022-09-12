@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sūnávaḥ ← sūnú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+śr̥ṇvántu ← √śru- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sumr̥ḷīkā́ḥ ← sumr̥ḷīká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +144,7 @@ prn. yé, clearly coreferential with the subj. of the impv. but difficult to con
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
 <details open><summary><h2>07-12 ...{Loading}...</h2></summary>
 
 These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an elementary production, with almost no tricks (though see vs. 9). One wonders whether great swaths of RV-period poetry were similarly lackluster and therefore not generally preserved.
@@ -144,3 +175,4 @@ Die Söhne der Unsterblichkeit, sie mögen hören unser Lied, Und seien gnädig 
 (Те,) кто сыновья бессмертия!  
 Пусть будут очень милостивы к нам!
 </details>
+

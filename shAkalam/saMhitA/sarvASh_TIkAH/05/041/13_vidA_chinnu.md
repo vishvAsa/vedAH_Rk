@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+évāḥ ← éva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mahāntaḥ ← mahā́nt- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vidá ← √vid- 2 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+brávāma ← √brū- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+dasmāḥ ← dasmá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vā́ryam ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áva ← áva (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+subhvàḥ ← subhū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ánuyatam ← √yam- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+kṣubhā́ ← kṣúbh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mártam ← márta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vadhasnaíḥ ← vadhasná- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +251,4 @@ Ihr grossen kennt ja eure eignen Gänge, viel Gut empfangend rühmen wir's, o he
 Очень сильные птицы, они прилетают вниз  
 К смертному, пораженному ударом, смертельным оружием.
 </details>
+

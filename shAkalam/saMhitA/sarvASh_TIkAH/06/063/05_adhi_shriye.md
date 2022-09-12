@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+duhitā́ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+purubhujā ← purubhuj- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatótim ← śatóti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tasthau ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+bhūtam ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+māyā́bhiḥ ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+māyinā ← māyín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+jániman ← jániman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+nárā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nr̥tū ← nr̥tú- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yajñíyānām ← yajñíya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Zur Pracht bestieg den hülfereichen Wagen der Sonne Tochter, o ihr freudenreich
 Вы выделились здесь (своими) волшебными силами, о знатоки волшебства,  
 О два мужа-танцора, в роду достойных жертв.
 </details>
+

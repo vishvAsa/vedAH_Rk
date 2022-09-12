@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+duritébhyaḥ ← duritá- (nominal stem)  
+{case:ABL, gender:N, number:PL}
+
+purā́ ← purā́ (invariable)  
+{}
+
+kave ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mr̥dhrébhyaḥ ← mr̥dhrá- (nominal stem)  
+{case:ABL, gender:N, number:PL}
+
+purā́ ← purā́ (invariable)  
+{}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+tira ← √tr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +155,4 @@ Uns schützend, Agni, vor Gefahr und vor den Schmähern, weiser du, Mach, guter,
 От враждебных сил, о поэт,  
 Продли срок нашей жизни, о благой!
 </details>
+

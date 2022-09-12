@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+híraṇyarūpaḥ ← híraṇyarūpa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+híraṇyasaṁdr̥k ← híraṇyasaṁdr̥ś- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+híraṇyavarṇaḥ ← híraṇyavarṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+nápāt ← nápat- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+hiraṇyáyāt ← hiraṇyáya- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+niṣádya ← √sad- (root)  
+{non-finite:CVB}
+
+pári ← pári (invariable)  
+{}
+
+yóneḥ ← yóni- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+dadati ← √dā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hiraṇyadā́ḥ ← hiraṇyadā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +233,4 @@ Denn golden ist von Farbe er und Ansehn, der Wasser Sohn, und er von goldnem Gla
 Когда он воссел, выйдя из золотого лона.  
 Дающие золото дают ему пищу.
 </details>
+

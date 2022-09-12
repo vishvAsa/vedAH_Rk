@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápratītaḥ ← ápratīta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vanate ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+bíbhrat ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+gábhastau ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥traháṇam ← vr̥trahán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ástā ← ástar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gárte ← gárta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+tíṣṭhat ← √sthā- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥ṣvám ← r̥ṣvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vacoyújā ← vacoyúj- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vahataḥ ← √vah- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +232,4 @@ Er überwindet unbesiegt die Gegner, und hält im Arm den Blitz, der Feinde töd
 Он садится на пару буланых коней, как стрелок (поднимается) на свое место.  
 (Кони,) запрягаемые словом, везут огромного Индру.
 </details>
+

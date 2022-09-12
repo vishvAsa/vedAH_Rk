@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+marúdbhiḥ ← marút- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ŕ̥kvabhiḥ ← ŕ̥kvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śubháyadbhiḥ ← √śubh- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+gaṇaśríbhiḥ ← gaṇaśrí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mandasānáḥ ← mandasāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+piba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āyúbhiḥ ← āyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pāvakébhiḥ ← pāvaká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+viśvaminvébhiḥ ← viśvaminvá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ketúnā ← ketú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pradívā ← pradív- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sajū́s ← sajū́s (invariable)  
+{}
+
+vaíśvānara ← vaiśvānará- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +186,4 @@ Trink Soma, Agni, freudig mit den leuchtenden, den jubelnden, den Maruts, die in
 Вместе с очищающими, все приводящими в движение, живыми,  
 О Вайшванара, единый со (своим) сиянием, длящимся от века!
 </details>
+

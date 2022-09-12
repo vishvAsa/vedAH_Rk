@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+ánāvr̥t ← ánāvr̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prapátet ← √pat- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+sudeváḥ ← sudevá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gántavaí ← √gam- (root)  
+{case:DAT, number:SG}
+
+paramā́m ← paramá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+parāvátam ← parāvát- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+nírr̥teḥ ← nírr̥ti- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+śáyīta ← √śī- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:MED}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+adyúḥ ← √ad- (root)  
+{number:PL, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+rabhasā́saḥ ← rabhasá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥kāḥ ← vŕ̥ka- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +201,4 @@ Forteilen möchte heute der, dem die Götter einst hold waren, in die weiteste F
 
 -ru-
 </details>
+

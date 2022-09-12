@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aktū́n ← aktú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+añjate ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ánteṣu ← ánta- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yatante ← √yat- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yuktā́ḥ ← √yuj- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vartayanti ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bāhū́ ← bāhú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yachanti ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +246,4 @@ Am Himmelsrande kleiden sie in Glanz sich, die Morgenröthen nahn wie Bundesheer
 Твои коровы свертывают темноту.  
 Они (высоко) держат свет, как Савитар – руки.
 </details>
+

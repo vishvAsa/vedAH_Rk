@@ -16,14 +16,42 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tuvíśravastamam ← tuvíśravastama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tuvíbrahmāṇam ← tuvíbrahman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uttamám ← uttamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+atū́rtam ← atū́rta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrāvayátpatim ← śrāvayátpati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +170,4 @@ Agni verleiht dem Huldiger den besten, hochberühmtesten, Unübertroffnen, beten
 Сильного в священной речи, лучшего,  
 Непревзойденного, заявляющего (о величии своего) господина.
 </details>
+

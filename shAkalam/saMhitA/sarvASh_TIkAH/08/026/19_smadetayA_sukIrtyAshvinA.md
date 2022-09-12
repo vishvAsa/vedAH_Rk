@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+etáyā ← eṣá (pronoun)  
+{case:INS, gender:F, number:SG}
+
+smát ← smát (invariable)  
+{}
+
+sukīrtyā́ ← sukīrtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+áśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śvetáyā ← śvetá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śubhrayāvānā ← śubhrayāvan- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+váhethe ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +145,4 @@ Auf diesem hochgepriesenen, lichthellen Liede fahret her, O Ritter, die im Glanz
 О Ашвины, со светлой молитвой  
 Едете вы оба с великолепным выездом.
 </details>
+

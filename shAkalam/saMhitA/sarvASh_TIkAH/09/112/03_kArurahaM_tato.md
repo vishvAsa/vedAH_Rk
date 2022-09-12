@@ -17,15 +17,64 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+bhiṣák ← bhiṣáj- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kārúḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tatáḥ ← tatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nanā́ ← nanā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+upalaprakṣíṇī ← upalaprakṣín- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nā́nādhiyaḥ ← nā́nādhī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vasūyávaḥ ← vasūyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+tasthima ← √sthā- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +216,4 @@ Ich bin Poet, Papa ist Arzt, und Müllerin ist die Mama, Ungleich beschäftigt j
 Идет мы следом за (заработком), как (пастух) за коровами.  
 Для Индры, о капля, растекайся вокруг!
 </details>
+

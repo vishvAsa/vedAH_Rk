@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+āsā́ ← ā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+kr̥pánīḷam ← kr̥pánīḷa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+bhāsā́ketum ← bhāsā́ketu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vardháyanti ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhrā́jate ← √bhrāj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+śréṇidan ← śréṇidant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,3 +130,4 @@ Den sie feiern, vor ihn tretend, der in Glanz wohnt, Flammen schwenkend, Der erg
 Чье знамя – свет, кого они усиливают ртом,  
 Сверкает, (обнажая) ряды зубов.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+avīvaśan ← √vāś- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+akrata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+kā́ṣṭhām ← kā́ṣṭhā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asāviṣuḥ ← √sū- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+matím ← matí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+satáḥ ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +165,4 @@ Es haben diese laut gerauscht, die Rosse schon ihr Ziel erreicht, Des Frommen An
 Завоеватели наград взяли барьер  
 (И) одновременно вдохновили молитву.
 </details>
+

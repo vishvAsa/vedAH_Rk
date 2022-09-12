@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+samrā́jñī ← samrā́jñī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śváśure ← śváśura- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+samrā́jñī ← samrā́jñī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śvaśrvā́m ← śvaśrū́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+nánāndari ← nánāndar- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+samrā́jñī ← samrā́jñī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+devŕ̥ṣu ← devár- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+samrā́jñī ← samrā́jñī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ Sei Oberherrin über den Schwäher, Oberherrin über die Schwieger, Oberherrin �
 Над золовкой повелительницей будь,  
 Повелительницей над деверями!
 </details>
+

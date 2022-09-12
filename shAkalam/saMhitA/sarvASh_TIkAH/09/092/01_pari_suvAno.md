@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aṁśúḥ ← aṁśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+suvānáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+hiyānáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sanáye ← saní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sarji ← √sr̥j- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+ā́pat ← √āp- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+indriyám ← indriyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pūyámānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+ślókam ← ślóka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ajuṣata ← √juṣ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+práyobhiḥ ← práyas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Ergossen ist der goldne Saft zur Seihe, gepresst, getrieben wie zum Preis der Wa
 Когда его очищают, он достиг ритма, свойственного Индре.  
 Он понравился богам (своими) жертвенными усладами.
 </details>
+

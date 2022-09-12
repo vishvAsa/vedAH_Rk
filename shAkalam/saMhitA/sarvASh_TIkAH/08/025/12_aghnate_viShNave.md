@@ -15,13 +15,41 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ághnate ← ághnant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+víṣṇave ← víṣṇu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+áriṣyantaḥ ← áriṣyant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sudā́nave ← sudā́nu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pūrvácittaye ← pūrvácitti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sindho ← síndhu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śrudhí ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+svayāvan ← svayāvan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +143,7 @@ A verb needs to be supplied for ab to be a clause. On the basis of śrudhí in c
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 This tṛca takes a break from Mitra and Varuṇa, introducing a somewhat random collection of other protective divinities. See also vs. 14.
@@ -146,3 +174,4 @@ Dem Vischnu folgen unversehrt, dem Spender wir, der nicht verletzt; O höre, sel
 Не терпя вреда, (ему,) с прекрасными дарами (хотим служить).  
 Услышь (нас), о Синдху, текущая сама по себе, чтобы нас заметили первыми!
 </details>
+

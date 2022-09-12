@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áriṣṭāḥ ← áriṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sácamānāḥ ← √sac- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghávānaḥ ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvī́rāḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aśvadā́ḥ ← aśvadā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+godā́ḥ ← godā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+rā́yaḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+subhágāḥ ← subhága- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+téṣu ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+vastradā́ḥ ← vastradā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +236,4 @@ Brihaspati, versehn mit deinen Hülfen sind unversehrt und heldenreich die Fürs
 (Те,) что дарители коней или же дарители коров,  
 Что дарители одежды – их богатства приносят счастье.
 </details>
+

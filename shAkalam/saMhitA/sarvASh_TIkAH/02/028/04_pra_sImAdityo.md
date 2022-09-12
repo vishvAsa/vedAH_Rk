@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ādityáḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asr̥jat ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sīm ← sīm (invariable)  
+{}
+
+vidhartā́ ← vidhartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+mucanti ← √muc- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+śrāmyanti ← √śramⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+paptuḥ ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+párijman ← párijman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+raghuyā́- ← raghuyā́ (invariable)  
+{case:INS, number:SG}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ Der Ordner liess sie rinnen, der Aditja, nach Varuna's Geboten gehn die Ströme,
 Они не устают, не отдыхают.  
 Быстро, как птицы, летят они по кругу.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhariṣáḥ ← bhariṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+duvanyasát ← duvanyasád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gaviṣáḥ ← gaviṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sátvā ← sátvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iṣáḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śravasyā́t ← √śravasy- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+turaṇyasát ← turaṇyasád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+draváḥ ← dravá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dravaráḥ ← dravará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pataṁgaráḥ ← pataṁgará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadhikrā́vā ← dadhikrā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+janat ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Der tapfre, der nach Beut' und Rindern weithin dringt, nach Morgentränken voll 
 Истинный бегун, бегущий быстро, подобный птице,  
 Пусть породит Дадхикраван жертвенную усладу, питательную силу, солнце!
 </details>
+

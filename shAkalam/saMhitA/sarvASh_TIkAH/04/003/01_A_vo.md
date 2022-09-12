@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+adhvarásya ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rā́jānam ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rudrám ← rudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ródasyoḥ ← ródasī- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+satyayájam ← satyayáj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+acíttāt ← acítta- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purā́ ← purā́ (invariable)  
+{}
+
+tanayitnóḥ ← tanayitnú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+híraṇyarūpam ← híraṇyarūpa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +224,4 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 Агни цвета золота привлеките (нам) на помощь,  
 Прежде (чем грянет) неожиданный удар грома!
 </details>
+

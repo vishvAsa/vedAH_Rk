@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhrātar ← bhrā́tar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ubhayátra ← ubhayátra (invariable)  
+{}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nidhā́nam ← nidhā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ráthasya ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+rā́sabhasya ← rā́sabha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vimócanam ← vimócana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Geh dorthin, starker, und auch hierher komme, o Indra, Bruder, hier und dort ist
 (Там,) где ставят высокую колесницу  
 (И) распрягают (скакуна,) приносящего награду, (и) осла.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+gāyata ← √gā(y)- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sā́ma ← sā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+br̥haté ← br̥hánt- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+víprāya ← vípra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dharmakŕ̥te ← dharmakŕ̥t- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+panasyáve ← panasyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vipaścíte ← vipaścít- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +151,4 @@ Dem Indra singt ein hohes Lied, dem hohen, dem begeisterten, Dem weisen, der die
 Вдохновенному, высокому – высокую,  
 Творцу закона, прозорливцу, вызывающему удивление.
 </details>
+

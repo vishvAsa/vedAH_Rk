@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dúvaḥ ← dúvas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mimikṣuḥ ← √myakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pā́dā ← pád- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dákṣiṇāvān ← dákṣiṇāvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhr̥ṣṇúḥ ← dhr̥ṣṇú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vajrī́ ← vajrín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átkam ← átka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dr̥śé ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+kám ← kám (invariable)  
+{}
+
+surabhím ← surabhí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásānaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+babhūtha ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+iṣiráḥ ← iṣirá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nr̥to ← nr̥tú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +249,4 @@ Zu deinen Füssen schimmern lieblich Gaben, du kühner Blitzer, Kraft in deiner 
 Надевая душистый наряд, чтобы было видно,  
 Ты становишься быстрым, о танцор, словно солнечный свет.
 </details>
+

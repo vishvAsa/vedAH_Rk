@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+pányasā ← pányaṁs- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tvákṣasā ← tvákṣas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+udā́vatā ← √avⁱ- (root)  
+{case:INS, gender:N, number:SG, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tiṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vr̥trahátyāya ← vr̥trahátya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dakṣiṇatrā́ ← dakṣiṇatrā́ (invariable)  
+{}
+
+dhiṣvá ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+háste ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+manda ← √mand- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+māyā́ḥ ← māyā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+purudatra ← purudatra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +229,4 @@ Mit hülfereicher, wunderbarer Thatkraft besteige du zur Vritraschlacht den Wage
 Вложи ваджру в правую руку,  
 Вдохнови нас против колдовских чар, о многодающий!
 </details>
+

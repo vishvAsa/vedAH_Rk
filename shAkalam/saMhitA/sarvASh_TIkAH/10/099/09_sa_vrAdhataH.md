@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śavasānébhiḥ ← śavasāná- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vrā́dhataḥ ← √vrādh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+adāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+kr̥páṇe ← kr̥páṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+kútsāya ← kútsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+śúṣṇam ← śúṣṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anayat ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kavím ← kaví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śasyámānam ← √śaṁs- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+átkam ← átka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nr̥ṇā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sánitā ← sánitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ Er hat mit seinen starken Helden [den Maruts] die gewaltigen, hat den Çuschna d
 Этого прославленного поэта он повез (вместе с собой),  
 (Того,) кто (носил) его одежду и (был) завоевателем среди мужей.
 </details>
+

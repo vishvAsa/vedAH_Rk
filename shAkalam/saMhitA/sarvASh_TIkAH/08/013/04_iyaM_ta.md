@@ -15,14 +15,51 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+kṣarati ← √kṣar- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rātíḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sunvatáḥ ← √su- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+barhíṣaḥ ← barhís- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mandānáḥ ← √mand- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+rājasi ← √rāj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +159,4 @@ Diese Gabe des Pressenden rinnt für dich, du lobbegehrender Indra; der du dich 
 Течет для тебя дар у выжимающего (сому).  
 Опьяняясь, ты правишь этой жертвенной соломой.
 </details>
+

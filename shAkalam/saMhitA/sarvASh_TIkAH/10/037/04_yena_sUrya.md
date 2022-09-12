@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bā́dhase ← √bādhⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sūrya ← sū́rya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+bhānúnā ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+jágat ← jágat- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+udiyárṣi ← √r̥- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánāhutim ← ánāhuti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ánirām ← ánirā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+víśvām ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ámīvām ← ámīvā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+duṣvápnyam ← duṣvápnya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suva ← √sū- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Mit welchem Licht das Dunkel, Sonne, du verjagst und alle Wesen neu belebst durc
 С его помощью прогони от нас всякое отсутствие подкреплений, отсутствие жертвоприношений,  
 Про(гони) болезнь (и) дурной сон!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gandharváḥ ← gandharvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nā́ke ← nā́ka- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+praticákṣāṇaḥ ← √cakṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+rūpā́ ← rūpá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+adyaut ← √dyut- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhānúḥ ← bhānú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śukréṇa ← śukrá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+arūrucat ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+mātárā ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +205,7 @@ This final vs. is esp. close in phraseology to the Vena hymn, with pāda a ident
 
 Geldner takes the part. praticákṣāṇaḥ as transitive/causative “seine Farben alle offenbarend” (though he questions this in n. 12b); sim. Ober (II.13) “erscheinen lassend.” Renou’s tr. is like mine (“regardant-en-face toutes les formes siennes”), although in his n. he considers the opposite possibility, citing passages with práti √cakṣ that supposedly have this transitive sense. But his exx. are not probative, and the middle voice of the participle makes it esp. unlikely to have this sense.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md">
 <details open><summary><h2>09-12 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these four vss. treat the identification of Soma and the sun and are similar to the very enigmatic Vena hymn, X.123, which is attributed to the same poet, Vena Bhārgava.
@@ -179,3 +237,4 @@ Gandharva hat des Himmels Höh erstiegen, betrachtend jede Glanzgestalt des Soma
 (Его) луч ярко засверкал чистым блеском.  
 Он осветил две половины мироздания, двух (своих) матерей (этот) светлый.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śatápatraḥ ← śatápatra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śundhyúḥ ← śundhyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+híraṇyavāśīḥ ← híraṇyavāśī- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iṣiráḥ ← iṣirá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svarṣā́ḥ ← svarṣā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥ṣváḥ ← r̥ṣvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svāveśáḥ ← svāveśá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āsutím ← āsutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+káriṣṭhaḥ ← káriṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sákhibhyaḥ ← sákhi- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +236,4 @@ Denn er ist glänzend, licht mit hundert Flügeln, mit goldnem Beile, rührig, h
 Брихаспати – он легко вступающийся, огромный,  
 Лучше всех готовящий много выжатого питья для друзей.
 </details>
+

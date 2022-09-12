@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aganma ← √gam- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+vr̥trahántamam ← vr̥trahántama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́navam ← ā́nava- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jyéṣṭham ← jyéṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+br̥hán ← br̥hánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śrutárvā ← śrutárvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ánīke ← ánīka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ārkṣáḥ ← ārkṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+édhate ← √idh- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +169,4 @@ Wir nahn dem feindetödtendsten, dem besten Agni, der uns hold, Vor dessen Anges
 
 -ru-
 </details>
+

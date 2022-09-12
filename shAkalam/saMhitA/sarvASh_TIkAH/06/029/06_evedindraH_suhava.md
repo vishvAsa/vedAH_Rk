@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+evá ← evá (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+r̥ṣváḥ ← r̥ṣvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suhávaḥ ← suháva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánūtī ← ánūti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hiriśipráḥ ← hiriśiprá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sátvā ← sátvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ásamātyojāḥ ← ásamātyojas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ca ← ca (invariable)  
+{}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hanati ← √han- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vr̥trā́ ← vr̥trá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +247,4 @@ So höre unsern Ruf der hohe Indra, mit goldnem Helm er, stark in Gunst und Ungu
 Ведь он сразу же родился с силой, не имеющей себе равных.  
 И пусть он убивает много врагов (и) дасью!
 </details>
+

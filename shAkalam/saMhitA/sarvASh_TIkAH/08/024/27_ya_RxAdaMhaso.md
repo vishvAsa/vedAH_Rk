@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+mucát ← √muc- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ŕ̥kṣāt ← ŕ̥kṣa- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ryāt ← ā́rya- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+síndhuṣu ← síndhu- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dāsásya ← dāsá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nīnamaḥ ← √nam- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+tuvinr̥mṇa ← tuvinr̥mṇá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vádhar ← vádhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +185,4 @@ Befreie uns von arger Noth, im Siebenstromland von dem Feind; Des Dämons Waffe,
 Или кто (в стране) семи рек перед арьей  
 Заставляет .склониться смертельное оружие дасы, о очень мужественный...
 </details>
+

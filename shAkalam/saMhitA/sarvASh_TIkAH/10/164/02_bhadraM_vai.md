@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+bhadrám ← bhadrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaí ← vaí (invariable)  
+{}
+
+váram ← vára- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṇate ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dákṣiṇam ← dákṣiṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuñjanti ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaivasvaté ← vaivasvatá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bahutrā́ ← bahutrā́ (invariable)  
+{}
+
+jī́vataḥ ← √jīv- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +169,4 @@ Gute Wahl fürwahr treffen sie, ein gutes Handpferd schirren sie an. Guter Blick
 Хороший взгляд у сына Вивасвата.  
 Мысль живущего (бывает) во многих местах.
 </details>
+

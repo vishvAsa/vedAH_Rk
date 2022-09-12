@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svastidā́ḥ ← svastidā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśáḥ ← víś- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vaśī́ ← vaśín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vimr̥dháḥ ← vimŕ̥dh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+purás ← purás (invariable)  
+{}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhayaṁkaráḥ ← abhayaṁkará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+somapā́ḥ ← somapā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +184,4 @@ Der Segen schenkt als Stammes Herr den Vritra schlägt, den Feind bezwingt, Als 
 Бык-Индра пусть идет впереди нас,  
 Любящий пить сому, создающий безопасность!
 </details>
+

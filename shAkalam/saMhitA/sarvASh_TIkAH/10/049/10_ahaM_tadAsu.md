@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+āsu ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+āsu ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+dhārayam ← √dhr̥- (root)  
+{number:SG, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádhārayat ← √dhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+caná ← caná (invariable)  
+{}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rúśat ← rúśant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+spārhám ← spārhá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ū́dhassu ← ū́dhar- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vakṣáṇāsu ← vakṣáṇā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+āśíram ← āśír- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mádhoḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śvā́tryam ← śvā́trya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +245,4 @@ In diese Kühe fügte ich die helle Milch, die selbst Gott Tvaschtar einzufügen
 Желанное (молоко) в выменах коров, в животах,  
 Что слаще меда (и служит) добавлением к пребывающему соме.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhójanāni ← bhójana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sánā ← sána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rātáhavyāya ← rātáhavya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sudā́se ← sudā́s- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vŕ̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yunajmi ← √yuj- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+puruśāka ← puruśā́ka- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vyántu ← √vī- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +225,4 @@ Das sind, o Indra, deine alten Gnaden, zu Lieb' dem frommen Opferbringer Sudas, 
 Тебе, мужественному, я запрягаю пару буланых мужественных (коней).  
 Пусть мои священные слова, о всемогущий, достигнут награды!
 </details>
+

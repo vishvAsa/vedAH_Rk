@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ūrmíṇā ← ūrmí- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jaṭháreṣu ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+taviṣyámāṇaḥ ← √taviṣya- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+viśa ← √viś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+abhrā́ ← abhrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pinva ← √pinv- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vidyút ← vidyút- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+māsi ← √mā- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+śáśvataḥ ← śáśvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +239,4 @@ In Indra's Bauch geh ein, o Soma, rieselnder! mit deiner Flut, erweisend deine g
 Оплодотвори нам два мира, как молния – тучи!  
 Как (в исполнение) молитвы, надели нас наградами, непрерывно повторяющимися!
 </details>
+

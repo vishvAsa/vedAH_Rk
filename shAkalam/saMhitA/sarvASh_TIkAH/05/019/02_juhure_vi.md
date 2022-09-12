@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+citáyantaḥ ← √cit- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+juhuré ← √hu- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+ánimiṣam ← ánimiṣ- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nr̥mṇám ← nr̥mṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pānti ← √pā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dr̥ḷhā́m ← √dr̥h- (root)  
+{case:ACC, gender:F, number:SG, non-finite:PPP}
+
+púram ← púr- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+viviśuḥ ← √viś- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Die glänzenden [Soma's] ergossen sich und schützen wachsam seine Kraft, sie dr
 Не смыкая глаз, охраняют они (его) мужественность.  
 Они проникли в твердую крепость.
 </details>
+

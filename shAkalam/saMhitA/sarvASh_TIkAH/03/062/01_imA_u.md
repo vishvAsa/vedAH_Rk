@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhr̥máyaḥ ← bhr̥mí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+mányamānāḥ ← √man- 1 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+u ← u (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+abhūvan ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+tújyāḥ ← tújya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yuvā́vate ← yuvā́vant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+indrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+kvà ← kvà (invariable)  
+{}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yáśaḥ ← yáśas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhárathaḥ ← √bhr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sákhibhyaḥ ← sákhi- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sínam ← sína- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Dies euer Eilen, das sich kräftig zeiget, hat der euch liebt, nicht erst zur Th
 Где же эта слава ваша, о Индра-Варуна,  
 Что вы приносите друзьям в награду?
 </details>
+

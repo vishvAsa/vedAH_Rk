@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+maryā́dāḥ ← maryā́dā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tatakṣuḥ ← √takṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+aṁhuráḥ ← aṁhurá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékām ← éka- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+gāt ← √gā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+tā́sām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+āyóḥ ← āyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+nīḷé ← nīḷá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+skambháḥ ← skambhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+upamásya ← upamá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dharúṇeṣu ← dharúṇa- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+pathā́m ← pánthā- ~ path- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tasthau ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+visargé ← visargá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Die Seher machten sieben feste Zeichen, von denen eins erreicht hat der bedräng
 А столб Аю стоит в гнезде Высшего,  
 В конце дорог, на твердых опорах.
 </details>
+

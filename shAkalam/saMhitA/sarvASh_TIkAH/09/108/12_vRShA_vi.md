@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jajñe ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+janáyan ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pratápan ← √tap- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+kavíbhiḥ ← kaví- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nirṇíjam ← nirṇíj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+súṣṭutaḥ ← súṣṭuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dáṁsasā ← dáṁsas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tridhā́tu ← tridhā́tu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +189,7 @@ Well-praised by the poets, he dons his raiment, a threefold one, by his  wondrou
 On the “threefold” (tridhā́tu) nature of Soma’s clothing, see comm. ad IX.70.8.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/11-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
 
 These two vss. are syntactically independent but both concern Soma as bull (vṛṣabhá- 11b, vṛ́ṣan- 12a).
@@ -172,3 +221,4 @@ Er ist erzeugt, der zeugende, unsterbliche, der Finsterniss durch Licht erhellt,
 Прекрасно восхваленный поэтами, он надел (свой) праздничный наряд,  
 Тройную (одежду) – благодаря своей чудесной силе.
 </details>
+

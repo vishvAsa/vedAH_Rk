@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āpruṣāyán ← √pruṣⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mádhunā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+arkáḥ ← arká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+avakṣipán ← √kṣip- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dyóḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ulkā́m ← ulkā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áśmanaḥ ← áśman- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+uddháran ← √hr̥- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bhū́myāḥ ← bhū́mi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+bibheda ← √bhid- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+tvácam ← tvác- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+udnā́ ← udán- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Des heil'gen Werkes Schooss mit Meth benetzend, und wie der Blitz des Himmels Fa
 Брихаспати, извлекая из скалы коров,  
 Рассек, словно потоком воды, шкуру земли.
 </details>
+

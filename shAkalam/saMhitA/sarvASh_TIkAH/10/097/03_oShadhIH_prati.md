@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+modadhvam ← √mud- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+prasū́varīḥ ← prasū́van- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+púṣpavatīḥ ← púṣpavant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+áśvāḥ ← áśvā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+sajítvarīḥ ← sajítvan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pārayiṣṇvàḥ ← pārayiṣṇú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vīrúdhaḥ ← vīrúdh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ So gehet lustig mir zur Hand sei's mit der Blüte, mit der Frucht! Der Stute gle
 Как победоносные кобылицы,  
 Растения перевозят на другую сторону.
 </details>
+

@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áṁhaḥ ← áṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+pāráyatha ← √pr̥- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+radhrám ← radhrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+muñcátha ← √muc- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+nidáḥ ← níd- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+vanditā́ram ← vanditár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+arvā́cī ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ūtíḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+jigātu ← √gā- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+sumatíḥ ← sumatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+vāśrā́ ← vāśrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +237,4 @@ Es sei uns nah, o Marut's, eure Hülfe, mit der vom Feind den Frommen ihr erlös
 Сюда ее, эту вашу поддержку, о Маруты!  
 Как мычащая корова (- к теленку) пусть придет (ваше) благоволение!
 </details>
+

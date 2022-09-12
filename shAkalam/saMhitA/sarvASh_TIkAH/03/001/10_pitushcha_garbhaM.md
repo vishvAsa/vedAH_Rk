@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+babhre ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+janitúḥ ← janitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+adhayat ← √dhā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pī́pyānāḥ ← √pī- 1 (root)  
+{case:ACC, gender:F, number:PL, tense:PRF, voice:MED}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sábandhū ← sábandhu- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sapátnī ← sapátnī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+śúcaye ← śúci- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+manuṣyè ← manuṣyà- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ní ← ní (invariable)  
+{}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Des Vaters und Erzeugers Spross ernährt' er; er sog allein an vieler Mütter Br
 Две родственницы приходятся общими женами сверкающему быку.  
 Следи для него за обеими (его) человеческими (женами)!
 </details>
+

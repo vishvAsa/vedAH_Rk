@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+devayántīḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+matáyaḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhíkṣamāṇāḥ ← √bhaj- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED, mood:DES}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+suprátīkam ← suprátīka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+susaṁdŕ̥śam ← susaṁdŕ̥ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sváñcam ← sváñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aratím ← aratí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havyavā́ham ← havyavā́h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́nuṣāṇām ← mā́nuṣa- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +187,4 @@ Zu Agni gehen Lieder und Gebete, die Götter liebend und um Schätze bittend; De
 (К этому богу,) прекрасному на вид, с прекрасным ликом, прекрасным движением,  
 Перевозчику жертв, посланнику людей.
 </details>
+

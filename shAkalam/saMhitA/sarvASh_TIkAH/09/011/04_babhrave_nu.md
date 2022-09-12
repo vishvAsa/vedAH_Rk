@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+babhráve ← babhrú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+svátavase ← svátavas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+aruṇā́ya ← aruṇá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+divispŕ̥śe ← divispŕ̥ś- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+arcata ← √r̥c- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gāthám ← gāthá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sómāya ← sóma- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +139,4 @@ Dem flammenden, selbstkräftigen, dem rothen, der zum Himmel reicht, Dem Soma si
 Бурого, обладающего собственной силой,  
 Рыжего, касающегося неба!
 </details>
+

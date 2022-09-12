@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bhūtu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+índrāsomā ← índrāsóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pári ← pári (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+áśvā ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+kakṣyā̀ ← kakṣyà- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+matíḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vājínā ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+hótrām ← hótrā- 2 (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+medháyā ← medhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+parihinómi ← √hi- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yā́m ← yá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+jinvatam ← √ji- 2 ~ jinv- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+nr̥pátī ← nr̥páti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +238,4 @@ Euch, Indra-Soma, möge dies Gebet umfahn, wie rings des Leibes Gurt ein Rossepa
 (И) жертва, которую я мудро окружаю вас!  
 Вдохните жизнь в эти священные слова, как два царя!
 </details>
+

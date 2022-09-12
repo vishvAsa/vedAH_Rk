@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+drávataḥ ← √dru- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sma ← sma (invariable)  
+{}
+
+turaṇyatáḥ ← √turaṇy- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+parṇám ← parṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pragardhínaḥ ← pragardhín- (nominal stem)  
+{case:GEN, number:SG}
+
+vāti ← √vā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+véḥ ← ví- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aṅkasám ← aṅkasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhrájataḥ ← √dhraj- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+śyenásya ← śyená- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dadhikrā́vṇaḥ ← dadhikrā́van- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+táritrataḥ ← √tr̥̄- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ūrjā́ ← ū́rj- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +212,7 @@ I follow Schaeffer (Intens. 131) in taking aṅkasám as referring to the curvin
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/040/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/040/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 These two vss. revisit the utá sma opening that characterized the middle vss. of IV.38.
@@ -185,3 +246,4 @@ Und dieses schnellen Läufers Fittich fliegt dahin, wie eines Vogels, der begehr
 Когда Дадхикраван, мчась, словно сокол,  
 Благодаря (своей) силе превосходит кривую (противника).
 </details>
+

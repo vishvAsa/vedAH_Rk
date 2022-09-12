@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aruṣáḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+vyàktaḥ ← √añj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+abhí ← abhí (invariable)  
+{}
+
+anaviṣṭa ← √nu- ~ nū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tripr̥ṣṭháḥ ← tripr̥ṣṭhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+parāyátiḥ ← parāyáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásraṇītiḥ ← sahásraṇīti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yátiḥ ← yáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rājati ← √rāj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rebháḥ ← rebhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Es eilt geschmückt der rothe Himmels-Seher fort, der Stier mit dreien Rücken j
 Распоряжающийся тысячей путей, направляющийся (близко), направляющийся далеко (?),  
 Как певец, он повелевает многими зорями.
 </details>
+

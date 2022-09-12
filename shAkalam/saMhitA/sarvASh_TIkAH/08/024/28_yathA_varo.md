@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+suṣā́mṇe ← suṣā́man- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+varo ← varu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ávahaḥ ← √vah- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saníbhyaḥ ← saní- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+subhage ← subhága- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vājinīvati ← vājínīvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vyàśvebhyaḥ ← vyàśva- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +147,4 @@ Wie du dem Varosuschāman Reichthum herbeifuhrst zum Geschenk für die Nachkomme
 Ты привезла богатство для подарков  
 Потомкам Вьяшвы, о приносящая счастье, богатая наградами (Ушас),
 </details>
+

@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kóśān ← kóśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ádhibhojanā ← ádhibhojana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vástrā ← vástra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hiraṇyapiṇḍā́n ← hiraṇyapiṇḍá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+asāniṣam ← √sanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+dívodāsāt ← dívodāsa- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ Zehn Pferde, zehn Kasten, zehn Kleider als Zugabe, zehn Goldklumpen erhielt ich 
 Десять слитков золота  
 Я принял от Диводасы.
 </details>
+

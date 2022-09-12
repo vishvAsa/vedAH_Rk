@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+īrmā́ ← īrmā́ (invariable)  
+{}
+
+vápuḥ ← vápus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vápuṣe ← vápus- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráthasya ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yemathuḥ ← √yam- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+anyā́ ← anyá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nā́huṣā ← nā́huṣa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+yugā́ ← yugá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dīyathaḥ ← √dī- 2 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +191,4 @@ Ihr habt des Wagens eines Rad zur Pracht das prächt'ge hergelenkt; Um andre Nac
 (С другим) вы летаете над другими –  
 Над поколениями Нахуши, мощно – над просторами.
 </details>
+

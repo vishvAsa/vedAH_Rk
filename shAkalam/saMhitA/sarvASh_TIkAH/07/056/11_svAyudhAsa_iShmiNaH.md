@@ -14,12 +14,34 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+iṣmíṇaḥ ← iṣmín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suniṣkā́ḥ ← suniṣká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svāyudhā́saḥ ← svāyudhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúmbhamānāḥ ← √śubh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+svayám ← svayám (invariable)  
+{}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +134,4 @@ Die stürmenden, schöne Waffen und Halsschmuck tragend, selbst die Leiber sich 
 С прекрасным оружием, снабженные стрелами, с прекрасной драгоценностью (на груди),  
 А также сами украшающие (свои) тела...
 </details>
+

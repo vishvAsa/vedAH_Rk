@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gaṇám ← gaṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śárdhantam ← √śardh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+añjíbhiḥ ← añjí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+piṣṭám ← √piś- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+rukmébhiḥ ← rukmá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+adyá ← adyá (invariable)  
+{}
+
+áva ← áva (invariable)  
+{}
+
+hvaye ← √hvā- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+víśaḥ ← víś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rocanā́t ← rocaná- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ O Agni, jene kühne Schar, geziert mit Gold und reichem Schmuck, Der Maruts Stä
 Сегодня я зову племена Марутов  
 С(пуститься) даже со светлого пространства неба.
 </details>
+

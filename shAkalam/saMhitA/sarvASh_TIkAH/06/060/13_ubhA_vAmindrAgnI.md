@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āhuvádhyai ← √hū- (root)  
+{case:DAT, number:SG, tense:AOR}
+
+indrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+mādayádhyai ← √mad- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+rā́dhasaḥ ← rā́dhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+dātā́rau ← dātár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iṣā́m ← íṣ- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+vā́jasya ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +186,6 @@ _____________
 
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -154,7 +205,7 @@ On the insistent ubhā́see published introduction.
 
 I have taken āhuvádhyai (and mādayádhyai) as predicated infinitives with the subj. ubhā́, as does Renou However, vām in pāda a makes some difficulties for this interpr., and Geldner takes that pāda (but not b) as having an implicit 1st ps. subj.: “euch beide … will ich herrufen” (a) versus “beiden sollen sich … erfreuen” for mādayádhyai (b). I think the two clauses should be parallel and therefore take vām as a dependent gen. on ubhā́(“both of you two”), although it must be admitted that ubhá- generally agrees with its referent in case.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 On the connection of these vss. to the hymn, see published introduction. For the ring composition between the 1st tṛca and this one, note the verbal responsion vasavyà- (1, 14), rā́dhas- (3, 13), vājayántā (1) and vā́jasya sātáye (14).
@@ -177,8 +228,6 @@ You both givers of food and riches,
 You both I summon for the winning of strength.
 </details>
 
-
-
 <details><summary>Geldner</summary>
 
 Euch beide, Indra und Agni, will ich herrufen; beide sollen sich zusammen der Opfergaben erfreuen. Beide sind die Geber von Speisegenüssen, von Reichtümern; euch beide rufe ich, um den Lohn zu gewinnen.
@@ -196,3 +245,4 @@ Euch beide, o Indra-Agni, will ich herbeirufen, euch beide zugleich mit Gaben er
 (Вы) оба дарители жертвенных услад, богатств.  
 Вас обоих я призываю к захвату награды.
 </details>
+

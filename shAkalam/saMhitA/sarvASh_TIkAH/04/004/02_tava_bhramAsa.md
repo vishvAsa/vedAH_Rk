@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āśuyā́ ← āśuyā́ (invariable)  
+{}
+
+bhramā́saḥ ← bhramá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+patanti ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+dhr̥ṣatā́ ← √dhr̥ṣ- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śóśucānaḥ ← √śuc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+spr̥śa ← √spr̥ś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+juhvā̀ ← juhū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pataṁgā́n ← pataṁgá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tápūṁṣi ← tápus- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ásaṁditaḥ ← ásaṁdita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sr̥ja ← √sr̥j- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ulkā́ḥ ← ulkā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+víṣvak ← víṣvañc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,8 +182,6 @@ Proceed rapidly flying, whirling your \[weapons\], follow them closely, and atta
 Spread with thy tongue the flying flames, O agni; unstoppable, hurl forth firebrands \[like meteors\] all around thee.
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -152,7 +202,7 @@ Since √spṛś does not otherwise occur with ánu in the RV or, per MonierWill
 Most interpr. take pataṃgā́n as an unmarked simile, e.g. Geldner “(gleich) Vögeln.” My interpr. requires supplying an unparalleled noun but avoids the need for a simile particle.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/004/02-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/004/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
 Note the preverb chaining: 2d ví sṛja, 3a práti … ví sṛja, 4b práti.
@@ -197,3 +247,4 @@ Es fliegen eilend deine Wirbelflammen, folg auf dem Fuss mit kühnem Muthe strah
 Языком, о Агни, рассыпай во все стороны  
 Огни, (словно) птиц, – головни (твои), не давая себя связать!
 </details>
+

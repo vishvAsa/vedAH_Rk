@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ásr̥jaḥ ← √sr̥j- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vŕ̥ṣṇi ← vŕ̥ṣṇi- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mahimā́ ← mahimán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sadyás ← sadyás (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+saṁnáśe ← √naś- 1 (root)  
+{case:DAT, number:SG}
+
+anucakradé ← √krand- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+kṣoṇī́ḥ ← kṣoṇí- ~ kṣoṇī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +204,7 @@ Thieme (KZ 92: 46) rejects the usual interpr. of kṣonī́ḥ as nom. sg., on t
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/003/09-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/003/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
 Although Geldner takes the second hemistich as dependent on the first, because of the parallel yénā clause opening vs. 10, I prefer to take 9cd and 10a as dependent on 10b, with the yénā’s of 9c, 9d, and 10a all referring to śávaḥ in 10b.
@@ -182,3 +240,4 @@ Die Manneskraft, mit der du, Indra, in das Meer der Wasser Schwall ergossen hast
 За один день не достигнуть этого его величия,  
 Которому вторит криками войско.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ináḥ ← iná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jānām ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ináḥ ← iná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+puṣṭīnā́m ← puṣṭí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dūdhot ← √dhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+haryatáḥ ← haryatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śmáśru ← śmáśru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ádābhyaḥ ← ádābhya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +182,4 @@ Der starke Herr der Labungen, der starke Freund der Nahrungen, Den Schnurrbart s
 Любимый, трясет он бородой туда-сюда  
 Сколько хочет, (этот) безобманный.
 </details>
+

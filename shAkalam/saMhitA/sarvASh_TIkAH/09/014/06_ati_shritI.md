@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+áti ← áti (invariable)  
+{}
+
+śritī́ ← śrití- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tiraścátā ← tiraścátā (invariable)  
+{}
+
+áṇvyā ← áṇvī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gavyā́ ← gavyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jigāti ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vagnúm ← vagnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidé ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +154,4 @@ Sich schmiegend geht er quer hindurch begierig durch das feine Sieb, Erregend de
 Этот сома проходит наискось насквозь, жаждя коров.  
 Он поднимает шум, который (хорошо) известен.
 </details>
+

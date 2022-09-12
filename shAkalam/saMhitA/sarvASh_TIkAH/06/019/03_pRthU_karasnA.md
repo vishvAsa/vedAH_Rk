@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+bahulā́ ← bahulá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+gábhastī ← gábhasti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+karásnā ← karásna- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pr̥thū́ ← pr̥thú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+asmadryàk ← asmadryàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mimīhi ← √mā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+śrávāṁsi ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dámūnāḥ ← dámūnas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+paśupā́ḥ ← paśupā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paśváḥ ← paśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yūthā́ ← yūthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+ājaú ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vavr̥tsva ← √vr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Gebreitet sind die Arme, weit die Hände zu uns gewandt, verleih uns schöne Gü
 Как пастух для стада (своего) скота, хозяином  
 Обернись для нас, Индра, во время битвы!
 </details>
+

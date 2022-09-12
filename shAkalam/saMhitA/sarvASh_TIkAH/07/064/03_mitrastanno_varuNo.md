@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aryáḥ ← aryá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nayantu ← √nī- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+pathíbhiḥ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sā́dhiṣṭhebhiḥ ← sā́dhiṣṭha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+aríḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+brávat ← √brū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sudā́se ← sudā́s- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+devágopāḥ ← devágopā- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iṣā́ ← íṣ- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+madema ← √mad- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+sahá ← sahá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Das geb uns Mitra, Varuna, der treue, auf gradsten Pfaden mögen sie uns leiten,
 Чтобы, преданный, он рассказал о нас затем щедро дающему,  
 Пусть опьяняемся мы жертвенным подкреплением (все) вместе, хранимые богами!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dadhātana ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kápr̥t ← kápr̥th- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kapr̥thám ← kapr̥thá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+codáyata ← √cud- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+khudáta ← √khud- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cyāvaya ← √cyu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+niṣṭigryàḥ ← niṣṭigrī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sabā́dhaḥ ← sabā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Richtet empor, o Männer, das Glied, das sich weit dehnt, bewegt es, stosst es h
 Подтяни сына Ништигри, чтобы помог,  
 Сюда, настойчиво – Индру для питья сомы!
 </details>
+

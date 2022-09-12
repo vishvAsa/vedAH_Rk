@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+práthaḥ ← práthas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sapráthaḥ ← sapráthas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́nuṣṭubhasya ← ā́nuṣṭubha- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+havíṣaḥ ← havís- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dhātúḥ ← dhātár- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+dyútānāt ← √dyut- (root)  
+{case:ABL, gender:M, number:SG, tense:AOR, voice:MED}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+víṣṇoḥ ← víṣṇu- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jabhāra ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+rathaṁtarám ← rathaṁtará- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Den Opfertrank, der zu dem aus vier Theilen bestehenden Opfertrank gehört, und 
 От сверкающего Дхатара и от Савитара, от Вишну  
 Васиштха принес (напев) ратхантара.
 </details>
+

@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+babhrúḥ ← babhrú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sūnáraḥ ← sūnára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víṣuṇaḥ ← víṣuṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yúvā ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+añjí ← añjí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+aṅkte ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+hiraṇyáyam ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +147,4 @@ Der eine röthlich, jung und lieblich, mannichfach verziert mit goldnem Schmucke
 Бурый один, меняющийся, благородный  
 Юноша украшает себя золотым украшением.
 </details>
+

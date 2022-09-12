@@ -15,13 +15,56 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agnī́n ← agní- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+anyā́n ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tánayaḥ ← tánaya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīḷúpāṇiḥ ← vīḷúpāṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+akṣárā ← akṣára- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sahásrapāthāḥ ← sahásrapāthas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saméti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +189,4 @@ Die andern Feuer übertreff das Feuer, wo gabenreich der Stamm mit starken Händ
 (Тот,) в котором сходятся победоносный продолжающий род (сын)  
 С твердой рукой (и) речь с тысячей мест (обитания).
 </details>
+

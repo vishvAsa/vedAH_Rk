@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvā́yuvepasam ← viśvā́yuvepas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hitám ← √hi- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+máryam ← márya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sáptim ← sápti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājayāmasi ← √vājay- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Agni, der alle Kraft erregt, gleich schnellem, angetriebnem Hengst, Ihn spornen 
 Мы вдохновляем на победу,  
 Словно юного мужа, стремящегося к победе, словно упряжку.
 </details>
+

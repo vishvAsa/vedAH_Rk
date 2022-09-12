@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380);; repeated line  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+prathamé ← prathamá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yugé ← yugá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ajāyata ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ásataḥ ← ásant- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+sát ← √as- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+ajāyanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ánu ← ánu (invariable)  
+{}
+
+ā́śāḥ ← ā́śā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+uttānápadaḥ ← uttānápad- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +181,4 @@ Aus dem Nichtseienden entsprang zur ersten Götterzeit das Sein; Der Welten Räu
 Следом за ним стороны света родились.  
 Это (бытие родилось) от (существа) с ногами, простертыми кверху.
 </details>
+

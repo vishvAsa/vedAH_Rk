@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+anyásyāḥ ← anyá- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+mimāya ← √mā- 2 ~ mī- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+rihatī́ ← √rih- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhuvā́ ← bhū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+káyā ← ká- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+apinvata ← √pinv- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+íḷā ← íḷā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+asuratvám ← asuratvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +238,4 @@ Das Kalb der andern leckend brüllte laut sie; in welcher Welt legt hin die Kuh 
 Это жертвенное подкрепление набухло от молока закона.  
 Велико могущество богов, единственно.
 </details>
+

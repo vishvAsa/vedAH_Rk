@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+tvāyávaḥ ← tvāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anunónuvataḥ ← √nu- ~ nū- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+cárān ← √carⁱ- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kārávaḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,3 +137,4 @@ Denn die dich lieben, gehn zu dir, o Indra, die dir jauchzen zu, Der Sänger und
 
 -ru-
 </details>
+

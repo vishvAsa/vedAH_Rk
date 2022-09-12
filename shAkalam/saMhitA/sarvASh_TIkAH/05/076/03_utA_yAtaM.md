@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+áhnaḥ ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+prātár ← prātár (invariable)  
+{}
+
+saṁgavé ← saṁgavá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+madhyáṁdine ← madhyáṁdina- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+úditā ← úditi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dívā ← dívā (invariable)  
+{}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śáṁtamena ← śáṁtama- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+idā́nīm ← idā́nīm (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pītíḥ ← pītí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tatāna ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +209,4 @@ Und kommt zur Melkzeit frühe her am Tage, zur Mittagszeit und bei der Sonne Weg
 Днем, ночью с самой благодатной помощью!  
 Питье сейчас, о Ашвины, не заставило себя ждать.
 </details>
+

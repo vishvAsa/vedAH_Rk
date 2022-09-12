@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+duchúnā ← duchúnā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dvīpā́ni ← dvīpá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pā́patan ← √pat- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+tíṣṭhat ← √sthā- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+yujanta ← √yuj- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+airata ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dhánvāni ← dhánur ~ dhánvan- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+śubhrakhādayaḥ ← śubhrakhādi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+éjatha ← √ej- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+svabhānavaḥ ← svábhānu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +188,7 @@ The second clause in pāda a, tíṣṭhad duchúnā, has been interpreted in tw
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 Pādas 3a, 3c, and 4a all begin with vi, with the last example doubled ví (d)vī. This sequence is anticipated by 2a vī.
@@ -174,3 +220,4 @@ Die Wolkeninseln stoben und das Unheil floh, und Erd' und Himmel eintet ihr, O R
 Засушливые земли приходят в движение, о (боги) с красивыми кольцами.  
 Когда вы движетесь, о обладатели собственного блеска.
 </details>
+

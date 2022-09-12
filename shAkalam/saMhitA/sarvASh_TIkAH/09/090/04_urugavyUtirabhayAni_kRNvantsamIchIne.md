@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ábhayāni ← ábhaya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kr̥ṇván ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+urúgavyūtiḥ ← urúgavyūti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+púraṁdhī ← púraṁdhi- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+samīcīné ← samīcīná- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+síṣāsan ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+cikradaḥ ← √krand- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+maháḥ ← máh- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Geräum'ge Flur und sichern Sitz gewährend, ström her des Himmels und der Erde
 Стремясь захватить воды, утренние зори, небо, коров,  
 Прореви нам (все) вместе великие награды!
 </details>
+

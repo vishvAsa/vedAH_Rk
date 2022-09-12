@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́gatena ← √gam- (root)  
+{case:INS, gender:M, number:SG, non-finite:PPP}
+
+nandanti ← √nand- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sárve ← sárva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yaśásā ← yaśás- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sabhāsāhéna ← sabhāsāhá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sákhyā ← sákhi- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+kilbiṣaspŕ̥t ← kilbiṣaspŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pituṣáṇiḥ ← pituṣáṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áram ← áram (invariable)  
+{}
+
+bhávati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hitáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vā́jināya ← vā́jina- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ Die Freunde freun sich alle ihres Freundes, wenn herrlicher als Haupt der Dichte
 Он спасает их от греха, добывает им питание.  
 Он достаточно подготовлен, посланный на состязание.
 </details>
+

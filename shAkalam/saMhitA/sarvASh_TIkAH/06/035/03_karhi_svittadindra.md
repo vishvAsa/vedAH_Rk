@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jaritré ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kárhi ← kárhi (invariable)  
+{}
+
+svit ← svit (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+kr̥ṇávaḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+śaviṣṭha ← śáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+viśvápsu ← viśvápsu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+niyútaḥ ← niyút- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yuvāse ← √yu- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+gachāḥ ← √gam- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+gómaghā ← gómagha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+hávanāni ← hávana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Wann wird's geschehn, dass, Indra, du dem Sänger an Nahrung reich, o stärkster
 Когда ты запряжешь (свои) упряжки, словно (поэт) - (свои) произведения?  
 Когда ты отправишься на призывы, сопровождаемые дарами из коров?
 </details>
+

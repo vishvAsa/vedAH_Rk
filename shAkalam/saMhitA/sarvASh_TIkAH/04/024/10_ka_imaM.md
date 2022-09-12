@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+daśábhiḥ ← dáśa- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+dhenúbhiḥ ← dhenú- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+krīṇāti ← √krī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jáṅghanat ← √han- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+dadat ← √dā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +172,7 @@ The big question about this vs. is the identity of the speaker. The standard vie
 
 The standard tr. take c with d, e.g., Geldner: “Wenn er die Feinde erschlagen hat, so soll er ihn mir zurückgeben.” The problem with this is that it assumes an anterior, specifically future anterior, value “(will) have smashed” for the intensive subjunctive jáṅghanat. For this reason I attach it to ab. However, it may make more sense to allow the future anterior and make the yadā́clause the prior condition for the return in pāda d. In this case the tr. would be “Who buys this Indra of mine with ten cows? When he [=Indra] will have smashed the obstacles, then will he [=buyer] return him [=Indra] to me?”
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/08-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/08-10.md">
 <details open><summary><h2>08-10 ...{Loading}...</h2></summary>
 
 For my interpr. of these vss., see published introduction.
@@ -158,3 +204,4 @@ Wer kauft mir diesen Indra ab, der mein ist, für der Kühe zehn? Wenn er den Fe
 Когда он разобьет врагов,  
 То пусть отдаст мне его назад.
 </details>
+

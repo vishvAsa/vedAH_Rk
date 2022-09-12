@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+asādayat ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+pārṣadvāṇáḥ ← pārṣadvāṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+práskaṇvam ← práskaṇva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+jívrim ← jívri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śáyānam ← √śī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+úddhitam ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+asiṣāsat ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT, mood:DES}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásrāṇi ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dásyave ← dásyu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tvótaḥ ← tvóta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥kaḥ ← vŕ̥ka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +175,4 @@ Der Nachkomme des Prischadvāna bewirthete den Praskanva, welcher altersschwach 
 Риши хотел добыть тысячи коров,  
 Тобою был поддержен Дасьяве Врика.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+antár ← antár (invariable)  
+{}
+
+ichanti ← √iṣ- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jáne ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+manīṣáyā ← manīṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+parás ← parás (invariable)  
+{}
+
+rudrám ← rudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥bhṇánti ← √gr̥bhⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jihváyā ← jihvā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sasám ← sasá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +162,4 @@ Bei Menschen suchen Götter ihn, der heller glänzet als Gebet, Mit seiner Zunge
 (Этого) Рудру за пределами воображения.  
 Они хватают пищу (его) языком.
 </details>
+

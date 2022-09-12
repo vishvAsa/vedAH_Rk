@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+evá ← evá (invariable)  
+{}
+
+nūnám ← nūnám (invariable)  
+{}
+
+stuhi ← √stu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+daśamám ← daśamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+návam ← náva- 2 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaíyaśva ← vaiyaśvá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+caráṇīnām ← caráṇi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+carkŕ̥tyam ← carkŕ̥tya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+súvidvāṁsam ← súvidvaṁs- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +162,4 @@ So preise nun, Viaçva's Sohn, den sehenswerthen, herrlichen, Den rühmenswerthe
 (Этого) прекрасно (всё) понимающего, достойного  
 восхваления среди людей!
 </details>
+

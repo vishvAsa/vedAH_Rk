@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nīlalohitám ← nīlalohitá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajyate ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+āsaktíḥ ← āsaktí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kr̥tyā́ ← kr̥tyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+édhante ← √idh- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+jñātáyaḥ ← jñātí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+badhyate ← √bandh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+bandhéṣu ← bandhá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +181,4 @@ Dunkelroth ist die Farbe, die sich anhängende Hexe wird fortgetrieben; es gedei
 Преуспевает ее родня,  
 Муж попадает в оковы.
 </details>
+

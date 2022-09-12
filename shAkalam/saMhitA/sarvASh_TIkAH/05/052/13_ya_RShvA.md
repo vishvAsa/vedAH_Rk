@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+r̥ṣṭívidyutaḥ ← r̥ṣṭívidyut- (nominal stem)  
+{case:NOM, number:PL}
+
+r̥ṣvā́ḥ ← r̥ṣvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vedhásaḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gaṇám ← gaṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥ṣe ← ŕ̥ṣi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+namasyá ← √namasy- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ramáya ← √ram- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +189,4 @@ Die hohen Speer-erglänzenden, die weise, treue Helfer sind, o Sänger, diese Ma
 О риши, перед этой толпой марутовой  
 Склонись и успокой (ее) хвалебной песнью!
 </details>
+

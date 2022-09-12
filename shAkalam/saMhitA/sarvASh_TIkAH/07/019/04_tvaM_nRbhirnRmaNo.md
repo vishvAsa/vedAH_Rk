@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devávītau ← devávīti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nr̥maṇaḥ ← nr̥máṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+bhū́rīṇi ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+haṁsi ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+haryaśva ← háryaśva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥trā́ ← vr̥trá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+cúmurim ← cúmuri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dásyum ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhúnim ← dhúni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ásvāpayaḥ ← √svap- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dabhī́taye ← dabhī́ti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+suhántu ← suhántu- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Durch Männer schlägst du mannhaft viele Feinde beim Göttermahl, o Lenker gold
 Ты дасью Чумури и Дхуни усыпил,  
 Чтоб Дабхити было (их) легко убить.
 </details>
+

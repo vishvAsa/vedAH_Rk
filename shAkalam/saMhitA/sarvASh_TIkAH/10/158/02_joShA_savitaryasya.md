@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+jóṣa ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+árhati ← √arh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+háraḥ ← háras- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śatám ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+savā́n ← savá- 2 (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+didyútaḥ ← didyút- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhí ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pátantyāḥ ← √pat- 1 (root)  
+{case:ABL, gender:F, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +161,4 @@ O Savitar, dess Flammenstrahl mehr werth als hundert Spenden ist, Beschirm uns v
 Вспышка стоит сотни побуждений!  
 Охраняй нас от летящей молнии!
 </details>
+

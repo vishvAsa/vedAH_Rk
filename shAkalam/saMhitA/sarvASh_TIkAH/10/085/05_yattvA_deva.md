@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prapíbanti ← √pā- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+pyāyase ← √pyā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+tátas ← tátas (invariable)  
+{}
+
+rakṣitā́ ← rakṣitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vāyúḥ ← vāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́kr̥tiḥ ← ā́kr̥ti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mā́saḥ ← mā́s- 1 (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sámānām ← sámā- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +181,4 @@ Wenn man zu trinken dich beginnt, | dann schwillst, o Gott, du wieder an; | des 
 Ваю – сторож Сомы.  
 Месяц – образ годов.
 </details>
+

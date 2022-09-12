@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+jarbhárī ← jarbhári- (nominal stem)  
+{number:DU}
+
+sr̥ṇyā̀ ← sr̥ṇī́- (nominal stem)  
+{case:INS, gender:F, number:DU}
+
+turphárītū ← turphárītu- (nominal stem)  
+{case:INS, gender:F, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+naitośā́ ← naitośá- (nominal stem)  
+{number:DU}
+
+parpharī́kā ← parpharī́ka- (nominal stem)  
+{number:DU}
+
+turphárī ← turphári- (nominal stem)  
+{number:DU}
+
+iva ← iva (invariable)  
+{}
+
+jémanā ← jéman- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+maderū́ ← maderú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+udanyajā́ ← udanyajá- (nominal stem)  
+{}
+
+ajáram ← ajára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jarā́yu ← jarā́yu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+marā́yu ← marā́yu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +201,4 @@ naitoceva turphari parpharika
 udanyajeva jemana maderu  
 ta me jarayv ajaram marayu
 </details>
+

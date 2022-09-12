@@ -15,14 +15,57 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+agníbhiḥ ← agní- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+karat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+śám ← śám (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tapatu ← √tap- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+arapā́ḥ ← arapás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vātu ← √vā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+srídhaḥ ← srídh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +187,4 @@ Mit Flammen schaffe Agni Heil, die Sonne strahle Heil uns zu, Nicht schadend weh
 Счастье нам должен воссветить Сурья!  
 Счастье Вата должен навеять, не причиняя вреда, (и прогнать) прочь неудачи!
 </details>
+

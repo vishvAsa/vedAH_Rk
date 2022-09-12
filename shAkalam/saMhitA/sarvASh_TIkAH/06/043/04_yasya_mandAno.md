@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; 12 = 8+4;; repeated line
+#### Morph
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mandānáḥ ← √mand- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dadhiṣé ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+mā́ghonam ← mā́ghona- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +157,7 @@ On áprahan- (or, less likely, áprahaṇa-), see Oldenberg, Scarlatta (689). Sc
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 Although this tṛca does not have glaring signs of unity, it particularly concerns the songs that strengthen Indra and rouse his aid to us. It also has a subtle morphological ring; see the disc. of the loc. inf. in 3d.
@@ -148,3 +188,4 @@ An dessen Trunke du erfreut empfangen hast gewalt'ge Macht, Der Soma ist gepress
 Ты достиг силы, свойственной щедрому,  
 Этот самый сома, о Индра, выжат для тебя. Пей!
 </details>
+

@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+kr̥ṣṇé ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vásudhitī ← vásudhiti- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+viśvápeśasā ← viśvápeśas- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yemā́te ← √yam- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+candréṇa ← candrá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vā́yo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+yāhí ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +184,4 @@ Die dunkeln, allgestaltigen Schatzkammern beide folgen nach; Auf lichtem Wagen k
 О Ваю, приезжай на сверкающей  
 Колеснице на питье выжатого сомы!
 </details>
+

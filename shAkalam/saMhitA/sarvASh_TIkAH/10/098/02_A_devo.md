@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ajiráḥ ← ajirá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cikitvā́n ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+agachat ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devāpe ← devā́pi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+pratīcīnáḥ ← pratīcīná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vavr̥tsva ← √vr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
+
+āsán ← āsán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dádhāmi ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+dyumátīm ← dyumánt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ Der flinke göttliche Bote, der kundige, ist von dir, Devapi, zu mir gekommen. W
 Я вложу тебе в уста блистательную речь.  
 Девапи:
 </details>
+

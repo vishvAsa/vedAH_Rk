@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+árādhi ← √rādh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+niṣádā ← niṣád- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yájīyān ← yájīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+khyát ← √khyā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+práyāṁsi ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+súdhitāni ← súdhita- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hánta ← hánta (invariable)  
+{}
+
+yájāmahai ← √yaj- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+yajñíyān ← yajñíya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ā́jyena ← ā́jya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ī́ḍyān ← ī́ḍya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ī́ḷāmahai ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +190,4 @@ Der beste Opfrer ist durchs Mahl befriedigt; denn er ersah die wohlgesetzten Spe
 Вперед! Мы хотим приносить жертвы достойным жертв богам.  
 Мы хотим призывать достойных призывов с помощью жертвенного масла!
 </details>
+

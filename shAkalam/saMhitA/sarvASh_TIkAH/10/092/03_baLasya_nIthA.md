@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+báṭ ← báṭ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+manmahe ← √man- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+nīthā́ ← nīthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+paṇéḥ ← paṇí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+āsuḥ ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+áttave ← √ad- (root)  
+{case:DAT, number:SG}
+
+práhutāḥ ← √hu- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+vayā́ḥ ← vayā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+amr̥tatvám ← amr̥tatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́śata ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ghorā́saḥ ← ghorá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+ā́t ← ā́t (invariable)  
+{}
+
+carkiran ← √kr̥̄- 2 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+daívyasya ← daívya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+jánasya ← jána- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +227,4 @@ Wir sondern traun sein Wesen und des Geizigen, begossen waren seine Aeste zum Ge
 
 -ru-
 </details>
+

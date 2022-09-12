@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sunvānásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ta ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+ápa ← ápa (invariable)  
+{}
+
+arādhásam ← arādhás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śvā́nam ← śván- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhŕ̥gavaḥ ← bhŕ̥gu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hatá ← √han- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+makhám ← makhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +178,7 @@ The 2nd hemistich begins like 1c: ápa śvā́nam … The simile in d, “as the
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 The dog returns from the first tṛca in the first vs. of this one. The tṛca is also more rhetorically ambitious than those in the middle of this hymn, with an abundance of similes (13b, d, 14b, c, d, 15b). Vss. 14 and 15 end identically.
@@ -164,3 +210,4 @@ Der Gott erwähl' sich wie ein Mensch dies Lied des ausgepressten Tranks; Den ga
 Прочь (гоните) пса недарящего!  
 Убейте (его), как Бхригу (убили) Макху!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aruṣáḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hárim ← hári- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mr̥janti ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+yujyate ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+ajyate ← √añj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+dhenúbhiḥ ← dhenú- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+kaláśe ← kaláśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hinváte ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+īráyati ← √īr- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+matī́ ← matí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+út ← út (invariable)  
+{}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+káti ← káti (invariable)  
+{}
+
+paripríyaḥ ← pariprī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+puruṣṭutásya ← puruṣṭutá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Gestriegelt wird der goldne, wie ein Ross geschirrt, mit Milch wird Soma in dem 
 Он поднимает голос, (и поэты) поторапливают его молитвой,  
 Сколько (их) ни на есть, (все) приятные для многовосхваленого.
 </details>
+

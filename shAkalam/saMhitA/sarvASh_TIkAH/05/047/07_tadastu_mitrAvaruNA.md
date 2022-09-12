@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+śastám ← √śaṁs- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+yós ← yós (invariable)  
+{}
+
+aśīmáhi ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+gādhám ← gādhá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pratiṣṭhā́m ← pratiṣṭhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+br̥haté ← br̥hánt- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+divé ← dyú- ~ div- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sā́danāya ← sā́dana- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Das sei, o Mitra-Varuna, o Agni, uns Heil und Segen, das sei uns gepriesen; Wir 
 Пусть достигнем мы брода и твердой опоры!  
 Поклон небу, высокому сиденью.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+návyasībhiḥ ← návyas- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+pitárā ← pitár- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+pūrvajé ← pūrvajá- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+kr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+daívyena ← daívya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dyāvāpr̥thivī ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+jánena ← jána- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+várūtham ← várūtha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +224,4 @@ Macht, Sänger, euch geneigt durch neue Lieder, im heil'gen Sitz die urgebornen 
 Придите к нам, о Небо-и-Земля, вместе с божественным  
 Родом! Велика ваша защита.
 </details>
+

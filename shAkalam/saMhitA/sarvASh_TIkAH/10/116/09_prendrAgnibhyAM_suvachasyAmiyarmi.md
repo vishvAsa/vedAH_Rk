@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indrāgníbhyām ← indrāgní- (nominal stem)  
+{case:DAT, gender:M, number:DU}
+
+iyarmi ← √r̥- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+suvacasyā́m ← suvacasyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+īrayam ← √īr- (root)  
+{number:SG, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+nā́vam ← naú- ~ nā́v- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+síndhau ← síndhu- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+áyāḥ ← áya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+dhanadā́ḥ ← dhanadā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+udbhídaḥ ← udbhíd- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Dies schöne Lied send' ich dem Indra, Agni, das Schiff bewegend wie im Strom du
 Как ходы в игре, движутся кругами боги,  
 Которые дают нам богатство и выигрыш.
 </details>
+

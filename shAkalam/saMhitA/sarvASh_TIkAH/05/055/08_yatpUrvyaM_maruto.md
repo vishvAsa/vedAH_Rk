@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ca ← ca (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+nū́tanam ← nū́tana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+śasyáte ← √śaṁs- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+udyáte ← √vadⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhavatha ← √bhū- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+návedasaḥ ← návedas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+avr̥tsata ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ráthāḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúbham ← śúbh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yātā́m ← √yā- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +236,4 @@ Was früher war, und was, o Maruts, neu geschieht, was man erzählt und was man 
 Все это вы прекрасно знаете.  
 У выезжающих для блеска (Марутов) колесницы последовали (одна за другой).
 </details>
+

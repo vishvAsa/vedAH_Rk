@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ādī́dhye ← √dhī- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+daviṣāṇi ← √dīv- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+ebhiḥ ← ayám (pronoun)  
+{case:INS, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+hīye ← √hā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:PASS}
+
+parāyádbhyaḥ ← √i- 1 (root)  
+{case:DAT, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sákhibhyaḥ ← sákhi- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+ákrata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+babhrávaḥ ← babhrú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+nyùptāḥ ← √vap- 2 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+émi ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+jāríṇī ← jāríṇī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+niṣkr̥tám ← niṣkr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +239,4 @@ Und wenn ich denk': nicht will ich ferner spielen, so weichen von mir alle meine
 То стоит брошенным коричневым (костям) подать голос,  
 Как я спешу на свидание с ними, подобно любовнице.
 </details>
+

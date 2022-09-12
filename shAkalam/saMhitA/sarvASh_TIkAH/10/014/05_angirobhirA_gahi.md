@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+áṅgirobhiḥ ← áṅgiras- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+yajñíyebhiḥ ← yajñíya- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+mādayasva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vairūpaíḥ ← vairūpá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yáma ← yamá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vívasvantam ← vívasvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+niṣádya ← √sad- (root)  
+{non-finite:CVB}
+
+yajñé ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Komm, Jama, mit den heil'gen Angirasen, berausch dich hier mit den Virupa-Söhne
 Я призываю Вивасвата, кто отец тебе,  
 Когда (ты) сел на солому при этом жертвоприношении.
 </details>
+

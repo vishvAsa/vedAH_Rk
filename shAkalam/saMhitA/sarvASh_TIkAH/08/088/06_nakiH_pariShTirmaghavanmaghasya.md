@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+maghásya ← maghá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+páriṣṭiḥ ← páriṣṭi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+daśasyási ← √daśasy- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+bodhi ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+coditā́ ← coditár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ucáthasya ← ucátha- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+máṁhiṣṭhaḥ ← máṁhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +190,4 @@ Für deine Gabe ist kein Hinderniss, o Held, wenn du dem Frommen spenden willst;
 Будь вдохновителем нашего хвалебного пения,  
 О самый щедрый, для завоевания награды!
 </details>
+

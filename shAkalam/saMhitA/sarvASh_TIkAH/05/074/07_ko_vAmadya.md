@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+purūṇā́m ← purú- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mártyānām ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vavne ← √vanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vipravāhasā ← vipravāhas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vājinīvasū ← vājínīvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +172,4 @@ Wer von den vielen Sterblichen hat heut' euch zu sich hingelockt? Welch Sänger,
 Какой вдохновенный, о притягиваемые вдохновенными?  
 Кто (своими) жертвами, о богатые наградой?
 </details>
+

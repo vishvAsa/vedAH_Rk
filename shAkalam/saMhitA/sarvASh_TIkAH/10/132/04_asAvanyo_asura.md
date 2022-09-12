@@ -16,14 +16,66 @@ ChandaH = "विराड्रूपा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asaú ← asaú (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asura ← ásura- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sūyata ← √sū- 2 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:PASS}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśveṣām ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+cākan ← √kanⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRF, voice:ACT}
+
+mūrdhā́ ← mūrdhán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráthasya ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+antakadhrúk ← antakadrúh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+énasā ← énas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+etā́vatā ← etā́vant- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Auch jener andere, o höchster Gott [asura], wurde geboren vom Himmel; du, o Var
 Глава (всему), ты любишь колесницу.  
 Из-за такого греха (человек) не (подвержен) вреду от смерти.
 </details>
+

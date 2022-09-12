@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+etā́vataḥ ← etā́vant- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+návyasaḥ ← návyas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vidyā́ma ← √vid- 2 (root)  
+{number:PL, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+ā́vaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dháne ← dhána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+étaśam ← étaśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kŕ̥tvye ← kŕ̥tvya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+dáśavraje ← dáśavraja- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+váśam ← váśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +181,4 @@ Als einen solchen zeige dich aufs Neue uns, o guter Held, Wie im Entscheidungska
 Как (та, что) ты помог Эташе в решающей ставке,  
 Как (та, что) - Ваше у Дашавраджи.
 </details>
+

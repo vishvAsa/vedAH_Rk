@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+citrámahasam ← citrámahas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥ṇīṣe ← √gr̥̄- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+vásum ← vásu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adviṣeṇyám ← adviṣeṇyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átithim ← átithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śévam ← śéva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāmám ← vāmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rāsate ← √rā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śurúdhaḥ ← śurúdh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+viśvádhāyasaḥ ← viśvádhāyas- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gr̥hápatiḥ ← gr̥hápati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +209,4 @@ Wie einen guten reichen Geber preise ich den holden, schönen Gast, der keinem �
 Пусть дарует он всенасыщающие награды,  
 Агни, хотар, хозяин дома, (и) богатсвто из прекрасных сыновей!
 </details>
+

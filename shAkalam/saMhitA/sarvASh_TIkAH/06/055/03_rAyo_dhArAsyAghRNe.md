@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+āghr̥ṇe ← ā́ghr̥ṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dhā́rā ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+ajāśva ← ajā́śva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rāśíḥ ← rāśí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásoḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dhī́vato-dhīvataḥ ← dhī́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +153,4 @@ Des Reichthums Strom, des Gutes Schwall bist, lichter Ziegenlenker, du Und jedes
 Куча добра, о ты, ездящий на козлах вместо коней,  
 Друг каждого наделенного поэтическим даром.
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; repeated line  
 popular;; repeated line  
 popular  
 popular
+#### Morph
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vibhrā́jan ← √bhrāj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ágachaḥ ← √gam- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+rocanám ← rocaná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́bhr̥tā ← √bhr̥- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+viśvádevyāvatā ← viśvádevyāvant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+viśvákarmaṇā ← viśvákarman- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +172,4 @@ Erstrahlend hell mit deinem Licht ersteigst des Himmels Aether du, Durch den die
 (Ты,) благодаря которому поддержаны все существа,  
 Благодаря творцу всего, наделенному все божественным.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rocanā́ ← rocaná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+dr̥ḷhā́ni ← √dr̥h- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+dr̥ṁhitā́ni ← √dr̥h- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+parāṇúde ← √nud- (root)  
+{case:DAT, number:SG}
+
+sthirā́ṇi ← sthirá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,3 +138,4 @@ Des Himmels lichte Wölbung ist gefügt durch Indra und gestützt, Nicht fortzus
 Были Индрой укреплены и закреплены:  
 Их крепких не столкнуть (с места).
 </details>
+

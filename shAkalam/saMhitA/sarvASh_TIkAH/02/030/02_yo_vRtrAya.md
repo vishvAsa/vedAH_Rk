@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ábhariṣyat ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:COND, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+sínam ← sína- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥trā́ya ← vr̥trá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+jánitrī ← jánitrī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+uvāca ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vidúṣe ← √vid- 2 (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+jóṣam ← jóṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+rádantīḥ ← √rad- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhúnayaḥ ← dhúni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +241,4 @@ Wer dort das Gut dem Vritra rauben würde, den kündete die Mutter an dem weisen
 Пробивая свои пути ему на радость,  
 День за днем движутся к цели шумные (реки).
 </details>
+

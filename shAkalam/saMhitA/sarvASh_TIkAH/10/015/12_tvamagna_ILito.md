@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+īḷitáḥ ← √īḍ- ~ √īḷ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ávāṭ ← √vah- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+havyā́ni ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kr̥tvī́ ← √kr̥- (root)  
+{}
+
+surabhī́ṇi ← surabhí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+adāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+akṣan ← √ghas- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+pitŕ̥bhyaḥ ← pitár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+addhí ← √ad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+havī́ṁṣi ← havís- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+práyatā ← √yam- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Du Wesenkenner, Agni, bist gepriesen, du fuhrst die Opfer jetzt, sie duftig schm
 Ты предал (их) отцам. Они вкусили (их) по своему обычаю.  
 Ешь (и) ты, о бог, предложенные жертвенные возлияния!
 </details>
+

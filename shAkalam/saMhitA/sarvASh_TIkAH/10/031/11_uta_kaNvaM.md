@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+káṇvam ← káṇva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nr̥ṣádaḥ ← nr̥ṣád- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adatta ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dhánam ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śyāváḥ ← śyāvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apinvata ← √pinv- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+kr̥ṣṇā́ya ← kr̥ṣṇá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+rúśat ← rúśant- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+apīpet ← √pī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +227,4 @@ Kanva nannten sie den Sohn des Nrischad, und der braune Renner erlangte den Kamp
 Для черного набухло светлое вымя,  
 (Но) тут никто не сделал для него набухшей истину.
 </details>
+

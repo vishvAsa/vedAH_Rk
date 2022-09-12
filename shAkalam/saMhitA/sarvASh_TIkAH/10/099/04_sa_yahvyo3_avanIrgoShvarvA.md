@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árvā ← árvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+avánīḥ ← aváni- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yahvyàḥ ← yahvī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+juhoti ← √hu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pradhanyā̀su ← pradhanyà- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sásriḥ ← sásri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apā́daḥ ← apád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arathā́ḥ ← arathá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+yújyāsaḥ ← yújya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+droṇyàśvāsaḥ ← droṇyàśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ī́rate ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+vā́r ← vā́r- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Er giesst die raschen Ströme hin zu den Kühen, die den Kampfpreis bilden, dahi
 Когда союзники его без ног, без колесницы,  
 С чанами-конями льют жир и воду.
 </details>
+

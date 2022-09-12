@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhānúnā ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+jráyāṁsi ← jráyas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pā́rthivāni ← pā́rthiva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dhr̥ṣatā́ ← √dhr̥ṣ- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tatantha ← √tan- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+todásya ← todá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+bādhasva ← √bādhⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+bhayā́ ← bhayá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sáhobhiḥ ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+jūrva ← √jūrv- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vanúṣaḥ ← vanús- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vanuṣyán ← √vanuṣ(y)- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Du hast bestrahlt der Erde weite Fluren voll Kühnheit mit dem Licht des Rossest
 (Своими) силами отбрось прочь опасности!  
 Спали соперников, усердный – усердствующих!
 </details>
+

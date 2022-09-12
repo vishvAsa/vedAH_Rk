@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ca ← ca (invariable)  
+{}
+
+kvà ← kvà (invariable)  
+{}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+dadhase ← √dhā- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+dákṣam ← dákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úttaram ← úttara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇavase ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+sádaḥ ← sádas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tátra ← tátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +171,4 @@ Wo irgend sich dein Geist erregt, gewinnst du höh're Geisteskraft; Da schaffe d
 Мысль, (свою) высшую силу действия,  
 Там ты устраиваешь (свое) сидение.
 </details>
+

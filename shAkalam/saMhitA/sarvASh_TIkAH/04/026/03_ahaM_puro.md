@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+airam ← √īr- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+mandasānáḥ ← mandasāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+náva ← náva- 1 (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+navatī́ḥ ← navatí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sākám ← sākám (invariable)  
+{}
+
+śámbarasya ← śámbara- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sarvátātā ← sarvátāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śatatamám ← śatatamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+veśyàm ← veśyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+atithigvám ← atithigvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́vam ← √avⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+dívodāsam ← dívodāsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +195,4 @@ Ich hab' im Rausch die neunundneunzig Burgen des Çambara zerschmettert all auf 
 (А) сотое поселение – полноты ради,  
 Когда помогал Диводасе Атитхигве.
 </details>
+

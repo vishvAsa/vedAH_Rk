@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic, Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arāvīt ← √rū- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+pariyán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ukṣā́ ← ukṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yūthā́ ← yūthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+adhita ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tvíṣīḥ ← tvíṣi- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+cakṣata ← √cakṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+divyáḥ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣā́m ← kṣám- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+suparṇáḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jā́ḥ ← jā́- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+krátunā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+paśyate ← √paś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Die Heerden wie ein Bull durchschreitend brüllt er, er hat sich angelegt der So
 Небесная птица, он смотрит вниз на землю.  
 Сома разглядывает существа благодаря (своей) силе духа.
 </details>
+

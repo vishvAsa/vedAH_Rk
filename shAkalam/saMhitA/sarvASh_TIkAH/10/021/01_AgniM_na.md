@@ -18,16 +18,62 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+svávr̥ktibhiḥ ← svávr̥kti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+stīrṇábarhiṣe ← stīrṇábarhis- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yajñā́ya ← yajñá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+pāvakáśociṣam ← pāvakáśocis- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śīrám ← śīrám (invariable)  
+{case:ACC, gender:M, number:SG}
+
+vívakṣase ← √vac- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +200,4 @@ Durch eigne Werke wählen wir dich Agni uns zum Priester nun Fürs Opfer mit ges
 Жаркого, с чистым пламенем –  
 В опьянении (сомой) я хочу вам (это) провозгласить.
 </details>
+

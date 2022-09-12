@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+purāṣā́ṭ ← purāṣáh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purutámam ← purutáma- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vāvā́na ← √vanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aprāḥ ← √prā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nā́māni ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áceti ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prāsáhaḥ ← prāsáh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+túviṣmān ← túviṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+kárat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+kártave ← √kr̥- (root)  
+{case:DAT, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+uśmási ← √vaś- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Weil ewig siegreich er den steten Feind schlug, macht Indra wahr des Vritratödt
 Он проявил себя как могучий повелитель насилия.  
 Что мы хотим, чтоб он сделал, пусть он сделает это!
 </details>
+

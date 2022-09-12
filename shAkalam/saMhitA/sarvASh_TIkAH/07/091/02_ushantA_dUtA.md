@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dábhāya ← dábha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dūtā́ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+gopā́ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+uśántā ← √vaś- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+māsáḥ ← mā́s- 1 (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pātháḥ ← √pā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+índravāyū ← indra-vāyú- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+iyānā́ ← √yā- 2 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+suṣṭutíḥ ← suṣṭutí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+īṭṭe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mārḍīkám ← mārḍīká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+návyam ← návya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suvitám ← suvitá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Als will'ge Boten, Hüter nicht zu täuschen, behütet viele Monde ihr und Jahre
 О Индра-Ваю, прекрасная хвала, направляющаяся к вам,  
 Взывает о милосердии и новой удаче.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ádrayaḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dáśayantrāsaḥ ← dáśayantra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ādhā́nam ← ādhā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+haryatám ← haryatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+somyásya ← somyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+aṁśóḥ ← aṁśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhejire ← √bhaj- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+pīyū́ṣam ← pīyū́ṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prathamásya ← prathamá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +214,4 @@ Zehnfach gezäumten Rossen sind die Steine gleich, und ihre Fahrt umläuft den l
 
 -ru-
 </details>
+

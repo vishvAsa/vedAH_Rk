@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pacatáḥ ← pacatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+puroḷā́ḥ ← puroḷā́ś- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+páriṣkr̥taḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yaviṣṭhya ← yáviṣṭhya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +153,4 @@ Gebacken ist der Kuchen dir, und, Agni, dir zurecht gemacht, Gniesse ihn, o jün
 Или, вернее, для тебя она приготовлена.  
 Наслаждайся ею, о самый юный!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aṅgirasvát ← aṅgirasvát (invariable)  
+{}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+saparyán ← √sapary- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇomi ← √kr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+návyam ← návya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+purājā́m ← purājā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sányase ← sányaṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ádevīḥ ← ádeva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+bahulā́ḥ ← bahulá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+drúhaḥ ← drúh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +208,7 @@ Pāda b, návyaṃ kṛṇomi … purājā́m “I make new (the hymn) born of o
 On the √dhā + inf. construction, see vs. 13 above.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/031/19-20.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/031/19-20.md">
 <details open><summary><h2>19-20 ...{Loading}...</h2></summary>
 
 Note the echo of 19d #s ú vaś ca naḥ in 20b s u vastí naḥ.
@@ -182,3 +240,4 @@ Mit Anbetung ihn nach Angiras-Art verehrend, mach' ich das alterzeugte [Lied] ne
 Преодолей многие безбожные обманы  
 И дай нам, о щедрый, захватить солнце!
 </details>
+

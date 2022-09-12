@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āsate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+deṣṭrā́ya ← deṣṭrá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+nírr̥tīḥ ← nírr̥ti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+dīrghaśrútaḥ ← dīrghaśrút- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+jānánti ← √jñā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+váhnayaḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+cikyuḥ ← √ci- 3 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+nidā́nam ← nidā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tā́sām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+gúhyeṣu ← gúhya- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+páreṣu ← pára- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vratéṣu ← vratá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Die drei Todesgenien bleiben ihrer Zusage getreu (?); die weithin hörenden Prie
 Поэты постигли их суть,  
 (Тех,) что (связаны) с высшими, тайными заветами.
 </details>
+

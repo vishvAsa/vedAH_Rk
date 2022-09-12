@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kaváye ← kaví- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vedháse ← vedhás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+védyāya ← védya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhare ← √bhr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+gíram ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pūrvyā́ya ← pūrvyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yaśáse ← yaśás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ghr̥táprasattaḥ ← ghr̥táprasatta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suśévaḥ ← suśéva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhartā́ ← dhartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dharúṇaḥ ← dharúṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +209,4 @@ Dem weisen Ordner, ihm, dem allbekannten, bring' ich ein Lied, dem herrlichen, d
 Сидящий среди жира, очень милый Асура,  
 Носитель богатства, поддерживатель добра – таков Агни.
 </details>
+

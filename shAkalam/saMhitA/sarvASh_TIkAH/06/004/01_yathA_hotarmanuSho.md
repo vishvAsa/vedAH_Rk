@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devátātā ← devátāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+hotar ← hótar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yájāsi ← √yaj- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+yajñébhiḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+adyá ← adyá (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+samanā́ ← samanā́ (invariable)  
+{}
+
+samānā́n ← samāná- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+uśán ← √vaś- (root)  
+{tense:PRS, voice:ACT}
+
+uśatáḥ ← √vaś- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yakṣi ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Wie du, o Priester, opfern sollst mit Opfern, o Sohn der Kraft, beim Gottesdiens
 Тем же способом для нас сегодня тем же  
 Богам, желающий, о Агни, желающим, принеси жертву!
 </details>
+

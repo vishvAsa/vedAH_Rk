@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+āḥ ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+cíttiḥ ← cítti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+upabárhaṇam ← upabárhaṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+abhyáñjanam ← abhyáñjana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āḥ ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhū́miḥ ← bhū́mi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kóśaḥ ← kóśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áyāt ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sūryā́ ← sūryā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ Weisheit war ihr Polster, Sehkraft ihr Geschmeide, Himmel und Erde ihr Wagenkast
 Ларь был небом и землей,  
 Когда ехала Сурья к супругу.
 </details>
+

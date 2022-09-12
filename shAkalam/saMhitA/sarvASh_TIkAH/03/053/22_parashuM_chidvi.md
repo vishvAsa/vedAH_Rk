@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+cit ← cit (invariable)  
+{}
+
+paraśúm ← paraśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tapati ← √tap- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+śimbalám ← śimbalá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vr̥ścati ← √vr̥śc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ukhā́ ← ukhā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yéṣantī ← √yas- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+asyati ← √as- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+phénam ← phéna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+práyastā ← √yas- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

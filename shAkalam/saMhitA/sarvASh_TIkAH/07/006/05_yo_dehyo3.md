@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánamayat ← √nam- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dehyàḥ ← dehī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vadhasnaíḥ ← vadhasná- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+aryápatnīḥ ← aryápatnī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+cakā́ra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+náhuṣaḥ ← náhus- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nirúdhya ← √rudh- 1 (root)  
+{non-finite:CVB}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yahváḥ ← yahvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+balihŕ̥taḥ ← balihŕ̥t- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+cakre ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+sáhobhiḥ ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+víśaḥ ← víś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +226,4 @@ Er, der mit Keulen niederschlug die Wälle, sich fest vermählte mit den Morgenr
 Этот юный Агни, заточив племена Нахуша,  
 (Своими) силами сделал (их) данниками.
 </details>
+

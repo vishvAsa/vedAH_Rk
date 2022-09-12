@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mimikṣatām ← √myakṣ- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+madhudúghe ← madhudúgha- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+madhuścútā ← madhuścút- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+mádhuvrate ← mádhuvrata- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+dádhāne ← √dhā- 1 (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+devátā ← devátā (invariable)  
+{}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Lasst strömen uns, o Erd' und Himmel, Süssigkeit, die Meth ihr träufelt, Süs
 Те, что устанавливают жертву и имущество среди богов,  
 Великую славу, награду, богатство из героев для нас.
 </details>
+

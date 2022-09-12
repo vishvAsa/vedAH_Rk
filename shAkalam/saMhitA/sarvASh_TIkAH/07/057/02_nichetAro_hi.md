@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gr̥ṇántam ← √gr̥̄- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nicetā́raḥ ← nicetár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+praṇetā́raḥ ← praṇetár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yájamānasya ← √yaj- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+adyá ← adyá (invariable)  
+{}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+pipriyāṇā́ḥ ← √prī- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+sadata ← √sad- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vītáye ← vītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +193,4 @@ Denn auf den Sänger achten ja die Maruts und fördern gern des Opferers Gebete;
 На нашу жертвенную солому усаживайтесь сегодня  
 (Для участия) в жертвенных раздачах, чтобы вкусить (жертву и быть) очень достойными!
 </details>
+

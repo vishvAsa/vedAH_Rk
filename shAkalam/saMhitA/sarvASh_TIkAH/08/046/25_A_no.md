@@ -16,14 +16,69 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+táne ← tán- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vāyo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+makhā́ya ← makhá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pā́jase ← pā́jas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yāhí ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+cakr̥má ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sadyás ← sadyás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Komm her zu langer Dauer uns, dem Kämpfer, Vaju, recht zur Kraft, Wir dienten d
 Ведь мы тебе приготовили (жертву), чтобы ты много подарил,  
 Чтобы сразу же мощно подарил.
 </details>
+

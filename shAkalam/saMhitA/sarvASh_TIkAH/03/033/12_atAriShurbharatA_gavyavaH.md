@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átāriṣuḥ ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bharatā́ḥ ← bharatá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gavyávaḥ ← gavyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+ábhakta ← √bhaj- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+nadī́nām ← nadī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iṣáyantīḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+pinvadhvam ← √pinv- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+surā́dhāḥ ← surā́dhas- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+pr̥ṇádhvam ← √pr̥̄- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+śī́bham ← śī́bham (invariable)  
+{}
+
+vakṣáṇāḥ ← vakṣáṇā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yātá ← √yā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Die Bharater voll Kampflust sind hinüber, der Ströme Gunst gewann für sich de
 Набухайте, освежая, принося прекрасные дары!  
 Наполняйте себе утробу! Быстро двигайтесь!
 </details>
+

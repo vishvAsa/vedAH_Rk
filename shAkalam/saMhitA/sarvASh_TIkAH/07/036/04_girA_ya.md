@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+etā́ ← eṣá (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yunájat ← √yuj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+dhāyū́ ← dhāyú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+priyā́ ← priyá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suráthā ← surátha- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+manyúm ← manyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+minā́ti ← √mī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+rírikṣataḥ ← √riṣ- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aryamáṇam ← áryaman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sukrátum ← sukrátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vavr̥tyām ← √vr̥t- (root)  
+{number:SG, person:1, mood:OPT, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +248,4 @@ Ihn, der durch Lied an schönen Wagen schirrte dir, Indra, diese lieben durst'ge
 Я хочу повернуть к себе Арьямана с прекрасной силой духа,  
 (Того) кто прекращает ярость желающего навредить!
 </details>
+

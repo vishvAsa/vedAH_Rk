@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+arvā́cī ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+subhage ← subhága- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sī́te ← sī́tā- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vándāmahe ← √vandⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+ásasi ← √as- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+subhágā ← subhága- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ásasi ← √as- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suphálā ← suphála- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +194,4 @@ reiche Furche, sei du uns nahe, wir verehren dich, damit du uns segensreich, dam
 Чтоб была для вас приносящей счастье,  
 Чтоб была ты для нас очень плодородной!
 </details>
+

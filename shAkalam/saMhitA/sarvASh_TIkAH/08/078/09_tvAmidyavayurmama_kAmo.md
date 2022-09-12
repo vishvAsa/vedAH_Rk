@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yavayúḥ ← yavayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gavyúḥ ← gavyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hiraṇyayúḥ ← hiraṇyayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kā́maḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvayúḥ ← aśvayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īṣate ← √īṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +149,4 @@ Zu dir ja strebet hin mein Wunsch, der Gerste, Rinder, Gold begehrt, Zu dir mein
 
 -ru-
 </details>
+

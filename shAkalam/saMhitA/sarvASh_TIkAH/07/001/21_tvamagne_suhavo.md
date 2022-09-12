@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+raṇvásaṁdr̥k ← raṇvásaṁdr̥ś- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suhávaḥ ← suháva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+didīhi ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sudītī́ ← sudītí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhak ← √dagh- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+nítye ← nítya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+tánaye ← tánaya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+dāsīt ← √das- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+náryaḥ ← nárya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,8 +232,9 @@ Du, schön zu rufen, hold zu schauen, Agni, mit schönem Strahle strahl, o Sohn 
 
 <details><summary>Elizarenkova</summary>
 
-Ты, о Агни, легко призываемы>, радостньгл на вид,  
+Ты, о Агни, легко призываемы&gt;, радостньгл на вид,  
 Засверкай, о сын силы, прекрас1(tm)м сверканием!  
 Да не потерпит ущерба при тебе собственный (сын наш,) продолжающий род!  
 Да не покинет нас мужественный сын!
 </details>
+

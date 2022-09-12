@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+iyānáḥ ← √yā- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+bruve ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+pū́rvau ← pū́rva- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sácā ← sácā (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+cetúnā ← cetúna- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+sváśvāsaḥ ← sváśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +194,4 @@ Indem ich euch um Hülfe fleh, ruf ich zugleich euch alte an, Dass rossereich du
 (Пусть) повелители прекрасных коней под добрым знаком  
 (Мчатся) к наградам, чтобы получить дары.
 </details>
+

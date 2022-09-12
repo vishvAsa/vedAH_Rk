@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ákāri ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+bráhma ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samidhāna ← √idh- 1 (root)  
+{case:VOC, gender:M, number:SG, tense:AOR, voice:MED}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+śáṁsāti ← √śaṁs- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+ukthám ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yájate ← √yaj- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+seduḥ ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+āyóḥ ← āyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+namasyántaḥ ← √namasy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+śáṁsam ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uśíjaḥ ← uśíj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ Vollbracht ist dir, entzündeter, die Andacht, der Spruch gesprochen, spende nun
 Как хотара усадили Ушиджи Агни у Мануса,  
 Как хвалу Аю, поклоняясь (ему).
 </details>
+

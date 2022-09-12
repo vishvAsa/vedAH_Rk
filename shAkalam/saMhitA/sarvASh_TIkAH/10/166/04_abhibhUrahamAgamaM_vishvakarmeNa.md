@@ -16,14 +16,66 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+abhibhū́ḥ ← abhibhū́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agamam ← √gam- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+dhā́mnā ← dhā́man- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+viśvákarmeṇa ← viśvákarma- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cittám ← √cit- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+dade ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+sámitim ← sámiti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +198,4 @@ Als Ueberwinder kam ich her mit allbezwingender Gewalt; Ich nehm' eur Denken, eu
 Ваше понимание, ваше служение,  
 Ваш совет – я забираю (их) себе!
 </details>
+

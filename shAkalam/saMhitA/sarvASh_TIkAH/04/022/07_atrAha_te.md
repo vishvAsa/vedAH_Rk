@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áha ← áha (invariable)  
+{}
+
+átra ← átra (invariable)  
+{}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+ávobhiḥ ← ávas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stavanta ← √stu- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+svásāraḥ ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+badbadhānā́ḥ ← √bādhⁱ- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:MED}
+
+mucáḥ ← √muc- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sīm ← sīm (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+dīrghā́m ← dīrghá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prásitim ← prásiti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+syandayádhyai ← √syand- (root)  
+{case:DAT, number:SG, tense:PRS}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +225,7 @@ I don’t understand the double ánu (pādas c and d), though my surmise is that
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/022/06-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/022/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 Another responsion: 6c ádhā ha / 7a átrā́ha. Later in the pāda 7a tā́u recalls the openings of 5a and 6a tā́tū́.
@@ -193,3 +257,4 @@ Da stimmten zu mit Lust dir diese Schwestern, die göttlichen, o Indra, Herr der
 Когда ты освободил запруженные (воды),  
 После долгого заточения, чтобы они текли.
 </details>
+

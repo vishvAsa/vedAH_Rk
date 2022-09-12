@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áyā ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+ī́ṣante ← √īṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+janúṣaḥ ← janúṣ- (nominal stem)  
+{case:ABL, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+antár ← antár (invariable)  
+{}
+
+avadyā́ni ← avadyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+punānā́ḥ ← √pū- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+sántaḥ ← √as- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+duhré ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+jóṣam ← jóṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+śriyā́ ← śrī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ukṣámāṇāḥ ← √ukṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +226,4 @@ Die nicht verleugnen die Geburt aus jener, im Mutterleib schon tilgend ihre Flec
 Когда они выдаивались, чистые, в свое удовольствие (из вымени Пришни),  
 Возрастая красотой по (всему) телу.
 </details>
+

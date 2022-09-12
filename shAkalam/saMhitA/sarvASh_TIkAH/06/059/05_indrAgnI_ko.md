@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ciketati ← √cit- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+dévau ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+víṣūcaḥ ← víṣvañc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuyujānáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+samāné ← samāná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +210,4 @@ O Indra-Agni, welcher Sterbliche erkennt dies euer Werk? Der eine eilt vorwärts
 Запрягши коней в разные стороны, один  
 Едет на той же самой колеснице.
 </details>
+

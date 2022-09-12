@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+sanádvājam ← sanádvāja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tárutram ← tárutra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vípravīram ← vípravīra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhanaspŕ̥tam ← dhanaspŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudákṣam ← sudákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śūśuvā́ṁsam ← √śū- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+dasyuhánam ← dasyuhán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pūrbhídam ← pūrbhíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+satyám ← satyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+citrám ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +215,4 @@ Der Labung bringt, der Beute schafft und Stärke, den kräft'gen, wahren, den di
 Убивающее дасью, проламывающее крепости, о Индра, истинное –  
 Нам даруй яркое, мощное богатство!
 </details>
+

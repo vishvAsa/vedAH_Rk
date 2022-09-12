@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+paścā́ ← paścā́ (invariable)  
+{}
+
+purás ← purás (invariable)  
+{}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tirás ← tirás (invariable)  
+{}
+
+váśam ← váśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,8 +147,6 @@ hidden against the wishes of the deva-s.
 Bring, indra, the sun to the front that is lingering behind, hidden against the wishes of the deva-s.
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -147,3 +182,4 @@ Die Sonne, die im Westen ist, schaff', Indra, du nach Osten hin, Auch wenn's nic
 Находящегося позади, поставь впереди  
 Даже вопреки воле богов!
 </details>
+

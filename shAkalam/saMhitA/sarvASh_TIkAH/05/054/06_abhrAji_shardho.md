@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ábhrāji ← √bhrāj- (root)  
+{number:SG, person:3, tense:AOR, voice:PASS}
+
+arṇasám ← arṇasá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kapanā́ ← kapanā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+móṣatha ← √muṣⁱ- (root)  
+{number:PL, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+vedhasaḥ ← vedhás- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vr̥kṣám ← vr̥kṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+arámatim ← arámati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sajoṣasaḥ ← sajóṣas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sma ← sma (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+neṣatha ← √nī- (root)  
+{number:PL, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+sugám ← sugá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yántam ← √i- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +243,4 @@ In Scharen glänzt ihr Maruts, wenn das Wolkenmeer ihr, wie den Baum die Raupe, 
 А теперь нашу благочестивую мысль, о единодушные,  
 Ведите по хорошему пути, как глаз – идущего!
 </details>
+

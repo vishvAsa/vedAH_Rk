@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+uruṣyati ← √uruṣy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+amŕ̥tāt ← amŕ̥ta- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jánmanaḥ ← jánman- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+sáhīyān ← sáhīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jīvā́tave ← jīvā́tu- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+kr̥táḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +173,4 @@ Der Agni hier hilft aus der Noth selbst vor dem göttlichen Geschlecht; Der stä
 Сильнее даже сильного,  
 (Этот) бог создан для жизни.
 </details>
+

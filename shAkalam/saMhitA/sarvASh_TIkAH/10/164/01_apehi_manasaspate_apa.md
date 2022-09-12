@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+manasaḥ ← mánas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+cara ← √carⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+krāma ← √kramⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+parás ← parás (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cakṣva ← √cakṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+nírr̥tyai ← nírr̥ti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+parás ← parás (invariable)  
+{}
+
+bahudhā́ ← bahudhā́ (invariable)  
+{}
+
+jī́vataḥ ← √jīv- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +189,4 @@ Gehe hinweg, du Beherrscher des Sinnes [böser Traum, Krankheit, Schwindel oder 
 (Там) вдали скажи Гибели:  
 Мысль живущего (бывает) о многом.
 </details>
+

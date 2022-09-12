@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádr̥śram ← √dr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+āyatī́ḥ ← √i- 1 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bíbhratīḥ ← √bhr̥- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mádhūni ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+páyāṁsi ← páyas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+adhvaryúbhiḥ ← adhvaryú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+saṁvidānā́ḥ ← √vid- 2 (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:MED}
+
+bhárantīḥ ← √bhr̥- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+súṣutam ← súṣuta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +201,4 @@ Wenn wir die Wasser zu uns kommen sahen, die Fett und Milch und süsse Tränke b
 Мыслью единые с адхварью,  
 Неся для Индры хорошо выжатого сому:
 </details>
+

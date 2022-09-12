@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ha ← ha (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kṣā́ḥ ← kṣám- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+maṁhánā ← maṁhánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+manyata ← √man- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+jaghanvā́n ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áhinā ← áhi- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+jagrasānā́n ← √gras- (root)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+síndhūn ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sr̥jáḥ ← √sr̥j- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +203,7 @@ The pair “earth / heaven” occupy the final slots of the first two pādas: �
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/01-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
 Hoffmann (Injunk. 178-180) treats these four vss. They express the cosmic disruptions attendant on Indra’s birth and the further disruptions caused by his smashing of Vṛtra. On the ring composition that demarcates this section, see comm. on vs. 4 below.
@@ -177,3 +235,4 @@ Gross bist du, Indra, dir ja räumten Erde und Himmel willig ein die Oberherrsch
 Ты убил Вритру силой. Ты выпустил течь  
 Реки, поглощенные змеем.
 </details>
+

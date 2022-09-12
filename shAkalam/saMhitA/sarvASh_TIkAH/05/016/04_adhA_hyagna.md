@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+maṁhánā ← maṁhánā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+suvī́ryasya ← suvī́rya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yahvám ← yahvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+babhūvatuḥ ← √bhū- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +197,4 @@ Denn so wird ihnen auch zu Theil, o Agni, hohe Heldenkraft; Wie einen Sohn umfan
 Это его, словно (мать) – юное (дитя), обнимают  
 Обе половины вселенной, (наделяя) славой.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+mā́nāt ← mā́na- 2 (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pratnā́t ← pratná- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+samásvaran ← √svar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+mántavaḥ ← mántu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rabhasásya ← rabhasá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ślókayantrāsaḥ ← ślókayantra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ahāsata ← √hā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+anakṣā́saḥ ← anakṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+badhirā́ḥ ← badhirá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+duṣkŕ̥taḥ ← duṣkŕ̥t- (nominal stem)  
+{case:NOM, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+taranti ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +199,7 @@ Since ślókayantra- also works better if it applies only to one part of the sub
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 These two vss., almost in the center of the hymn, have a similar structure.
@@ -178,3 +233,4 @@ Die als des wilden Rosses Lenker liedgelockt zugleich geströmt sind von dem alt
 Слепые и глухие удалились.  
 Творящие зло не пересекают пути закона.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+daṁsánābhiḥ ← daṁsánā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+āmā́su ← āmá- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+dīdhar ← √dhr̥- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+pakvám ← pakvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śácyā ← śácī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+aúrṇoḥ ← √vr̥- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dr̥ḷhā́ ← √dr̥h- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+usríyābhyaḥ ← usríya- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+áṅgirasvān ← áṅgirasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asr̥jaḥ ← √sr̥j- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ūrvā́t ← ūrvá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Durch deine Macht und Wunderkräfte legtest du rüstig gare Milch in rohe Kühe;
 Рыжим коровам ты растворил врата, твердыни,  
 Ты выпустил из укрытия коров, сопровождаемый Ангирасами.
 </details>
+

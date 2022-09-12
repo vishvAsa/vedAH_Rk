@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jínva ← √ji- 2 ~ jinv- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pīpaya ← √pī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+sudóghe ← sudógha- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+rucānáḥ ← √ruc- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+surúcā ← surúc- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+durmatíḥ ← durmatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mártasya ← márta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+sthāt ← √sthā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +236,4 @@ Lass schwellen, Held, und fördern uns die Schätze, und Agni du die gabenreiche
 (Приди) с богами, о бог, блестя чудным блеском!  
 Да не окружит нас злая мысль смертного!
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+śocíḥ ← śocís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
+ajáram ← ajára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dīdiyúṣaḥ ← √dī- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+gaṇaśríyaḥ ← gaṇaśrí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sudyútaḥ ← sudyút- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tápurjambhasya ← tápurjambha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +168,4 @@ Sein Licht, das unauslöschliche, des glänzenden erhob sich schon, Des glutgeza
 Этого ярко сверкающего (бога)  
 С огненными клыками, прекрасным светом, великолепной свитой.
 </details>
+

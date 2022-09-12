@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iṣyati ← √iṣ- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+samudrásya ← samudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+viṣṭápi ← viṣṭáp- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+jínvan ← √ji- 2 ~ jinv- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kóśam ← kóśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+madhuścútam ← madhuścút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Und auf des Meeres Fläche hin, lässt Indu schallen seinen Sang, Erregt den met
 (Достигающий) поверхности океана,  
 Оживляя сосуд, сочащийся сладостью.
 </details>
+

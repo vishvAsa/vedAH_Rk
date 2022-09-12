@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhavasi ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+kanī́nām ← kanyā̀- ~ kanī́n- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bibharṣi ← √bhr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+gúhyam ← gúhya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+svadhāvan ← svadhā́van- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+añjánti ← √añj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+súdhitam ← súdhita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dámpatī ← dámpati- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+kr̥ṇóṣi ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sámanasā ← sámanas- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Bist Arjaman beim Werben um die Jungfrau'n; verborgnes Wesen trägst du Machtbeg
 Как (друга-)Митру, хорошо принимаемого, (тебя) мажут (струями) коровьего (масла),  
 Когда ты делаешь едиными духом домохозяина (и его жену).
 </details>
+

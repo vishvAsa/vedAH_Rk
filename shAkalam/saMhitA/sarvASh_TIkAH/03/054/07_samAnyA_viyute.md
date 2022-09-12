@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dūréante ← dūréanta- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+samānyā́ ← samāná- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+víyute ← √yu- 2 (root)  
+{case:NOM, gender:F, number:DU, non-finite:PPP}
+
+dhruvé ← dhruvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+jāgarū́ke ← jāgarū́ka- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tasthatuḥ ← √sthā- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bhávantī ← √bhū- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+
+svásārā ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+utá ← utá (invariable)  
+{}
+
+yuvatī́ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ā́t ← ā́t (invariable)  
+{}
+
+bruvāte ← √brū- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+mithunā́ni ← mithuná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +218,4 @@ Gemeinsam und getrennt doch, unermesslich, an festem Orte standen beide wachsam;
 Будучи двумя сестрами-юницами,  
 Они тем не менее называются парными именами (мужчины и женщины).
 </details>
+

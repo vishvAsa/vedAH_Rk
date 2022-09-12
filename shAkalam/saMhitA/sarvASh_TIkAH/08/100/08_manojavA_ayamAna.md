@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+áyamānaḥ ← √i- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+mánojavāḥ ← mánojavas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+atarat ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+āyasī́m ← āyasá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+púram ← púr- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dívam ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gatvā́ya ← √gam- (root)  
+{non-finite:CVB}
+
+suparṇáḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vajríṇe ← vajrín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +153,7 @@ The stealing of the soma treated here logically precedes the outcome of the Vṛ
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 I take these three Anuṣṭubh verses as the singer’s performance of the recital of deeds promised in 6ab, but cast in the language of dramatic immediacy - almost “you are there” - with the singer himself as the supposed witness, addressing the waters in 7ab. Geldner (in his introduction.) also seems to assign the verses to the singer, while Oldenberg (1885: 57 n. 2) refuses to speculate.
@@ -148,3 +185,4 @@ Der gedankenschnelle Adler durchdrang eilend die eherne Wolkenburg, und als er z
 Попав на небо, орел  
 Принес сому громовержцу
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jóhuvānān ← √hū- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:MED}
+
+práṇītī ← práṇīti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ninétha ← √nī- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ródasī ← ródasī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+sám ← sám (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+jajñé ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+kṣatrā́ya ← kṣatrá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+śávase ← śávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+aśiśnat ← √śnathⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+átūtujim ← átūtuji- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+tū́tujiḥ ← tū́tuji- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Als leitend du, wie Männer, die dich rufen, zusammenführtest, Indra, beide Wel
 Ведь он родился для великой власти, для высшей силы -  
 (То) быстрый столкнул совсем небыстрого.
 </details>
+

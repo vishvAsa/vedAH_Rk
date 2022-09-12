@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+cikitvā́ṁsam ← √cit- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+sedire ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+pāvakáśociṣam ← pāvakáśocis- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+raṇvám ← raṇvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhā́mabhiḥ ← dhā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yájiṣṭham ← yájiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +173,4 @@ Ihn setzten fort und fort sie ein, als Priester ihn, der hell erglänzt, Den mun
 Радостного (бога) с очищающим пламенем,  
 Жертвующего лучше всех по семи установлениям,
 </details>
+

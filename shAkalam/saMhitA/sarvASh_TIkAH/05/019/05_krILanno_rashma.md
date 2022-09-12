@@ -16,14 +16,69 @@ ChandaH = "विराड्रूपा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhuvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+krī́ḷan ← √krīḍ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+raśme ← raśmí- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhásmanā ← bhásman- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+vāyúnā ← vāyú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vévidānaḥ ← √vid- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhr̥ṣájaḥ ← dhr̥ṣáj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+san ← √as- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+tigmā́ḥ ← tigmá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+súsaṁśitāḥ ← súsaṁśita- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vakṣaṇesthā́ḥ ← vakṣaṇesthā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vakṣyàḥ ← vakṣī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Munter hüpfend, o Strahl, sei uns hülfreich, dich mischend mit dem verzehrende
 Швыряй, (о Агни,) эти острые (языки пламени), словно храбрые (воины -)  
 Хорошо отточенные (копья)!
 </details>
+

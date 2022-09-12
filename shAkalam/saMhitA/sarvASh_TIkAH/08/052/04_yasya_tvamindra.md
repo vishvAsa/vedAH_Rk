@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+cākánaḥ ← √kanⁱ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stómeṣu ← stóma- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+śatakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā́je ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vājin ← vājín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+godúhaḥ ← godúh- (nominal stem)  
+{case:NOM, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+sudúghām ← sudúgha- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+juhūmási ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+śravasyávaḥ ← śravasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ An wessen Lobliedern du, o Indra, Gefallen findest und an wessen Labung, [dem bi
 Тебя, такого, мы, как доильщики хорошо доящуюся корову,  
 Зовем, жаждя славы.
 </details>
+

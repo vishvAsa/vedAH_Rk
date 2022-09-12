@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+yayāma ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+amátim ← amáti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áśiśret ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+hiraṇyáyīm ← hiraṇyáya- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yā́m ← yá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hávyaḥ ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́nuṣebhiḥ ← mā́nuṣa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nūnám ← nūnám (invariable)  
+{}
+
+dádhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+purūvásuḥ ← purūvásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rátnā ← rátna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Empor schon streckte seinen goldnen Schimmer Gott Savitar, mit dem er sich bekle
 Теперь Бхагу должны призывать люди,  
 (Того) кто, имея много добра, наделяет сокровищами.
 </details>
+

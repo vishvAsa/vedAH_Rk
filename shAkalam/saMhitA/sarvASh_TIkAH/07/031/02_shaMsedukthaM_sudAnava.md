@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ít ← ít (invariable)  
+{}
+
+śáṁsa ← √śaṁs- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sudā́nave ← sudā́nu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ukthám ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dyukṣám ← dyukṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+cakr̥má ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+satyárādhase ← satyárādhas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +164,4 @@ Auf, sing ein Lied dem spendenden, ein himmlisches, wie wir's gemacht, Wir Männ
 Как раз (такую) небесную, как мы, мужи,  
 Создали для истинно дарящего!
 </details>
+

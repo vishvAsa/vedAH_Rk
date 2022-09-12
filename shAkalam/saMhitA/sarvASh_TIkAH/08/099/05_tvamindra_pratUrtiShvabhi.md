@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prátūrtiṣu ← prátūrti- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+aśastihā́ ← aśastihán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+janitā́ ← janitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvatū́ḥ ← viśvatúr- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+taruṣyatáḥ ← √taruṣy- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+tūrya ← √tūr(v)- ~ tur- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +167,7 @@ The lexeme abhí √bhū ‘dominate’, in play in the previous two hymns (VIII
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/099/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/099/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 This pragātha is tightly bound lexically. Note first víśvāḥ spṛ́dhaḥ in both 5a and 6c. But more striking are the six occurrences of the root √tari : prátūrtiṣu (5a), (viśva-)tū́r (5c), tūrya taruṣyataḥ (5d), turáyantam (6a), tūrvasi (6d). In this group not a single stem is repeated: there are two different nominal stems and four different verbal stems. (See also átūrtam in 7d, to yet another stem.) On the formulaic use of this root and its Indo-European background, see Watkins, Dragon 344-46.
@@ -156,3 +199,4 @@ In Schlachten überwindest du, o Indra, aller Feinde Schar, Den Bösen schlagend
 Уничтожая проклятия, ты порождаешь (проклятия), все побеждая.  
 Победи ты тех, кто хочет победить!
 </details>
+

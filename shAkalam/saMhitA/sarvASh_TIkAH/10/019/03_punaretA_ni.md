@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+etā́ḥ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+vartantām ← √vr̥t- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+gópatau ← gópati- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+puṣyantu ← √puṣ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhāraya ← √dhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+evá ← evá (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tiṣṭhatu ← √sthā- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +198,4 @@ Sie mögen wiederkehren nun, bei diesem Hirten recht gedeihn; Hier halte sie, o 
 Только здесь, о Агни, удерживай их!  
 Здесь пусть остается (то,) что богатство!
 </details>
+

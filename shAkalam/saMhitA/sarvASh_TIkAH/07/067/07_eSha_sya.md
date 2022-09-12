@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pūrvagátvā ← pūrvagátvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhye ← sákhi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+hitáḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mādhvī ← mā́dhvī- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nidhíḥ ← nidhí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rātáḥ ← √rā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áheḷatā ← áheḷant- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+aśnántā ← √aśⁱ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mā́nuṣīṣu ← mā́nuṣa- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +220,4 @@ Dies Mahl, o Holde, das wir euch gewidmet, steht euch bereit, so wie dem Freund 
 С негневливым духом приезжайте в наши края,  
 Вкушая жертву в людских поселениях!
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aruṣásya ← aruṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+duhitárā ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vírūpe ← vírūpa- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+anyā́ ← anyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+anyā́ ← anyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pipiśé ← √piś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+stŕ̥bhiḥ ← stár- ~ tár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sū́raḥ ← svàr- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mithastúrā ← mithastúr- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+pāvaké ← pāvaká- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vicárantī ← √carⁱ- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+nakṣataḥ ← √nakṣ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+r̥cyámāne ← √r̥c- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:PASS}
+
+śrutám ← √śru- (root)  
+{case:ACC, gender:N, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +194,4 @@ Des feurigrothen ungleichfarb'ge Töchter, die eine sterngeschmückt, mit Licht 
 (Эти) две, очищающие, двигаясь по отдельности, преследуя друг друга,  
 Когда их воспевают, приходят на услышанную молитву.
 </details>
+

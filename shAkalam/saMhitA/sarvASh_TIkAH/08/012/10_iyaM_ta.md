@@ -15,14 +15,45 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+r̥tvíyāvatī ← r̥tvíyāvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dhītíḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+návīyasī ← návīyaṁs- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+purupriyā́ ← purupriyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+saparyántī ← √sapary- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+mímīte ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Dies regelrechte Andachtslied, dies neue eilet hin zu dir, Anbetungsvoll und vie
 Совсем новое движется к тебе.  
 Почтительное, очень приятное, оно измеряется только (подвигами Индры).
 </details>
+

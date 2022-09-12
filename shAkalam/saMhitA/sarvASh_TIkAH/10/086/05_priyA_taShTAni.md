@@ -17,15 +17,70 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+kapíḥ ← kapí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+priyā́ ← priyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+taṣṭā́ni ← √takṣ- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+adūduṣat ← √dūṣ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+vyàktā ← √añj- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+rāviṣam ← √ru- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+bhuvam ← √bhū- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+duṣkŕ̥te ← duṣkŕ̥t- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sugám ← sugá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Die mir theuren, schönen Kunstwerke hat mir der Affe verdorben; nun will ich ih
 
 -ru-
 </details>
+

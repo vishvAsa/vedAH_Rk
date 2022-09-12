@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+iva ← iva (invariable)  
+{}
+
+punántaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sáktum ← sáktu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+títa:unā ← títa:u- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ákrata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+átra ← átra (invariable)  
+{}
+
+jānate ← √jñā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sakhyā́ni ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+lakṣmī́ḥ ← lakṣmī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+níhitā ← √dhā- 1 (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+vācí ← vā́c- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +241,4 @@ Wo weise Männer sinnvoll Worte tauschen, sie sichtend wie Getreide mit dem Sieb
 Тогда друзья познают содружества:  
 Их приносящий счастье знак нанесен на Речь.
 </details>
+

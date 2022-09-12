@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣavrataḥ ← vŕ̥ṣavrata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśastihā́ ← aśastihán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kárat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,7 +130,7 @@ will provide goods for the pious.
 The nom. pávamānaḥ in b is helpful in identifying the referent as Soma, in that both vṛ́ṣā ‘bull’ (and related vṛ́ṣa-vrataḥ) and aśastihā́could be (and are) just as well used of Indra.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 In this tṛca all three vss. have a form of med. páva-: pávamānaḥ 10b, 11b, (ā́) pavasva 12a. This is scarcely surprising in the Soma Pavamāna maṇḍala, but in fact this stem has not yet appeared in the hymn.
@@ -134,3 +159,4 @@ Der Stier, der Stieres Werke thut, der flammende, der Flucher tilgt, Verschaffe 
 
 -ru-
 </details>
+

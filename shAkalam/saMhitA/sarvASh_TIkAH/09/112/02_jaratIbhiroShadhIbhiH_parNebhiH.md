@@ -17,15 +17,55 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+járatībhiḥ ← járant- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+óṣadhībhiḥ ← óṣadhī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+parṇébhiḥ ← parṇá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+śakunā́nām ← śakuná- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+áśmabhiḥ ← áśman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dyúbhiḥ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kārmāráḥ ← kārmārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+híraṇyavantam ← híraṇyavant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ichati ← √iṣ- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +193,4 @@ Der Schmied mit wohlgedörrtem Holz mit Amboss und mit Feuersglut, Anfachend mit
 Для Индры, о капля, растекайся вокруг!  
 rv09.112.03
 </details>
+

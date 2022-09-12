@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+atr̥ntam ← √tr̥d- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+khā́ni ← khá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+airayatam ← √īr- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+prabhúm ← prabhú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+índrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+māyínaḥ ← māyín- (nominal stem)  
+{case:GEN, number:SG}
+
+ápinvatam ← √pinv- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+apítaḥ ← apít- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pínvatam ← √pinv- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +204,4 @@ Der Wasser Bahnen habt mit Macht ihr aufgebohrt, die schöne Sonne an den Himmel
 О Индра-Варуна, в опьянении от этого чудодейственного (сомы)  
 Вы сделали набухшими ненабухавшие (реки). Сделайте набухшими поэтические мысли!
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+adaduḥ ← √dā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+púnar ← púnar (invariable)  
+{}
+
+vaí ← vaí (invariable)  
+{}
+
+manuṣyā̀ḥ ← manuṣyà- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+púnar ← púnar (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+kr̥ṇvānā́ḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+rā́jānaḥ ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+brahmajāyā́m ← brahmajāyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+daduḥ ← √dā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+púnar ← púnar (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +192,4 @@ Die Götter gaben sie zurück, und die Menschen gaben sie zurück; die Könige, 
 Цари, держащие (свое) слово,  
 Пусть отдают обратно жену брахману!
 </details>
+

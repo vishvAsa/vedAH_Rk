@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+devī́m ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vibhātī́m ← √bhā- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+bharadhvam ← √bhr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+suvr̥ktím ← suvr̥ktí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+aśret ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+madhudhā́ ← madhudhā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pā́jaḥ ← pā́jas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ūrdhvám ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+raṇvásaṁdr̥k ← raṇvásaṁdr̥ś- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rocanā́ ← rocaná- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ruruce ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Auf, bringet dar der Göttin Morgenröthe, die hell erstrahlt, in Demuth euer Lo
 Дающая мед высоко в небо устремила (свое) тело.  
 Она, светлая, осветила (пространство), (та,) чей вид радостен.
 </details>
+

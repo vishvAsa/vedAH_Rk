@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ārā́t ← ārā́t (invariable)  
+{}
+
+híraṇyadantam ← híraṇyadant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śúcivarṇam ← śúcivarṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+ā́yudhā ← ā́yudha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kṣétrāt ← kṣétra- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+mímānam ← √mā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+dadānáḥ ← √dā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+vipŕ̥kvat ← vipŕ̥kvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+anindrā́ḥ ← anindrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anukthā́ḥ ← anukthá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇavan ← √kr̥- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Den goldgezahnten, lichtgefärbten sah ich aus ferner Gegend, seine Waffen rüst
 Когда я давал ему освобождающую амриту.  
 Что сделают мне (люди,) не знающие Индры, не знающие гимнов?
 </details>
+

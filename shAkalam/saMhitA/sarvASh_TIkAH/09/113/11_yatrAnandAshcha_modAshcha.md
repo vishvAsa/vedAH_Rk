@@ -17,15 +17,76 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+ānandā́ḥ ← ānandá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+módāḥ ← móda- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+ā́sate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+múdaḥ ← múd- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pramúdaḥ ← pramúd- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+āptā́ḥ ← √āp- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+kā́māḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kā́masya ← kā́ma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tátra ← tátra (invariable)  
+{}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

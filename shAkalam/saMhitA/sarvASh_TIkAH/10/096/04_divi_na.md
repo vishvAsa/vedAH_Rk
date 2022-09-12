@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+dhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+haryatáḥ ← haryatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ketúḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+háritaḥ ← hárita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ráṁhyā ← ráṁhi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vájraḥ ← vájra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vivyácat ← √vyac- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āyasáḥ ← āyasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háriśipraḥ ← háriśipra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tudát ← √tud- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+harimbharáḥ ← harimbhará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásraśokāḥ ← sahásraśoka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Wie Licht am Himmel lag auf ihm der holde Blitz; der goldne streckte weit sich a
 (Тот,) который железный, с золотистыми усами, пронзил змея.  
 Тысячепламенным стал носитель золотистой (ваджры).
 </details>
+

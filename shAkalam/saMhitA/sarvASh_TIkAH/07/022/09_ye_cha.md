@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+nū́tnāḥ ← nū́tna- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+janáyanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+sakhyā́ ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+śivā́ni ← śivá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +213,7 @@ Let there be friendly fellowship of you for us. – Do you protect us always  wi
 
 The published translation interpr. asmé as a dat. But the parallel in IV.10.8 śivā́naḥ sakhyā́sántu ... devéṣu yuṣmé, where the -mé pronominal form is anchored as a loc. by devéṣu, makes a loc. reading more likely. Cf. also VI.18.5 tán naḥ pratnáṃ sakhyám astu yuṣmé. I would therefore change the tr. to “Let there be friendly fellowship of you among [or, with] us.”
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/022/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/022/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 The subject of the verb in 8b, úd aśnuvanti, is not specified. In my view the subject is postponed to 9ab: neither the older nor the younger poets are capable of expressing all of Indra’s powers in their formulations. Although this interpretation requires enjambment over a verse boundary, the main clause in 9c to which 9ab is supposedly subordinate has no appropriate referent for the relative pronoun (asmé works awkwardly at best), whereas 9ab neatly completes the thought of vs. 8.
@@ -181,3 +245,4 @@ Den alten Sängern, Indra, und den neuen, die dir Gebet erzeugten in Begeistrung
 Нам пусть достанутся твои милые проявления дружбы!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
+

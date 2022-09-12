@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+kīrtím ← kīrtí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+áhvayetām ← √hvā- (root)  
+{number:DU, person:3, mood:IND, tense:IPRF, voice:MED}
+
+bhīté ← √bhī- (root)  
+{case:NOM, gender:F, number:DU, non-finite:PPP}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+atiraḥ ← √tr̥̄- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+āvaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dā́sam ← dā́sa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+áśikṣaḥ ← √śak- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT, mood:DES}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prajā́yai ← prajā́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+tvasyai ← tva- (pronoun)  
+{case:DAT, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +244,4 @@ Mit Kraft will, mächt'ger, deinen Ruhm ich künden; als furchtsam dich die beid
 Ты помог богам, положил конец дасовой силе,  
 Когда ты старался, о Индра, для некоего народа.
 </details>
+

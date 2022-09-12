@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+kavayaḥ ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yajñiyāsaḥ ← yajñíya- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yuvānaḥ ← yúvan- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+gantá ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+gr̥ṇatáḥ ← √gr̥̄- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+márutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+varasyā́m ← varasyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+acitrám ← acitrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+jínvatha ← √ji- 2 ~ jinv- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vr̥dhántaḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:ACT}
+
+aṅgirasvát ← aṅgirasvát (invariable)  
+{}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+nákṣantaḥ ← √nakṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Kommt her, o weise, jugendliche Maruts, ehrwürd'ge ihr, auf das Begehr des Sän
 Ведь вы же оживляете даже мрачное, усиливая (его),  
 Приближаясь таким образом (к цели), о мужи, как (это было) у Ангирасов.
 </details>
+

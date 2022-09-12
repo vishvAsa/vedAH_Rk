@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+saptádhātuḥ ← saptádhātu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+triṣadhásthā ← triṣadhástha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jātā́ ← √janⁱ- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+páñca ← páñca- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vardháyantī ← √vr̥dh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+hávyā ← hávya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vā́je-vāje ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +153,4 @@ Auf drei Sitzen siebentheilig, stärkend sie die fünf Geschlechter, Sei in jede
 Пять родов (людских) укрепляющая,  
 Да будет она призываема при каждой награде!
 </details>
+

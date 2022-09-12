@@ -15,13 +15,41 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+viśvávedasā ← viśvávedas- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+asuryā̀ya ← asuryà- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+prámahasā ← prámahas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jajāna ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+r̥tā́varī ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +152,4 @@ Sie, die allweisen, herrlichen, gebar zu hoher Göttermacht Die grosse Mutter Ad
 Мать для асурского достоинства  
 Родила, великая Адити, преданная закону.
 </details>
+

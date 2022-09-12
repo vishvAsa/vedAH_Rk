@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápratītasya ← ápratīta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jiṣṇóḥ ← jiṣṇú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+marútvataḥ ← marútvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ájūryataḥ ← ájūryant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bravāma ← √brū- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+kr̥tā́ni ← √kr̥- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+prá ← prá (invariable)  
+{}
+
+áparāsaḥ ← ápara- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pū́rve ← pū́rva- (nominal stem)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+āpa ← √āp- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+caná ← caná (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nū́tanaḥ ← nū́tana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīryàm ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Lasst preisen uns des unbesiegten Siegers, des Marutherrschers Thaten, der nie a
 Ни те прежние, о щедрый, ни будущие,  
 Ни кто-нибудь теперешний не достиг твоей героической славы!
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+adbhutakratū ← ádbhutakratu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+bhujema ← √bhuj- 2 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+tanū́bhiḥ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yakṣám ← yakṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+śéṣasā ← śéṣas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tánasā ← tánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +149,4 @@ Lasst keines Feinds Verfolgung uns erleiden, wunderkräft'ge ihr, An Kindern, En
 Мы порчи ни от кого ни на своих телах,  
 Ни у потомства, ни у (дальнейшего) продолжения рода!
 </details>
+

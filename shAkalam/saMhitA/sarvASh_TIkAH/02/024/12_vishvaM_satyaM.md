@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+maghavānā ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+caná ← caná (invariable)  
+{}
+
+minanti ← √mī- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indrābrahmaṇaspatī ← indrābrahmaṇaspati- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jigātam ← √gā- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vājínā ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yújā ← yúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +225,4 @@ Euch mächt'gen beiden eignet alles Gute, auch die Gewässer stören eur Gesetz 
 О Индра-Брахманаспати, (придите) на наше жертвенное возлияние,  
 Как два запряженных (вместе коня), завоевавших награду - к кормушке!
 </details>
+

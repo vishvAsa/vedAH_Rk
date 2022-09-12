@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+adhāt ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+nāví ← naú- ~ nā́v- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásiṣṭham ← vásiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+máhobhiḥ ← máhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ŕ̥ṣim ← ŕ̥ṣi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svápāḥ ← svápas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+stotā́ram ← stotár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudinatvé ← sudinatvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyā́vaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+tatánan ← √tan- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+uṣā́saḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́t ← yā́t (invariable)  
+{}
+
+yā́t ← yā́t (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +245,4 @@ Varuna liess aufs Schiff Vasischtha steigen und machte ihn mit Wunderkraft zum D
 Певцом, (он,) вдохновенный, в счастливейший из дней,  
 Пока продляться небеса, пока – зори.
 </details>
+

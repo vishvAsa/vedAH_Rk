@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+subhágaḥ ← subhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sudā́nuḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nítyena ← nítya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́yuṣi ← ā́yus- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+píprīṣati ← √prī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+asat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+iṣṭíḥ ← iṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+sudínā ← sudína- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +228,6 @@ genre M
 किञ्च - सा तादृशेन क्रियमाणा इष्टिरसद्भवेत् । अतादृशेन क्रियमाणा इष्टिरेव न भवति । तस्मात्स एव सुभस्सुदानुश्चास्तु । भगो रूपमैश्वर्यं वा । दानुर्दानशीलः दातृत्वं वा । अस्तेर्लेटि 'लेटोडाटौ' इत्यडागमः, 'इतश्च लोपः' ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -213,3 +282,4 @@ Nur der sei glücklich, reich an Gut, o Agni, der dich mit stetem Opferguss und 
 Старается радовать тебя в своем доме (весь) век.  
 (Да будут) ему все дни прекрасны – таково будет пожелание!
 </details>
+

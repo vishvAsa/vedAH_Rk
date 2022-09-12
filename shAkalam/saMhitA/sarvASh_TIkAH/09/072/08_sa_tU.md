@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pári ← pári (invariable)  
+{}
+
+pā́rthivam ← pā́rthiva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tú ← tú (invariable)  
+{}
+
+ādhūnvaté ← √dhū- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+śíkṣan ← √śak- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+stotré ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sukrato ← sukrátu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhāk ← √bhaj- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nís ← nís (invariable)  
+{}
+
+sādanaspŕ̥śaḥ ← sādanaspŕ̥ś- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vásunaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+bahulám ← bahulá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+piśáṅgam ← piśáṅga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vasīmahi ← √vanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,3 +256,4 @@ So riesle denn hellflammend durch der Erde Luft dem Sänger spendend und dem Sch
 Не исключай нас из блага, касающегося жилища!  
 Мы хотим одеться в обильное золотистое богатство!
 </details>
+

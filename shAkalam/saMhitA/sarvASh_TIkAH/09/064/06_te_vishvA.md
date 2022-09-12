@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+divyā́ni ← divyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pā́rthivā ← pā́rthiva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+antárikṣyā ← antárikṣya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pávantām ← √pū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -96,7 +127,7 @@ All goods for the pious—heavenly, earthly, and those of the midspace— let th
 The preverb ā́that turns páva- into a quasi-transitive “bring by purifying oneself” immediately follows the verb, allowing pávantām to take a position matching. that of pávante in 5c and pávamānasya in 7a.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 No strong signs of unity. Vs. 4 does link to vs. 3 in the preceding tṛca through the mention of cows and horses. The c pādas of 5 and 6 both begin with a finite form of páva-.
@@ -125,3 +156,4 @@ Die Soma's mögen alles Gut der Erd', des Himmels und der Luft Zurieseln dem Ver
 
 -ru-
 </details>
+

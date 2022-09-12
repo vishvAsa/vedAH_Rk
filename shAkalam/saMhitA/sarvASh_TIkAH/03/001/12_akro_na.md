@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+akráḥ ← akrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+babhríḥ ← babhrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahī́nām ← máh- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+samithé ← samithá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bhā́r̥jīkaḥ ← bhā́r̥jīka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+didr̥kṣéyaḥ ← didr̥kṣéya- (nominal stem)  
+{case:NOM, gender:M, number:SG, mood:DES}
+
+sūnáve ← sūnú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jajā́na ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+jánitā ← jánitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+usríyāḥ ← usríya- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+út ← út (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+gárbhaḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nŕ̥tamaḥ ← nŕ̥tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yahváḥ ← yahvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Als Strebepfeiler in der Wellen Andrang ist sehenswerth dem Sohn der lichtdurchs
 Родитель, который породил коров,  
 Зародыш вод, самый мужественный, юный.
 </details>
+

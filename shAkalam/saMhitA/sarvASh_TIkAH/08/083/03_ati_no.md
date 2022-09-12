@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+áti ← áti (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+viṣpitā́ ← viṣpitá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+naubhíḥ ← naú- ~ nā́v- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+parṣatha ← √pr̥- (root)  
+{number:PL, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+rathyaḥ ← rathī́- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +152,4 @@ Durch viel Gefahren führet uns gleich wie auf Schiffen durch das Meer, Des Rech
 
 -ru-
 </details>
+

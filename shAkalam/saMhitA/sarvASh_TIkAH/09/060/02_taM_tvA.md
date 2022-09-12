@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+sahásracakṣasam ← sahásracakṣas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+sahásrabharṇasam ← sahásrabharṇas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+apāviṣuḥ ← √pū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+vā́ram ← vā́ra- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -98,7 +126,7 @@ IX,60.2-3: Here the chaining is slightly inexact: 2c áti vā́ram / 3a áti vā
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 The chaining described in the published introduction. here involves repeating sahásracakṣasam from 1c in 2a in the same metrical position.
@@ -127,3 +155,4 @@ Jetzt liessen durch die Wolle sie dich, der du tausend Augen hast Und tausend Ga
 
 -ru-
 </details>
+

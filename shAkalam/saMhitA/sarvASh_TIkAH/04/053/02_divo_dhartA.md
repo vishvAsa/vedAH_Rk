@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dhartā́ ← dhartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prajā́patiḥ ← prajā́pati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+drāpím ← drāpí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+muñcate ← √muc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+piśáṅgam ← piśáṅga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+āpr̥ṇán ← √pr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pratháyan ← √prathⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ájījanat ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ukthyàm ← ukthyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Des Himmels Träger und der Wesenherr der Welt, der weise hüllt sich in den bra
 С всеобъемлющим взором, простирая ширь (и) заполняя (ее),  
 Савитар породил благодать, достойную хвалы.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇatti ← √kr̥t- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+púmān ← púmaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tanute ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+út ← út (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+nā́ke ← nā́ka- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+púmān ← púmaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tatne ← √tan- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+mayū́khāḥ ← mayū́kha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sádaḥ ← sádas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+seduḥ ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+cakruḥ ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ótave ← √u- 2 (root)  
+{case:DAT, number:SG}
+
+sā́māni ← sā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tásarāṇi ← tásara- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +238,4 @@ Ein Mann zieht es auf, ein Mann spinnt es fort, er spannt es aus an diesem Himme
 Вот колышки. Они уселись на сиденье.  
 Напевы они сделали челноками, чтобы ткать.
 </details>
+

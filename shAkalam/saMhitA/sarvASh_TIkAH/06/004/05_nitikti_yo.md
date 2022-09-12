@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+átti ← √ad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nítikti ← nítikti (invariable)  
+{case:INS, gender:F, number:SG}
+
+vāraṇám ← vāraṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+aktū́n ← aktú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+rā́ṣṭrī ← rā́ṣṭrī- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāyúḥ ← vāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ādíśām ← ādíś- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+árātīḥ ← árāti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+turyā́ma ← √tūr(v)- ~ tur- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hrútaḥ ← hrút- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+parihrút ← parihrút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pátataḥ ← √pat- 1 (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +250,4 @@ Er, der in Hast die starke Speise aufzehrt, durchdringt als Fürst dem Winde gle
 Да преодолеем мы (препятствия, как ты,) который (отражает) происки угрожащих тебе (демонов),  
 Как скакун, обходящий падающих в ловушки (коней)!
 </details>
+

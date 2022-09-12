@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+dhetana ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+jīvā́n ← jīvá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ā́dityāsaḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+háthāt ← hátha- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+purā́ ← purā́ (invariable)  
+{}
+
+ha ← ha (invariable)  
+{}
+
+havanaśrutaḥ ← havanaśrút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+stha ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +167,4 @@ Erhaltet, o Aditja's, uns am Leben, wenn uns Mord bedroht; Seid ihr's nicht die 
 О Адитьи, чтоб не настиг смертельный удар!  
 Ведь вы и правда те, кто слышит зов?
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+átke ← átka- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+avyata ← √vyā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+jāmíḥ ← jāmí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhujé ← bhúj- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+oṇyòḥ ← oṇí- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jāráḥ ← jārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sárat ← √sr̥- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+yóṣaṇām ← yóṣaṇā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+āsádam ← √sad- (root)  
+{case:ACC, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+varáḥ ← vará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +175,7 @@ The d pāda (varó) ná yónim āsádam is almost identical to 15d (vedhā́) n�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 The dog returns from the first tṛca in the first vs. of this one. The tṛca is also more rhetorically ambitious than those in the middle of this hymn, with an abundance of similes (13b, d, 14b, c, d, 15b). Vss. 14 and 15 end identically.
@@ -158,3 +207,4 @@ Der Freund hat sich ins Kleid gehüllt, wie an die Mutterbrust das Kind; Er eilt
 Он спешит, как любовник к женщине,  
 Как возлюбленный, чтобы сесть на (свое) лоно.
 </details>
+

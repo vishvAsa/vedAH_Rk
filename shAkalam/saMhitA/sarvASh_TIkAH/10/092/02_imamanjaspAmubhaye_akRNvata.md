@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+akr̥ṇvata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+añjaspā́m ← añjaspā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ubháye ← ubháya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dharmā́ṇam ← dharmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sā́dhanam ← sā́dhana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidáthasya ← vidátha- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+aktúm ← aktú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+puróhitam ← puróhita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yahvám ← yahvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aruṣásya ← aruṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+niṁsate ← √nas- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+tánūnápātam ← tánūnápāt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Zum Träger machten Agni beide Stämme sich, ihn, der das Fett trinkt, und zum O
 
 -ru-
 </details>
+

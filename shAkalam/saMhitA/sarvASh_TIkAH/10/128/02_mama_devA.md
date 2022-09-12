@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sárve ← sárva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vihavé ← vihavá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índravantaḥ ← índravant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+urúlokam ← urúloka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+kā́me ← kā́ma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pavatām ← √pū- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Bei meinem Anruf seien alle Götter die Marutschar mit Indra, Vischnu, Agni, Mei
 Моим пусть будет воздушное пространство – широкий простор!  
 Мне пусть (благоприятно) веет ветер при этом желании!
 </details>
+

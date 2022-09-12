@@ -16,14 +16,57 @@ ChandaH = "पुरस्ताद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+satyā́ ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+áhiṁsantīḥ ← áhiṁsant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+upaspŕ̥śaḥ ← upaspŕ̥ś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhújaḥ ← bhúj- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vidyā́ma ← √vid- 2 (root)  
+{number:PL, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+yā́sām ← yá- (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+dhenūnā́m ← dhenú- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vajrivaḥ ← vajrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +183,4 @@ Lass, Indra, diese Hülfen bei uns wirksam sein; uns heilsam, nicht verletzend u
 (Те,) пользу от которых мы хотели бы узнать,  
 Как от дойных коров, о (бог) наделенной дубиной грома!
 </details>
+

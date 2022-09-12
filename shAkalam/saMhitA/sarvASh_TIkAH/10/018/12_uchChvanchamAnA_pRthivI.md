@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+tiṣṭhatu ← √sthā- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ucchváñcamānā ← √śvañc- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+hí ← hí (invariable)  
+{}
+
+mítaḥ ← mít- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śráyantām ← √śri- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ghr̥taścútaḥ ← ghr̥taścút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gr̥hā́saḥ ← gr̥há- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+śaraṇā́ḥ ← śaraṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+viśvā́hā ← viśvā́hā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Sich öffnend stehe fest ihm nun die Erde, von tausend Pfeilern werde sie getrag
 Пусть покои твои сочатся жертвенным маслом!  
 Да будет ему убежище здесь во веки веков!
 </details>
+

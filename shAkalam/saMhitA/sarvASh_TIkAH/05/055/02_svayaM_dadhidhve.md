@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+dadhidhve ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:MED}
+
+svayám ← svayám (invariable)  
+{}
+
+táviṣīm ← táviṣī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vidá ← √vid- 2 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahāntaḥ ← mahā́nt- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+rājatha ← √rāj- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+urviyā́ ← urviyā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mamire ← √mā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+avr̥tsata ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ráthāḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúbham ← śúbh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yātā́m ← √yā- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Ihr nehmet Kraft aus eigner Macht, wie sich's gebührt; ihr leuchtet weithin, o 
 Они измерили также воздушное пространство (своею) силой.  
 У выезжающих для блеска (Марутов) колесницы последовали (одна за другой).
 </details>
+

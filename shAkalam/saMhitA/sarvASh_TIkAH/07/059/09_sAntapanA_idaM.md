@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sā́ṁtapanāḥ ← sā́ṁtapana- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jujuṣṭana ← √juṣ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+márutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+riśādasaḥ ← riśā́das- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yuṣmā́ka ← tvám (pronoun)  
+{case:GEN, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -95,14 +123,14 @@ With the standard tr., I supply “come” in c, anticipating ā́gata in 10a.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
 <details open><summary><h2>09-12 ...{Loading}...</h2></summary>
 
 For the Sākamedha rites reflected in these vss., see published introduction. and, e.g., ŚB II.5.3, esp. 3ff.; ĀpŚS VIII.9; sec. lit. including Hillebrandt, Ritual-Litteratur, 117-19; Keith, Religion and Philosophy, 322-23, etc.
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 Although, as noted in the published introduction, the last four vss. of the hymn (9- 12) must be late additions, there is a verbal link between vs. 8 and vs. 9: tápiṣṭhena “with the most scorching …” opening 8d is echoed by the Maruts’ ritual epithet sā́ṃtapanāḥ opening 9a. This link may help account for why these Sākamedha vss.
@@ -134,3 +162,4 @@ O Maruts, diesen Opferguss geniesset, die ihr Warmes liebt, Feindtilger ihr, nac
 Наслаждайтесь этим возлиянием!  
 (Приходите) с вашей поддержкой, о заботящиеся о чужом!
 </details>
+

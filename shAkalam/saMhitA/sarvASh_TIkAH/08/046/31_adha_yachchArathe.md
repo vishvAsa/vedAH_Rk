@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+cā́rathe ← cā́ratha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+gaṇé ← gaṇá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ácikradat ← √krand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+úṣṭrān ← úṣṭra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ádha ← ádha (invariable)  
+{}
+
+śatā́ ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śvítneṣu ← śvítna- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+viṁśatím ← viṁśatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +156,4 @@ Da er jetzt sowol bei der wandernden Heerde hundert Büffel brüllen liess, wie 
 Подняла крик сотня верблюдов,  
 Тогда (получил я) двадцать сотен из светлых.
 </details>
+

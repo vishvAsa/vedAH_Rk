@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+kā́vyā ← kā́vya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dhārayaḥ ← √dhr̥- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+matsaráḥ ← matsará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +161,7 @@ The injunc. ví dhārayaḥ in c, in conjunction with prathamáḥ, invites a du
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/23-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/23-24.md">
 <details open><summary><h2>23-24 ...{Loading}...</h2></summary>
 
 Both vss. contain the impv. pávasva (/ pavasva), and the mention of the sea in 23 is balanced by the earthly and heavenly realms in 24. Still, little evidence of cohesion.
@@ -153,3 +193,4 @@ Zur Krafterlangung riesle du uns alle Sehergaben zu; Du Soma hast zuerst das Mee
 Ты первым простер океан  
 Для богов, о сома опьяняющий.
 </details>
+

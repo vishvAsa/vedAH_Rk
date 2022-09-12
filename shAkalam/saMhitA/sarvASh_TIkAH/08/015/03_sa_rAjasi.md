@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+puruṣṭuta ← puruṣṭutá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rājasi ← √rāj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jighnase ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jaítrā ← jaítra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śravasyā̀ ← śravasyà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yántave ← √yam- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +166,4 @@ Du herrschst, o vielgepriesener, die Feinde tödtest du allein, Um, Indra, Sieg 
 Один, ты убиваешь врагов,  
 О Индра, чтобы укрепить победы и славные деяния.
 </details>
+

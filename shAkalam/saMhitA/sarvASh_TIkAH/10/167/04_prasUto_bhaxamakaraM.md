@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+akaram ← √kr̥- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ápi ← ápi (invariable)  
+{}
+
+bhakṣám ← bhakṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+caraú ← carú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+prásūtaḥ ← √sū- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ca ← ca (invariable)  
+{}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+mr̥je ← √mr̥j- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sūríḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agamam ← √gam- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+sāténa ← √sanⁱ- (root)  
+{case:INS, gender:M, number:SG, non-finite:PPP}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yádi ← yádi (invariable)  
+{}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+viśvāmitrajamadagnī ← viśvāmitrajamadagni- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +240,4 @@ Aufgefordert habe ich einen Trunk bei vorgesetzter Grütze getan, und als erster
 Когда я пришел с добычей в ваш дом,  
 О Вишвамитра и Джамадагни, к выжатому (соме).
 </details>
+

@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dahaḥ ← √dah- (root)  
+{number:SG, person:2, mood:INJ, tense:PRF, voice:ACT}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+śocaḥ ← √śuc- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cikṣipaḥ ← √kṣā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+śárīram ← śárīra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvácam ← tvác- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥ṇávaḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+śr̥tám ← √śr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+hinutāt ← √hi- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+pitŕ̥bhyaḥ ← pitár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +261,4 @@ Verbrenn ihn nicht, verzehr ihn nicht, o Agni, zersprenge nicht die Haut ihm und
 Когда приготовишь (его), Джатаведас,  
 То отправь его к отцам!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gopā́n ← gopá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+stuṣé ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+u ← u (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sujātā́n ← sujātá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+váruṇam ← váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ádabdhadhītīn ← ádabdhadhīti- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+aryamáṇam ← áryaman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhágam ← bhága- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+pāvakā́n ← pāvaká- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sadhanyàḥ ← sadhanī́- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+voce ← √vac- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +227,4 @@ Ich preise euch, des Rechtes hohe Hüter, Aditi, Mitra, Varuna, die edlen, Arjam
 Арьямана, Бхагу, не обманывающих надежд.  
 Я приглашаю (их), связанных (друг с другом), очищающих.
 </details>
+

@@ -17,15 +17,70 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+viśvácarṣaṇiḥ ← viśvácarṣaṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhímāti ← abhímāti- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dadhé ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+eṣú ← ayám (pronoun)  
+{case:LOC, number:PL}
+
+kṣáyeṣu ← kṣáya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dīdihi ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śukra ← śukrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dīdihi ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+dyumát ← dyumánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pāvaka ← pāvaká- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Denn er ist aller Menschen Hort, der über Gegner Sieg verleiht, Zu diesen Stät
 Воссвети нам богатство, о светлый,  
 Воссвети блеск, о чистый!
 </details>
+

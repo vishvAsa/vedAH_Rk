@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vācáḥ ← vā́c- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+viśvákarmāṇam ← viśvákarman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+huvema ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+manojúvam ← manojū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́je ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+hávanāni ← hávana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+joṣat ← √juṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sādhúkarmā ← sādhúkarman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśváśambhūḥ ← viśváśambhū- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Lasst uns den Herrn des Lieds, den Allvollbringer, den Mutherreger heut beim Kam
 Пусть радуется он всем нашим призывам,  
 (Этот) приносящий всем благо, совершающий добрые дела (нам) в поддержку!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhītáyaḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hr̥tsú ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+krátavaḥ ← krátu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kratūyánti ← √kratūy- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+díśaḥ ← díś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+patáyanti ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+venā́ḥ ← vená- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vénanti ← √ven- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ebhyaḥ ← ayám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+marḍitā́ ← marḍitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vidyate ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ayaṁsata ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+kā́māḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ Stark sind die Kräfte, in den Herzen hoher Sinn; hold sind die holden, fliegen 
 
 -ru-
 </details>
+

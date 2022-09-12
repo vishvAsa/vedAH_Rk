@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áva ← áva (invariable)  
+{}
+
+hótrābhiḥ ← hótrā- 1 (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+védim ← védi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yajeta ← √yaj- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+cit ← cit (invariable)  
+{}
+
+kā́ḥ ← ká- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+rípaḥ ← ríp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+varuṇadhrútaḥ ← varuṇadhrút- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dvéṣobhiḥ ← dvéṣas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+vr̥ṇaktu ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sudā́se ← sudā́s- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ulokám ← uloká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+urúm ← urú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣaṇau ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +198,4 @@ Vom Altar treibe, Arjaman, durch Opfer die Feinde weg, die Varuna beleid'gen; Es
 Пусть пощадит Арьяман, (оградив) от враждебности!  
 Широкий простор создайте Судасу, о два быка!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áganma ← √gam- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+mahā́ ← máh- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yáviṣṭham ← yáviṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dīdā́ya ← √dī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sámiddhaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+citrábhānum ← citrábhānu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+urvī́ ← urú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+pratyáñcam ← pratyáñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svā̀hutam ← svā̀huta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Mit hoher Ehrfurcht kamen wir zum jüngsten, der angefacht im eignen Sitze strah
 (К нему) с ярким блеском, (пребывающему) между двух миров,  
 К обильно политому (жиром), с ликом, обращенным во все стороны.
 </details>
+

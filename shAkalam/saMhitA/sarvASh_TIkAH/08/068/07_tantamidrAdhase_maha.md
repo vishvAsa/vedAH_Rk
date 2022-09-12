@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+rā́dhase ← rā́dhas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+táṁ-tam ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+codāmi ← √cud- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ánuṣṭutim ← ánuṣṭuti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pūrvyā́m ← pūrvyá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ī́śe ← √īś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+kr̥ṣṭīnā́m ← kr̥ṣṭí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+nr̥túḥ ← nr̥tú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +187,4 @@ Ihn, ihn, den Indra treib' ich an, zu grosser Spende und zum Trunk Ihn, dem das 
 
 -ru-
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+r̥ṣikŕ̥t ← r̥ṣikŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥ṣimanāḥ ← ŕ̥ṣimanas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svarṣā́ḥ ← svarṣā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kavīnā́m ← kaví- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+padavī́ḥ ← padavī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásraṇīthaḥ ← sahásraṇītha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mahiṣáḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+síṣāsan ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+tr̥tī́yam ← tr̥tī́ya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+rājati ← √rāj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stúp ← stúbh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+virā́jam ← virā́j- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +191,7 @@ assumes that virā́jam represents not only the acc. sg. of the rt. noun cmpd. v
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/17-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/17-18.md">
 <details open><summary><h2>17-18 ...{Loading}...</h2></summary>
 
 These two vss. outfit Soma with the lexicon of poetry, with 17c concentrating on kaví- and 18a on ṛ́ṣi-, though with kaví- returning in pāda b
@@ -174,3 +223,4 @@ Der Dichtergeist, der Dichter schafft und Glanz gibt, der Sänger Führer, tause
 Буйвол, стремящийся овладеть третьей формой,  
 Сома сверкает вслед за владыкой, прославляя.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áradhram ← áradhra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ugrā ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+śáśvat ← śáśvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ūhathuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+iṣiraíḥ ← iṣirá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mánojavebhiḥ ← mánojava- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śayádhyai ← √śī- (root)  
+{case:DAT, number:SG}
+
+dāśúṣaḥ ← dāśváṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mártyasya ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+vyáthiḥ ← vyáthi- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Ihr fuhret stets zur eifervollen Festschar, gewalt'ge mit den Rossen recht zur A
 Быстрых, как мысль, резвых, чтобы предотвратить  
 Отклонение смертного, почитающего (вас).
 </details>
+

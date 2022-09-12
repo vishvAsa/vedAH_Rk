@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+śatā́ ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+áśvānām ← áśva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+dāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+giré ← gír- ~ gīr- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+purupánthāḥ ← purupánthā- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bharádvājāya ← bharádvāja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+giré ← gír- ~ gīr- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+vīra ← vīrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hatā́ ← √han- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+purudaṁsasā ← purudáṁsas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rákṣāṁsi ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+syuḥ ← √as- 1 (root)  
+{number:PL, person:3, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +228,4 @@ Eurem Sänger, o ihr Biederen, gab Purupanthas hunderttausend Rosse; er gab sie 
 И Бхарадвадже он еще дал за хвалебную песнь, о два героя.  
 Пусть будут перебиты ракшасы, о вы многочудесные!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ha ← ha (invariable)  
+{}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+kanī́naḥ ← kanī́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sadyás ← sadyás (invariable)  
+{}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+āvat ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+prábhartum ← √bhr̥- (root)  
+{case:ACC, number:SG}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+piba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pratikāmám ← pratikāmám (invariable)  
+{}
+
+sādhóḥ ← sādhú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+prathamám ← prathamá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+rásāśiraḥ ← rásāśir- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+somyásya ← somyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Sobald der Stier, der junge, war geboren, begehrt' den Trunk er des gepressten K
 Пей первым по желанию, чтобы тебе (насытиться),  
 Превосходный смешанный с соком (напиток) из сомы!
 </details>
+

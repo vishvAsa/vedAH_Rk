@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+huvema ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vayám ← ahám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pr̥thujráyam ← pr̥thujráya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sáṁgatim ← sáṁgati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sūryā́m ← sūryā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+váhati ← √vah- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vandhurāyúḥ ← vandhurāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gírvāhasam ← gírvāhas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purutámam ← purutáma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vasūyúm ← vasūyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Wir rufen heute diesen euren Wagen, den weitgedehnten, Ritter, der zur Milch eil
 (Колесницу,) которая везет Сурью, имеет сиденье,  
 Притягивается хвалебными песнями, (колесницу,) лучшую из всех стремящуюся к добру.
 </details>
+

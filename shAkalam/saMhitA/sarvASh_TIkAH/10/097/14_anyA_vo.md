@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+anyā́ ← anyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+anyā́m ← anyá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+avatu ← √avⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+anyā́ ← anyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+anyásyai ← anyá- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+avata ← √avⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+saṁvidānā́ḥ ← √vid- 2 (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:MED}
+
+sárvāḥ ← sárva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+avata ← √avⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +190,4 @@ Von euch sei eins dem andern hold und jedes helf dem andern aus; Seid eines Sinn
 Все вы, обьединенные,  
 Добейтесь успеха этой речи моей!
 </details>
+

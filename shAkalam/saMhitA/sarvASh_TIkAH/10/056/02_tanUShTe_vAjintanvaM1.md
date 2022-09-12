@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+náyantī ← √nī- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+tanū́ḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vājin ← vājín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dhā́tu ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áhrutaḥ ← áhruta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dharúṇāya ← dharúṇa- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mimīyāḥ ← √mī- 2 (root)  
+{number:SG, person:2, mood:OPT, tense:PRS, voice:ACT}
+
+svám ← svá- (pronoun)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +226,4 @@ Der Leib, o Held, der deinen Leib geleitet verleih uns reichen Schatz und dir Be
 Несгибаемый, чтобы нести великих богов,  
 Пусть ниспошлет благословение нам, защиту тебе!
 </details>
+

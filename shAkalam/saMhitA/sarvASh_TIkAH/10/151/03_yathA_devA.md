@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+ásureṣu ← ásura- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+cakriré ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+śraddhā́m ← śraddhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ugréṣu ← ugrá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+bhojéṣu ← bhojá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+evám ← evám (invariable)  
+{}
+
+yájvasu ← yájvan- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+uditám ← √vadⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +177,4 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 Так среди дружелюбных жертвователей  
 Сделай (приятным) это сказанное нами!
 </details>
+

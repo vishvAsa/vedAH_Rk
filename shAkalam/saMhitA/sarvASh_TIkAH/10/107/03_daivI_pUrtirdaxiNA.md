@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+daívī ← daívī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dákṣiṇā ← dákṣiṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+devayajyā́ ← devayajyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pūrtíḥ ← pūrtí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kavāríbhyaḥ ← kavārí- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nahí ← nahí (invariable)  
+{}
+
+pr̥ṇánti ← √pr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+átha ← átha (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+práyatadakṣiṇāsaḥ ← práyatadakṣiṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+avadyabhiyā́ ← avadyabhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+bahávaḥ ← bahú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pr̥ṇanti ← √pr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +200,4 @@ Göttlich ist reichliches Schenken; Opferlohn und Götterverehrung kommt nicht v
 А многие мужи, вручающие Дакшину,  
 Дарят щедро из страха перед упреками.
 </details>
+

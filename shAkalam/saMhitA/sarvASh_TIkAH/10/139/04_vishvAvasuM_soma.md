@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gandharvám ← gandharvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+viśvā́vasum ← viśvā́vasu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dadr̥śúṣīḥ ← √dr̥ś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:ACT}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+anvávait ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rārahāṇáḥ ← √raṁh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+apaśyat ← √paś- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+paridhī́n ← paridhí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ O Soma, als die Wasser den allreichen Gandharven sahn, da rannen sie wie's Recht
 Индра быстро помчался по этому их (следу):  
 Он обнаружил покровы солнца.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śurúdhaḥ ← śurúdh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dhītíḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+hanti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vr̥jinā́ni ← vr̥jiná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+badhirā́ ← badhirá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ślókaḥ ← ślóka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tatarda ← √tr̥d- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+āyóḥ ← āyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+budhānáḥ ← √budh- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+kárṇā ← kárṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śucámānaḥ ← √śuc- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Denn vielfach sind des Opfers Labetränke, des Opfers Andacht tilget die Vergehe
 Зов закона пронзил глухие уши  
 Человека, пробуждая, пылая.
 </details>
+

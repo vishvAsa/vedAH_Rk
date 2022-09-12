@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+ápyā ← ápya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+gandharvī́ḥ ← gandharvī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rápat ← √rap- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+yóṣaṇā ← yóṣaṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+nadásya ← nadá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nādé ← nādá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+pātu ← √pā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhātu ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+iṣṭásya ← √iṣ- 2 (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+bhrā́tā ← bhrā́tar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jyeṣṭháḥ ← jyeṣṭhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vocati ← √vac- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +251,4 @@ Es rauschte laut Gandharva und die Wasserfrau; sie schütze bei des Stieres Tobe
 Пусть Адити поместит нас посреди желанного!  
 Пусть старший наш брат первым решит (для нас)!
 </details>
+

@@ -15,13 +15,56 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+madíntaram ← madíntara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+adhvaryo ← adhvaryú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+siñcá ← √sic- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+sadā́vr̥dhaḥ ← sadā́vr̥dha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stávate ← √stu- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +179,4 @@ Den giess nun ein, o Opferer, der mehr berauscht als Meth und Seim, Denn so ja h
 Чем мед, соку, о адхварью:  
 Ведь так восхваляется герой, всегда усиливающийся!
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+arvā́ñcam ← arvā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sukhé ← sukhá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+keśínā ← keśín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+váhatām ← √vah- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+āsáde ← √sad- (root)  
+{case:DAT, number:SG}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ghr̥tásnū ← ghr̥tásnu- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Lass, Indra, dich die mähnigen, die fettbedeckten, fahren her, Auf raschem Wage
 Тебя сюда, о Индра, двое гривастых  
 (Коней) со спинами, (помазанными) жиром, – чтобы ты сел на солому!
 </details>
+

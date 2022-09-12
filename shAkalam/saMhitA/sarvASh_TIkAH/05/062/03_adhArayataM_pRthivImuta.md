@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhārayatam ← √dhr̥- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+máhobhiḥ ← máhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+mítrarājānā ← mitrarājan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+varuṇā ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pínvatam ← √pinv- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vardháyatam ← √vr̥dh- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+jīradānū ← jīrádānu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sr̥jatam ← √sr̥j- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ Ihr machtet fest die Erde und den Himmel mit Macht, o Herrscher Varuna und Mitra
 Умножайте растения, делайте коров набухшими (от молока),  
 Изливайте дождь, о быстродающие!
 </details>
+

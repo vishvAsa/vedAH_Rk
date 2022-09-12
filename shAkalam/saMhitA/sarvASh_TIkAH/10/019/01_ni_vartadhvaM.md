@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+gāta ← √gā- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+vartadhvam ← √vr̥t- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+revatīḥ ← revánt- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+siṣakta ← √sac- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ágnīṣomā ← agnī́-ṣóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+punarvasū ← punarvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dhārayatam ← √dhr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +173,4 @@ Kehrt um, ihr Kühe, geht nicht fort; zu uns, ihr reichen, wendet euch; Gebt, Ag
 О Агни и Сома, возвращающие назад добро,  
 Удержите у нас богатство!
 </details>
+

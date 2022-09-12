@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+mahenadi ← mahenadī- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+dediśam ← √diś- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+páruṣṇi ← paruṣá- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+āpaḥ ← áp- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+aśvadā́taraḥ ← aśvadā́tara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śáviṣṭhāt ← śáviṣṭha- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +181,4 @@ Wahrheit will ich dir verkünden, o grosser Strom Paruschni. Es gibt, o ihr Wass
 
 -ru-
 </details>
+

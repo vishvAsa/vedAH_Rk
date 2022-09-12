@@ -16,14 +16,66 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ūrjā́ ← ū́rj- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yajñíyāḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rayyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sr̥jantu ← √sr̥j- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +200,4 @@ Umgib von allen Seiten uns mit Nahrung und mit fetter Milch, Die hehren Götter 
 Какие бы ни (были) боги, достойные жертв,  
 (Все) они пусть сделают нас причастными к богатству!
 </details>
+

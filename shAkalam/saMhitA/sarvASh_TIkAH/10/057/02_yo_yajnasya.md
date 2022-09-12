@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+prasā́dhanaḥ ← prasā́dhana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́tataḥ ← √tan- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+tántuḥ ← tántu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́hutam ← √hu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+naśīmahi ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +141,4 @@ Erreichen möchten wir den Gott, der selbst beopfert Opfer bringt, Als Aufzug zu
 (Кто) нить, протянутую к богам,  
 Его, политого (жиром), мы хотели бы достигнуть!
 </details>
+

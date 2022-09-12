@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+īyate ← √yā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+medhā́bhiḥ ← medhā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+manaú ← manú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+antárikṣeṇa ← antárikṣa- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yā́tave ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -100,7 +125,7 @@ take it to √yā/ī ‘speed’ (so also Sāyaṇa., who glosses gacchati). In 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 The tṛca is thematically unified by the journey of Soma and, in vss. 17-18 his conveying good things to us on that journey. Cf. esp. 17 ā́naḥ … váhā and 18 ā́naḥ … bhara. All three vss. end in a purpose dative / dative infinitive: 16 yā́tave, 17 ūtáye, 18 devávītaye.
@@ -129,3 +154,4 @@ Durch Lieder wird der flammende, beim Menschen angefleht, der Fürst, Zu gehen d
 
 -ru-
 </details>
+

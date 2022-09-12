@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+sváranti ← √svar- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+nireké ← nireká- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ukthínaḥ ← ukthín- (nominal stem)  
+{case:NOM, number:PL}
+
+váso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gamaḥ ← √gam- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+ókaḥ ← ókas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sutám ← √su- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+tr̥ṣāṇáḥ ← √tr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+svabdī́ ← svabdín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váṁsagaḥ ← váṁsaga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ Beim Soma preisen, guter, dich mit Spruch die Sänger um dich her, Wann kommst d
 Когда, жаждя сомы, ты придешь на привычное место,  
 О Индра, как бык, идущий по своим следам?
 </details>
+

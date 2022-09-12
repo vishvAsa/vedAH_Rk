@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vavr̥tsva ← √vr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
+
+árvataḥ ← árvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vr̥ttám ← √vr̥t- (root)  
+{case:NOM, gender:M, number:SG, voice:PASS}
+
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+niyúdbhiḥ ← niyút- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +149,4 @@ O rolle selbst dich zu uns her, gleichwie des Renners rollend Rad, Rasch mit der
 Как вертящееся колесо к коню,  
 Вместе с упряжками народов!
 </details>
+

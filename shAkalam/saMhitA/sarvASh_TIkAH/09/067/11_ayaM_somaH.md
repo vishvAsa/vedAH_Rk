@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kapardíne ← kapardín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhakṣat ← √bhaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+kanyā̀su ← kanyā̀- ~ kanī́n- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,7 +141,7 @@ kapardín- is used of Pūṣan in VI.55.2, though it is also applied to a few ot
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 This, the Atri tṛca, shows very tight cohesion. To begin with, Pūṣan, under his name (vs. 10) or characteristic epithets (kapardín- vs. 11, ā́ghṛṇi- vs. 12), appears in every vs., in particular as the recipient of the pressed and purified soma in vss. 11-12. Since, as noted in the published introduction, Pūṣan is rarely found in IX, devoting a tṛca to him here is striking, and the assumption that he wants soma is esp. anomalous, since in the hymn devoted to Indra and Pūṣan (VI.57) Indra’s desire for soma is explicitly contrasted with Pūṣan’s for porridge (VI.57.2).
@@ -142,3 +176,4 @@ Dem haargeflochtnen rieselt hier der Soma süsse Butter zu; Er schenke holde Br�
 Для (бога) с косой, как сладкое топленое масло.  
 Пусть наделит он нас девицами!
 </details>
+

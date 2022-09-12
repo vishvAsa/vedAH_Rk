@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+kīríṇā ← kīrín- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mányamānaḥ ← √man- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ámartyam ← ámartya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jóhavīmi ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmā́su ← ahám (pronoun)  
+{case:LOC, number:PL}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+jā́tavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yáśaḥ ← yáśas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+amr̥tatvám ← amr̥tatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aśyām ← √naś- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+prajā́bhiḥ ← prajā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +213,6 @@ Upon us, O wise one, bestow glory;
 O Agni, through offspring may I attain immortality.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Wenn ich mit dem bloßen Herzen deiner gedenkend, ich der Sterbliche nach dir dem Unsterblichen rufe, so verleih uns, o Jatavedas, Ehre! Durch Kinder möchte ich, Agni, Unsterblichkeit erlangen.
@@ -182,3 +230,4 @@ Der dankerfüllten Herzens dein gedenkend, ich Sterblicher dich rufe, der unster
 О Джатаведас, дай нам славу!  
 Пусть достигну я, о Агни, бессмертия через потомство!
 </details>
+

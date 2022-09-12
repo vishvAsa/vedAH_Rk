@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mātróḥ ← mātár- (nominal stem)  
+{case:LOC, gender:F, number:DU}
+
+śéṣe ← √śī- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+váneṣu ← vána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+indhate ← √idh- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mártāsaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+átandraḥ ← átandra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+haviṣkŕ̥taḥ ← haviṣkŕ̥t- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vahasi ← √vah- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ā́t ← ā́t (invariable)  
+{}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+rājasi ← √rāj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +189,4 @@ In Hölzern, deiner Mutter Schooss, liegst du, dich zünden Menschen an; Des Opf
 Неутомимый, ты возишь жертвы того, кто совершает возлияния, -  
 Так правишь ты среди богов.
 </details>
+

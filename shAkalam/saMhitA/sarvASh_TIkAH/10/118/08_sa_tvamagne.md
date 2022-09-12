@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prátīkena ← prátīka- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+oṣa ← √uṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+yātudhānyàḥ ← yātudhānī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dī́dyat ← √dī- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+urukṣáyeṣu ← urukṣáya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +140,4 @@ Die Hexenschar versenge du, Agni, mit deinem Angesicht, Bei den weitherrschenden
 Испепели ты колдуний,  
 Сверкая у (людей) Урукшая!
 </details>
+

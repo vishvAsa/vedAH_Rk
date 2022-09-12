@@ -15,14 +15,48 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment
+#### Morph
+áditeḥ ← áditi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+putrā́saḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+dvéṣāṁsi ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vidúḥ ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yótave ← √yu- 2 (root)  
+{case:DAT, number:SG}
+
+aṁhóḥ ← aṁhú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+urucákrayaḥ ← urucákri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anehásaḥ ← anehás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +159,4 @@ Denn diese Söhne Aditi's verstehn zu scheuchen jeden Feind, Die von Bedrängnis
 Умеют отвращать проявления ненависти,  
 И даже из узости беспорочные создают широкий (выход).
 </details>
+

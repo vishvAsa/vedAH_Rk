@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ākṣít ← ākṣít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anūrút ← anūrúdh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áparāḥ ← ápara- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pū́rvāsu ← pū́rva- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+antár ← antár (invariable)  
+{}
+
+jātā́su ← √janⁱ- (root)  
+{case:LOC, gender:F, number:PL, non-finite:PPP}
+
+sadyás ← sadyás (invariable)  
+{}
+
+táruṇīṣu ← táruṇa- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+antárvatīḥ ← antárvant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ápravītāḥ ← ápravīta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+suvate ← √sū- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+asuratvám ← asuratvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +204,4 @@ In frühern ruhend wächst er nach in spätern, in den so eben nur gebornen Jung
 Беременные рожают (его) не зачавши.  
 Велико могущество богов, единственно.
 </details>
+

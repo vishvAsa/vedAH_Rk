@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+adhvarā́ya ← adhvará- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+viśé ← víś- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yachatam ← √yam- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+dīrgháprayajyum ← dīrgháprayajyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vanuṣyáti ← √vanuṣ(y)- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dūḍhyàḥ ← dūḷhī́- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jayema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Gewährt, o Indra-Varuna, uns weiten Schutz dem Opferfeste, unserm Volk und unse
 (Того,) кто хочет из зависти превзойти далеко преуспевшего в жертвах (человека)  
 И (всех) злоумышленников пусть мы победим в сражениях!
 </details>
+

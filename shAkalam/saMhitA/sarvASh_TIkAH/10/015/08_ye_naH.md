@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+somyā́saḥ ← somyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+anūhiré ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+somapīthám ← somapīthá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásiṣṭhāḥ ← vásiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+havī́ṁṣi ← havís- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+saṁrarāṇáḥ ← √rā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+tébhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+yamáḥ ← yamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+attu ← √ad- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+pratikāmám ← pratikāmám (invariable)  
+{}
+
+uśádbhiḥ ← √vaś- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+uśán ← √vaś- (root)  
+{tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +207,4 @@ Mit unsern Ahnen, die den Soma lieben, den besten, die zum Somatrunk gekommen, G
 Пусть Яма с ними, радуясь, жаждущий с жаждущими,  
 Вкушает (наши) жертвенные возлияния, сколько захочет!
 </details>
+

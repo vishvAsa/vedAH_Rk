@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+jáṅghnataḥ ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pávamānasya ← √pū- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+asr̥kṣata ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+candrā́ḥ ← candrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+háreḥ ← hári- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ajiráśociṣaḥ ← ajiráśocis- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jīrā́ḥ ← jīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -97,7 +119,7 @@ The 1st member ajirá- means ‘quick, nimble, agile’, and the whole bahuvrīh
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/25-27.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 Each vs. opens with a form of pávamāna-, which also connects it with the preceding tṛca (see above). An even stronger link to the previous tṛca is the gen. intens. part.
@@ -128,3 +150,4 @@ Ergossen sind des flammenden, des goldnen Kämpfers Ströme schon, Die lichten F
 
 -ru-
 </details>
+

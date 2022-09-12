@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhojā́n ← bhojá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+stuhí ← √stu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+stuvatáḥ ← √stu- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yā́mani ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ráṇan ← √ranⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+yávase ← yávasa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+hvaya ← √hvā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+pū́rvān ← pū́rva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sákhīn ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yatáḥ ← √i- 1 (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gr̥ṇīhi ← √gr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kāmínaḥ ← kāmín- (nominal stem)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Die Geber preise, mögen bei des Sängers Fest wie Küh' im Grase schwelgen sie,
 Окликай их, удаляющихся, как старых друзей!  
 Воспой в песне (их), любящих (это)!
 </details>
+

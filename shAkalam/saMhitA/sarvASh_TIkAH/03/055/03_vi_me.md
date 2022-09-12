@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+kā́māḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+patayanti ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+ácha ← ácha (invariable)  
+{}
+
+dīdye ← √dī- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+pūrvyā́ṇi ← pūrvyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śámi ← śámī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+agnaú ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sámiddhe ← √idh- 1 (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+vadema ← √vadⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+asuratvám ← asuratvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Nach vielen Seiten fliegen meine Wünsche, beim Opfer acht' ich auf die alten Sp
 При зажженном огне пусть провозгласим мы закон.  
 Велико могущество богов, единственно.
 </details>
+

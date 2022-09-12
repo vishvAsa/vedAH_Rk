@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+váyam ← √vī- 1 (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yavasā́daḥ ← yavasā́d- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ahám ← ahám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+urvájre ← urvájra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yavā́daḥ ← yavā́d- (nominal stem)  
+{case:GEN, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+avasātā́ram ← avasātár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ichāt ← √iṣ- 2 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yuktáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+átha ← átha (invariable)  
+{}
+
+áyuktam ← áyukta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+vavanvā́n ← √vanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+yunajat ← √yuj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +205,4 @@ Wenn ich die Kühe, die auf weiter Flur anderer Leute Gras und Korn fressen, zus
 
 -ru-
 </details>
+

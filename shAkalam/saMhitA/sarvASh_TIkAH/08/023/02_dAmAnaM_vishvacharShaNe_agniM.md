@@ -15,13 +15,41 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dāmā́nam ← dāmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvacarṣaṇe ← viśvácarṣaṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+viśvamanaḥ ← viśvámanas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ráthānām ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+stuṣe ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+utá ← utá (invariable)  
+{}
+
+víṣpardhasaḥ ← víṣpardhas- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ Den Geber, allbeliebter du, den Agni rühm mit deinem Lied Und die wie Wagen ren
 Хвалебной песнью, о Вишваманас,  
 Я восхваляю, а также состязающихся (коней) колесниц,
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+pr̥tanyū́n ← pr̥tanyú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sáhamānaḥ ← √sah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ápa ← ápa (invariable)  
+{}
+
+durgáhāṇi ← durgáha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rákṣāṁsi ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sédhan ← √sidh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sāsahvā́n ← √sah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+svāyudháḥ ← svāyudhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +148,7 @@ having good weapons, having vanquished your rivals, Soma.
 The c pāda also shows alliteration: s u vāyudháḥ sāsahvā́n soma śátrun.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 This very straightforward final tṛca concerning the ritual preparation of soma harps on the root √pū, with punānáḥ 10a, pávamānaḥ 10b, punānáḥ 11a, pavate 11b, and pavasva 12a.
@@ -142,3 +179,4 @@ So riesle hell, der Feinde Schar besiegend, Gespenster tilgend und Gefahren sche
 Прогоняющий ракшасов, у(страняющий) дурные пути,  
 Хорошо вооруженный, о сома, (всегда) побеждающий врагов!
 </details>
+

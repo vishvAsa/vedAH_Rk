@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+parāváti ← parāvát- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śakra ← śakrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+arvāváti ← arvāvát- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+átas ← átas (invariable)  
+{}
+
+dyugát ← dyugát- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+keśíbhiḥ ← keśín- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+sutā́vān ← sutā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vivāsati ← √vanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +194,4 @@ Wenn, starker Vritratödter, du entfernt, wenn in der Näh' du bist, Von dort he
 Оттуда тебя с помощью песен, идущих на небо, (коней) пышногривых,  
 Хочет вызвать выжиматель сомы.
 </details>
+

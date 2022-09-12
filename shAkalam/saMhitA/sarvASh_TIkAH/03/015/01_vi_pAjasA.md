@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pā́jasā ← pā́jas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pr̥thúnā ← pr̥thú- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śóśucānaḥ ← √śuc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+ámīvāḥ ← ámīvā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+bā́dhasva ← √bādhⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+dviṣáḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śármaṇi ← śárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+suśármaṇaḥ ← suśárman- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+syām ← √as- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+práṇītau ← práṇīti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+suhávasya ← suháva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Der du mit weitem Schimmer fernhin strahlest, verjage Feinde, Hexen, Plagegeiste
 Да буду я защитой высокого, надежно защищающего,  
 Я – под предводительством Агни, легко призываемого!
 </details>
+

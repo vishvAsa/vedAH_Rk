@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+duhitárā ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+suśilpé ← suśilpá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ní ← ní (invariable)  
+{}
+
+sadatām ← √sad- (root)  
+{number:DU, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+uṣā́sānáktā ← uṣā́sānáktā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uśántaḥ ← √vaś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+uśatī ← √vaś- (root)  
+{case:VOC, gender:F, number:DU, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+sīdantu ← √sad- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+subhage ← subhága- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+uraú ← urú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Des Himmels schöne Töchter, Nacht und Morgen, Göttinnen, mögen auf den Sitz 
 Пусть жаждующие боги, о вы, две жаждующие,  
 Усядутся на вашем широком лоне, о вы, приносящие счастье.
 </details>
+

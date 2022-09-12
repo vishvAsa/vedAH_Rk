@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+áraruṣaḥ ← árarivaṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rákṣa ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+samasya ← sama- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+svanā́t ← svaná- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mumucmáhe ← √muc- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:MED}
+
+nidáḥ ← níd- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +171,4 @@ Errett' uns von dem Geizigen, von jedes Menschen Wuth dahin, Wo wir von Hassern 
 От (его) голоса, кем бы он ни был!  
 (Помести нас туда,) где мы были бы свободны от зависти!
 </details>
+

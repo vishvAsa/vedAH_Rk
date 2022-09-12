@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; repeated line  
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular
+#### Morph
+addhā́ ← addhā́ (invariable)  
+{}
+
+ihá ← ihá (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vocat ← √vac- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ā́jātā ← √janⁱ- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+kútas ← kútas (invariable)  
+{}
+
+kútas ← kútas (invariable)  
+{}
+
+vísr̥ṣṭiḥ ← vísr̥ṣṭi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+visárjanena ← visárjana- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ābabhū́va ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yátas ← yátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +240,4 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 Далее боги (появились) посредством сотворения этого (мира).  
 Так кто же знает, откуда он возник?
 </details>
+

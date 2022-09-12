@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsú ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+aviṣṭám ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+dhīṣú ← dhī́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+áhrayam ← áhraya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prajā́vat ← prajā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rétaḥ ← rétas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+tánaye ← tánaya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+toké ← toká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tū́tujānāḥ ← √tuj- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+devávītim ← devávīti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+gamema ← √gam- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+surátnāsaḥ ← surátna- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Seid hold, o Ritter, uns bei diesen Bitten; sei kinderzeugend, reichlich unser S
 Укрепляясь в продолжении рода,  
 Имея прекрасные сокровища, мы хотим совершить для вас приглашение богов!
 </details>
+

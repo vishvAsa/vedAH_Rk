@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vimadáḥ ← vimadá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amŕ̥tebhiḥ ← amŕ̥ta- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+napāt ← nápat- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ū́rjaḥ ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+iyānáḥ ← √yā- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sumatī́ḥ ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vakṣat ← √vah- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhār ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sukṣitím ← sukṣití- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ So hat dir, o Agni, Vimada Anbetung und Lieder dargebracht, o Sohn der Stärke, 
 (И) хвалебные песни, прося о милостях.  
 Жертвенную усладу, питательную силу, хорошее жилье - все ты принес (ему).
 </details>
+

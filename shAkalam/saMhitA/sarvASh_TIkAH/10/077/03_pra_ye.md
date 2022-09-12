@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX
+#### Morph
+barháṇā ← barháṇā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+abhrā́t ← abhrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+riricré ← √ric- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pā́jasvantaḥ ← pā́jasvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+panasyávaḥ ← panasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vīrā́ḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhídyavaḥ ← abhídyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+máryāḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+riśā́dasaḥ ← riśā́das- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +213,4 @@ Die mit ihrer Macht über Himmel und Erde emporragen, gleich wie die Sonne über
 Вызывающие восхищение, как герои могучего сложения,  
 Как юные мужи, заботящиеся о чужом (?), обращенные к небу:
 </details>
+

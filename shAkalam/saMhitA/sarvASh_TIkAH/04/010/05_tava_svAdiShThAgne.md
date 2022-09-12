@@ -17,15 +17,61 @@ ChandaH = "महापदपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+svā́diṣṭhā ← svā́diṣṭha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sáṁdr̥ṣṭiḥ ← sáṁdr̥ṣṭi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+áhnaḥ ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+idā́ ← idā́ (invariable)  
+{}
+
+aktóḥ ← aktú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+idā́ ← idā́ (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+rocate ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+rukmáḥ ← rukmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+upāké ← upāká- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ Es glänzt dein Lichtschein, – o Agni, lieblich, – auch heut am Tage, Wie Go
 Будь то ночью;  
 Для (проявления) красоты сверкает (он) вблизи, словно золотое украшение.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+púruṣeṇa ← púruṣa- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+átanvata ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́jyam ← ā́jya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+vasantáḥ ← vasantá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+grīṣmáḥ ← grīṣmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idhmáḥ ← idhmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śarát ← śarád- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +183,4 @@ Als die Götter ihr Opfer mit dem Urmenschen als dem Opfertrank kunstvoll bereit
 Весна была его жертвенным маслом,  
 Лето – дровами, осень – жертвенным даром.
 </details>
+

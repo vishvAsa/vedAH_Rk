@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+nítyastotraḥ ← nítyastotra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vánaspátiḥ ← vánaspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+dhīnā́m ← dhī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sabardúghaḥ ← sabardúgha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hinvānáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+mā́nuṣā ← mā́nuṣa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yugā́ ← yugá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +155,4 @@ Der Pflanzenfürst, dem Lob gebührt, weilt in der nektarreichen Milch, Den Mens
 Чудесно доящееся среди молитв,  
 Приводящее в действие людские поколения:
 </details>
+

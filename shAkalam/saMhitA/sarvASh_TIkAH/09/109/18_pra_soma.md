@@ -14,12 +14,40 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kukṣā́ ← kukṣí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yemānáḥ ← √yam- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -92,7 +120,7 @@ O Soma, journey forth to the cheeks of Indra, being guided by men,  pressed by s
 On kukṣí- ‘cheek’ see comm. ad III.36.8, VIII.92.24.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 Vss. 16 and 17 contain the sequence akṣāḥ sahásra(-dhāraḥ / -retaḥ) in the same position in the vs. All 3 vss. concern Soma’s journey. The various phrases with agentive instr. in 17 and 18 reprise and reshuffle those in 15: góbhiḥ śrītásya (15) is echoed by góbhiḥ śrīṇānaḥ (17); nṛ́bhiḥ sutásya (15) gets divided and refitted into two phrases, nṛ́bhiḥ yemānáḥ and ádribhiḥ sutáḥ (18).
@@ -121,3 +149,4 @@ Vor schreite, Indu, – in Indra's Bauch nun, gelenkt von Männern, – gepresst
 Продвигайся вперед, о сома, к Индре в живот,  
 Направляемый мужами, выжатый камнями.
 </details>
+

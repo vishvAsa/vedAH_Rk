@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+abhíhitau ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+r̥ksāmā́bhyām ← r̥ksāmá- (nominal stem)  
+{case:INS, gender:N, number:DU}
+
+gā́vau ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+itaḥ ← √i- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sāmanaú ← sāmaná- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+āstām ← √as- 1 (root)  
+{number:DU, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+cakré ← cakrá- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+śrótram ← śrótra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+carācaráḥ ← carācará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pánthāḥ ← pánthā- ~ path- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +180,4 @@ Durch Lied und Sang angeschirrt gehen vereint deine beiden Stiere; ganz Ohr ware
 Два твои колеса были слухом.  
 Пусть на небе далеко простирался.
 </details>
+

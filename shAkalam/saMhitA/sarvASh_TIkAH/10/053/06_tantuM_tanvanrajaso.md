@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+bhānúm ← bhānú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tántum ← tántu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tanván ← √tan- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+jyótiṣmataḥ ← jyótiṣmant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kr̥tā́n ← √kr̥- (root)  
+{case:ACC, gender:M, number:PL, non-finite:PPP}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+rakṣa ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+anulbaṇám ← anulbaṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ápaḥ ← ápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jóguvām ← jógū- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vayata ← √u- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+daívyam ← daívya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jánam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+janáya ← √janⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mánuḥ ← mánu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +245,4 @@ Die Fäden spannend geh dem Glanz der Lüfte nach, beschirm die lichten Pfade, d
 Тките без узлов работу воспевающих!  
 Стань Ману, породи божественный род!
 </details>
+

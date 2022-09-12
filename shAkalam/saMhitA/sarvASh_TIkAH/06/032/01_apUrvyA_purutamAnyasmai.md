@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápūrvyā ← ápūrvya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+purutámāni ← purutáma- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+taváse ← tavás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+turā́ya ← turá- 1 (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vīrā́ya ← vīrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śáṁtamāni ← śáṁtama- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vajríṇe ← vajrín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+virapśíne ← virapśín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+āsā́ ← ā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sthávirāya ← sthávira- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+takṣam ← √takṣ- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+vácāṁsi ← vácas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +177,4 @@ Sehr viele neue, angenehmste Lieder hab' ich dem grossen, ihm, dem starken Helde
 Для сильного, (всех) превосходящего, изобильного громовержца  
 Я хочу вытесать устами – для крепкого.
 </details>
+

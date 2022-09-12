@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+vánam ← vána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+éjati ← √ej- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+samudráḥ ← samudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+daśamāsya ← dáśamāsya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+jarā́yuṇā ← jarā́yu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +173,4 @@ Wie sich der Wind, wie sich der Wald, wie sich das Meer in Wogen regt, so du auc
 Так выходи ты, о десятимесячный,  
 Вместе с последом!
 </details>
+

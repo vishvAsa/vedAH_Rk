@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+anarvā́ṇam ← anarván- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yudhmám ← yudhmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánapacyutam ← ánapacyuta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+somapā́m ← somapā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avāryákratum ← avāryákratu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náram ← nár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +144,4 @@ Den Kämpfer, der unnahbar ist, ein Somatrinker nimmersatt, Ein Mann von unbezwu
 
 -ru-
 </details>
+

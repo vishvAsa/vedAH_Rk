@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+uśānáḥ ← √vaś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+usrā́ḥ ← usrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+r̥tádhītibhiḥ ← r̥tádhīti- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+r̥tayúk ← r̥tayúj- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yujānáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+árugṇam ← árugṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ruját ← √ruj- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+sā́num ← sā́nu- ~ snú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+valásya ← valá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paṇī́n ← paṇí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vácobhiḥ ← vácas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yodhat ← √yudh- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +209,7 @@ Oldenberg wants to emend índraḥ in d to voc. indra, to allow soma to be the s
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/039/02-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/039/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
 As noted in the published introduction. (and see comm. ad VI.38.2-4 above), the three middle verses are marked by repeated use of the near deictic in pāda-initial position, beginning every hemistich but 2cd and coming to a crescendo in vs. 4 with three iterations: ayám 2a, ayám 3a, imám 3c, ayám 4a, b, c. The unidentified referent of all these deictic forms is soma — see Oldenberg’s disc. — but soma at least partially identified with Indra, as the opener of the Vala cave. The repeated use of the deitic, pointing to something in the immediate vicinity of the speaker, focuses on soma as the ritual substance on the sacrificial ground.
@@ -190,3 +245,4 @@ Verlangend nach den Kühen rings im Felsen, zum Heil verbündet mit den reingesi
 Он разбил неразбитую спину Валы.  
 Индра поборол (дасов) Пани словами.
 </details>
+

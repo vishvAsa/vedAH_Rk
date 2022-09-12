@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+katamā́ ← katamá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+kvà ← kvà (invariable)  
+{}
+
+purāṇī́ ← purāṇá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svit ← svit (invariable)  
+{}
+
+r̥bhūṇā́m ← r̥bhú- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vidadhúḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vidhā́nā ← vidhā́na- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+cáranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śúbham ← śúbh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śubhrā́ḥ ← śubhrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ajuryā́ḥ ← ajuryá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jñāyante ← √jñā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:PASS}
+
+ná ← ná (invariable)  
+{}
+
+sadŕ̥śīḥ ← sadŕ̥ś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +238,4 @@ Wo, die wievielste ihrer ist die alte, durch die die Schar der Ribhu's sie verth
 Так как блистательные зори шествуют с блеском,  
 Они не различаются, одинаково выглядящие, нестареющие.
 </details>
+

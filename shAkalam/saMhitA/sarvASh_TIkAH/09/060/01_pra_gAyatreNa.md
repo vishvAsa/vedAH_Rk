@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+gāyata ← √gā(y)- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gāyatréṇa ← gāyatrá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pávamānam ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vícarṣaṇim ← vícarṣaṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahásracakṣasam ← sahásracakṣas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -91,7 +113,7 @@ The tr. “sing forth with a song” is meant to capture the etymological relati
 
 - as this one indeed is.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 The chaining described in the published introduction. here involves repeating sahásracakṣasam from 1c in 2a in the same metrical position.
@@ -120,3 +142,4 @@ Auf, singet nun mit eurem Sang dem flammenden, beweglichen, Indu, dem tausendäu
 
 -ru-
 </details>
+

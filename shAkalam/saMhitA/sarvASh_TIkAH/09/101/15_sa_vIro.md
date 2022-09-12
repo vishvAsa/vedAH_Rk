@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dakṣasā́dhanaḥ ← dakṣasā́dhana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tastámbha ← √stambhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+avyata ← √vyā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+āsádam ← √sad- (root)  
+{case:ACC, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vedhā́ḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +166,7 @@ The tawny one has wrapped himself in the filter, like a ritual adept, to  sit in
 
 The isolated summary vs. The cow’s hide (gávye ádhi tvací) closely matches gór ádhi tvací in 11b, but the sheep’s fleece is found nowhere else in the hymn, unless the ví of 11a gestures towards it. See comm. ad loc. 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 The dog returns from the first tṛca in the first vs. of this one. The tṛca is also more rhetorically ambitious than those in the middle of this hymn, with an abundance of similes (13b, d, 14b, c, d, 15b). Vss. 14 and 15 end identically.
@@ -155,3 +198,4 @@ Dieser Held, der Kraft vollendende, der beide Welten gesondert befestigt hat, de
 Золотистый укрылся в цедилке,  
 Чтобы сесть на (свое) лоно, как устроитель обряда.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hayé ← hayé (invariable)  
+{}
+
+márutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mr̥ḷáta ← √mr̥ḍ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ámr̥tāḥ ← amŕ̥ta- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ŕ̥tajñāḥ ← r̥tajñā́- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+túvīmaghāsaḥ ← tuvī́magha- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+kávayaḥ ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sátyaśrutaḥ ← satyaśrut- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yúvānaḥ ← yúvan- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+bŕ̥hadgirayaḥ ← br̥hadgiri- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ukṣámāṇāḥ ← √vakṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +203,4 @@ Wohlan, ihr Männer, Maruts, seid uns gnädig, o schätzereiche Götter, die ihr
 Слышащие правду, поэты, юноши,  
 Живущие на высокой горе, растущие высоко!
 </details>
+

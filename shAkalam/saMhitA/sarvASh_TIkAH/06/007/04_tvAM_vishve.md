@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amr̥ta ← amŕ̥ta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jā́yamānam ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+navante ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+śíśum ← śíśu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+amr̥tatvám ← amr̥tatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+krátubhiḥ ← krátu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ádīdeḥ ← √dī- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PLUPRF, voice:ACT}
+
+pitróḥ ← pitár- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+vaíśvānara ← vaiśvānará- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +203,7 @@ Note that the phrase víśve … devā́ḥ, parcelled out over two pādas, may 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/03-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/03-05.md">
 <details open><summary><h2>03-05 ...{Loading}...</h2></summary>
 
 The middle of the hymn is characterized by initial (or modified initial) forms of the 2nd sg. prn.: 3a tvát, 3b tvát, 3c VOC tvám, 4a tvā́m, 4c táva, 5a VOC táva.
@@ -179,3 +234,4 @@ O dir, unsterblicher, dem neugebor'nen, wie ihrem Kinde jauchzen zu die Götter,
 Благодаря твоим силам духа они пришли к бессмертию,  
 О Вайшванара, когда ты засверкал (в лоне) родителей.
 </details>
+

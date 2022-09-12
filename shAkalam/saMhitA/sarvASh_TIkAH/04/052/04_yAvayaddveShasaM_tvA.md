@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yāvayáddveṣasam ← yāvayáddveṣas- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+cikitvít ← cikitvít (invariable)  
+{}
+
+sūnr̥tāvari ← sūnr̥tāvan- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+abhutsmahi ← √budh- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+stómaiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,3 +131,4 @@ Die du die Feindeschar verjagst, Dich weckten wir durch Lobgesang, O wonnereiche
 Мы чутко пробудились  
 С восхвалениями, о богатая милостями.
 </details>
+

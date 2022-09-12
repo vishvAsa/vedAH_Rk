@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suṣáhā ← suṣáha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+prabhūvaso ← prabhū́vasu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+punānā́ya ← √pū- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ukthyàm ← ukthyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+várdha ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +144,4 @@ Leicht zu erringen ist dies Gut, geklärter, reicher Soma, dir, Lass schwellen d
 Очищающегося, эти (блага), о обильный благами.  
 Увеличь океан, достойный гимна!
 </details>
+

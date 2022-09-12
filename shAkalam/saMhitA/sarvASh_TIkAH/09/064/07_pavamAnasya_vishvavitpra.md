@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+pávamānasya ← √pū- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+viśvavit ← viśvavíd- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asr̥kṣata ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+sárgāḥ ← sárga- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+raśmáyaḥ ← raśmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,7 +138,7 @@ The simile in c, sū́ryasyeva ná ráśmayaḥ, is redundantly marked, with adj
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 As just noted, pávamānasya in 7a chains with forms to the same stem in vss. 5 and 6. 7b prá … asṛkṣata also echoes ásṛkṣata prá, which opens the previous tṛca (4a). The tṛca is unified by the similes comparing Soma to the Sun in vss. 7 and 9, possibly found also in the beacon (ketú-) of vs. 8.
@@ -136,3 +167,4 @@ Allweiser, dein, des flammenden, Ergüsse sind hervorgeströmt Gleich wie der So
 
 -ru-
 </details>
+

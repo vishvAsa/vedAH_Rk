@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rā́dhasaḥ ← rā́dhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+uróḥ ← urú- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rātíḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śatakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vibhvī́ ← vibhú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+viśvacarṣaṇe ← viśvácarṣaṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dyumnā́ ← dyumná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+maṁhaya ← √maṁh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sukṣatra ← sukṣatrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +177,4 @@ Die Gab' ist gross, vielwirkender, o Indra, deines reichen Guts; So schenk uns, 
 А потому, о принадлежащий всем народам,  
 Одари нас сверкающими богатствами, о благой властелин!
 </details>
+

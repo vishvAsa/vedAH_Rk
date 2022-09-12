@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ichántī ← √iṣ- 2 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vadhū́ḥ ← vadhū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+iṣirā́m ← iṣirá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+máhiṣīm ← máhiṣī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+váhāte ← √vah- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ghoṣāt ← √ghuṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śravasyāt ← √śravasy- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vartayāte ← √vr̥t- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +236,4 @@ Die Gattin hier geht liebend zu dem Gatten, der sie, die saft'ge Büffelin, sich
 Пусть приедет со славой его колесница и прогрохочет сюда!  
 Пусть она покроет многие тысячи (еджан)!
 </details>
+

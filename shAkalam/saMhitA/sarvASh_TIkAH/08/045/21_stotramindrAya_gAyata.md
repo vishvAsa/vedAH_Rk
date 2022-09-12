@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+gāyata ← √gā(y)- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+stotrám ← stotrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+purunr̥mṇā́ya ← purunr̥mṇá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sátvane ← sátvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+vr̥ṇvaté ← √vr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yudhí ← yúdh- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +144,4 @@ Dem Indra singet Lobgesang, dem mannesstarken, tapferen, Dem niemand widersteht 
 Воину большого мужества,  
 Которого никто не удержит в борьбе!
 </details>
+

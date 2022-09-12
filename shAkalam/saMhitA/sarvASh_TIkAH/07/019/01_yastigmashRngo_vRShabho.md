@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhīmáḥ ← bhīmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tigmáśr̥ṅgaḥ ← tigmáśr̥ṅga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cyāváyati ← √cyu- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṣṭī́ḥ ← kr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ádāśuṣaḥ ← ádāśvaṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gáyasya ← gáya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śáśvataḥ ← śáśvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+prayantā́ ← prayantár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+súṣvitarāya ← súṣvitara- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+védaḥ ← védas- 1 (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Der wie ein wilder Stier, ein scharfgehörnter, allein die Völker allesammt ers
 Кто (грабит) дом каждого не приносящего жертв, –  
 Ты даришь имущество тому, кто больше выжимает.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+antár ← antár (invariable)  
+{}
+
+jíghāṁsataḥ ← √han- (root)  
+{case:ABL, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+yacha ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+abhidā́sataḥ ← √dās- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ryasya ← ā́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dā́sasya ← dā́sa- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+sanutár ← sanutár (invariable)  
+{}
+
+vadhám ← vadhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yavaya ← √yu- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +175,4 @@ Lenke, o Indra, deinen Blitz mitten unter die mordlustigen, die uns befeinden, h
 
 -ru-
 </details>
+

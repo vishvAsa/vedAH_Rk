@@ -15,14 +15,54 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+hí ← hí (invariable)  
+{}
+
+sthá ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sudānavaḥ ← sudā́nu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+abhídyavaḥ ← abhídyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índrajyeṣṭhāḥ ← índrajyeṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ádhvan ← ádhvan- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kárta ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sugám ← sugá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+amā́ ← amā́ (invariable)  
+{}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +163,7 @@ In the second hemistich ádhvan ‘on the road’ and amā́‘at home’ are co
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/051/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/051/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, I consider the remaining vss. to belong to a different hymn (or hymns?), appended to the unified, well-structured hymn found in vss. 1-12. Vss. 13-15 are unified by their meter, including an unusual variant of Uṣṇih with the configuration 8 8 / 8 4; see disc. ad vs. 13. Whether vs. 16, in Anuṣṭubh, belongs to this set or was independently appended I don’t know, but it certainly has a “final” feel to it.
@@ -154,3 +194,4 @@ Ihr, o gabenreiche [Maruts] seid ja himmelstrebend und habt Indra an der Spitze;
 С Индрой во главе обращены к небу.  
 Создайте нам хороший путь в странствии. (Будьте) хранителями (по пути) домой!
 </details>
+

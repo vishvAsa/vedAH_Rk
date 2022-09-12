@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+avapā́nam ← avapā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ŕ̥śyaḥ ← ŕ̥śya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tŕ̥ṣyan ← √tr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váśān ← váśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+niméghamānaḥ ← √migh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dadhiṣe ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+ójiṣṭham ← ójiṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Gleichwie ein Hirsch, der dürstet, komm zur Tränke her, den Soma trink nach de
 Мочась им день за днем, о щедрый,  
 Ты приобретаешь самую крепкую силу.
 </details>
+

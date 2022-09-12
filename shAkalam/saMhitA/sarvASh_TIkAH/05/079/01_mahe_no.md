@@ -17,15 +17,61 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+bodhaya ← √budh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+divítmatī ← divítmant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ábodhayaḥ ← √budh- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yáthā ← yáthā (invariable)  
+{}
+
+satyáśravasi ← satyáśravas- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vāyyé ← vāyyá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+áśvasūnr̥te ← aśvasūnr̥ta- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sújāte ← sujātá- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +181,7 @@ The phrase mahé … rāyé divítmatī is very reminiscent of IV.31.11 mahó r�
 context. As for divítmant-, I now tentatively accept the analysis of divít- as containing the root noun -i-t- and would alter the tr. to “as one coming from heaven” or “as heaven-sent one.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 These three vss. follow the same pattern: Dawn is urged to repeat for us now a previous action she performed in the presence of and for the benefit of a previous patron. The name Satyaśravas Vāyya appears in all three vss. (The Anukr.
@@ -170,3 +216,4 @@ Zu grossem Reichthum weck uns heut, o Morgenroth, zu glänzendem; Wie du uns imm
 У Сатьяшраваса Вайи,  
 О благородная, о щедро дающая коней!
 </details>
+

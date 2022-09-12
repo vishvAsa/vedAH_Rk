@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ajā́saḥ ← ajá- 2 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pūṣáṇam ← pūṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+janaśríyam ← janaśrī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+niśr̥mbhā́ḥ ← niśr̥mbhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+bíbhrataḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vahantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +173,4 @@ Den Puschan fahr im Wagen her, den Menschenhort der Ziegen Schar, Festtretend, z
 Эти уверенно ступающие (?), повезут (к нам) Пушана,  
 (Легко) неся бога-украшение людей!
 </details>
+

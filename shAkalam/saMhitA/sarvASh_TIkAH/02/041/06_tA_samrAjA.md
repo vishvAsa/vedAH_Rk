@@ -15,13 +15,38 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M
+#### Morph
+ghr̥tā́sutī ← ghr̥tā́suti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+samrā́jā ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+ādityā́ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dā́nunaḥ ← dā́nu- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pátī ← páti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ánavahvaram ← ánavahvara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sácete ← √sac- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +137,4 @@ Die Oberherrn mit Milch getränkt, Aditisöhne, Herrn des Thau's, Sind hold dem 
 Два Адитьи, повелителя дара,  
 Следуют за тем, кто придерживается некривого пути.
 </details>
+

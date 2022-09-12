@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āyájāte ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+bráhmaṇe ← bráhman- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+paramásya ← paramá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+sātaú ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vā́jasya ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+maghávānaḥ ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+manyúm ← manyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sī́kṣanta ← √sah- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED, mood:DES}
+
+cakrire ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+kṣáyāya ← kṣáya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sudhā́tu ← sudhā́tu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +207,4 @@ Wer Göttergunst für sein Gebet erflehet, um zu erlangen Glück und höchsten R
 (Наши) щедрые покровители пусть стремятся осилить ярость чужого!  
 Они создали себе широкое благоустроенное (пространство) для жилья.
 </details>
+

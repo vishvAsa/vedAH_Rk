@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+acetat ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ékā ← éka- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nadī́nām ← nadī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+giríbhyaḥ ← girí- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+samudrā́t ← samudrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yatī́ ← √i- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+bhū́reḥ ← bhū́ri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+cétantī ← √cit- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+duduhe ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nā́huṣāya ← nā́huṣa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Sarasvati allein erschien als reinste der Fluten vom Gebirg' zum Meere strömend
 Замечая богатство обширного мироздания,  
 Доится она для рода Нахуши жиром (и) молоком.
 </details>
+

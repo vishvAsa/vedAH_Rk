@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+devīḥ ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+r̥tayúgbhiḥ ← r̥tayúj- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pariprayāthá ← √yā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sadyás ← sadyás (invariable)  
+{}
+
+prabodháyantīḥ ← √budh- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+sasántam ← √sas- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+uṣasaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+caráthāya ← carátha- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+cátuṣpāt ← cátuṣpad- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dvipā́t ← dvipád- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+jīvám ← jīvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +185,4 @@ Denn ihr Göttinnen fahrt in einem Tage rings um die Welt mit gutgeschirrten Ros
 Пробуждая, о зори, спящего,  
 (То,) что двуногое, что четвероногое – (все) живое, чтобы (оно) двигалось!
 </details>
+

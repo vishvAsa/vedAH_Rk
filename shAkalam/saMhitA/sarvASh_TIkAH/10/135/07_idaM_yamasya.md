@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sā́danam ← sā́dana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yamásya ← yamá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+devamānám ← devamāná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ucyáte ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhamyate ← √dhamⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+nāḷī́ḥ ← nāḷī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+páriṣkr̥taḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +184,4 @@ Hier ist des Jama hoher Sitz, den man die Götterwohnung nennt; Man bläst auf d
 Вот его камышовая флейта, (в которую) дуют,  
 Он украшен хвалебными песнями.
 </details>
+

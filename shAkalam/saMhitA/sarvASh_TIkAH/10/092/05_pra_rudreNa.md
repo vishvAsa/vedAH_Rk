@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+prá ← prá (invariable)  
+{}
+
+rudréṇa ← rudrá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yayínā ← yayí- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+arámatim ← arámati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dadhanvire ← √dhanv- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+mahī́m ← máh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
+jráyaḥ ← jráyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+párijmā ← párijman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pariyán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+jaṭháre ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+róruvat ← √rū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ukṣáte ← √ukṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +207,4 @@ Die Flüsse eilen mit dem raschen Rudra vor und strömen durch den grossen Sitz 
 
 -ru-
 </details>
+

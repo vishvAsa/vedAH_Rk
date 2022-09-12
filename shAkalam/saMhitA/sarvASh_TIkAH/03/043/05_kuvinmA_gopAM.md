@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; 12 = 5+7, ending LHX  
 genre M
+#### Morph
+gopā́m ← gopā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jánasya ← jána- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kárase ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:MED}
+
+kuvít ← kuvít (invariable)  
+{}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+kuvít ← kuvít (invariable)  
+{}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rā́jānam ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥jīṣin ← r̥jīṣín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kuvít ← kuvít (invariable)  
+{}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+papivā́ṁsam ← √pā- 2 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ŕ̥ṣim ← ŕ̥ṣi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+kuvít ← kuvít (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śíkṣāḥ ← √śak- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT, mood:DES}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +232,4 @@ Wirst du mich nicht zum Herrn des Volkes machen? zum Könige, o eilender, gewalt
 Конечно, риши – меня, напившегося сомы.  
 Конечно, ты сделаешь меня причастным к бессмертному благу.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bandhútā ← bandhútā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ihéha ← ihá (invariable)  
+{}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+jagmuḥ ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+uśíjaḥ ← uśíj- (nominal stem)  
+{case:NOM, number:PL}
+
+védasā ← védas- 2 (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+māyā́bhiḥ ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+prátijūtivarpasaḥ ← prátijūtivarpas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+ānaśá ← √naś- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saúdhanvanāḥ ← saudhanvaná- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yajñíyam ← yajñíya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +225,4 @@ Hier, Männer, ist Verwandtschaft euch nach eurem Sinn; mit Weisheit lernten all
 Силы чудесных превращений, благодаря которым (меняющие) облик по (своему) побуждению  
 Сыновья Судханвана до(бились) доли в жертвоприношении.
 </details>
+

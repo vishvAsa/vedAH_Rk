@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakrame ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+eṣáḥ ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+etā́m ← eṣá (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+daśasyán ← √daśasy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kṣétrāya ← kṣétra- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mánuṣe ← mánus- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhruvā́saḥ ← dhruvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jánāsaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kīráyaḥ ← kīrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sujánimā ← sujániman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urukṣitím ← urukṣití- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +197,7 @@ By concentrating Viṣṇu’s strides in the first pāda of 4, the poet is free
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
@@ -180,3 +229,4 @@ Hinschreitend ging durch diese Erde Vischnu, der Gott dem Menschen sie zur Wohnu
 Прочно (устроены) его люди, (даже) бедные.  
 Он, вызывающий счастливое рождение, создал обширное место поселения.
 </details>
+

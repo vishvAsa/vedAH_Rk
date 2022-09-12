@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+rasáyā ← rasā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+siñcat ← √sic- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+síndhuḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+aruṣā́saḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ghr̥ṇā́ḥ ← ghr̥ṇá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+gman ← √gam- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ajirám ← ajirá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ceti ← √cit- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+sú ← sú (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yā́nam ← yā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhávathaḥ ← √bhū- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pátī ← páti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sūryā́yāḥ ← sūryā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +254,4 @@ Des Stromes Trank benetze eure Rosse, die rothen Vögel fliegen um die Gluten Un
 Прекрасно выглядела эта ваша поездка,  
 Благодаря которой вы стали мужьями Сурьи.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vājínīvatī ← vājínīvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+citrā́maghā ← citrā́magha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+īśe ← √īś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+jaráyantī ← √gr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+maghónī ← maghávan- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ŕ̥ṣiṣṭutā ← ŕ̥ṣiṣṭuta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+gr̥ṇānā́ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+uchati ← √vas- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+váhnibhiḥ ← váhni- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ Des Sonnengottes labungsreiche Gattin, an Schätzen reich, besitzt der Güter F�
 Восхваленная мудрецами, пробуждающая, щедрая  
 Ушас зажигается, воспеваемая ведущими (речь).
 </details>
+

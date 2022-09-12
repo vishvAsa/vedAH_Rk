@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+krī́ḷantaḥ ← √krīḍ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sadhástham ← sadhástha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+akṣaran ← √kṣar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+síndhoḥ ← síndhu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ūrmā́ ← ūrmí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +159,4 @@ Die Tropfen springend voller Lust, zur einen Stätte rannen sie Hin mit des Stro
 Потекли на волне реки  
 К своему единственному месту.
 </details>
+

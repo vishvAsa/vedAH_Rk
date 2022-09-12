@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mahā́m ← máh- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+gaúḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sácata ← √sac- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+usríyā ← usríya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dī́dyānam ← √dī- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRF, voice:MED}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+raghuṣyát ← raghuṣyád- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+raghuyát ← √raghuy- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+viveda ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Und diesen grossen Lichtschein der grossen [Flammen], den uralten, welchem die r
 Я нашел (его,) тайно сияющего  
 На месте закона, быстро устремляющегося, быстрого.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; Vālakhilya;; 12 = 5+7, ending LHX  
 popular;; Vālakhilya  
 popular;; Vālakhilya  
 popular;; Vālakhilya;; 12 = 5+7, ending LHX
+#### Morph
+ádr̥ptam ← ádr̥pta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+saumanasám ← saumanasá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+póṣam ← póṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yájamāneṣu ← √yaj- (root)  
+{case:LOC, gender:M, number:PL, tense:PRS, voice:MED}
+
+asmā́su ← ahám (pronoun)  
+{case:LOC, number:PL}
+
+bhūtim ← bhūtí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhattam ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prajā́m ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+puṣṭím ← puṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dīrghāyutvā́ya ← dīrghāyutvá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+tiratam ← √tr̥̄- 1 (root)  
+{number:DU, person:2, mood:INJ, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ O Indra-Varuna gebt den Opferern guten, nicht verblendeten Sinn und Blüte des R
 Даруйте нам потомство, процветание, благополучие!  
 Продлите нам срок жизни в долговечность!
 </details>
+

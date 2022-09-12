@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śakéma ← √śak- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yámam ← yáma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+dvéṣāṁsi ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tarema ← √tr̥̄- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ O könnten deine Rosse wir, des Gottes Agni lenken doch, Dann drängen durch die
 Обуздать коней, приносящих награды!  
 Да пересечем мы проявления ненависти!
 </details>
+

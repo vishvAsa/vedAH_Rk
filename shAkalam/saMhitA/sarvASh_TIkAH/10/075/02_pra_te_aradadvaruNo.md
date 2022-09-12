@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aradat ← √rad- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́tave ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ádravaḥ ← √dru- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+síndho ← síndhu- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vā́jān ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+bhū́myāḥ ← bhū́mi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+pravátā ← pravát- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sā́nunā ← sā́nu- ~ snú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yāsi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+irajyási ← √irajy- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+jágatām ← jágat- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +239,4 @@ Die Pfade brach zu deinem Gange Varuna, als du, o Sindhu, liefest zu des Kampfes
 О Синдху, когда мы мчались к наградам.  
 Ты, устремляешься во главе этих движущихся (рек).
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+jáne ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mā́nuṣe ← mā́nuṣa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+idhyáse ← √idh- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+súprītaḥ ← súprīta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+srúcaḥ ← srúc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sárpirāsute ← sarpírāsuti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sújāta ← sujātá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +191,4 @@ Denn du wirst bei dem Menschenvolk entflammt, geliebter Agni du, Zu dir, mit Fet
 (А) жертвенные ложки идут к тебе чередой,  
 О прекрасно рожденный, глотающий топленое масло!
 </details>
+

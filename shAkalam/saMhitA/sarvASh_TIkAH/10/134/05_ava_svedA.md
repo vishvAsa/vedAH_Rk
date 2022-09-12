@@ -18,16 +18,77 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+abhítas ← abhítas (invariable)  
+{}
+
+áva ← áva (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+svédāḥ ← svéda- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+didyávaḥ ← didyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+patantu ← √pat- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+víṣvak ← víṣvañc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dū́rvāyāḥ ← dū́rvā- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+tántavaḥ ← tántu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+durmatíḥ ← durmatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ajījanat ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jánitrī ← jánitrī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ajījanat ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jánitrī ← jánitrī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Rings möge fliegen dein Geschoss wie Tropfen Schweisses hier und dort, Wie Fäd
 (Тебя) породила богиня-родительница,  
 (Тебя) породила благая родительница.
 </details>
+

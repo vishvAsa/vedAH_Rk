@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+áva ← áva (invariable)  
+{}
+
+paśyata ← √paś- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tiṣṭhata ← √sthā- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+r̥tvíyam ← r̥tvíya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+juhótana ← √hu- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śrātáḥ ← √śrā- (root)  
+{case:NOM, gender:M, number:SG, voice:PASS}
+
+yádi ← yádi (invariable)  
+{}
+
+áśrātaḥ ← áśrāta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mamattána ← √mad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+yádi ← yádi (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +178,4 @@ Erhebet euch und blicket hin auf Indra's Theil, der ihm gebührt, Ist er gekocht
 Если (она) сварена, приносите в жертву!  
 Если не сварена, подождите!
 </details>
+

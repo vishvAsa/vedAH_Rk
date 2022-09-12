@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+ásvanīt ← √svanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+dyóḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+átas ← átas (invariable)  
+{}
+
+púraṁdhim ← púraṁdhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ūhúḥ ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+yádi ← yádi (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+ha ← ha (invariable)  
+{}
+
+jyā́m ← jyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kṣipát ← √kṣip- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+sr̥ját ← √sr̥j- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ástā ← ástar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhuraṇyán ← √bhuraṇy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kr̥śā́nuḥ ← kr̥śā́nu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +261,4 @@ Als da der Aar vom Himmel niederrauschte, sobald die Winde trugen den gefüllten
 Когда на него отпустил тетиву  
 Стрелок Кришану, беспокойный мыслью,
 </details>
+

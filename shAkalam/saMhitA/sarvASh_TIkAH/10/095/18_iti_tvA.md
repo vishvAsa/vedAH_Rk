@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+aiḷa ← aiḷa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+íti ← íti (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+bhávasi ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+mr̥tyúbandhuḥ ← mr̥tyúbandhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prajā́ ← prajā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yajāti ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ápi ← ápi (invariable)  
+{}
+
+mādayāse ← √mad- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+svargé ← svargá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +232,4 @@ Also sagen dir diese Götter, o Sohn der Ila: Da du nun einmal ein Todesgenosse 
 
 -ru-
 </details>
+

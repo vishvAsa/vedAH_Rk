@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kanā́yāḥ ← kanā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+návagvāḥ ← návagva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+agman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥táyuktim ← r̥táyukti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vádantaḥ ← √vadⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+águḥ ← √gā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dvibárhasaḥ ← dvibárhas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gopám ← gopá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+ácyutā ← ácyuta- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+adakṣiṇā́saḥ ← adakṣiṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dudukṣan ← √duh- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Schnell kamen die Neuner zu des Mädchens Genossenschaft, das Rechte sprechend z
 
 -ru-
 </details>
+

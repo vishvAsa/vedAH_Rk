@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pári ← pári (invariable)  
+{}
+
+smádiṣṭāḥ ← smádiṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+spáśaḥ ← spáś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+paśyanti ← √paś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+suméke ← suméka- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tā́vānaḥ ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yajñádhīrāḥ ← yajñádhīra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iṣáyanta ← √iṣ- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+prácetasaḥ ← prácetas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Des Varuna wohl aufgestellte Späher beschauen beide segensreichen Welten; Die h
 Истинные поэты, сведущие в жертвоприношении,  
 Провидцы – (это те) кто подкрепляется молитвой.
 </details>
+

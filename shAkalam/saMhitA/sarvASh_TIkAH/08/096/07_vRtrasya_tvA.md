@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ī́ṣamāṇāḥ ← √īṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED, mood:DES}
+
+śvasáthāt ← śvasátha- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vr̥trásya ← vr̥trá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ajahuḥ ← √hā- 2 (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+marúdbhiḥ ← marút- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+jayāsi ← √ji- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+pŕ̥tanāḥ ← pŕ̥tanā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +206,7 @@ I have chosen to read the impv. bhávā in b with the two small clauses in c as 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 The da capo-like structure of the verses in this tṛca, with the first pāda repeated verbatim as the last one, is quite unusual.
@@ -177,3 +235,4 @@ Vor Vritra's Schnaufen fliehend hatten alle verbundnen Götter, Indra, dich verl
 
 -ru-
 </details>
+

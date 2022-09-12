@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+krāṇā́ḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rudrā́ḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+viśvákr̥ṣṭayaḥ ← viśvákr̥ṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ásurasya ← ásura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+nīḷáyaḥ ← nīḷí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śyenā́saḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+caṣṭe ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tébhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árvaśaḥ ← árvaśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arvaśébhiḥ ← arvaśá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Die starken lichten Maruts allen Völkern hold, des Himmels Adler, dem Asuren en
 
 -ru-
 </details>
+

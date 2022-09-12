@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+medhā́m ← medhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+suśaraṇā́ya ← suśaraṇá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhare ← √bhr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+gíram ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jā́yamānām ← √janⁱ- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:MED}
+
+návyasīm ← návyas- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+āhanā́ḥ ← āhanás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+duhitúḥ ← duhitár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vakṣáṇāsu ← vakṣáṇā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ákr̥ṇot ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+minānáḥ ← √mī- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rūpā́ ← rūpá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +235,4 @@ Ich bringe dar dem grossen Schutzverleiher den weisen Spruch, das neuentstandne 
 (Тому,) кто сладострастно меняя формы  
 В чреве дочери, создал этот наш (мир).
 </details>
+

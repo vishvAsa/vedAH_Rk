@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhalānásaḥ ← bhalānás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhananta ← √bhan- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+pakthā́saḥ ← pakthá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+álināsaḥ ← álina- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śivā́saḥ ← śivá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+viṣāṇínaḥ ← viṣāṇín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ánayat ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ā́ryasya ← ā́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sadhamā́ḥ ← sadhamád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ajagan ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+gavyā́ ← gavyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tŕ̥tsubhyaḥ ← tŕ̥tsu- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+yudhā́ ← yúdh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Ihm jauchzten zu die Pakther und Bhalanas, die Aliner, die holden Säbeltrager, 
 Сотрапезник ария, который привел (подкрепления),  
 Из желания коров для тритсу отправился с боем к мужам.
 </details>
+

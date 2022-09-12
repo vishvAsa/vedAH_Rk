@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rā́jānam ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vasā́m ← vás- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vasatím ← vasatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+árātayaḥ ← árāti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mártyeṣu ← mártya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+átreḥ ← átri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sr̥jantu ← √sr̥j- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ninditā́raḥ ← ninditár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+níndyāsaḥ ← níndya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Der Häuser König, ihn, der Menschen Wohnsitz, ihn hielten fest bei Sterblichen
 Молитвы Атри да освободят его!  
 Да встретят хулу хулители!
 </details>
+

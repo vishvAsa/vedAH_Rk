@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+sumnā́ya ← sumná- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vartayāmasi ← √vr̥t- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+r̥tīṣáham ← r̥tīṣáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tuvikūrmím ← tuvikūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sátpate ← sátpati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śáviṣṭha ← śáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +159,4 @@ Wie einen Wagen rollen wir zur Hülfe dich zum Schutz herbei, Der viel du wirkst
 
 -ru-
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ha ← ha (invariable)  
+{}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kúha ← kúha (invariable)  
+{}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yā́ntam ← √yā- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bhūṣati ← √bhūṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dyumántam ← dyumánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+prātaryā́vāṇam ← prātaryā́van- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vibhvàm ← vibhū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśé-viśe ← víś- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śámi ← śámī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+váhamānam ← √vah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vástor-vastoḥ ← vástu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Wo eilet euer Wagen hin? wer schirrt ihn euch, o Männer, ihn, den glänzenden, 
 Сверкающую, приезжающую рано утром, появляющуюся для каждого племени,  
 Выезжающую каждый день на заре?
 </details>
+

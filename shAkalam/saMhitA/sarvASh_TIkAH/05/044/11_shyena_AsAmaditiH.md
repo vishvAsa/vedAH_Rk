@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+kakṣyàḥ ← kakṣyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+māyínaḥ ← māyín- (nominal stem)  
+{case:GEN, number:SG}
+
+viśvávārasya ← viśvávāra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yajatásya ← yajatá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+anyám-anyam ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+arthayanti ← √arthay- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+étave ← √i- 1 (root)  
+{case:DAT, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+ánti ← ánti (invariable)  
+{}
+
+paripā́nam ← paripā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vidúḥ ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+viṣā́ṇam ← viṣā́ṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +230,4 @@ Ihr [der Milchströme Vers 9] Adler [der sie ergreift] ist der unerschöpfliche,
 Они сговариваются ходить друг к другу.  
 Они знают: распрягание (и) питье по кругу близко.
 </details>
+

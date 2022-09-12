@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+śocíḥ ← śocís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
+ājúhvānasya ← √hu- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+mīḷhúṣaḥ ← mīḍhváṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aruṣā́saḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhūmā́saḥ ← dhūmá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+divispŕ̥śaḥ ← divispŕ̥ś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indhate ← √idh- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +181,4 @@ Sein Licht stieg auf, des gnädigen, mit Opfertrank begossenen, Und seine rothen
 Под(нялись) алые столбы дыма, касаясь неба.  
 Мужи вместе зажигают Агни.
 </details>
+

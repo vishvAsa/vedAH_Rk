@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pūtádakṣān ← pūtádakṣa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rathyàḥ ← rathī́- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ádabdhān ← ádabdha- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pastyasádaḥ ← pastyasád- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+urucákṣasaḥ ← urucákṣas- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+maháḥ ← máh- (nominal stem)  
+{case:ACC, number:PL}
+
+name ← √nam- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yajatrāḥ ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Euch reingesinnte Lenker heil'gen Brauches, des heil'gen Brauches treue Hausgeno
 Этих мужей, далеко глядящих, поклонениями  
 Я всех вас могучих склоняю, о достойные жертв.
 </details>
+

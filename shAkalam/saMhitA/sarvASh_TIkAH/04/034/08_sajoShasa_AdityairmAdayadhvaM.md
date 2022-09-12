@@ -16,14 +16,51 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ādityaíḥ ← ādityá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mādayadhvam ← √mad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sajóṣasaḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+párvatebhiḥ ← párvata- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sajóṣasaḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+daívyena ← daívya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sajóṣasaḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+savitrā́ ← savitár- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ratnadhébhiḥ ← ratnadhá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sajóṣasaḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+síndhubhiḥ ← síndhu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +173,4 @@ Berauschet euch vereint mit den Aditja's, vereint, o Ribhu's, mit den hohen Berg
 Единодушные с божественным Савитаром,  
 Единодушные с реками, дающими сокровища!
 </details>
+

@@ -18,16 +18,83 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+dā́sathaḥ ← √dā- 1 (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sáhantā ← √sah- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dr̥ḷhā́ ← √dr̥h- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+samátsu ← samád- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+sāhiṣīmáhi ← √sah- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+vīḷú ← vīḷú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+vánā ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vā́te ← vā́ta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,3 +258,4 @@ O Indra-Agni gebet uns, ihr starken Sieger, Schätze bald, Durch die im Kampf be
 Подобно тому как Агни (сжигает) деревья на ветру.  
 Пусть лопнут все ничтожные другие!
 </details>
+

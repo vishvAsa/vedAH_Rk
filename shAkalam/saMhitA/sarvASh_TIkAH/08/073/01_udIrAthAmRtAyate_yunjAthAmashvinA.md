@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+īrāthām ← √r̥- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+r̥tāyaté ← √r̥tāy- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuñjā́thām ← √yuj- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ánti ← ánti (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhūtu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+sát ← √as- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Auf, eilet zu dem Frommen hin, den Wagen schirrt, o Ritter an, Es sei uns eure H
 Запрягайте, о Ашвины, колесницу!  
 Пусть ваша помощь будет рядом!
 </details>
+

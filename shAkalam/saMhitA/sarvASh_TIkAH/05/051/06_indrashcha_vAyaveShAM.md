@@ -15,14 +15,51 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+ca ← ca (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāyo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arhathaḥ ← √arh- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pītím ← pītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sutā́nām ← √su- (root)  
+{case:GEN, gender:M, number:PL, non-finite:PPP}
+
+arepásau ← arepás- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+juṣethām ← √juṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:MED}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+práyaḥ ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ Ihr, Indra, Vaju, habt ein Recht auf dieser Somasäfte Trunk; Geniesst, o Flecke
 Питья этих выжатых (соков).  
 Наслаждайтесь ими, о двое беспорочных, в (полное) удовольствие!
 </details>
+

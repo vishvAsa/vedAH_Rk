@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ukthébhiḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vr̥trahántamā ← vr̥trahántama- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mandānā́ ← √mand- (root)  
+{case:NOM, gender:M, number:DU, tense:AOR, voice:MED}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+āṅgūṣaíḥ ← āṅgūṣá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+āvívāsataḥ ← √vanⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +153,4 @@ Mit Sprüchen, die ihr Lieder liebt, die besten Feindetödter euch, Die des Gesa
 Очень наслаждаясь гимнами, хвалебной песнью,  
 Похвалами желающего заполучить )их к себе):
 </details>
+

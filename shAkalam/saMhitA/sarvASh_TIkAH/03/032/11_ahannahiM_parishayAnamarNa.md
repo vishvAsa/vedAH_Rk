@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhan ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+árṇaḥ ← árṇas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pariśáyānam ← √śī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ojāyámānam ← √ojāy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+távyān ← távyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tuvijāta ← tuvijātá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ádha ← ádha (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahitvám ← mahitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+anyáyā ← anyá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ávasthāḥ ← √vas- 2 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:MED}
+
+kṣā́m ← kṣám- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sphigyā̀ ← sphigī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Du schlugst die Schlange, die die Flut umringte die mächt'ge stärker du, o kra
 Не могло сравниться небо с твоим величием,  
 Когда одним бедром ты накрыл землю.
 </details>
+

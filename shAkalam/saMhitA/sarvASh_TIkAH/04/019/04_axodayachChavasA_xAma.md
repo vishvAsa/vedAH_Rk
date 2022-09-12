@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ákṣodayat ← √kṣud- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+budhnám ← budhná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kṣā́ma ← kṣā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+táviṣībhiḥ ← táviṣī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vā́r ← vā́r- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aubhnāt ← √ubh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dr̥ḷhā́ni ← √dr̥h- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uśámānaḥ ← √vaś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+abhinat ← √bhid- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+kakúbhaḥ ← kakúbh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+párvatānām ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +196,4 @@ Den Erdengrund erregte Indra kräftig, gleichwie der Wind mit Ungestüm das Wass
 Твердыни сдавил он, играя силой.  
 Он отсек вершины гор.
 </details>
+

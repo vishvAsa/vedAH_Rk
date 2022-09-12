@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+babhūtha ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ghanáḥ ← ghaná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+taviṣáḥ ← taviṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trā́ṇām ← vr̥trá- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+asr̥jaḥ ← √sr̥j- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+síndhūn ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tastabhānā́n ← √stambhⁱ- (root)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ajayaḥ ← √ji- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dāsápatnīḥ ← dāsápatnī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +194,7 @@ On √stambh with the waters as obj. see comm. ad II.11.5.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 These three vss. begin tváṃ ha tyád. As elsewhere with this configuration (2ND SG. PRN ha tyád), with a neut. tyád without a neut. referent, ha tyád seems to be strongly emphatic (see a similar sequence in I.63.4-7 and comm. ad loc. as well as ad VI.18.3). I would now be inclined to change the tr. of the three vss. here to “It was just you who …”
@@ -171,3 +223,4 @@ Da wurdest du Gebieter aller Menschen, der bösen Feinde mächtiger Zermalmer; D
 
 -ru-
 </details>
+

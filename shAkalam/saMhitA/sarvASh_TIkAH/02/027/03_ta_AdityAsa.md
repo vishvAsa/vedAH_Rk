@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ādityā́saḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gabhīrā́ḥ ← gabhīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+urávaḥ ← urú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádabdhāsaḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhūryakṣā́ḥ ← bhūryakṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dípsantaḥ ← √dabh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT, mood:DES}
+
+antár ← antár (invariable)  
+{}
+
+paśyanti ← √paś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sādhú ← sādhú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vr̥jinā́ ← vr̥jiná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ánti ← ánti (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+paramā́ ← paramá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+rā́jabhyaḥ ← rā́jan- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sárvam ← sárva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Der Aditi erhabne, weite Söhne vieläugig sie, verletzend, unverletzlich, Die b
 Не поддающиеся обману (и) стремящиеся обмануть, с множеством глаз видят кривое и прямое внутри.  
 Все, даже самые дальние (предметы) – вблизи от (этих) царей.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line  
 popular
+#### Morph
+budhyadhvam ← √budh- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sakhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sámanasaḥ ← sámanas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bahávaḥ ← bahú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+indhvam ← √idh- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+sánīḷāḥ ← sánīḷa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dadhikrā́m ← dadhikrā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devī́m ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+hvaye ← √hvā- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+índrāvataḥ ← índrāvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Erwachet nun, ihr gleichgesinnten Freunde, entflammt die Glut, ihr vielen Hausge
 Дадхикра, Агни и богиню Ушас,  
 Сопровождаемых Индрой, я зову на помощь.
 </details>
+

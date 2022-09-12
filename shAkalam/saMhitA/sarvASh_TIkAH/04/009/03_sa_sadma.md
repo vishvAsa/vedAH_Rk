@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+nīyate ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+pári ← pári (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sádma ← sádman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+díviṣṭiṣu ← díviṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mandráḥ ← mandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+pótā ← pótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sīdati ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +164,4 @@ Er wird um den Altar geführt als Priester hold beim Gottesdienst, Und setzt sic
 Веселого хотара, на жертвенных праздниках.  
 И вот он усаживается как потар.
 </details>
+

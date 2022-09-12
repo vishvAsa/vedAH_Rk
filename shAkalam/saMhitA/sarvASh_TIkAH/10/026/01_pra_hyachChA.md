@@ -16,14 +16,54 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+manīṣā́ḥ ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+niyútaḥ ← niyút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+spārhā́ḥ ← spārhá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yánti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dasrā́ ← dasrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+niyúdrathaḥ ← niyúdratha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+aviṣṭu ← √avⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+mā́hinaḥ ← mā́hina- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +173,4 @@ Es eilen den Gebeten ja die lieben Vielgespanne zu, Der starke mit dem Vielgespa
 Двое удивительных: (Ваю) с колесницей из даров-упряжек  
 (И) Пушан могучий, пусть (нам) помогут!
 </details>
+

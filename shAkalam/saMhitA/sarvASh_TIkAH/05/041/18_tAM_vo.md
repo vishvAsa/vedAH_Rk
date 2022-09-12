@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+ūrjáyantīm ← √ūrjay- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+aśyāma ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śásā ← śásā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mr̥ḷáyantī ← √mr̥ḍ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+sudā́nuḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+drávantī ← √dru- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+gamyāḥ ← √gam- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+práti ← práti (invariable)  
+{}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Lasst uns erlangen diese Huld, o Götter, den kräft'gen Trunk durch Gunst der K
 Пусть эта обладающая прекрасными дарами милостивая богиня  
 Бегом прибежит навстречу для (нашей) удачи!
 </details>
+

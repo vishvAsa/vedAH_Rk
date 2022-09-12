@@ -15,13 +15,44 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+áśvapate ← aśvapati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gópate ← gópati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+úrvarāpate ← urvarāpati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+piba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+somapate ← sómapati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +168,4 @@ Hier sind die Indu's, komme her, o Herr der Rosse, Rinder und der Felder Herr, D
 О господин коней, господин коров, господин лугов,  
 Пей сому, о господин сомы!
 </details>
+

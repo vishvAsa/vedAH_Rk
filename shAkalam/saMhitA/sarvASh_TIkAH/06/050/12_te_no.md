@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rudráḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sajóṣāḥ ← sajóṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+mīḷhúṣmantaḥ ← mīḷhúṣmant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mr̥ḷantu ← √mr̥ḍ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vāyúḥ ← vāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+daívyaḥ ← daívya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥bhukṣā́ḥ ← r̥bhukṣā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jaḥ ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidhātā́ ← vidhātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+parjányāvā́tā ← parjányāvā́ta- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pipyatām ← √pī- 1 (root)  
+{number:DU, person:3, mood:IMP, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ Sie mögen uns gnädig sein, Rudra mit Sarasvati vereinigt, die huldreichen Visc
 Пусть Рибхукшан, Ваджа, божественный распределитель (благ),  
 Парджанья и Вата сделают жертвенную усладу набухшей для нас!
 </details>
+

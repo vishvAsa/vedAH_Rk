@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áva ← áva (invariable)  
+{}
+
+drugdhā́ni ← √druh- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pítryā ← pítrya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sr̥ja ← √sr̥j- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+cakr̥má ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+tanū́bhiḥ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+paśutŕ̥pam ← paśutŕ̥p- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tāyúm ← tāyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dā́mnaḥ ← dā́man- 1 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sr̥já ← √sr̥j- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vásiṣṭham ← vásiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Lös' ab von uns das väterliche Unrecht, Nimm weg das Unrecht, das wir selbst v
 Отпусти, о царь, Васиштху, как (отпускают)  
 Вора, укравшего скот, как теленка – с веревки!
 </details>
+

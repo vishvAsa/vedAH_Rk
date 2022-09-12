@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pātám ← √pā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pāyúbhiḥ ← pāyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+rudrā ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sutrātrā́ ← sutrātrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+trāyethām ← √trā- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+utá ← utá (invariable)  
+{}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tanū́bhiḥ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+turyā́ma ← √tūr(v)- ~ tur- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +147,4 @@ Mit Schutz beschirmt uns, glänzende, schönrettende, errettet uns, Selbst möge
 А также спасите нас как добрые спасители!  
 Мы хотим одолеть дасью своими телами!
 </details>
+

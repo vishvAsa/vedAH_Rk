@@ -15,13 +15,41 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+voḷham ← √vah- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+piśáṅgasaṁdr̥śam ← piśáṅgasaṁdr̥ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhíṣṇyā ← dhíṣṇya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+varivovídam ← varivovíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +155,4 @@ So fahret uns denn Gut herbei, das gleich dem Gold, o Ritter, glänzt, Und Glüc
 Богатство, выглядящее как красное (золото),  
 Создающее простор, о вы, возбуждающие вдохновение!
 </details>
+

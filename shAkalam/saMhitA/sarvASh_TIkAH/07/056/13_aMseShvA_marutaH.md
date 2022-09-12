@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+áṁseṣu ← áṁsa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+khādáyaḥ ← khādí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+rukmā́ḥ ← rukmá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+upaśiśriyāṇā́ḥ ← √śri- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+vákṣassu ← vákṣas- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+rucānā́ḥ ← √ruc- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+vidyútaḥ ← vidyút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vr̥ṣṭíbhiḥ ← vr̥ṣṭí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+ā́yudhaiḥ ← ā́yudha- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+svadhā́m ← svadhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yáchamānāḥ ← √yam- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ An euren Schultern, Maruts, glänzen Spangen, mit Goldschmuck habt ihr eure Brus
 Ярко сверкая, словно молнии сквозь капли дождя,  
 Подчиняясь со (своим) оружием своей природе...
 </details>
+

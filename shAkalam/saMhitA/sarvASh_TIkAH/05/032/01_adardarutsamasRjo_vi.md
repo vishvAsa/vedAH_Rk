@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádardar ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ásr̥jaḥ ← √sr̥j- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+khā́ni ← khá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+útsam ← útsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+aramṇāḥ ← √ram- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+arṇavā́n ← arṇavá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+badbadhānā́n ← √bādhⁱ- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:MED}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahā́ntam ← mahā́nt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+párvatam ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vár ← √vr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+dānavám ← dānavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhā́rāḥ ← dhā́rā- 1 (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+han ← √han- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+sr̥jáḥ ← √sr̥j- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +238,4 @@ Den Born erbrachst du, machtest frei die Rinnen, du schafftest Ruh den eingezwä
 Когда, о Индра, ты раскрыл великую гору,  
 Ты выпустил течь потоки, ты уложил Данаву ударом.
 </details>
+

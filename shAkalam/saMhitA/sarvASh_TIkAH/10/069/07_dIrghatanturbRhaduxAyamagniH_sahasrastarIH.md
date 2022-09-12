@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+br̥hádukṣā ← br̥hádukṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dīrghátantuḥ ← dīrghátantu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥bhvā ← ŕ̥bhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásrastarīḥ ← sahásrastarī- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śatánīthaḥ ← śatánītha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyumā́n ← dyumánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyumátsu ← dyumánt- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+mr̥jyámānaḥ ← √mr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+devayátsu ← √devay- (UNK_TYPE)  
+{case:LOC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+dīdayaḥ ← √dī- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+sumitréṣu ← sumitrá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +194,4 @@ Der langen Faden webt, der hohe Stiere, und tausend Kühe hat und hundert Bahnen
 
 -ru-
 </details>
+

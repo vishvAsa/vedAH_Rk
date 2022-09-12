@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mā́nam ← mā́na- 2 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sadan ← √sad- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+ádrayaḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sómapr̥ṣṭhāsaḥ ← sómapr̥ṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bráhma ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+śáṁsyā ← śáṁsya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +168,4 @@ Den Sitz des Himmels gleichsam soll das somatragende Gestein Ersteigen, Spruch u
 Давильные камни, несущие сому на спине.  
 Сейчас должны произноситься гимны и священные слова.
 </details>
+

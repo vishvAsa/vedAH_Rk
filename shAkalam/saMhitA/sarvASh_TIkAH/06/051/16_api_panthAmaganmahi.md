@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)
+#### Morph
+aganmahi ← √gam- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:MED}
+
+ápi ← ápi (invariable)  
+{}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anehásam ← anehás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svastigā́m ← svastigā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dvíṣaḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vindáte ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vr̥ṇákti ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +175,4 @@ Wir haben den Pfad betreten, der zum Heile führt und sicher ist, auf dem man al
 На котором избегают всякой  
 Враждебности, находят добро.
 </details>
+

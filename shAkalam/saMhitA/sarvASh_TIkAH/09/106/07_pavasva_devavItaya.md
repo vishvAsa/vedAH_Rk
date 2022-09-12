@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+devávītaye ← devávīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+dhā́rābhiḥ ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+kaláśam ← kaláśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádhumān ← mádhumant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sadaḥ ← √sad- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,7 +141,7 @@ On imperatival sadaḥ, see comm. ad IX.2.2.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Because of the distribution of word boundaries, the first two vss. of this tṛca make a separate 4-syllable pāda impossible (7 … soma naḥ sadaḥ; 8 … amṛ̥́tāya kám papuḥ), though vs. 9 ends with the signature svarvídaḥ. Therefore this must be the 8 8 / 12 Uṣṇih variety. No striking thematic unity.
@@ -138,3 +172,4 @@ O Indu, riesle hell mit Kraft in Strömen hin zum Göttermahl, In unsern Becher,
 О сок сомы, (своими) потоками, (своею) силой!  
 Садись, о сома, полный меда, в наш кувшин!
 </details>
+

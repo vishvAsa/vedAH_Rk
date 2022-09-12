@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ārkṣé ← ārkṣá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+huvānáḥ ← √hū- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+madacyúti ← madacyút- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śrutárvaṇi ← śrutárvan- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+śárdhāṁsi ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+stukāvínām ← stukāvín- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+caturṇā́m ← catúr- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mr̥kṣā́ ← √mr̥j- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+śīrṣā́ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Ich, der anrufende, werde nun striegeln die Köpfe der vier von Çrutarvan, dem 
 
 -ru-
 </details>
+

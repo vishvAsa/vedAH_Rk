@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+evá ← evá (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+virapśī́ ← virapśín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anarvā́ ← anarván- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+carṣaṇīdhŕ̥t ← carṣaṇīdhŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kárat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+satyā́ ← satyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+janúṣām ← janúṣ- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+jaritré ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mā́hinam ← mā́hina- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Dies mach uns wahr der mächtige, gewalt'ge, der unnahbare Menschenschützer Ind
 Как царь существ надели ты нас  
 Великой славой, которая (пристала) певцу!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvaryo ← adhvaryú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gr̥ṇīhi ← √gr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+śáṁsāva ← √śaṁs- (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+júṣṭam ← júṣṭa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇavāva ← √kr̥- (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+vā́haḥ ← vā́has- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sīda ← √sad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yájamānasya ← √yaj- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+átha ← átha (invariable)  
+{}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śastám ← √śaṁs- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+ukthám ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Lasst beid' uns singen, Priester, sing mir Antwort, dem Indra lasst uns liebes L
 Сядь сюда на солому жертвователя –  
 И пусть будет исполнен гимн для Индры!
 </details>
+

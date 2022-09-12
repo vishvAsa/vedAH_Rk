@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+īḷitā́ ← √īḍ- ~ √īḷ- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+pátman ← pátman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vā́tasya ← vā́ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+daívyā ← daívya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+hótārā ← hótar- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +166,4 @@ Zu diesem Opfer kommet her im Windes Flug, gepriesene, Des Menschen Götterpries
 Мануса,  
 Призванные на эту нашу жертву!
 </details>
+

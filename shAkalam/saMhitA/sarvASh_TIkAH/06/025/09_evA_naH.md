@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+aja ← √aj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+evá ← evá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+samátsu ← samád- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ádevīḥ ← ádeva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mithatī́ḥ ← mithatí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rārandhí ← √randh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+gr̥ṇántaḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vástoḥ ← vástu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vidyā́ma ← √vid- 2 (root)  
+{number:PL, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+bharádvājāḥ ← bharádvāja- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ So treib in Schlachten unsern Feind zu Paaren, die bösen Gegner, Indra, unterwi
 Пусть дождемся мы рассвета с твоей помощью: певцы  
 И (люди из рода) Бхарадваджа – сейчас, о Индра!
 </details>
+

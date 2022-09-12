@@ -15,13 +15,50 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+aśvī́ ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nítyam ← nítya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+upayā́ti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+kṣáyam ← kṣáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prajā́vantam ← prajā́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svapatyám ← svapatyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śéṣasā ← śéṣas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+svájanmanā ← svájanman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vāvr̥dhānám ← √vr̥dh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Zu welchem eignen Opfer geht der Rossherr, der Sitz sei reich an Kindern uns, un
 (Дай) нам (такое) жилье, полное детей, богатое прекрасным потомством,  
 Усилившееся благодаря продолжению рода, (нами) самими созданному!
 </details>
+

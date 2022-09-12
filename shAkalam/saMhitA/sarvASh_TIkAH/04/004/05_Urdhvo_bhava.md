@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidhya ← √vyadh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+āvís ← āvís (invariable)  
+{}
+
+daívyāni ← daívya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kr̥ṇuṣva ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+áva ← áva (invariable)  
+{}
+
+sthirā́ ← sthirá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tanuhi ← √tan- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yātujū́nām ← yātujū́- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ájāmim ← ájāmi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jāmím ← jāmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mr̥ṇīhi ← √mr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,8 +205,6 @@ Rise up O agni, hit back against those who fight against us, putting forth your 
 Slacken the firm bows of the inciters of yAtus, destroy our foemen whether from our people or foreigners. 
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -217,3 +273,4 @@ Erheb dich, jage fort von uns die Feinde, mach kund, o Agni, deine Götterkräft
 Разряди тугие (луки) тех, кого вдохновляет колдовство!  
 Разбей врагов: родного, как неродного!
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+damāyán ← √damⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śr̥ṇvé ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ugrám-ugram ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyám-anyam ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+atinenīyámānaḥ ← √nī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+edhamānadvíṭ ← edhamānadvíṣ- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ubháyasya ← ubháya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+coṣkūyáte ← √sku- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manuṣyā̀n ← manuṣyà- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+víśaḥ ← víś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +166,7 @@ the other.
 In d víśaḥ … manuṣyā̀n do not match in gender. Oldenberg suggests that the latter might be gen. pl., and Geldner’s tr. as such: “die Stämme der Menschen.” I see no reason not to take it as the acc. pl. it appears to be, as a parallel obj. to víśaḥ, not a modifier.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/15-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/15-18.md">
 <details open><summary><h2>15-18 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, this section, which concerns Indra’s fickle attentions to various clients in turn, is marked grammatically by āmreḍitas and intensives (i.e., iterative/frequentatives), expressing the constantly shifting nature of the actions and their objects. See the published introduction. for the continuity of content I see in this section.
@@ -158,3 +198,4 @@ Man hört, der Held bezwinget jeden Starken und immer andre führt er an die Spi
 Ненавидя удачливого, царь обоих (родов),  
 Индра сгребает племена людей.
 </details>
+

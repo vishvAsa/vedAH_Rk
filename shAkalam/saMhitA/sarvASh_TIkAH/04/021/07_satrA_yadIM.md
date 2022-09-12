@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhārvarásya ← bhārvará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhárāya ← bhára- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+síṣakti ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+stuvaté ← √stu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śúṣmaḥ ← śúṣma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+auśijásya ← auśijá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+góhe ← góha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áyase ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+dhiyé ← dhī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,11 +199,11 @@ Another very opaque vs. The only thing we have to hold onto is structure: the X-
 
 As indicated in the published translation, I think vs. 7 depicts the bursting into flames of the ritual fire, whose difficult kindling was (possibly) treated in 6cd. This bursting into flames is expressed by śúṣmaḥ ‘explosive force’ in 7b. The gen. bhārvarásya vṛ́ṣṇaḥ ‘devouring bull’ refers to Agni, in this interpr.; the only two forms to the (pseudo-)root √bharv ‘devour’ have Agni as their subj. (I.143.5, VI.6.2). In the published
 
-tr. I also tentatively took Agni as the referent of īm, but I now think that the īm in pāda a refers to the praiser in b, while the īm in c refers to the Aṅgirases. (Remember that number is neutralized in īm.) The point is that the śúṣma- of the kindled fire accompanies each of these in order to allow the desired outcomes expressed in pāda b and d to occur -- the singer to receive his reward and the Aṅgirases to cause the cows to come out of the Vala cave. (I am tempted to tr. a version of “may the force be with you.”) So I would modify the tr. to “When … the force … accompanies him [=singer], for the singer to take his reward; when it accompanies them [=Aṅgirases] to the secret place [=Vala cave], … for (the cows) to go forth …” In d I take the three datives (prá) dhiyé (prá) áyase mádāya not as triply parallel, but make the first and last further complements to áyase ‘to go forth’. The two prá’s would in some sense structure these two parallel goal expressions: “to go ←forth to insight>, ←forth to exhilaration>.” Needless to say, it is impossible to be certain about this interpr., but at least it hangs together.
+tr. I also tentatively took Agni as the referent of īm, but I now think that the īm in pāda a refers to the praiser in b, while the īm in c refers to the Aṅgirases. (Remember that number is neutralized in īm.) The point is that the śúṣma- of the kindled fire accompanies each of these in order to allow the desired outcomes expressed in pāda b and d to occur -- the singer to receive his reward and the Aṅgirases to cause the cows to come out of the Vala cave. (I am tempted to tr. a version of “may the force be with you.”) So I would modify the tr. to “When … the force … accompanies him [=singer], for the singer to take his reward; when it accompanies them [=Aṅgirases] to the secret place [=Vala cave], … for (the cows) to go forth …” In d I take the three datives (prá) dhiyé (prá) áyase mádāya not as triply parallel, but make the first and last further complements to áyase ‘to go forth’. The two prá’s would in some sense structure these two parallel goal expressions: “to go ←forth to insight&gt;, ←forth to exhilaration&gt;.” Needless to say, it is impossible to be certain about this interpr., but at least it hangs together.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 As discussed in the published introduction, the next few vss. are very challenging; they have received multiple interpretations, which can’t be discussed in detail here.
@@ -176,3 +237,4 @@ Wenn nun der Drang des Stiers, der mächtig kauet, dem Sänger hilft, um alles z
 Когда он втайне, в укрытии потомка Ушиджа (поддерживает) его,  
 Когда для молитвы, для наслаждения, для опьянения (он) на (строен)...
 </details>
+

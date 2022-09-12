@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+urukṣáyāḥ ← urukṣáya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+havyavā́ham ← havyavā́h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īdhire ← √idh- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+jáne ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mā́nuṣe ← mā́nuṣa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yájiṣṭham ← yájiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +147,4 @@ Des Menschen besten Opfrer dich entflammten die weitherrschenden Als Opferfährm
 Зажгли тебя, отвозящего жертвы,  
 Жервующего лучше всех в роде человеческом.
 </details>
+

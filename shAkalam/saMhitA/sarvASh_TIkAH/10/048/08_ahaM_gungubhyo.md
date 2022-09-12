@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+atithigvám ← atithigvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+guṅgúbhyaḥ ← guṅgú- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+íṣkaram ← √kr̥- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+dhārayam ← √dhr̥- (root)  
+{number:SG, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vr̥tratúram ← vr̥tratúr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+karañjahé ← karañjahá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+parṇayaghné ← parṇayaghná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+áśuśravi ← √śru- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+mahé ← mahá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vr̥trahátye ← vr̥trahátya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Den Gungu's führte ich den Atithigva zu, bewahrt' den Sieger bei den Leuten wie
 Когда при убийстве Парнаии или же при убийстве Каранджи  
 И при великом убийстве Вритры я прославил себя.
 </details>
+

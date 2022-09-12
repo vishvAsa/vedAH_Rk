@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+róhitau ← róhita- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vājínau ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vājínīvān ← vājínīvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ádiṣṭa ← √diś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+sácamānau ← √sac- 1 (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:MED}
+
+śataíḥ ← śatá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+tribhíḥ ← trí- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+kṣitáyaḥ ← kṣití- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+namantām ← √nam- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+yū́ne ← yúvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+duvoyā́ ← duvoyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śrutárathāya ← śrutáratha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Dem rosserreichen, der zwei rothe Rosse, verbunden mit dreihundert Gaben schenkt
 Перед этим юным Шрутаратхой да склонятся  
 Почтительно народы, о Маруты!
 </details>
+

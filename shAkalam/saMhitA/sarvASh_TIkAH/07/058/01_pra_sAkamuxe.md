@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arcata ← √r̥c- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gaṇā́ya ← gaṇá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sākamúkṣe ← sākamúkṣ- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+daívyasya ← daívya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dhā́mnaḥ ← dhā́man- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+túviṣmān ← túviṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kṣodanti ← √kṣud- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+utá ← utá (invariable)  
+{}
+
+avaṁśā́t ← avaṁśá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+nā́kam ← nā́ka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nákṣante ← √nakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+nírr̥teḥ ← nírr̥ti- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Auf, singt den Scharen, die zugleich erstarkt sind, die mächtig walten in der G
 И сотрясают они оба мира (своим) величием.  
 Они достигают небосвода, (выходя) из небытия, из (пространства) без опорной балки.
 </details>
+

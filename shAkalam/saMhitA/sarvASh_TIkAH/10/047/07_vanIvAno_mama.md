@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+dūtā́saḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+vánīvānaḥ ← vánīvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iyānā́ḥ ← √yā- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+stómāḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sumatī́ḥ ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+hr̥dispŕ̥śaḥ ← hr̥dispŕ̥ś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vacyámānāḥ ← √vañc- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:PASS}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+citrám ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Verehrend gehn zu Indra meine Lieder, als Boten hin, und flehende Gebete, Zum He
 Касаясь сердца, кружась мыслью.  
 Нам даруй яркое, мощное богатство!
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+samádahaḥ ← √dah- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+vāpaya ← √vā- 2 (root)  
+{tense:PRS, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+kiyā́mbu ← kiyā́mbu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rohatu ← √ruh- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+pākadūrvā́ ← pākadūrvā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vyàlkaśā ← vyàlkaśā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +180,4 @@ Den du verbrannt, o Agni, hast, den fächle hold nun wieder an; Dort geh die Was
 Пусть вырастет здесь киямбу,  
 Пакадурва, вьялкаша!
 </details>
+

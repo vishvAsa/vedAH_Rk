@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+váreṇyam ← váreṇya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hūmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+vŕ̥ṣantamasya ← vŕ̥ṣantama- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+jajñiṣé ← √janⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+vŕ̥ṣajūtiḥ ← vŕ̥ṣajūti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ābhū́bhiḥ ← ābhū́- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+turváṇiḥ ← turváṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +176,4 @@ Die beste Hülf' erflehn wir uns, die dein ist, stiergewaltigster, Denn Stierkra
 Ведь ты рожден напористым, как бык,  
 Превосходящим (всех), о Индра, со (своими) помощниками.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+dr̥ḷhā́ ← √dr̥h- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+vánaspátīn ← vánaspáti- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+dárdharṣi ← √dhr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+kṣmayā́ ← kṣám- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+abhrásya ← abhrá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vidyútaḥ ← vidyút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+várṣanti ← √vr̥ṣ- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vr̥ṣṭáyaḥ ← vr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +196,4 @@ Die, starke, du die Bäume auch mit Kraft in deinem Schoosse hältst, Wenn deine
 Когда для тебя (сверкают) молнии из тучи,  
 (И) потоки дождя изливаются с неба.
 </details>
+

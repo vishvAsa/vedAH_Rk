@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́yudhāni ← ā́yudha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+harṣaya ← √hr̥ṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+māmakā́nām ← māmaká- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+mánāṁsi ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sátvanām ← sátvan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+vājínām ← vājín- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vā́jināni ← vā́jina- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ghóṣāḥ ← ghóṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jáyatām ← √ji- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ráthānām ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+yantu ← √i- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +197,4 @@ Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helde
 
 -ru-
 </details>
+

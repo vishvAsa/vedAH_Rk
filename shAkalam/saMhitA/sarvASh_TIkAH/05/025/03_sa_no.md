@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhītī́ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+váriṣṭhayā ← váriṣṭha- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+śréṣṭhayā ← śréṣṭha- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sumatyā́ ← sumatí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+didīhi ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vareṇya ← váreṇya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +178,4 @@ Drum strahl uns, Agni, Reichthum zu, durch unser treffliches Gebet Und unser bes
 О Агни, воссвети нам богатства –  
 (И) за прекрасные речи, о избранный!
 </details>
+

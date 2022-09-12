@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devayántaḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nimimyúḥ ← √mi- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yā́n ← yá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+svádhitiḥ ← svádhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tatákṣa ← √takṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+vánaspate ← vánaspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sváravaḥ ← sváru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tasthivā́ṁsaḥ ← √sthā- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+didhiṣantu ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
+prajā́vat ← prajā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Ihr die die frommen Männer aufgerichtet, du Waldesherr, den schön die Axt gezi
 Эти вставшие божественные столбы, –  
 Пусть захотят они создать нам сокровище, состоящее из потомства.
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yájāte ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+yájāti ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+pácāti ← √pac- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+sunávat ← √su- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+brahmā́ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cākanat ← √kanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ Wer opfert und wer recht verehrt, wer Soma braut, wer kocht und bäckt, Solch Be
 Выжимает (сому) и варит (жертву),  
 (Тот) брахман нравится Индре.
 </details>
+

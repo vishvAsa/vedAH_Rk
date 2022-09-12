@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajyeṣṭhā́ḥ ← ajyeṣṭhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ákaniṣṭhāsaḥ ← ákaniṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+udbhídaḥ ← udbhíd- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ámadhyamāsaḥ ← ámadhyama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+máhasā ← máhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vāvr̥dhuḥ ← √vr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+janúṣā ← janúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pŕ̥śnimātaraḥ ← pŕ̥śnimātar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sujātā́saḥ ← sujātá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ácha ← ácha (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jigātana ← √gā- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+máryāḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Die Sprudler, deren keiner jüngster, ältester, noch mittler ist, in Pracht und
 Благородные по рождению, сыновьями Пришни,  
 Юноши неба, приезжайте к нам!
 </details>
+

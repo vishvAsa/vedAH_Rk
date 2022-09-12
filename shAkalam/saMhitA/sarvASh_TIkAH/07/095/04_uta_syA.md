@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+juṣāṇā́ ← √juṣ- (root)  
+{case:NOM, gender:F, number:SG, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+syā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+śravat ← √śru- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+subhágā ← subhága- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yajñé ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+iyānā́ ← √yā- 2 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+mitájñubhiḥ ← mitájñu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+namasyaìḥ ← namasyà- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sákhibhyaḥ ← sákhi- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+úttarā ← úttara- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yujā́ ← yúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Es hör uns auch Sarasvati, die sel'ge, an diesem Opfer Wohlgefallen findend, Vo
 Когда ее просят почитающие (ее люди), твердо стоящие на коленях.  
 Именно благодаря союзу с богатством она выше (всех) друзей.
 </details>
+

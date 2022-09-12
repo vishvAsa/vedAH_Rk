@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+eté ← eṣá (pronoun)  
+{}
+
+miṣanti ← √miṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+tiṣṭhanti ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cáranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+spáśaḥ ← spáś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+āhanaḥ ← āhanás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+anyéna ← anyá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mát ← ahám (pronoun)  
+{case:ABL, number:SG}
+
+tū́yam ← tū́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+cakrā́ ← cakrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+ráthyā ← ráthya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vr̥ha ← √vr̥h- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +245,4 @@ Nie stehen diese still noch schlummern je sie, die hier umwandern als der Götte
 С ним катайся туда-сюда, как колеса колесницы!  
 Ями:
 </details>
+

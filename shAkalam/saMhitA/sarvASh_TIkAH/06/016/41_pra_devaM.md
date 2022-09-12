@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devávītaye ← devávīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+bhárata ← √bhr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vasuvíttamam ← vasuvíttama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+sīdatu ← √sad- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +164,4 @@ Ihn tragt, den Gott, zum Göttermahl, ihn, der am besten Gut verleiht, Im Schoos
 Бога, лучше всех находящего добро!  
 Да усядется он на своем лоне!
 </details>
+

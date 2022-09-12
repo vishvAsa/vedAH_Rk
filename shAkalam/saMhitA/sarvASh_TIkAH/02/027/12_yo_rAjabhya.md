@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dadā́śa ← √dāś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+rā́jabhyaḥ ← rā́jan- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+r̥taníbhyaḥ ← r̥taní- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+nítyāḥ ← nítya- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+puṣṭáyaḥ ← puṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vardháyanti ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+revā́n ← revánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+praśastáḥ ← √śaṁs- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vasudā́vā ← vasudā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Wer den gerechten Herrschern Ehr' erweiset, und wen ihr steter Segen reichlich l
 Тот едет богатым, первым на колеснице,  
 Он прославлен на жертвенных собраниях как раздающий богатство.
 </details>
+

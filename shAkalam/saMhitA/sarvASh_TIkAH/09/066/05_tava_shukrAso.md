@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+arcáyaḥ ← arcí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śukrā́saḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pr̥ṣṭhé ← pr̥ṣṭhá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tanvate ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+dhā́mabhiḥ ← dhā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,7 +136,7 @@ This vs. seems to unite Soma’s two theatres of operation, as laid out in vss. 
 Renou’s characterization in his n. - “Soma-soleil …; en fait, l’image rituelle se combine avec l’image solaire” - expresses this rather nicely, though it’s hard to get it from his tr. On the likening of the soma liquid on the filter to the sun, see IX.10.5 and comm. thereon.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 This tṛca does not show particular internal cohesion, but it has striking echoes of the preceding tṛca. Like vs. 1, vs. 4 begins pávasva; 4b begins abhí víśvāni like 1b, with a different acc. pl. following; 4c sákhā sákhibhya ūtáye is identical to 1c, save for the final word. Vs. 5 contains dhā́mabhiḥ echoing the two forms of dhā́man- in vss. 2-3. Only vs. 3 is free of links to the 1st tṛca.
@@ -134,3 +165,4 @@ Am Himmelsrücken breiten sich rings deine hellen Strahlen aus Zur Seihe, Soma, 
 
 -ru-
 </details>
+

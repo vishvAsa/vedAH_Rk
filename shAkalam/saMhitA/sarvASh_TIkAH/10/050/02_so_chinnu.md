@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+ináḥ ← iná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+náryaḥ ← nárya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sákhyā ← sákhi- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+stutáḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+u ← u (invariable)  
+{}
+
+carkŕ̥tyaḥ ← carkŕ̥tya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́vate ← mā́vant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+náre ← nár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dhūrṣú ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+satpate ← sátpati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vājakŕ̥tyeṣu ← vājakŕ̥tya- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+víśvāsu ← víśva- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+mandase ← √mand- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vr̥tré ← vr̥trá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +238,4 @@ Ja er fürwahr, der starke Herr, den nun der Freund gerühmt hat, Indra, ist zu 
 (Таща) за все дышла, когда речь идет о захвате добычи, о истинный повелитель,  
 О Вритре или о водах, ты радуешься, о герой.
 </details>
+

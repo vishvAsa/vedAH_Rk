@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+váruṇāya ← váruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ā́gaḥ ← ā́gas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+divé ← dyú- ~ div- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+garhase ← √gr̥h- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+mīḷhúṣe ← mīḍhváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mitrā́ya ← mitrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pr̥thivyaí ← pr̥thivī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+aryamṇé ← áryaman- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhágāya ← bhága- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+brávaḥ ← √brū- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +216,7 @@ The last pāda would be more accurately rendered “What to Aryaman, what to For
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
 <details open><summary><h2>05-08 ...{Loading}...</h2></summary>
 
 The list of gods to whom Agni will tattle on us follows a certain pattern.
@@ -193,3 +257,4 @@ Wie klagst du das dem Varuna, o Agni? warum dem Himmel? was ist unsre Sünde? Wa
 Как Митре щедрому, земле  
 Ты скажешь? Что Арьяману? Что Бхаге?
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+dívā ← dívā (invariable)  
+{}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+babhro ← babhrú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ū́dhani ← ū́dhar- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+ghr̥ṇā́ ← ghr̥ṇá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+parás ← parás (invariable)  
+{}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tápantam ← √tap- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+paptima ← √pat- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+śakunā́ḥ ← śakuná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +200,7 @@ in conjunction with each other. For Renou this means rejecting the existence of 
 The 2nd hemistich matches that of 19. In 19 the poet complains about his afflictions and then invites Soma to pass beyond the barriers. In this vs. the escape presumably effected by Soma in 19 provides the model for the one made by “us.” Just as Soma was to go “beyond the barriers” (paridhī́ṃr áti) so did we fly (paptima) “beyond the sun” (áti sū́ryam)—far beyond it (párah). The sun scorching with its heat, described in c, corresponds to the many things that got me down in 19c, and in both d pādas these troubles are overcome, passed beyond. Soma’s presumably successful journey beyond the barriers—barriers that are probably ritually related (see above)—makes it possible for us to overcome our own difficulties with triumphant flight.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/19-20.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/19-20.md">
 <details open><summary><h2>19-20 ...{Loading}...</h2></summary>
 
 This is the first and only place in the hymn in which the 1st person is found. The speaker’s eagerness for fellowship with Soma, who is addressed directly, and his admission of his troubles give an intimate and almost confessional tone. Both vss. have the 1st sg. prn. ahám, a form of sakhyá-, a form of dív- ‘day’, and the voc. to babhrú- ‘brown one’ and are tightly connected, also structurally (see disc. ad 20).
@@ -177,3 +232,4 @@ An deinem Euter, Soma, saug' ich Tag und Nacht, zur Freundschaft, flammendrother
 Над знойно палящим солнцем на ту сторону  
 Улетели мы, как птицы.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+agnaú ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+samidhāné ← √idh- 1 (root)  
+{case:LOC, gender:M, number:SG, tense:AOR, voice:MED}
+
+stīrṇé ← √str̥̄- (root)  
+{case:LOC, gender:N, number:SG, non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mahā́ ← máh- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sūkténa ← sūktá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vivāse ← √vanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+adyá ← adyá (invariable)  
+{}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yajatrāḥ ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+havíṣi ← havís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mādayadhvam ← √mad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+víśve ← víśva- (nominal stem)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +217,4 @@ Da Gras gestreut ist und entflammt das Feuer, so lad' ich euch mit hohem Lied in
 Сегодня на этой нашей жертвенной раздаче, о достойные жертв,  
 О Все-Боги. падуйтесь жертвенному возлиянию!
 </details>
+

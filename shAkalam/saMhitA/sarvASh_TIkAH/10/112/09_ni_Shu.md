@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gaṇapate ← gaṇápati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gaṇéṣu ← gaṇá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+sīda ← √sad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kavīnā́m ← kaví- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vípratamam ← vípratama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āré ← āré (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kriyate ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+ná ← ná (invariable)  
+{}
+
+r̥té ← r̥té (invariable)  
+{}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+arca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+citrám ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahā́m ← máh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +238,4 @@ Sitz nieder, Herr der Scharen, bei den Scharen; man nennt dich ja den weisesten 
 Ничего не делается без тебя и вдалеке (от тебя).  
 Запевай, о щедрый, великую яркую песню!
 </details>
+

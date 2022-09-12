@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+aṁśúḥ ← aṁśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásāvi ← √su- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+dákṣaḥ ← dákṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+giriṣṭhā́ḥ ← giriṣṭhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asadat ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,7 +139,7 @@ As in IX.61.18 I take dákṣa- adjectivally (so also Geldner, Renou); even more
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 Again no obvious signs of unity, beyond the progress through the preparation of soma. Note, however, that 4b and 5b both begin apsú and the opening of 6b, áśū(śubhan) echoes that opening phonologically.
@@ -135,3 +169,4 @@ Zum Rausche ist das Kraut gepresst, in Flut der starke Bergesfürst, Er setzt si
 
 -ru-
 </details>
+

@@ -17,15 +17,70 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śākínaḥ ← śākín- (nominal stem)  
+{case:NOM, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+daduḥ ← √dā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ékam-ekā ← éka- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śatā́ ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+śrutám ← √śru- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yamúnāyām ← yamúnā- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+gávyam ← gávya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mr̥je ← √mr̥j- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
+áśvyam ← áśvya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mr̥je ← √mr̥j- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Die je sieben und sieben Mächten gaben mir je einhundert Kühe. An der Yamuna b
 Почетный дар из коров,  
 Заберу я почетный дар из коней.
 </details>
+

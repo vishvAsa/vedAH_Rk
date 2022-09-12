@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292);; repeated line  
 popular;; epic anuṣṭubh (292);; repeated line
+#### Morph
+áṅgād-aṅgāt ← áṅga- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+lómno-lomnaḥ ← lóman- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+párvaṇi-parvaṇi ← párvan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ātmánaḥ ← ātmán- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sárvasmāt ← sárva- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yákṣmam ← yákṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vr̥hāmi ← √vr̥h- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +185,4 @@ Aus jedem Glied, aus jedem Haar, aus jedem Gelenke treibe ich die darin erzeugte
 Якшму – из всего тела  
 Ее я тут вырываю у тебя!
 </details>
+

@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+anarváṇaḥ ← anarváṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arámatiḥ ← arámati- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+víśvaḥ ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ādityā́nām ← ādityá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+aneháḥ ← anehás- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +155,4 @@ Aramati, Anarvana und jeder unvergleichliche Aditja mit der Götter Sinn.
 Каждый с божественным промыслом,  
 Непробиваемый (щит) Адитьев.
 </details>
+

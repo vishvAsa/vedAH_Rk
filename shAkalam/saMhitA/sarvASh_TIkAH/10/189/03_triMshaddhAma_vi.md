@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular
+#### Morph
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+rājati ← √rāj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+triṁśát ← triṁśát- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+dhīyate ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+pataṁgā́ya ← pataṁgá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vā́k ← vā́c- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+dyúbhiḥ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+vástoḥ ← vástu- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +167,4 @@ Der Wesenkenner fördere durch seinen Strahl, der götterwärts Die Tränke fäh
 Птица(-Солнце) наделяется речью  
 День за днем на рассвете.
 </details>
+

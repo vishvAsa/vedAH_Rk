@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+okivā́ṁsā ← okiváṁs- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sácā ← sácā (invariable)  
+{}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+ádane ← ádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áśvā ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+sáptī ← sápti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+agnī́ ← agní- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+índrā ← índra- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+nú ← nú (invariable)  
+{}
+
+vajríṇā ← vajrín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+devā́ ← devá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +196,4 @@ Die ihr am Soma euch erfreut, wie an der Speis' ein Rossepaar, Die Blitzer Indra
 Индру (и) Агни с (их) милостью, двоих громовержцев,  
 Богов сейчас мы здесь призываем.
 </details>
+

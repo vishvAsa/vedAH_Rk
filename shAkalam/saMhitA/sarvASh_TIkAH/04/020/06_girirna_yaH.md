@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+giríḥ ← girí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+r̥ṣváḥ ← r̥ṣvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svátavān ← svátavas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sáhase ← sáhas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sanā́t ← sanā́t (invariable)  
+{}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́dartā ← ā́dartar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhīmáḥ ← bhīmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+stháviram ← sthávira- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vrajám * ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kóśam ← kóśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nyr̥̀ṣṭam ← √r̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+udnā́ ← udán- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vásunā ← vásu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +238,4 @@ Urkräftig hoch gleich wie ein Felsen, Indra, gewaltig er, von je zur Kraft gebo
 Страшный проломитель (пещеры Вала), словно крепкого загона для скота,  
 Переполненного добром, как бадья водой...
 </details>
+

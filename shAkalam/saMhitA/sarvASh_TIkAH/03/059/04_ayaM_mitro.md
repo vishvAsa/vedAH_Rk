@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+namasyàḥ ← namasyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suśévaḥ ← suśéva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajaniṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sukṣatráḥ ← sukṣatrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vedhā́ḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sumataú ← sumatí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yajñíyasya ← yajñíya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+bhadré ← bhadrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+saumanasé ← saumanasá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Sehr lieb ist dieser Mitra, hoch zu ehren, als holder Fürst geboren, wohlregier
 Да будем мы в милости у него, достойного жертв,  
 И в добром его расположении!
 </details>
+

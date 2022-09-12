@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átra ← átra (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+kr̥té ← √kr̥- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+raṇanta ← √ranⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+anavadyā́saḥ ← anavadyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pāvakā́ḥ ← pāvaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+avata ← √avⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sumatíbhiḥ ← sumatí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yajatrāḥ ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+puṣyáse ← √puṣ- (root)  
+{case:DAT, number:SG}
+
+tirata ← √tr̥̄- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vā́jebhiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ An diesem Werk auch mögen sie sich freuen, die hellen, reinen, tadellosen Marut
 Помогите нам (вашими) добрыми помыслами, о достойные жертв!  
 Наградами продвиньте нас вперед к процветанию!
 </details>
+

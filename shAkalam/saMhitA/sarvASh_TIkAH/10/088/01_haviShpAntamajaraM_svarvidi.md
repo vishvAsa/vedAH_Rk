@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ajáram ← ajára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pā́ntam ← pā́nta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svarvídi ← svarvíd- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+agnaú ← agní- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ā́hutam ← √hu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+divispŕ̥śi ← divispŕ̥ś- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+júṣṭam ← júṣṭa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhármaṇe ← bhárman- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+bhúvanāya ← bhúvana- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhármaṇe ← dhárman- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+kám ← kám (invariable)  
+{}
+
+paprathanta ← √prathⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Ergossen ist der Opfertrank, der ew'ge, dem Agni lieb, dem lichten Himmelsstürm
 Благодаря его собственному побуждению распространились боги,  
 Чтобы нести вселенную (и) поддерживать (ее).
 </details>
+

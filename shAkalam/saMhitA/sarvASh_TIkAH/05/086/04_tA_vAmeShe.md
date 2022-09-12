@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+éṣe ← éṣa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ráthānām ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+indrāgnī́ ← indrāgní- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pátī ← páti- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+rā́dhasaḥ ← rā́dhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+turásya ← turá- 1 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+gírvaṇastamā ← gírvaṇastama- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vidvā́ṁsā ← √vid- 2 (root)  
+{case:ACC, gender:M, number:DU, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +170,4 @@ Drum rufen bei der Wagen Lauf euch beide, Indra, Agni, wir. Des reichen Schatzes
 О два господина мощного, почетного дара,  
 Два знатока, кому больше всех достается хвалебных песен.
 </details>
+

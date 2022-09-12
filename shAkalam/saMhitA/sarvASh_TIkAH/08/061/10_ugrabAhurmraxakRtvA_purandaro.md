@@ -16,14 +16,54 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+mrakṣakŕ̥tvā ← mrakṣakŕ̥tvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+puraṁdaráḥ ← puraṁdará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugrábāhuḥ ← ugrábāhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śr̥ṇávat ← √śru- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yádi ← yádi (invariable)  
+{}
+
+śatákratum ← śatákratu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásupatim ← vásupati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vasūyávaḥ ← vasūyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stómaiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +187,4 @@ Falls meinen Ruf der Armgewaltige vernimmt der Burgzerbrecher, der vertilgt, So 
 Жаждя имущества, повелителя имущества Индру  
 Стоумного мы зовем восхвалениями!
 </details>
+

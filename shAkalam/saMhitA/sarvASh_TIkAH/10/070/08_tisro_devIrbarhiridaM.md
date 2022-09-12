@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devīḥ ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tísraḥ ← trí- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+várīyaḥ ← várīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cakr̥má ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+sīdata ← √sad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+syonám ← syoná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+havī́ṁṣi ← havís- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+manuṣvát ← manuṣvát (invariable)  
+{}
+
+súdhitā ← súdhita- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ghr̥tápadī ← ghr̥tápad- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+íḷā ← íḷā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+juṣanta ← √juṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Ihr drei Göttinnen, setzet auf die Streu euch, die weit sich dehnt, wir machten
 Пусть радуются они – (среди них) Ида – богиня со следами, пропитанных жиром, –  
 Жертве, как у Мануса, (и) хорошо предложенным возлиянием!
 </details>
+

@@ -14,13 +14,38 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+ít ← ít (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pitubhŕ̥taḥ ← pitubhŕ̥t- (nominal stem)  
+{case:NOM, number:PL}
+
+tántum ← tántu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudā́navaḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dadhmaḥ ← √dhā- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+yájāmasi ← √yaj- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,3 +131,4 @@ Wie Nahrungbringer legten wir an Gaben reich den Faden an und opfern dir.
 Как приносящие питание, мы, изливающие дары,  
 Наладили нить (и) приносим жертвы.
 </details>
+

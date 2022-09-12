@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sáhantam ← √sah- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dyumnásya ← dyumná- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+prāsáhā ← prāsáh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+carṣaṇī́ḥ ← carṣaṇí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āsā́ ← ā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sāsáhat ← √sah- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +144,6 @@ genre M
 हे **अग्ने** **प्रासहा** प्रकृष्टेन बलेन **सहन्तं** शत्रूनभिभवन्तं **रयिं** पुत्रं **द्युम्नस्य** द्युम्नाय मह्यं ऋषये **आ** **भर** आहर ॥ चतुर्थ्यर्थे षष्ठी ॥ एतदेव विवृणोति । **यः** पुत्रः **आसा** आस्येन स्तोत्रेण युक्तः सन् **वाजेषु** युद्धेषु **अभि** आभिमुख्येन गतान् **विश्वाः** सर्वान् **चर्षणीः** मनुष्यान् शत्रून् **सासहत्** अभिभवति ॥
 </details>
 
-
 <details><summary>भट्टभास्करटीका</summary>
 
 हे अग्ने सहन्तमभिभवन्तं पराभिभवक्षमं पर्याप्तमित्यर्थः । ईदृशं रयिं धनमाभर आहर । 'हृग्रहोर्भश्छन्दसि' इति । द्युम्नस्य यशस्विनः पुरुषस्यास्मदमित्रभूतस्य प्रासहा प्रहसनेन तादृशमस्मदमित्रमभिभूय तदीयं रयिमस्मभ्यमाभर आहर । षह मर्षणे चौरादिकः उदात्तेत् आधृषीयः, तस्माद्भावे क्विप्, 'नहिवृतिवृषिव्यधिरुचिसहितनिषु क्वौ' इत्युपसर्गस्य दीर्घत्वम् । यो भवान् विश्वाश्चर्षणीः मनुष्यसेनाः अस्मद्विपक्षभूताः वाजेष्वन्नेषु निमित्तभूतेषु । उपलक्षणं चैतत् । अस्माकमन्नादिकं साधयितुं अभिसासहत् अभिभवतु ।   
@@ -144,7 +186,6 @@ That is above [6] all men
 And openly prevaileth in contests for booty.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Agni! Bring Reichtum ein, der durch die Übermacht seines Glanzes überwältigend ist, der über alle Völker durch den Mund des Sängers in den Kämpfen das Übergewicht haben soll.
@@ -162,3 +203,4 @@ Bring Agni Reichthum, welcher siegt durch Uebermacht gewalt'ger Kraft, Der alle 
 Которое в состязаниях за награду должно завладеть  
 Всеми народами с помощью (твоей) пасти!
 </details>
+

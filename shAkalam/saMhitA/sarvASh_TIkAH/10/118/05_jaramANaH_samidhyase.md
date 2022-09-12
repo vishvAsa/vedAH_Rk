@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+idhyase ← √idh- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+járamāṇaḥ ← √gr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+havyavāhana ← havyavā́hana- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+havanta ← √hū- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+mártyāḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +145,4 @@ Entzündet wirst du rauschender den Göttern, Opferfahrender! Drum rufen dich di
 О отвозящий жертвы богам.  
 Тебя такого призывают смертные.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jaṭháreṣu ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+jinvate ← √ji- 2 ~ jinv- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+prajajñivā́n ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+citréṣu ← citrá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nā́nadat ← √nad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+siṁháḥ ← siṁhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thupā́jāḥ ← pr̥thupā́jas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaiśvānaráḥ ← vaiśvānará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dáyamānaḥ ← √dā- 3 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+rátnā ← rátna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Er regt sich in den Leibern Wegs bewusst, in den verschiednen brüllet löwengle
 Вайшванара, с широкой грудью, бессмертный,  
 Раздающий блага, сокровища (своему) почитателю.
 </details>
+

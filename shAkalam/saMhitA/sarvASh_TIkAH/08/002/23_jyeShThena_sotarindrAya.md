@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jyéṣṭhena ← jyéṣṭha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sotar ← sotár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śakrā́ya ← śakrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīrā́ya ← vīrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhára ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+náryāya ← nárya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+píbat ← √pā- 2 (root)  
+{number:SG, person:3, mood:INJ, tense:IPRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Bring im grössten Fass, o Presser, Soma dar dem starken Helden, Indra trinke Ma
 Могучего героя, принеси сом'у,  
 Чтобы он пил для мужества!
 </details>
+

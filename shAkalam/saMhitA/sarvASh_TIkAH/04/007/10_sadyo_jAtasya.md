@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dádr̥śānam ← √dr̥ś- (root)  
+{case:NOM, gender:N, number:SG, tense:PRF, voice:MED}
+
+jātásya ← √janⁱ- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sadyás ← sadyás (invariable)  
+{}
+
+anuvā́ti ← √vā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+śocíḥ ← śocís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ataséṣu ← atasá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+jihvā́m ← jihvā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tigmā́m ← tigmá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vr̥ṇákti ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ánnā ← ánna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+dayate ← √di- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+jámbhaiḥ ← jámbha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sthirā́ ← sthirá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Im kaum gebornen zeiget sich die Kraft schon, wenn seinem Licht der Windhauch bl
 Он закручивает в кустах (свой) острый язык.  
 Даже твердую пищу он разгрызает (своими) зубами.
 </details>
+

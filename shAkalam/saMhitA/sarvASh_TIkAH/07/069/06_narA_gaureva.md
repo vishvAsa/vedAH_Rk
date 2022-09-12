@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+gaurā́ ← gaurá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+nárā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tr̥ṣāṇā́ ← √tr̥ṣ- (root)  
+{case:NOM, gender:M, number:DU, tense:AOR, voice:MED}
+
+vidyútam ← vidyút- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+sávanā ← sávana- 1 (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+hávante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+hí ← hí (invariable)  
+{}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+anyé ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devayántaḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yaman ← √yam- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +228,4 @@ Wie Büffel lechzend nach dem Wasserspiegel, o Männer kommt zu unsern Tränken 
 Ведь во многих местах призывают вас двоих молитвами.  
 Да не удержат вас другие почитатели богов!
 </details>
+

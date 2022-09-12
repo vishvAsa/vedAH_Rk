@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sukrátum ← sukrátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+māyínam ← māyín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váruṇam ← váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aryamáṇam ← áryaman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mandrám ← mandrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sr̥prábhojasam ← sr̥prábhojas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ādíśe ← ādíś- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+stuṣe ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+víṣṇum ← víṣṇu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +191,7 @@ In that vs. I take the lexeme as meaning ‘designate (X as Y=epithet)’, and I
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
 <details open><summary><h2>14-19 ...{Loading}...</h2></summary>
 
 On these Pūṣan vss., see published introduction.
@@ -174,3 +223,4 @@ Den euren, der wie Indra wirkt, wie Varuna voll Weisheit ist, Wie Arjaman erfreu
 Как Арьяман, отрадного, дающего длительное удовлетворение,  
 Как Вишну, я восхваляю, чтобы привлечь внимание,
 </details>
+

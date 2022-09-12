@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váhniḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paśyati ← √paś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+saptá ← saptá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vā́vahiḥ ← vā́vahi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+atarpayat ← √tr̥p- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kríviḥ ← krívi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -99,7 +127,7 @@ On the always ghastly krívi- see comm. ad I.30.1 and V.44.4. Esp. in the latter
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/009/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/009/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, I consider this an omphalos hymn, with vss. 4 and 6 with their repetition of “7” defining vs. 5 as the omphalos. The omphalos effect is muted however, since the “message” of vs. 5 is hardly a deep mystery. For further on this sequence of vss., see published introduction.
@@ -130,3 +158,4 @@ Der Gott, der fährt, der stürmend fährt, beschaut die sieben Göttinnen, Der 
 Рассматривает семь (молитв).  
 Криви насытил богинь.
 </details>
+

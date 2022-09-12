@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+gúhyam ← gúhya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+puruspŕ̥k ← puruspŕ̥h- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhávyam ← bhávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhūtám ← √bhū- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+janáyaḥ ← √janⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pratnám ← pratná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aviśanta ← √viś- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+páñca ← páñca- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+priyā́ḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +241,4 @@ Gross, viel erwünscht ist dies verborgne Dasein, wodurch du schufst, was ist un
 С древним созданным (им) светилом, которое дорого ему,  
 Соединились пять дорогих (ему народов).
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+caná ← caná (invariable)  
+{}
+
+śasyámānam ← √śaṁs- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:PASS}
+
+ukthám ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ágoḥ ← águ- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aríḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ciketa ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+gāyatrám ← gāyatrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gīyámānam ← √gā(y)- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:PASS}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +153,4 @@ Das gesprochne Wort beachtet Indra nicht, des Opferlosen, Noch das Lied, das er 
 Ни произносимый гимн,  
 Ни исполняемую песню.
 </details>
+

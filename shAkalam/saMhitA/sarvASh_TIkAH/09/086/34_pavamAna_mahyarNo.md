@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árṇaḥ ← árṇas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhāvasi ← √dhāv- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pávamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+ávyayāni ← ávyaya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+citráḥ ← citrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pávyayā ← pávyaya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gábhastipūtaḥ ← gábhastipūta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+dhanvasi ← √dhanv- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dhányāya ← dhánya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vā́jāya ← vā́ja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +193,7 @@ The published translation does not make sufficiently clear (or clear at all) tha
 The expression in c gábhasti-pūto nṛ́bhiḥ is somewhat curious, since it essentially provides two agents, or agent-like elements, for the pūtá- ppl.: the 1st cmpd member gábhasti- and the indep. instr. nṛ́bhiḥ. (Of course, the men are the agents whose hands are the instruments.) Without the ‘hand’ (gábhasti-) we would expect *nṛ̥́-pūta-, like nṛ́-dhūta- (1x), nṛ́-ṣūta- (1x)(which, oddly enough, both rhyme with our putative form). Renou has a slightly different interpr., but it has the same configuration. His “pressé par les seigneurs à l’aide des pierres” construes nṛ́bhiḥ with what follows, the instr. ádribhiḥ and the ppl. sutáḥ, with the two instr. filling the agent and instrument slots respectively. Since nṛ́bhiḥ is stationed exactly in between the two instrument+ppl. expressions, there’s no way to tell - though it seems to me somewhat more elegant for nṛ́bhiḥ to double a cmpd. member rather than morphologically doubling another instrument. Note that ádri-ṣuta- is also attested (2x) and that the same ádribhiḥ sutáḥ as here is found in this hymn in 23a..
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/34-36.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/34-36.md">
 <details open><summary><h2>34-36 ...{Loading}...</h2></summary>
 
 Nothing much in the way of internal unity or external connection, beyond the obvious soma themes.
@@ -167,3 +222,4 @@ Im Flammenstrom durchrieselst du das grosse Meer, wie Sonnenglanz im hellen Stro
 
 -ru-
 </details>
+

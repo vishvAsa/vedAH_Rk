@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ābhíḥ ← ayám (pronoun)  
+{case:INS, gender:F, number:PL}
+
+abhíṣṭibhiḥ ← abhíṣṭi- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+śárman ← śárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śatakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sugopā́ḥ ← sugopā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syā́ma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+sugopā́ḥ ← sugopā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śū́ra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+syā́ma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +191,4 @@ Durch diese deine Hülfen nun, vielwirkender, in deinem Schutz Sei'n wohlbehüte
 О Индра, под твоим щитом, хорошо защищенными,  
 О герой, хотим быть хорошо защищенными!
 </details>
+

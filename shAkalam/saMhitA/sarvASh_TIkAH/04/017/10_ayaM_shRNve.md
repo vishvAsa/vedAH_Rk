@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ghnán ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jáyan ← √ji- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śr̥ṇve ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+utá ← utá (invariable)  
+{}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+yudhā́ ← yúdh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇuté ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+manyúm ← manyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+satyám ← satyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+asmāt ← ayám (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+bhayate ← √bhī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+dr̥ḷhám ← √dr̥h- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+éjat ← √ej- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +239,7 @@ In pāda b the lexeme prá kṛṇute with its middle voice in my opinion encode
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/09-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
 This sequence of vss. is marked by initial ayám ‘this one here’ (9a, 9c, 10a, 10b; cf. also asyá 9d). This near-deictic pronoun may indicate that Indra is currently present at the sacrifice. These vss. are also marked by present tense verbs describing Indra’s characteristic and habitual activities -- in contrast to vs. 11, which opens with an imperfect (sám … ajayat).
@@ -204,3 +271,4 @@ Er wird gerühmt als der, der siegt und tödtet, er ist's, der sich durch Kampf 
 Когда Индра предается (своему) неистовству,  
 Все твердое (и) подвижное страшится его.
 </details>
+

@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+aṣṭhīvádbhyām ← aṣṭhīvánt- (nominal stem)  
+{case:ABL, gender:M, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ūrúbhyām ← ūrú- (nominal stem)  
+{case:ABL, gender:M, number:DU}
+
+pā́rṣṇibhyām ← pā́rṣṇi- (nominal stem)  
+{case:ABL, gender:F, number:DU}
+
+prápadābhyām ← prápada- (nominal stem)  
+{case:ABL, gender:N, number:DU}
+
+bhā́sadāt ← bhā́sada- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śróṇibhyām ← śróṇi- (nominal stem)  
+{case:ABL, gender:F, number:DU}
+
+yákṣmam ← yákṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bháṁsasaḥ ← bháṁsas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vr̥hāmi ← √vr̥h- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +160,4 @@ Aus deinen Schenkeln, den Kniescheiben, den Fersen, den Fussspitzen, aus den Hü
 Якшму из бедер, из зада,  
 Из промежности я вырываю у тебя!
 </details>
+

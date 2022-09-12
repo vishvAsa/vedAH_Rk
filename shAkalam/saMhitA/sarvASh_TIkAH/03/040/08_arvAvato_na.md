@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+arvāvátaḥ ← arvāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+imā́ḥ ← ayám (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,7 +139,7 @@ Enjoy these songs of ours.
 This is the only vs. in the hymn without a form of índra- (7 of the 8 of those forms being vocatives, the lone exception índram in 7b). Here voc. vṛtrahan is substituted.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/040/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/040/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 On the “magic square” of these vss., see published introduction. Vs. 9 actually seems to be covering the logical possibility that Indra might not be either far or near but somewhere in between, and in that case the exhortation in vs. 8 to come from nearby or far away might not work.</details>
@@ -134,3 +168,4 @@ Komm aus der Nähe her zu uns und aus der Ferne, Vritrafeind; Nimm diese unsre L
 И издалека, о убийца Вритры!  
 Наслаждайся этими нашими хвалебными песнями!
 </details>
+

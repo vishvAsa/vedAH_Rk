@@ -16,14 +16,54 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+aráṇyoḥ ← aráṇi- ~ aráṇī- (nominal stem)  
+{case:LOC, gender:F, number:DU}
+
+jātávedāḥ ← jātávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+níhitaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+gárbhaḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+garbhíṇīṣu ← garbhín- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+súdhitaḥ ← súdhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ī́ḍyaḥ ← ī́ḍya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jāgr̥vádbhiḥ ← √gr̥- (root)  
+{case:INS, gender:M, number:PL, tense:PRF, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havíṣmadbhiḥ ← havíṣmant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+manuṣyèbhiḥ ← manuṣyà- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +183,4 @@ In die zwei Reibhölzer ist der Wesenkenner niedergesetzt, wie die schön gesetz
 День за днем должны призывать Агни  
 Рано встающие люди, имеющие жертвенные возлияния.
 </details>
+

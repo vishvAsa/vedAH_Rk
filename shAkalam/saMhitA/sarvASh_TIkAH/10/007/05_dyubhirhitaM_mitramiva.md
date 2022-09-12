@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyúbhiḥ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hitám ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prayógam ← prayóga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adhvarásya ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jārám ← jārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pratnám ← pratná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tvíjam ← r̥tvíj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ajananta ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bāhúbhyām ← bāhú- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+asādayanta ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Die Menschen zeugten täglich mit den Armen als holden Freund den Agni, der zum 
 Агни породили Аю двумя руками.  
 Они усадили его хотаром среди племен.
 </details>
+

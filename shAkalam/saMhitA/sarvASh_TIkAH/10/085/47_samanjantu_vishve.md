@@ -16,14 +16,66 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+añjantu ← √añj- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hŕ̥dayāni ← hŕ̥daya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+nau ← ahám (pronoun)  
+{case:ACC, number:DU}
+
+sám ← sám (invariable)  
+{}
+
+dhātā́ ← dhātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mātaríśvā ← mātaríśvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+dadhātu ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+déṣṭrī ← déṣṭrī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nau ← ahám (pronoun)  
+{case:ACC, number:DU}
+
+sám ← sám (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Alle Götter und die Gewässer sollen unser beider Herzen verschmelzen. Matarisv
 Матаришван, Создатель  
 И Указующая пусть соединит нас двоих!
 </details>
+

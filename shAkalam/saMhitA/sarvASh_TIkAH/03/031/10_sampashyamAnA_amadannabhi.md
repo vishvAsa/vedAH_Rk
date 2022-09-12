@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+amadan ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sampáśyamānāḥ ← √paś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+svám ← svá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+dúghānāḥ ← √duh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pratnásya ← pratná- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rétasaḥ ← rétas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+atapat ← √tap- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+ghóṣaḥ ← ghóṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ví ← ví (invariable)  
+{}
+
+ádadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+jāté ← √janⁱ- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+niṣṭhā́m ← niṣṭhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vīrā́n ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Sie freuten sich, da sie ihren Besitz [an Kühen] sahen, indem sie die Milch des
 Их рев раскалил обе половины вселенной,  
 (Когда) они распределились среди молодняка, (распределили) мужей среди коров.
 </details>
+

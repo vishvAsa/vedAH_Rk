@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tuṣṭuvúḥ ← √stu- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tuṣṭuvúḥ ← √stu- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+súṣṭutaḥ ← súṣṭuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vardhasva ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +153,7 @@ Pāda c contains an ellipsis: we expect an instr. here, as in VIII.1.18 ayā́ v
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 This tṛca is characterized by emphatic pronominals: initial ahám 10a, 10c, 11a; tvā́m 12a; máma 12c.
@@ -144,3 +184,4 @@ Wenn andre Sänger dich gelobt, und andre, Indra, nicht gelobt, So labe dich an 
 И какие риши (тебя) восхваляли...  
 Только от моей (песни) расти, прекрасно восхваленный!
 </details>
+

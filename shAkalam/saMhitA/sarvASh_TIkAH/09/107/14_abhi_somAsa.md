@@ -16,14 +16,51 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádam ← máda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádyam ← mádya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pávante ← √pū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ádhi ← ádhi (invariable)  
+{}
+
+manīṣíṇaḥ ← manīṣín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+samudrásya ← samudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+viṣṭápi ← viṣṭáp- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+matsarā́saḥ ← matsará- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svarvídaḥ ← svarvíd- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

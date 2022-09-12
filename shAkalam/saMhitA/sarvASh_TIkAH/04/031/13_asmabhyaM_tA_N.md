@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+vr̥dhi ← √vr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ástā ← ástar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gómataḥ ← gómant- (nominal stem)  
+{case:ACC, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+vrajā́n ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+návābhiḥ ← náva- 2 (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Uns schliesse einem Schützen gleich die rinderreichen Ställe auf Durch neue H�
 Те загоны, полные скота,  
 С помощью новых поддержек, о Индра!
 </details>
+

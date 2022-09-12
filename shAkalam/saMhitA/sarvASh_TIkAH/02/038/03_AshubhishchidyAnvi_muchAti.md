@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āśúbhiḥ ← āśú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+mucāti ← √muc- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+nūnám ← nūnám (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+yā́n ← √yā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+árīramat ← √ram- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+átamānam ← √at- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:MED}
+
+cit ← cit (invariable)  
+{}
+
+étoḥ ← √i- 1 (root)  
+{case:ABL, number:SG}
+
+ahyárṣūṇām ← ahyárṣu- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+aviṣyā́m ← aviṣyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ayān ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+mókī ← mókī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +233,4 @@ Mit Hengsten fahrend, löst er nun sie wieder, den Wandrer liess er ruhn von sei
 Даже прожорливость (птиц,) пронзающих змей, он подавил.  
 Ночь пришла по завету Савитара.
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asakṣata ← √sac- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+dānā́ḥ ← dāná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+suvī́ryā ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vŕ̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ántamaḥ ← ántama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svit ← svit (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ukthé ← ukthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +171,4 @@ Wem folgen deine Gaben nach? wem, Vritratödter, Heldenkraft? Wer ist der liebst
 О убийца Вритры, кому прекрасные подвиги?  
 И кто самый близкий тебе при (исполнении) гимна?
 </details>
+

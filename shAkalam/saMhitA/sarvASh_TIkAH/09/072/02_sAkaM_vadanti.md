@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bahávaḥ ← bahú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+manīṣíṇaḥ ← manīṣín- (nominal stem)  
+{case:NOM, number:PL}
+
+sākám ← sākám (invariable)  
+{}
+
+vadanti ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+āduhúḥ ← √duh- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jaṭháre ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mr̥jánti ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+súgabhastayaḥ ← súgabhasti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yádi ← yádi (invariable)  
+{}
+
+daśábhiḥ ← dáśa- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+kā́myam ← kā́mya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sánīḷābhiḥ ← sánīḷa- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +216,4 @@ Zugleich erheben viele Weise den Gesang, wenn sie den Soma melken in des Indra B
 Когда мужи с ловкими руками начищают  
 Желанный мед десятью родственными (пальцами).
 </details>
+

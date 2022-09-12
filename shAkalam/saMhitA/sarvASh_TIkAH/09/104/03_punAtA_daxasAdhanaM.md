@@ -15,13 +15,41 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dakṣasā́dhanam ← dakṣasā́dhana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+punā́ta ← √pū- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śárdhāya ← śárdha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vītáye ← vītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+mitrā́ya ← mitrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śáṁtamaḥ ← śáṁtama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇāya ← váruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Den Kraftvermehrer machet hell zum Mahle für die Marutschar, Zu grossem Heil f�
 Чтобы (он был) самым благожелательным при приглашении  
 Толпы (Марутов), чтобы (при приглашении) Митры, Варуны!
 </details>
+

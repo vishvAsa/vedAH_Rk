@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árcān ← √r̥c- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+dhā́māni ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+pūrvyā́ṇi ← pūrvyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ámūrāḥ ← ámūra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uchā́n ← √vas- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+viyotā́raḥ ← viyotár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ájasrāḥ ← ájasra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+vidhātā́raḥ ← vidhātár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dasmā́ḥ ← dasmá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tádhītayaḥ ← r̥tádhīti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rurucanta ← √ruc- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Sie, welche stets die alten Bräuche ehren, so oft die weisen Nachtverscheucher 
 Эти основатели основали непреходящие (ценности).  
 Они сверкали, удивительные, с силой видения, приверженной закону.
 </details>
+

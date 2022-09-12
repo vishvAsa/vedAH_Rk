@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dadhāmi ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+manyáve ← manyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prathamā́ya ← prathamá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śrát ← śrád ( √dhā-, √kr̥-) (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+áhan ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+náryam ← nárya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vivéḥ ← √viṣ- 2 (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+bhávataḥ ← √bhū- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+réjate ← √rej- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+śúṣmāt ← śúṣma- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +244,4 @@ Auf deinen ersten Eifer setz' ich mein Vertraun, als du den starken Vritra schlu
 Когда тебе уступают обе половины вселенной,  
 Сама земля сотрясается от буйства (твоего), о хозяин давильных камней.
 </details>
+

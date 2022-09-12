@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aruṇám ← aruṇá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+hinvire ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+jényam ← jénya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tisr̥̄ṇā́m ← trí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+amŕ̥tāḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhā́māni ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mártyānām ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+ádabdhāḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cakṣate ← √cakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +209,4 @@ Sie sandten glänzend edles Gut, ihn, dreier Mütter einz'gen Sohn, Es schauen d
 Эти бессмертные, лишенные обмана,  
 Взирают на поступки смертных.
 </details>
+

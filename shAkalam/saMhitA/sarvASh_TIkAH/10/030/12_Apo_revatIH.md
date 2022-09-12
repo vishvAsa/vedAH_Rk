@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́paḥ ← áp- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+kṣáyatha ← √kṣā- 2 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+revatīḥ ← revánt- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bibhr̥thá ← √bhr̥- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+pátnīḥ ← pátnī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{}
+
+sthá ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+svapatyásya ← svapatyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhāt ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +239,4 @@ Ihr reichen Wasser habt ja Gut zu eigen, Unsterblichkeit und frische Kraft verle
 Так как вы повелительницы богатства и хорошего потомства,  
 Пусть Сарасвати даст воспевателю жизненную силу!
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+súgmyam ← súgmya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+súgmyāya ← súgmya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+prātár ← prātár (invariable)  
+{}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sakṣáṇī ← sakṣáṇi- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vā ← vā (invariable)  
+{}
+
+huvé ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sóbharī ← sóbharī- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Zum Glück den glücklich fahrenden, den Wagen und die Ritter ruf' ich, Sobhari,
 Рано утром я, Собхари, призываю, как отец (сына),  
 Ашвинов вместе с (их) колесницей.
 </details>
+

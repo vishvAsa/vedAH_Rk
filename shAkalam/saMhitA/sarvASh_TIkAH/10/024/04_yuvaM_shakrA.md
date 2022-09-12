@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+māyāvínā ← māyāvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śakrā ← śakrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+amanthatam ← √manthⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+samīcī́ ← samyáñc- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+īḷitā́ ← √īḍ- ~ √īḷ- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+vimadéna ← vimadá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+nirámanthatam ← √manthⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +159,4 @@ Ihr beiden starken Zauberer, die Welten brachtet ihr hervor, Als ihr von Vimada 
 Когда вас призвал Вимада,  
 Вы, о Насатьи, добыли трением.
 </details>
+

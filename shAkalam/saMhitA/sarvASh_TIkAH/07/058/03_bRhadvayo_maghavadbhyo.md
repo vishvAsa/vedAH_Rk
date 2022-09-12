@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhāta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+maghávadbhyaḥ ← maghávan- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+jújoṣan ← √juṣ- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ádhvā ← ádhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gatáḥ ← √gam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+jantúm ← jantú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tirāti ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+spārhā́bhiḥ ← spārhá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tireta ← √tr̥̄- 1 (root)  
+{number:PL, person:2, mood:OPT, tense:PRS, voice:ACT}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +243,4 @@ Verleihet viele Kraft den Opferherren, den Maruts möge unser Lob genehm sein; W
 Как пройденный путь (всегда) ведет человека дальше,  
 (Так) благодаря (вашим) желанным поддержкам пусть продлится (срок) нашей (жизни)!
 </details>
+

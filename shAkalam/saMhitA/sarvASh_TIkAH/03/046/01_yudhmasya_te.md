@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+svarā́jaḥ ← svarā́j- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yudhmásya ← yudhmá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ghŕ̥ṣveḥ ← ghŕ̥ṣvi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sthávirasya ← sthávira- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ugrásya ← ugrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yū́naḥ ← yúvan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ájūryataḥ ← ájūryant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vajríṇaḥ ← vajrín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vīryā̀ṇi ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahā́ni ← mahá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mahatáḥ ← mahā́nt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śrutásya ← √śru- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +201,4 @@ Dem Kämpfer dir, dem Stier, dem Selbstgebieter, dem jungen starken, dem gewalt'
 Грозного, юного, крепкого, пылкого,  
 Нестареющего, с ваджрой (в руке), знаменитого, великого.
 </details>
+

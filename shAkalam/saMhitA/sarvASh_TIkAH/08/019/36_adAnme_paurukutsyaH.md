@@ -15,13 +15,41 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ádāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+paurukutsyáḥ ← paurukutsyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pañcāśátam ← pañcāśát- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+trasádasyuḥ ← trasádasyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vadhū́nām ← vadhū́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máṁhiṣṭhaḥ ← máṁhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sátpatiḥ ← sátpati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +143,4 @@ Mir hat des Purukutsa Sohn, Trasadasju, fünfzig Zugthiere gegeben, der freigieb
 Дал мне пятьсот юных жен,  
 Самый щедрый, благородный, благой повелитель.
 </details>
+

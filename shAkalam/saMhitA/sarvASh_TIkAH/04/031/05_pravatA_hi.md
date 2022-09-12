@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+krátūnām ← krátu- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pravátā ← pravát- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gáchasi ← √gam- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+padā́ ← pád- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ábhakṣi ← √bhaj- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+sácā ← sácā (invariable)  
+{}
+
+sū́rye ← sū́rya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Denn auf der Kräfte jäher Bahn zu deinen Stätten eilest du, Bei erstem Lichte
 Ты приходишь, словно ногой (идешь).  
 Я получил долю в (восходящем) солнце!
 </details>
+

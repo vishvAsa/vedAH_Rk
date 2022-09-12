@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ajaniṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+pathā́m ← pánthā- ~ path- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+prápathe ← prápatha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+prápathe ← prápatha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+prápathe ← prápatha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+priyátame ← priyátama- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+sadhásthe ← sadhástha- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:N, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+párā ← párā (invariable)  
+{}
+
+prajānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Erzeugt ist Puschan auf der Bahn der Pfade auf Himmels Bahn und auf der Bahn der
 К обоим самым приятным местам  
 Странствует он туда и сюда, зная путь.
 </details>
+

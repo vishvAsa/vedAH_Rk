@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ita ← √i- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kr̥ṇávāma ← √kr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+sakhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+r̥ṇutá ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+jigā́ya ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mánuḥ ← mánu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśiśiprám ← viśiśiprá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+ā́pa ← √āp- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+púrīṣam ← púrīṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaṇík ← vaṇíj- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaṅkúḥ ← vaṅkú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +227,7 @@ Even more so the “wandering merchant” (vaṇíg vaṅkúḥ) of d. On vaṅk
 interpr. were persuasive, it doesn’t explain what the material is doing in this hymn at this point.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these two vss. form an omphalos and are structurally parallel, with the poet addressing his priest-poet colleagues with hortatory subjunctives. The immediacy of the vss. and the sacrificial context of the hymn make this a more likely scenario than Sāyaṇa.’s suggestion that the Aṅgirases are speaking these vss. For strenuous arguments against Sāyaṇa.’s interpr., see Lüders p. 327.
@@ -197,3 +258,4 @@ Kommt, Freunde, her, lasst uns Gebet verrichten, durch das die Mutter sich ersch
 Благодаря которой Ману победил Вишишипру,  
 Благодаря которой купец, идущий извилистым путем, достиг источника.
 </details>
+

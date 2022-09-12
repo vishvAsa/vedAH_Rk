@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ástrā ← ástar- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+átividdhā ← √vyadh- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+cit ← cit (invariable)  
+{}
+
+vithuréṇa ← vithurá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+girīṇā́m ← girí- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sáṁhitā ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+sā́nu ← sā́nu- ~ snú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tuturyāt ← √tūr(v)- ~ tur- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+cakā́ra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+právr̥ddhaḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́ni ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Durchbohrt vom Schützen sind, auch wenn er taumelt, die dreimal sieb'n vereinte
 
 -ru-
 </details>
+

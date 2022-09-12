@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sakhyā́ ← sakhyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+u ← u (invariable)  
+{}
+
+vavr̥tyām ← √vr̥t- (root)  
+{number:SG, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+arṇavám ← arṇavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+jaganvā́n ← √gam- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tirás ← tirás (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dadhīta ← √dhā- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+nápātam ← nápat- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vedhā́ḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dī́dhyānaḥ ← √dhī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+kṣámi ← kṣám- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+pratarám ← pratarám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Ich möchte doch den Freund zu einem Freundschaftsdienst bewegen. Auch wenn er n
 Представляя себе (своего) продолжателя на земле.  
 Яма:
 </details>
+

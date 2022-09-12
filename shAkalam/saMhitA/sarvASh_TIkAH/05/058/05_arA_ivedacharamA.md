@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácaramāḥ ← ácarama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áhā ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+arā́ḥ ← ára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+ákavāḥ ← ákava- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jāyante ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+máhobhiḥ ← máhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+prá-pra ← prá (invariable)  
+{}
+
+pŕ̥śneḥ ← pŕ̥śni- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+putrā́ḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rábhiṣṭhāḥ ← rábhiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+upamā́saḥ ← upamá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+matyā́ ← matí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mimikṣuḥ ← √myakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+sváyā ← svá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +211,7 @@ Flg. Hoffmann (Aufs. II.413 [=MSS 10 (1957) 61-62]), Witzel Gotō and Renou (tho
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/05-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/05-07.md">
 <details open><summary><h2>05-07 ...{Loading}...</h2></summary>
 
 Sustained phonetic play, esp. with p and r/ṛ, in prá-pra (5b), pṛ́śneḥ putrā́(ḥ) (5c), prā́yāsiṣṭa pṛ́ṣatībhiḥ (6a), práthiṣṭa … pṛthivī́(7a).
@@ -185,3 +243,4 @@ In stetem Lauf, wie Speichen, wie die Tage, aufs neue stets erstehn mit Glanz di
 Выдающиеся сыновья Пришни, больше всех захватывающие,  
 Маруты по своей воле захотели вместе помочиться.
 </details>
+

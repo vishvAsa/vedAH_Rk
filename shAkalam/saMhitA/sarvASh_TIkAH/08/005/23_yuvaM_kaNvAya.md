@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+káṇvāya ← káṇva- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ápiriptāya ← √rip- (root)  
+{case:DAT, gender:M, number:SG, non-finite:PPP}
+
+harmyé ← harmyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+daśasyathaḥ ← √daśasy- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+śáśvat ← śáśvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ūtī́ḥ ← ūtí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,3 +135,4 @@ Dem Kanva, als erblindet er im Hause lag, gewährtet ihr, O Treue, Hülfe fort u
 Ослепленному в застенке,  
 Постоянно оказываете услуги.
 </details>
+

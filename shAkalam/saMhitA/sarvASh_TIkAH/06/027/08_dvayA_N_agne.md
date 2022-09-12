@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dvayā́n ← dvayá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rathínaḥ ← rathín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+viṁśatím ← viṁśatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+samrā́ṭ ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vadhū́mataḥ ← vadhū́mant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+abhyāvartī́ ← abhyāvartín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cāyamānáḥ ← cāyamāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dákṣiṇā ← dákṣiṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dūṇā́śā ← dūṇā́śa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+pārthavā́nām ← pārthavá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ O Agni, zwanzig gepaarte mit Geschirr versehene Wagenstiere gibt mir der mächti
 Абхьявартин, сын Чаяманы.  
 Трудно сравниться с этим вознаграждениемлотомков Притху!
 </details>
+

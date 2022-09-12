@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ājíṣu ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+átyān ← átya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+ukṣánte ← √ukṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+āśúbhiḥ ← āśú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kárṇaiḥ ← kárṇa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nadásya ← nadá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+turayante ← √tvarⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+dávidhvataḥ ← √dhū- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+híraṇyaśiprāḥ ← híraṇyaśipra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+pr̥kṣám ← pr̥kṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pŕ̥ṣatībhiḥ ← pŕ̥ṣant- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+samanyavaḥ ← sámanyu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yātha ← √yā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,14 +189,14 @@ nourishment. The corresponding root noun pṛ́kṣ- has the same basic sense (s
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md">
 <details open><summary><h2>02-05 ...{Loading}...</h2></summary>
 
 Note the concentration of pṛSIB forms: 2d pṛ́śni yāḥ, 3d prk̥ ṣám … pṛ́ṣatībhiḥ, 4a prk̥ ṣé, 4c pṛ́ṣadaśva (and scrambled -śiprā in 3c, rapśa- in 5a).
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
 The first words of each hemistich in this series of vss. echo each other: 1a úpem, 1c apā́m, 2a imám, 2c apā́m, 3a sám, 3c tám, 4a tám. Since similar openings are found only in scattered vss. later in the hymn (9a apā́m, 11c yám, 12c sám) I consider the effect deliberate.
@@ -179,3 +228,4 @@ Wie Ross' im Wettlauf salben ihre Renner sie und eilen mit der Wolke schnellen F
 О Маруты с золотыми султанами (на шлемах), мощно сотрясающие (мир),  
 Вы отправляетесь на пестрых (антилопах), чтобы наполнить (дождем), о единодушные.
 </details>
+

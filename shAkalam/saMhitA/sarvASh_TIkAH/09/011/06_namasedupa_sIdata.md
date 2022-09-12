@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ít ← ít (invariable)  
+{}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sīdata ← √sad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+dadhnā́ ← dadhán- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+śrīṇītana ← √śrī- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dadhātana ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Mit Ehrfurcht setzt euch zu ihm hin, und mischt mit warmen Molken ihn, Den Indu 
 Украшайте кислым молоком!  
 Каплю помещайте в Индру!
 </details>
+

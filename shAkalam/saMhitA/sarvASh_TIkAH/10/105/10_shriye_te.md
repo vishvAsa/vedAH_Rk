@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+pŕ̥śniḥ ← pŕ̥śni- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+upasécanī ← upasécana- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+arepā́ḥ ← arepás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dárviḥ ← dárvi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+pā́tre ← pā́tra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+siñcáse ← √sic- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+út ← út (invariable)  
+{}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +173,4 @@ Zur Freude war dir die bunte Zuguss-Kelle, zur Freude der fleckenlose Löffel, m
 Для блеска беспорочная деревянная ложка,  
 Которой ты наливаешь в свой кубок!
 </details>
+

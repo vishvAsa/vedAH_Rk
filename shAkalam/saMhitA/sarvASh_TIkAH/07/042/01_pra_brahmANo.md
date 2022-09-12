@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áṅgirasaḥ ← áṅgiras- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+brahmā́ṇaḥ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nakṣanta ← √nakṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+krandanúḥ ← krandanú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nabhanyàsya ← nabhanyà- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vetu ← √vī- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+navanta ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+udaprútaḥ ← udaprút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+adhvarásya ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ádrī ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+péśaḥ ← péśas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yujyā́tām ← √yuj- (root)  
+{number:DU, person:3, mood:OPT, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +214,4 @@ Als Beter mögen kommen Götterboten, vorgehn das Rauschen unsres Himmelsliedes,
 Пусть ревут дойные коровы, плавающие в воде!  
 Пусть запрягут два давильных камня – украшение обряда!
 </details>
+

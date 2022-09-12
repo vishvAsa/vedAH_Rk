@@ -18,16 +18,62 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śukréṇa ← śukrá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prathayase ← √prathⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+urú ← urú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+abhikrándan ← √krand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥ṣāyase ← √vr̥ṣāy- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+dadhāsi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jāmíṣu ← jāmí- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vívakṣase ← √vac- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Du Agni breitest weit und hoch mit hellem Strahlenglanz dich aus; Laut brüllend
 Ты влагаешь зародыш в сестер –  
 В опьянении (сомой) я хочу вам (это) провозгласить.
 </details>
+

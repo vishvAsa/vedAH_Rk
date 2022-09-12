@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vepate ← √vip- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vr̥ttám ← √vr̥t- (root)  
+{case:NOM, gender:M, number:SG, voice:PASS}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ámateḥ ← ámati- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+bhiyā́ ← bhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+jaritā́ ← jaritár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráthāt ← rátha- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sadāvr̥dha ← sadā́vr̥dha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+kuvít ← kuvít (invariable)  
+{}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+purūvásuḥ ← purūvásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stoṣat ← √stu- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +246,4 @@ Mein Herz erbebt aus Furcht vor Noth, o Schleuderer, gleichwie ein rollend Rad o
 Конечно же, из колесницы тебя, о всегда подкрепляющий,  
 Будет восхвалять певец Пурувасу, о щедрый!
 </details>
+

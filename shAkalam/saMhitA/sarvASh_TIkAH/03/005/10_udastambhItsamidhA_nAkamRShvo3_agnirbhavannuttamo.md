@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+astambhīt ← √stambhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+nā́kam ← nā́ka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥ṣváḥ ← r̥ṣvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samídhā ← samídh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+út ← út (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhávan ← √bhū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rocanā́nām ← rocaná- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+uttamáḥ ← uttamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhŕ̥gubhyaḥ ← bhŕ̥gu- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+mātaríśvā ← mātaríśvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+yádi ← yádi (invariable)  
+{}
+
+gúhā ← gúhā (invariable)  
+{}
+
+havyavā́ham ← havyavā́h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samīdhé ← √idh- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Durch Flammen stützte er die Himmelswölbung, der hohe Agni, er der Lichter sch
 Когда Матаришван для Бхригу  
 Зажег Агни, скрывавшегося возницу жертвы.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+cetyā́ ← cetyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kárhi ← kárhi (invariable)  
+{}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+svit ← svit (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+aghásya ← aghá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+bhinádaḥ ← √bhid- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+éṣat ← √īṣ- (root)  
+{case:ACC, gender:N, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+rákṣaḥ ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mitrakrúvaḥ ← mitrakrú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śásane ← śásana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+amuyā́ ← amuyā́ (invariable)  
+{}
+
+āpŕ̥k ← āpŕ̥c- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+śáyante ← √śī- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +233,4 @@ Wann wird dein Eifer sich, o Indra, zeigen, dass du zerschlägst den Geist, der 
 Что обагрившие кровью дружбу, как быки на плахе,  
 Будут лежать вперемежку плашмя на земле?
 </details>
+

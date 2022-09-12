@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+étaśaḥ ← étaśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mímāti ← √mā- 2 ~ mī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+váhniḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ŕ̥kvabhiḥ ← ŕ̥kvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yujānáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+ā́hitaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+prá ← prá (invariable)  
+{}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +145,7 @@ VIII.21.5 sī́dantas te váyo yathā “sitting like birds” very similar to o
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 The undiscerning (ápracetasaḥ) in 20c are contrasted with the discerning (prácetasaḥ 21b) and the undiscriminating (ávicetasaḥ 21c). The first vs. (19) of the tṛca does not participate.
@@ -143,3 +174,4 @@ Es brüllt das bunte Wagenross, von Sängern an den Platz geschirrt, Wenn es zum
 
 -ru-
 </details>
+

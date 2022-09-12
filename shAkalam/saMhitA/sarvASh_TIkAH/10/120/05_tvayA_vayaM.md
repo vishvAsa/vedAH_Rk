@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ráṇeṣu ← ráṇa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śāśadmahe ← √śad- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:MED}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+prapáśyantaḥ ← √paś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yudhényāni ← yudhénya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́yudhā ← ā́yudha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+codáyāmi ← √cud- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vácobhiḥ ← vácas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+śiśāmi ← √śā- ~ śī- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+váyāṁsi ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +191,4 @@ Auf dich vertraun wir freudig in den Schlachten, erblickend vieles was des Kampf
 Словами я возбуждаю твое оружие,  
 Заговором я заостряю твои телесные силы!
 </details>
+

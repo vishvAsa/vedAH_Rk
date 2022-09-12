@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asrídhaḥ ← asrídh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+haṁsā́saḥ ← haṁsá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádhumantaḥ ← mádhumant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+híraṇyaparṇāḥ ← híraṇyaparṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uhúvaḥ ← uhū́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uṣarbúdhaḥ ← uṣarbúdh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mandínaḥ ← mandín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mandinispŕ̥śaḥ ← mandinispŕ̥ś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+udaprútaḥ ← udaprút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gachathaḥ ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mákṣaḥ ← mákṣ- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sávanāni ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Hold sind die Gänse, die ihr habt, an Honig reich mit goldnen Federn, schnatter
 Плывущие по воде, приносящие радость, вкушающие веселого (сому), –  
 Приезжайте с ними на выжимания (сомы), как пчелы - на (питье) меда.
 </details>
+

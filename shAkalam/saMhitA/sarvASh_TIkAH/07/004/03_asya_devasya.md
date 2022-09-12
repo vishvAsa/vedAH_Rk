@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánīke ← ánīka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+saṁsádi ← saṁsád- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+jagr̥bhré ← √gr̥bhⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+mártāsaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śyetám ← śyetá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+gŕ̥bham ← gŕ̥bh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+paúruṣeyīm ← paúruṣeya- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+uvóca ← √uc- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āyáve ← āyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+durókam ← duróka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śuśoca ← √śuc- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +200,4 @@ In seinem Glanz, bei dieses Gottes Gastmahl, des hellen, den die Sterblichen erg
 Который освоился с захватом со стороны людей.  
 (Хоть и) непривычно, Агни стал гореть для Аю.
 </details>
+

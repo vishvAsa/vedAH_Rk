@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+br̥hatī́ ← br̥hánt- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+īḷe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+sabā́dhaḥ ← sabā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yájatre ← yájatra- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+gr̥ṇántaḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+dadhiré ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+deváputre ← deváputra- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+mahī́ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+purás ← purás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +228,4 @@ Mit Opfern ehr' ich eifervoll in Demuth die hohen heil'gen Himmel und die Erde, 
 Ведь и те прежние поэты, воспевая,  
 Ставили впереди (всех) двоих великих, чьи сыновья - боги.
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+babhrū́ ← babhrú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vicakṣaṇa ← vicakṣaṇá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+goṣaṇaḥ ← goṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+napāt ← nápat- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śáṁsāmi ← √śaṁs- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ābhyām ← ayám (pronoun)  
+{case:INS, gender:M, number:DU}
+
+ánu ← ánu (invariable)  
+{}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+śiśrathaḥ ← √śrathⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +173,4 @@ Ich preise deiner Braunen Paar, o weiser Spross des Rinderherrn, Nicht löse ihr
 О прозорливец, о потомок завоевателя коров.  
 Не ослабь коров из-за этой пары!
 </details>
+

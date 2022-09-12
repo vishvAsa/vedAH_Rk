@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śóśucānaḥ ← √śuc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+apr̥ṇāḥ ← √pr̥̄- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+jā́yamānaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+abhíśasteḥ ← abhíśasti- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+amuñcaḥ ← √muc- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vaíśvānara ← vaiśvānará- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +190,6 @@ Thou, O Vaiśvanara, wise one, by thy might
 Didst free the gods from misfortune.'
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Du, Agni, hast mit deiner Flamme hoch aufflammend bei deiner Geburt beide Welten angefüllt. Du befreitest durch deine Macht die Götter aus Schande, Vaisvanara Jatavedas.
@@ -162,3 +207,4 @@ Du, Agni, fülltest, gleich wie du geboren, mit Glanz erstrahlend an die beiden 
 Ты освободил богов от проклятья,  
 О Вайшванара, о Джатаведас, (своим) величием.
 </details>
+

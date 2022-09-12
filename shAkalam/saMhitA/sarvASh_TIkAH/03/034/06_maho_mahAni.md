@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+mahā́ni ← mahá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+panayanti ← √panⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kárma ← kárman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+súkr̥tā ← súkr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pipeṣa ← √piṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+vr̥jánena ← vr̥jána- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vr̥jinā́n ← vr̥jiná- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+abhíbhūtyojāḥ ← abhíbhūtyojas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+māyā́bhiḥ ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +210,4 @@ Man staunet an die vielen grossen Thaten des grossen Indra, die er schön vollbr
 В (своих) объятьях он раздавил обманщиков,  
 Чудесными превращениями – дасью, превосходя (их) силой.
 </details>
+

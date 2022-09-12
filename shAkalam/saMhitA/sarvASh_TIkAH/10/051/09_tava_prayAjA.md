@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+anuyājā́ḥ ← anuyājá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+kévale ← kévala- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prayājā́ḥ ← prayājá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+bhāgā́ḥ ← bhāgá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+havíṣaḥ ← havís- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ū́rjasvantaḥ ← ū́rjasvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sárvaḥ ← sárva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cátasraḥ ← catúr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+namantām ← √nam- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+pradíśaḥ ← pradíś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,8 +198,6 @@ popular
 \*The fore- and after-offerings are the pra-yAjas and anu-yAja oblations made in the aprI rite. The kevala is the agni-only offering in the main course of the ritual.
 </details>
 
-
-
 <details><summary>Jamison Brereton</summary>
 
 [Gods:] Yours be the fore-offerings and the after-offerings exclusively, the  nourishing portions of the oblation;  
@@ -171,3 +227,4 @@ Dein sei nun ganz der Vortrunk und der Nachtrunk, der nahrungsreiche Theil des O
 Да будет твоей, о Агни, эта жертва целиком!  
 Да склоняться пред тобой четыре стороны света!
 </details>
+

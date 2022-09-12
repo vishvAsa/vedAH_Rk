@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vardhantu ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+saṁśíśvarīḥ ← saṁśíśvan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hr̥daṁsániḥ ← hr̥daṁsáni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,7 +138,7 @@ Only him let our hymns strengthen, as (cows) who share their young do a calf— 
 The hapax tatpuruṣa hṛdaṃsáni- ‘gaining the heart’ is curious, in having an apparent acc. in -am to the neut. root noun hṛ́d-, as if to a masc. or fem. stem or to a thematic *hṛda- (see, e.g., AiG II.1.208).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 Again no signs of tṛca unity, unless the presence of cows in all three verses counts (13b góbhiḥ, 14b vatsáṃ saṃśíśvarīḥ iva, 15a gáve, 15b dhukṣásva).
@@ -135,3 +169,4 @@ Ihm bringe Stärkung unser Lied, wie Mutterkühe ihrem Kalb, Ihm, der des Indra 
 Словно (коровы,) имеющие общего малыша-теленка,  
 (Того,) кто захватывает сердце Индры.
 </details>
+

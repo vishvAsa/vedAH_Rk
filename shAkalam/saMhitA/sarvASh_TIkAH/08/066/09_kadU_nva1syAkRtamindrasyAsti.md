@@ -16,14 +16,69 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ákr̥tam ← ákr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+paúṁsyam ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kam ← kam (invariable)  
+{}
+
+kéna ← ká- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+śrómatena ← śrómata- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śuśruve ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+u ← u (invariable)  
+{}
+
+janúṣaḥ ← janúṣ- (nominal stem)  
+{case:ABL, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Wo ist das Heldenwerk, das nicht von Indra wäre ausgeführt, Wo Ruhmesthat, dur
 Какою же славой не прославлен  
 Убийца Вритры от рождения?
 </details>
+

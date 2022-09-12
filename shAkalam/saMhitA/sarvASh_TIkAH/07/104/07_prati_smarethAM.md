@@ -16,14 +16,72 @@ ChandaH = "जगती त्रिष्टुब्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+smarethām ← √smr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:IPRF, voice:MED}
+
+tujáyadbhiḥ ← √tuj- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+bhaṅgurā́vataḥ ← bhaṅgurā́vant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+druháḥ ← drúh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+hatám ← √han- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+duṣkŕ̥te ← duṣkŕ̥t- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índrāsomā ← índrāsóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mā́ ← mā́ (invariable)  
+{}
+
+sugám ← sugá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+abhidā́sati ← √dās- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+druhā́ ← drúh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Gedenkt an uns auf euren schnellen Gängen doch, die bösen Geister, die Zerbrec
 О Индра-Сома, да не будет легкого пути для злодея,  
 Который когда-либо повредит нас обманом!
 </details>
+

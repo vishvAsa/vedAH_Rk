@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+óṣadhayaḥ ← óṣadhi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+páyasvatīḥ ← páyasvant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+māmakám ← māmaká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+páyasvat ← páyasvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+páyasvat ← páyasvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+śundhata ← √śudh- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +176,4 @@ Nahrungsreich sind die Kräuter, nahrungsreich ist mein Lied, nahrungsreich auch
 И влага вод полна сока –  
 С его помощью сделайте меня чистым!
 </details>
+

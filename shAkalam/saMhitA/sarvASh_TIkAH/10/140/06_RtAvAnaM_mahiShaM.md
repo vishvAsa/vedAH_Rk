@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+mahiṣám ← mahiṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tā́vānam ← ŕ̥tāvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvádarśatam ← viśvádarśata- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+jánāḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+purás ← purás (invariable)  
+{}
+
+sumnā́ya ← sumná- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sapráthastamam ← sapráthastama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrútkarṇam ← śrútkarṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+daívyam ← daívya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́nuṣā ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yugā́ ← yugá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ Den heiligen, den Stier, der überall sich zeigt, den Agni setzten sich die Mens
 Тебя со слышащими ушами, распространяющегося больше всех,  
 Божественного, людские поколения (поставили впереди) с помощью песни.
 </details>
+

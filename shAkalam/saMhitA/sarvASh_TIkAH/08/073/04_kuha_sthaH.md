@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+jagmathuḥ ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+kúha ← kúha (invariable)  
+{}
+
+kúha ← kúha (invariable)  
+{}
+
+sthaḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+kúha ← kúha (invariable)  
+{}
+
+petathuḥ ← √pat- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+śyenā́ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ánti ← ánti (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhūtu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+sát ← √as- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +174,4 @@ Wo seid ihr, und wo gingt ihr hin? wo flöget ihr wie Adler hin? Es sei uns eure
 Куда улетели, как два сокола?  
 Пусть ваша помощь будет рядом!
 </details>
+

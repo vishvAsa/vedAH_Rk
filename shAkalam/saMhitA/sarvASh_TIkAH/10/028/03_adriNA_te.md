@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ádriṇā ← ádri- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mandínaḥ ← mandín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tū́yān ← tū́ya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+píbasi ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sómān ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sunvánti ← √su- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+átsi ← √ad- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pácanti ← √pac- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+vr̥ṣabhā́n ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hūyámānaḥ ← √hū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pr̥kṣéṇa ← pr̥kṣá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Mit Steinen presst man starke Somatränke, die dich erfreun, o Indra, trink von 
 Являясь со (своей) силой, когда тебя зовут, о щедрый.  
 Индра:
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+śíkṣa ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
+vibhindo ← vibhindú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ayútā ← ayúta- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+catvā́ri ← catúr- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dádat ← √dā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+aṣṭā́ ← aṣṭā́- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+parás ← parás (invariable)  
+{}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +144,4 @@ O Vibhindu, gib diesem [Dichter] viermal zehntausend Gaben und noch achttausend 
 Давая сорок тысяч  
 (И) восемь тысяч сверх того!
 </details>
+

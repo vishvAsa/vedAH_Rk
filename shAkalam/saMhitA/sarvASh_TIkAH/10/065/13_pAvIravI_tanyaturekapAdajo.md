@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajáḥ ← ajá- 2 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékapāt ← ékapad- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pā́vīravī ← pā́vīravī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tanyatúḥ ← tanyatú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dhartā́ ← dhartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+samudríyaḥ ← samudríya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+síndhuḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śr̥ṇavan ← √śru- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+vácāṁsi ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+púraṁdhyā ← púraṁdhi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +205,4 @@ Der blitzversehne Donner und der Kreiselwind, des Himmels Träger, Strom und Flu
 
 -ru-
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+gr̥bhṇā́mi ← √gr̥bhⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+hástam ← hásta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saubhagatvā́ya ← saubhagatvá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ásaḥ ← √as- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+jarádaṣṭiḥ ← jarádaṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máyā ← ahám (pronoun)  
+{case:INS, number:SG}
+
+pátyā ← páti- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+aryamā́ ← áryaman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+púraṁdhiḥ ← púraṁdhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aduḥ ← √dā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gā́rhapatyāya ← gā́rhapatya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Ich ergreife deine Hand zum Glücke, auf daß du mit mir als Gatten hohes Alter 
 Бхага, Арьяман, Савитар, Пурамдхи –  
 Боги дали мне тебя для семейной жизни.
 </details>
+

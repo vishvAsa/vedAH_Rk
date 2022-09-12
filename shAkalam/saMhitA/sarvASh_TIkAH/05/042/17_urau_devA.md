@@ -13,11 +13,24 @@ ChandaH = "एकपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M
+#### Morph
+anibādhé ← anibādhá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+uraú ← urú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -82,3 +95,4 @@ Wir sein in freier Unbedrängtheit, Götter.
 
 Да будем мы, о боги, в широком (просторе), в нестесненности!
 </details>
+

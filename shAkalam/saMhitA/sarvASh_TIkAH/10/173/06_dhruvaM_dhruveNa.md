@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380);; repeated line  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+dhruvám ← dhruvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhruvéṇa ← dhruvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+mr̥śāmasi ← √mr̥ś- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kévalīḥ ← kévala- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+balihŕ̥taḥ ← balihŕ̥t- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+karat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+víśaḥ ← víś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +191,4 @@ Den festen Soma mischen wir mit diesem festen Opferguss, Dann möge Indra zinsba
 Так пусть сделает Индра  
 Племена платящими дань только тебе!
 </details>
+

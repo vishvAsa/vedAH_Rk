@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+áhani ← áhar ~ áhan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+pratīcī́ne ← pratīcī́na- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+íṣvāḥ ← íṣu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+parṇám ← parṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jagrabha ← √gr̥bhⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+pratī́cīm ← pratyáñc- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+raśanáyā ← raśanā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yathā ← yathā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +183,4 @@ Am nächstvergangnen Tage hat man mich wie Federn an den Pfeil gefügt; ich halt
 Я сдерживаю грядущую речь,  
 Как (сдерживают) уздой коня.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+prácetāḥ ← prácetas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vā́jena ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vājini ← vājín- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+gr̥ṇatáḥ ← √gr̥̄- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+maghoni ← maghávan- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devi ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+púraṁdhiḥ ← púraṁdhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+purāṇī́ ← purāṇá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yuvatíḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+carasi ← √carⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+viśvavāre ← viśvávāra- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +212,4 @@ O Morgenröthe, weisheitsvoll geniesse, o prächt'ge, reich an Gut, des Sängers
 Древняя (и вечно) юная, о богиня, (как) Пурамдхи,  
 Ты следуешь (божественному) завету, о обладающая всем избранным.
 </details>
+

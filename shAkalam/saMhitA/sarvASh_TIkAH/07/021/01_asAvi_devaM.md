@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ándhaḥ ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ásāvi ← √su- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+devám ← devá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gór̥jīkam ← gór̥jīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmin ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janúṣā ← janúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+uvoca ← √uc- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bódhāmasi ← √budh- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+haryaśva ← háryaśva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+bódha ← √budh- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mádeṣu ← máda- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Der milchgemischte Göttertrank ist fertig; an ihm hat Indra sich ergötzt von j
 Жертвами мы делаем тебя внимательным, о повелитель буланых коней.  
 Внимай нашей хвале в опьянении соком сомы!
 </details>
+

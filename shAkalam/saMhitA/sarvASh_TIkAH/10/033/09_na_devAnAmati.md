@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+áti ← áti (invariable)  
+{}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+jīvati ← √jīv- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śatā́tmā ← śatā́tman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táthā ← táthā (invariable)  
+{}
+
+vāvr̥te ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+yujā́ ← yúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +166,4 @@ Wider den Willen der Götter kann niemand leben, und wenn er auch hundertfaches 
 Не проживет и тот, у кого сто жизней.  
 Так и я был разлучен с (моим) другом.
 </details>
+

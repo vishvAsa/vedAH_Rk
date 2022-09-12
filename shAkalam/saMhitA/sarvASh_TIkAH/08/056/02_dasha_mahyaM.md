@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pautakratáḥ ← pautakratá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dásyave ← dásyu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vŕ̥kaḥ ← vŕ̥ka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amaṁhata ← √maṁh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+nítyāt ← nítya- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,3 +133,4 @@ Dasjavevrika, der Sohn der Pūtakratā, schenkte mir zehntausend aus seinem eign
 Даровал мне десять тысяч  
 Из своего собственного богатства.
 </details>
+

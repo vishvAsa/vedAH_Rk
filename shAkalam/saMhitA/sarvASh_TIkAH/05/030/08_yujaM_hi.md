@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ákr̥thāḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:MED}
+
+ā́t ← ā́t (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+yújam ← yúj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dāsásya ← dāsá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mathāyán ← √mathⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+námuceḥ ← námuci- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+áśmānam ← áśman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+svaryàm ← svaryà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vártamānam ← √vr̥t- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:MED}
+
+cakríyā ← cakrī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+marúdbhyaḥ ← marút- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,3 +250,4 @@ Du machtest Indra da mich zum Genossen, das Haupt umwirbelnd Namutschi, dem Däm
 (Бросил ее катиться), как с шумом падающий камень.  
 Две половины вселенной, словно колесо, (подкатили ее) к Марутам.
 </details>
+

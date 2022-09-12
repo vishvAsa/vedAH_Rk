@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arcayaḥ ← √r̥c- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+haryán ← √hary- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+arocayaḥ ← √ruc- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+haryán ← √hary- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cikitvā́n ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+haryaśva ← háryaśva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vardhase ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śríyaḥ ← śrī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +189,4 @@ Du hast das Frühroth hold entflammt, den Soma hold in Glut gesetzt, Mit goldnen
 Знаток проникновенный, о обладатель золотистых коней, ты растешь,  
 О Индра, надо всеми сокровищами.
 </details>
+

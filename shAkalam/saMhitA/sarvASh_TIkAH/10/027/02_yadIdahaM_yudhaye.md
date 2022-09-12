@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+saṁnáyāni ← √nī- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+yádi ← yádi (invariable)  
+{}
+
+yudháye ← √yudh- (root)  
+{case:DAT, number:SG}
+
+ádevayūn ← ádevayu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śū́śujānān ← √śuj- (root)  
+{case:ACC, gender:M, number:PL, voice:MED}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+amā́ ← amā́ (invariable)  
+{}
+
+pacāni ← √pac- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+túmram ← túmra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+pañcadaśám ← pañcadaśá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+siñcam ← √sic- (root)  
+{number:SG, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+sutám ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+tīvrám ← tīvrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Wenn ich sie nur zum Kampf zusammentriebe, die Gottesleugner, die so frech sich 
 
 -ru-
 </details>
+

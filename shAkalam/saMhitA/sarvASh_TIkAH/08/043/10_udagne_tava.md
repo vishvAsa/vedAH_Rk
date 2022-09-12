@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ghr̥tā́t ← ghr̥tá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+ā́hutam ← √hu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+arcíḥ ← arcís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rocate ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+juhvàḥ ← juhū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+múkhe ← múkha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+níṁsānam ← √nas- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +163,4 @@ Dein Licht, o Agni, flammt empor, wenn es mit Schmalz beträufelt ist, Die Löff
 Сверкает ввысь из жира, политое (им),  
 Целуя жертвенные ложки (у тебя) во рту.
 </details>
+

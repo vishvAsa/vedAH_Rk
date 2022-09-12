@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ápi ← ápi (invariable)  
+{}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vr̥ñjanti ← √vr̥j- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhávanti ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dvís ← dvís (invariable)  
+{}
+
+eté ← eṣá (pronoun)  
+{}
+
+trís ← trís (invariable)  
+{}
+
+ū́māḥ ← ū́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sr̥ja ← √sr̥j- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+svā́dīyaḥ ← svā́dīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svādóḥ ← svādú- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+svādúnā ← svādú- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+adáḥ ~ adó ← asaú (pronoun)  
+{case:ACC, gender:N, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mádhunā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+yodhīḥ ← √yudh- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +242,4 @@ Sie alle wecken in dir Geisteskräfte, wenn zweimal oder dreimal sie dir beisteh
 (Что) слаще сладкого, соедини со сладким!  
 С помощью меда борись хорошенько за тот мед!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dévīḥ ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+kr̥ṇota ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ṣaṭ ← ṣáṣ- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+urvīḥ ← urú- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+devāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+vīrayadhvam ← √vīray- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+hāsmahi ← √hā- 2 (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:MED}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+prajáyā ← prajā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tanū́bhiḥ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+dviṣaté ← √dviṣ- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+radhāma ← √randh- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 Да не окажемся мы ни без потомства, ни без тел (наших)!  
 Да не попадем мы во власть к ненавистнику, о царь Сома!
 </details>
+

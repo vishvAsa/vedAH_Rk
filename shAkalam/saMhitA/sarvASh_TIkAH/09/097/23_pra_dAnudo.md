@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dānudáḥ ← dānudá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dānupinváḥ ← dānupinvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+divyáḥ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥tā́ya ← r̥tá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sumedhā́ḥ ← sumedhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhuvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+dharmā́ ← dharmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥janyàsya ← vr̥janyà- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhāri ← √bhr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+bhū́ma ← bhū́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+daśábhiḥ ← dáśa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +188,7 @@ This vs. identifies Soma as ‘truth’ (ṛtám b) and also contains in c the p
 The ten reins are presumably the fingers of the presser, as is usual for ten anything in IX.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/23-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/23-24.md">
 <details open><summary><h2>23-24 ...{Loading}...</h2></summary>
 
 These two vss. each contain the injunc. (/subj.) aor. bhuvat, which in both cases I tr. as an immed. past: “he has become.” After considerable disc. with Ian Hollenbaugh, I now think that this particular form can also express a generic or habitual role or behavior of the subject, which Ian Hollenbaugh felicitously renders with the colloquial “he be-s X.” I am therefore now inclined to alter the tr. of both vss. to “he is the king …” / “he is, now as before, the wealth-lord …” In the absence of a non-colloquial Engl.
@@ -145,7 +197,7 @@ habitual/generic, “is” will have to do.
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/22-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 Karṇaśrut Vāsiṣṭha, a name that has no source in the text and is not otherwise found in the Anukr. This tṛca depicts Soma as a king on a royal journey, and associates him with the resonant words ṛtá- (23b, 24d) and dhárman- (22b) / dharmán- (23c) and the traditional roles they imply.
@@ -177,3 +229,4 @@ Des Himmels weiser Träufler, reichlich träufelnder ergiesst den heil'gen Saft 
 Он был поддерживателем (всего) общинного, (этот) царь.  
 Десятью поводьями он был принесен на землю.
 </details>
+

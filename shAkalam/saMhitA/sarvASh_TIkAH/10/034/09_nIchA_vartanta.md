@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+nīcā́ ← nyàñc- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sphuranti ← √sphr̥̄- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+upári ← upári (invariable)  
+{}
+
+vartante ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ahastā́saḥ ← ahastá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hástavantam ← hástavant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahante ← √sah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+áṅgārāḥ ← áṅgāra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+divyā́ḥ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+íriṇe ← íriṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+nyùptāḥ ← √vap- 2 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+dahanti ← √dah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hŕ̥dayam ← hŕ̥daya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+sántaḥ ← √as- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+śītā́ḥ ← śītá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ Sie rollen nieder, springen in die Höhe, und handlos zwingen sie den handbegabt
 Небесные уголья, брошенные в углубление,  
 Они сжигают сердце, хотя и холодные.
 </details>
+

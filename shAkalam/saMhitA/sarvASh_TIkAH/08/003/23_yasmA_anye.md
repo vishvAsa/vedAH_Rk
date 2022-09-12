@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+anyé ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+yásmai ← yá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+dhúram ← dhúr- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+váhanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+váhnayaḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ástam ← ásta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+túgryam ← túgrya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ an dessen Seite zehn andere fahrend an der Deichsel ziehn, wie die Flügelrosse 
 Упряжных коней тянут дышло,  
 (Когда везут меня) домой, как птицы – сына Тугры.
 </details>
+

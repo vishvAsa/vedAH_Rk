@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+gártam ← gárta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tákṣat ← √takṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dhāráyat ← √dhr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+dhītím ← dhītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kr̥ṇávat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ūrdhvā́m ← ūrdhvá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ukṣéthām ← √ukṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+rājānā ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sukṣitī́ḥ ← sukṣití- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+tarpayethām ← √tr̥p- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Wer euch im Herzen diesen Thron bereitet, die Andacht aufwärts richtet und bewa
 Окропите (того) жиром, о Митра-Варуна!  
 Насыпьте (дождем) прекрасные земли, о два царя!
 </details>
+

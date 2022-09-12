@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áti ← áti (invariable)  
+{}
+
+carṣaṇī́ḥ ← carṣaṇí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+aryáḥ ← arí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+āśíṣaḥ ← āśís- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+háribhyām ← hári- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+matáyaḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+stómataṣṭāḥ ← stómataṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+hávante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+juṣāṇā́ḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Komm her zu uns an vielem Volk vorüber zu unsern regen Bitten mit den Füchsen;
 Ведь эти молитвы, вытесанные как восхваления,  
 Зовут тебя, о Индра, радуясь дружбе.
 </details>
+

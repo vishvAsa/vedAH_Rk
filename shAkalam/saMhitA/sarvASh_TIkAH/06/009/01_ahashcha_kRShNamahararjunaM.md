@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+áhar ~ áhaḥ ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áhar ~ áhaḥ ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+árjunam ← árjuna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+kr̥ṣṇám ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rájasī ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+vartete ← √vr̥t- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+vedyā́bhiḥ ← vedyā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+jā́yamānaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaiśvānaráḥ ← vaiśvānará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+atirat ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+támāṁsi ← támas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +201,7 @@ Renou points out two minor anomalies in word placement: ca in pāda a, ná in p�
 As for ná, it ordinarily is also positioned after the first element in the simile, but it is highly unlikely (that is, quite impossible) that Agni is being compared to a king being born, with the simile comprising jā́yamāno ná rā́jā, but rather Agni, even as he is being kindled, is compared to the victorious (adult) king, with the simile just ná rā́jā. Such “wrong” positioning is not unprecedented — other examples have been noted in the comm. — and, as Renou points out, it is “masked to the eyes” by jā́yamānaḥ, which matches rā́jā in number, gender, and case.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 Note the echo of the last word of vs. 1, támāṃsi, in the last word of the 1st hemistich of b, ’tamānāḥ. The latter form is the pres. part. to the 1st class pres. of √at ‘wander’, with apharesis of the initial vowel after samaré. This abhinihita sandhi, relatively rare in the RV, is metrically guaranteed, and it may have been applied in order to bring the participle more into phonological line with támāṃsi.
@@ -175,3 +233,4 @@ Es rollen schwarz und weiss die Tageshälften, von selbst der dunkle und der hel
 Агни-Вайшванара, рождаясь,  
 Как царь, преодолел светом мрак.
 </details>
+

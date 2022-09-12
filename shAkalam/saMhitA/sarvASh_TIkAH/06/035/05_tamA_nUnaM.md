@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+anyáthā ← anyáthā (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+nūnám ← nūnám (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vr̥jánam ← vr̥jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+gr̥ṇīṣé ← √gr̥̄- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+śakra ← śakrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aram ← √r̥- 1 (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+dhenóḥ ← dhenú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+nís ← nís (invariable)  
+{}
+
+śukradúghasya ← śukradúgha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+āṅgirasā́n ← āṅgirasá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jinva ← √ji- 2 ~ jinv- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vipra ← vípra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,3 +259,4 @@ Auch jetzt wie sonst erwähl' ich diesen Mann mir; wenn, starker, du als Held di
 Да не лишусь я дойной коровы – доящегося светлым семенем (сомы)!  
 Оживи, о вдохновенный, священным словом потомков Ангирасов!
 </details>
+

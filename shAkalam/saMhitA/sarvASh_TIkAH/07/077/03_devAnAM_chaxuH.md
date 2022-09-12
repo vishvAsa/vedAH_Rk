@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+subhágā ← subhága- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+váhantī ← √vah- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náyantī ← √nī- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+sudŕ̥śīkam ← sudŕ̥śīka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śvetám ← śvetá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adarśi ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vyàktā ← √añj- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+ánu ← ánu (invariable)  
+{}
+
+citrā́maghā ← citrā́magha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+prábhūtā ← √bhū- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Die Selige, der Götter Auge führend, das weisse Ross, das herrlich schöne lei
 Показалась Ушас, окрашенная лучами (солнца),  
 С яркими дарами распространяясь по всему (свету).
 </details>
+

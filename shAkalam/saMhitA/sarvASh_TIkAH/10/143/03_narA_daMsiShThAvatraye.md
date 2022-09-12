@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átraye ← átri- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dáṁsiṣṭhau ← dáṁsiṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+nárā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+síṣāsatam ← √sanⁱ- (root)  
+{number:DU, person:2, mood:INJ, tense:PRS, voice:ACT, mood:DES}
+
+śúbhrā ← śubhrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+átha ← átha (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+stómaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśáse ← √śaṁs- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +186,4 @@ O reine, wunderkräftigste, gewährt dem Atri sein Gebet, Denn dann wird, Himmel
 Ведь тогда для вас, о два мужа неба,  
 Снова хвала (никогда) не истощится!
 </details>
+

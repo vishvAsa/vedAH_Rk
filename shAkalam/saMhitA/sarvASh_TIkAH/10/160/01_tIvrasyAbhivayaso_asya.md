@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhívayasaḥ ← abhívayas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pāhi ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+tīvrásya ← tīvrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ihá ← ihá (invariable)  
+{}
+
+muñca ← √muc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sarvarathā́ ← sarvarathá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ví ← ví (invariable)  
+{}
+
+anyé ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yájamānāsaḥ ← √yaj- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+rīraman ← √ram- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+sutā́saḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Von diesem starken trinke, der dich labet, und lös' die Rosse mit dem ganzen Wa
 Пусть не удержат тебя, о Индра, другие жертвователи!  
 Для тебя выжаты эти (соки сомы)!
 </details>
+

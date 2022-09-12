@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́ṅ ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+pratīcīnáḥ ← pratīcīná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahure ← sáhuri- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+viśvadhāyaḥ ← viśvádhāyas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+mányo ← manyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vavr̥tsva ← √vr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
+
+āpéḥ ← āpí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+bodhi ← √budh- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hánāva ← √han- (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +234,4 @@ Ich bin ja dein, so wende dich zu mir hin, komm mir entgegen siegreich, alles sc
 
 -ru-
 </details>
+

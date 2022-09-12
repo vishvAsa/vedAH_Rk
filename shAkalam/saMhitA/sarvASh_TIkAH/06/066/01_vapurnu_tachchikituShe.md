@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+cikitúṣe ← √cit- (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vápuḥ ← vápus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhenú ← dhenú- (nominal stem)  
+{}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pátyamānam ← √pat- 2 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:MED}
+
+samānám ← samāná- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+doháse ← √duh- (root)  
+{case:DAT, number:SG}
+
+márteṣu ← márta- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+pīpā́ya ← √pī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+duduhe ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+pŕ̥śniḥ ← pŕ̥śni- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sakŕ̥t ← sakŕ̥t (invariable)  
+{}
+
+śukrám ← śukrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Bewundernswerth ist das auch dem Verständ'gen, was an sich trägt der Milchkuh 
 (В то время как) одно (вымя) набухло среди смертных для доения.  
 Из (другого) вымени Пришни дала надоить белого (молока только) один раз.
 </details>
+

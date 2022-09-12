@@ -16,14 +16,63 @@ ChandaH = "जगती त्रिष्टुब्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bravāmahai ← √brū- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vāyúm ← vāyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sárvagaṇam ← sárvagaṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ādityā́saḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +189,7 @@ On Br̥haspati with his whole flock (we shall call) for well-being. For  well-be
 
 Bṛhaspati’s “whole flock” (bv. sárva-gaṇa-) may refer to the Aṅgirases. In any case note sárva- rather than the older víśva-, esp. notable in a Viśve Devāḥ hymn (though víśve devā́ḥ opens the next vs.).
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
 <details open><summary><h2>11-15 ...{Loading}...</h2></summary>
 
 Considered by Oldenberg to be an Anhang even to this set of appended hymns.
@@ -174,3 +223,4 @@ Den Vaju lasset uns zum Heile rufen an, zum Heil den Soma, der der Welt Gebieter
 К Брихаспати с целой свитой – на благо.  
 На благо Адитьи да будут нам!
 </details>
+

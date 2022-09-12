@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+jānāmi ← √jñā- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ótum ← ótu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tántum ← tántu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+átamānāḥ ← √at- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+samaré ← samará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+váyanti ← √u- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svit ← svit (invariable)  
+{}
+
+váktvāni ← váktva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ávareṇa ← ávara- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+parás ← parás (invariable)  
+{}
+
+pitrā́ ← pitár- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vadāti ← √vadⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +235,7 @@ The second hemistich contains two sets of polarized terms: putrá- / pitár- ‘
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 Note the echo of the last word of vs. 1, támāṃsi, in the last word of the 1st hemistich of b, ’tamānāḥ. The latter form is the pres. part. to the 1st class pres. of √at ‘wander’, with apharesis of the initial vowel after samaré. This abhinihita sandhi, relatively rare in the RV, is metrically guaranteed, and it may have been applied in order to bring the participle more into phonological line with támāṃsi.
@@ -203,3 +267,4 @@ Nicht weiss ich recht zu spannen noch zu weben das Werk, was sie zum Wettstreit 
 Чей же сын смог бы произносить  
 Речи выше оказавшегося внизу отца?
 </details>
+

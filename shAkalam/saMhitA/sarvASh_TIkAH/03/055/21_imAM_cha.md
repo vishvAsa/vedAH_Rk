@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ca ← ca (invariable)  
+{}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+viśvádhāyāḥ ← viśvádhāyas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hitámitraḥ ← hitámitra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣeti ← √kṣi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+puraḥsádaḥ ← puraḥsád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śarmasádaḥ ← śarmasád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vīrā́ḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asuratvám ← asuratvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +206,7 @@ stationed in front like heroes stationed for protection. – Great is the one  a
 
 The first three pādas here are almost identical to I.73.3abc, where Agni is definitely the referent. For disc. of some of the detail, see comm. there.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 I’m not sure why Tvaṣṭar appears here. The previous vs., with the arrival of Indra at the sacrifice, may mark the end of the ritualistic vss. that dominated the hymn up till now. The few remaining vss. then celebrate the prosperity and abundance that our good relationship with the gods, via the sacrifice, will produce: teeming life provided by Tvaṣṭar (19), goods filling the two worlds provided by Indra (20), peace provided by Agni (21), and the inanimate earthly supports for all this prosperity, which provide their gifts to Indra (22).
@@ -183,3 +238,4 @@ Und er beherrscht allnährend diese Welt uns, gleich einem König, holdgesinnt d
 Словно герои, находящийся впереди, сидящие под щитом.  
 Велико могущество богов, единственно.
 </details>
+

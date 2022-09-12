@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+cikitāna ← √cit- (root)  
+{case:VOC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+sukrátū ← sukrátu- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+devaú ← devá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+marta ← márta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+riśā́dasā ← riśā́das- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+r̥tápeśase ← r̥tápeśas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+váruṇāya ← váruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dadhītá ← √dhā- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+práyase ← práyas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +171,4 @@ O weiser Mensch, das Götterpaar, die starken Feindverzehrer ruf, Dem heilgeschm
 Варуне, чье украшение – закон,  
 (Эта хвала) пусть послужит к великому удовольствию!
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+sarasvati ← sárasvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+juṣásva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+vājinīvati ← vājínīvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+gr̥tsamadā́ḥ ← gr̥tsamadá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+r̥tāvari ← ŕ̥tāvan- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+júhvati ← √hu- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+priyā́ ← priyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +176,4 @@ Nimm an, o gabenreiche, hier Gebete, o Sarasvatī, Den Göttern liebe, welche wi
 (Теми) поэтическими мыслями, которые потомки Гритсамады,  
 Приятные богам, приносят тебе в жертву, о благочестивая!
 </details>
+

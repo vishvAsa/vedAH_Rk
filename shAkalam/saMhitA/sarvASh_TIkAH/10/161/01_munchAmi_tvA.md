@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jī́vanāya ← jī́vana- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+kám ← kám (invariable)  
+{}
+
+muñcā́mi ← √muc- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ajñātayakṣmā́t ← ajñātayakṣmá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+rājayakṣmā́t ← rājayakṣmá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+grā́hiḥ ← grā́hi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jagrā́ha ← √gr̥hⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+yádi ← yádi (invariable)  
+{}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+indrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mumuktam ← √muc- (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+tásyāḥ ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +241,4 @@ Damit du lebest, lös' ich dich durch Opfer von unerkannter und von schwerer Kra
 Или же, если это впилось в него Грахи,  
 Освободите его от нее, о Индра-Агни!
 </details>
+

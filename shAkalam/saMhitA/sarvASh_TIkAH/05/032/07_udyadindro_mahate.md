@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dānavā́ya ← dānavá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahaté ← mahā́nt- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ápratītam ← ápratīta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vádhar ← vádhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yámiṣṭa ← √yam- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+dadā́bha ← √dabh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+prábhr̥tau ← prábhr̥ti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vájrasya ← vájra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+adhamám ← adhamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+jantóḥ ← jantú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Als Indra lenkte auf den grossen Dämon den Todeskeil, die Kraft, die unbesiegba
 Когда он обманул его, поразив дубиной,  
 Он сделал его самым низким из всех существ.
 </details>
+

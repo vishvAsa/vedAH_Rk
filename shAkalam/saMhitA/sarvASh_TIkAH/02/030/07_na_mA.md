@@ -16,14 +16,99 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+śramat ← √śramⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+tamat ← √tamⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+tandrat ← √tandr- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+íti ← íti (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sunota ← √su- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vocāma ← √vac- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+dádat ← √dā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+nibódhāt ← √budh- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+pr̥ṇā́t ← √pr̥̄- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áyat ← √i- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+sunvántam ← √su- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,3 +282,4 @@ Nicht sei ich matt, nicht müde, noch auch lässig, nie woll'n wir sagen: Kelter
 Кто ко мне щедр, кто дает, кто (меня) замечает,  
 Кто ко мне, выжимающему (сому), приходит с коровами!
 </details>
+

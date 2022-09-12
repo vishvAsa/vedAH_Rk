@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jánima ← jániman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pitūyatáḥ ← √pitūy- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pravát ← pravát- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+bhúvanā ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+r̥ñjase ← √r̥j- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+sācī́ ← sācín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+saniṣanta ← √sanⁱ- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+sáptayaḥ ← sápti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+paśupā́ḥ ← paśupā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purás ← purás (invariable)  
+{}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +234,4 @@ Der Berg ist deine Heimat, der du Trank begehrst, du, starker Agni, machst dir a
 Пусть наши упряжки, наши молитвы добиваются (наград)!  
 Они движутся вперед, как пастух, (действуя) сами по себе.
 </details>
+

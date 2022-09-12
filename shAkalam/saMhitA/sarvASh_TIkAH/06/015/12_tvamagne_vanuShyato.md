@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vanuṣyatáḥ ← √vanuṣ(y)- (root)  
+{case:ABL, gender:M, number:SG, tense:PRS, voice:ACT}
+
+avadyā́t ← avadyá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sahasāvan ← sahasāvan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+u ← u (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+dhvasmanvát ← dhvasmanvánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+pā́thaḥ ← pā́thas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahasrī́ ← sahasrín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+spr̥hayā́yyaḥ ← spr̥hayā́yya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +222,4 @@ Du schirm uns, Agni, vor dem händelsücht'gen und vor Verleumdung uns, o kraftb
 Пусть соберется вокруг тебя застилающий дым вокруг (твоего) места,  
 Пусть со(берется) тысячное богатство, вызывающее зависть!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásyan ← √as- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+cáturaśrim ← cáturaśri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣandhim ← vŕ̥ṣandhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bāhúbhyām ← bāhú- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+nŕ̥tamaḥ ← nŕ̥tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śácīvān ← śácīvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+páruṣṇīm ← paruṣá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ū́rṇām ← ū́rṇā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+uṣámāṇaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+párvāṇi ← párvan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vivyé ← √vyā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yásyāḥ ← yá- (pronoun)  
+{case:ABL, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +215,4 @@ Der starke Held, den vierfachschneid'gen Blitzstrahl mit beiden Armen schleudern
 Для блеска рядящийся (как) в шерсть в Парушни,  
 Чьими хлопьями он прикрывается для дружбы...
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ná ← ná (invariable)  
+{}
+
+syandrā́saḥ ← syandrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ukṣáṇaḥ ← ukṣán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+śárvarīḥ ← śárvarī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+skandanti ← √skand- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ádha ← ádha (invariable)  
+{}
+
+máhaḥ ← máhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kṣamā́ ← kṣám- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+manmahe ← √man- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +187,4 @@ Den aufgeregten Stieren gleich bespringen ihre Schecken sie, Drum denken an der 
 Тогда мы думаем о величии  
 Марутов на небе и на земле.
 </details>
+

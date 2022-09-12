@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anyákr̥tam ← anyákr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhujema ← √bhuj- 2 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+énaḥ ← énas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+cáyadhve ← √ci- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+karma ← √kr̥- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+kṣáyatha ← √kṣā- 2 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+viśvadevāḥ ← viśvádeva- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ripúḥ ← ripú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rīriṣīṣṭa ← √riṣ- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED, mood:PREC}
+
+svayám ← svayám (invariable)  
+{}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +246,4 @@ Lasst nicht uns büssen andrer Leute Frevel, lasst nicht uns thun, was ihr, o gu
 Ведь вы господствуете надо всем, о Все-Боги!  
 Пусть обманщик сам себя повредит!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ásthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+nápāt ← nápat- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+upástham ← upástha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jihmā́nām ← jihmá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásānaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vidyútam ← vidyút- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jyéṣṭham ← jyéṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+váhantīḥ ← √vah- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+híraṇyavarṇāḥ ← híraṇyavarṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+yahvī́ḥ ← yahvī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Der Wasser Sohn bestieg den Schooss der schrägen Gewölke aufrecht, mit dem Bli
 Неся его высшее величие,  
 Его окружают юные (воды) золотого цвета.
 </details>
+

@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+haryatáḥ ← haryatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+cétasā ← cétas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+cetayate ← √cit- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+dyúbhiḥ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+antár ← antár (invariable)  
+{}
+
+dvā́ ← dvá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+jánā ← jána- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yātáyan ← √yat- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+daívyam ← daívya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhartári ← dhartár- (nominal stem)  
+{gender:N, number:SG}
+
+nárā ← nár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śáṁsam ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +228,7 @@ I take prá … cetayate as a reflexive trans./caus. ‘makes oneself perceived�
 As is generally recognized, nárā ca śáṃsam shows a species of tmesis, from the cmpd nárāśáṃsa-.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/40-42.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/40-42.md">
 <details open><summary><h2>40-42 ...{Loading}...</h2></summary>
 
 The focus on our welfare found in the last tṛca is found here in vs. 41 but is otherwise muted.
@@ -190,3 +257,4 @@ Er zeigt bei Tages Anbruch sich in schönem Glanz der goldne Trank, der holde si
 
 -ru-
 </details>
+

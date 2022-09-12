@@ -17,15 +17,82 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+carṣaṇiprā́m ← carṣaṇiprā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+rathyàm ← rathī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gopā́m ← gopā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+puruvī́ram ← puruvī́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ajáram ← ajára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dāta ← √dā- 1 (root)  
+{number:PL, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+jánān ← jána- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kṣáyam ← kṣáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ádevīḥ ← ádeva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+cakrámāma ← √kramⁱ- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRF, voice:ACT}
+
+spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+ā́devīḥ ← ā́deva- 1 (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+aśnávāma ← √naś- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+víśaḥ ← víś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,3 +258,4 @@ Gebt Reichthum, Wagen voll, der Menschen sättigt, der heldenstark das grosse Re
 Мы смогли бы превзойти (других) людей и безбожных соперников,  
 Овладеть безбожными племенами!
 </details>
+

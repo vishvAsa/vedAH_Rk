@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bhū́yaḥ ← bhū́yaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cakrame ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+dvipádaḥ ← dvipád- (nominal stem)  
+{case:ABL, number:SG}
+
+ékapāt ← ékapad- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+dvipā́t ← dvipád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+paścā́t ← paścā́t (invariable)  
+{}
+
+tripā́dam ← tripád- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhisvaré ← abhisvaré (invariable)  
+{}
+
+cátuṣpāt ← cátuṣpad- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dvipádām ← dvipád- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+paṅktī́ḥ ← paṅktí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sampáśyan ← √paś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+upatíṣṭhamānaḥ ← √sthā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Oft schon ist der einfüssige [hinkende, humpelnde] weiter vorwärts gekommen al
 Четвероногий приходит по зову двуногих,  
 Находясь при стаде (и) следя (за ним).
 </details>
+

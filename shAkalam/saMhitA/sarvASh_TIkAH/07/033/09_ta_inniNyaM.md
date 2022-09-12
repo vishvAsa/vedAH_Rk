@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+hŕ̥dayasya ← hŕ̥daya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+niṇyám ← niṇyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+praketaíḥ ← praketá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sahásravalśam ← sahásravalśa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+paridhím ← paridhí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tatám ← √tan- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+váyantaḥ ← √u- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yaména ← yamá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+apsarásaḥ ← apsarás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+seduḥ ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+vásiṣṭhāḥ ← vásiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Sie sind es, die mit Einsicht eindringen in des Herzens tausendfach verzweigtes 
 Когда они ткут по раме, натянутой Ямой,  
 Васиштхи почитают (нимф)-апсарас.
 </details>
+

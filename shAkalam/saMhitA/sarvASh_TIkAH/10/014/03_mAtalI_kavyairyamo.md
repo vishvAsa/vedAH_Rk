@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+áṅgirobhiḥ ← áṅgiras- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kavyaíḥ ← kavyá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mā́talī ← mā́talī- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yamáḥ ← yamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥kvabhiḥ ← ŕ̥kvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vāvr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vāvr̥dhúḥ ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yā́n ← yá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+anyé ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anyé ← anyá- (nominal stem)  
+{number:PL}
+
+madanti ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+svā́hā ← svā́hā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Dort freut sich Matali mit Kavja's, Jama mit Angiras, Brihaspati mit Rikvan's, G
 Кого возвеличили боги, и кто – богов:  
 Одни радуются (возгласу) Свага!, другие – Свадха!
 </details>
+

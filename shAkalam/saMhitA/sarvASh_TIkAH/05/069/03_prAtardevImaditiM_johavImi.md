@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+devī́m ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+johavīmi ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+prātár ← prātár (invariable)  
+{}
+
+madhyáṁdine ← madhyáṁdina- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+úditā ← úditi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sarvátātā ← sarvátāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ī́ḷe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+śám ← śám (invariable)  
+{}
+
+tánayāya ← tánaya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tokā́ya ← toká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yós ← yós (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +189,4 @@ Ich ruf' die Göttin Aditi am Morgen, zur Mittagszeit und bei der Sonne Weggang,
 Для полноты богатства, о Митра-Варуна,  
 Я призываю (вас), для продолжения рода, для счастья и блага.
 </details>
+

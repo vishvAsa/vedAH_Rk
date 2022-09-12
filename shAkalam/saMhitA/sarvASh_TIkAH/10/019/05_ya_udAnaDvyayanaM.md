@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424);; repeated line  
 popular;; epic anuṣṭubh (424)
+#### Morph
+udā́naṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+vyáyanam ← vyáyana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+parā́yaṇam ← parā́yaṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+udā́naṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āvártanam ← āvártana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nivártanam ← nivártana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+vartatām ← √vr̥t- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +162,4 @@ Der ihr Entfernen wohl bewacht, der ihren Fortgang wohl bewacht, Ihr Heimgehn un
 Приближением, возвращением –  
 Пастух пусть тоже вернется.
 </details>
+

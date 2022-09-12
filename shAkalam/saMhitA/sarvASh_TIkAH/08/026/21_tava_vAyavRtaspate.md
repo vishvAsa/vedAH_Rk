@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+r̥taspate ← r̥taspati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vāyo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+adbhuta ← ádbhuta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jāmātar ← jā́mātar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tváṣṭuḥ ← tváṣṭar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ávāṁsi ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ Wir wünschen deine Hülfen uns, o Tvaschtar's Eidam, herrlicher, O Vaju, du des
 У тебя, зятя Тваштара, о удивительный,  
 Мы испрашиваем поддержки.
 </details>
+

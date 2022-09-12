@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+akran ← √krand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+spáṭ ← spáś- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+árca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bhare ← √bhr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+divé ← dyú- ~ div- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pr̥thivyaí ← pr̥thivī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+táruṣantaḥ ← √taruṣy- (root)  
+{case:NOM, gender:M, number:PL}
+
+ukṣánte ← √ukṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ánu ← ánu (invariable)  
+{}
+
+arṇavaíḥ ← arṇavá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bhānúm ← bhānú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrathayante ← √śrathⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+svám ← svá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,3 +260,4 @@ Eur Späher rauschte, und um Segen zu empfahn, sing' ich dem Himmel, bring mein 
 Они поливают (своих) коней, пересекая пространство,  
 Свое сияние они ослабляют волнами (дождя).
 </details>
+

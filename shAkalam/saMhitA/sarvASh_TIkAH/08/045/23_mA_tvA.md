@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+aviṣyávaḥ ← aviṣyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mūrā́ḥ ← mūrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dabhan ← √dabh- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+upahásvānaḥ ← upahásvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+brahmadvíṣaḥ ← brahmadvíṣ- (nominal stem)  
+{case:ACC, number:PL}
+
+mā́kīm ← mā́kīm (invariable)  
+{}
+
+vanaḥ ← √vanⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Nicht mögen gier'ge Thoren dich, nicht Spötter dich beschädigen, Nicht sei de
 Ни жадные глупцы, ни насмешники!  
 Да не пригреешь ты ненавистников молитвы!
 </details>
+

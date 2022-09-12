@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+jaghā́na ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+svádhitiḥ ← svádhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vánā ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áradat ← √rad- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rurója ← √ruj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+síndhūn ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bibhéda ← √bhid- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+girím ← girí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+kumbhám ← kumbhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+návam ← náva- 2 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+akr̥ṇuta ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svayúgbhiḥ ← svayúj- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +246,4 @@ Er schlug den Vritra, wie die Axt die Bäume, er brach die Burgen, bohrte Bahn d
 Он расколол гору, совсем как новый горшок.  
 Индра со своим союзниками загнал скот.
 </details>
+

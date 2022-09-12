@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+marjayanta ← √mr̥j- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+sukrátum ← sukrátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ājíṣu ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+puroyā́vānam ← puroyā́van- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kṣáyeṣu ← kṣáya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+svéṣu ← svá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +147,4 @@ Ihn schmücken sie, den trefflichen, der in den Kämpfen Führer ist, Im eignen 
 Мчащегося впереди в состязаниях,  
 Приносящего награду в свои края.
 </details>
+

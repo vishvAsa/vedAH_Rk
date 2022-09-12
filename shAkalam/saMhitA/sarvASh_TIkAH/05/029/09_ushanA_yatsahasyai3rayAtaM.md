@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áyātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+sahasyaìḥ ← sahasyà- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+uśánā ← uśánā- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gr̥hám ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jūjuvānébhiḥ ← √jū- (root)  
+{case:INS, gender:M, number:PL, tense:PRF, voice:MED}
+
+átra ← átra (invariable)  
+{}
+
+sarátham ← sarátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vanvānáḥ ← √vanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+yayātha ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ávanoḥ ← √vanⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+kútsena ← kútsa- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śúṣṇam ← śúṣṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Als Uçana und Indra mit den starken, den raschgetriebnen Rossen ihr ins Haus ka
 Ты отправился, покоритель, на одной колеснице  
 С Кутсой, с богами. Ты же покорил Шушну.
 </details>
+

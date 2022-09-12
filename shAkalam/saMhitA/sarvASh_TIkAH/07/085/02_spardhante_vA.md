@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átra ← átra (invariable)  
+{}
+
+devahū́ye ← devahū́ya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+spárdhante ← √spr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+u ← u (invariable)  
+{}
+
+vaí ← vaí (invariable)  
+{}
+
+dhvajéṣu ← dhvajá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+didyávaḥ ← didyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pátanti ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yéṣu ← yá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+indrāvaruṇau ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+hatám ← √han- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+párācaḥ ← párāñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śárvā ← śáru- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+víṣūcaḥ ← víṣvañc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Wetteifernd rufen Götter an die Heere, wo bei den Bannern dort Geschosse fliege
 О Индра-Варуна, вы этих недругов  
 Убейте, чтоб они устремились далеко, рассыпаясь в стороны!
 </details>
+

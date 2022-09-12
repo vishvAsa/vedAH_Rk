@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+átas ← átas (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ita ← √i- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ita ← √i- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sarpata ← √sr̥p- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+akran ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asmaí ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+lokám ← loká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+adbhíḥ ← áp- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+áhobhiḥ ← áhar ~ áhan- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+aktúbhiḥ ← aktú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vyàktam ← √añj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+avasā́nam ← avasā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yamáḥ ← yamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +235,4 @@ Geht fort von hier, verlasst ihn und zerstreut euch, schon schufen Väter ihm di
 Яма дает ему место успокоения,  
 Украшенное днями, водами, ночами.
 </details>
+

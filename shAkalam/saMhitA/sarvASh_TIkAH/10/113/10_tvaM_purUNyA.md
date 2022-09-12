@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sváśvyā ← sváśvya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+máṁsai ← √man- 1 (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+nivácanāni ← nivácana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śáṁsan ← √śaṁs- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+duritā́ ← duritá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sugébhiḥ ← sugá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+tarema ← √tr̥̄- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+adyá ← adyá (invariable)  
+{}
+
+gādhám ← gādhá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+urviyā́ ← urviyā́ (invariable)  
+{}
+
+vidá ← √vid- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +221,4 @@ Bring du uns vielen Reichthum schöner Rosse, für den ich preisen will Gebete s
 Легкими путями пусть пройдем мы через все трудности!  
 Найди же нам сегодня брод пошире!
 </details>
+

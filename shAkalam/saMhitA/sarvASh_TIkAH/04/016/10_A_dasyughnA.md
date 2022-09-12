@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ástam ← ásta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dasyughnā́ ← dasyuhán- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bhúvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+kútsaḥ ← kútsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+níkāmaḥ ← níkāma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sadatam ← √sad- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sárūpā ← sárūpa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+cikitsat ← √cit- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT, mood:DES}
+
+ha ← ha (invariable)  
+{}
+
+nā́rī ← nā́rī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+r̥tacít ← r̥tacít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +252,4 @@ Mit deinem Sinn, der Feinde schlägt, besuch uns, befreundet sei dir Kutsa, dein
 Усаживайтесь в собственном лоне, вы двое, одинаковой внешности!  
 Различит ли вас даже жена, знающая закон?
 </details>
+

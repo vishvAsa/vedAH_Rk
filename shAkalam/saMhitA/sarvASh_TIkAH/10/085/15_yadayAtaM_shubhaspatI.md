@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+áyātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+patī ← páti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śubhaḥ ← śúbh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sūryā́m ← sūryā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vareyám ← √varey- (root)  
+{case:ACC, number:SG}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kvà ← kvà (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+deṣṭrā́ya ← deṣṭrá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+kvà ← kvà (invariable)  
+{}
+
+tasthathuḥ ← √sthā- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +187,4 @@ Als ihr, o Herrn des Glanzes, zur Werbung hin zur Suriā fuhrt, wo war da das ei
 Где было одно ваше колесо,  
 Где стояли вы, чтобы указать?
 </details>
+

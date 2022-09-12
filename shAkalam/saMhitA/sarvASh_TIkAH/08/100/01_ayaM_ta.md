@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+emi ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+purástāt ← purástāt (invariable)  
+{}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+paścā́t ← paścā́t (invariable)  
+{}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dī́dharaḥ ← √dhr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+kr̥ṇavaḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+máyā ← ahám (pronoun)  
+{case:INS, number:SG}
+
+vīryā̀ṇi ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +227,7 @@ I take dī́dharaḥ as the subjunctive of the redupl. aor., whose indicative fo
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 As I argue in the published introduction, the heavy emphasis on Indra’s designating a portion of soma at the beginning of the sacrifice for “you,” the speaker of vs. 1, points strongly at Vāyu as this speaker, rather than Viṣṇu, as Geldner suggests.
@@ -198,3 +262,4 @@ Ich hier gehe in eigener Person dir voran, alle Götter folgen mir hinterdrein. 
 О Индра, вот тогда ты совершишь со мною подвиги.  
 Индра:
 </details>
+

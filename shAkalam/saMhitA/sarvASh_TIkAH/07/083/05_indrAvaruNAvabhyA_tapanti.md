@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+índrāvaruṇau ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+tapanti ← √tap- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+aghā́ni ← aghá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+árātayaḥ ← árāti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vanúṣām ← vanús- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+rā́jathaḥ ← √rāj- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ubháyasya ← ubháya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ádha ← ádha (invariable)  
+{}
+
+avatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pā́rye ← pā́rya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sma ← sma (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +222,4 @@ Von allen Seiten drängen, Indra-Varuna, des Feindes Tücken und der Gegner Bosh
 Ведь вы двое повелеваете добром обоего рода.  
 Так помогите же нам в решающий день!
 </details>
+

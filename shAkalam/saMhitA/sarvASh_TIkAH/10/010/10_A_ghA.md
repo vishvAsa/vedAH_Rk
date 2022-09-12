@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+gachān ← √gam- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+gha ← gha (invariable)  
+{}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+úttarā ← úttara- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yugā́ni ← yugá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ájāmi ← ájāmi- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+jāmáyaḥ ← jāmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kr̥ṇávan ← √kr̥- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
+bāhúm ← bāhú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+barbr̥hi ← √br̥h- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+vr̥ṣabhā́ya ← vr̥ṣabhá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ichasva ← √iṣ- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+mát ← ahám (pronoun)  
+{case:ABL, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+subhage ← subhága- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Wohl mögen kommen spätere Geschlechter, wo Blutsverwandte Blutschuld auf sich 
 Ищи себе, прекрасная, другого, чем я, мужа!  
 Ями:
 </details>
+

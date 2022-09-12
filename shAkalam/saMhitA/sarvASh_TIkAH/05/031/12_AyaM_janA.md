@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+abhicákṣe ← √cakṣ- (root)  
+{case:DAT, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+jagāma ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+janāḥ ← jána- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ichán ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutásomam ← sutásoma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+bhriyāte ← √bhr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:PASS}
+
+grā́vā ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vádan ← √vadⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+védim ← védi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+adhvaryávaḥ ← adhvaryú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cáranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jīrám ← jīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Es kam herbei, o Menschen, dieser Indra, zu sehn den Freund, den Somapresser hei
 Стучащий давильный камень надо опустить на алтарь -  
 Его быстрое движение стерегут адхварью.
 </details>
+

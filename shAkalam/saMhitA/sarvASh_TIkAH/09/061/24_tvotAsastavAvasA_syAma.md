@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tvótāsaḥ ← tvóta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āmúraḥ ← āmúr- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+syā́ma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vanvántaḥ ← √vanⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+jāgr̥hi ← √gr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+sóma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vratéṣu ← vratá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -96,7 +124,7 @@ Pāda a consists of the etymologically identical phrases tvótāsaḥ ‘aided b
 Pāda b contains a curious verbal periphrasis, syā́ma vanvántaḥ “may we be combatting,” with opt. to √as as aux. plus the pres. act, part. to vanóti. This expression does not seem to be conveying anything different from the opt. to the same pres. stem, vanuyā́ma (5x), e.g., X.38.3 tváyā vayáṃ tā́n [śátrūn] vanuyāma “With you might we combat those (rivals).” As noted above, vratá- in this pāda may have been chosen to recall vṛtráphonologically, forming a faint ring with the √vṛ forms in 22 vṛtrā́ya … vavrivā́ṃsam. It may even be that jāgṛhi ‘be watchful’ evokes a form of √han, as in 20a jághnir vṛtrám; see also jahī́in 26b.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/22-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 The tṛca has something of an emphasis on combat and winning, and the Vṛtra topic introduced in 22 is reprised via phonological deformation by vratéṣu in 24c.
@@ -127,3 +155,4 @@ Durch deine Hülfe, deinen Schutz lass schlagen die Verderber uns, Bewach', o So
 Да будем мы теми, кто преодолевает препятствия!  
 О сома, следи за заветами!
 </details>
+

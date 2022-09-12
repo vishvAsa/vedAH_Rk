@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhiṣáṇām ← dhiṣáṇā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥tāvŕ̥dhe ← r̥tāvŕ̥dh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vaiśvānarā́ya ← vaiśvānará- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+janāmasi ← √janⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pūtám ← √pū- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ca ← ca (invariable)  
+{}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vāghátaḥ ← vāghát- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+kúliśaḥ ← kúliśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥ṇvati ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Dem Männerhort, dem Agni, der des Rechts sich freut, erzeugen Loblied wir wie r
 Сразу же жрецы мыслью создают (этого Агни) –  
 Хотара еще у Мануса, как топор – колесницу.
 </details>
+

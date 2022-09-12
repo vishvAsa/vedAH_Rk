@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suparṇám ← suparṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vácobhiḥ ← vácas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bahudhā́ ← bahudhā́ (invariable)  
+{}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kalpayanti ← √kl̥p- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+adhvaréṣu ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+chándāṁsi ← chándas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dádhataḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dvā́daśa ← dvā́daśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+gráhān ← gráha- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+mimate ← √mā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Den andern Adler [Soma], der an sich nur einer ist, haben die weisen Sänger dur
 Устанавливая во время обрядов стихотворные размеры,  
 Они отмеряют двенадцать кружек сомы.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ámartyā ← ámartya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+aprāḥ ← √prā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nivátaḥ ← nivát- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+udvátaḥ ← udvát- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+bādhate ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ Die Göttin, die unsterbliche, erfüllt die Thäler rings und Höhn, Und treibt 
 Широкое (пространство), низины (и) высоты.  
 Светом она вытесняет мрак.
 </details>
+

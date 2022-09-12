@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ávāvaśanta ← √vāś- (root)  
+{number:PL, person:3, mood:IND, tense:PLUPRF, voice:MED}
+
+dhītáyaḥ ← dhītí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+rétasi ← rétas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mātáraḥ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sūnóḥ ← sūnú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vatsásya ← vatsá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +148,4 @@ Es rauschten die Gebete laut, des jungen Kalbes Mütter sie, Als seinen Samen li
 В связи с семенем быка,  
 (Их) сына, теленка, (они,) матери.
 </details>
+

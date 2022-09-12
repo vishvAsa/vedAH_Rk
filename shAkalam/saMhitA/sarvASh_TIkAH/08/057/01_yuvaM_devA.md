@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+devā ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+krátunā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pūrvyéṇa ← pūrvyá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+taviṣám ← taviṣá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yajatrā ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuktā́ ← √yuj- (root)  
+{non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agachatam ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+pibāthaḥ ← √pā- 2 (root)  
+{number:DU, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+sávanam ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tr̥tī́yam ← tr̥tī́ya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +191,4 @@ Ihr Götter kommt mit eurer alten Einsicht, o hehre, kraftgeschirrt an euren Wag
 Приезжайте, о Насатьи, с (вашими) милостями!  
 Пейте это третье выжимание (сомы)!
 </details>
+

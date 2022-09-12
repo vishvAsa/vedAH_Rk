@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ayóḥ ← ayám (pronoun)  
+{case:LOC, gender:M, number:DU}
+
+cárkr̥ṣe ← √kr̥̄- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+saparyán ← √sapary- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+upānasáḥ ← upānasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nadáyoḥ ← nadá- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vívratayoḥ ← vívrata- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +153,4 @@ Mit welchen beiden auf verschiedenen Seiten vorstrebenden Hengsten zugleich der 
 Как находящийся в повозке, служащий (им),  
 Ржущим, строптивым – Индра-герой.
 </details>
+

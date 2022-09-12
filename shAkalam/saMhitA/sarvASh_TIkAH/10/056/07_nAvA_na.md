@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular;; repeated line  
 popular  
 popular
+#### Morph
+kṣódaḥ ← kṣódas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nāvā́ ← naú- ~ nā́v- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pradíśaḥ ← pradíś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+durgā́ṇi ← durgá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+br̥hádukthaḥ ← br̥háduktha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prajā́m ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+svā́m ← svá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adadhāt ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ávareṣu ← ávara- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+páreṣu ← pára- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ Wie auf dem Schiff durchs Meer in ferne Lande, so fuhr sein eignes Kind auch Bri
 Брихадуктха благодаря (своему) величию вложил  
 Свою смену в поздние (и) в ранние (поколения).
 </details>
+

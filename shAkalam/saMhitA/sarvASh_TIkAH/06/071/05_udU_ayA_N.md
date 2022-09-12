@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayān ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bāhū́ ← bāhú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+upavaktā́ ← upavaktár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+hiraṇyáyā ← hiraṇyáya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suprátīkā ← suprátīka- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+aruhat ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+róhāṁsi ← róhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ábhvam ← ábhva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+árīramat ← √ram- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+patáyat ← √pat- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Die glänzendschönen, goldnen Arme streckte Gott Savitar empor wie ein Gebieter
 Он поднялся на подьемы неба (и) земли,  
 Он успокоил любую летающую нежить.
 </details>
+

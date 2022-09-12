@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+íṣkr̥tiḥ ← íṣkr̥ti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+átha ← átha (invariable)  
+{}
+
+níṣkr̥tīḥ ← níṣkr̥ti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+stha ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+patatríṇīḥ ← patatrín- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sīrā́ḥ ← sīrā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sthana ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+āmáyati ← √amⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kr̥tha ← √kr̥- (root)  
+{number:PL, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +198,4 @@ Wie eure Mutter Heilerecht, heisst ihr die Töchter Macheheil; Ihr seid beschwin
 Вы потоки, летящие на крыльях.  
 Что болит, (то) вы излечиваете.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+étaśam ← étaśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sū́raḥ ← svàr- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tudát ← √tud- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+parṇínā ← parṇín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vaṅkū́ ← vaṅkú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vā́tasya ← vā́ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ārjuneyám ← ārjuneyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kútsam ← kútsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatákratuḥ ← śatákratu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váhat ← √vah- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ástr̥tam ← ástr̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gandharvám ← gandharvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tsárat ← √tsar- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +187,4 @@ Er stachle an der Sonne Ross, des Windes schnelles Vogelpaar, Vielwirkend fahr e
 Стоумный повез Кутсу, сына Арджуны.  
 Он подкрался к Гандхарве неодолимому.
 </details>
+

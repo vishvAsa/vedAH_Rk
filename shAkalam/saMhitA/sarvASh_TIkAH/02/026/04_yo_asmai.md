@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ávidhat ← √vidh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ghr̥távadbhiḥ ← ghr̥távant- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+havyaíḥ ← havyá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+nayati ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prācā́ ← prā́ñc- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+rákṣati ← √rakṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+riṣáḥ ← ríṣ- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+uruṣyáti ← √uruṣy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ádbhutaḥ ← ádbhuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aṁhóḥ ← aṁhú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+urucákriḥ ← urucákri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +236,4 @@ Wer ihm mit Opfern, fettversehnen, huldigte den führet sicher vorwärts der Geb
 Он спасает его от беды, охраняет от повреждения,  
 Даже из узости удивительный (бог) создает ему широкое пространство.
 </details>
+

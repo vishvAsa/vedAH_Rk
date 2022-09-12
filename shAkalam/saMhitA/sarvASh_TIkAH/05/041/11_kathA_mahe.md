@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bravāma ← √brū- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rudríyāya ← rudríya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhágāya ← bhága- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cikitúṣe ← √cit- (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+avantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+giráyaḥ ← girí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vánā ← vána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vr̥kṣákeśāḥ ← vr̥kṣákeśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Was wollen wir dem grossen Rudra sagen? und was dem weisen Bhaga, ihm, dem Reich
 Воды, а также растения да помогут нам,  
 Небо, деревья, горы с волосами-деревьями!
 </details>
+

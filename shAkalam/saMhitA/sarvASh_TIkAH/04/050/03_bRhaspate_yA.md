@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+paramā́ ← paramá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+parāvát ← parāvát- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+átas ← átas (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+r̥taspŕ̥śaḥ ← r̥taspŕ̥ś- (nominal stem)  
+{case:NOM, number:PL}
+
+seduḥ ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ádridugdhāḥ ← ádridugdha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+avatā́ḥ ← avatá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+khātā́ḥ ← √khanⁱ- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+abhítas ← abhítas (invariable)  
+{}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ścotanti ← √ścut- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+virapśám ← virapśá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +202,7 @@ As Geldner’s cited parallels make clear, pāda b concerns the Sattra that the 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
 <details open><summary><h2>01-06 ...{Loading}...</h2></summary>
 
 As indicated in the published introduction, this section concerns the unitary figure (Indra-)Bṛhaspati, here insistently identified as Bṛhaspati: there are 7 occurrences of the name in 6 vss., one in each save for two in vs. 2.
@@ -179,3 +234,4 @@ Die sind aus fernster Ferne hergekommen, Brihaspati, die nun das Opfer hegen; Di
 Для тебя сочатся зарытые колодцы,  
 Доимые камнями, избытком сладости со всех сторон.
 </details>
+

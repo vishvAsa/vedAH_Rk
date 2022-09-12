@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kíla ← kíla (invariable)  
+{}
+
+śrútyai ← √śru- (root)  
+{case:DAT, number:SG}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+jiṣṇúḥ ← jiṣṇú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pathikŕ̥t ← pathikŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sū́ryāya ← sū́rya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ácyutaḥ ← ácyuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+bhúvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+kr̥ṇván ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ménām ← ménā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ápratītaḥ ← ápratīta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sanajā́ḥ ← sanajā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Indra fürwahr kann wol das Lied erhören, denn siegreich schuf der Sonne ihre B
 И создавая самку для быка, непоколебимый был  
 Господином неба, издревле рожденным, неотразимым.
 </details>
+

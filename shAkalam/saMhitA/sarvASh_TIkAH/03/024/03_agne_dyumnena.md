@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dyumnéna ← dyumná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jāgr̥ve ← jā́gr̥vi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+āhuta ← √hu- (root)  
+{case:VOC, gender:M, number:SG, non-finite:PPP}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+sadaḥ ← √sad- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +168,4 @@ Mit Glanz, o wacher Agni du, o Sohn der Kraft, beopferter, Setz' dich auf diese 
 О сын силы, политый (маслом),  
 Сядь сюда ко мне на жертвенную солому!
 </details>
+

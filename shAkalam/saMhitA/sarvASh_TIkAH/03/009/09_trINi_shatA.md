@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahásrāṇi ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śatā́ ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+trī́ ← trí- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asaparyan ← √sapary- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+náva ← náva- 1 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+triṁśát ← triṁśát- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ástr̥ṇan ← √str̥̄- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+aúkṣan ← √ukṣ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ghr̥taíḥ ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+asādayanta ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ā́t ← ā́t (invariable)  
+{}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +235,4 @@ Die dreimaltausend dreimalhundertdreissig und neun an Zahl, die Götter ehrten A
 Они кропили жиром, разостлали ему жертвенную солому,  
 Затем они усадили его как хотара.
 </details>
+

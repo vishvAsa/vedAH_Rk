@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+udīráyantīm ← √īr- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vacovídam ← vacovíd- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+upatíṣṭhamānām ← √sthā- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:MED}
+
+víśvābhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+devī́m ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+eyúṣīm ← √i- 1 (root)  
+{case:ACC, gender:F, number:SG, tense:PRF, voice:ACT}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+avr̥kta ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+dabhrácetāḥ ← dabhrácetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +223,4 @@ Mich, die der Rede kundige, die ich die Stimme erhebe, allen Andachten zur Seite
 Божественную корову, пришедшую от богов,  
 (Меня) использовал смертный со слабым разумом.
 </details>
+

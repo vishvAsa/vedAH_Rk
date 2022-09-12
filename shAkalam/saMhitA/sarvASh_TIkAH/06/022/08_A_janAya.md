@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+drúhvaṇe ← drúhvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pā́rthivāni ← pā́rthiva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+antárikṣā ← antárikṣa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dīpayaḥ ← √dī- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+divyā́ni ← divyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+tápa ← √tap- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+vr̥ṣan ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+brahmadvíṣe ← brahmadvíṣ- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+kṣā́m ← kṣám- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śocaya ← √śuc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Dem tück'schen Manne zünde an die Flammen, die auf der Erd', im Himmel, in der
 Сожги их жаром, о бык, со всех сторон!  
 Для ненавистника священного слова спали землю и воды!
 </details>
+

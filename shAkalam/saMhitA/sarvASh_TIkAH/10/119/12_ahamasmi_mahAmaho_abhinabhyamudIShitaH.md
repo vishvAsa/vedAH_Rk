@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+asmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+mahāmaháḥ ← mahāmahá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhinabhyám ← abhinabhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+údīṣitaḥ ← √īṣ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP, mood:DES}
+
+ápām ← √pā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+kuvít ← kuvít (invariable)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +143,4 @@ Sehr gross bin ich und habe mich zur Wolkenhöh' emporgestreckt Hat mich der Som
 Я поднялся до туч –  
 Не напился ли я сомы?
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átas ← átas (invariable)  
+{}
+
+bhárat ← √bhr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+vévijānaḥ ← √vij- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+víḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yádi ← yádi (invariable)  
+{}
+
+asarji ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+mánojavāḥ ← mánojavas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+urúṇā ← urú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mádhunā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+somyéna ← somyá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tū́yam ← tū́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yayau ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vivide ← √vid- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +200,7 @@ was changed redactionally, to match yádi in IV.27.3. A heavy syllable in fourth
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/026/04-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/026/04-07.md">
 <details open><summary><h2>04-07 ...{Loading}...</h2></summary>
 
 The 3rd sg. act. impf./injunc. of √bhṛ is the “hero” of this, the mythological portion, of the hymn: bhárat (4d, 5a), bharat (6c), abharat (7a).
@@ -177,3 +232,4 @@ Als ihn von dort der rasche Vogel brachte, da flog gedankenschnell auf weitem Pf
 Быстро прилетела она с медом – сомой,  
 И орел при этом нашел славу.
 </details>
+

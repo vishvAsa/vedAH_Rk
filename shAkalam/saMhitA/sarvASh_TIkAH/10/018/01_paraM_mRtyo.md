@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mr̥tyo ← mr̥tyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+páram ← pára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devayā́nāt ← devayā́na- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ítaraḥ ← ítara- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sváḥ ← svá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bravīmi ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+cákṣuṣmate ← cákṣuṣmant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śr̥ṇvaté ← √śru- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prajā́m ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rīriṣaḥ ← √riṣ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+vīrā́n ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +247,4 @@ Zieh weit von hier, o Tod, auf deine Strasse, die fern ist von dem gottbetretnen
 Тебе, зрящей и внемлющей, я говорю:  
 Не поражай ни наших детей, ни мужей!
 </details>
+

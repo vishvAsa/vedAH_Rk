@@ -16,14 +16,69 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kā́yamānaḥ ← √kā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vanā́ ? ← ván- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ájagan ← √gam- (root)  
+{number:SG, person:2, mood:IND, tense:PLUPRF, voice:ACT}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mātr̥̄́ḥ ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nivártanam ← nivártana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pramŕ̥ṣe ← √mr̥ṣ- (root)  
+{case:DAT, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ábhavaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dūré ← dūrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Dass Wälder liebend du zurück zu Wassern, deinen Müttern gingst; Nicht zu ver
 Ты не должен забывать о возвращении,  
 (Даже) будучи далеко, (о том) что ты был здесь.
 </details>
+

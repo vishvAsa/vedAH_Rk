@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+haryatáḥ ← haryatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pávate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+áti ← áti (invariable)  
+{}
+
+hvárāṁsi ← hváras- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ráṁhyā ← ráṁhi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+abhyárṣan ← √arṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+vīrávat ← vīrávant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáśaḥ ← yáśas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -96,7 +127,7 @@ The well-loved pun haryatá- ‘delightful’ and hári- ‘tawny, fallow bay’
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/13-14.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/13-14.md">
 <details open><summary><h2>13-14 ...{Loading}...</h2></summary>
 
 The last two extra vss. do not allow a detached 4-syllable unit, because the word boundaries don’t coincide.
@@ -127,3 +158,4 @@ Der holde, goldne rieselt hell in Eile durch das wollne Netz, Hin zu den Sänger
 В быстром беге через препятствия,  
 Струя восхвалителям блеск, состоящий из мужей.
 </details>
+

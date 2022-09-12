@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+śrā́yantaḥ ← √śrā- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhakṣata ← √bhaj- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jánamāne ← √janⁱ- (root)  
+{case:LOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+jāté ← √janⁱ- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dīdhima ← √dhī- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +210,4 @@ Sich wendend wie zur Sonne hin empfangen Indra's Güter sie; Wenn der geborne ne
 (Каждый раз,) когда он благодаря силе родился и рождается,  
 Мы представляем себе блага как (нашу) долю.
 </details>
+

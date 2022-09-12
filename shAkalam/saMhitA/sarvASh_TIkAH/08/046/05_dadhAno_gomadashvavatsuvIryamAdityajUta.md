@@ -15,13 +15,41 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; line affected by realignment;; 12 = 8+4  
 genre M;; line affected by realignment  
 genre M
+#### Morph
+áśvavat ← áśvavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+gómat ← gómant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ādityájūtaḥ ← ādityájūta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+edhate ← √idh- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+puruspŕ̥hā ← puruspŕ̥h- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sádā ← sádā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Besitz an Rind und Ross und Heldenreichthum empfangend, gedeiht er stets an viel
 Богатство из прекрасных мужей, он всегда процветает  
 Благодаря многожеланному богатству, поощряемый Адитьями.
 </details>
+

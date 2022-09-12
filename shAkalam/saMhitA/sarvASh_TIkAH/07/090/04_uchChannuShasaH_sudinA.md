@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ariprā́ḥ ← ariprá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sudínāḥ ← sudína- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+uchán ← √vas- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dī́dhyānāḥ ← √dhī- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vividuḥ ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+gávyam ← gávya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrvám ← ūrvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uśíjaḥ ← uśíj- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vavruḥ ← √vr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pradívaḥ ← pradív- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sasruḥ ← √sr̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Es leuchten heitre, reine Morgenröthen, die strahlenden ergossen weiten Lichtsc
 Ушиджи раскрыли пещеру с коровами;  
 Их воды текут с незапамятных времен.
 </details>
+

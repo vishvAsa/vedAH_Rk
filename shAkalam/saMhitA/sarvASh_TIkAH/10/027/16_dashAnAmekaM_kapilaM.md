@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+daśānā́m ← dáśa- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kapilám ← kapilá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samānám ← samāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hinvanti ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+krátave ← krátu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pā́ryāya ← pā́rya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+súdhitam ← súdhita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vakṣáṇāsu ← vakṣáṇā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ávenantam ← ávenant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bibharti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tuṣáyantī ← √tuṣ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +200,4 @@ Den einen bräunlichen [die Sonne?], welcher der Schar der zehne gemeinsam ist, 
 
 -ru-
 </details>
+

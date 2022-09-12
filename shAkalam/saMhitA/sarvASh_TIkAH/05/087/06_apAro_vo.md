@@ -17,15 +17,76 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apāráḥ ← apārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahimā́ ← mahimán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vr̥ddhaśavasaḥ ← vr̥ddháśavas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+avatu ← √avⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+evayā́marut ← evayā́marut- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tveṣám ← tveṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+prásitau ← prásiti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+saṁdŕ̥śi ← saṁdŕ̥ś- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sthána ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sthā́tāraḥ ← sthā́tar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nidáḥ ← níd- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+uruṣyata ← √uruṣy- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+agnáyaḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śuśukvā́ṁsaḥ ← √śuc- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +248,4 @@ Unbegrenzt ist eure Grösse, o hochgewaltige; hülfreich sei eure ungestüme Mac
 Создайте нам выход из хулы,  
 О ярко сверкающие, словно огни!
 </details>
+

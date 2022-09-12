@@ -16,14 +16,54 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+kr̥ṇavat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ákavārī ← ákavāri- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cetati ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vājínīvatī ← vājínīvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+gr̥ṇānā́ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+jamadagnivát ← jamadagnivánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+stuvānā́ ← √stu- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+vasiṣṭhavát ← vasiṣṭhavát (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +197,4 @@ Uns schaffe Glück Sarasvati, die Glück verleiht, denn geizig nicht erweist die
 Когда ее воспевают подобно Джамадагни,  
 Когда ее восхваляют подобно Васиштхе.
 </details>
+

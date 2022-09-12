@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+īyúḥ ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+nyarthám ← nyarthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+páruṣṇīm ← paruṣá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+abhipitvám ← abhipitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āśúḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+jagāma ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sudā́se ← sudā́s- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sutúkān ← sutúka- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+árandhayat ← √randh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mā́nuṣe ← mā́nuṣa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vádhrivācaḥ ← vádhrivāc- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +229,4 @@ Ihr Ziel, der Strom, ward ihnen zum Verderben; der schnellste selbst fand dort d
 Индра отдал в Мануше во власть Судасу  
 Бегущих во весь дух недругов с голосами кастратов.
 </details>
+

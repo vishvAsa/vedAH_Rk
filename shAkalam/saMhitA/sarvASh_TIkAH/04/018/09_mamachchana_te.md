@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+caná ← caná (invariable)  
+{}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mámat ← mámat (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vyàṁsaḥ ← vyàṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+hánū ← hánu- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+jaghā́na ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+nivividhvā́n ← √vyadh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ádha ← ádha (invariable)  
+{}
+
+babhūvā́n ← √bhū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+níviddhaḥ ← √vyadh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dāsásya ← dāsá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+piṇak ← √piṣ- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vadhéna ← vadhá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +201,7 @@ Unfortunately I have nothing further to say about the sense of this vs. I have t
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md">
 <details open><summary><h2>06-09 ...{Loading}...</h2></summary>
 
 For my interpr. of the speakers in these vss. and the role of the waters in the myth, see published introduction. Most tr. take the vss. as all spoken by Indra’s mother (Geldner [/Witzel Gotō], Doniger), whereas I distribute them to a variety of voices: 6 Indra, 7 Indra’s mother, 8 waters, 9 Indra’s mother. As I see it, in 6 Indra prompts his mother to ask the waters questions; in 7 she rather sarcastically and belittlingly asks questions about them, whom she seems to accuse of trying to lay claim to her son. They respond directly to him in 8, reminding him of his mother’s dereliction of maternal duty and suggesting that they are better at mothering him than she is. So that she rather defiantly points out in 9 that subsequent negative things that happened to him were not her fault.
@@ -179,3 +234,4 @@ Jetzt schlug, o Mächt'ger, dir die beiden Kiefern, Viansa ab, der Unhold, dich 
 Ты раздробил голову дасы смертельным оружием.  
 Рассказчик:
 </details>
+

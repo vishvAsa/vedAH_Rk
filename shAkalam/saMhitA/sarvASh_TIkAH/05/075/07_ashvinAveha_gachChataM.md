@@ -17,15 +17,73 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+áśvinau ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gachatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+venatam ← √ven- (root)  
+{number:DU, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+aryayā́ ← aryayā́ (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+tirás ← tirás (invariable)  
+{}
+
+adābhyā ← ádābhya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́dhvī ← mā́dhvī- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+śrutam ← √śru- (root)  
+{number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ O Ritter, kommet her zu uns, ihr treuen, nicht entziehet euch; Auch durch die Fe
 Совершите (свой) круговой объезд, о не терпящие обмана!  
 О любители меда, услышьте мой призыв!
 </details>
+

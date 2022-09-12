@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+ávobhiḥ ← ávas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+bhavatām ← √bhū- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+indrāgnī́ ← indrāgní- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+índrāváruṇā ← índrāváruṇa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rātáhavyā ← rātáhavya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śám ← śám (invariable)  
+{}
+
+índrāsómā ← índrāsóma- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śám ← śám (invariable)  
+{}
+
+śám ← śám (invariable)  
+{}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yós ← yós (invariable)  
+{}
+
+índrāpūṣáṇā ← índrāpūṣán- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+vā́jasātau ← vā́jasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +232,4 @@ Zum Heile sein mit Huld uns Indra, Agni, und die verehrten Varuna und Indra, Zu 
 На счастье Индра-Сома, на удачу! Счастье, благо!  
 На счастье нам Индра-Пушан, при захвате добычи!
 </details>
+

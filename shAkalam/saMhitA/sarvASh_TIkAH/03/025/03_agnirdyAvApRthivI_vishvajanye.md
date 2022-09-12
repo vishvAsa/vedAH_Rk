@@ -15,13 +15,50 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+viśvájanye ← viśvájanya- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+amŕ̥te ← amŕ̥ta- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ámūraḥ ← ámūra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhāti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devī́ ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+kṣáyan ← √kṣā- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+puruścandráḥ ← puruścandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jaiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Der ganzen Welt Göttinen: Erd' und Himmel, die ew'gen strahlt herbei der weise 
 Принадлежащих всем людям, бессмертных богинь, (он), безошибочный,  
 Владеющий наградами, обладающий большим блеском благодаря поклонениям (людей).
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iṣye ← √iṣ- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+r̥bhúbhyaḥ ← r̥bhú- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+īḷe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+śvaítarīm ← śvaítarī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+upastíre ← upastír- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+taráṇibhiḥ ← taráṇi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vā́tajūtāḥ ← vā́tajūta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+apásaḥ ← apás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+babhūvúḥ ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+sadyás ← sadyás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Den Ribhu's send' ich meine Stimm' als Boten; ich wünsche weisse Milch zum Uebe
 (К Рибху), которые, быстрые, словно ветер, благодаря (своим) решительным действиям  
 За один день покоряют небо (они,) искусные.
 </details>
+

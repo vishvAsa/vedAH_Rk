@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apadran ← √pad- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+átra ← átra (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+paṇáyaḥ ← paṇí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śataíḥ ← śatá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+arkásātau ← arkásāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+dáśoṇaye ← dáśoṇi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kaváye ← kaví- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+aśúṣasya ← aśúṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+māyā́ḥ ← māyā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śúṣṇasya ← śúṣṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vadhaíḥ ← vadhá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+arirecīt ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+caná ← caná (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pitváḥ ← pitú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +205,7 @@ I don’t understand pāda d, but I would point out that another “insatiable �
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/020/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/020/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 As Geldner (n. 4-5) notes, these two vss. probably belong together as an account of the ever-fragmented Śuṣṇa / Kutsa myth, though the connection of the Paṇis (pāda a) to this myth is somewhat uncertain. Oldenberg (ZDMG 55.326-27) treats these vss. in detail.
@@ -182,3 +237,4 @@ Durch hundert Hiebe stürzten da die Diebe, o Indra, und des bösen Çuschna Lis
 От (твоих) смертельных ударов (разлетелись) колдовские чары прожорливого Шушны.  
 Из еды он не оставил (ему) ничего.
 </details>
+

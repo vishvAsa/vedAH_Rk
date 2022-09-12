@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+itás ← itás (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+siñcata ← √sic- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sutám ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uttamám ← uttamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+antár ← antár (invariable)  
+{}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+dadhanvā́n ← √dhanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+náryaḥ ← nárya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suṣā́va ← √su- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +186,7 @@ Instead I think we must explain the retroflexion as an effect of the preverb pá
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The first metrical unit in the hymn has a third vs. appended to the pragātha with a 2-pāda configuration of 12 8, identified by the Anukr. as Dvipadā Virāj Bhurij. Arnold (248, E72) analyses vss. 2-3 as simply an extended Satobṛhatī (12 8 / 12 8 / 12 8). See Oldenberg (Proleg. 104-5) on the types of extensions of pragāthas, incl. this one. Since vs. 3 simply hangs off vs. 2 and need not be syntactically independent, the “extension” suggestion is quite plausible.
@@ -168,3 +220,4 @@ Ergiesset den gepressten hier den Soma, ihn den besten Trank, Der zwischen Wasse
 (Тот) мужественный, кто помчался в недрах вод,  
 (Этого) сому (жрец) выжал камнями.
 </details>
+

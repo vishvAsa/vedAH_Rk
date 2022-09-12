@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dhvasayaḥ ← √dhvaṁs- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+sánāmānā ← sánāman- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ahan ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ánaḥ ← ánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+agachaḥ ← √gam- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+níkāmaiḥ ← níkāma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+r̥ṣvaíḥ ← r̥ṣvá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sákhibhiḥ ← sákhi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hŕ̥dyā ← hŕ̥dya- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+jaghantha ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+pratiṣṭhā́ ← pratiṣṭhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sākám ← sākám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +211,4 @@ Die beiden gleichnamigen [finstre Nebel und Finsterniss] stäubtest du ihm [dem 
 Ты отправился вместе с великими, жаждущими друзьями.  
 Наряду с (его) внутренней опорой ты убил (его самого).
 </details>
+

@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśyā́m ← √naś- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+gátim ← gáti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pathā́ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yāyām ← √yā- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+ásya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+priyásya ← priyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śármaṇi ← śárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áhiṁsānasya ← áhiṁsāna- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+saścire ← √sac- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +171,4 @@ Dass ich erreiche guten Gang, will ich auf Mitra's Pfade gehn; In seinem Schutze
 Под защитой этого любимого (бога),  
 Не причиняющего вреда, всегда следовали (люди).
 </details>
+

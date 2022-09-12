@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+īyacakṣasā ← īyacakṣas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+mítrā = ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+bahupā́yye ← bahupā́yya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vyáciṣṭhe ← vyáciṣṭha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+svarā́jye ← svarā́jya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yátemahi ← √yat- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ O dass wir, weithin schauende, in eurem ausgedehnten Reich, Das viele schützt, 
 Могли утвердиться в (вашей) державе,  
 Самой протяженной, служащей защитой для многих!
 </details>
+

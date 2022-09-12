@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sáptim ← sápti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājambharám ← vājambhará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+karmaniṣṭhā́m ← karmaniṣṭhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrútyam ← śrútya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīrám ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+carat ← √carⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+samañján ← √añj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nā́rīm ← nā́rī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+púraṁdhim ← púraṁdhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vīrákukṣim ← vīrákukṣi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +223,4 @@ Das Ross, was Preis gewinnt, verleiht uns Agni, berühmten Helden, der durch Tha
 Агни проходит через две половины (вселенной), умащая (их).  
 Агни (дарит) изобильную жену, приносящую сыновей.
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+syā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ghorā́ ← ghorá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+híraṇyavartaniḥ ← híraṇyavartani- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vaṣṭi ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vr̥traghnī́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,7 +131,7 @@ The vs.-initial utá seems to introduce the tṛca, as does the identically plac
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Unlike the preceding tṛca, this one dispenses with repetition and therefore has more room for meat, comparatively speaking.
@@ -134,3 +162,4 @@ Sie, die auf goldnen Pfaden kommt, die mächtige Sarasvati, Die Feinde schlägt,
 Грозная, с золотым путем,  
 Убийца врагов, хочет от нас прекрасной хвалы.
 </details>
+

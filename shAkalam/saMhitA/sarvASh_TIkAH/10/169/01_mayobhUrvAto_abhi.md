@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+mayobhū́ḥ ← mayobhū́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+usrā́ḥ ← usrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vātu ← √vā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+riśantām ← √riś- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ū́rjasvatīḥ ← ū́rjasvant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jīvádhanyāḥ ← jīvádhanya- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pibantu ← √pā- 2 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+pī́vasvatīḥ ← pī́vasvant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+avasā́ya ← avasá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+mr̥ḷa ← √mr̥ḍ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+padváte ← padvánt- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+rudra ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +197,4 @@ Heilbringend wehe an der Wind die Kühe, sie mögen nahrungsreiche Kräuter fres
 Пусть пьют (воду), полную жира, дающую богатство жизни!  
 О Рудра, пощади наше питание, передвигающееся на ногах!
 </details>
+

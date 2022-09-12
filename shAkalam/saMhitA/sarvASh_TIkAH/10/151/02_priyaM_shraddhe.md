@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+dádataḥ ← √dā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śraddhe ← śraddhā́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+dídāsataḥ ← √dā- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śraddhe ← śraddhā́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+bhojéṣu ← bhojá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yájvasu ← yájvan- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+uditám ← √vadⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +181,4 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 Приятным для дружелюбных жертвователей  
 Сделай это сказанное мною!
 </details>
+

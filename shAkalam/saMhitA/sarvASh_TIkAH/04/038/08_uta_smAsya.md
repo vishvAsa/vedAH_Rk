@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dyóḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sma ← sma (invariable)  
+{}
+
+tanyatóḥ ← tanyatú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+abhiyújaḥ ← abhiyúj- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhayante ← √bhī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+r̥ghāyatáḥ ← √r̥ghāy- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+áyodhīt ← √yudh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sīm ← sīm (invariable)  
+{}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhīmáḥ ← bhīmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+durvártuḥ ← durvártu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥ñján ← √r̥j- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sma ← sma (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +208,4 @@ Vor seinem Donner, wie vor dem des Himmels, erbeben alle Gegner, wenn er zürnet
 Когда тысяча (врагов) напала на него,  
 Он был неудержим, страшный, мчащийся вперед.
 </details>
+

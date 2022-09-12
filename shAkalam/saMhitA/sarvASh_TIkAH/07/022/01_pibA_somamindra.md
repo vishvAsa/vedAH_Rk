@@ -15,13 +15,59 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mándatu ← √mand- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ádriḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+haryaśva ← háryaśva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suṣā́va ← √su- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+árvā ← árvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bāhúbhyām ← bāhú- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+sotúḥ ← sotár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+súyataḥ ← súyata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +184,4 @@ Den Soma trink, der dich berausche, Indra, den dir der Stein gepresst, o Herr de
 Кто выжал для тебя, о повелитель буланых коней, давильный камень,  
 Легко управляемый руками давильщика, словно скаковой конь.
 </details>
+

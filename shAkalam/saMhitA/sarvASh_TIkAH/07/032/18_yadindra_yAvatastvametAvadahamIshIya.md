@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yā́vataḥ ← yā́vant- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+etā́vat ← etā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ī́śīya ← √īś- (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:MED}
+
+didhiṣeya ← √dhā- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:MED, mood:DES}
+
+ít ← ít (invariable)  
+{}
+
+radāvaso ← radāvasu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stotā́ram ← stotár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pāpatvā́ya ← pāpatvá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+rāsīya ← √rā- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +180,4 @@ Wenn, Indra, ich so viel des Guts besässe, wie dir eigen ist, Dem Sänger theil
 То я бы стремился взять себе восхвалителя, о открыватель благ  
 Я не выдал бы (его) нищете!
 </details>
+

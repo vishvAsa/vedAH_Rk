@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+ātmadā́ḥ ← ātmadā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+baladā́ḥ ← baladā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+praśíṣam ← praśíṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+upā́sate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+chāyā́ ← chāyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mr̥tyúḥ ← mr̥tyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+kásmai ← ká- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Der Odem gibt und Kraft, und dessen Weisung die Wesen alle, auch die Götter ach
 Чье отражение – бессмертие, чье – смерть –  
 Какого бога мы почтили жертвенным возлиянием?
 </details>
+

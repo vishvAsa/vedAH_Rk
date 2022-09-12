@@ -18,16 +18,71 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+śvetā́ ← śvetá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vicakṣaṇā́ ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+adhikṣitáḥ ← √kṣi- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhū́mīḥ ← bhū́mi- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tisráḥ ← trí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+paprátuḥ ← √prā- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+trís ← trís (invariable)  
+{}
+
+úttarāṇi ← úttara- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dhruvám ← dhruvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sádaḥ ← sádas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+irajyati ← √irajy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+saptānā́m ← saptá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Er, dessen helles Augenpaar hin über die drei Erden strahlt, Und die drei höch
 Он правит семью (потоками).  
 Пусть лопнут все ничтожные другие!
 </details>
+

@@ -14,12 +14,43 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+didyúm ← didyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sánemi ← sánemi- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yuyóta ← √yu- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+durmatíḥ ← durmatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+práṇak ← √naś- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,3 +138,4 @@ Von uns lasst fern sein – des Blitzes Schleuder – Nicht mag eur Zürnen – 
 Полностью отведите от нас выстрел!  
 Да не настигнет нас здесь ваша злая воля!
 </details>
+

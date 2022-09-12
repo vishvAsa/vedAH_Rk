@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asuryā̀ṇi ← asuryà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dhārayanta ← √dhr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sacante ← √sac- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kr̥ṣṭéḥ ← kr̥ṣṭí- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+rā́jāmi ← √rāj- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+upamásya ← upamá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vavréḥ ← vavrí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Ich bin der König Varuna, mein eigen sind diese ersten himmlischen Gewalten; Di
 Боги следуют решению Варуны.  
 Я правлю народом, чье тело наилучшего вида.
 </details>
+

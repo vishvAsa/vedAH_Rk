@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śuciṣmaḥ ← śuciṣmant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śukrā́saḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kṣā́m ← kṣám- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vápanti ← √vap- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+víṣitāsaḥ ← √sā- ~ si- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ádha ← ádha (invariable)  
+{}
+
+bhāti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhramáḥ ← bhramá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+urviyā́ ← urviyā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+pŕ̥śneḥ ← pŕ̥śni- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+sā́nu ← sā́nu- ~ snú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yātáyamānaḥ ← √yat- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Es scheren deine losgelassnen Rosse, die hellen, lichten, leuchtenden das Land a
 Вот твой водоворот ярко сверкает далеко,  
 Выстраивая ряды на спине пестрой (земли).
 </details>
+

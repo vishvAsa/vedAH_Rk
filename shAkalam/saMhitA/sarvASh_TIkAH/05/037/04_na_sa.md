@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vyathate ← √vyath- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+gósakhāyam ← gósakhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+píbati ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tīvrám ← tīvrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ájati ← √aj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hánti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+satvanaíḥ ← satvaná- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kṣéti ← √kṣi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣitī́ḥ ← kṣití- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+púṣyan ← √puṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+subhágaḥ ← subhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +241,4 @@ Der König wanket nie, bei welchem Indra den starken Soma trinkt, den milchgepaa
 Со (своими) воинами он пригоняет (добычу), убивает врага.  
 Он мирно живет в (своих) пределах, зовется счастливым, процветает.
 </details>
+

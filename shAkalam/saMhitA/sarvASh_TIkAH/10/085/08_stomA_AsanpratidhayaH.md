@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+āsan ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+pratidháyaḥ ← pratidhí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+stómāḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+chándaḥ ← chándas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kurī́ram ← kurī́ra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+opaśáḥ ← opaśá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sūryā́yāḥ ← sūryā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+varā́ ← vará- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+purogaváḥ ← purogavá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ Loblieder waren die Wagenschwengel, das Zauberlied ihr Diadem und Lockenschmuck,
 Два Ашвина – сватами Сурьи.  
 Агни был едущим впереди.
 </details>
+

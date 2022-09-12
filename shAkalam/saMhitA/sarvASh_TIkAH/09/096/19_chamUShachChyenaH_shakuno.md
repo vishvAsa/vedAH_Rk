@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+camūṣát ← camūṣád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śakunáḥ ← śakuná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vibhŕ̥tvā ← vibhŕ̥tvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́yudhāni ← ā́yudha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bíbhrat ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+drapsáḥ ← drapsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+govindúḥ ← govindú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+sácamānaḥ ← √sac- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrmím ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mahiṣáḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+turī́yam ← turī́ya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vivakti ← √vañc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +214,4 @@ Der Adler eilend, in der Schüssel nistend, der Tropfen Milch erlangend, Waffen 
 Приобщающаяся к волне вод, к морю,  
 Буйвол провозглашает (свою) четвертую форму.
 </details>
+

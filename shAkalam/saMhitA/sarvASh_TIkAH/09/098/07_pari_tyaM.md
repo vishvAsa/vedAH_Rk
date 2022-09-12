@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hárim ← hári- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+haryatám ← haryatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+babhrúm ← babhrú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+punanti ← √pū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́reṇa ← vā́ra- 1 (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+víśvān ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gáchati ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mádena ← máda- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +189,4 @@ Ihn klären durch die Wolle sie, den holden, lichten, goldnen Hengst, Der rings 
 (Того,) кто обходит со (своим) опьянением  
 Всех богов до одного.
 </details>
+

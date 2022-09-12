@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ākárāmahe ← √kr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yáyā ← yá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sénayā ← sénā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ūtyā́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hinva ← √hi- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+magháttaye ← maghátti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +156,4 @@ O Agni, send' uns das Geschoss, durch das mit deiner Hülfe wir Uns Heerden scha
 Коров, о Агни, при твоей поддержке, –  
 Поторопи его, чтобы мы получили дары!
 </details>
+

@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áprahaṇam ← áprahan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+gr̥ṇīṣé ← √gr̥̄- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śávasaḥ ← śávas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náram ← nár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvāsā́ham ← viśvāsáh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+máṁhiṣṭham ← máṁhiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvácarṣaṇim ← viśvácarṣaṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +164,4 @@ Ich preise euren Herrn der Kraft, den Indra, der nicht schädiget Den Mann, den 
 Индру, всех одолевающего мужа,  
 Самого щедрого, принадлежащего всем народам.
 </details>
+

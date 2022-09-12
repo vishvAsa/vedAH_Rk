@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+prá ← prá (invariable)  
+{}
+
+ruvántam ← √rū- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+stanáyantam ← √stanⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+suṣṭutíḥ ← suṣṭutí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+aśyāḥ ← √naś- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+iḷáḥ ← íḍ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+jaritar ← jaritár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nūnám ← nūnám (invariable)  
+{}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abdimā́n ← abdimánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+íyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+udanimā́n ← udanimánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ukṣámāṇaḥ ← √ukṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vidyútā ← vidyút- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +181,7 @@ Despite the position of prá, opening a pāda that ends with the part.
 
 ukṣámāṇaḥ, I take the prá not with that participle but with immediately preceding pāda-final íyarti. For one thing, prá is found elsewhere with íyar- while it is not with √ukṣ, and in addition tmesis of preverb + participle is fairly uncommon (though certainly not unheard of). Geldner and Renou seem to follow the other route, taking it as license to interpr. íyarti as intrans. or at least objectless (Geldner ‘heraufzieht’, Renou ‘s’avance’). But íyar- is otherwise always transitive, and though we would prefer the two world halves not to be in motion, the point here is that Parjanya’s thunderstorm is powerful enough to shake them. Witzel Gotō’s interpr. is like mine.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/042/14-16.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/042/14-16.md">
 <details open><summary><h2>14-16 ...{Loading}...</h2></summary>
 
 This trio of vss. echoes vs. 1 and ring-compositionally seems to bring the hymn to a close, with the single pāda of 17 and the final vs. 18 tacked on (and indeed the 2nd hemistich of 16: see below). The template is prá [HYMN, etc.] [GOD] nūnám aśyāḥ, realized in 1ab as “May the hymn (gī́ḥ) now reach Varuṇa (etc.).” In 14ab we again have all the elements, while 15ab omits the initial preverb prá in favor of úd immediately preceding the verb and omits nūnám entirely and 16ab reinstates prá but still lacks nūnám: 1ab prá … váruṇam (etc.)… gī́r … nūnám aśyāḥ 14ab prá suṣṭutíḥ … iḷás pátim … nūnám aśyāḥ 15ab eṣá stómo mā́rutaṃ śárdhaḥ (etc.)… úd aśyāḥ 16ab praíṣá stómaḥ pṛthivī́m (etc.) … aśyāḥ The impression given by this sequence of syntactic and lexical parallels -- that this is the finale of the hymn -- is supported by the fact that the rest of the hymn, 16cd-18, is repeated as15cd-17 in the next hymn, V.43.
@@ -161,3 +213,4 @@ Den Labungsherrn erreiche nun dein Loblied, den donnernden, den tosenden, o Sän
 Кто, богатый тучами, богатый водой, движется  
 Вместе с молнией, орошая обе половины вселенной.
 </details>
+

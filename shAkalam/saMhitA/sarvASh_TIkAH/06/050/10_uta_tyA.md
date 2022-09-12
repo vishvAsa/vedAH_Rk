@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jagmyātam ← √gam- (root)  
+{number:DU, person:2, mood:OPT, tense:PRF, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+tyā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+utá ← utá (invariable)  
+{}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+viprā ← vípra- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+amumuktam ← √muc- (root)  
+{number:DU, person:2, mood:IND, tense:PLUPRF, voice:ACT}
+
+átrim ← átri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+támasaḥ ← támas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+abhī́ke ← abhī́ka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+duritā́t ← duritá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tū́rvatam ← √tūr(v)- ~ tur- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +222,7 @@ My own interpr. is identical to Oldenberg’s first pass, with impv. mumuktam an
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/050/08-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/050/08-10.md">
 <details open><summary><h2>08-10 ...{Loading}...</h2></summary>
 
 These three vss. contain a series of perfect optatives, jagamyāt (8b), vavṛtyāt (9b), jagmyātam (10a), but they do not show any peculiarities of register or usage. The connection among the vss. is also signaled by utá, which opens the second two. Klein (DGRV I.424) notes the co-occurrence of the “optative series” (he does not mention that they are belong to the pf.) and the utá’s.
@@ -193,3 +254,4 @@ Und auch ihr beide kommt auf meinen Ruf her ihr treuen, weisen, ihr vor allen ac
 Подобно тому как вы вызволили Атри из великого мрака,  
 Спасите (нас) из беды, о два мужа, в тяжелую минуту!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+rakṣitā́rau ← rakṣitár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śvā́nau ← śván- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+te ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+yama ← yamá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yaú ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+caturakṣaú ← caturakṣá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+nr̥cákṣasau ← nr̥cákṣas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pathirákṣī ← pathirákṣi- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dehi ← √dā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tā́bhyām ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:DU}
+
+anamīvám ← anamīvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +239,4 @@ Den beiden Hunden, Jama, deinen Wächtern, die Pfad' beschirmen, Männer schaun,
 Им его передай, о царь,  
 И надели его благополучием и здоровьем!
 </details>
+

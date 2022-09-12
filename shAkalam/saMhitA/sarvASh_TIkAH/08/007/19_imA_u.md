@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+sudānavaḥ ← sudā́nu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pipyúṣīḥ ← √pī- 1 (root)  
+{case:NOM, gender:F, number:PL, tense:PRF, voice:ACT}
+
+kāṇvásya ← kāṇvá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mánmabhiḥ ← mánman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+várdhān ← √vr̥dh- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +162,4 @@ Die Tränke hier, wie Butter fett, o gabenreiche, mögen nun Mit Kānva's Lieder
 Подкрепления, набухшие, словно жир,  
 Пусть усилятся от произведений потомка Канвы!
 </details>
+

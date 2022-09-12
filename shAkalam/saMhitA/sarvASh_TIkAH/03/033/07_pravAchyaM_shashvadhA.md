@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pravā́cyam ← pravā́cya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śaśvadhā́ ← śaśvadhā́ (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vīryàm ← vīryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kárma ← kárman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vivr̥ścát ← √vr̥śc- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jaghāna ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pariṣádaḥ ← pariṣád- (nominal stem)  
+{case:ACC, number:PL}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́yan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áyanam ← áyana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ichámānāḥ ← √iṣ- 2 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Dies Heldenwerk ist immerdar zu preisen, das Indra that, als er zerhieb die Schl
 Двинулись воды, ища выхода.  
 Р е к и:
 </details>
+

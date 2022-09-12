@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+antár ← antár (invariable)  
+{}
+
+duṣkŕ̥taḥ ← duṣkŕ̥t- (nominal stem)  
+{case:ACC, number:PL}
+
+índrāsomā ← índrāsóma- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vavré ← vavrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+anārambhaṇé ← anārambhaṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+támasi ← támas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vidhyatam ← √vyadh- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+átas ← átas (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+udáyat ← √i- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+manyumát ← manyumánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáhase ← sáhas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +240,4 @@ Die Uebelthäter, Indra-Soma, stürzt hinab in Finsterniss und in des tiefsten B
 Чтобы оттуда никто снова не выбрался!  
 Да послужит ваша яростная сила для (их) преодоления!
 </details>
+

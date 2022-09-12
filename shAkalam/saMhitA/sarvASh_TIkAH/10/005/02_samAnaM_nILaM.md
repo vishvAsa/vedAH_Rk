@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nīḷám ← nīḷá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samānám ← samāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásānāḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+árvatībhiḥ ← árvatī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+jagmire ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+mahiṣā́ḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pānti ← √pā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+gúhā ← gúhā (invariable)  
+{}
+
+nā́māni ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+párāṇi ← pára- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Die starken Hengste, gleichen Sitz bewohnend, vereinten sich, die grossen, mit d
 Поэты охраняют след истины.  
 Высшие имена они облекают в тайну.
 </details>
+

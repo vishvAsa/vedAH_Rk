@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávibhiḥ ← ávi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nūnám ← nūnám (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ádabdhaḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+surabhíntaraḥ ← surabhíntara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ándhasā ← ándhas- 2 (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+madāmaḥ ← √mad- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+śrīṇántaḥ ← √śrī- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+úttaram ← úttara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +182,7 @@ The 2nd hemistich of this vs. is intricately interwoven with constituents overla
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The first metrical unit in the hymn has a third vs. appended to the pragātha with a 2-pāda configuration of 12 8, identified by the Anukr. as Dvipadā Virāj Bhurij. Arnold (248, E72) analyses vss. 2-3 as simply an extended Satobṛhatī (12 8 / 12 8 / 12 8). See Oldenberg (Proleg. 104-5) on the types of extensions of pragāthas, incl. this one. Since vs. 3 simply hangs off vs. 2 and need not be syntactically independent, the “extension” suggestion is quite plausible.
@@ -167,3 +216,4 @@ Dich klärend ströme durch des Widders Wolle nun, schönduftend, du untrüglich
 Как только (тебя) выжали в воды, мы опьяняемся соком,  
 Смещивая тебя, превосходного, с коровьим молоком.
 </details>
+

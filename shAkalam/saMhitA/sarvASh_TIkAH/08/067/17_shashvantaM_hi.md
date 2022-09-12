@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+hí ← hí (invariable)  
+{}
+
+pracetasaḥ ← prácetas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śáśvantam ← śáśvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+énasaḥ ← énas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+pratiyántam ← √i- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dévāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+kr̥ṇuthá ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +150,4 @@ Denn jedem schafft, o weise, ihr, wenn er vom Unrecht sich bekehrt, O Götter, d
 Даже тому, кто возвращается, совершив грех,  
 Дайте жить, о боги!
 </details>
+

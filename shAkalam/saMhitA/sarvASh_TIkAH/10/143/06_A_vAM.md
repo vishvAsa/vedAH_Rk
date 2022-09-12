@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+śaṁyū́ ← śaṁyú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sumnaíḥ ← sumná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+máṁhiṣṭhā ← máṁhiṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+víśvavedasā ← viśvávedas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+bhūṣatam ← √bhūṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sám ← sám (invariable)  
+{}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pipyúṣīḥ ← √pī- 1 (root)  
+{case:ACC, gender:F, number:PL, tense:PRF, voice:ACT}
+
+útsam ← útsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +189,4 @@ Mit euren Freuden, Männer, kommt heilbringend, allbesitzende, Freigiebigste, zu
 Создайте нам, о два мужа,  
 Жертвенные услады, наполняющиеся, как колодец!
 </details>
+

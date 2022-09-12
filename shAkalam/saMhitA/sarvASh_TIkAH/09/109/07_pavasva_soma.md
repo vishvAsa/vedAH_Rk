@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+dyumnī́ ← dyumnín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sudhāráḥ ← sudhārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+ávīnām ← ávi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mahā́m ← máh- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pūrvyáḥ ← pūrvyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -94,7 +119,7 @@ A similar problem arises with a gen. pl. interpr., acdg. to which it would modif
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Unlike the previous tṛca with repeated pavasva, each vs. of this tṛca has a different form or √pū: 7 pávasva, 8 pūtaḥ, 9 punānáḥ. The person switches from the 2nd sg. that has prevailed throughout the hymn to 3rd ps. in vs. 8.
@@ -123,3 +148,4 @@ O Soma riesle – an Glanz und Flut reich, ans grosse Wollnetz – im Lauf dich 
 Очищайся, о сома сверкающий, с прекрасным потоком,  
 Вдоль огромного (сита) из овечьей шерсти, древний (бог)!
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "वर्धमाना गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+daívyam ← daívya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jánam ← jána- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śr̥ṇván ← √śru- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víprasya ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -99,7 +130,7 @@ when you hear the lovely praise of the inspired poet.
 The “divine race” (daívyaṃ jánam) here may resonate with the “human race, race stemming from Manu” (mā́nuṣe jáne) in 1c, though they belong to different tṛcas.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, each vs. in this tṛca begins with a form of the 2nd sg. prn., although all three are slightly different: the acc. sg. t(u)vā́ m in 4a shows distraction; both 5a and 6a contain the nom. sg., but the 1st is undistracted, the 2nd distracted.
@@ -130,3 +161,4 @@ Als Bote fahr, unsterblicher, du her das göttliche Geschlecht, Vernimm des Sän
 Привези (сюда) божественный род.  
 Слушая прекрасную хвалу вдохновленного (поэта)!
 </details>
+

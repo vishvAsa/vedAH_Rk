@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+citráśociṣam ← citráśocis- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víbhūtarātim ← víbhūtarāti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vipra ← vípra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īḷiṣva ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+yantúram ← yantúr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+médhasya ← médha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sobhare ← sóbhari- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+somyásya ← somyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+adhvarā́ya ← adhvará- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+pū́rvyam ← pū́rvya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +185,4 @@ Den gabenreichen Agni, den hellleuchtenden, erheb' o Sänger, Sobhari, Ihn, der 
 Как правящего этим пиршеством сомы, о Собхари!  
 (Поставь) его впереди как первого для (этого) обряда!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádabdhāḥ ← ádabdha- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ánadatīḥ ← ánadant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sīm ← sīm (invariable)  
+{}
+
+vavrā́ja ← √vraj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ánagnāḥ ← ánagna- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ávasānāḥ ← ávasāna- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yahvī́ḥ ← yahvī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+átra ← átra (invariable)  
+{}
+
+sánāḥ ← sána- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sáyonīḥ ← sáyoni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yuvatáyaḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vā́ṇīḥ ← vā́ṇī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +235,4 @@ Zu Himmels Strömen, treuen, die nicht zehren, die unbekleidet doch nicht nackt 
 Тут древние (и вечно) юные, происходящие из одного лона,  
 Восприняли одного зародыша – (эти) семь голосов.
 </details>
+

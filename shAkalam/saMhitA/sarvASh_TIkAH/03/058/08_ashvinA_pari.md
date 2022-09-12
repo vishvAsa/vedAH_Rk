@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+purūcī́ḥ ← purūcī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ámr̥dhrāḥ ← ámr̥dhra- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+īyúḥ ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yátamānāḥ ← √yat- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+ádrijūtaḥ ← ádrijūta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tajā́ḥ ← r̥tajā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+pári ← pári (invariable)  
+{}
+
+sadyás ← sadyás (invariable)  
+{}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Euch flossen rings, o Ritter, reiche Tränke, mit Liederklang sich mischend, unv
 А колесница ваша, возникающая в урочное время, вдохновленная давильными камнями,  
 В один день объезжает небо и землю.
 </details>
+

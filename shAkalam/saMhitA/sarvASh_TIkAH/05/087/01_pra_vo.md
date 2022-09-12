@@ -17,15 +17,67 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+matáyaḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+víṣṇave ← víṣṇu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yantu ← √i- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+evayā́marut ← evayā́marut- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+girijā́ḥ ← girijā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marútvate ← marútvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+práyajyave ← práyajyu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śárdhāya ← śárdha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sukhādáye ← sukhādí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhandádiṣṭaye ← bhandádiṣṭi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+taváse ← tavás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dhúnivratāya ← dhúnivrata- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śávase ← śávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,3 +247,4 @@ Vor mögen schreiten eure in der Höhe entsprungenen (?) Lieder zu dem grossen, 
 Могучей, вызывающей хвалу  
 Громко бунтующей, к (воплощенной) силе!
 </details>
+

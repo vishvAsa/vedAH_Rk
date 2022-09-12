@@ -17,15 +17,79 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+tuvigrī́vaḥ ← tuvigrī́va- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāvr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajāti ← √aj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aśatrú ← aśatrú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+védaḥ ← védas- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+amŕ̥tāḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+avocan ← √vac- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+íti ← íti (invariable)  
+{}
+
+barhíṣmate ← barhíṣmant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yaṁsat ← √yam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+havíṣmate ← havíṣmant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yaṁsat ← √yam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +249,4 @@ Der Starknackige ausgewachsene Bulle Indra soll das Besitztum des Geldprotzen oh
 Пусть окажет он защиту человеку, расстелившему солому!  
 Пусть окажет он защиту человеку, возлившему жертву!
 </details>
+

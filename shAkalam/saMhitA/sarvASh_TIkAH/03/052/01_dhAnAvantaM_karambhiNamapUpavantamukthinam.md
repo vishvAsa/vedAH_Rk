@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D
+#### Morph
+dhānā́vantam ← dhānā́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+karambhíṇam ← karambhín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apūpávantam ← apūpávant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ukthínam ← ukthín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prātár ← prātár (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +140,4 @@ Unsern mit Getreidekörnern, mit Grütze und Gebäck ver- sehenen, von Sprüchen
 Хлебцем, гимном, о Индра,  
 Наслаждайся у нас рано утром!
 </details>
+

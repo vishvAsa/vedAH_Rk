@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhūtana ← √bhū- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
+
+eté ← eṣá (pronoun)  
+{}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+svápasaḥ ← svápas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+adrayaḥ ← ádri- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sunuthá ← √su- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+dhā́mne ← dhā́man- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+divyā́ya ← divyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vāmáṁ-vāmam ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pā́rthivāya ← pā́rthiva- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vásu-vasu ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Ihr habt, o Männer, sehr geschickt euch nun gezeigt, o Steine, die dem Indra ih
 Все прекрасное у вас (пусть будет) для небесного состояния,  
 Все хорошее для земного выжимающего!
 </details>
+

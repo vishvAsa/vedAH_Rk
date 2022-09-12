@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āraik ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jāmáye ← jāmí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rikthám ← rikthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tā́nvaḥ ← tā́nva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cakā́ra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nidhā́nam ← nidhā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sanitúḥ ← sanitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+janáyanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+mātáraḥ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+váhnim ← váhni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yádi ← yádi (invariable)  
+{}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kartā́ ← kartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥ndhán ← √r̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sukŕ̥toḥ ← sukŕ̥t- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,3 +252,4 @@ Nicht überliess der Sohn [Agni, das am männlichen Reib- holze entstandene Feue
 Когда матери порождают возницу (жертвы),  
 Один из двоих благодетелей – деятель, другой – извлекающий выгоды.
 </details>
+

@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+asmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+niṣṣā́ṭ ← niṣṣáh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+dvā́ ← dvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+karanti ← √kr̥- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+hanmi ← √han- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+khále ← khála- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+parṣā́n ← parṣá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+anindrā́ḥ ← anindrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+nindanti ← √nid- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śátravaḥ ← śátru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +257,4 @@ Ich einer bin der einen Welt Bewält'ger; was können zwei, was können drei mir
 Я много смолочу, как снопы на гумне.  
 Что же надо мной насмехаются враги, не знающие Индры?
 </details>
+

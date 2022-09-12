@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+bhávati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nadī́ṣu ← nadī́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+śalmalaú ← śalmalí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jā́yate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+óṣadhībhyaḥ ← óṣadhī- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+viṣám ← viṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+itás ← itás (invariable)  
+{}
+
+nís ← nís (invariable)  
+{}
+
+suvantu ← √sū- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+pádyena ← pádya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rápasā ← rápas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tsáruḥ ← tsáru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidat ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +242,4 @@ Und welches Gift erzeugt wird im Çalmalibaum, was in den Strömen, was in den G
 Все-Боги пусть изгонят его оттуда!  
 Пусть не найдет меня ползун, вредящий ногам!
 </details>
+

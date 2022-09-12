@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+jényasya ← jénya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+puṣṭaú ← puṣṭí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+nú ← nú (invariable)  
+{}
+
+rébhantaḥ ← √ribh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
+áśvaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+saraṇyúḥ ← saraṇyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sūnúḥ ← sūnú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+sātaú ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śrávasaḥ ← śrávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +229,4 @@ Und nun bei dieses herrlichen [Varuna Sāy.] Speisung wünschen wir munter singe
 
 -ru-
 </details>
+

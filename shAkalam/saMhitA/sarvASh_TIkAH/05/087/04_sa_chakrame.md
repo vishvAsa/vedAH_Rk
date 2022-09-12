@@ -17,15 +17,73 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cakrame ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+mahatáḥ ← mahā́nt- (nominal stem)  
+{case:ABL, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+urukramáḥ ← urukramá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+evayā́marut ← evayā́marut- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sádasaḥ ← sádas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+samānásmāt ← samāná- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+áyukta ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+snúbhiḥ ← sā́nu- ~ snú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+svā́t ← svá- (pronoun)  
+{case:ABL, gender:N, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+vímahasaḥ ← vímahas- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+víṣpardhasaḥ ← víṣpardhas- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jígāti ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śévr̥dhaḥ ← śévr̥dha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,3 +249,4 @@ Der weithinschreitende [Vischnu] schritt hervor aus dem grossen gemeinsamen Sitz
 (Правя) состязающимися (друг с другом) превосходными (конями),  
 (Этот бог,) усиливающий счастье, продвигается вместе с мужами.
 </details>
+

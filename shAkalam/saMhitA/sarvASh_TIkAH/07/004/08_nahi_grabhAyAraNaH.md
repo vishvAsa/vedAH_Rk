@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áraṇaḥ ← áraṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+grábhāya ← grábha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nahí ← nahí (invariable)  
+{}
+
+suśévaḥ ← suśéva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anyódaryaḥ ← anyódarya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mántavaí ← √man- 1 (root)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+ókaḥ ← ókas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhīṣā́ṭ ← abhīṣáh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+návyaḥ ← návya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +242,4 @@ Nicht darf man halten, noch im Geist erstreben den Fremden andern Stamms, auch w
 И снова он возвращается к себе домой.  
 Пусть придет к нам новый победоносный завоеватель наград!
 </details>
+

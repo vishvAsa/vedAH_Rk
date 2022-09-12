@@ -15,13 +15,38 @@ ChandaH = "पादनिचृत्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+purūvaso ← purūvásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā́vataḥ ← tvā́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+praṇetar ← praṇetár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+harīṇām ← hári- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+smási ← √as- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+sthātar ← sthā́tar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +137,4 @@ Dein sind wir, der so reich du bist, o Indra, unser Führer du, Der du der Füch
 О Индра – (наш) предводитель,  
 Мы принадлежим, о правящий булаными конями.
 </details>
+

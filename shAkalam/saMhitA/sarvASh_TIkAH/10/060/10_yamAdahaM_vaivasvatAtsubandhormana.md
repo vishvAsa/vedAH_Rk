@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+vaivasvatā́t ← vaivasvatá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yamā́t ← yamá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abharam ← √bhr̥- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+subándhoḥ ← subándhu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jīvā́tave ← jīvā́tu- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+mr̥tyáve ← mr̥tyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ariṣṭátātaye ← ariṣṭátāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +162,4 @@ Von Jama, des Vivasvat Sohn bracht' ich des Freundes Geist herbei, Zum Leben, da
 Для жизни, не для смерти.  
 А также для невредимости.
 </details>
+

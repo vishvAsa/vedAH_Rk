@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayā́saḥ ← ayā́s- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+sáhamānāḥ ← √sah- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arcáyaḥ ← arcí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cáranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tveṣā́saḥ ← tveṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+duvasanā́saḥ ← duvasaná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śyenā́saḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tuviṣvaṇásaḥ ← tuviṣvaṇás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Ja diese deine Strahlen, welche siegreich und rastlos wandern, ungestüm, o Agni
 Кидаясь, словно коршуны, к цели,  
 Громко шумя, словно толпа Марутов!
 </details>
+

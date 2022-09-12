@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+bíbharti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cā́ru ← cā́ru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+jaghā́na ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vr̥trā́ ← vr̥trá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -98,7 +123,7 @@ The second ambiguity is located in the 2nd hemistich and has two parts: what/who
 seems to take the referent of yéna to be “the name Indra” and the subj. of the verb to be Soma (though neither is explicit about it). I recognize that this would be a pleasing paradox, since Indra is the default agent in this formula. But I wonder if instead Indra is the subj. of his signature verb, and yéna refers to soma, with the name equivalent to the substance.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 The adj. cā́ru- ‘dear’ occurs in 13 and 14. The gods as recipients of soma figure in 14-15.
@@ -127,3 +152,4 @@ Er trägt des Indra – geliebtes Wesen, durch das er alle – Verhassten todtsc
 Он носит милое имя Индры,  
 Благодаря которому он разбил все препятствия.
 </details>
+

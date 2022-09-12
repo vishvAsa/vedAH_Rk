@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+gópatim ← gópati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+satyéna ← satyá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+iṣaṇayanta ← √iṣaṇ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+iyānā́saḥ ← √yā- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mithóavadyapebhiḥ ← mithóavadyapa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+asr̥jata ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+svayúgbhiḥ ← svayúj- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+usríyāḥ ← usríya- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +189,4 @@ Diese hier setzten mit aufrichtigem Herzen den Herrn der Kühe [Brihaspati] um K
 Брихаспати выпустил коров (утренней зари)  
 Благодаря своим союзникам, защищавшим друг друга от бесчестья.
 </details>
+

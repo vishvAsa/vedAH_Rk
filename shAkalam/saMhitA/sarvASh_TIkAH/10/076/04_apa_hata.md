@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+bhaṅgurā́vataḥ ← bhaṅgurā́vant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hata ← √han- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ámatim ← ámati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nírr̥tim ← nírr̥ti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sédhata ← √sidh- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+skabhāyáta ← √skambhⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sárvavīram ← sárvavīra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sunotana ← √su- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+adrayaḥ ← ádri- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+bharata ← √bhr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+devāvyàm ← devāvī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ślókam ← ślóka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Die trügerischen Nachtgespenster jagt hinweg, Verderben bannt und wehret allen 
 Добывайте для нас выжиманием богатство из одних только сыновей!  
 О камни, издавайте звук, приглашающий богов!
 </details>
+

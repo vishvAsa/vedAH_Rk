@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+maghoni ← maghávan- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sū́nr̥te ← sūnŕ̥ta- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vā́ryā ← vā́rya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+vājinīvati ← vājínīvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +139,4 @@ O reiche Uschas, fahre her, o wonnigliche, vieles Gut für uns, o labungsreiche 
 О благодатная, многие желанные дары  
 Для нас, о награждающая!
 </details>
+

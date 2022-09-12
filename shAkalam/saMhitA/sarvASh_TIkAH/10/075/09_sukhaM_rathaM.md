@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvínam ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+síndhuḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sukhám ← sukhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuyuje ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ājaú ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+saniṣat ← √sanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahimā́ ← mahimán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+panasyáte ← √panasy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ádabdhasya ← ádabdha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sváyaśasaḥ ← sváyaśas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+virapśínaḥ ← virapśín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Den raschen Wagen schirrt mit Rossen Sindhu sich, auf dem gewinne in dem Weltlau
 Ведь мощное величие этой (колесницы), которую не обманешь,  
 Обладающей собственным блеском, переполненной силой, вызывает восхищение.
 </details>
+

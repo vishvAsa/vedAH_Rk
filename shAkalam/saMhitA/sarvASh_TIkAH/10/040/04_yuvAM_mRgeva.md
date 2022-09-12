@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+mr̥gā́ ← mr̥gá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+mr̥gaṇyávaḥ ← mr̥gaṇyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vāraṇā́ ← vāraṇá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+doṣā́ ← doṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+hvayāmahe ← √hvā- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+vástoḥ ← vástu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+hótrām ← hótrā- 1 (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+júhvate ← √hu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+r̥tuthā́ ← r̥tuthā́ (invariable)  
+{}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+patī ← páti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śubhaḥ ← śúbh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vahathaḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +223,4 @@ Euch locken Abends Morgens wir durch Opfertrank herbei, wie Jäger durch den Ruf
 Человеку, регулярно приносящему жертву, о два мужа,  
 Вы привозите жертвенную усладу, о повелители красоты!
 </details>
+

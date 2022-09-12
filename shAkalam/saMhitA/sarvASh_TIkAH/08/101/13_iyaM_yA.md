@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arkíṇī ← arkín- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+nī́cī ← nyàñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+kr̥tā́ ← √kr̥- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+róhiṇyā ← róhiṇī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+rūpā́ ← rūpá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+adarśi ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+āyatī́ ← √i- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+citrā́ ← citrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+antár ← antár (invariable)  
+{}
+
+bāhúṣu ← bāhú- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+daśásu ← dáśa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +208,4 @@ Diese [Morgenröthe], welche sich niederneigt, strahlend, schöne Farben sind du
 Показалась среди десяти рук,  
 Словно яркая приближающаяся (женщина).
 </details>
+

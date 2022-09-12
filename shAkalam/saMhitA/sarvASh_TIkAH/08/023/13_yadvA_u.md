@@ -15,13 +15,56 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+śitáḥ ← √śā- ~ śī- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+u ← u (invariable)  
+{}
+
+vaí ← vaí (invariable)  
+{}
+
+viśpátiḥ ← viśpáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+súprītaḥ ← súprīta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśí ← víś- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+rákṣāṁsi ← rákṣas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sedhati ← √sidh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +181,4 @@ Sobald der Hausherr ist entflammt, der liebe in des Menschen Haus, So wehret Agn
 Очень доволен у племени Мануса,  
 То он отвращает всех ракшасов.
 </details>
+

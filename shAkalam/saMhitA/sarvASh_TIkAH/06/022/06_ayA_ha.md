@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+māyáyā ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vāvr̥dhānám ← √vr̥dh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:MED}
+
+manojúvā ← manojū́- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+párvatena ← párvata- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+svatavaḥ ← svátavas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ácyutā ← ácyuta- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+svojaḥ ← svójas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vīḷitā́ ← √vīḍ- ~ √vīḷ- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+dhr̥ṣatā́ ← √dhr̥ṣ- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dr̥ḷhā́ ← √dr̥h- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+rujáḥ ← √ruj- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+virapśin ← virapśín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +222,4 @@ Den, welcher trotzt auf jene seine Listen, zerbrachst du kühn mit geistesschnel
 Даже несотрясаемые прочные твердыни, о (ты,) очень сильный,  
 Ты дерзко проломил, о изобильный.
 </details>
+

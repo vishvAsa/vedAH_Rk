@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śrávāṁsi ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tanuhi ← √tan- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+abhímātīḥ ← abhímāti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dhánvanaḥ ← dhánur ~ dhánvan- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sthirā́ ← sthirá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+asmadryàk ← asmadryàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáhobhiḥ ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vāvr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ánibhr̥ṣṭaḥ ← ánibhr̥ṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vāvr̥dhasva ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ O Indra, steigre des ergebnen Kräfte, spann seine Kraft an, wie des Bogens Sehn
 Укрепляя себя для нас силами,  
 Незатупленный, укрепи (свое) тело!
 </details>
+

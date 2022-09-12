@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hátsumnaḥ ← br̥hátsumna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nivéśanaḥ ← nivéśana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prasavītā́ ← prasavītár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jágataḥ ← jágat- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sthātúḥ ← sthātár- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ubháyasya ← ubháya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vaśī́ ← vaśín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yachatu ← √yam- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+kṣáyāya ← kṣáya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+trivárūtham ← trivárūtha- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Der grossen Schirm gewährt, erweckt und Ruhe schafft, er, der gebietet über da
 Этот бог Савитар пусть дарует защиту  
 Для нас, для (нашего) жилья, (защиту) с тремя заслонами от беды.
 </details>
+

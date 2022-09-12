@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáhuriḥ ← sáhuri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samaryé ← samaryá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śúśrūṣamāṇaḥ ← √śru- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED, mood:DES}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+r̥jipyáḥ ← r̥jipyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+túram ← túr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+turáyan ← √tvarⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yatī́ṣu ← √i- 1 (root)  
+{case:LOC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+ádhi ← ádhi (invariable)  
+{}
+
+bhruvóḥ ← bhrū́- (nominal stem)  
+{case:LOC, gender:F, number:DU}
+
+kirate ← √kr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+reṇúm ← reṇú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥ñján ← √r̥j- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ Es kommt dies Ross, das sieggewohnte, heil'ge, durch eigne Kraft bereit im Kampf
 Вырываясь вперед среди рядов (колесниц,) выехавших состязаться в скорости,  
 Распластавшись в полете, он вздымает пыль до (самых) бровей, мчась вперед.
 </details>
+

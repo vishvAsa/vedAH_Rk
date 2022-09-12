@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+akṣā́saḥ ← akṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aṅkuśínaḥ ← aṅkuśín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+nitodínaḥ ← nitodín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nikŕ̥tvānaḥ ← nikŕ̥tvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tápanāḥ ← tápana- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tāpayiṣṇávaḥ ← tāpayiṣṇú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jáyataḥ ← √ji- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kumārádeṣṇāḥ ← kumārádeṣṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+punarháṇaḥ ← punarhán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+barháṇā ← barháṇā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+kitavásya ← kitavá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mádhvā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sámpr̥ktāḥ ← √pr̥c- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +187,4 @@ Die Würfel sind anhakend und sich einbohrend, knechtend, brennend, marternd, nu
 Дающие мимолетние дары, вновь поражающие победителя.  
 Пропитанные медом, они мощно (держат) игрока.
 </details>
+

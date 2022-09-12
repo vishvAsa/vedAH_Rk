@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ápāke ← ápāka- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+yajatra ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sarvátātā ← sarvátāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yákṣat ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+jáṁhaḥ ← jáṁhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tatarúṣaḥ ← √tr̥̄- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+
+triṣadhásthaḥ ← triṣadhástha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+maghā́ni ← maghá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mā́nuṣā ← mā́nuṣa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yájadhyai ← √yaj- (root)  
+{case:DAT, number:SG, tense:PRS}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Zu dir, verehrter, wenn du ferne scheinest, eilt hin, o Fürst, der Himmel mit d
 (Ты,) имеющий три жилья, (ты -) порыв, как у пересекающего (пространство) –  
 Пусть принесешь ты жертвы – дары людские!
 </details>
+

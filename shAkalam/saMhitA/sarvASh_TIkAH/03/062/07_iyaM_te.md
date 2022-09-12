@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+āghr̥ṇe ← ā́ghr̥ṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+pūṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+návyasī ← návyas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+suṣṭutíḥ ← suṣṭutí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+asmā́bhiḥ ← ahám (pronoun)  
+{case:INS, number:PL}
+
+śasyate ← √śaṁs- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +153,4 @@ O Puschan, dir, der strahlt in Glut, wird dieser neue Lobgesang, O Gott, von uns
 Для тебя, о Пушан, пылающий бог.  
 Тебе мы произносим (хвалу).
 </details>
+

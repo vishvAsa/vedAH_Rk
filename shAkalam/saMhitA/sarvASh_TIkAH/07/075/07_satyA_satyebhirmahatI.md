@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mahádbhiḥ ← mahā́nt- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mahatī́ ← mahā́nt- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+satyā́ ← satyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+satyébhiḥ ← satyá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yajatā́ ← yajatá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yájatraiḥ ← yájatra- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dádat ← √dā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+dr̥ḷhā́ni ← √dr̥h- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+ruját ← √ruj- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+usríyāṇām ← usríya- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+uṣásam ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vāvaśanta ← √vāś- (root)  
+{number:PL, person:3, mood:INJ, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +212,4 @@ Mit guten gut, erhaben mit erhabnen mit Göttern Göttin, heilig mit den heil'ge
 Пусть она проломит твердыни (и) подарит коров!  
 Мычат коровы навстречу Ушас.
 </details>
+

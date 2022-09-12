@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhét ← √bhid- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+jásum ← jásu- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pī́yataḥ ← √pī- 2 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+valásya ← valá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+agnitápobhiḥ ← agnitápas- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adat ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dadbhíḥ ← dánt- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+jihvā́ ← jihvā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+páriviṣṭam ← √viṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+akr̥ṇot ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+āvís ← āvís (invariable)  
+{}
+
+nidhī́n ← nidhí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+usríyāṇām ← usríya- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Als er des bösen Vala Burg zersprengte, Brihaspati durch heissentflammte Gluten
 Он овладел (им,) как язык с зубами – поданной (пищей).  
 Он сделал явными тайные сокровища утренних коров.
 </details>
+

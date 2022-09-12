@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+árṇaḥ ← árṇas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aruhat ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+śukrám ← śukrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áyukta ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+harítaḥ ← harít- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vītápr̥ṣṭhāḥ ← vītápr̥ṣṭha- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+anayanta ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nā́vam ← naú- ~ nā́v- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+udnā́ ← udán- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āśr̥ṇvatī́ḥ ← √śru- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+atiṣṭhan ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +231,4 @@ Der Sonnengott stieg auf zum hellen Luftmeer, als er geschirrt die blonden, glat
 Мудрые вели (его), словно лодку по воде.  
 Прислушивающиеся воды остановились поблизости.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "पुरस्ताद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+átra ← átra (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saptatím ← saptatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+didiṣṭa ← √diś- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+sadyás ← sadyás (invariable)  
+{}
+
+tā́nvaḥ ← tā́nva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+didiṣṭa ← √diś- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+pārthyáḥ ← pārthyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sadyás ← sadyás (invariable)  
+{}
+
+didiṣṭa ← √diś- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+māyaváḥ ← māyavá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sadyás ← sadyás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +192,4 @@ Ausserdem wies uns hier siebenundsiebzig [Rosse] Tānua [der Nachkomme des Tanva
 
 -ru-
 </details>
+

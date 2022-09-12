@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+āpaprúṣī ← √prā- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:ACT}
+
+vibhāvari ← vibhā́van- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+āvar ← √vr̥- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+ava ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+svadhā́m ← svadhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +153,4 @@ Erfüllend ihn erschlossest du durch Licht die Nacht, o strahlende; Nun folg, o 
 Светом ты раскрыла мрак.  
 О Ушас, помоги (нам) по своему желанию!
 </details>
+

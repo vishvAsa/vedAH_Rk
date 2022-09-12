@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índrākutsā ← indrākutsa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+váhamānā ← √vah- (root)  
+{case:VOC, gender:M, number:DU, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ápi ← ápi (invariable)  
+{}
+
+átyāḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kárṇe ← kárṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vahantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+adbhyáḥ ← áp- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+dhámathaḥ ← √dhamⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+nís ← nís (invariable)  
+{}
+
+sadhásthāt ← sadhástha- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+sīm ← sīm (invariable)  
+{}
+
+hr̥dáḥ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+maghónaḥ ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+támāṁsi ← támas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+varathaḥ ← √vr̥- (root)  
+{number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ O Indra, Kutsa, fahrend auf dem Wagen, euch mögen ziehn die Rosse nah zur Stell
 Вы сдуваете его с вод, с(дуваете) с (его) места.  
 Из сердца щедрого дарителя вы изгоняете мрак.
 </details>
+

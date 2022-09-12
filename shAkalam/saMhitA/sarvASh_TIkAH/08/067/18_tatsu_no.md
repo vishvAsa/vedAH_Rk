@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+návyam ← návya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sányase ← sányaṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́dityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+múmocati ← √muc- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+adite ← áditi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+baddhám ← √bandh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+bandhā́t ← bandhá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +179,4 @@ Zum alten fügt dies neue ihr, Aditja's, was, o Aditi, Uns löst wie Sklaven von
 О Адитьи, (новое,) которое освободило бы нас,  
 Как (освобождают) связанного вора!
 </details>
+

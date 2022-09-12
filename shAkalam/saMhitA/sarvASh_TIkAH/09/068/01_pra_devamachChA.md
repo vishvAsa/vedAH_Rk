@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+devám ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádhumantaḥ ← mádhumant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ásiṣyadanta ← √syand- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+barhiṣádaḥ ← barhiṣád- (nominal stem)  
+{case:NOM, number:PL}
+
+ū́dhabhiḥ ← ū́dhar- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vacanā́vantaḥ ← vacanā́vant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+nirṇíjam ← nirṇíj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+parisrútam ← parisrút- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+usríyāḥ ← usríya- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Die honigsüssen Indutränke sind geströmt zum Gotte hin wie Mutterkühe zu dem
 Усевшись на жертвенную солому, речистые, они взяли себе  
 Коров с (полным) выменем как растекшийся праздничный наряд.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+turváśe ← turváśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yádau ← yádu- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ahnavāyyám ← ahnavāyyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vídānaḥ ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ānaṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+śámi ← śámī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+turváṇe ← √tūr(v)- ~ tur- (root)  
+{case:DAT, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Die wahre Kraft, die niemand hemmt, gab er dem Jadu, Turvaça, Errang durch sein
 У Турваши (и) Яду, он достиг  
 Неоспоримого в успешном продвижении жертвенного труда.
 </details>
+

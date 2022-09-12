@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+íti ← íti (invariable)  
+{}
+
+napāt ← nápat- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sahasāvan ← sahasāvan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ū́rjaḥ ← ū́rj- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+upastutásya ← upastutá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vā́k ← vā́c- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vandate ← √vandⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stoṣāma ← √stu- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+suvī́rāḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+tváyā ← tvám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+drā́ghīyaḥ ← drā́ghīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pratarám ← pratarám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Sohn der Kraft, Gewaltiger! Mit diesen Worten rühmt dich des Upastuta brüllend
 Мы хотим восхвалять тебя, (получив) благодаря тебе прекрасных сыновей,  
 Подольше продлевая срок жизни!
 </details>
+

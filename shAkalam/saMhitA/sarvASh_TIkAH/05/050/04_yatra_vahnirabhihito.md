@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhíhitaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+váhniḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+dróṇyaḥ ← dróṇya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dudrávat ← √dru- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+paśúḥ ← paśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥máṇāḥ ← nr̥máṇas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīrápastyaḥ ← vīrápastya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árṇā ← árṇa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dhī́rā ← dhī́ra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+sánitā ← sánitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +194,4 @@ Wo auch das angeschirrte Thier, und Vieh der Krippe laufen mag; Der Helden hold 
 (То он,) мужественный, чтобы его дом был полон сыновей,  
 Завоевывает потоки, словно мудрые (поколения людей - реки).
 </details>
+

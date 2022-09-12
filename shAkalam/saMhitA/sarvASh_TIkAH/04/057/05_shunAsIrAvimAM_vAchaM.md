@@ -15,13 +15,50 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+juṣethām ← √juṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:MED}
+
+śúnāsīrau ← śunāsīra- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+cakráthuḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+siñcatam ← √sic- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +177,4 @@ Pflug und Lenker, nehmt dieses Lied huldvoll an; mit der Milch, die ihr am Himme
 Та влага, которую вы создали на небе, –  
 Оросите ею эту (землю)!
 </details>
+

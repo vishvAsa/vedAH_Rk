@@ -15,13 +15,44 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+gómat ← gómant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+áśvāvat ← áśvāvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+nr̥pā́yyam ← nr̥pā́yya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rudrā ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +148,4 @@ Mit Ross- und Rindergabe kommt, o treue Ritter, glänzende, Zur Stätte, die die
 В объезд, дающий коров, дающий конец, о Ашвины,  
 Охраняющий мужей, о Рудры,
 </details>
+

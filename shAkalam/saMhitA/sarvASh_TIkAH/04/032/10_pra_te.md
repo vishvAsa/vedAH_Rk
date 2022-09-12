@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vīryā̀ ← vīryà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vocāma ← √vac- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+árujaḥ ← √ruj- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+mandasānáḥ ← mandasāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+abhī́tya ← √i- 1 (root)  
+{non-finite:CVB}
+
+dā́sīḥ ← dā́sī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Wir preisen deine Heldenthat, als der Dämonen Burgen du Im Rausche angriffst un
 Какие крепости дасов ты проломил,  
 Напав (на них), опьяненный сомой.
 </details>
+

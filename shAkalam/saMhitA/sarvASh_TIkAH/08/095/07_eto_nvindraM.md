@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.;; repeated line  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ita ← √i- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+stávāma ← √stu- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+sā́mnā ← sā́man- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śuddhám ← √śudh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+śuddhéna ← √śudh- (root)  
+{case:INS, gender:M, number:SG, non-finite:PPP}
+
+śuddhaíḥ ← √śudh- (root)  
+{case:INS, gender:M, number:PL, non-finite:PPP}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vāvr̥dhvā́ṁsam ← √vr̥dh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+āśī́rvān ← āśī́rvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mamattu ← √mad- (root)  
+{number:SG, person:3, mood:IMP, tense:PRF, voice:ACT}
+
+śuddháḥ ← √śudh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +166,7 @@ Instead of Holland & van Nooten Rig Veda edition’s restoration nu índram (for
 
 VIII.95.7-8: These two vss. contain successive occurrences of the pf. act. impv. built to √mad: 3rd sg. mamattu (7d), 2nd sg. mamaddhi (8d). Despite their apparently parallel formation, they have distinct transitivity values: the 3rd sg. is transitive, the 2nd sg. not. This difference is consistent in the usage of the two forms: the other instance of mamaddhí (X.96.13) is also intransitive, the 10 of the other 11 occurrences of mamáttu are transitive (save for late X.59.2) The difference may have arisen from the fact that, while mamáttu is a properly formed impv. to the pf. of √mad with expected full grade of the root syllable, in the 2nd sg. we should expect zero grade, hence *ma-md-dhí, which would probably simplify to *mandhí, with the superficially unredupl. weak perfect stem mand-, which is reinterpreted as a secondary root. Hence mamaddhí must be secondarily formed. I do not understand why this would affect its valency, though.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/095/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/095/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 See the introduction. for the curious density in this tṛca of the ppl. śuddhá- ‘cleansed’, which is not normal soma vocabulary. I do not understand what ritual or conceptual feature is at issue. Geldner cites Sāyaṇa’s story about the purification of Indra after his killing of Vṛtra. This may be relevant, but there is no reference to Indra’s deeds or activities in this tṛca, save for the final hemistich in vs. 9, where we find vṛtrā́ṇi jighnase “you keep smashing obstacles” - an allusion to Vṛtra but couched in present time and plural number.
@@ -152,3 +198,4 @@ Kommt, lasst uns Indra preisen nun, den reinen ihn mit reinem Sang, Der sich an 
 (Его,) окрепшего от чистых хвалебных речей,  
 Пусть опьянит чистый, смешанный с молоком (сома)!
 </details>
+

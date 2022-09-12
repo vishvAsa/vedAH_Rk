@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pipyúṣīm ← √pī- 1 (root)  
+{case:ACC, gender:F, number:SG, tense:PRF, voice:ACT}
+
+saṁyátam ← saṁyát- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asrídham ← asrídh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+áhan ← áhar ~ áhan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ásaścuṣī ← ásaścivaṁs- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dóhate ← √duh- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+trís ← trís (invariable)  
+{}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+kṣumát ← kṣumánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mádhumat ← mádhumant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́javat ← vā́javant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +210,7 @@ and honey.
 Note the functional contrast between ā́… pavasva and adjacent pávamānaḥ.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 The first two vss. of this tṛca begin with prá with a verb of motion, but otherwise there is little that unifies the tṛca. Nor is there much that connects with the rest of the hymn, save for 16a … ayāsīt … índrasya niṣkṛtám / 7b=32d … úpa yāti niṣkṛtám and the repetition of saṃyát- in 18a (cf. 15d and disc. there).
@@ -178,3 +239,4 @@ O riesle flammend, Soma, ohne Unterlass uns fette Labung, Indu, zu, die heilsam 
 
 -ru-
 </details>
+

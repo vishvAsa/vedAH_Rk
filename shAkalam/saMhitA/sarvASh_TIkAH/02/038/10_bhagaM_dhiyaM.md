@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhágam ← bhága- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+púraṁdhim ← púraṁdhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vājáyantaḥ ← √vājay- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+avyāḥ ← √avⁱ- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+gnā́spátiḥ ← gnā́spáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nárāśáṁsaḥ ← nárāśáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āyé ← āyá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+saṁgathé ← saṁgathá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vāmásya ← vāmá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+priyā́ḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Glück, Andacht, Reichthum mögen wir beeilen, der Herr der Frauen Narāçana he
 Да будем мы милыми богу Савитару,  
 Чтобы иметь доступ к желанному добру, чтобы стекались богатства!
 </details>
+

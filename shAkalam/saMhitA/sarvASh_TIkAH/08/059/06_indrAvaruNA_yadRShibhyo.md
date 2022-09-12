@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; Vālakhilya;; 12 = 5+7, ending LHX  
 popular;; Vālakhilya  
 popular;; Vālakhilya  
 popular;; Vālakhilya
+#### Morph
+índrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥ṣíbhyaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+adattam ← √dā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+matím ← matí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śrutám ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vācáḥ ← vā́c- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+asr̥janta ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sthā́nāni ← sthā́na- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yā́ni ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+apaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+tanvānā́ḥ ← √tan- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+tápasā ← tápas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Was ihr zuerst, o Indra-Varuna, den Dichtern gabt: Weisheit, den Sinn des Liedes
 Мудрые, принося жертву, создали (особые) места,  
 Которые я увидел благодаря силе внутреннего жара.
 </details>
+

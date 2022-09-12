@@ -17,15 +17,64 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+arjuna ← árjuna- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sārameya ← sārameyá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+datáḥ ← dánt- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+piśaṅga ← piśáṅga- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yáchase ← √yam- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+bhrājante ← √bhrāj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+r̥ṣṭáyaḥ ← r̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+bápsataḥ ← √bhas- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+srákveṣu ← srákva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+svapa ← √svap- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Wenn weisser Sarameja du, wenn brauner du die Zähne fletschst, Dann leuchten si
 Как копья, сверкают они  
 В пасти жаждущего загрызть. Крепко усни!
 </details>
+

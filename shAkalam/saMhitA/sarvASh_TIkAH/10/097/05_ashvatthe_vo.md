@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+aśvatthé ← aśvatthá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+niṣádanam ← niṣádana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+kr̥tā́ ← √kr̥- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+parṇé ← parṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vasatíḥ ← vasatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+asatha ← √as- 1 (root)  
+{number:PL, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+gobhā́jaḥ ← gobhā́j- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+kíla ← kíla (invariable)  
+{}
+
+pū́ruṣam ← pū́ruṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sanávatha ← √sanⁱ- (root)  
+{number:PL, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +194,4 @@ Von Feigenholz ist euer Bett, das Nestchen ist vom Bohnenbaum; Ihr wäret mir vi
 Конечно же, вы получите (вашу) долю – корову,  
 Когда вы добудете (этого) человека.
 </details>
+

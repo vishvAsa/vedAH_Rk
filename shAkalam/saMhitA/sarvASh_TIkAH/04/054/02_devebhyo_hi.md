@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+prathamám ← prathamá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yajñíyebhyaḥ ← yajñíya- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+amr̥tatvám ← amr̥tatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvási ← √sū- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+uttamám ← uttamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+dāmā́nam ← dāmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ūrṇuṣe ← √vr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+anūcīnā́ ← anūcīná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jīvitā́ ← jīvitá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mā́nuṣebhyaḥ ← mā́nuṣa- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Denn du zuerst verschaffst der heil'gen Götterschar Unsterblichkeit, o Savitar,
 А потом, о Савитар, ты раскрываешь дар  
 Для людей – последовательные сроки жизни.
 </details>
+

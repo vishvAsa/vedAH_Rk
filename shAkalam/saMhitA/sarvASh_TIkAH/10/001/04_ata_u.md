@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átas ← átas (invariable)  
+{}
+
+jánitrīḥ ← jánitrī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pitubhŕ̥taḥ ← pitubhŕ̥t- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+ánnaiḥ ← ánna- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+annāvŕ̥dham ← annāvŕ̥dh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+anyárūpāḥ ← anyárūpa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+eṣi ← √i- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+práti ← práti (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́nuṣīṣu ← mā́nuṣa- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Drum kommen auch die Mütter, die dich nähren, mit Speisen her zu dir, der Spei
 И к ним ты снова возвращаешься, когда у них другой облик.  
 Ты хотар среди людских племен.
 </details>
+

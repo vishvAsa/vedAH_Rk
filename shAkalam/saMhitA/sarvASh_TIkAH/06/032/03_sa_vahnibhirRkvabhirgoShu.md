@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ŕ̥kvabhiḥ ← ŕ̥kvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śáśvat ← śáśvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váhnibhiḥ ← váhni- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+jigāya ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mitájñubhiḥ ← mitájñu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+purukŕ̥tvā ← purukŕ̥tvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+purohā́ ← purohán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhibhiḥ ← sákhi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sakhīyán ← √sakhīy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dr̥ḷhā́ḥ ← √dr̥h- (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
+kavíbhiḥ ← kaví- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ruroja ← √ruj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Er siegte stets, viel wirkend, Küh' erstreitend, mit jubelnden Gefährten straf
 Сокрушитель крепостей, он проломил твердые крепости,  
 Дружа с друзьями, ведя себя мудро с мудрецами.
 </details>
+

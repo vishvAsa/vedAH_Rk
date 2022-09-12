@@ -17,15 +17,73 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rukmaíḥ ← rukmá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yudhā́ ← yúdh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+asr̥kṣata ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+r̥ṣṭī́ḥ ← r̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+r̥ṣvā́ḥ ← r̥ṣvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áha ← áha (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+enān ← ena- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+vidyútaḥ ← vidyút- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jájjhatīḥ ← √jajjh- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arta ← √r̥- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+bhānúḥ ← bhānú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Die hohen Helden schleuderten im Kampf die Lanzen, goldgeschmückt; Es folgte di
 Молнии, словно смеющиеся (женщины).  
 Луч движется с неба сам по себе.
 </details>
+

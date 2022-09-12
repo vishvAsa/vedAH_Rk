@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+návīyasīm ← návīyaṁs- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ájījanat ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+gíram ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mandrā́m ← mandrá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+cikitvínmanasam ← cikitvínmanas- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pipyúṣīm ← √pī- 1 (root)  
+{case:ACC, gender:F, number:SG, tense:PRF, voice:ACT}
+
+pratnā́m ← pratná- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +178,4 @@ Der, Indra, dir das neuste Lied erzeugt hat, das erfreuende, Das klugersonnene G
 Древнее произведение из чуткого сердца,  
 Источающее истину.
 </details>
+

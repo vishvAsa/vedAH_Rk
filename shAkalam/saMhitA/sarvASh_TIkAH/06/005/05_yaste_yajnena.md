@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+samídhā ← samídh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yajñéna ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+arkébhiḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dádāśat ← √dāś- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+amr̥ta ← amŕ̥ta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mártyeṣu ← mártya- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+prácetāḥ ← prácetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhāti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dyumnéna ← dyumná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śrávasā ← śrávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +199,7 @@ ad VI.1.9, 2.5.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/005/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/005/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 These two vss. are contrastively paired: each has a generalizing rel. clause describing the activities of a mortal -- harmful in 4ab, beneficial in 5ab -- while the 2nd hemistichs of each set out the results of such actions. The pairing is further emphasized by the phonological similarities of the oppositional verbs abhidā́sat ‘will assail’ (4a) and dádāśat (5b) ‘will ritually serve’.
@@ -173,3 +231,4 @@ Wer dir mit Brennholz und mit Opfer huldigt, mit Sprüchen und Gesängen, Sohn d
 Тот прозорливый (человек) среди смертных, о бессмертный,  
 Ярко сияет богатством, великолепием, славой.
 </details>
+

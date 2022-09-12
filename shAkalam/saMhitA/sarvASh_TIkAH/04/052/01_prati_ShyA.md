@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+jánī ← jánī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+sūnárī ← sūnára- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+syā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+svásuḥ ← svásar- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+vyuchántī ← √vas- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+adarśi ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+duhitā́ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +157,4 @@ Hier diese wonnigliche Maid, aufleuchtend von der Schwester her, Des Himmels Toc
 Зажигаясь из (недр своей) сестры,  
 Появилась (нам) навстречу, дочь неба.
 </details>
+

@@ -16,14 +16,48 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ániṣkr̥tam ← ániṣkr̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iṣkartā́ram ← iṣkartár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sáhaskr̥tam ← sáhaskr̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatákratum ← śatákratu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatámūtim ← śatámūti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samānám ← samāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásavānam ← vásavāna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vasūjúvam ← vasūjū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Den kraftgezeugten, ungeschmückten, schmückenden, von hundertfacher Huld und K
 Всеобщего Индру мы зовем на помощь,  
 Обладателя благ, приносящего блага.
 </details>
+

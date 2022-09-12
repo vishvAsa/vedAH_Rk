@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácyutāni ← ácyuta- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cyāváyan ← √cyu- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+sma ← sma (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+cárasi ← √carⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jíghnamānaḥ ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vr̥trā́ ← vr̥trá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+párvatāsaḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+nímitā ← √mi- 1 (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+tasthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vratā́ya ← vratá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Denn du fürwahr bewegst das unbewegte, ziehst aus allein, zu tödten deine Fein
 По твоему завету стоят, как вкопанные,  
 Небо и земля (и) горы.
 </details>
+

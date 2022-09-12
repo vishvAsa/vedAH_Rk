@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ná ← ná (invariable)  
+{}
+
+papr̥cyām ← √pr̥c- (root)  
+{number:SG, person:1, mood:OPT, tense:PRF, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+vaí ← vaí (invariable)  
+{}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+nigáchāt ← √gam- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+pāpám ← pāpá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svásāram ← svásar- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+anyéna ← anyá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+kalpayasva ← √kl̥p- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+mát ← ahám (pronoun)  
+{case:ABL, number:SG}
+
+pramúdaḥ ← pramúd- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+bhrā́tā ← bhrā́tar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+subhage ← subhága- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vaṣṭi ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +243,4 @@ Nicht will mit deinem Leib ich meinen mischen, für sündhaft gilt's, der Schwes
 Твой брат, о прекрасная, не хочет этого.  
 Ями:
 </details>
+

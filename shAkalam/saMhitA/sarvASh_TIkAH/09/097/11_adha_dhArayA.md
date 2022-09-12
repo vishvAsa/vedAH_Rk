@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mádhvā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pr̥cānáḥ ← √pr̥c- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+ádridugdhaḥ ← ádridugdha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+róma ← róman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+juṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+matsaráḥ ← matsará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +185,7 @@ The 2nd hemistich contains three pairs of phonological and (partly) etymological
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 This tṛca is attributed to Manyu Vāsiṣṭha, with the name possibly extracted from the previous tṛca, where manyú- in 8a is taken by some as part of a PN (see comm. above).
@@ -170,3 +219,4 @@ Dann rieselt hell im Strom der Stein-gemelkte, mit süsser Milch gemischt, durch
 Сок сомы, наслаждающийся дружбой Индры,  
 Бог, опьяняющий для опьянения бога.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+brahmayújā ← brahmayúj- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+keśínā ← keśín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+váhatām ← √vah- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śr̥ṇu ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Dich fahre her das mähnige, gebetgeschirrte Füchsepaar, Hör, Indra, unsre Bit
 Запрягаемых священным словом, гривастых.  
 Прислушайся к нашим священным словам!
 </details>
+

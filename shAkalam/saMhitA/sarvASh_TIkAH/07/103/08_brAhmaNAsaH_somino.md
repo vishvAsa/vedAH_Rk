@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+akrata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+brāhmaṇā́saḥ ← brāhmaṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+somínaḥ ← somín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+kr̥ṇvántaḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+parivatsarī́ṇam ← parivatsarī́ṇa- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+adhvaryávaḥ ← adhvaryú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gharmíṇaḥ ← gharmín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+siṣvidānā́ḥ ← √svid- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+āvís ← āvís (invariable)  
+{}
+
+bhavanti ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+gúhyāḥ ← gúhya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +197,7 @@ The frogs are compared to two different kinds of priests: brahmins (7a, 8a), who
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/103/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/103/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 With the behavioral model of the frogs established in the first 6 vss., the next three treat the ritual application of this model.
@@ -185,3 +234,4 @@ Wie somatrunkne Priester schreien laut sie, wenn sie ihr jährliches Gebet verri
 Адхварью, готовящие горячее молоко, в испарине –  
 (Все) стали явными, никто не (остался) скрытым.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+haṁsā́ḥ ← haṁsá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+śreṇiśás ← śreṇiśás (invariable)  
+{}
+
+yátānāḥ ← √yat- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aguḥ ← √gā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śukrā́ ← śukrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sváravaḥ ← sváru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vásānāḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+kavíbhiḥ ← kaví- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+purástāt ← purástāt (invariable)  
+{}
+
+unnīyámānāḥ ← √nī- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:PASS}
+
+ápi ← ápi (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pā́thaḥ ← pā́thas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +208,4 @@ Wie Gänsescharen, die in Reihen fliegen, so kamen unsre Säulen lichtumkleidet,
 Поднимаемые перед (огнем) поэтами,  
 Боги вступают на путь богов.
 </details>
+

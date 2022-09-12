@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dádvahe ← √dā- 1 (root)  
+{number:DU, person:1, mood:IND, tense:PRS, voice:MED}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sahásram ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vásurociṣaḥ ← vásurocis- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áśvyam ← áśvya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ójiṣṭham ← ójiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+paśúm ← paśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +157,4 @@ Wenn wir beide, Indra und ich, vom Vasurotschis (?) tausend sehr starke Rosse em
 Тысячу (коров) от Васурочиса  
 (И) табун сильнейших коней,
 </details>
+

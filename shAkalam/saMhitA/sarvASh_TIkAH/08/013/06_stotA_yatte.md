@@ -15,14 +15,51 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment
+#### Morph
+stotā́ ← stotár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vícarṣaṇiḥ ← vícarṣaṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+atipraśardháyat ← √śardh- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+rohate ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vayā́ḥ ← vayā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+juṣánta ← √juṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +169,4 @@ Wenn der ausgezeichnete Sänger die Lobreden auf dich steigert, dann wächst er 
 Наступает с хвалебными песнями,  
 Он растет вслед (за ними), словно ветви, если они (ему) нравятся.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+hí ← hí (invariable)  
+{}
+
+ruhátam ← √ruh- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+hiraṇyáye ← hiraṇyáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kóśe ← kóśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vr̥ṣaṇvasū ← vŕ̥ṣaṇvasu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pī́varīḥ ← pī́van- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yuñjā́thām ← √yuj- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Besteiget doch, o Ritter, nun den Wagen und den goldnen Sitz, ihr kräftigen, Un
 На колесницу в золотой кузов, о владеющие мощными благами!  
 Запрягайте жирные жертвенные услады!
 </details>
+

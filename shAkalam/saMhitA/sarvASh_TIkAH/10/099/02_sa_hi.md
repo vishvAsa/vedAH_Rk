@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyutā́ ← dyút- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sā́ma ← sā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+véti ← √vī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vidyútā ← vidyút- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asuratvā́ ← asuratvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pr̥thúm ← pr̥thú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sasāda ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+prasahānáḥ ← √sah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sánīḷebhiḥ ← sánīḷa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bhrā́tuḥ ← bhrā́tar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+māyā́ḥ ← māyā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+r̥té ← r̥té (invariable)  
+{}
+
+saptáthasya ← saptátha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Mit hellem Blitze geht er an sein Werk ja, mit Göttermacht nimmt Platz im weite
 Он (тот,) кто вместе с (этими) из одного гнезда побеждает  
 Не без (поддержки) брата колдовские чары этого седьмого.
 </details>
+

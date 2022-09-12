@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ákṣaḥ ← ákṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+br̥hán ← br̥hánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cakryòḥ ← cakrī́- (nominal stem)  
+{case:LOC, gender:F, number:DU}
+
+ná ← ná (invariable)  
+{}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ririce ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ródasyoḥ ← ródasī- (nominal stem)  
+{case:LOC, gender:F, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayā́ḥ ← vayā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vr̥kṣásya ← vr̥kṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ruruhuḥ ← √ruh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Wie beide Räder überragt die Achse, so beide Welten, deine Gröss', o starker;
 (Словно) ветви дерева, о многопризываемый,  
 Выросли во все стороны твои многочисленные милости, о Индра.
 </details>
+

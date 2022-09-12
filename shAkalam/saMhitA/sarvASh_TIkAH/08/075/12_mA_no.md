@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mahādhané ← mahādhaná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+bhārabhŕ̥t ← bhārabhŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+vark ← √vr̥j- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+yathā ← yathā (invariable)  
+{}
+
+jaya ← √ji- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+saṁvárgam ← saṁvárga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +177,4 @@ Wirf nicht in dieser grossen Schlacht uns wie ein Bürdenträger ab, Gewinn als 
 
 -ru-
 </details>
+

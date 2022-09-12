@@ -16,14 +16,87 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhāni ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+aktū́n ← aktú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rudrāḥ ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śikvasaḥ ← śíkvas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhūtayaḥ ← dhū́ti- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+rájāṁsi ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+ájatha ← √aj- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ájrān ← ájra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+nā́vaḥ ← naú- ~ nā́v- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yathā ← yathā (invariable)  
+{}
+
+áha ← áha (invariable)  
+{}
+
+durgā́ṇi ← durgá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+riṣyatha ← √riṣ- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +253,4 @@ Wenn, mächt'ge Rudra's, Nächte, wenn die Tage ihr, wenn ihr die Luft durchdrin
 Когда вы пересекаете поля, словно челны (море),  
 (И) непроходимые места, о Маруты, вы не терпите вреда.
 </details>
+

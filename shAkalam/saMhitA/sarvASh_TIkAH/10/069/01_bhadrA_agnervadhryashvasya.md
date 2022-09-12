@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhadrā́ḥ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saṁdŕ̥śaḥ ← saṁdŕ̥ś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vadhryaśvásya ← vadhryaśvá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+práṇītiḥ ← práṇīti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+suráṇāḥ ← suráṇa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+úpetayaḥ ← úpeti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vāmī́ ← vāmá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+indháte ← √idh- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sumitrā́ḥ ← sumitrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́hutaḥ ← √hu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+dávidyutat ← √dyut- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jarate ← √gr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +206,4 @@ Schön ist des Agni Vādhriaçva Glanzgestalt, lieb seine Führung, sehr erfreul
 
 -ru-
 </details>
+

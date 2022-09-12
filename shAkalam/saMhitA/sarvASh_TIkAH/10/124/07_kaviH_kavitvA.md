@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+asajat ← √sañj- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kavitvā́ ← kavitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rūpám ← rūpá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áprabhūtī ← áprabhūti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+sr̥jat ← √sr̥j- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jánayaḥ ← jáni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+kr̥ṇvānā́ḥ ← √kr̥- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+kṣémam ← kṣéma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bharibhrati ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+várṇam ← várṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +246,4 @@ Klug schloss der Kluge Lichtglanz an den Himmel an und Varuna liess frei die Str
 Создавая покой, словно жены, реки  
 Эти чистые носят туда-сюда его цвет.
 </details>
+

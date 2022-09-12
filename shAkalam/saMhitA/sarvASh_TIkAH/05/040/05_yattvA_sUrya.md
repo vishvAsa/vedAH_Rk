@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+sūrya ← sū́rya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+svàrbhānuḥ ← svàrbhānu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āsuráḥ ← āsurá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávidhyat ← √vyadh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+támasā ← támas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ákṣetravit ← ákṣetravid- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mugdháḥ ← √muh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yáthā ← yáthā (invariable)  
+{}
+
+adīdhayuḥ ← √dhī- (root)  
+{number:PL, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +174,4 @@ Als dich, o Soma, Suarbhanu, der dämonische, mit Finsterniss schlug, da sahen a
 
 -ru-
 </details>
+

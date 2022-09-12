@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Vālakhilya;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Vālakhilya;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+kāṇvāyanāḥ ← kāṇvāyana- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+stha ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sudevā́ḥ ← sudevá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+váyo-vayaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vicarántaḥ ← √carⁱ- (root)  
+{}
+
+áśvāsaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+caṅkramata ← √kramⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,3 +135,4 @@ Von den Göttern seid ihr begünstigt, o Nachkommen des Kanva, Jugendalter auf J
 Проходя один период жизни за другим,  
 Вы гарцуете, как кони.
 </details>
+

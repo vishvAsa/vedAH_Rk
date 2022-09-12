@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhúvanā ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pr̥kṣé ← pŕ̥kṣ- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+vavakṣire ← √vakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jīrádānavaḥ ← jīrádānu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mitrā́ya ← mitrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sádam ← sádam (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+anavabhrárādhasaḥ ← anavabhrárādhas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pŕ̥ṣadaśvāsaḥ ← pŕ̥ṣadaśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhūrṣádaḥ ← dhūrṣád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+r̥jipyā́saḥ ← r̥jipyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vayúneṣu ← vayúna- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,14 +189,14 @@ The descriptor ásmera-, generally taken as a derivative of √smi ‘smile’, 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md">
 <details open><summary><h2>02-05 ...{Loading}...</h2></summary>
 
 Note the concentration of pṛSIB forms: 2d pṛ́śni yāḥ, 3d prk̥ ṣám … pṛ́ṣatībhiḥ, 4a prk̥ ṣé, 4c pṛ́ṣadaśva (and scrambled -śiprā in 3c, rapśa- in 5a).
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
 The first words of each hemistich in this series of vss. echo each other: 1a úpem, 1c apā́m, 2a imám, 2c apā́m, 3a sám, 3c tám, 4a tám. Since similar openings are found only in scattered vss. later in the hymn (9a apā́m, 11c yám, 12c sám) I consider the effect deliberate.
@@ -179,3 +228,4 @@ Zur Labung netzten alle diese Wesen sie mit Regen strömend stets auch dem befre
 У кого кони – пестрые (антилопы), чьей награды не отнять,  
 Словно соколы, сидят они на дышле (колесницы) на огороженных местах (жертвоприношений).
 </details>
+

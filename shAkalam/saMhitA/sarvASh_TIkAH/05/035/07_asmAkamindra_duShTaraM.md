@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+duṣṭáram ← duṣṭára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ājíṣu ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+puroyā́vānam ← puroyā́van- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dháne-dhane ← dhána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sayā́vānam ← sayā́van- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ava ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājayántam ← √vājay- 2 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +174,4 @@ Den Wagen, Indra, fördre uns, im Wettlauf geh er stets voran, Der mit uns geht 
 Едущую со (всеми) вместе ради любой награды,  
 Участвующую в состязаниях – поддержи!
 </details>
+

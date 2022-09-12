@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yajñíyāsaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dámāya ← dáma- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sādayante ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+devayántīḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+mā́nuṣīḥ ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yádi ← yádi (invariable)  
+{}
+
+arcíḥ ← arcís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ī́ḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+práyasvatīḥ ← práyasvant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śukrám ← śukrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Dich setzen ein der Himmel und die Erde, die hehren Götter für das Haus zum Pr
 Когда племена человеческие, любящие богов,  
 Имеющие жертвенную усладу, призывают светлое пламя.
 </details>
+

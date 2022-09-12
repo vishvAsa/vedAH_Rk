@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+avatám ← avatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+siñcánti ← √sic- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+párijmānam ← párijman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uccā́cakram ← uccā́cakra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ákṣitam ← ákṣita- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nīcī́nabāram ← nīcī́nabāra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,3 +130,4 @@ Mit Ehrfurcht giessen sie den Born, der nicht versiegt, umwandernd aus, Und Grun
 С колесом наверху, делающий круги (вокруг вселенной),  
 С отверстием вниз, неиссякающий.
 </details>
+

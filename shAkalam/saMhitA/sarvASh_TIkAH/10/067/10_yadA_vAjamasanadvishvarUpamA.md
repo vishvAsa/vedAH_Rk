@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásanat ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvárūpam ← viśvárūpa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+árukṣat ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sádma ← sádman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+úttarāṇi ← úttara- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vardháyantaḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āsā́ ← ā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+bíbhrataḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nā́nā ← nā́nā (invariable)  
+{}
+
+sántaḥ ← √as- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Als er die mannichfache Labung erlangt hatte, und er sich zum Himmel erhoben hat
 (Мы,) усиливая быка Брихаспати,  
 Находясь в разных местах, неся в устах свет:
 </details>
+

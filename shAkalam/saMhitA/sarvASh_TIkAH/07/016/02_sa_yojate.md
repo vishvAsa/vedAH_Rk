@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aruṣā́ ← aruṣá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+viśvábhojasā ← viśvábhojas- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yojate ← √yuj- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+dudravat ← √dru- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svā̀hutaḥ ← svā̀huta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+subráhmā ← subráhman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suśámī ← suśámī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +209,4 @@ Die alles nähren, schirrt er an, die feurigen, er eile reichbeopfert vor; Der M
 Для Васу – жертва с хорошей молитвой, с хорошей службой,  
 Для людей – почетный дар, исходящий от богов.
 </details>
+

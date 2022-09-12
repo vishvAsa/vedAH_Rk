@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aruṇébhiḥ ← aruṇá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yujānā́ ← √yuj- (root)  
+{case:NOM, gender:F, number:SG, tense:AOR, voice:MED}
+
+áprāyu ← áprāyu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ásredhantī ← ásredhant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cakre ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:MED}
+
+rádantī ← √rad- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+bhāti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+puruṣṭutā́ ← puruṣṭutá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+viśvávārā ← viśvávāra- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +200,7 @@ There are two ways I can see to do this -- 1) take sá étaśaḥ as a parenthet
 That Savitar is identified with Etaśa in one of his aspects may be supported by the explicit identifications with other figures in the next two vss.: mitró bhavasi (4d), pūṣā́bhavasi (5b).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 Just as Savitar follows the lead (prayā́ṇam) of Dawn in 2d, the other gods follow his lead (also prayā́ṇam) in 3a. The masc. rel. prn. yásya beginning 3 makes it clear that the referent has changed -- which is not clear from the English.
@@ -183,3 +232,4 @@ Die güt'ge Uschas schaffte unablässig uns Reichthum her, mit rothen Stieren fa
 Пролагая пути для удачной поездки, богиня,  
 Несущая все желанные дары, ярко сверкает, когда ее много прославили.
 </details>
+

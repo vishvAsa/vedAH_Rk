@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átyā ← átya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ghr̥tásnū ← ghr̥tásnu- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+róhitā ← róhita- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vr̥dhasnū́ ← vr̥dhasnú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+jáviṣṭhā ← jáviṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+manye ← √man- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+aruṣā́ ← aruṣá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+īyase ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+yujānáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+mártān ← márta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+víśaḥ ← víś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yuṣmā́n ← tvám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +244,4 @@ Ich seh' im Geist des Heil'gen Flammenrosse, die schnellsten, die von Fett und S
 Запрягая обоих (скакунов), ты движешься между  
 Вами, богами, и (нашими) племенами, смертными,
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyaut ← √dyut- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+babhrāṇáḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+dádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+rabhasā́ ← rabhasá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śukrā́ ← śukrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vápūṁṣi ← vápus- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dhā́rāḥ ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ghr̥tásya ← ghr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mádhunaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ścótanti ← √ścut- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kā́vyena ← kā́vya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vāvr̥dhé ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Genährt erstrahltest weit, o Sohn der Kraft, du, annehmend lichte, glänzende G
 Сочатся потоки сладкого жира (там,)  
 Где бык усилился благодаря поэтическому искусству (риши).
 </details>
+

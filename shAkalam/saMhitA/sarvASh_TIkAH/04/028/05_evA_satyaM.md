@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+evá ← evá (invariable)  
+{}
+
+maghavānā ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+áśvyam ← áśvya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ūrvám ← ūrvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adardr̥tam ← √dr̥- ~ dr̥̄- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ápihitāni ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+áśnā ← áśman- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+kṣā́ḥ ← kṣám- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+riricáthuḥ ← √ric- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+tatr̥dānā́ ← √tr̥d- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Das ist eur rechtes Werk, o mächt'ge beide, den Stall der Ross und Rinder, Indr
 И коровами, выпустили наружу (сокровища),  
 Придавленные камнем, словно вскрытая земля.
 </details>
+

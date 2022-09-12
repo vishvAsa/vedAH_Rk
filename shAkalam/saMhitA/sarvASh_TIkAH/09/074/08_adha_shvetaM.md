@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+aktám ← √añj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+kaláśam ← kaláśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śvetám ← śvetá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+akramīt ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+kā́rṣman ← kā́rṣman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sasavā́n ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devayántaḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+hinvire ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+gónām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+kakṣī́vate ← kakṣī́vant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śatáhimāya ← śatáhima- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +196,7 @@ It is easy to understand the attempts of others to link d with something else in
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/074/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/074/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These two vss. seem to resolve the situation set up in vs. 1, esp. 1bc: the racehorse that was striving to win the sun (=milk) there (1b) has achieved this goal and “keeps company” with ritual speech and labor, as it did in 1c (and 5a) with more physical features of the ritual process. The repetition of the desid. síṣāsati from 1b in 7a and the resolution of the desid. into an achieved state via a pf. part. sasavā́n (8b) signal the relationship between vss. 1 and 7-8 - as does the repetition of sacate from 1c (/sácamānaḥ 5a) in 7c.
@@ -176,3 +228,4 @@ Jetzt ist der Renner, nachdem er das gewünschte erlangt hat, zum Ziele der Renn
 Преданные богам (люди) поторопились его мыслью.  
 Какшиванту, которому сто зим, (пусть завоюет он сто) коров!
 </details>
+

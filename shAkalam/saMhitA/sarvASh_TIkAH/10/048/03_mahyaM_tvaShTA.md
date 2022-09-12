@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+atakṣat ← √takṣ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+āyasám ← āyasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+avr̥jan ← √vr̥j- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+máyi ← ahám (pronoun)  
+{case:LOC, number:SG}
+
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+duṣṭáram ← duṣṭára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ryanti ← √ār- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+kártvena ← kártva- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+kr̥téna ← √kr̥- (root)  
+{case:INS, gender:M, number:SG, non-finite:PPP}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +242,4 @@ Es machte Tvaschtar mir den Blitz, den ehernen, die Götter flössten hohe Geist
 Мой вид ослепительней, чем у солнца.  
 Меня уважают за то, что сделано и что будет сделано.
 </details>
+

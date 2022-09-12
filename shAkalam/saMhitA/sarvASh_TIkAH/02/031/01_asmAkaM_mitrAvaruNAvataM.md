@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+avatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ādityaíḥ ← ādityá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+rudraíḥ ← rudrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sacābhúvā ← sacābhū́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vásubhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+páptan ← √pat- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+vásmanaḥ ← vásman- 2 (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+hŕ̥ṣīvantaḥ ← hŕ̥ṣīvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śravasyávaḥ ← śravasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vanarṣádaḥ ← vanarṣád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Befördert unsern Wagen, Mitra-Varuna, mit der Aditja-, Rudra-, Vasu-Schar verei
 Когда они вылетают, как птицы из гнезда,  
 Жаждущие славы, полные возбуждения, сидящие на дереве!
 </details>
+

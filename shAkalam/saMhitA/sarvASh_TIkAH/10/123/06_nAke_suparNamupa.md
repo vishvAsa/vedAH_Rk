@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nā́ke ← nā́ka- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pátantam ← √pat- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+suparṇám ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ácakṣata ← √cakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vénantaḥ ← √ven- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+híraṇyapakṣam ← híraṇyapakṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhuraṇyúm ← bhuraṇyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śakunám ← śakuná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yamásya ← yamá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Als dich den Adler, der am Himmel hinflog, die Menschen sahn mit Sehnsucht in de
 Златокрылого вестника Варуны,  
 Птицу, трепещущую в излюбленном месте Ямы:
 </details>
+

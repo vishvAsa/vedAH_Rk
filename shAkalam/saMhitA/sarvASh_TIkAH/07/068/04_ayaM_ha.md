@@ -15,13 +15,62 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ádriḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+devayā́ḥ ← devayā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+somasút ← somasút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vívakti ← √vañc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yuvábhyām ← tvám (pronoun)  
+{case:INS, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+havyaíḥ ← havyá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+valgū́ ← valgú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vavr̥tīta ← √vr̥t- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:MED}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Wenn dieser Stein euch schönen Soma pressend voll Götterlust euch ruft, empor 
 Высоко поднятый, говорят, выжимая сому для вас,  
 Вдохновенный поэт хотел бы повернуть сюда двоих милых с помощью жертв.
 </details>
+

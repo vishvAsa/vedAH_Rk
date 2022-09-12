@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+anyásyāḥ ← anyá- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+átithim ← átithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+páśyan ← √paś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vayā́yāḥ ← vayā́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mime ← √mā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ásurāya ← ásura- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pitré ← pitár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śáṁsāmi ← √śaṁs- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+śévam ← śéva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ayajñiyā́t ← ayajñiyá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+emi ← √i- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+yajñíyam ← yajñíya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Hinschauend nach dem Gast der andern Sippe hab viele Stätten ich des Rechts dur
 Отцу Асуре я говорю приветливое (слово).  
 Со (стороны,) не связанной с жертвой, я иду в сторону, связанную с жертвой.
 </details>
+

@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+puṣkaríṇīm ← puṣkaríṇī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+samiṅgáyati ← √iṅg- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sarvátas ← sarvátas (invariable)  
+{}
+
+ejatu ← √ej- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+evá ← evá (invariable)  
+{}
+
+gárbhaḥ ← gárbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dáśamāsyaḥ ← dáśamāsya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+niraítu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +157,4 @@ Gleichwie der Wind den Lotusteich zu Wogen aufregt überall so reg' sich deine L
 Так пусть шевелится твой плод!  
 Пусть он выйдет десятимесячным!
 </details>
+

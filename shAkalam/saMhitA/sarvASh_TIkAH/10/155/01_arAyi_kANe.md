@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+árāyi ← arāyī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+kā́ṇe ← kāṇa- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+víkaṭe ← víkaṭa- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+gacha ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+girím ← girí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sadānve ← sadānvā- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sátvabhiḥ ← sátvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śirímbiṭhasya ← śirímbiṭha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cātayāmasi ← √cat- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tébhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Arājī, grause Hexe du! flieh ins Gebirg', einäugige! Wir scheuchen dich durch
 С воинами Ширимбитхи,  
 С ними мы выгоняем тебя.
 </details>
+

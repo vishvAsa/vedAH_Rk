@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+gaman ← √gam- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sómaśitāḥ ← sómaśita- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áṅgirasaḥ ← áṅgiras- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ayā́syaḥ ← ayā́sya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+návagvāḥ ← návagva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhajanta ← √bhaj- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+gónām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ūrvám ← ūrvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+paṇáyaḥ ← paṇí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váman ← √vamⁱ- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ Es werden die Rishi´s, durch Soma scharf gemacht, hierher kommen: Ayasya, die A
 Вот тогда Пани изрыгнут эту речь.  
 Пани:
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+iva ← iva (invariable)  
+{}
+
+kanīnakā́ ← kanīnaká- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vidradhé ← vidradhá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+arbhaké ← arbhaká- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+drupadé ← drupadá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+náve ← náva- 2 (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+babhrū́ ← babhrú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śobhete ← √śubh- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+yā́meṣu ← yā́ma- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +162,4 @@ Wie ein entkleidet Mädchenpaar am neuen kleinen Pfosten glänzt, So auf der Fah
 Статуэтки, маленькие, на деревянной подставке,  
 Красуется при выездах пара рыжих (коней).
 </details>
+

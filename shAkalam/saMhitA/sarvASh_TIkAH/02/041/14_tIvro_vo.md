@@ -15,13 +15,41 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mádhumān ← mádhumant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tīvráḥ ← tīvrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+matsaráḥ ← matsará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śunáhotreṣu ← śunáhotra- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+kā́myam ← kā́mya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pibata ← √pā- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,3 +137,4 @@ Der süsse, starkberauschende steht hier bei Çunahotra's Stamm, So trinket den 
 Опьяняющий (сома) у потомков Шунахотры.  
 Пейте его, желанного!
 </details>
+

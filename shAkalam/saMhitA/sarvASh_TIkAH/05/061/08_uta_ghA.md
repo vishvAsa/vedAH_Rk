@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ástutaḥ ← ástuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+némaḥ ← néma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+bruve ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+íti ← íti (invariable)  
+{}
+
+paṇíḥ ← paṇí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+púmān ← púmaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+samáḥ ← samá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaíradeye ← vaíradeya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +162,7 @@ Another indirect ref. to the same phenomenon is found in II.32.4 vīráṃ śat�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 As indicated in the published translation, I consider these vss. a digression reflecting on the character of women in general, motivated by the introduction of the winning woman in vs. 5.
@@ -156,3 +193,4 @@ Und dagegen ist mancher nicht lobenswerthe geizig, der einen Mann sich nennt, ei
 Скупец (тоже) мужчиной называется.  
 Он равен (ему) только по выкупу.
 </details>
+

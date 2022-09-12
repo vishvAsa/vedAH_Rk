@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+maryakám ← maryaká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yavanta ← √yu- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+áraṇaḥ ← áraṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́sa ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yéṣām ← yá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+jagr̥bhúḥ ← √gr̥bhⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sr̥jantu ← √sr̥j- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ajāti ← √aj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+cikitvā́n ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+paśváḥ ← paśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +258,4 @@ Wer hält mein Stierlein fest zusammt den Kühen, die keinen Hirten hatten, nah 
 Да отпустят (его) те, что захватили его!  
 Он пригонит к нам скот, зная (в этом) толк.
 </details>
+

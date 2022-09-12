@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+āvr̥ṇi ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:MED}
+
+kuruśrávaṇam ← kuruśrávaṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rā́jānam ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+trā́sadasyavam ← trāsadasyavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+máṁhiṣṭham ← máṁhiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāghátām ← vāghát- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -98,3 +120,4 @@ Den König Kuruçravana, den Nachkommen des Trasadasju, hab' ich mir vermählt, 
 Я выбрал себе царем,  
 (Его) самого щедрого к певцам, (я,) риши.
 </details>
+

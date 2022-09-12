@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+gāya ← √gā(y)- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sácā ← sácā (invariable)  
+{}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+puruhūtā́ya ← puruhūtá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sátvane ← sátvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gáve ← gáv- ~ gó- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śākíne ← śākín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +151,7 @@ The simile in c is somewhat unsettling: “Sing what is weal for the able one as
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/22-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 This tṛca concerns itself with cows, picking up gómadbhir gopate from the end of the preceding tṛca (21c). In particular 23b vā́jasya gómataḥ “prize of cows” reprises 21bc vā́jebhiḥ … gómadbhiḥ and is then echoed by vrajáṃ gómantam “enclosure of cows” in 24ab.
@@ -145,3 +182,4 @@ Das sing' ich eurem tapferen, beim Soma vielgerufenen, Was heilsam ist dem stark
 Многопризываемому воину,  
 Что благо (для него,) сильного, как бык!
 </details>
+

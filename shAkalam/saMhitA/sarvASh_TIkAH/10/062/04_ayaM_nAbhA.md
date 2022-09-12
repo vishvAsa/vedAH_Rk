@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gr̥hé ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+nā́bhā ← nā́bhi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vadati ← √vadⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+valgú ← valgú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dévaputrāḥ ← deváputra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+r̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śr̥ṇotana ← √śru- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aṅgirasaḥ ← áṅgiras- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+subrahmaṇyám ← subrahmaṇyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+gr̥bhṇīta ← √gr̥bhⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mānavám ← mānavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+sumedhasaḥ ← sumedhás- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ In eurem Haus und Heimsitz singt der Sänger schön; o Göttersöhne, weise Sehe
 Да будет вам удача в создании священного слова, о Ангирасы!  
 Примите (меня,) сына Ману, о мудрые!
 </details>
+

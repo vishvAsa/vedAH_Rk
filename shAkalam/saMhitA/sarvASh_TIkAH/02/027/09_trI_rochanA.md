@@ -16,14 +16,54 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhārayanta ← √dhr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+divyā́ ← divyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+rocanā́ ← rocaná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+trī́ ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dhā́rapūtāḥ ← dhā́rapūta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hiraṇyáyāḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádabdhāḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+animiṣā́ḥ ← animiṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ásvapnajaḥ ← ásvapnaj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mártyāya ← mártya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+r̥jáve ← r̥jú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+uruśáṁsāḥ ← uruśáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +189,4 @@ Sie tragen die drei lichten Himmelsräume, sind golden, hell und lauter wie die 
 Не дремлющие, не смыкающие глаз, не поддающиеся обману,  
 Чья хвала далеко раздается для правого смертного.
 </details>
+

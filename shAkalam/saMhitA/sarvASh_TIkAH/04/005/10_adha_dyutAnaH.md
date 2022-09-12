@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+āsā́ ← ā́s- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dyutānáḥ ← √dyut- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+pitróḥ ← pitár- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+sácā ← sácā (invariable)  
+{}
+
+ámanuta ← √man- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+cā́ru ← cā́ru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+gúhyam ← gúhya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pŕ̥śneḥ ← pŕ̥śni- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ánti ← ánti (invariable)  
+{}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sát ← √as- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+jihvā́ ← jihvā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+práyatasya ← √yam- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+śocíṣaḥ ← śocís- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +238,4 @@ Da nahm wahr der glänzende [Agni] vor der Aeltern [Himmel und Erde] Angesicht d
 На высшем месте матери, находясь вблизи коровы,  
 (Показался) язык быка, протянутого пламени.
 </details>
+

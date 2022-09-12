@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ánasaḥ ← ánas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+sarat ← √sr̥- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+bibhyúṣī ← √bhī- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:ACT}
+
+sámpiṣṭāt ← √piṣ- (root)  
+{case:ABL, gender:M, number:SG, non-finite:PPP}
+
+ní ← ní (invariable)  
+{}
+
+sīm ← sīm (invariable)  
+{}
+
+śiśnáthat ← √śnathⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,7 +141,7 @@ The “hundred forms of help” found at the end of the first tṛca (3c) recurs
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details open><summary><h2>08-21 ...{Loading}...</h2></summary>
 
 These vss. are tr. by Hoffmann (Injunk., 184-86).
@@ -135,3 +172,4 @@ Von ihrem Wagen stürzte sie voll Angst, von dem zerbrochenen, Als ihn der Held 
 Убежала Ушас, страшась,  
 Когда бык ее столкнул.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácittim ← ácitti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+cinavat ← √ci- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+cíttim ← cítti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+mártān ← márta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pr̥ṣṭhā́ ← pr̥ṣṭhá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vītā́ ← vītá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vr̥jinā́ ← vr̥jiná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svapatyā́ya ← svapatyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dítim ← díti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rā́sva ← √rā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+uruṣya ← √uruṣy- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +254,4 @@ Verstand und Unverstand der Menschen sondre er klug wie grad' und krumme Thieres
 Для богатства, для прекрасного потомства, о бог,  
 Награди ты нас щедростью, избавь от нещедрости!
 </details>
+

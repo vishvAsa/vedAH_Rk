@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+nr̥cákṣāḥ ← nr̥cákṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+paśya ← √paś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rákṣaḥ ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ágrā ← ágra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+śr̥ṇīhi ← √śr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+trī́ṇi ← trí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hárasā ← háras- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pr̥ṣṭī́ḥ ← pr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śr̥ṇīhi ← √śr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mū́lam ← mū́la- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tredhā́ ← tredhā́ (invariable)  
+{}
+
+vr̥śca ← √vr̥śc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yātudhā́nasya ← yātudhā́na- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Als Männerschauer blicke das Gespenst an bei Menschen und zerbrich ihm Kopf und
 Жаром разбей ему ребра, о Агни!  
 Разруби натрое корень колдуна!
 </details>
+

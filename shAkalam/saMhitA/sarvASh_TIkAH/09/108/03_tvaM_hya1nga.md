@@ -15,13 +15,41 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+aṅgá ← aṅgá (invariable)  
+{}
+
+daívyā ← daívya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+dyumáttamaḥ ← dyumáttama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jánimāni ← jániman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pávamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+amr̥tatvā́ya ← amr̥tatvá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ghoṣáyaḥ ← √ghuṣ- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+marúdbhiḥ ← marút- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ságaṇaḥ ← ságaṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+piba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+jahí ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mŕ̥dhaḥ ← mŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+nudasva ← √nud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ábhayam ← ábhaya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+kr̥ṇuhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,12 +193,10 @@ genre M
 हे **शूर** बलवन् हे **इन्द्र** **सजोषाः** संगतो देवैः **मरुद्भिः** **सगणः** मरुद्भिरेव **वृत्रहा** वृत्रस्य हन्ता **विद्वान्** कर्मविषयाभिज्ञस्त्वं **सोमं** **पिब** । ततो नः **शत्रून्** **जहि** । **मृधः** हिंसकान् शत्रून् **अप** **नुदस्व** । यद्वा मृधः । हिंस्यन्तेऽत्र प्राणिन इति मृधः संग्रामाः । तत्र वर्तमानान् शत्रूनपनुदस्व । **अथ** अनन्तरं **नः** अस्माकं **विश्वतः** सर्वतः **अभयं** कृणुहि कुरु । सर्वतो भयरहितानस्मान् कुर्वित्यर्थः ॥ वृत्रहा । हन्तेः ' ब्रह्मभ्रूणवृत्रेषु क्विप् '। अभयम् ।' ञिभी भये ' इत्यस्मात् एर्च् । नञा समासे तस्य स्वरः । विश्वतः । पञ्चम्यास्तसिल् । लित्स्वरः ॥
 </details>
 
-
 <details><summary>भट्टभास्करटीका</summary>
 
 1सजोषा इत्यादि त्रिष्तुप् ॥ हे इन्द्र सगणः सर्वैर्गणैस्सहितः मरुद्भिस्सजोषाः समानप्रीतिः । पूर्ववदुत्तरपदाद्युदात्तत्वम् । हे इन्द्र वृत्रहन् वृत्रहन्तः शूर महाबल विद्वान् स्वमधिकारं जानन्, सर्वविशेषज्ञानदक्षो वा । ईदृशस्त्वं सोमं पिब । पीत्वा चास्मदीयान् शत्रून् जहि नाशय । मृधश्च सङ्ग्रामान् कर्तुकामानपनुदस्व । अथानन्तरमस्मभ्यं विश्वतस्सर्वतोप्यभयं कृणुहि कुरु । 'उतश्च प्रत्ययाच्छन्दो दो वा वचनम्' इति हिलोपाभावः । शत्रूनित्यस्य संहितायां 'दीर्घादटि समानपादे' इति रुत्वम्, पूर्ववदनुनासिकत्वम् ॥
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -175,7 +231,6 @@ Slay our foes, drive away the enemies,
 And thus make for us on all sides security.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Einträchtig mit den Marut als Gefolge trink, Indra, als Kenner den Soma, du der Vritratöter, o Held! Erschlage die Feinde, treib die Verächter fort und schaff uns allenthalben Sicherheit!
@@ -193,3 +248,4 @@ Vereint, o Indra, mit den Marutscharen trink Soma, Held, du kund'ger Vritratödt
 Убей врагов, отшвырни прочь противников,  
 И затем создай нам повсюду состояние бесстрашия!
 </details>
+

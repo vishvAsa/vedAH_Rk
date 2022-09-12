@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avasiṣṭa ← √vas- 2 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+síndhūnām ← síndhu- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vā́saḥ ← vā́sas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aruhat ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+nā́vam ← naú- ~ nā́v- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rájiṣṭhām ← rájiṣṭha- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+drapsáḥ ← drapsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śyenájūtaḥ ← śyenájūta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāvr̥dhe ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+duhé ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+duhé ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+īm ← īm (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+jā́m ← jā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Der Flüsse König legte sein Gewand an, des Opfers Schiff, das grade fährt, be
 Капля сомы выросла в водах, быстро принесенная орлом.  
 Доит ее отец, доит этого ребенка (своего) отца.
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ghr̥tasnā́ḥ ← ghr̥tasnā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+harítaḥ ← harít- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+r̥jváñcaḥ ← r̥jváñc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+róhitāsaḥ ← róhita- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sváñcaḥ ← sváñc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+aruṣā́saḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥jumuṣkā́ḥ ← r̥jumuṣká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ahvanta ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+dasmā́ḥ ← dasmá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devátātim ← devátāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +197,4 @@ Hier deine Rosse, Agni, buttertriefend, die flammenden, die eilend grade ausgehn
 Алые, мужественные, с тугими ядрами,  
 Чудесные, пригласили (богов) на службу богам.
 </details>
+

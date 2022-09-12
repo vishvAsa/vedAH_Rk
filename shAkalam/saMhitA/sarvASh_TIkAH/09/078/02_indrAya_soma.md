@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+sicyase ← √sic- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ajyase ← √añj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥cákṣāḥ ← nr̥cákṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūrmíḥ ← ūrmí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váne ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+srutáyaḥ ← srutí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́tave ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+camūṣádaḥ ← camūṣád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +217,7 @@ Geldner, Renou, and Ober take c with d. This is certainly possible, but I prefer
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/078/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/078/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 The opening of this vs. prá ṇo dhanvantv índavaḥ … echoes that of vs. 1 X no dhanvantv índavaḥ, prá but with the preverb in tmesis relocated to a more standard, pre-verbal position.
@@ -190,3 +251,4 @@ Dem Indra wirst von Männern, Soma, du, gereicht, ins Holz geführt, ein weiser,
 Ведь много есть у тебя троп, чтобы двигаться,  
 Тысячу буланых коней у (тебя), пребывающих в сосудах.
 </details>
+

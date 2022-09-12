@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhīthá ← √i- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+stutásya ← √stu- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+yádi ← yádi (invariable)  
+{}
+
+hávīman ← hávīman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:GEN, number:SG}
+
+víprasya ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dāta ← √dā- 1 (root)  
+{number:PL, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+suvī́ryasya ← suvī́rya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ādábhat ← √dabh- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árāvā ← árāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +229,4 @@ Wenn wirklich ihr des Lobs gedenkt, o Maruts, bei dem Gebet des opferreichen Sä
 Быстро дайте богатство из прекрасных мужей,  
 Которому никогда (кто-либо) другой, враждебный, не смог бы повредить!
 </details>
+

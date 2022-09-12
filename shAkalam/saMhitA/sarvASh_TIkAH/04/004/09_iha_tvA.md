@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+caret ← √carⁱ- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+tmán ← tmán- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+dīdivā́ṁsam ← √dī- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+dóṣāvastar ← doṣāvastar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+krī́ḷantaḥ ← √krīḍ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sapema ← √sap- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+sumánasaḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+dyumnā́ ← dyumná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tasthivā́ṁsaḥ ← √sthā- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +187,6 @@ genre M
 9अथ नवमी - इहेति ॥ इहास्मिन्कर्मणि रक्षोवधलक्षणे त्वामेव भूरि भूयिष्ठं उपाचरेत् उपचरितुमर्हति पुरुषः त्मन् आत्मनि दोषावस्तर्दीदिवांसमनुद्यून् रात्रावहनि च सर्वेषां अन्तर्दीदिवांसं संदीप्यमानम् । 'आङोन्यत्रापि दृश्यते' इत्यात्मन आकारस्य लोपः । दीप्यतेः क्वसौ 'तुजादीनाम्' इत्यभ्यासस्य दीर्घत्वम् । छान्दसो वा दीदिविः दीप्तिकर्मा कृतद्विर्वचन एव । 'कार्तकौजपादयश्च' इति दोषावस्तरित्यस्य पूर्वपदप्रकृतिस्वरत्वम् । पदसमुदायात्मको वा एको निपातः । 'निपाता आद्युदात्ताः' इति तस्याद्युदात्तत्वम् । यद्वा - इहास्मिन् लोके त्वामेव भूरि उपाचरेत् पुरुषः आत्मनिमित्तमात्मनोभिमतसम्पादनार्थं दोषावस्तः दीप्यमानम् । अनुद्यूनित्युपचरणं विशेष्यते अनुदिनमुपाचरेदिति । तस्माद्वयं क्रीडन्तः तृप्यन्तस्सुमनसः अप्रतिकूलमनसः शोभनमनसो वा । त्वा त्वामेव सपेम भजेम । षप समवाये । 'सोर्मनसी इत्युत्तरपदाद्युदात्तत्वं सुमनश्शब्दस्य । जनानां द्युम्नानि धनानि यशांसि वा अभितस्थिवांसः अभितिष्ठन्तः त्वत्प्रसादेनात्मसात्कुर्वन्तः त्वत्सम्बन्धिन एव सर्वदा भवेमेति । 'शेश्छन्दसि बहुलम्' इति द्युम्नेत्यत्र शेर्लोपः' । 'वस्वेकाजाद्घसाम्' इति तिष्ठतेरिडागमः ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -172,7 +229,6 @@ Happy and joyous may we attend thee
 That dost surpass the glories of men.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Hier soll er selbst dir fleißig aufwarten, alle Tage, wenn du Dunkelerheller erstrahlst. Unter Spielen und Frohsinn wollen wir dich pflegen, indem wir die Herrlichkeiten anderer Leute übertreffen.
@@ -190,3 +246,4 @@ Es soll dir vieles hier zum Dienst bereit stehn, der du erglänzest täglich mor
 Счастливые духом, мы хотим заботиться о тебе, играя,  
 Затмевая великолепие (других) людей.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+viśvapúṣā ← viśvapúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ánapacyutā ← ánapacyuta- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+maghávānā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+suvī́rau ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +157,4 @@ O Ritter, kommet her zu uns mit Reichthum, welcher alle nährt, Ihr heldenstarke
 С богатством, приносящим всем процветание,  
 Двое прекрасных мужей, щедрых, непоколебимых!
 </details>
+

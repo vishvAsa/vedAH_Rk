@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+imé ← ayám (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+mahī́ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ródasī ← ródasī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dóhate ← √duh- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+mātárā ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+sám ← sám (invariable)  
+{}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mádeṣu ← máda- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sarvadhā́ḥ ← sarvadhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +150,7 @@ For Heaven and Earth (i.e., the two world-halves represented by ródasī here) a
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/04-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/04-07.md">
 <details open><summary><h2>04-07 ...{Loading}...</h2></summary>
 
 Vss. 4-6 all (save for the refrain pāda) consist of rel. clauses headed by yáḥ and couched in the 3rd ps.; the main clause appears to be vs. 7, with the resumptive prn. sá and 3rd ps. verb.
@@ -147,3 +181,4 @@ Der dieses grosse Weltenpaar aussauget wie der Mutter Brust; Bei den Gelagen sch
 Выдаивает вместе, словно двух матерей, –  
 В опьянениях ты даешь все.
 </details>
+

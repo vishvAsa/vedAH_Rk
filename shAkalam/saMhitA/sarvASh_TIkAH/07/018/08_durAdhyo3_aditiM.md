@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áditim ← áditi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+durādhyàḥ ← durādhī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sreváyantaḥ ← √srīv- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+acetásaḥ ← acetás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jagr̥bhre ← √gr̥bhⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+páruṣṇīm ← paruṣá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+avivyak ← √vyac- (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pátyamānaḥ ← √pat- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+aśayat ← √śī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+cā́yamānaḥ ← √ci- 3 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paśúḥ ← paśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +206,4 @@ Es leiteten die unverständ'gen Thoren auf andre Bahn die flutende Paruschni; Da
 Владея мощью, он охватил землю.  
 (Жертвенным) животным лежал мнивший себя мудрым.
 </details>
+

@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhríjaḥ ← adhríja- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+íti ← íti (invariable)  
+{}
+
+manyúm ← manyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dade ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+paśúm ← paśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā́dātam ← tvā́dāta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ápr̥ṇataḥ ← ápr̥ṇant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ā́t ← ā́t (invariable)  
+{}
+
+átriḥ ← átri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sāsahyāt ← √sah- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+iṣáḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sāsahyāt ← √sah- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Auf diese Art [oder durch dieses Lied] empfing der Unaufhaltsame Eifer und von d
 Дасью осилит Атри,  
 Пусть осилит он (их) подношения (и) мужей!
 </details>
+

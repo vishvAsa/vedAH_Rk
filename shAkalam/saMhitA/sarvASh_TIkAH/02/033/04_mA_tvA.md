@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cukrudhāma ← √krudh- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+rudra ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+dúṣṭutī ← dúṣṭuti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+sáhūtī ← sáhūti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arpaya ← √r̥- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bheṣajébhiḥ ← bheṣajá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+út ← út (invariable)  
+{}
+
+vīrā́n ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bhiṣájām ← bhiṣáj- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+bhiṣáktamam ← bhiṣáktama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śr̥ṇomi ← √śru- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Nicht mögen wir, o Rudra, dich erzürnen durch schlechtes Lob, o Stier, Gebet u
 Подыми наших мужей (своими) целебными средствами!  
 Я слышу: (говорят,) что ты самый исцеляющий из целителей.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āpíbdamānaḥ ← √pad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dhúrau ← dhúr- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+váhniḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dvijā́niḥ ← dvijā́ni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+yónā ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asthāpayadhvam ← √sthā- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:MED}
+
+vánaspátim ← vánaspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váne ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ákhanantaḥ ← ákhanant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dadhidhvam ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRF, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+útsam ← útsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Fest eingefasst geht zwischen beiden Stangen das Zugthier wie ins Bett der zweib
 Вставьте лесное дерево в древесину!  
 Хорошенько устройте колодец, хоть вы и не рыли (его)!
 </details>
+

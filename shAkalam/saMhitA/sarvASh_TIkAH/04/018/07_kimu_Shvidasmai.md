@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+bhananta ← √bhan- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nivídaḥ ← nivíd- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svit ← svit (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+avadyám ← avadyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+didhiṣante ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+etā́n ← eṣá (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+mahatā́ ← mahā́nt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vadhéna ← vadhá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+asr̥jat ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+jaghanvā́n ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+síndhūn ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,14 +221,14 @@ Alternatively Geldner (n. 7d) suggests that it might be a metathesis of *su-da�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md">
 <details open><summary><h2>06-09 ...{Loading}...</h2></summary>
 
 For my interpr. of the speakers in these vss. and the role of the waters in the myth, see published introduction. Most tr. take the vss. as all spoken by Indra’s mother (Geldner [/Witzel Gotō], Doniger), whereas I distribute them to a variety of voices: 6 Indra, 7 Indra’s mother, 8 waters, 9 Indra’s mother. As I see it, in 6 Indra prompts his mother to ask the waters questions; in 7 she rather sarcastically and belittlingly asks questions about them, whom she seems to accuse of trying to lay claim to her son. They respond directly to him in 8, reminding him of his mother’s dereliction of maternal duty and suggesting that they are better at mothering him than she is. So that she rather defiantly points out in 9 that subsequent negative things that happened to him were not her fault.
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 The responsive phrases kím … bhananti (6c) and kím … bhananta (7a) provide a textbook case of -anta replacement. See my 1979 IIJ 21 article, pace Gotō’s (1st Kl., 222) characterization of bhananta as “reziprok.”
@@ -199,3 +260,4 @@ Reden sie ihm einladende Worte nach, oder beabsichtigen die Gewässer Indra´s S
 Убив Вритру великим оружием,  
 Мой сын выпустил течь эти реки.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+bhíkṣamāṇaḥ ← √bhaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED, mood:DES}
+
+cā́ruṇaḥ ← cā́ru- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+kā́vyena ← kā́vya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śaśrathe ← √śrathⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+ví ← ví (invariable)  
+{}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+maṁhánā ← maṁhánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+téjiṣṭhāḥ ← téjiṣṭha- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vyata ← √vyā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sádaḥ ← sádas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śrávasā ← śrávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vidúḥ ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yádi ← yádi (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Verlangend nach des schönen Göttertranks Gemisch, erschloss er Erd' und Himmel
 Он великолепно закутался в ярко сверкающие воды,  
 Когда благодаря славе (этого) бога, они узнали (его) местопребывание.
 </details>
+

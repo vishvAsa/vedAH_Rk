@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+muñcántu ← √muc- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+śapathyā̀t ← śapathyà- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+varuṇyā̀t ← varuṇyà- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+páḍbīśāt ← páḍbīśa- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+yamásya ← yamá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+devakilbiṣā́t ← devakilbiṣá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sárvasmāt ← sárva- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +169,4 @@ Befreit mich von des Fluches Drang und von dem Strick des Varuna, Von Jama's Net
 А также от колодки Ямы  
 И от всякого прегрешения перед богами!
 </details>
+

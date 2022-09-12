@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+etā́vat ← etā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+uṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+arhasi ← √arh- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bhū́yaḥ ← bhū́yaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dā́tum ← √dā- 1 (root)  
+{case:ACC, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+vibhāvari ← vibhā́van- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pramī́yase ← √mī- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+uchántī ← √vas- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+áśvasūnr̥te ← aśvasūnr̥ta- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sújāte ← sujātá- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Soviel fürwahr und auch noch mehr kannst, Morgenröthe, geben du die, glänzend
 Не пренебрегаешь восхвалителями,  
 О благородная, о щедро дающая коней!
 </details>
+

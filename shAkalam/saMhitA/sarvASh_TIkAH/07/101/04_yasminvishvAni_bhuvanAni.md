@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D;; repeated line
+#### Morph
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tasthúḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dyā́vaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sasrúḥ ← √sr̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tredhā́ ← tredhā́ (invariable)  
+{}
+
+kóśāsaḥ ← kóśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+upasécanāsaḥ ← upasécana- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhítas ← abhítas (invariable)  
+{}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ścotanti ← √ścut- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+virapśám ← virapśá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +197,4 @@ In welchem alle Wesen sind gegründet, drei Himmel, dreifach auch die Wasser ran
 Три бочки для поливки  
 (Пусть) растения, охраняемые богами, (дадут) прекрасные ягоды!
 </details>
+

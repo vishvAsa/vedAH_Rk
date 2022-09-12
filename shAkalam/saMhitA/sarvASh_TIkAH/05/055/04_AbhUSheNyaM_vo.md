@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ābhūṣéṇyam ← ābhūṣéṇya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahitvanám ← mahitvaná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+cákṣaṇam ← cákṣaṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+didr̥kṣéṇyam ← didr̥kṣéṇya- (nominal stem)  
+{case:NOM, gender:N, number:SG, mood:DES}
+
+iva ← iva (invariable)  
+{}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+amr̥tatvé ← amr̥tatvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+dadhātana ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+avr̥tsata ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ráthāḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúbham ← śúbh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yātā́m ← √yā- 1 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ O Maruts, eure Grösse ist des Rühmens werth, und schön zu schauen wie der Son
 И поместите вы нас в бессмертие!  
 У выезжающих для блеска (Марутов) колесницы последовали (одна за другой).
 </details>
+

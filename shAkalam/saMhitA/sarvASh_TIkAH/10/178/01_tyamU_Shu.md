@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devájūtam ← devájūta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ráthānām ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sahā́vānam ← sahā́van- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tarutā́ram ← tarutár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áriṣṭanemim ← áriṣṭanemi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āśúm ← āśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥tanā́jam ← pr̥tanā́j- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+huvema ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+ihá ← ihá (invariable)  
+{}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tā́rkṣyam ← tā́rkṣya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ Dies gottgesandte Ross, das kraftbegabte, das vorwärts dringend schnell die Wag
 С невредимыми ободьями (колес), рвущегося в бой, быстрого  
 Таркшью здесь хотим мы призывать на счастье.
 </details>
+

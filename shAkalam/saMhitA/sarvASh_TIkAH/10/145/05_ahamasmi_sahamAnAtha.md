@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+asmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+sáhamānā ← √sah- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+sāsahíḥ ← sāsahí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+bhūtvī́ ← √bhū- (root)  
+{}
+
+sáhasvatī ← sáhasvant- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sahāvahai ← √sah- (root)  
+{number:DU, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+sapátnīm ← sapátnī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +174,4 @@ Ich bin es, die den Sieg gewinnt, und du, o Kraut, bist siegreich auch; Wir beid
 Обе будучи победительницами,  
 Победим мы мою соперницу.
 </details>
+

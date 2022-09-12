@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vyántaḥ ← √vī- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ámr̥ktam ← ámr̥kta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āpan ← √āp- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śravasyávaḥ ← śravasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+nā́māni ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yajñíyāni ← yajñíya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bhadrā́yām ← bhadrá- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+raṇayanta ← √ranⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+sáṁdr̥ṣṭau ← sáṁdr̥ṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Mit Ehrfurcht eilend zu des Gottes Stätte, erlangten sichern Schatz die Schatzb
 Они приобрели даже жертвенные имена.  
 Они наслаждались твоим благосклонным видом.
 </details>
+

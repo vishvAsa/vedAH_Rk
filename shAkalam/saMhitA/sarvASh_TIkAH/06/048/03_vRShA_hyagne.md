@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ajáraḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arcíṣā ← arcís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vibhā́si ← √bhā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ájasreṇa ← ájasra- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śóśucat ← √śuc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śuce ← śúci- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dīdihi ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+sudītíbhiḥ ← sudītí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +190,4 @@ Denn, Agni du, ein junger Held, ein grosser, strahlst mit deinem Schein; O licht
 Пламенея немеркнущим пламенем, о чистый.  
 Прекрасно воссияй прекрасными сияниями!
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+paricákṣyam ← paricákṣya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+viṣṇo ← víṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmi ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+śipiviṣṭáḥ ← śipiviṣṭá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vavakṣé ← √vac- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gūhaḥ ← √guh- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+várpaḥ ← várpas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+anyárūpaḥ ← anyárūpa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+babhū́tha ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+samithé ← samithá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +254,4 @@ Was war an dir, o Vischnu, zu verbergen, als du erklärtest »Çipivischta bin i
 Не прячь от нас этот облик,  
 Когда в другом виде ты появлялся в сражении.
 </details>
+

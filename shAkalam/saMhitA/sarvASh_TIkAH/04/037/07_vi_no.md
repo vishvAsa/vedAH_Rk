@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+r̥bhukṣaṇaḥ ← r̥bhukṣán- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vājāḥ ← vā́ja- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+citana ← √ci- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+yáṣṭave ← √yaj- (root)  
+{case:DAT, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+stutā́ḥ ← √stu- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+sūrayaḥ ← sūrí- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ā́śāḥ ← ā́śā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tarīṣáṇi ← √tr̥̄- 1 (root)  
+{case:LOC, number:SG}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +169,4 @@ O bahnt, Ribhukschan's, Vadscha's, uns die Pfade, dass wir eilend gehn, Dass, o 
 Для нас, о повелители, когда вы прославлены,  
 Чтобы (мы смогли) проникнуть во все стороны света!
 </details>
+

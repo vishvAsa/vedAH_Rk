@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+nidáḥ ← níd- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+vidmánā ← vidmán- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártam ← márta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uruṣyáti ← √uruṣy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ávr̥taḥ ← ávr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahā́vā ← sahā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ávr̥taḥ ← ávr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +182,4 @@ Denn Agni schirmt den Sterblichen, der Gott vor Schmähung mit Bedacht, Dess sta
 Владыка, чье богатство неустранимо,  
 В состязаниях за награду неустранимо.
 </details>
+

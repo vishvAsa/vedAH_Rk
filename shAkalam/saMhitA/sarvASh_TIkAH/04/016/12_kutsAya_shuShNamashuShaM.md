@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+aśúṣam ← aśúṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+barhīḥ ← √br̥h- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+kútsāya ← kútsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+śúṣṇam ← śúṣṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áhnaḥ ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+kúyavam ← kúyava- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prapitvé ← prapitvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kutsyéna ← kutsyá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mr̥ṇa ← √mr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sadyás ← sadyás (invariable)  
+{}
+
+abhī́ke ← abhī́ka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sū́raḥ ← svàr- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vr̥hatāt ← √vr̥h- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +214,4 @@ Für Kutsa warfst du nieder früh am Morgen den Fresser Çuschna, der die Ernte 
 (И) тысячи дасью в один день – в (облике) Кутсы!  
 В решающую минуту сорви колесо солнца!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+raśmíḥ ← raśmí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tiraścī́naḥ ← tiraścī́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vítataḥ ← √tan- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+adhás ← adhás (invariable)  
+{}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+svit ← svit (invariable)  
+{}
+
+svit ← svit (invariable)  
+{}
+
+upári ← upári (invariable)  
+{}
+
+āsan ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+āsan ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mahimā́naḥ ← mahimán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+retodhā́ḥ ← retodhā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+avástāt ← avástāt (invariable)  
+{}
+
+parástāt ← parástāt (invariable)  
+{}
+
+práyatiḥ ← práyati- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svadhā́ ← svadhā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 Оплодотворители были. Силы увеличения были.  
 Порыв внизу. Удовлетворение наверху.
 </details>
+

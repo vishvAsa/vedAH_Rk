@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+bhujyúm ← bhujyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+pipr̥thaḥ ← √pr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ajinvatam ← √ji- 2 ~ jinv- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śyā́vam ← śyā́va- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vadhrimatyā́ḥ ← vadhrimatī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+kamadyúvam ← kamadyū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ūhathuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+vimadā́ya ← vimadá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+áva ← áva (invariable)  
+{}
+
+sr̥jathaḥ ← √sr̥j- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+viṣṇāpvàm ← viṣṇāpū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víśvakāya ← víśvaka- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Ihr Ritter halft dem Bhudschju aus der Fluten Drang, belebtet Çjāva, ihn, der 
 
 -ru-
 </details>
+

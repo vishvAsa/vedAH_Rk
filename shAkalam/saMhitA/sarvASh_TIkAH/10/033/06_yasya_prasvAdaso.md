@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prásvādasaḥ ← prásvādas- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+upamáśravasaḥ ← upamaśravas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kṣétram ← kṣétra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+raṇvám ← raṇvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ūcúṣe ← √uc- (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +147,4 @@ Des Upamaçravas Vater war es, dessen Lieder lieblich waren wie ein erfreuender 
 Чьи речи (были) сладостны,  
 Как поле восхитительно для радующегося (ему).
 </details>
+

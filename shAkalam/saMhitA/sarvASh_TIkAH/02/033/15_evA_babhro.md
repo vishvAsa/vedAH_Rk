@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+babhro ← babhrú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cekitāna ← √cit- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+evá ← evá (invariable)  
+{}
+
+vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+háṁsi ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hr̥ṇīṣé ← √hr̥̄- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+bodhi ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+havanaśrút ← havanaśrút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rudra ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suvī́rāḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vadema ← √vadⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +240,4 @@ Als solcher dich, o brauner Stier, erweisend, der nicht, o Gott, du zürnest, no
 О Рудра, будь здесь для нас слышащим зов!  
 Мы хотим провозгласить жертвенную раздачу, (чтобы иметь) прекрасных мужей!
 </details>
+

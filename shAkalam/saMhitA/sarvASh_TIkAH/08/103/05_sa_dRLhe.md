@@ -16,14 +16,69 @@ ChandaH = "विराड्रूपा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line  
 genre M  
 genre M;; repeated line
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+árvatā ← árvant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dr̥ḷhé ← √dr̥h- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tr̥ṇatti ← √tr̥d- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ákṣiti ← ákṣiti- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dhatte ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devatrā́ ← devatrā́ (invariable)  
+{}
+
+purūvaso ← purūvásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sádā ← sádā (invariable)  
+{}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+dhīmahi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+vāmā́ni ← vāmá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Im Festen auch erschliesst er Gut durch schnelles Ross, erwirbt sich Ruhm, der n
 
 с У тебя:среди богов tve devatra
 </details>
+

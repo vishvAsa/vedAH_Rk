@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dákṣebhiḥ ← dákṣa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ŕ̥kvabhiḥ ← ŕ̥kvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vacanébhiḥ ← vacaná- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sakhyā́ni ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sakhyébhiḥ ← sakhyá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vocata ← √vac- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+cúmurim ← cúmuri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dambháyan ← √dambh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dhúnim ← dhúni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dabhī́taye ← dabhī́ti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śraddhāmanasyā́ ← śraddhāmanasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śr̥ṇute ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ Auf, rühmt ihn hoch, der an die Freundschaft Freundschaft schloss mit der bered
 Индра слывет тем, кто перехитрил Дхуни и Чумури  
 Для Дабхити за (его) полную веры настроенность.
 </details>
+

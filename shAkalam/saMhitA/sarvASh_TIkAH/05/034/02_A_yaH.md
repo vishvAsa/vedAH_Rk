@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ápiprata ← √pr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+jaṭháram ← jaṭhára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sómena ← sóma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ámandata ← √mand- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hántave ← √han- (root)  
+{case:DAT, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+mahā́vadhaḥ ← mahā́vadha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥gā́ya ← mr̥gá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sahásrabhr̥ṣṭim ← sahásrabhr̥ṣṭi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uśánā ← uśánā- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vadhám ← vadhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yámat ← √yam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +241,4 @@ Dem mächtigen, der sich mit Soma ganz den Bauch gefüllt und sich berauscht hat
 Когда ему для убийства зверя Ушанас, обладатель великого оружия,  
 Вручил оружие с тысячей зубцов.
 </details>
+

@@ -16,14 +16,90 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+carāṇi ← √carⁱ- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+cakártha ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vīryā̀ ← vīryà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+kr̥ṇávaḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+návyā ← návya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+śaviṣṭha ← śáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+bravāma ← √brū- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,3 +285,4 @@ Wie muss ich jetzt im Geiste dich umwandern, die Thaten kennend, die du, Mächt'
 А те новые деяния, которые ты еще совершишь, о сильнейший, -  
 Их мы провозгласим на твоих жертвенных раздачах.
 </details>
+

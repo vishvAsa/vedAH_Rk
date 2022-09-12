@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mā́ ← mā́ (invariable)  
+{}
+
+mártāya ← márta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rakṣasvíne ← rakṣasvín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ripáve ← ripú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agháśaṁsāya ← agháśaṁsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+rīradhaḥ ← √randh- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+ásredhadbhiḥ ← ásredhant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+taráṇibhiḥ ← taráṇi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yaviṣṭhya ← yáviṣṭhya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pāyúbhiḥ ← pāyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śivébhiḥ ← śivá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ Nicht gib uns preis dem Menschen, der uns feindlich ist, noch unheilvollem Zaube
 Защити нас, о самый юный, (своими никогда) не ошибающимися,  
 Рвущимися вперед, благосклонными защитниками!
 </details>
+

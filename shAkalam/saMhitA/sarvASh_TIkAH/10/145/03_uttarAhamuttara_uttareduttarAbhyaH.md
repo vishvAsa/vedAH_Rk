@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+úttarā ← úttara- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uttare ← úttara- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+úttarā ← úttara- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+úttarābhyaḥ ← úttara- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+átha ← átha (invariable)  
+{}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+sapátnī ← sapátnī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ádharā ← ádhara- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ádharābhyaḥ ← ádhara- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +183,4 @@ Ich bin voll Macht, o mächtige, und mächt'ger als die mächtigsten; Ohnmächti
 А та, что соперница моя,  
 Ниже (она) тех, кто ниже!
 </details>
+

@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayā́ḥ ← ayā́s- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+doháse ← √duh- (root)  
+{case:DAT, number:SG}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yéṣu ← yá- (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+dhr̥ṣṇú ← dhr̥ṣṇú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mā́rutam ← mā́ruta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ayā́saḥ ← ayā́s- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+staunā́ḥ ← stauná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+áva ← áva (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+sudā́nuḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugrā́n ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yāsat ← √yā- 2 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +244,4 @@ Sobald aus ihr nichts blieb für sie zu saugen, erlangten sie den kühnen Marutn
 (Те,) что не неподвижны(?), а неутомимы благодаря (своему) величию...  
 Пусть не донимает просьбами (понапрасну) этих грозных (их мать) с прекрасными дарами!
 </details>
+

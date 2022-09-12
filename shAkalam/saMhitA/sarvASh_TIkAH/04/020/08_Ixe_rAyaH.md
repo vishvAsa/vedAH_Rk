@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ī́kṣe ← √īś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+kṣáyasya ← kṣáya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{}
+
+apavartā́ ← apavartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+gónām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prahā́vān ← prahā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samithéṣu ← samithá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+śikṣānaráḥ ← śikṣānará- (nominal stem)  
+{case:NOM, gender:M, number:SG, mood:DES}
+
+abhinetā́ ← abhinetár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bhū́rim ← bhū́ri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rāśím ← rāśí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ In deiner Hand ist Gut und Macht der Menschen, du bist es, der den Stall der Kü
 Руководитель мужей, дающий выигрыш в сражениях,  
 Ты тот, кто ведет к огромной куче добра.
 </details>
+

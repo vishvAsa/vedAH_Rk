@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+nānāma ← √nam- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+somyā́ya ← somyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vácasā ← vácas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+manāyúḥ ← manāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+usrā́ḥ ← usrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+vásto ← vástu- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sakhitvám ← sakhitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yújyam ← yújya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhrātrám ← bhrātrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kaváye ← kaví- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vaṣṭi ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +232,4 @@ Wer neigte sich mit Spruch dem Somatrinker? und wer ist fromm und hegt die Morge
 Кто хочет союзничества с Индрой, кто дружбы,  
 Кто братства, кто (идет) к поэту за поддержками?
 </details>
+

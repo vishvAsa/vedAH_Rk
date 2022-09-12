@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhuvan ← √bhū- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+bráhma ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+ráthakṣayāṇi ← ráthakṣaya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+sahasrapoṣyàm ← sahasrapoṣyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stotré ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāsayaḥ ← √vas- 2 (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+karasi ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+vā́jaratnāḥ ← vā́jaratna- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +236,4 @@ Wann wird den Sprüchen Platz in deinem Wagen? wann schenkst dem Sänger tausend
 Когда ты оденешь в богатство его восхваление?  
 Когда создашь произведениям сокровища награды)
 </details>
+

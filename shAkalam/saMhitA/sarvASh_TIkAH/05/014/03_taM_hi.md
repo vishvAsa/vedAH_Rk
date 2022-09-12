@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+ī́ḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+śáśvantaḥ ← śáśvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ghr̥taścútā ← ghr̥taścút- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+srucā́ ← srúc- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havyā́ya ← havyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vóḷhave ← √vah- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ Denn alle flehen an den Gott, mit fettgefüllten Löffel ihn, Dass Agni fahre ih
 Бога с жертвенной ложкой, сочащейся жиром,  
 Агни – чтобы он отвез жертву.
 </details>
+

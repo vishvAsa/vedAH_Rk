@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āha ← √ah- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+camasā́ ← camasá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+dvā́ ← dvá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+íti ← íti (invariable)  
+{}
+
+jyeṣṭháḥ ← jyeṣṭhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+karā ← √kr̥- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+āha ← √ah- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+kánīyān ← kánīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇavāma ← √kr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+trī́n ← trí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+āha ← √ah- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+catúraḥ ← catúr- (nominal stem)  
+{}
+
+íti ← íti (invariable)  
+{}
+
+kaniṣṭháḥ ← kaniṣṭhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+karā ← √kr̥- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+panayat ← √panⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,3 +257,4 @@ Es sprach der ältste: Mache zwei der Becher, der jüngre sprach: Drei Becher la
 Самый младший сказал: Четыре я хочу сделать.  
 Тваштар, о Рибху, оценил эту вашу речь.
 </details>
+

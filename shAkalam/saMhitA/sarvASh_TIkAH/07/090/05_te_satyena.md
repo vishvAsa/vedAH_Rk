@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dī́dhyānāḥ ← √dhī- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+satyéna ← satyá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+krátunā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+svéna ← svá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+vahanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yuktā́saḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+índravāyū ← indra-vāyú- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vīravā́ham ← vīraváh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+īśānáyoḥ ← √īś- (root)  
+{case:GEN, gender:M, number:DU, tense:PRF, voice:MED}
+
+pŕ̥kṣaḥ ← pŕ̥kṣ- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sacante ← √sac- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +221,4 @@ Die Rosse, angeschirrt durch eignen Willen, mit wahrem Sinne überlegend fahren,
 О Индра-Ваю, колесницу, везущую героев,  
 У вас, двоих владык, сопровождают силы наполнения.
 </details>
+

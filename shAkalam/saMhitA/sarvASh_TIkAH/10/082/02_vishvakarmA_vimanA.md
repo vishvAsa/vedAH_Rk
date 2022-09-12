@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́t ← ā́t (invariable)  
+{}
+
+víhāyāḥ ← víhāyas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vímanāḥ ← vímanas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvákarmā ← viśvákarman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhātā́ ← dhātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paramā́ ← paramá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+saṁdŕ̥k ← saṁdŕ̥ś- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vidhātā́ ← vidhātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iṣā́ ← íṣ- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+iṣṭā́ni ← √iṣ- 2 (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+madanti ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+āhúḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+parás ← parás (invariable)  
+{}
+
+saptar̥ṣī́n ← saptar̥ṣí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Der Allvollender, er der weise, grosse war Schöpfer, Ordner, herrlichste Ersche
 Их желания радуются благодаря жертвенной усладе (там),  
 Где, говорят, (есть) Одно по ту сторону Семерых Риши.
 </details>
+

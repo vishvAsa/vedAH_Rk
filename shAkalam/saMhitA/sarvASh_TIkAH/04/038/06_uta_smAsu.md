@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsu ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sariṣyán ← √sr̥- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:FUT, voice:ACT}
+
+sma ← sma (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+ráthānām ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śréṇibhiḥ ← śréṇi- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+veveti ← √vī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jányaḥ ← jánya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇvānáḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+srájam ← sráj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śúbhvā ← śúbhvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadaśvā́n ← √daṁś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+kiráṇam ← kiráṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+reṇúm ← reṇú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rérihat ← √rih- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Zuerst hinstrebend nun zu diesen Stämmen, kommt er herab in langen Wagenreihen,
 Получая (в награду) венок, словно разукрашенный сват,  
 Слизывая пыль, покусывая узду.
 </details>
+

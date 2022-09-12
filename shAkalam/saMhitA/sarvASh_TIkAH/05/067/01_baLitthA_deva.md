@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+báṭ ← báṭ (invariable)  
+{}
+
+devā = ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+niṣkr̥tám ← niṣkr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́dityā ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajatám ← yajatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áryaman ← áryaman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mítra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+váruṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+āśāthe ← √naś- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:MED}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+várṣiṣṭham ← várṣiṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +168,4 @@ Ihr Götter beide habt erlangt fürwahr, Aditja's, hehres Reich, Geschmücktes, 
 
 -ru-
 </details>
+

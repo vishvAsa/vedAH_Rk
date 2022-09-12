@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+medhākārám ← medhākārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prasā́dhanam ← prasā́dhana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidáthasya ← vidátha- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+matím ← matí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+paribhū́tamam ← paribhū́tama- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+árbhe ← árbha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+havíṣi ← havís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+samānám ← samāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+mahé ← mahá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+vr̥ṇate ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +238,4 @@ Den Priester Agni, der das Opferfest vollbringt, der Einsicht schafft und liebev
 Это его выбирают одинаково при малой,  
 Его же при большой жертве – никого другого, кроме тебя.
 </details>
+

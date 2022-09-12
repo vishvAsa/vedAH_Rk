@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áram ← áram (invariable)  
+{}
+
+asmaí ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+gantam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+hávanāya ← hávana- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+ándhaḥ ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gr̥ṇānā́ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+píbāthaḥ ← √pā- 2 (root)  
+{number:DU, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ha ← ha (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+riṣáḥ ← ríṣ- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yāthaḥ ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ántaraḥ ← ántara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+páraḥ ← pára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tuturyā́t ← √tūr(v)- ~ tur- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +235,4 @@ Kommt nahe her zu diesem meinen Anruf, dass ihr, gepries'ne, trinken mögt vom S
 Вы же совершаете (в защиту) от вреда тот круговой объезд,  
 Который не может одолеть ни далекий, ни близкий (враг).
 </details>
+

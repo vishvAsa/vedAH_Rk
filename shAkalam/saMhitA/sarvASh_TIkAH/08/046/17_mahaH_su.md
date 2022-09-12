@@ -18,16 +18,71 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áram ← áram (invariable)  
+{}
+
+iṣe ← iṣe (invariable)  
+{}
+
+maháḥ ← mahás- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+stávāmahe ← √stu- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+araṁgamā́ya ← araṁgamá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jágmaye ← jágmi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mīḷhúṣe ← mīḍhváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yajñébhiḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+iyakṣasi ← √naś- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+viśvámanuṣām ← viśvámanus- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+gā́ye ← √gā(y)- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Sehr hoch preisen wir euren zur Hülfe herbeieilenden, gnädigen, hülfreichen, 
 Жертвами (и) песнями ты молишь Марутов, благосклонных ко всем людям.  
 Я воспеваю тебя в песне с поклонением.
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avyáyam ← avyáya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+suvānáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+avyata ← √vyā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+várma ← várman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+drúṇā ← dā́ru- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+hitáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+akṣār ← √kṣar- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dhā́rābhiḥ ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+hiyānáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,10 +179,10 @@ The actual target of the simile in b, the nominative equivalent of Soma in the f
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/098/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/098/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
-These two vss. share vocab. and structure. Both begin pári ṣyá s(u)vānáḥ, and both have a pāda-final akṣāḥ (2d, 3a), in addition to índuḥ (2c, 3b), dhā́rā(bhiḥ) (2d, 3c). The meter in both vss. shows some disturbance, esp. in 2d and 3a, and there are several different ways to resolve these disturbances. The Holland &amp; van Nooten Rig Veda edition solutions as represented by their restorations do not seem to be the most satisfactory ones. As just noted, the initial pādas of both vss. begin in the same way, but though in 2a Holland &amp; van Nooten Rig Veda edition read the med. part. svānáḥ with contracted root syllable, in 3a they read suvānáḥ. It seems unlikely that in this patterned repetition in successive vss. the participles would have different metrical realizations; moreover, as Grassmann points out, that participle, which is quite common, is always elsewhere read svānáḥ. A further consideration is that by their reading 3a has a disfavored cadence: (su)vānó akṣāḥ (- ⏑ - x, with shortening of o in hiatus), rather than the more usual iambic cadence of dimeter vs. As for 2d they read med. part. hiyānáḥ; this part. appears both with and without contracted root syllable: hyānáḥ is found, for ex., in IX.86.3. Given contracted svānáḥ in 2a and (contra Holland &amp; van Nooten Rig Veda edition) 3a, contraction better fits the contextual pattern. And as in 3a their reading also produces a disfavored cadence, (dhā)rābhir akṣāḥ (again - ⏑ - x). The most likely solution is given by Arnold (metrical comm., as well as p. 99 §151 (i)) and Oldenberg: distracted akṣãḥ, which provides the right no. of syllables even with the contracted participles and also fixes the cadence.
+These two vss. share vocab. and structure. Both begin pári ṣyá s(u)vānáḥ, and both have a pāda-final akṣāḥ (2d, 3a), in addition to índuḥ (2c, 3b), dhā́rā(bhiḥ) (2d, 3c). The meter in both vss. shows some disturbance, esp. in 2d and 3a, and there are several different ways to resolve these disturbances. The Holland & van Nooten Rig Veda edition solutions as represented by their restorations do not seem to be the most satisfactory ones. As just noted, the initial pādas of both vss. begin in the same way, but though in 2a Holland & van Nooten Rig Veda edition read the med. part. svānáḥ with contracted root syllable, in 3a they read suvānáḥ. It seems unlikely that in this patterned repetition in successive vss. the participles would have different metrical realizations; moreover, as Grassmann points out, that participle, which is quite common, is always elsewhere read svānáḥ. A further consideration is that by their reading 3a has a disfavored cadence: (su)vānó akṣāḥ (- ⏑ - x, with shortening of o in hiatus), rather than the more usual iambic cadence of dimeter vs. As for 2d they read med. part. hiyānáḥ; this part. appears both with and without contracted root syllable: hyānáḥ is found, for ex., in IX.86.3. Given contracted svānáḥ in 2a and (contra Holland & van Nooten Rig Veda edition) 3a, contraction better fits the contextual pattern. And as in 3a their reading also produces a disfavored cadence, (dhā)rābhir akṣāḥ (again - ⏑ - x). The most likely solution is given by Arnold (metrical comm., as well as p. 99 §151 (i)) and Oldenberg: distracted akṣãḥ, which provides the right no. of syllables even with the contracted participles and also fixes the cadence.
 
 </details>
 </div>
@@ -165,3 +211,4 @@ Gepresst, hat wie im Wagen er mit wollnem Panzer sich umhüllt, Entsandt zur Kuf
 Сок сомы, заключенный в дерево,  
 Потек струями, поторапливаемый (жрецами).
 </details>
+

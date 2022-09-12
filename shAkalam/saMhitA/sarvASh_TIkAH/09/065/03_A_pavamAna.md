@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+pavamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+dúvaḥ ← dúvas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+iṣé ← íṣ- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+saṁyátam ← saṁyát- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -96,7 +124,7 @@ Both Geldner and Renou take devébhyaḥ as dat. with dúvaḥ: “Eifer für di
 In this context it seemed to me odd to order Soma to “bring [us] through purification” friendship for the gods, hence my ablatival interpr. However, a more detailed examination of the usage of dúvas- and the denom. duvasyá- shows that the offering / seeking of dúvasgenerally goes from men to gods (or Agni, as the god closest to men, to gods). E.g., devéṣu kṛṇuto dúvaḥ “The two [= married couple] do friendly service to the gods”; III.3.1 agnír hí devā́m̐amṛ́to duvasyati “For Agni the immortal does friendly service to / befriends the gods.” I therefore would emend the tr. to datival “bring … friendship for the gods.” Like the parallel obj. suṣṭutím ‘good praise’, dúvas- is then something that we mortals offer to the gods, but, though it originates from us, it is Soma who stimulates our production of these offerings, hence ā́… pavasva “bring by purifying yourself.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 No particular signs of unity. Vss. 2 and 3 have forms of the pres. part.
@@ -127,3 +155,4 @@ Den Göttern riesle, rieselnder, du Gaben zu und Lobgesang, Zum Trunk die Flut, 
 
 -ru-
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+rā́yaḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sumatáyaḥ ← sumatí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nū́tnāḥ ← nū́tna- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pū́rvāḥ ← pū́rva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saṁcákṣe ← √cakṣ- (root)  
+{case:DAT, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+dévakam ← dévaka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jaghantha ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+mānyamānám ← mānyamāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áva ← áva (invariable)  
+{}
+
+bhet ← √bhid- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+śámbaram ← śámbara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +236,4 @@ Unzählig sind, o Indra, deine Gnaden und Güter, wie die frühern, spätern Mor
 Даже божка чванливого убил ты.  
 Ты сам столкнул Шамбару с высокой (горы).
 </details>
+

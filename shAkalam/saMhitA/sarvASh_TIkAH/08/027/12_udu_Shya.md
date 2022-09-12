@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+supraṇītayaḥ ← supráṇīti- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ásthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váreṇyaḥ ← váreṇya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arthínaḥ ← arthín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cátuṣpādaḥ ← cátuṣpad- (nominal stem)  
+{case:NOM, number:PL}
+
+dvipā́daḥ ← dvipád- (nominal stem)  
+{case:NOM, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+áviśran ← √viś- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+patayiṣṇávaḥ ← patayiṣṇú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Erhoben hat sich Savitar, schönleitende, der liebenswerthe hoch vor euch; Was z
 Двуногие (и) четвероногие, занятые делами,  
 Отправились (теперь) на покой, (а также) летающие.
 </details>
+

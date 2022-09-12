@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cyautnā́ni ← cyautná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vajrahasta ← vájrahasta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+náva ← náva- 1 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+navatím ← navatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sadyás ← sadyás (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aviveṣīḥ ← √viṣ- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PLUPRF, voice:ACT}
+
+nivéśane ← nivéśana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śatatamā́ ← śatatamá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ahan ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+áhan ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+námucim ← námuci- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +237,4 @@ O Blitzesträger, das sind deine Thaten, dass du zerstörtest neunundneunzig Bur
 Вечером ты разделался с сотой,  
 И убил ты Вритру, а также убил Намучи.
 </details>
+

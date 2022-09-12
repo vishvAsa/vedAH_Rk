@@ -13,11 +13,24 @@ ChandaH = "एकपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+puṣṭéḥ ← puṣṭí- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+síṣaktu ← √sac- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ūrjavyàsya ← ūrjavyà- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

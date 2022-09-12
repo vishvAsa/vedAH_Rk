@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+ághoracakṣuḥ ← ághoracakṣuṣ- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ápatighnī ← ápatighnī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+edhi ← √as- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+paśúbhyaḥ ← paśú- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+śivā́ ← śivá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvárcāḥ ← suvárcas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devákāmā ← devákāma- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+syonā́ ← syoná- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vīrasū́ḥ ← vīrasū́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+cátuṣpade ← cátuṣpad- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+dvipáde ← dvipád- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+śám ← śám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +235,4 @@ Kein Unglück im Auge führend, den Gatten nicht verletzend, sei glückbringend 
 Рожающая сыновей, любящая богов, милая,  
 Будь на счастье нашим двуногим, на счастье – четвероногим!
 </details>
+

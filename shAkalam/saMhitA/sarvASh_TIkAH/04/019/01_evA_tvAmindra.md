@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átra ← átra (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suhávāsaḥ ← suháva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ū́māḥ ← ū́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+mahā́m ← máh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+r̥ṣvám ← r̥ṣvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+vr̥ddhám ← √vr̥dh- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+nís ← nís (invariable)  
+{}
+
+vr̥ṇate ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+vr̥trahátye ← vr̥trahátya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Fürwahr dich Indra wählten alle Götter, o blitzender, die gerngerufnen Helfer
 (И) оба мира, (тебя,) великого, возросшего, превосходящего (всех),  
 Выбирают как единственного во время убийства Вритры.
 </details>
+

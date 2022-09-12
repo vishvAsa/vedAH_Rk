@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+cikite ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+janāsaḥ ← jána- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sā́yakasya ← sā́yaka- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+lodhám ← lodhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mányamānāḥ ← √man- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+nayanti ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+páśu ← páśu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ávājinam ← ávājin- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hāsayanti ← √hās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+vājínā ← vājín- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+áśvāt ← áśva- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+gardabhám ← gardabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nayanti ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+purás ← purás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+jigharmi ← √ghr̥- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+rakṣoháṇam ← rakṣohán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mitrám ← mitrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+práthiṣṭham ← práthiṣṭha- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yāmi ← √yā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+krátubhiḥ ← krátu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sámiddhaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+śíśānaḥ ← √śā- ~ śī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dívā ← dívā (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pātu ← √pā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+riṣáḥ ← ríṣ- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +197,6 @@ popular;; repeated line
 16अथ पुरोनुवाक्या - रक्षोहणमिति ॥ 'रक्षोघ्नी याज्यानुवाक्ये भवतः' इति च ब्राह्मणम् । रक्षसां हन्तारं वाजिनमन्नवन्तं अन्नस्य दातारं आजिघर्मि अनेन हविषा आभिमुख्येन सन्दीपयामि । घृ क्षरणदीप्त्योः । जुहोत्यादिकः, 'बहुलं छन्दसि' इत्यभ्यासस्येत्वम् । मित्रं सर्वेषां सुहृद्रूपम् । मिदो दुःखात्त्रायकं प्रथिष्ठं पृथुतमम् । यद्वा - प्रथयितृतमम् । प्रथितृशब्दात् 'तुश्छन्दसि' इतीष्ठन्, 'तुरिष्ठेमेयस्सु' इति तृलोपः । इर्दृशं तं शर्म शरणमुपयामि रक्षकं भने । स च क्रतुभिः समिद्धः प्रज्ञाभिस्सन्दीप्तः अस्मदीयैर्वा यजनैः प्रवृद्धतेजाः । अग्निः अङ्गनादिगुणयुक्तः । शिशानस्तीक्ष्णीभवन् । श्यतेर्व्यत्ययेनात्मनेपदम्म् 'बहुलं छन्दसि' इति शपश्श्लुः, अभ्यासस्येत्वम्, 'अभ्यस्तानामादिः' आद्युदात्तत्वम् । इर्दृशस्स नः अस्मान् दिवा च नक्तं च रिषः पातु दुःखाद्रक्षतु । हिंस्राद्वा रक्षःप्रभृतेरस्मान्पातु । पूर्ववद्विभक्तेरुदात्तत्वम् 'सावेकाचः' इति ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -181,3 +241,4 @@ Ich netz' mit Fett den starken Rakschastödter und geh den Freund um ausgedehnte
 Агни заострен (и) с умением зажжен.  
 Пусть защищает он нас днем (и) ночью от вреда!
 </details>
+

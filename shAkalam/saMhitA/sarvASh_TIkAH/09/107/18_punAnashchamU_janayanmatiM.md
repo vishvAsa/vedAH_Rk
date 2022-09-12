@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+camū́ ← camū́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+janáyan ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+matím ← matí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+raṇyati ← √ranⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásānaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+avyata ← √vyā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+sī́dan ← √sad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+váneṣu ← vána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +185,7 @@ Clothing himself in waters, he has wrapped himself with cows as the  higher (obl
 Soma as úttara- is also found in 2d, where it is also associated with cows: śrīṇanto góbhir úttaram “preparing you [tvā 2c] with cows as the higher (oblation)”; see comm. there. I supply ‘oblation’ in both instances because of 1b sómo yá uttamáṃ havíḥ.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/17-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/17-18.md">
 <details open><summary><h2>17-18 ...{Loading}...</h2></summary>
 
 No particular internal cohesion, but a number of ties with other parts of the hymn. The Āyus are found in 17d as the groomers of Soma, while in 14a they were identified with him. The verb arṣati (17c) returns from 15c (see also 4b, 5c), and avyata (18d) from 13a. The phrase apó vásānaḥ (18c) is also found in 4a, and see disc. of the rest of 18c below.
@@ -168,3 +217,4 @@ In Schalen rieselnd, Soma, Lied-erzeugend freut der weise bei den Göttern sich;
 Рядясь в воды, (этот) лучший завернулся в (молоко) коров,  
 Сидя в деревянных (сосудах).
 </details>
+

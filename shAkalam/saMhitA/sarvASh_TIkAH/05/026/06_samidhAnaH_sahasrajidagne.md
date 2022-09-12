@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+sahasrajit ← sahasrajít- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+samidhānáḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhármāṇi ← dhárman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+puṣyasi ← √puṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukthyàḥ ← ukthyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +144,4 @@ Entflammt, o vielerbeutender, verschönst die Bräuche, Agni, du, Der Götter Bo
 О Агни, ты приносишь процветание (божественным) установлениям  
 Как вестник богов, достойный гимнов.
 </details>
+

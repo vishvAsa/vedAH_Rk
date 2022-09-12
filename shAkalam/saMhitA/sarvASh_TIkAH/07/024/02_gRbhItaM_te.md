@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+dvibárhāḥ ← dvibárhas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gr̥bhītám ← √gr̥bhⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+mádhūni ← mádhu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+páriṣiktā ← √sic- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+bharate ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+suvr̥ktíḥ ← suvr̥ktí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vísr̥ṣṭadhenā ← vísr̥ṣṭadhena- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+jóhuvatī ← √hū- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+manīṣā́ ← manīṣā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +226,4 @@ Erregt, o Indra, ist dein Geist, und reichlich gepresst der Soma, Süssigkeit er
 Выпущенным потоком потечет прекрасная песня,  
 Эта молитва, громко зовущая Индру.
 </details>
+

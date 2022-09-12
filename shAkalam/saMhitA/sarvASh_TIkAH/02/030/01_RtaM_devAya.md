@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kr̥ṇvaté ← √kr̥- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+savitré ← savitár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ahighné ← ahihán- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ramante ← √ram- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+áhar-ahar ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+aktúḥ ← aktú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+kíyāti ← kíyant- (nominal stem)  
+{case:LOC, number:SG}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárgaḥ ← sárga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +234,4 @@ Der Gutes wirkt, dem Allbeleber Indra, dem Drachentödter rasten nicht die Flute
 День за днем движется мерцание вод.  
 Как давно (было) их первое излияние?
 </details>
+

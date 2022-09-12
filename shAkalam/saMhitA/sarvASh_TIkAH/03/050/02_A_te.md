@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+javáse ← javás- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+saparyū́ ← saparyú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yunajmi ← √yuj- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+ā́vaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+pradívaḥ ← pradív- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+śruṣṭím ← śruṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yáyoḥ ← yá- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+dheyuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:OPT, tense:AOR, voice:ACT}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+suśipra ← suśiprá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cā́roḥ ← cā́ru- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+súṣutasya ← súṣuta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tú ← tú (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Ich schirr dir an zu schneller Fahrt die treuen, an deren Dienst du Lust gehabt 
 Сюда пусть доставят тебя кони, о прекрасногубый!  
 Пей же этого прекрасно выжатого, милого (тебе сому)!
 </details>
+

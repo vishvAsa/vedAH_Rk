@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mā́kis ← mā́kis (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+sthāt ← √sthā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+tú ← tú (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vásūnām ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+vásupatim ← vásupati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dátram ← dátra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́hinam ← mā́hina- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+haryaśva ← háryaśva- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yandhi ← √yam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +235,7 @@ Most tr. take Indra as the implied obj. of mā́kiḥ … pári ṣṭhāt, thus
 On the form of dátra- see comm. ad IV.17.6.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/09-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
 Note that the vocabulary of the beginning of the hymn is being turned around reciprocally at the end: bhara (9a) and prá yandhi (9d, 10a) are imperatives addressed to Indra, urging him to bring/offer things to us, whereas in 1a prábhṛtim (at least in my interpr.) and 2c prayamyámānān the same lexical expressions refer to things we offer to Indra. Other ring compositional echoes are the dhāḥ + datival infinitive (1a sātáye dhāḥ and 10c jīváse dhāḥ) and the stem śáśvat- (1b, 10d).</details>
@@ -195,3 +265,4 @@ So bring doch her, lass niemand es verhindern, da wir dich kennen als den Herrn 
 О Индра, (тот) великий дар, который у тебя есть,  
 Пожалуй его нам, о обладатель буланых коней!
 </details>
+

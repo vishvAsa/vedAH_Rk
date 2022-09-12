@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+idā́ ← idā́ (invariable)  
+{}
+
+úpastutim ← úpastuti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+bhaktáye ← bhaktí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+idā́ ← idā́ (invariable)  
+{}
+
+vāmásya ← vāmá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+namasyúḥ ← namasyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+viśvavedasaḥ ← viśvávedas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ányām ← ánya- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ásr̥kṣi ← √sr̥j- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +191,4 @@ Denn hier hab' ich ergossen euch das Lob, um Schönes zu empfahn, Vor euch mich 
 
 -ru-
 </details>
+

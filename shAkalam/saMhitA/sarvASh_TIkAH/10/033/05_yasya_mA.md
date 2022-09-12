@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+harítaḥ ← harít- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+sādhuyā́ ← sādhuyā́ (invariable)  
+{}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+váhanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sahásradakṣiṇe ← sahásradakṣiṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+stávai ← √stu- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,3 +138,4 @@ Dessen drei gelbe Stuten mich im Wagen auf geradem Wege fahren; ich will Lob spe
 Везут меня прямо к цели,  
 (Его) хочу прославить на обряде, дающем тысячное вознаграждение,
 </details>
+

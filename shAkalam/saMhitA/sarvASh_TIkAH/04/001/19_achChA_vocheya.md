@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śuśucānám ← √śuc- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:MED}
+
+voceya ← √vac- (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:MED}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvábharasam ← viśvábharas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yájiṣṭham ← yájiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+atr̥ṇat ← √tr̥d- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śúci ← śúci- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ū́dhaḥ ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+aṁśóḥ ← aṁśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ándhaḥ ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+páriṣiktam ← √sic- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+pūtám ← √pū- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +227,4 @@ Nun ruf' ich an den strahlenreichen Agni, der alles nährt, am besten ehrt und o
 Он словно пробуравил чистое вымя коров,  
 (Добыв молоко,) очищенное, словно вылитый сок растения сомы.
 </details>
+

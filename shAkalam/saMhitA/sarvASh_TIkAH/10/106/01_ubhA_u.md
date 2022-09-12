@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arthayethe ← √arthay- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+nūnám ← nūnám (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+ubhaú ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+apásā ← apás- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+tanvāthe ← √tan- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+vástrā ← vástra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+ajīgar ← √gr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+sadhrīcīnā́ ← sadhrīcīná- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yā́tave ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+pŕ̥kṣaḥ ← pŕ̥kṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sudínā ← sudína- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+taṁsayethe ← √taṁs- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +239,4 @@ Ihr beide nun erstrebt dies; ihr webet die Gebete wie zwei kunstfertige die Klei
 (Эта песнь) разбудила вас, чтобы вы вместе приехали.  
 Как прекрасные дни, вы притягиваете к себе питательные силы.
 </details>
+

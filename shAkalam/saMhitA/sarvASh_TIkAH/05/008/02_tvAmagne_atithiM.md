@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+átithim ← átithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gr̥hápatim ← gr̥hápati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sedire ← √sad- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+śocíṣkeśam ← śocíṣkeśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+br̥hátketum ← br̥hátketu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhanaspŕ̥tam ← dhanaspŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pururū́pam ← pururū́pa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jaradvíṣam ← jaradvíṣ- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suśármāṇam ← suśárman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svávasam ← svávas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +220,4 @@ Dich, Agni, haben eingesetzt als ersten Gast die Menschen und als lichtumlockten
 С высоким знаменем, с многими формами, захватывающего награду,  
 Оказывающего прекрасную защиту, прекрасную помощь, пожирающего старые (деревья).
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pávamānam ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+svādhyàḥ ← svādhī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+amadan ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+avasyávaḥ ← avasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víprāsaḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+suparṇáḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+páriṣkr̥tam ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+víśvābhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +189,7 @@ The impf. amadan in b is wrongly tr. as a present in the published translation: 
 Once again the Pp. analyzes ā́/ abharat, but the sequence could instead be ā́/ bharat with an injunc.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 The tṛca seems to be characterized by augmented imperfects, though three of the five could be injunctives instead: ā́rohayaḥ [maybe] 22d, abhavaḥ 23c, avṛṇoḥ [maybe] 23d, amadan 24b, ā́bharat [maybe] 24c. It is also characterized by mythic allusions, esp. the Vala myth and the opening of the cowpen for the Aṅgirases (23d) and the stealing of soma from heaven (24c), as well as the cosmogonic act of raising the sun into heaven (22d). Both this latter deed and the opening of the Vala cave are deeds usually attributed to Indra.
@@ -169,3 +224,4 @@ Dir, Soma, jauchzten andachtsvoll die Sänger zu, nach deiner Gunst verlangend, 
 
 -ru-
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhojám ← bhojá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suṣṭhuvā́haḥ ← suṣṭhuváh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vahanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dákṣiṇāyāḥ ← dákṣiṇa- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvŕ̥t ← suvŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vartate ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+avata ← √avⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bháreṣu ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+bhojám ← bhojá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+bhojáḥ ← bhojá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jétā ← jétar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samanīkéṣu ← samanīká- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +192,4 @@ Die Freigiebigen fahren trefflich fahrende Rosse, leicht rollt der Wagen des Opf
 Щедрого, о боги, поддержите в сражениях!  
 Щедрый – победитель врагов в боях.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+somapā́vne ← somapā́van- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sunóta ← √su- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vajríṇe ← vajrín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+kr̥ṇudhvám ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+pácata ← √pac- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+paktī́ḥ ← paktí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+máyaḥ ← máyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥ṇán ← √pr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pr̥ṇaté ← √pr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +195,4 @@ Dem Somatrinker Indra presst den Soma, ihm, der Blitze trägt; Die Brühen brüh
 Варите вареные яства! Сделайте (его склонным) к помощи!  
 Только дарящий – радость для дарящего!
 </details>
+

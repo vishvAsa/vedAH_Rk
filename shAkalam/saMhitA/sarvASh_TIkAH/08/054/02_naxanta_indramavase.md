@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nákṣante ← √nakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sukr̥tyáyā ← sukr̥tyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mándase ← √mand- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+sutéṣu ← √su- (root)  
+{case:LOC, gender:M, number:PL, non-finite:PPP}
+
+yéṣām ← yá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+ámadaḥ ← √mad- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+kr̥śé ← kr̥śá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+saṁvarté ← saṁvartá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+yáthā ← yáthā (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+evá ← evá (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+matsva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +198,4 @@ Dir, Indra, nahn mit heil'gem Werk um Hülfe sie, an deren Tränken du dich labs
 Как опьянялся ты у Самварты, как у Криши,  
 Ты у нас опьяняйся, о Индра!
 </details>
+

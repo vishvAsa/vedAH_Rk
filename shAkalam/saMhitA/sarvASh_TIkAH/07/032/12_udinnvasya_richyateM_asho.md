@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+ricyate ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+út ← út (invariable)  
+{}
+
+áṁśaḥ ← áṁśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhánam ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jigyúṣaḥ ← √ji- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+dabhanti ← √dabh- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+hárivān ← hárivant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rípaḥ ← ríp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dadhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dákṣam ← dákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+somíni ← somín- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ Der Antheil dessen raget hoch, gleichwie des Siegers Preis hervor, Wem Indra hol
 (Тот,) кто Индра, повелитель буланых коней, – его не обманут враги!  
 Силу действия дает он обладателю сомы.
 </details>
+

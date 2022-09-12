@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+idā́ ← idā́ (invariable)  
+{}
+
+purājā́ḥ ← purājā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+véviṣataḥ ← √viṣ- 2 (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+āsúḥ ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pratnā́saḥ ← pratná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+purukr̥t ← purukŕ̥t- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+madhyamā́saḥ ← madhyamá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nū́tanāsaḥ ← nū́tana- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+avamásya ← avamá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bodhi ← √budh- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Hier waren dir, dem emsigen, ja alte und urgeborne Freunde, thatenreicher, Sei a
 А также те, что средние и теперешние.  
 Заметь также самого младшего, о многопризываемый!
 </details>
+

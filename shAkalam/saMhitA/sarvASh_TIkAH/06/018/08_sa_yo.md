@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́t ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+míthu ← míthu (invariable)  
+{}
+
+muhé ← √muh- (root)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+cúmurim ← cúmuri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhúnim ← dhúni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sumántunāmā ← sumántunāman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+píprum ← pípru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śámbaram ← śámbara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śúṣṇam ← śúṣṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṇák ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+cyautnā́ya ← cyautná- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+purā́m ← púr- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+śayáthāya ← śayátha- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +246,4 @@ Zu schrecken nicht ist er, der Mann, noch falsch er, der wohlbekannte Indra stü
 Индра отринул Пипру, Шамбару, Шушну  
 Для сотрясения крепостей, чтобы они так и остались лежать.
 </details>
+

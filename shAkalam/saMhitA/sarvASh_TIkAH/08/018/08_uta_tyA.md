@@ -15,14 +15,54 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+bhiṣájā ← bhiṣáj- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+daívyā ← daívya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tyā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+utá ← utá (invariable)  
+{}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+karataḥ ← √kr̥- (root)  
+{number:DU, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śám ← śám (invariable)  
+{}
+
+itás ← itás (invariable)  
+{}
+
+rápaḥ ← rápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yuyuyā́tām ← √yu- 2 (root)  
+{number:DU, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+srídhaḥ ← srídh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +173,4 @@ Der Götter Aerzte mögen auch, die Ritter Segen schaffen uns Und Krankheit sche
 Ашвинов должны создать нам счастье.  
 Пусть отвратят они отсюда повреждение, (прогонят) прочь неудачи!
 </details>
+

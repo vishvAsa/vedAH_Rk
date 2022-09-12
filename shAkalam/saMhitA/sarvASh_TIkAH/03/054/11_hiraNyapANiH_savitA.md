@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+híraṇyapāṇiḥ ← híraṇyapāṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sujihváḥ ← sujihvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pátyamānaḥ ← √pat- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+trís ← trís (invariable)  
+{}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áśreḥ ← √śri- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ślókam ← ślóka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+ā́t ← ā́t (invariable)  
+{}
+
+sarvátātim ← sarvátāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+suva ← √sū- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,8 +194,6 @@ three times a day in the ordained \[ritual\] being the lord,
 among the gods you O Savitaḥ have set your call, now impel to us the totality \[of prosperity\].
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -184,3 +237,4 @@ Dreimal des Tags nimmt Savitar am Fest theil, mit schöner Zunge und mit gold'ne
 О Савитар, если ты направил клич (свой) к богам,  
 Породи нам целостность!
 </details>
+

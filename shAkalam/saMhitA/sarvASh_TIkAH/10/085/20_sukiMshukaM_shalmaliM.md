@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+śalmalím ← śalmalí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sukiṁśukám ← sukiṁśuká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvárūpam ← viśvárūpa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+híraṇyavarṇam ← híraṇyavarṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sucakrám ← sucakrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvŕ̥tam ← suvŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+lokám ← loká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+roha ← √ruh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sūrye ← sūryā́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+kr̥ṇuṣva ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+pátye ← páti- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+syonám ← syoná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vahatúm ← vahatú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +219,4 @@ Besteige, o Suriā, den Wagen, der mit schönen Kimçuka-Blüten geschmückt und
 Взойди, о Сурья – в мир бессмертия!  
 Сделай свадебную поездку привлекательной для супруга!
 </details>
+

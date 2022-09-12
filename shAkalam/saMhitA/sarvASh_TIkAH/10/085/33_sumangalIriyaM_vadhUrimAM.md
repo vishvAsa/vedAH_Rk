@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+sumaṅgalī́ḥ ← sumaṅgalī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vadhū́ḥ ← vadhū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+páśyata ← √paś- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+saméta ← √i- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+asyai ← ayám (pronoun)  
+{case:DAT, gender:F, number:SG}
+
+dattvā́ya ← √dā- 1 (root)  
+{non-finite:CVB}
+
+saúbhāgyam ← saúbhāgya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ástam ← ásta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+itana ← √i- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+párā ← párā (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ Schöngeschmückt ist diese Braut; kommt alle, beschauet sie; nachdem ihr dersel
 Пожелайте ей счастья  
 И разойдитесь восвояси!
 </details>
+

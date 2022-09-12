@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D;; line affected by realignment;; Vālakhilya  
 genre D;; line affected by realignment;; Vālakhilya  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya
+#### Morph
+ávocāma ← √vac- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+mahaté ← mahā́nt- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+saúbhagāya ← saúbhaga- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+indriyám ← indriyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+satyám ← satyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tveṣā́bhyām ← tveṣá- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ghr̥taścútaḥ ← ghr̥taścút- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+indrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sú ← sú (invariable)  
+{}
+
+avatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+patī ← páti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sāptébhiḥ ← sā́pta- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+śubhaḥ ← śúbh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+tríbhiḥ ← trí- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Zu hohem Glücke haben wir verkündet euch, den glänzenden, die wahre Indragrö
 Нас, о Индра-Варуна, струящие жир, хорошенько  
 Поддержите трижды семью (поддержками), о повелители красоты!
 </details>
+

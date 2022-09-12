@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+pratīcī́ ← pratyáñc- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sapráthāḥ ← sapráthas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+út ← út (invariable)  
+{}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśvait ← √śvit- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bíbhratī ← √bhr̥- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+rúśat ← rúśant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śukrám ← śukrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́saḥ ← vā́sas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+híraṇyavarṇā ← híraṇyavarṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sudŕ̥śīkasaṁdr̥k ← sudŕ̥śīkasaṁdr̥ś- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+aroci ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+netrī́ ← netrī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +231,4 @@ Sie stieg empor weithin der Welt entgegen, in hell Gewand gekleidet strahlt sie 
 Золотистого цвета, прекрасная на вид.  
 Мать коров, предводительница дней засверкала.
 </details>
+

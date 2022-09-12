@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átra ← átra (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jmayā́ ← kṣám- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ranta ← √rā- 3 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+vásavaḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+antárikṣe ← antárikṣa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+marjayanta ← √mr̥j- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+śubhrā́ḥ ← śubhrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uraú ← urú- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+urujrayaḥ ← urujrí- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dūtásya ← dūtá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jagmúṣaḥ ← √gam- (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śróta ← √śru- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +237,4 @@ Die guten Götter eilten hier des Weges, im weiten Luftraum schmückten sich die
 К нам держите путь, о (вы,) движущиеся по простору!  
 Слушайте нашего прибывшего вестника!
 </details>
+

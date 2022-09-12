@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+írāvatīḥ ← írāvant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+duhre ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mádhumat ← mádhumant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mitra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+tasthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tisr̥ṇā́m ← trí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vr̥ṣabhā́saḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhiṣáṇānām ← dhiṣáṇā- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+dyumántaḥ ← dyumánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+retodhā́ḥ ← retodhā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Voll Labung sind, Varuna, eure Kühe, und Süsses milchen, Mitra, eure Ströme; 
 Стоят трое быков – влагателей семени  
 В трех мирах, ярко сверкая.
 </details>
+

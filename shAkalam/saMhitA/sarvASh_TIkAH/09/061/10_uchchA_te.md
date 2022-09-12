@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+uccā́ ← uccā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhū́mī ← bhū́mi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dade ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sát ← √as- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +174,7 @@ mid. pres.). Grassmann takes it as a 1st sg. pf., as does Geldner (“Den im Him
 that has no other place in the context, where the 1st pl. reigns.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 It is difficult to discern any particular unity in this tṛca.
@@ -165,3 +205,4 @@ Was oben deinem Saft entsprang im Himmel, hat die Erd' erlangt, Gewalt'gen Schut
 Находясь на небе, он добывается на земле,  
 Грозна (его) защита, велика слава.
 </details>
+

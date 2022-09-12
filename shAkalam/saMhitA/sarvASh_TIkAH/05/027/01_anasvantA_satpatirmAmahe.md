@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánasvantā ← ánasvant- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+māmahe ← √maṁh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sátpatiḥ ← sátpati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cétiṣṭhaḥ ← cétiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gā́vā ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+maghónaḥ ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+daśábhiḥ ← dáśa- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sahásraiḥ ← sahásra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+traivr̥ṣṇáḥ ← traivr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ciketa ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tryàruṇaḥ ← tryàruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaíśvānara ← vaiśvānará- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +194,4 @@ Der tapfere Fürst hat mir zwei Stiere nebst Wagen geschenkt, der göttliche, de
 Сын Тривришана Тръяруна, о Агни Вайшванара,  
 Привлек к себе внимание десятью тысячами.
 </details>
+

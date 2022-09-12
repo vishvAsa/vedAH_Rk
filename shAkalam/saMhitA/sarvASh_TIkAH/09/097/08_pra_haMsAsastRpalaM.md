@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+haṁsā́saḥ ← haṁsá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+manyúm ← manyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+tr̥pálam ← tr̥pála- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+amā́t ← amā́t (invariable)  
+{}
+
+ástam ← ásta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ayāsuḥ ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+vŕ̥ṣagaṇāḥ ← vŕ̥ṣagaṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āṅgūṣyàm ← āṅgūṣyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pávamānam ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+durmárṣam ← durmárṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sākám ← sākám (invariable)  
+{}
+
+vadanti ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vāṇám ← vāṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +191,7 @@ But the only other occurrence of that stem modifies sā́man- ‘melody’ (I.62
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 This tṛca is attributed to Vṛṣagaṇa Vāsiṣṭha, whose given name was obviously extracted from vs. 8. All three vss. contain wild (or semi-wild) animals: a boar in 7d, geese in 8a, and a “sharp-horned” (tigmáśṛṅga-) one in 9c, a descriptor of vṛṣabhá-s generally.
@@ -171,3 +223,4 @@ Die Schwäne nahten seinem raschen Andrang, sie eilten heim erschreckt in grosse
 Друзья к достойному хвалы Павамане.  
 (Все) вместе они исполняют незабываемую музыку.
 </details>
+

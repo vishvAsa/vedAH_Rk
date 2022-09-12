@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácittī ← ácitti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+cakr̥má ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+daívye ← daívya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jáne ← jána- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dákṣaiḥ ← dákṣa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dīnaíḥ ← dīná- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+prábhūtī ← prábhūti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pūruṣatvátā ← pūruṣatvátā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+mā́nuṣeṣu ← mā́nuṣa- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ánāgasaḥ ← ánāgas- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+átra ← átra (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suvatāt ← √sū- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Was thöricht wir verübten an der Götter Stamm mit schwacher Kraft und mit Gew
 О Савитар, среди богов и среди людей  
 Сделай ты нас тут безгрешными!
 </details>
+

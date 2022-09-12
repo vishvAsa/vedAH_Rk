@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+pári ← pári (invariable)  
+{}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+stabhnāmi ← √stambhⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+út ← út (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+logám ← logá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+nidádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+riṣam ← √riṣ- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+dhārayantu ← √dhr̥- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+etā́m ← eṣá (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sthū́ṇām ← sthū́ṇā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+minotu ← √mi- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sā́danā ← sā́dana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yamáḥ ← yamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +249,4 @@ Rings um dich her befest'ge ich die Erde nun, nicht schad' es mir, wenn ich die 
 Пусть отцы держат тебе этот столб!  
 Пусть Яма построит тебе жилье!
 </details>
+

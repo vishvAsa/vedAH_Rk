@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́naṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+cārutvám ← cārutvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+déva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+tvaṣṭar ← tváṣṭar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ábhavaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+áṅgirasām ← áṅgiras- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sacābhū́ḥ ← sacābhū́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pā́thaḥ ← pā́thas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+draviṇodaḥ ← draviṇodas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+surátnaḥ ← surátna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uśán ← √vaś- (root)  
+{tense:PRS, voice:ACT}
+
+yakṣi ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +244,4 @@ Gott Tvaschtar, wenn du, was du liebst, erreicht hast, als du einst warst der An
 При(веди) (это жертвенное животное) в область богов как знаток!  
 Охотно приноси жертвы, о даритель богатства, (ты,) у кого прекрасные сокровища!
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+átkam ← átka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+háthaiḥ ← hátha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kaváye ← kaví- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śiśnatham ← √śnathⁱ- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+ābhíḥ ← ayám (pronoun)  
+{case:INS, gender:F, number:PL}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+āvam ← √avⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+kútsam ← kútsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+śnáthitā ← śnáthitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúṣṇasya ← śúṣṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vádhar ← vádhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yamam ← √yam- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+ā́ryam ← ā́rya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dásyave ← dásyu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+raré ← √rā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +226,4 @@ Mit Hieben schlug den Atka für den Kavi ich, mit solchen Hülfen stand ich auch
 Я, пронзитель Шушны, вручил (Кутсе) смертельное оружие,  
 (Я,) который не выдал дасью арийского имени.
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ánuttamanyum ← ánuttamanyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́ṇīḥ ← vā́ṇī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+rā́jānam ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sáhadhyai ← √sah- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+āpī́n ← āpí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+barhayā ← √br̥h- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+háryaśvāya ← háryaśva- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +171,4 @@ Zum König wählten Indra sich die Winde, dass stets er siege, dessen Zorn nicht
 Царем все вместе голоса, чтобы он побеждал.  
 Для повелителя буланых я хочу усилить союзников.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sádma ← sádman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vaṣṭi ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+híraṇyarathaḥ ← híraṇyaratha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráṁsujihvaḥ ← ráṁsujihva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rohídaśvaḥ ← rohídaśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vapuṣyàḥ ← vapuṣyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vibhā́vā ← vibhā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+pitumátī ← pitumánt- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+raṇváḥ ← raṇvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sádā ← sádā (invariable)  
+{}
+
+saṁsát ← saṁsád- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +230,4 @@ Als Bote strebt er hin zu allen Sitzen, mit goldnem Wagen, holder Zung' als Prie
 С рыжими конями, видный, блистательный,  
 Всегда веселый, словно собрание (гостей), обильное едой.
 </details>
+

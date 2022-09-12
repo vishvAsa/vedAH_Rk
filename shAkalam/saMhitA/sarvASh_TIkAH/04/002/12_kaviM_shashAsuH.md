@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádabdhāḥ ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kavím ← kaví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śaśāsuḥ ← √śās- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+āyóḥ ← āyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dúryāsu ← dúrya- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+nidhāráyantaḥ ← √dhr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+átas ← átas (invariable)  
+{}
+
+dŕ̥śyān ← dŕ̥śya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+etā́n ← eṣá (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ádbhutān ← ádbhuta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+paḍbhíḥ ← pád- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+paśyeḥ ← √paś- (root)  
+{number:SG, person:2, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Den Seher wiesen an die treuen Seher, ihn niedersetzend in des Menschen Häuser;
 Оттуда, о Агни. пусть ты увидишь этих достойных видения,  
 Удивительных – благодаря ногам (и) движениям благородного (господина ).
 </details>
+

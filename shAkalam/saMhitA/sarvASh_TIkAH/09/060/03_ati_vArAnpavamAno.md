@@ -15,13 +15,44 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; 12 = 8+4  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asiṣyadat ← √syand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vā́rān ← vā́ra- 1 (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+dhāvati ← √dhāv- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kaláśān ← kaláśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+āviśán ← √viś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+hā́rdi ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -100,7 +131,7 @@ This vs. is in Puraüṣṇih meter (12 8 / 8), i.e., a Gāyatrī with an extend
 This pāda is almost at the exact center of the hymn, preceded by 6 pādas, followed by 5. The positioning seems deliberate.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 Here the chaining involves only the first word índrasya.
@@ -129,3 +160,4 @@ Schon hat die Wolle er durchströmt und eilet jetzt den Schalen zu; Er dringet e
 
 -ru-
 </details>
+

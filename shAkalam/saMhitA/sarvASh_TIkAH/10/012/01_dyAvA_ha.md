@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyā́vā ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ha ← ha (invariable)  
+{}
+
+kṣā́mā ← kṣám- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+prathamé ← prathamá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+abhiśrāvé ← abhiśrāvá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bhavataḥ ← √bhū- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+satyavā́cā ← satyavā́c- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇván ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mártān ← márta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yajáthāya ← yajátha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ásum ← ásu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pratyáṅ ← pratyáñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sī́dat ← √sad- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+svám ← svá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Die Erd', der Himmel, nach dem Recht die ersten, sind Wahrheit kündend in des H
 Когда бог, побуждающий смертных приносить жертвы,  
 Усаживается как хотар, вновь обретая свою жизненную силу!
 </details>
+

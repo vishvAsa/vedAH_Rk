@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aptúraḥ ← aptúr- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vividrire ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+yajñéna ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+hinvānā́ḥ ← √hi- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+manīṣíṇaḥ ← manīṣín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+uśíjaḥ ← uśíj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhisvárā ← abhisvár- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+avasyávaḥ ← avasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+niṣádā ← niṣád- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+āśata ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+dráviṇāni ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+hinvānā́ḥ ← √hi- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +189,4 @@ Durch Opfer schafften Heil sich die geschäftigen, Gebete sendend, weisheitsvoll
 Обращением (и) служением они, жаждущие помощи,  
 Возбуждающие (поэтическую мысль), добились у Индры коров, (и) богатств.
 </details>
+

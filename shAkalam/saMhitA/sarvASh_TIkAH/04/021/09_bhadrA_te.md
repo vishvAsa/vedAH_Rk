@@ -16,14 +16,90 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hástā ← hásta- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pāṇī́ ← pāṇí- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+súkr̥tā ← súkr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prayantā́rā ← prayantár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stuvaté ← √stu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kā́ ← ká- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mamatsi ← √mad- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+níṣattiḥ ← níṣatti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+dā́tavái ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+harṣase ← √hr̥ṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+úd-ut ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,3 +282,4 @@ Heilvoll, an Thaten reich sind deine Hände, wenn, Indra, sie dem Sänger Gaben 
 Что (это) за (бездеятельное) у тебя сидение? Почему ты нас не радуешь?  
 Что же ты не возбудишься для дарения?
 </details>
+

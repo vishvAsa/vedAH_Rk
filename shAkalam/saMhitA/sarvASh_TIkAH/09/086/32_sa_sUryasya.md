@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pári ← pári (invariable)  
+{}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vyata ← √vyā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+tántum ← tántu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tanvānáḥ ← √tan- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+trivŕ̥tam ← trivŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidé ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yáthā ← yáthā (invariable)  
+{}
+
+návīyasīḥ ← návīyaṁs- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+náyan ← √nī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+praśíṣaḥ ← praśíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jánīnām ← jáni- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+niṣkr̥tám ← niṣkr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +203,7 @@ Although the standard interpr. of yáthā vidé here makes Soma subj. of the ver
 I assume that the “threefold thread” (tántum … trivṛtám) refers to the three soma pressings.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/31-33.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/31-33.md">
 <details open><summary><h2>31-33 ...{Loading}...</h2></summary>
 
 After the tight structure of the preceding tṛca, we have returned to the lax stringing together of soma tropes. There is a lot of noise-making in 31 (b cakradat, c vāvaśānā́anūṣata), which is slightly echoed in 33 (b kánikradat).
@@ -181,3 +239,4 @@ Er hat sich mit der Sonne Strahlen rings umhüllt, den dreigetheilten Faden webe
 Проводя самые новые предписания закона.  
 Как муж он приходит на свидание с женами.
 </details>
+

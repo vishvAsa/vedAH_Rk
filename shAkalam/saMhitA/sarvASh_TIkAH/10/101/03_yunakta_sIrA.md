@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+sī́rā ← sī́ra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tanudhvam ← √tan- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+yugā́ ← yugá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yunákta ← √yuj- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bī́jam ← bī́ja- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+kr̥té ← √kr̥- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+vapata ← √vap- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yónau ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sábharāḥ ← sábharas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śruṣṭíḥ ← śruṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+iyāt ← √i- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+nédīyaḥ ← nédīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pakvám ← pakvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sr̥ṇyàḥ ← sr̥ṇī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +253,4 @@ Spannt an die Stränge, leget auf die Joche, der Schooss ist fertig, streut hine
 Когда же услышание придет в равновесие с (вашей) хвалебной песней,  
 Спелый (плод) еще ближе подойдет к серпам.
 </details>
+

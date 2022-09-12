@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácet ← √ci- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ŕ̥ghāvā ← ŕ̥ghāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samaryám ← samaryá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+ājím ← ājí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ákhyat ← √khyā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dīrghám ← dīrghá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+ácikradat ← √krand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+pátnī ← pátnī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+níśitam ← √śā- ~ śī- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+somasúdbhiḥ ← somasút- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +203,7 @@ In d “whetted sharp by the soma pressers” (níśitaṃ somasúbhiḥ) contin
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/08-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/08-10.md">
 <details open><summary><h2>08-10 ...{Loading}...</h2></summary>
 
 For my interpr. of these vss., see published introduction.
@@ -174,3 +232,4 @@ Als stürmend er das Schlachtgetümmel wahrnahm, den langen Kampfzug treugesinnt
 
 -ru-
 </details>
+

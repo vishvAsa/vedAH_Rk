@@ -16,14 +16,51 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vavr̥mahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:MED}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mártāsaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+nápātam ← nápat- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+subhágam ← subhága- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudī́ditim ← sudī́diti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anehásam ← anehás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suprátūrtim ← suprátūrti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +174,4 @@ Dich wählen wir als Freunde uns, den Gott zum Schutz wir Sterblichen, Der Wasse
 Отпрыска вод, счастливого, чудесно сверкающего,  
 Легко преодолевающего (препятствия), незлобивого.
 </details>
+

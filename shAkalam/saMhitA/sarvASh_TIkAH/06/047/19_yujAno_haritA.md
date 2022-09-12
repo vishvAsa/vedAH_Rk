@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+harítā ← harít- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yujānáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+rājati ← √rāj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āsate ← √ās- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+dviṣatáḥ ← √dviṣ- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pákṣaḥ ← pákṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+viśvā́hā ← viśvā́hā (invariable)  
+{}
+
+ā́sīneṣu ← √ās- (root)  
+{case:LOC, gender:M, number:PL, tense:PRS, voice:PASS}
+
+sūríṣu ← sūrí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +209,4 @@ Die goldfarbenen beiden Stuten sich anschirrend, erglänzet Tvaschtar prächtig 
 Кто же будет всегда находиться на стороне ненавистника,  
 Тем более что сидят богатые покровители)
 </details>
+

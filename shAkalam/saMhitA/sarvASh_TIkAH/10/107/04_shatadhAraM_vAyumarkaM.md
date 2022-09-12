@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śatádhāram ← śatádhāra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svarvídam ← svarvíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāyúm ← vāyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+cakṣate ← √cakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nr̥cákṣasaḥ ← nr̥cákṣas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+pr̥ṇánti ← √pr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+saṁgamé ← saṁgamá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yáchanti ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+dákṣiṇām ← dákṣiṇa- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+duhate ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+saptámātaram ← saptámātar- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +232,4 @@ Den hundertströmigen Vāju, die Licht bringende Sonne und des Männerbeschauers
 Кто щедро дает и вручает в жертвенном собрании,  
 Те доят Дакшину, имеющую семь матерей.
 </details>
+

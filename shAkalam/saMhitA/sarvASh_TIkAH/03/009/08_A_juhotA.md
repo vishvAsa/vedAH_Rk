@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+juhota ← √hu- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+svadhvarám ← svadhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pāvakáśociṣam ← pāvakáśocis- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śīrám ← śīrám (invariable)  
+{case:ACC, gender:M, number:SG}
+
+ajirám ← ajirá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āśúm ← āśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ī́ḍyam ← ī́ḍya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pratnám ← pratná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saparyata ← √sapary- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śruṣṭī́ ← śruṣṭí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +182,4 @@ Begiesst den herrlich opfernden, den heissen Flammen-strahlenden, Den raschen, m
 Быстрого вестника, проворного, древнего, достойного призывов  
 Бога почитайте с готовностью!
 </details>
+

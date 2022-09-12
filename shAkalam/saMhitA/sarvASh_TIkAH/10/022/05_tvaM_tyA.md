@@ -16,14 +16,66 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agāḥ ← √gā- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+áśvā ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+tyā́ ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+vā́tasya ← vā́ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+r̥jrā́ ← r̥jrá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+váhadhyai ← √vah- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yáyoḥ ← yá- (pronoun)  
+{case:GEN, gender:M, number:DU}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+vidā́yyaḥ ← vidā́yya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yantā́ ← yantár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +196,4 @@ Du eiltest zu des Windes rothem Rossepaar und nahmst es dir zu deiner Fahrt, Fü
 Для которых ни бог, ни смертный –  
 Никто не найдется, чтобы править.
 </details>
+

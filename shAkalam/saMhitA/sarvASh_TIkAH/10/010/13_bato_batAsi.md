@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+bata ← batá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+batáḥ ← batá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yama ← yamá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+avidāma ← √vid- 1 (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+hŕ̥dayam ← hŕ̥daya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+anyā́ ← anyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kakṣyā̀ ← kakṣyà- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kíla ← kíla (invariable)  
+{}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yuktám ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+líbujā ← líbujā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+svajāte ← √svaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+vr̥kṣám ← vr̥kṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +249,4 @@ O Elend, ein Elender bist du, Yama! Mitnichten haben wir Sinn und Herz von dir g
 Как подпруга – упряжного (коня), как лиана – дерево!  
 Яма:
 </details>
+

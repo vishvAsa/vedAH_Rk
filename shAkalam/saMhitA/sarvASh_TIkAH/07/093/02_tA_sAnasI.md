@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhūtám ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+sānasī́ ← sānasí- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śavasānā ← śavasāná- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+sākaṁvŕ̥dhā ← sākaṁvŕ̥dh- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śūśuvā́ṁsā ← √śū- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:ACT}
+
+bhū́reḥ ← bhū́ri- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+kṣáyantau ← √kṣā- 2 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yávasasya ← yávasa- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ghŕ̥ṣveḥ ← ghŕ̥ṣvi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pr̥ṅktám ← √pr̥c- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sthávirasya ← sthávira- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vā́jasya ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +208,4 @@ Ihr mächt'ge seid's ja, die ihr viel erbeutet, zugleich erstarkt, an Kräften r
 Владея богатством, обильным пастбищем,  
 Наполните (нас) мощной наградой, вызывающей радость!
 </details>
+

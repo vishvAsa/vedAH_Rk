@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dhātŕ̥bhiḥ ← dhātár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+ihá ← ihá (invariable)  
+{}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adhvaréṣu ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ī́ḍyaḥ ← ī́ḍya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yájiṣṭhaḥ ← yájiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápnavānaḥ ← ápnavāna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhŕ̥gavaḥ ← bhŕ̥gu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+virurucúḥ ← √ruc- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+citrám ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váneṣu ← vána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vibhvàm ← vibhū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśé-viśe ← víś- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,8 +177,6 @@ genre M
 **विरुरुचुः वनेषु** आश्रमेषु । किमर्थं? विशेविशे मनुष्यायमनुप्याय सर्वो मनुष्योभ्युदयेन युज्येतेति । यद्वा - विभक्तिव्यत्ययः; विशिविशि व्याप्तवन्तमिति । 'सावेकाचः' इति विश इति चतुर्थ्या उदात्तत्वम् । अयमेवं महानुभावो अस्मान्मृडयत्विति शेषः ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -172,7 +222,6 @@ Whom Apnavana and the Bhrgus caused to shine,
 Bright in the woods, spreading from house to house.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Dieser ist hier von den Opferveranstaltern bestellt worden als der erste, als der bestopfernde Hotri, der bei dem Opfer zu berufen ist, den der Apnavana, den die Bhrigu´s erleuchtet haben, den in den Wäldern schimmernden, der für jeden Clan zu haben ist.
@@ -190,3 +239,4 @@ Errichtet wurde dieser von den Ordnern hier, der beste Opfrer, bei den Festen pr
 Кого ярко зажгли Апнавана и Бхригу,  
 Сверкающего в лесах, проявляющегося в каждом пламени.
 </details>
+

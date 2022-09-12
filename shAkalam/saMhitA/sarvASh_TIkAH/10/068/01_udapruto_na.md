@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ná ← ná (invariable)  
+{}
+
+rákṣamāṇāḥ ← √rakṣⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+udaprútaḥ ← udaprút- (nominal stem)  
+{case:NOM, number:PL}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+abhríyasya ← abhríya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ghóṣāḥ ← ghóṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+vā́vadataḥ ← √vadⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+giribhrájaḥ ← giribhráj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádantaḥ ← √mad- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ūrmáyaḥ ← ūrmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+anāvan ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+arkā́ḥ ← arká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Wie Vögel, die im Wasser plätschernd kreischen, wenn sie sich bergen, wie Gewi
 Как волны, разбивающиеся о скалу, радостно неистовствуя,  
 Песни устремились, звуча, к Брихаспати.
 </details>
+

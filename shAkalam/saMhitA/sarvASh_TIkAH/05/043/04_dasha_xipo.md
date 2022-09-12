@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bāhū́ ← bāhú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kṣípaḥ ← kṣíp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yuñjate ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+śamitā́rā ← śamitár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+suhástā ← suhásta- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+giriṣṭhā́m ← giriṣṭhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rásam ← rása- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sugábhastiḥ ← sugábhasti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aṁśúḥ ← aṁśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cániścadat ← √cand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+duduhe ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+śukrám ← śukrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +227,4 @@ Die Arme, die schönhändig Soma schaffen, und die zehn Finger schirren an den P
 (Жрец) с ловкими пальцами (выжимает) сок медового (сомы), возникший на горе.  
 Стебель дал надоить ярко сверкающего прозрачного (сока).
 </details>
+

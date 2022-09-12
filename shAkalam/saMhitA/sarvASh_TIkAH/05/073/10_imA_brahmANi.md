@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bráhmāṇi ← bráhman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+várdhanā ← várdhana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+aśvíbhyām ← aśvín- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+śáṁtamā ← śáṁtama- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+ráthān ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tákṣāma ← √takṣ- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+ávocāma ← √vac- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+námaḥ ← námas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +176,4 @@ Den Rittern mögen kräftigend willkommen die Gebete sein, Die wir wie Wagen zim
 (Слова,) которые мы выточили, как (плотники) – колесницы.  
 Мы произнесли (их) как высокое поклонение.
 </details>
+

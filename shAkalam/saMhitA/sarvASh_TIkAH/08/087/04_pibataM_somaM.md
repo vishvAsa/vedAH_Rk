@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mádhumantam ← mádhumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+píbatam ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sīdatam ← √sad- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sumát ← sumát ~ smat- (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+úpa ← úpa (invariable)  
+{}
+
+vāvr̥dhānā́ḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
+
+gantám ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+gauraú ← gaurá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+íriṇam ← íriṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ Den honigsüssen Soma trinkt, o Ritter ihr, und setzt zugleich euch auf die Stre
 Возбуждаясь, приезжайте с неба на прекрасную хвалу,  
 Как два буйвола – к водостоку!
 </details>
+

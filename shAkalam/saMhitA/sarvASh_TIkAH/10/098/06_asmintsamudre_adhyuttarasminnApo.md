@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+úttarasmin ← úttara- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+atiṣṭhan ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nívr̥tāḥ ← √vr̥- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+adravan ← √dru- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ārṣṭiṣeṇéna ← ārṣṭiṣeṇá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sr̥ṣṭā́ḥ ← √sr̥j- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+devā́pinā ← devā́pi- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mr̥kṣíṇīṣu ← mr̥kṣín- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+préṣitāḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +193,4 @@ In jenem höchsten Himmelsmeere standen die Wasser noch von Göttern eingeschlos
 Они хлынули, выпущенные сыном Риштишены,  
 Посланные Девапи на пострадавшие земли (?).
 </details>
+

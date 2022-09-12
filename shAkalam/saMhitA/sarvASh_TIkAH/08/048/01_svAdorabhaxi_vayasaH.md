@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+abhakṣi ← √bhaj- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+sumedhā́ḥ ← sumedhás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svādóḥ ← svādú- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+váyasaḥ ← váyas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+svādhyàḥ ← svādhī́- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+varivovíttarasya ← varivovíttara- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mártyāsaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+bruvántaḥ ← √brū- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+saṁcáranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +207,4 @@ Ich nahm verständig von der süssen Kost mir, die unter Andacht reichsten Segen
 К кому все боги и смертные  
 Сходятся вместе, называя (его) медом.
 </details>
+

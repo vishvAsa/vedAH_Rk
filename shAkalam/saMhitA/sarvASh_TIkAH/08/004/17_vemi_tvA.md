@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pūṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+r̥ñjáse ← √r̥j- 1 (root)  
+{case:DAT, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vémi ← √vī- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+āghr̥ṇe ← ā́ghr̥ṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stótave ← √stu- (root)  
+{case:DAT, number:SG}
+
+vémi ← √vī- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+áraṇam ← áraṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaso ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vemi ← √vī- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+pajrā́ya ← pajrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sā́mne ← sā́man- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+stuṣé ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Dich zu ergreifen eile ich, zu preisen, Puschan, strahlender; Nicht fremdes Gut 
 Я не хочу его (богатства) – ведь оно чужое, о Васу,  
 (И не хочу) восхвалять для Паджры Самана!
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇván ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+arṣasi ← √arṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+rūpā́ ← rūpá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pinvase ← √pinv- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+samudráḥ ← samudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +150,7 @@ Geldner renders b as “… rinnst du ... alle Farben annehmend”; similar Lüd
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 As just noted, pávamānasya in 7a chains with forms to the same stem in vss. 5 and 6. 7b prá … asṛkṣata also echoes ásṛkṣata prá, which opens the previous tṛca (4a). The tṛca is unified by the similes comparing Soma to the Sun in vss. 7 and 9, possibly found also in the beacon (ketú-) of vs. 8.
@@ -145,3 +179,4 @@ Vom Himmel Licht erzeugend strömst du alle Herrlichkeit herbei, Du schwillst, o
 
 -ru-
 </details>
+

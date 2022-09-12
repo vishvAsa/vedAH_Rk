@@ -15,14 +15,51 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+puruṣṭutám ← puruṣṭutá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+pratnā́bhiḥ ← pratná- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yahvám ← yahvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+priyé ← priyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sadat ← √sad- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ádha ← ádha (invariable)  
+{}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +169,4 @@ Den hochgepries'nen wünschen wir, ihn, der mit alten Hülfen eilt, Er setze auf
 Юного с прежними поддержками.  
 Пусть усядется он наконец на милую жертвенную солому!
 </details>
+

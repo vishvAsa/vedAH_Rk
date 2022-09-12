@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhiyújaḥ ← abhiyúj- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pravr̥ṇvántaḥ ← √vr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+súṣvaye ← súṣvi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+varivovídaḥ ← varivovíd- (nominal stem)  
+{case:NOM, number:PL}
+
+stotré ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svayám ← svayám (invariable)  
+{}
+
+vayaskŕ̥taḥ ← vayaskŕ̥t- (nominal stem)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +135,4 @@ Abwehrend aller Feinde Schar, dem Presser spendend hohes Glück, Und selbst dem 
 Находящие простор для выжимателя (сомы),  
 Сами создающие жизненную силу восхвалителю:
 </details>
+

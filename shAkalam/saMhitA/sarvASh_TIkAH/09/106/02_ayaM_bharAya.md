@@ -15,14 +15,48 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhárāya ← bhára- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sānasíḥ ← sānasí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+cetati ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jaítrasya ← jaítra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vidé ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,7 +143,7 @@ Both Geldner and Renou take jaítrasya as a noun ‘victory’, but with Grassma
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 All three vss. in this tṛca contain final 4-syllable sequences that could be syntactically distanced from what precedes, hence a likely 8 8 / 8 4 Uṣṇih type (so also Oldenberg). In vs. 1 this piece is svarvídaḥ, the signature word that recurs in the same metrical position in 4 (as svarvídam) and 9.
@@ -142,3 +176,4 @@ Dem Indra rieselt zum Genuss der segensreiche Trank herbei, Und Soma hat des Sie
 Очищается для добычи, для Индры.  
 Сома разбирается в победе, как она происходит.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apācī́ne ← apācī́na- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mádantīḥ ← √mad- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+támasi ← támas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cakā́ra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+nŕ̥tamaḥ ← nŕ̥tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prā́cīḥ ← prā́ñc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥ṇīṣe ← √gr̥̄- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ī́śānam ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ánānatam ← ánānata- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+damáyantam ← √damⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pr̥tanyū́n ← pr̥tanyú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Der Held, der kräftig die im dunklen Abend sich freu'nden Röthen nach dem Morg
 Я воспеваю этого Агни, владеющего добром,  
 Несгибаемого, укрощающего противников.
 </details>
+

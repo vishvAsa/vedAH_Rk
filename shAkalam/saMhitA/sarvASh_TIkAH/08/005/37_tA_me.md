@@ -17,15 +17,64 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sanīnā́m ← saní- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+návānām ← náva- 2 (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vidyā́tam ← √vid- 2 (root)  
+{number:DU, person:2, mood:OPT, tense:PRF, voice:ACT}
+
+caidyáḥ ← caidyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+kaśúḥ ← kaśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+dádat ← √dā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+úṣṭrānām ← úṣṭra- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gónām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +195,4 @@ Ihr Asvin sollet von mir von den neuen Belohnungen erfahren, wie Kasu, des Cedi 
 Как Кашу, сын Чеди, подарил сто верблюдов,  
 Десять тысяч коров.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+háriṇī ← hárita- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+srúvā ← srū́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vipetátuḥ ← √pat- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dávidhvataḥ ← √dhū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+háriṇī ← hárita- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+śípre ← śíprā- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+vā́jāya ← vā́ja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+camasé ← camasá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+kr̥té ← √kr̥- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+mármr̥jat ← √mr̥j- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+haryatásya ← haryatá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mádasya ← máda- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pītvā́ ← √pā- 2 (root)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Dess goldne Stuten wie zwei Ströme fliegen hin, wenn er die goldnen Lippen sch�
 (Тот) чистит пару буланых коней, когда приготовлен сосуд (с сомой),  
 Испив пьянящего напитка, желанного сока.
 </details>
+

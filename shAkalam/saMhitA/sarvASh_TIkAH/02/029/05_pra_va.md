@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́gaḥ ← ā́gas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mimaya ← √mī- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+kitavám ← kitavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śaśāsá ← √śās- (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aghā́ni ← aghá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+āré ← āré (invariable)  
+{}
+
+āré ← āré (invariable)  
+{}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+pā́śāḥ ← pā́śa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+grabhīṣṭa ← √gr̥bhⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+putré ← putrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vím ← ví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +260,4 @@ Ich tilgt' allein viel Schuld, an euch verübte, als ihr mich Spieler straftet w
 Далеко (пусть будут ваши) петли, далеко – беды, о боги!  
 Не хватайте меня в лице сына, как (хватают) птицу, (взяв птенцов)!
 </details>
+

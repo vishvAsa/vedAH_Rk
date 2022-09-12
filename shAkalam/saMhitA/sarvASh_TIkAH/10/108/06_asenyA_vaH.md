@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asenyā́ ← asenyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+paṇayaḥ ← paṇí- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vácāṁsi ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+aniṣavyā́ḥ ← aniṣavyá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pāpī́ḥ ← pāpá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ádhr̥ṣṭaḥ ← ádhr̥ṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+étavaí ← √i- 1 (root)  
+{case:DAT, number:SG}
+
+pánthāḥ ← pánthā- ~ path- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥ḷāt ← √mr̥ḍ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ubhayā́ ← ubhayā́ (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +207,4 @@ Eure Worte, Pani´s, machen keine Soldaten. Mögen eure schlechten Leiber gegen 
 Так или иначе Брихаспати вас не помилует!  
 Пани:
 </details>
+

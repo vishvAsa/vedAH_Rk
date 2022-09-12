@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pratikāmám ← pratikāmám (invariable)  
+{}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+hí ← hí (invariable)  
+{}
+
+prātaḥsāváḥ ← prātaḥsāvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūrvápītiḥ ← pūrvápīti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+hántave ← √han- (root)  
+{case:DAT, number:SG}
+
+hárṣasva ← √hr̥ṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bravāma ← √brū- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ukthébhiḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vīryā̀ ← vīryà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Nach Lust, o Indra, trinke von dem Safte, dein erster Trunk ist ja die Morgenspe
 Возбуждайся, о герой, для убийства врагов!  
 В песнях мы хотим провозгласить твои подвиги.
 </details>
+

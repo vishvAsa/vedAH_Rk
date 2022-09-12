@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́yūṁṣi ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pavase ← √pū- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suva ← √sū- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+āré ← āré (invariable)  
+{}
+
+bādhasva ← √bādhⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+duchúnām ← duchúnā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +138,6 @@ _____________
 **अग्ने आयूंषि पवस्व ऊर्जं** रसं **इषम्** अन्नं च नः अस्मभ्यमासुव आनय **दुच्छुनां** दौर्गत्यं चास्माकमारे दूरे **बाधस्वेति** ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -123,7 +159,7 @@ This preverb in tmesis shows up apparently 2nd in the clause because it follows 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 On this tṛca see published introduction. It is so insistently Agni-focused (all three vss.
@@ -154,8 +190,6 @@ Far away drive ill-fortune.
 agni you purify our life, send to us swift strength. Prevent the misfortune from over taking us.
 </details>
 
-
-
 <details><summary>Geldner</summary>
 
 O Agni, du läuterst uns Lebenskraft zu; weise uns Stärkung und Labung zu! Halte das Unheil weit ab!
@@ -170,3 +204,4 @@ Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse w
 
 -ru-
 </details>
+

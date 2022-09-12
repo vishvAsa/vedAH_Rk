@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+haryatáḥ ← haryatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pávate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+jamádagninā ← jamádagni- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+hinvānáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+tvací ← tvác- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -95,7 +123,7 @@ haryató háriḥ “delightful tawny one” is a word play, with two semantical
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/25-27.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 All three vss. in this tṛca contain a middle form of √hi ‘impel’ (25c hinvānaḥ, 26b hinvānā́saḥ, 27b hinvire, the first two passive, the third transitive. In addition the tṛca opens and closes with a form of páva- (25a pávate, 27c pavasva).
@@ -124,3 +152,4 @@ Es flammt das holde goldne Ross, von Dschamadagni hochgerühmt, Hin auf das Rind
 
 -ru-
 </details>
+

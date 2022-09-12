@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+jantávaḥ ← jantú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śvaitreyásya ← śvaitreyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dyumát ← dyumánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṣṭáyaḥ ← kr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vardhanta ← √vr̥dh- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+br̥hádukthaḥ ← br̥háduktha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+niṣkágrīvaḥ ← niṣkágrīva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+mádhvā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vājayúḥ ← vājayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +171,4 @@ Die Leute des Qvitrasohnes, die Völker mögen herrlich gedeihen; er, der Goldsc
 Брихадуктха с золотым украшением на шее  
 Благодаря этому меду, словно (скакун,) жаждущий награды.
 </details>
+

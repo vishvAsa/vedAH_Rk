@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhūmáḥ ← dhūmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥ṇvati ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tveṣáḥ ← tveṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́tataḥ ← √tan- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śukráḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyutā́ ← dyút- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+kr̥pā́ ← kŕ̥p- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pāvaka ← pāvaká- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rócase ← √ruc- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +207,4 @@ Es wirbelt auf dein heller Rauch am Himmel leuchtend, ausgedehnt; Denn du erstra
 Ведь словно солнце сиянием,  
 Светишь ты (своим) обликом, о очищающий!
 </details>
+

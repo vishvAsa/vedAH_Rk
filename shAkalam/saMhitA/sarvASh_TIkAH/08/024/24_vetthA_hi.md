@@ -15,13 +15,41 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+nírr̥tīnām ← nírr̥ti- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+véttha ← √vid- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+parivŕ̥jam ← parivŕ̥j- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vájrahasta ← vájrahasta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áhar-ahar ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+paripádām ← paripád- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+śundhyúḥ ← śundhyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +142,4 @@ Du, Indra, weisst, mit Blitz bewehrt, die Todesgrüfte zu umgehn, Fanggruben gle
 От несущих гибель, о громовержец,  
 День за днем, как шундхью от ловушек.
 </details>
+

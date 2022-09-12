@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tárdaḥ ← √tr̥d- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+ugra ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+gávyam ← gávya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ūrvám ← ūrvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhr̥ṣṇo ← dhr̥ṣṇú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vádhiṣaḥ ← √vadhⁱ- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+vajrahasta ← vájrahasta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+amitríyā ← amitríya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śávobhiḥ ← śávas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +208,7 @@ In d Geldner suggests that vṛtrám is a “collective singular” and should b
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 These first three vss. form something of a unity. Each begins with a “drink!” imperative (1a píbā sómam, 2a sá īm pāhi, 3a evā́pāhi), and each contains the lexeme abhí √tṛd ‘drill through to’. As outlined below, it is a pleasingly designed rhetorical structure, whose balance and contrast only become evident after conscious analysis.
@@ -179,3 +240,4 @@ Den Soma trink, den, mächt'ger, du erschlossest, so wie den Kuhstall, hochgepri
 (Ты), о дерзкий, который убил, о громовержец,  
 Всех врагов недружелюбных – (своими) силами!
 </details>
+

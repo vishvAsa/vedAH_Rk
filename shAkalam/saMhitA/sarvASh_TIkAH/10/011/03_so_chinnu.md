@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+kṣumátī ← kṣumánt- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+yáśasvatī ← yáśasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svàrvatī ← svàrvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uvāsa ← √vas- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uśántam ← √vaś- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+uśatā́m ← √vaś- (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hótāram ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jī́janan ← √janⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vidáthāya ← vidátha- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +231,4 @@ Auch diese schöne, nahrungsreiche, herrliche, die Uschas, ging dem Menschen auf
 Когда по воле жаждущих (богов) породили  
 Жаждущего Агни как хотара для жертвенной раздачи.
 </details>
+

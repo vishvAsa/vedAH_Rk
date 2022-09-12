@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:GEN, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gathá ← √gam- (root)  
+{number:PL, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vītáye ← vītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+dyumnaíḥ ← dyumná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā́jasātibhiḥ ← vā́jasāti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+dhūtayaḥ ← dhū́ti- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naśat ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sumnā́ ← sumná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Der Opferherr, zu dessen Opfergaben ihr, o Männer, zum Genusse kommt, Wird durc
 Пусть он добьется ваших милостей, о сотрясатели,  
 Вместе с великолепием и захватом добычи!
 </details>
+

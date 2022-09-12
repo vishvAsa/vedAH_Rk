@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+budhanta ← √budh- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+sumánasaḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+asmā́kāsaḥ ← asmā́ka- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+maghávānaḥ ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+tilvilāyádhvam ← √tilvilāy- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+uṣasaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+vibhātī́ḥ ← √bhā- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Dich haben heut erweckt mit frommem Sinne die Opferherren und auch wir, die Sän
 Проявите себя плодородными, о утренние зори, когда вы сверкаете!  
 Защищайте вы нас всегда (своими) милостями!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+pibantu ← √pā- 2 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+viṣám ← viṣá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yātudhā́nāḥ ← yātudhā́na- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áditaye ← áditi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+durévāḥ ← duréva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vr̥ścyantām ← √vr̥śc- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:PASS}
+
+dadātu ← √dā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+enān ← ena- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+párā ← párā (invariable)  
+{}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jayantām ← √ji- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+óṣadhīnām ← óṣadhī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+párā ← párā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ Das Gift der Kühe mög der Zaubrer trinken, vom ew'gen Wohlsein sei getrennt de
 Пусть откажется от них бог Савитар!  
 Пусть утратят они (свою) долю в растениях!
 </details>
+

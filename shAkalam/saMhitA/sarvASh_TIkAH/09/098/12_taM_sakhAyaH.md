@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+purorúcam ← purorúc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sakhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+aśyā́ma ← √naś- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+vā́jagandhyam ← vā́jagandhya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sanéma ← √sanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+vā́japastyam ← vā́japastya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +179,4 @@ Ihn, der voranstrahlt, mögen wir, die Fürsten und, o Freunde, ihr Erlangen ihn
 Хотели бы достигнуть – (этот) груз из наград,  
 Хотели бы захватить – (этот) дом из наград!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; repeated line  
 popular  
 popular  
 popular
+#### Morph
+bhīmáḥ ← bhīmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+giriṣṭhā́ḥ ← giriṣṭhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kucaráḥ ← kucará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥gáḥ ← mr̥gá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jagantha ← √gam- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+párasyāḥ ← pára- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pavím ← paví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saṁśā́ya ← √śā- ~ śī- (root)  
+{non-finite:CVB}
+
+sr̥kám ← sr̥ká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tigmám ← tigmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mŕ̥dhaḥ ← mŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+nudasva ← √nud- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tāḷhi ← √takṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +226,4 @@ Du bist aus weiter Ferne hergekommen, ein grimmer Leu, der durch die Berge hinst
 Оттачивая лезвие, острый наконечник,  
 Обезглавь врагов, разгони противников!
 </details>
+

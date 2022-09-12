@@ -16,14 +16,54 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhr̥távratāḥ ← dhr̥távrata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kṣatríyāḥ ← kṣatríya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yajñaniṣkŕ̥taḥ ← yajñaniṣkŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhiśríyaḥ ← abhiśrī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+adhvarā́ṇām ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+br̥haddivā́ḥ ← br̥haddivá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+adrúhaḥ ← adrúh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+agníhotāraḥ ← agníhotar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tasā́paḥ ← r̥tasáp- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+apáḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+asr̥jan ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+vr̥tratū́rye ← vr̥tratū́rya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +189,4 @@ Gesetzbeschirmer, Herrscher, Opferschmückende, die himmlischen Verschönrer jed
 
 -ru-
 </details>
+

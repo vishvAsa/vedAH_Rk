@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nahí ← nahí (invariable)  
+{}
+
+pratidhŕ̥ṣe ← √dhr̥ṣ- (root)  
+{case:DAT, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jámbhāsaḥ ← jámbha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vitíṣṭhase ← √sthā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hotar ← hótar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+súhutam ← súhuta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+váṁsva ← √vanⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+vā́ryā ← vā́rya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Unwiderstehlich ist, o Stier, ja dein Gebiss, wenn du, o Agni, dich erhebst; Mac
 О хотар, сделай, чтоб наше возлияние было хорошо возлито!  
 Добудь нам многие желанные дары!
 </details>
+

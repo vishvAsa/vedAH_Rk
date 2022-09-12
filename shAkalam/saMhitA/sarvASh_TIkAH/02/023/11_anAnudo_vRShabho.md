@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āhavám ← āhavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anānudáḥ ← anānudá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jágmiḥ ← jágmi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+níṣṭaptā ← níṣṭaptar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sāsahíḥ ← sāsahí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śátrum ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+brahmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+r̥ṇayā́ḥ ← r̥ṇayā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+damitā́ ← damitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugrásya ← ugrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vīḷuharṣíṇaḥ ← vīḷuharṣín- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +195,4 @@ Ein Held bist du, der nimmer weichend eilt zum Kampf, den Feind verbrennend, in 
 Ты настоящий мститель за вину, о Брахманаспати,  
 Подавляющий даже грозного, сильно ощетинившегося.
 </details>
+

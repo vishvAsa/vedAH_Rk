@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ā́ryā ← ā́rya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dhā́māni ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+śukrā́ḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+akṣaran ← √kṣar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+gómantam ← gómant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -94,7 +122,7 @@ have flowed to a prize of cows.
 In vs. 5 during his journey Soma “made it all Ārya”; here he crosses these Ārya domains (dhā́māny ā́ryā) on his journey to the cows’ milk. My interpr. takes this first acc. phrase as an acc. of extent, of space traversed, while the acc. in pāda c, vā́jaṃ gómantam I take as the goal of akṣaran. In the next vs., 15c, pavítram áti “across the filter” has the same function I see for dhā́māny ā́ryā here, and in fact the filter may be identified as the Ārya domains. By contrast Geldner takes dhā́māny ā́ryā as parallel goal to vā́jaṃ gómantam, while Renou characteristically supplies a separate participle (āviśántaḥ “ont occupé”) to govern dhā́māny ā́ryā. The parallels he cites in the n. do not seem sufficient to me.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 Again no particular signs of unity. The unmixed (“clear” śukrá-) soma in 14 is contrasted with the soma mixed with curds (dádhyāśir-) in 15.
@@ -123,3 +151,4 @@ Im Strom des Opfers gossen sie, die hellen, rinderreiches Gut Hin zu dem Sitz de
 
 -ru-
 </details>
+

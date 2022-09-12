@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥kṣase ← √praś- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:MED}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+údyatam ← √yam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yācāmahe ← √yāc- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+ámānuṣam ← ámānuṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hán ← √han- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+śúṣṇam ← śúṣṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +192,4 @@ Erfülle, Indra, das Gebet, das wir zu dir empor gelenkt, Die Gunst erbitten wir
 Мы просим тебя о такой помощи,  
 Чтобы ты убил Шушну-нечеловека!
 </details>
+

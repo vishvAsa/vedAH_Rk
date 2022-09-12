@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arbhakáḥ ← arbhaká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kumārakáḥ ← kumāraká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+návam ← náva- 2 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tiṣṭhat ← √sthā- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+mahiṣám ← mahiṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mr̥gám ← mr̥gá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pakṣat ← √pac- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mātré ← mātár- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+pitré ← pitár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vibhukrátum ← vibhukrátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +198,4 @@ Als kleiner, zarter Knabe schon bestieg den neuen Wagen er; Dem Vater und der Mu
 
 -ru-
 </details>
+

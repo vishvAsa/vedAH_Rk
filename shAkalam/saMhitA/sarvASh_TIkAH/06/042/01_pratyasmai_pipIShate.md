@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+pípīṣate ← √pā- 2 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+práti ← práti (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vidúṣe ← √vid- 2 (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+araṁgamā́ya ← araṁgamá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jágmaye ← jágmi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ápaścāddaghvane ← ápaścāddaghvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+náre ← nár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ Bring ihm, dem trunkbegierigen, dem weisen alle Tränke dar; Der hülfreich komm
 (Этому) появляющемуся, спешащему,  
 Не остающемуся позади мужу!
 </details>
+

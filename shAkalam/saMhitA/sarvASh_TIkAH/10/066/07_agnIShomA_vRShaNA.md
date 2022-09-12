@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnī́ṣómā ← agnī́-ṣóma- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vŕ̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+bruve ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+purupraśastā́ ← purupraśastá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+úpa ← úpa (invariable)  
+{}
+
+vŕ̥ṣaṇau ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+devayajyáyā ← devayajyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ījiré ← √yaj- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yaú ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+trivárūtham ← trivárūtha- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yaṁsataḥ ← √yam- (root)  
+{number:DU, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Die Stiere, Agni, Soma, rufe ich herbei, die vielgerühmten Stiere, Labung zu em
 
 -ru-
 </details>
+

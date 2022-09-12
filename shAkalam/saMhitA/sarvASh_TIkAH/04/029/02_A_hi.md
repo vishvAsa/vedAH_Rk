@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+cikitvā́n ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+náryaḥ ← nárya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+yā́ti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hūyámānaḥ ← √hū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+sotŕ̥bhiḥ ← sotár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ábhīruḥ ← ábhīru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mányamānaḥ ← √man- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sváśvaḥ ← sváśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+mádati ← √mad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+suṣvāṇébhiḥ ← √su- (root)  
+{case:INS, gender:M, number:PL, tense:PRF, voice:MED}
+
+vīraíḥ ← vīrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Schon kommt ja her der tapfere vernehmend, zum Opfer her gerufen von den Presser
 Обладатель прекрасных коней, (тот,) кто, слывя бесстрашным,  
 Пирует вместе с выжимающими (сому) мужами.
 </details>
+

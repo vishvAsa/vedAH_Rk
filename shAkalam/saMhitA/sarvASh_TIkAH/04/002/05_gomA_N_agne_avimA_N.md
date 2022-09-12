@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+aśvī́ ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávimān ← ávimant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gómān ← gómant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apramr̥ṣyáḥ ← apramr̥ṣyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+nr̥vátsakhā ← nr̥vátsakhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sádam ← sádam (invariable)  
+{}
+
+asura ← ásura- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+eṣáḥ ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+íḷāvān ← íḷāvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prajā́vān ← prajā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dīrgháḥ ← dīrghá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thubudhnáḥ ← pr̥thubudhná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sabhā́vān ← sabhā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Das Opfer, Agni, ausgeführt von Starken, ist reiches Gut an Rossen, Rindern, Sc
 Эта (жертва), о Асура, богатая подкрепляющим напитком, приносит потомство,  
 (Она -) длительное богатство, с широкой основой, (богатство), завоевывающее собрание.
 </details>
+

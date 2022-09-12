@@ -16,14 +16,54 @@ ChandaH = "पदपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+stómaiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+hr̥dispŕ̥śam ← hr̥dispŕ̥ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+óhaiḥ ← óha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+r̥dhyā́ma ← √r̥dh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +190,4 @@ Wir bringen heut' dir, – was Herz erquicket, – durch Lob, o Agni, Wie schön
 Словно благую – силу духа,  
 Чтобы она коснулась сердца, мы хотим донести до тебя с помощью восхвалений!
 </details>
+

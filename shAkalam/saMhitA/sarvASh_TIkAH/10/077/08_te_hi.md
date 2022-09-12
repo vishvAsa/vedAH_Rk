@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ū́māḥ ← ū́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yajñéṣu ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yajñíyāsaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ādityéna ← ādityá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nā́mnā ← nā́man- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śámbhaviṣṭhāḥ ← śámbhaviṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+avantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rathatū́ḥ ← rathatúr- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+cakānā́ḥ ← √kā- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+maháḥ ← máh- (nominal stem)  
+{case:NOM, number:PL}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ So mögen denn die ehrwürdigen Genossen bei dem Opfer, die durch der Aditja's W
 Да помогут они нашей молитве, (их толпа), обгоняющая колесницы,  
 (Они,) находящие удовольствие в обряде во время (своего) великого выезда!
 </details>
+

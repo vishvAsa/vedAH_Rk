@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ádrayaḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vadanti ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vimócane ← vimócana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+añjaspā́ḥ ← añjaspā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gha ← gha (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+upabdíbhiḥ ← upabdí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bī́jam ← bī́ja- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhānyākŕ̥taḥ ← dhānyākŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+vápantaḥ ← √vap- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+bápsataḥ ← √bhas- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+minanti ← √mī- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pr̥ñcánti ← √pr̥c- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +219,4 @@ So singen bei der Einkehr sie und auf der Fahrt, mit lautem Lärm die Steine Som
 
 -ru-
 </details>
+

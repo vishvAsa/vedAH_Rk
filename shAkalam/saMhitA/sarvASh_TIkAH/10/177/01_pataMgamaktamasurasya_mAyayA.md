@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+aktám ← √añj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ásurasya ← ásura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+māyáyā ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pataṁgám ← pataṁgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+paśyanti ← √paś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vipaścítaḥ ← vipaścít- (nominal stem)  
+{case:NOM, number:PL}
+
+antár ← antár (invariable)  
+{}
+
+cakṣate ← √cakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ichanti ← √iṣ- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+márīcīnām ← márīci- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vedhásaḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Den Vogel, der geschmückt ist durch des Gottes Kunst, beschaun die Weisen mit d
 В глубине океана разглядывают (его) поэты.  
 Устроители обряда ищут след лучей.
 </details>
+

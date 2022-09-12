@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+āsné ← āsán- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+óṣṭhau ← óṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vádantā ← √vadⁱ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pipyatam ← √pī- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+stánau ← stána- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nā́sā ← nás- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+rakṣitā́rā ← rakṣitár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+bhūtam ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+kárṇau ← kárṇa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+suśrútā ← suśrút- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +226,4 @@ Wie zwei Lippen die, dem Munde Süsses zuführen {vähantä zu lesen], wie zwei 
 Как две ноздри (будьте) защитниками нашего тела,  
 Как уши, хорошо нас услышьте!
 </details>
+

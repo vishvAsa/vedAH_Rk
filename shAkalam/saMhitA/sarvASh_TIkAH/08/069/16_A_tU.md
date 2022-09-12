@@ -17,15 +17,58 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dampate ← dámpati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suśipra ← suśiprá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tú ← tú (invariable)  
+{}
+
+hiraṇyáyam ← hiraṇyáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tiṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ádha ← ádha (invariable)  
+{}
+
+dyukṣám ← dyukṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sacevahi ← √sac- 1 (root)  
+{number:DU, person:1, mood:OPT, tense:PRS, voice:MED}
+
+aruṣám ← aruṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahásrapādam ← sahásrapad- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anehásam ← anehás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svastigā́m ← svastigā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +198,4 @@ Besteige, o Hausherr [Indra], der du schönen Helm trägst, den goldenen Wagen, 
 
 -ru-
 </details>
+

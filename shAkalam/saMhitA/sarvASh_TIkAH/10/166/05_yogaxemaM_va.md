@@ -18,16 +18,77 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+ādā́ya ← √dā- 1 (root)  
+{non-finite:CVB}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yogakṣemám ← yogakṣemá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+bhūyāsam ← √bhū- (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+uttamáḥ ← uttamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+akramīm ← √kramⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+mūrdhā́nam ← mūrdhán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+adhaspadā́t ← adhaspadá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+út ← út (invariable)  
+{}
+
+vadata ← √vadⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+maṇḍū́kāḥ ← maṇḍū́ka- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+udakā́t ← udaká- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+maṇḍū́kāḥ ← maṇḍū́ka- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+udakā́t ← udaká- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +243,4 @@ Eur Wirken mir und euer Ruhn aneignend werd' ich mächt'ger sein; Als unterworfn
 Как лягушки из воды,  
 Как из воды лягушки!
 </details>
+

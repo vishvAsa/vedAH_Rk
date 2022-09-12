@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́yuni ← ā́yu- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+járasva ← √gr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+svapatyé ← svapatyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+didīhi ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pinvasva ← √pinv- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+ūrjā́ ← ū́rj- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+jāgr̥ve ← jā́gr̥vi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jinva ← √ji- 2 ~ jinv- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+váyāṁsi ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uśík ← uśíj- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vipā́m ← víp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +241,4 @@ O Agni rausche uns zu kinderreicher Kraft, an Nahrung strotze, Tränke strahle u
 Оживи жизненные силы и высокие (силы), о бдительный!  
 Ты Ушидж среди богов, ты наделен прекрасной силой духа вдохновенных слов.
 </details>
+

@@ -14,12 +14,40 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+marúdbhiḥ ← marút- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+suvī́rā ← suvī́ra- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+víṭ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nr̥mṇám ← nr̥mṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+púṣyantī ← √puṣ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+sáhantī ← √sah- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+sanā́t ← sanā́t (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +143,4 @@ Dies Volk der Helden, – durch Maruts sei es Für immer siegreich – und Mannh
 Пусть это племя благодаря Марутам будет богатым прекрасными мужами,  
 Побеждая навсегда, процветая благодаря мужеству!
 </details>
+

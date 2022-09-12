@@ -15,13 +15,59 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áste ← ásta- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+r̥ṇvan ← √r̥- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vásavaḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+kútas ← kútas (invariable)  
+{}
+
+supraticákṣam ← supraticákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́sa ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dakṣā́yyaḥ ← dakṣā́yya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+nítyaḥ ← nítya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +186,4 @@ Den schön zu schau'nden Agni setzten nieder daheim die Vasu's, überall zur Hü
 (Его,) приятного для созерцания – для помощи со всех сторон,  
 Кого надо лелеять, кто всегда был своим в доме.
 </details>
+

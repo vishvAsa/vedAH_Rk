@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jígāsi ← √gā- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pā́dā ← pád- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+r̥ṣvā́ ← r̥ṣvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+ávardhan ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+vā́jā ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yé ← yá- (pronoun)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sālāvr̥kā́n ← sālāvr̥ká- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+āsán ← āsán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+dadhiṣe ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+vavr̥tyāḥ ← √vr̥t- (root)  
+{number:SG, person:2, mood:OPT, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +228,4 @@ Gross sind deine Schritte, wenn du vorwärts gehst; es stärkten dich die Speise
 Ты, о Индра, тысячу гиен  
 Держишь во рту. Поверни (к нам) Ашвинов!
 </details>
+

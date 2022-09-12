@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhā́rā ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nr̥cákṣasaḥ ← nr̥cákṣas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+havate ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+bŕ̥haspáte ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+didyute ← √dyut- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+raváthena ← ravátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+samudrā́saḥ ← samudrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sávanāni ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vivyacuḥ ← √vyac- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Es rieselt hell des männerschaunden Soma Strom; die Götter ruft durch heil'ges
 Он сверкает одновременно с ревом Брихаспати.  
 Как моря(-реки), они вобрали в себя выжимания.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+duhánti ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ékām ← éka- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dvā́ ← dvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+páñca ← páñca- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sr̥jataḥ ← √sr̥j- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+síndhoḥ ← síndhu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+svaré ← svará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tīrthé ← tīrthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Es melken sieben eine Kuh, zwei setzen fünf in Thätigkeit, An Stromes Rauschen
 Две (руки) подпускают (к ней) пятерых (телят)  
 У брода реки под звук (песен).
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ánuvittaḥ ← √vid- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pánthāḥ ← pánthā- ~ path- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purāṇáḥ ← purāṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+udájāyanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yátas ← yátas (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+átas ← átas (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+janiṣīṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED, mood:PREC}
+
+právr̥ddhaḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+amuyā́ ← amuyā́ (invariable)  
+{}
+
+kar ← √kr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+páttave ← √pad- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Dies ist der Weg, der aufgefundne, alte, auf dem die Götter alle sind geboren, 
 Да не свалит он мать таким образом!  
 Индра:
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bahúbhiḥ ← bahú- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+vasavyaìḥ ← vasavyà- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vr̥tā́ ← vŕ̥t- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yántam ← √i- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+gman ← √gam- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+jāgr̥vā́ṁsaḥ ← √gr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+darśatám ← darśatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rúśantam ← rúśant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dīdivā́ṁsam ← √dī- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+vapā́vantam ← vapā́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśváhā ← viśváhā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Die, welche Gaben brachten, flehn den Gott an, der wie umschart von vielen Güte
 За сверкающим Агни, приятным на вид, высоким,  
 Покрытым пленкой (жира?), все дни сияющим.
 </details>
+

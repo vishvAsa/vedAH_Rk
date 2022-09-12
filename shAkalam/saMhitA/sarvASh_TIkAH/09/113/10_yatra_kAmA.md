@@ -17,15 +17,76 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+ca ← ca (invariable)  
+{}
+
+kā́māḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nikāmā́ḥ ← nikāmá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+bradhnásya ← bradhná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+viṣṭápam ← viṣṭápa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+svadhā́ ← svadhā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tŕ̥ptiḥ ← tŕ̥pti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tátra ← tátra (invariable)  
+{}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +223,7 @@ The phrase bradhnásya viṣṭápam is found also in VIII.69.7, where I take it
 As Oldenberg and Geldner (n. 10c) point out (see also Doniger (134 and n. 5), svadhā́- and the root √tṛp ‘satisfy’ are associated with offerings to the Pitars (dead ancestors).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/08-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/08-11.md">
 <details open><summary><h2>08-11 ...{Loading}...</h2></summary>
 
 In addition to the fifth pāda refrain found throughout the hymn (as well as IX.112 and 114), these four vss. add a refrain in the fourth pāda: tátra mā́m amṛ́taṃ kṛdhi “there make me immortal,” each time serving as the main clause for a set of yátra clauses.
@@ -190,3 +251,4 @@ Wo Wunsch zugleich Erfüllung ist, und höchster Ort dem Flammenross, Wo Sehnsuc
 
 -ru-
 </details>
+

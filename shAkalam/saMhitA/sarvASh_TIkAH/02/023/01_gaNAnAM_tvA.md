@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gaṇā́nām ← gaṇá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+gaṇápatim ← gaṇápati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+kavím ← kaví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kavīnā́m ← kaví- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+upamáśravastamam ← upamáśravastama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+brahmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+bráhmaṇām ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+jyeṣṭharā́jam ← jyeṣṭharā́j- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sā́danam ← sā́dana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sīda ← √sad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śr̥ṇván ← √śru- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Wir rufen dich den Scharenherrn der Scharen an, den Weisen dich, der Weisen hoch
 Лучшего царя молитв, о Брахманаспати.  
 Прислушиваясь к нам, сядь на сиденье со (своими) поддержками.
 </details>
+

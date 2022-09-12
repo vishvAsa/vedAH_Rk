@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+áditaye ← áditi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ánāgasaḥ ← ánāgas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+savé ← savá- 1 (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+dhīmahi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+vāmā́ni ← vāmá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +139,4 @@ Vor Aditi von Schuld befreit, beim Werk des Gottes Savitar Erlangen alles Schön
 По повелению бога Савитара  
 Да получим мы все хорошие вещи!
 </details>
+

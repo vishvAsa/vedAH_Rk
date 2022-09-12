@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+janáyan ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kármāṇi ← kárman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+viśvaújāḥ ← viśvaújas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yujā́ ← yúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+aśastihā́ ← aśastihán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+turāṣā́ṭ ← turāṣáh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvámanāḥ ← viśvámanas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pītvī́ ← √pā- 2 (root)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vr̥dhānáḥ ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+adhamat ← √dhamⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dásyūn ← dásyu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+nís ← nís (invariable)  
+{}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yudhā́ ← yúdh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +218,4 @@ Allmächtig, mit dem Freund die Thaten wirkend, die Bösen schlagend, feindbezwi
 Напившись сомы, возросший до неба  
 Герой в сражении сдул дасью прочь.
 </details>
+

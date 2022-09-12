@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+bhuvam ← √bhū- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūrvyáḥ ← pūrvyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásunaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+dhánāni ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jayāmi ← √ji- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+śáśvataḥ ← śáśvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+havante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+jantávaḥ ← jantú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+bhajāmi ← √bhaj- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+bhójanam ← bhójana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Ich ward der allererste Herr des Guts; ich erobere alle Schätze zusammen. Mich 
 Меня призывают (роды людские), как дети – отца.  
 Я наделяю едой почитающего (меня).
 </details>
+

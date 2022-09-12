@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ha ← ha (invariable)  
+{}
+
+iṣitā́ ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+jātaú ← √janⁱ- (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+námobhiḥ ← námas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+satré ← satré (invariable)  
+{}
+
+kumbhé ← kumbhá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rétaḥ ← rétas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samānám ← samāná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+siṣicatuḥ ← √sic- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+iyāya ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mádhyāt ← mádhya- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mā́naḥ ← mā́na- 1 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tátas ← tátas (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+jātám ← √janⁱ- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+ŕ̥ṣim ← ŕ̥ṣi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tátas ← tátas (invariable)  
+{}
+
+vásiṣṭham ← vásiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +234,7 @@ In b the pf. siṣicatuḥ has a retroflexed root init., as we would expect. But
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/033/10-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/033/10-13.md">
 <details open><summary><h2>10-13 ...{Loading}...</h2></summary>
 
 Oldenberg discusses Vasiṣṭha’s two births and suggests that they are presented in reverse chronological order. The birth depicted in vs. 10 is the second birth, while 11-13 treat the first. In the first birth Mitra and Varuṇa emit semen at a Sattra, which falls into a pot and ultimately gives rise to the seer Agastya. But a drop of this semen is taken into a lotus, somehow comes to the Apsaras Urvaśī, who somehow conceives and gives birth to Vasiṣṭha “from mind.” In the second birth the wondrously conceived divine being of the 1st birth is received into a human Gotra.
@@ -207,3 +268,4 @@ Die beiden zugleich geborenen [Mitra und Varuna], durch Gebete erregt, ergossen 
 Оттуда из середины возник Мана,  
 Оттуда, говорят, родился риши Васиштха.
 </details>
+

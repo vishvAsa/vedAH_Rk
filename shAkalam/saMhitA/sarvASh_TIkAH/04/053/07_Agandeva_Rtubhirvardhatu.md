@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agan ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣáyam ← kṣáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥túbhiḥ ← r̥tú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+várdhatu ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dádhātu ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suprajā́m ← suprajā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áhabhiḥ ← áhar ~ áhan- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+jinvatu ← √ji- 2 ~ jinv- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+kṣapā́bhiḥ ← kṣapā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+invatu ← √i- 2 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+prajā́vantam ← prajā́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +240,4 @@ Es kam der Gott zur Opferzeit, er mehre Gut, und kinderreichen Segen schenk uns 
 Пусть вселяет в нас жизнь ночами и днями!  
 Пусть усилит нас богатством в виде потомства!
 </details>
+

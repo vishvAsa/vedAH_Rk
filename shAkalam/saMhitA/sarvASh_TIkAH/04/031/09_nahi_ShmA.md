@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+caná ← caná (invariable)  
+{}
+
+nahí ← nahí (invariable)  
+{}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+āmúraḥ ← āmúr- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+várante ← √vr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+cyautnā́ni ← cyautná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+kariṣyatáḥ ← √kr̥- (root)  
+{case:ACC, gender:M, number:SG, tense:FUT, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +161,4 @@ Denn deine Gaben hemmen auch selbst hundert Feinde nimmermehr, Noch deine Thaten
 Ни сотня вредителей,  
 Ни дела, когда ты (их) собираешься совершить.
 </details>
+

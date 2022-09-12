@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+gotrabhídam ← gotrabhíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+govídam ← govíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vájrabāhum ← vájrabāhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ájma ← ájman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+jáyantam ← √ji- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pramr̥ṇántam ← √mr̥̄- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+sajātāḥ ← sajātá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vīrayadhvam ← √vīray- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ánu ← ánu (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rabhadhvam ← √rabh- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sakhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +209,4 @@ Der blitzbewehrt den Stall erschliesst, die Kühe erringt und Bahn sich bricht m
 
 -ru-
 </details>
+

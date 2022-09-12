@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mīḷhúṣe ← mīḍhváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sajóṣāḥ ← sajóṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vaiśvānarā́ya ← vaiśvānará- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhā́ḥ ← bhā́s- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dāśema ← √dāś- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+ánūnena ← ánūna- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+br̥hatā́ ← br̥hánt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vakṣáthena ← vakṣátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ródhaḥ ← ródhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stabhāyat ← √stambhⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+upamít ← upamít- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Wie mögen wir vereint dem Männerhorte das grosse Licht dem gnäd'gen Agni weih
 В (своем) совершенном высоком возрастании  
 Он укрепил (небо,) как опорный столб-стену.
 </details>
+

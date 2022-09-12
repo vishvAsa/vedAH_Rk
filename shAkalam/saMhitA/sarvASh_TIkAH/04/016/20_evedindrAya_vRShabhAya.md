@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+evá ← evá (invariable)  
+{}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+vr̥ṣabhā́ya ← vr̥ṣabhá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+akarma ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+bhŕ̥gavaḥ ← bhŕ̥gu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+sakhyā́ ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+viyóṣat ← √yu- 2 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tanūpā́ḥ ← tanūpā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +230,7 @@ Note that tanūpā́ḥ picks up 7d tanvò bodhi gopā́ḥ.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/016/20-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/016/20-21.md">
 <details open><summary><h2>20-21 ...{Loading}...</h2></summary>
 
 These two vss. provide a double ending to this hymn. The first (20) begins, as summary vss. often do, with evá ‘just in this way’. It announces selfreferentially, with the root aor. akarma “we have just made,” that the hymn being completed is the bráhman- we have created for Indra. And, as noted above ad vs. 18, the purpose clauses with subjunctive provide reassurance for the worried questions in 18ab. Vs. 21 is repeated as the final verse of the seven hymns IV.17, 19-24, so it serves as a refrain vs. for (some of) the Vāmadeva Indra hymns. It also announces, with a root aor. (though aor. passive), that the formulation has just been made (ákāri … bráhma). Despite the apparent duplication, we should not necessarily assume that this refrain was tacked onto an already complete hymn, because gṛṇānáḥ at the end of 21a may form a ring with the same word at the end of vs. 1.
@@ -198,3 +262,4 @@ So haben wir dem starken Stiere, Indra, Gebet gemacht wie Bhrigu's einst den Wag
 Чтобы никогда не расторглась наша дружба,  
 (Чтобы) был он нашим грозным покровителем, (нашим) телохранителем!
 </details>
+

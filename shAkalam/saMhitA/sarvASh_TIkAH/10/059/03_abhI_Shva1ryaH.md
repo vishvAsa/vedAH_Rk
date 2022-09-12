@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+aryáḥ ← arí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bhavema ← √bhū- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+paúṁsyaiḥ ← paúṁsya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+ájrān ← ájra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bhū́mim ← bhū́mi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+giráyaḥ ← girí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ciketa ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+jaritā́ ← jaritár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jihītām ← √hā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+nírr̥tiḥ ← nírr̥ti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+parātarám ← parātarám (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +225,4 @@ Wir mögen alle Feinde überragen, wie Erd' der Himmel, wie der Berg die Fluren,
 Все это понимает наш певец.  
 Как можно дальше пусть отступит Ниррити!
 </details>
+

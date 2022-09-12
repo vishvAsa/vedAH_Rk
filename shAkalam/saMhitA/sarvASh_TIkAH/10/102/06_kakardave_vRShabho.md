@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+kakárdave ← kakárdu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yuktáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ávāvacīt ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+keśī́ ← keśín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sā́rathiḥ ← sā́rathi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánasā ← ánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+drávataḥ ← √dru- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dúdheḥ ← dúdhi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+yuktásya ← √yuj- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+mudgalā́nīm ← mudgalā́nī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+niṣpádaḥ ← niṣpád- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+r̥chánti ← √r̥- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sma ← sma (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +200,4 @@ Dem Knurrer war der Stier geschirrt zur Seite, es brüllte laut sein mähniger G
 
 -ru-
 </details>
+

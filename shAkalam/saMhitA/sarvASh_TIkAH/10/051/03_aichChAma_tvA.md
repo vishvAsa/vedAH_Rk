@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+aíchāma ← √iṣ- 2 (root)  
+{number:PL, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+bahudhā́ ← bahudhā́ (invariable)  
+{}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+óṣadhīṣu ← óṣadhī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+práviṣṭam ← √viś- (root)  
+{case:NOM, gender:M, number:SG, voice:PASS}
+
+aciket ← √ci- 3 (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+citrabhāno ← citrábhānu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yamáḥ ← yamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+atirócamānam ← √ruc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+daśāntaruṣyā́t ← daśāntaruṣyá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,8 +165,6 @@ popular
 \*(achikech: the same root as chayana as in agni-chayana the piling of fire altar)
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -163,3 +207,4 @@ Wir suchten hier und dort, o Wesenkenner, in Wassern, Kräutern, Agni, dich vers
 Просвечивающего изнутри в десяти местах обитания.  
 Агни:
 </details>
+

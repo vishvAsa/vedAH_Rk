@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+hiraṇyáyī ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rábhiḥ ← rábhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ákṣaḥ ← ákṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hiraṇyáyaḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īṣā́ ← īṣā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cakrā́ ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hiraṇyáyā ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +143,4 @@ Von Gold ist Achse, Deichsel euch, und euer Zugscheit ist von Gold, Und golden e
 Оглобли, ось золотая,  
 Оба колеса золотые.
 </details>
+

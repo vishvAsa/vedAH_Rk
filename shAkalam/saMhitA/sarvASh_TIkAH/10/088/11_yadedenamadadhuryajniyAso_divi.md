@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ádadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+yajñíyāsaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āditeyám ← āditeyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ábhūtām ← √bhū- (root)  
+{number:DU, person:3, mood:IND, tense:AOR, voice:ACT}
+
+cariṣṇū́ ← cariṣṇú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mithunaú ← mithuná- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+apaśyan ← √paś- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ā́t ← ā́t (invariable)  
+{}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Als an den Himmel ihn die heil'gen setzten, als Sonnengott die Götter den Aditj
 Когда появилась бродячая пара,  
 Только тогда все существа прозрели.
 </details>
+

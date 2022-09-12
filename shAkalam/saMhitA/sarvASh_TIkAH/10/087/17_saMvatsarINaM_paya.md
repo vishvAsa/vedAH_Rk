@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+saṁvatsarī́ṇam ← saṁvatsarī́ṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+usríyāyāḥ ← usríya- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+aśīt ← √aśⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+nr̥cakṣaḥ ← nr̥cákṣas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+yātudhā́naḥ ← yātudhā́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pīyū́ṣam ← pīyū́ṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+títr̥psāt ← √tr̥p- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT, mood:DES}
+
+yatamáḥ ← yatamá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+arcíṣā ← arcís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+márman ← márman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pratyáñcam ← pratyáñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vidhya ← √vyadh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Die Milch der Kuh ergiesst sich alle Jahre; nicht trink von ihr der Böse, Mensc
 Кто молозиво хочет отнять, о Агни,  
 Того пронзи сзади пламенем в уязвимое место!
 </details>
+

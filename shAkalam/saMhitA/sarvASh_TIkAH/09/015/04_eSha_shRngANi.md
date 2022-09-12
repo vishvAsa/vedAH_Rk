@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dódhuvat ← √dhū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śŕ̥ṅgāṇi ← śŕ̥ṅga- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śíśīte ← √śā- ~ śī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yūthyàḥ ← yūthyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+nr̥mṇā́ ← nr̥mṇá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,3 +137,4 @@ Er wetzt die Hörner, schüttelt sie, der Stier der Heerde, wenn er sich Mit Man
 Потрясая (ими), бык в стаде,  
 Проникаясь мужеством с (огромной) силой.
 </details>
+

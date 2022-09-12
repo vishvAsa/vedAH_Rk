@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ācárantī ← √carⁱ- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+sámanā ← sámana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bibhr̥tām ← √bhr̥- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+saṁvidāné ← √vid- 2 (root)  
+{case:NOM, gender:F, number:DU, tense:PRF, voice:MED}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vidhyatām ← √vyadh- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ā́rtnī ← ā́rtnī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+viṣphurántī ← √sphr̥̄- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Hinwandernd beide, wie die Braut zur Hochzeit, tragt ihr im Schooss sie, wie den
 Пусть отбрасывают они вместе врагов  
 Эти два конца лука, обращая в бегство недругов!
 </details>
+

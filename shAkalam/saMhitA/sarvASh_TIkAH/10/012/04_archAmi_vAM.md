@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápaḥ ← ápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+árcāmi ← √r̥c- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ghr̥tasnū ← ghr̥tásnu- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+várdhāya ← várdha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dyā́vābhūmī ← dyā́vābhū́mī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+śr̥ṇutám ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+áhā ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ásunītim ← ásunīti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áyan ← √i- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+dyā́vaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+mádhvā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pitárā ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śiśītām ← √śā- ~ śī- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +211,4 @@ Eur Werk zu fördern sing' ich, Erd' und Himmel, ihr Welten hört mich, die von 
 Когда (наши) дни и светлые времена канут в небытие,  
 Пусть тогда (наши) родители придадут (нам) сил (своим) медом!
 </details>
+

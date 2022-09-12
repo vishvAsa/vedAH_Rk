@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+adáḥ ~ adó ← asaú (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+salilé ← salilá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+átiṣṭhata ← √sthā- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+súsaṁrabdhāḥ ← súsaṁrabdha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+átra ← átra (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+nŕ̥tyatām ← √nr̥t- (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+āyata ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+reṇúḥ ← reṇú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tīvráḥ ← tīvrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +189,4 @@ Als dort ihr standet in der Flut, o Götter, wohl befestiget, Da flog von euch d
 То от вас, как от танцующих,  
 Исходила густая пыль.
 </details>
+

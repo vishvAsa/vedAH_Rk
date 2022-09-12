@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+kave ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pávamānasya ← √pū- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+asr̥kṣata ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+sárgāḥ ← sárga- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́jin ← vājín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+árvantaḥ ← árvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śravasyávaḥ ← śravasyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -94,7 +122,7 @@ Of you purifying yourself, o poet and prizewinner, the surges have surged, like 
 Soma’s acquisition of “imperishable fame” in 7c is anticipated, as it were, by his streams, likened to horses, “seeking fame” (śravasyávaḥ).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 This tṛca is thematically unified by the journey theme, reinforced by two forms of √sṛj in vss. 10 (asṛkṣata) and 11 (ásṛgram), the former in an etym. figure. Note the juxtaposition of the newer s-aor. 3rd pl. middle and the older root aorist, with no apparent functional or semantic difference. On these two formations see Narten (Sig.Aor. 270-71); she claims that they were originally differentiated functionally and still are occasionally (see IX.86.4), but in almost all occurrences this difference has been lost.
@@ -123,3 +151,4 @@ O Weiser, deine Ströme sind ergossen, rascher, flammender! Wie Renner strebend 
 
 -ru-
 </details>
+

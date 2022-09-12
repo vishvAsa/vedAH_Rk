@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+dadruḥ ← √drā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jánayaḥ ← jáni- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+ádrayaḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+ráthāḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sākám ← sākám (invariable)  
+{}
+
+yayuḥ ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+átarpayaḥ ← √tr̥p- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ubjáḥ ← √ubj- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ūrmī́n ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+visŕ̥taḥ ← visŕ̥t- (nominal stem)  
+{case:ACC, number:PL}
+
+ariṇāḥ ← √rī- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+síndhūn ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vr̥tā́n ← √vr̥- (root)  
+{case:ACC, gender:M, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +229,4 @@ Sie eilten fort wie Mütter zu dem Kinde, die Steine rollten alle fort wie Wagen
 Ты утишил текущие сквозь (горы воды), удержал (их) волны.  
 Ты пустил течь, о Индра, замкнутые реки.
 </details>
+

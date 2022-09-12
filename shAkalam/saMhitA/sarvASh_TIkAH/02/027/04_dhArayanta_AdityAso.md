@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ādityā́saḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhāráyantaḥ ← √dhr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+jágat ← jágat- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sthā́ḥ ← sthā́- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asuryàm ← asuryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dīrghā́dhiyaḥ ← dīrghā́dhī- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rákṣamāṇāḥ ← √rakṣⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+cáyamānāḥ ← √ci- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+r̥ṇā́ni ← r̥ṇá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+r̥tā́vānaḥ ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +194,4 @@ Was geht und steht, erhalten die Aditja's, des ganzen Weltalls himmlische Behüt
 С далеко простирающейся мыслью, охраняющие мир асуров,  
 Соблюдающие (вселенский) закон, наказывающие за вину.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+eṣáḥ ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hvayati ← √hvā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+aṅgá ← aṅgá (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+avadhīt ← √vadhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dā́ru ← dā́ru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+eṣáḥ ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+araṇyānyā́m ← araṇyāní- ~ araṇyānī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sāyám ← sāyám (invariable)  
+{}
+
+vásan ← √vas- 3 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ákrukṣat ← √kruś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+manyate ← √man- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +195,4 @@ Dort ruft wol einer seine Kuh, dort hat wol einer Holz gefällt, Jetzt schrie es
 Тому, кто под вечер остался у Араньяни,  
 Чудится: (кто-то) закричал.
 </details>
+

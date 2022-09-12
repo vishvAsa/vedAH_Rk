@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+ná ← ná (invariable)  
+{}
+
+ukthébhiḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vindháte ← √vidh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cikít ← cikít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥ṣicódanaḥ ← r̥ṣicódana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+matī́ ← matí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+návyasyā ← návyas- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vada ← √vadⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+áriṣyantam ← áriṣyant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhójase ← √bhuj- 2 (root)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Den, welcher an Sprüchen keinen Mangel hat, den weisen, welcher den Dichter beg
 Этого Индру пригласи самой новой молитвой,  
 Как не причиняющего вреда, для вкушения.
 </details>
+

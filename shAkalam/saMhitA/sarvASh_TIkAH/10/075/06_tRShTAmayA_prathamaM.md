@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sajū́s ← sajū́s (invariable)  
+{}
+
+tr̥ṣṭā́mayā ← tr̥ṣṭā́mā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yā́tave ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
+rasáyā ← rasā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+susártvā ← susártu- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śvetyā́ ← śvetyá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tyā́ ← syá- ~ tyá- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+gomatī́m ← gomatī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+krúmum ← krúmu- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kúbhayā ← kúbhā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sindho ← síndhu- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ī́yase ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+mehatnvā́ ← mehatnū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sarátham ← sarátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Mit der Trischtama einst du dich voranzugehn, mit der Suvartu, Rasa und der Çve
 Ты, Синдху, с Кубхой (направляешься) к Гомати,  
 С Мехатну – к Круму, с которыми ты мчишься на одной колеснице.
 </details>
+

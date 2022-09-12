@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ácyutā ← ácyuta- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+tyā́ ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+paśúḥ ← paśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yávase ← yávasa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ajara ← ajára- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhā́ma ← √dhā- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+śíkvasaḥ ← śíkvas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vánā ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vr̥ścánti ← √vr̥śc- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +197,4 @@ Das Feste auch bemeisterst du, verzehrend Agni, wie das Vieh, Wenn, Ew'ger, dein
 Когда твои силы рубят  
 Деревья, о нестареющий, способный действовать (бог).
 </details>
+

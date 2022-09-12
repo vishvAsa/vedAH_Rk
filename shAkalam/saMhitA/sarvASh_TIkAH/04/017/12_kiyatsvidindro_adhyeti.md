@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kíyat ← kíyant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+svit ← svit (invariable)  
+{}
+
+jajā́na ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+janitúḥ ← janitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kíyat ← kíyant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+íyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+muhukaíḥ ← muhuká- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhraíḥ ← abhrá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+jūtáḥ ← √jū- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+stanáyadbhiḥ ← √stanⁱ- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +247,4 @@ Wieviel verdankt denn Indra seiner Mutter, dem Vater auch, dem Zeuger, der ihn z
 (Тот ) кто боевыми криками подгоняет его неистовство,  
 Словно ветер, гонимый грохочущими тучами...
 </details>
+

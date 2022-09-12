@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́gniveśim ← ā́gniveśi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gr̥ṇīṣe ← √gr̥̄- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+sahasrasā́m ← sahasrasā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ketúm ← ketú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śátrim ← śátri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+upamā́m ← upamá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pīpayanta ← √pī- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRF, voice:MED}
+
+saṁyátaḥ ← saṁyát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ámavat ← ámavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+tveṣám ← tveṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Den Çatri preise ich, den Nachkommen des Agniveça, der tausend Gaben schenkt, 
 Да будут воды непрерывно набухать для него!  
 Да пребывает у него грозная (и) сильная власть!
 </details>
+

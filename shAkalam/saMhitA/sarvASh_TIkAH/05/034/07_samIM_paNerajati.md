@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajati ← √aj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhójanam ← bhójana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+muṣé ← √muṣⁱ- (root)  
+{case:DAT, number:SG}
+
+paṇéḥ ← paṇí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+bhajati ← √bhaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sūnáram ← sūnára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+dhriyate ← √dhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+durgé ← durgá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+purú ← purú- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víśvaḥ ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ácukrudhat ← √krudh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+táviṣīm ← táviṣī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +250,4 @@ Des Geiz'gen Nahrung nimmt zum Raube er hinweg, und dem Verehrer theilt er aus d
 Не раз оказывается в беде весь  
 Народ, который раздразнил его силу.
 </details>
+

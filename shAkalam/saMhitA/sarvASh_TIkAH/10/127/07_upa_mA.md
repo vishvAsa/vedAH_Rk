@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+pépiśat ← √piś- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+asthita ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+kr̥ṣṇám ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vyàktam ← √añj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+r̥ṇā́ ← r̥ṇá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+yātaya ← √yat- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,3 +160,4 @@ Genaht ist mir die glänzende, die schön das schwarze Dunkel schmückt, Streich
 Мрак, черный, сверкающий (звездами).  
 О Ушас, искупи (его), как (искупают) долги!
 </details>
+

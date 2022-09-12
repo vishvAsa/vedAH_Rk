@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asiṣyadat ← √syand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+apajáṅghanat ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rákṣāṁsi ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pratnavát ← pratnavát (invariable)  
+{}
+
+rocáyan ← √ruc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rúcaḥ ← rúc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,3 +129,4 @@ Er hat geströmt der rieselnde fortstossend die Gespensterschar Und Licht entfla
 
 -ru-
 </details>
+

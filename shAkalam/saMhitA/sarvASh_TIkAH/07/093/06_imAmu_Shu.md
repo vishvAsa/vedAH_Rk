@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sómasutim ← sómasuti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+indrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+saumanasā́ya ← saumanasá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+parimamnā́the ← √man- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+śáśvadbhiḥ ← śáśvant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vā́jaiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vavr̥tīya ← √vr̥t- (root)  
+{number:SG, person:1, mood:OPT, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ O kommt herbei zu dieser Somapressung zu grossem Heil uns rasch, o Indra-Agni; D
 Ведь никогда вы нами не пренебрегали.  
 Я хотел бы вас привлечь к себе постоянными наградами.
 </details>
+

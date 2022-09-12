@@ -16,14 +16,54 @@ ChandaH = "पुरस्ताद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ahastā́ ← ahastá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+apádī ← apád- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kṣā́ḥ ← kṣám- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+várdhata ← √vr̥dh- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vedyā́nām ← vedyā́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+pradakṣiṇít ← pradakṣiṇít (invariable)  
+{}
+
+śúṣṇam ← śúṣṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+śiśnathaḥ ← √śnathⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+viśvā́yave ← viśvā́yu- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +177,4 @@ Damit die Erde, ob auch ohne Fuss und Hand, erblühe durch der Weisheit Kraft, S
 Обо(иди) вокруг Шушны справа,  
 Столкни его на вечные времена!
 </details>
+

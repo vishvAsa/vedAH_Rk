@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́yan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+prasavám ← prasavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+jagmuḥ ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+rathyā̀ ← rathī́- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+átas ← átas (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sádasaḥ ← sádas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+várīyān ← várīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aṁśúḥ ← aṁśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dugdháḥ ← √duh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+īm ← īm (invariable)  
+{}
+
+pr̥ṇáti ← √pr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +223,7 @@ On prasaváṃ yáthā see disc. of dravád yáthā ad III.35.2. In b the proble
 
 jagmuḥ b) don’t make much sense if the point of the half-vs. is simply to serve as the standard of comparison for Indra’s width (pāda c), whereas the past tense does work in a brief re-narration of the situation in III.33. The word prasavá- here also echoes III.33, which contains 4 occurrences of that stem. And III.33.2 contains an undoubted example of the dual rathyā̀also marked as a simile in a similar context: áchā samudráṃ rathyèva yāthaḥ “you two drive like two charioteers to the sea,” referring to the two rivers, the Vipāś and the Śutudrī. The mixture of numbers, with pl. rivers in the frame and du. charioteers in the simile, is not surprising; even in III.33 the dual reference to these rivers soon gives way to plural. This mythic snatch having been told, the sea, so filled, is available to be compared, unfavorably, to Indra. Kümmel (77, 156, fld. by Witzel Gotō) also takes it as du, but as referring to two chariot horses. If the form is accepted as a dual here, it will have to be detached from rathyèva in VII.95.1, which see comm. ad loc. 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 The next three vss. ring changes on the theme of large bodies of water and large containers of soma.
@@ -188,3 +255,4 @@ Als wie zum Sturze vor die Ströme eilten, so rollten Rädern gleich zum Meer di
 Еще шире, чем это сидение, сам Индра,  
 Когда его наполняет сома, выдоенный стебель.
 </details>
+

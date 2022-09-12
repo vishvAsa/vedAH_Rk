@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+anakṣā́ ← anakṣá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́sa ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+duhitā́ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jā́tu ← jā́tu (invariable)  
+{}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+andhā́m ← andhá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+manyāte ← √man- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+kataráḥ ← katará- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mením ← mení- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mucāte ← √muc- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+váhāte ← √vah- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+vareyā́t ← √varey- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +250,4 @@ Wessen Tochter jemals augenlos war, wer möchte diese, sie als blind erkennend, 
 
 -ru-
 </details>
+

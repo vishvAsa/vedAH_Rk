@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+áruṣī ← áruṣī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+hí ← hí (invariable)  
+{}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yuṅgdhvám ← √yuj- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+rátheṣu ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+rohítaḥ ← rohít- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yuṅgdhvám ← √yuj- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ajirā́ ← ajirá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+dhurí ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vóḷhave ← √vah- (root)  
+{case:DAT, number:SG}
+
+yuṅgdhvám ← √yuj- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+dhurí ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+váhiṣṭhā ← váhiṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vóḷhave ← √vah- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +208,4 @@ Die rothen Stuten schirret an, die braunen an die Wagen euch, Die schnellen Füc
 Запрягайте двоих буланых коней, неутомимых у дышла, чтобы везти,  
 Лучше всех везущих у дышла, – чтобы везти!
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+cérave ← céru- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+bhágam ← bhága- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vásuttaye ← vásutti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vidā́ḥ ← √vid- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+gáviṣṭaye ← gáviṣṭi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+vāvr̥ṣasva ← √vr̥ṣ- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+áśvamiṣṭaye ← áśvamiṣṭi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +199,4 @@ So komm denn zu dem opfernden, verleih ihm Gut als reichen Lohn; Ergiesse dich, 
 Излейся (дарами), о щедрый, для того, кто ищет коров,  
 Из(лейся), о Индра, для того, кто ищет коней!
 </details>
+

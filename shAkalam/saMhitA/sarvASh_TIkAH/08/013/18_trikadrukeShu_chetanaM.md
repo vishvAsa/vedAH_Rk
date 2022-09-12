@@ -15,14 +15,48 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+cétanam ← cétana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tríkadrukeṣu ← tríkadruka- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+atnata ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vardhantu ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sadā́vr̥dham ← sadā́vr̥dha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +147,7 @@ See the discussion of the tṛca as a whole above.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/013/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/013/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 This tṛca begins and ends in the same way: 16a índraṃ vardhantu no gíraḥ and 18c tám íd vardhantu no gíraḥ … In between are several clauses with augmented verb forms (aor. arāniṣuḥ 16c, impf. avardhayan 17c, aor. atnata 18b). It is not immediately clear if these form a mythological or historical sequence or are unconnected observations about the mythological and/or historical past. The most specific statement is found in 18ab, with the gods stretching the sacrifice tríkadrukeṣu. This same verse is found in VIII.92.12, which, however, provides no contextual help. But, as Geldner points out, in I.32.3 Indra drinks soma tríkadrukeṣu before the Vṛtra battle, and II.11.17 and II.22.1 suggest the same scenario. If 18ab is somehow concerned with a soma sacrifice connected to the Vṛtra battle, then 17 may belong to the same complex, with the “inspired poets” of 17ab perhaps being the Maruts, who in some version of the myth encouraged Indra before the Vṛtra battle, and, again perhaps, their battle cries also strengthening Indra in 17c. Note that JPB tentatively identifies the Trikadrukas in I.32.3 and II.11.7, 22.1 as the Maruts. The clause in 16c may also belong with these mythological references, if the clans (víśaḥ) are the same as or equatable with the marútvatīr víśaḥ in 28c.
@@ -144,3 +178,4 @@ In den drei Kufen woben da die Götter schönes Opferwerk; Ihn kräft'ge unsrer 
 Жертву принесли боги.  
 Ее пусть и усилят наши хвалебные песни, (ее,) всегда усиливающуюся.
 </details>
+

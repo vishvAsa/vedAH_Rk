@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+prasnātī́ḥ ← √snā- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+usrā́ḥ ← usrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ághnyāḥ ← ághnya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hāsuḥ ← √hā- 2 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+kr̥śám ← kr̥śá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Nicht weich' von uns der Götter Schar, wie Rinder die ins Wasser gehn, Wie Küh
 
 -ru-
 </details>
+

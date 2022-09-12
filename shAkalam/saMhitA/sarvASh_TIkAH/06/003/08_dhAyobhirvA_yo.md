@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dhā́yobhiḥ ← dhā́yas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yújyebhiḥ ← yújya- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+davidyot ← √dyut- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+śúṣmaiḥ ← śúṣma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+svébhiḥ ← svá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+vidyút ← vidyút- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+śárdhaḥ ← śárdhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tatákṣa ← √takṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+adyaut ← √dyut- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+rabhasānáḥ ← rabhasāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥bhúḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tveṣáḥ ← tveṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Wenn er mit seinen eignen Flammen züngelt, so strahlt er blitzgleich hell mit s
 Или кто вытесал стаю Марутов,  
 Словно Рибху, засверкал, опасный, готовый схватить.
 </details>
+

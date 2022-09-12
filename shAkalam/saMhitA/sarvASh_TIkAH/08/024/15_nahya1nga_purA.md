@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+aṅgá ← aṅgá (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+nahí ← nahí (invariable)  
+{}
+
+purā́ ← purā́ (invariable)  
+{}
+
+jajñé ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+vīrátaraḥ ← vīrátara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhandánā ← bhandánā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+eváthā ← eváthā (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +171,4 @@ Denn wahrlich nimmer auch zuvor erstand ein stärkerer als du, Noch der dir glei
 Не рождался больший герой, чем ты,  
 Ни по богатству, ни так, ни по славным свершениям!
 </details>
+

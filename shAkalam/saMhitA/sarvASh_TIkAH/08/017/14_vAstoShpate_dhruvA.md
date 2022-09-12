@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhruvā́ ← dhruvá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pate ← páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sthū́ṇā ← sthū́ṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vā́stoḥ ← vā́stu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+áṁsatram ← áṁsatra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+somyā́nām ← somyá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+bhettā́ ← bhettár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+drapsáḥ ← drapsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purā́m ← púr- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+śáśvatīnām ← śáśvant- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+múnīnām ← múni- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +167,4 @@ O Hauses Herr, du bist eine feste Säule und ein Harnisch für die Somabereiter,
 Капля – проломитель всех крепостей.  
 Индра – друг воодушевленных.
 </details>
+

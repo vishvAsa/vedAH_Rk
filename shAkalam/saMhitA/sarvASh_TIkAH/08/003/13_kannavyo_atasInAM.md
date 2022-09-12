@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+atasī́nām ← atasí- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+návyaḥ ← návyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gr̥ṇīta ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+turáḥ ← turá- 1 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+indriyám ← indriyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nahí ← nahí (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+ānaśúḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+gr̥ṇántaḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +183,4 @@ Welch neues Lob soll bringen ihm der schnelle Mensch im Bettlerschwarm? Denn nie
 Ведь никогда не достигают этого свойственного Индре величия,  
 Те, кто воспевает солнце.
 </details>
+

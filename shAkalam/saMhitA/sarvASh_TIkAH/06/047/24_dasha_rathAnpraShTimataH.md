@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+práṣṭimataḥ ← práṣṭimant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ráthān ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+átharvabhyaḥ ← átharvan- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+adāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+aśvatháḥ ← aśvathá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pāyáve ← pāyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ Zehn mit Seitenpferden versehene Wagen und hundert Rinder gab Açvatha den Pries
 Сотню коров Атхарванам  
 (И) Паю подарил Ашватха.
 </details>
+

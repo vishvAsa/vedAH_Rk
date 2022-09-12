@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+jánitrī ← jánitrī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vāvr̥dhatuḥ ← √vr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dakṣata ← √dakṣ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dakṣā́yyāya ← dakṣā́yya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sakhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+bráhmaṇe ← bráhman- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+kárat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sugādhā́ ← sugādhá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sutárā ← sutára- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +198,4 @@ Des Gottes göttlich Aelternpaar, die Welten, sie zogen auf Brihaspati in Hoheit
 Угодите достойному угождения, о друзья!  
 Пусть создаст он для молитвы легко преодолимые с хорошим бродом (пути)!
 </details>
+

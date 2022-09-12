@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amítraiḥ ← amítra- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+avamaíḥ ← avamá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ghóṣaḥ ← ghóṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+śr̥ṇve ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+aśánim ← aśáni- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+eṣu ← ayám (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+jahí ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+tápiṣṭhām ← tápiṣṭha- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+adhástāt ← adhástāt (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+ruja ← √ruj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sáhasva ← √sah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+vr̥ścá ← √vr̥śc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+jahí ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rákṣaḥ ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+randháyasva ← √randh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +230,4 @@ Der Lärm erschallt von allernächsten Feinden, auf sie wirf nieder deinen schä
 Расщепи их сверху вниз! Расколи! Одолей!  
 Убей ракшаса, о щедрый! Отдай (нам) во власть!
 </details>
+

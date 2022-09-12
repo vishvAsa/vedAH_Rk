@@ -15,13 +15,44 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+añjí ← añjí- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+samānám ← samāná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+bāhúṣu ← bāhú- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+bhrājante ← √bhrāj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+rukmā́saḥ ← rukmá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+dávidyutati ← √dyut- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+r̥ṣṭáyaḥ ← r̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +147,4 @@ Sie tragen alle gleichen Schmuck, und Goldgeschmeide strahlt an ihren Armen ring
 Ярко сверкают золотые пластинки на руках,  
 Пронзительно блестят копья.
 </details>
+

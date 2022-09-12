@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+nakhám ← nakhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+siṣāya ← √sā- ~ si- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+suparṇáḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávaruddhaḥ ← √rudh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+paripádam ← paripád- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+siṁháḥ ← siṁhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+mahiṣáḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+niruddháḥ ← √rudh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+tarṣyā́vān ← tarṣyā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayátham ← ayátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+godhā́ ← godhā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+karṣat ← √kr̥ṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ Der Adler auch verwickelt seine Kralle, gefangen wie der Löwe in der Falle, Zur
 Тут ему крокодил и утащил ногу.  
 Автор:
 </details>
+

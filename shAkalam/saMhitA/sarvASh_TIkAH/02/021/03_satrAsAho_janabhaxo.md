@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+janabhakṣáḥ ← janabhakṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janaṁsaháḥ ← janaṁsahá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satrāsāháḥ ← satrāsāhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+cyávanaḥ ← cyávana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jóṣam ← jóṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ukṣitáḥ ← √vakṣ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yudhmáḥ ← yudhmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āritáḥ ← √ār- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sáhuriḥ ← sáhuri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vr̥taṁcayáḥ ← vr̥taṁcayá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kr̥tā́ni ← √kr̥- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+prá ← prá (invariable)  
+{}
+
+vīryā̀ ← vīryà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vocam ← √vac- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +215,4 @@ Der Allbezwinger der die Welt beherrscht, bezwingt, der mächt'ge Kämpfer wuchs
 Собирающий войско, известный среди племен как воинственный арья, –  
 Я хочу провозгласить совершенные подвиги (этого) Индры.
 </details>
+

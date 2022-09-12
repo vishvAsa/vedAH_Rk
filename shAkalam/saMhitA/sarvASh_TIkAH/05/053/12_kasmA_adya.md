@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+kásmai ← ká- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+sújātāya ← sújāta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+rātáhavyāya ← rātáhavya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yayuḥ ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yā́mena ← yā́ma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Zu welchem hochgeborenen, der Opfer spendet, drangen heut Auf ihrer Fahrt die Ma
 Приносителю жертв отправились  
 Сегодня Маруты по тому пути.
 </details>
+

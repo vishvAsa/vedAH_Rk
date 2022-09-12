@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+samasmai ← sama- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vŕ̥kāya ← vŕ̥ka- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vr̥kyè ← vr̥kī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+aghāyaté ← √aghāy- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rīradhata ← √randh- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+yajatrāḥ ← yájatra- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rathyàḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sthá ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tanū́nām ← tanū́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+babhūvá ← √bhū- (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vácasaḥ ← vácas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +229,4 @@ Nicht gebt uns hin dem Wolfe, nicht der Wölfin, noch irgend einem Schädiger, o
 Ведь вы колесничие наших тел,  
 Вы (всегда) были (колесничими) искусного слова.
 </details>
+

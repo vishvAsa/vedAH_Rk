@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ná ← ná (invariable)  
+{}
+
+r̥bhukṣáṇam ← r̥bhukṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vártave ← √vr̥- (root)  
+{case:DAT, number:SG}
+
+tugryāvŕ̥dham ← tugryāvŕ̥dh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ukthéṣu ← ukthá- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+sóme ← sóma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +139,4 @@ Den unhemmbaren Ribhuherrn, den Indra, Freund der Tugrier, Bei Sprüchen, bei de
 В гимнах – подкрепителя сына Тугры,  
 Индру у выжатого сомы,
 </details>
+

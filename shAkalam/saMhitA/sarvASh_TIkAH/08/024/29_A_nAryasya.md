@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dákṣiṇā ← dákṣiṇa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nāryásya ← nāryá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+somínaḥ ← somín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vyàśvān ← vyàśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sahásravat ← sahásravant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śatávat ← śatávant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sthūrám ← sthūrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ Des Nāria Opferlohn komme zu den mit Soma versehenen Viaçva's, und sein wuchti
 Пусть попадет к потомкам Вьяшвы, готовящим сому,  
 И внушительный почетный дар, сотенный, тысячный!
 </details>
+

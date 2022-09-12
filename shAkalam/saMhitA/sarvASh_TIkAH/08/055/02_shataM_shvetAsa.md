@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śvetā́saḥ ← śvetá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ukṣáṇaḥ ← ukṣán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rocante ← √ruc- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+tā́raḥ ← stár- ~ tár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dívam ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahnā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tastabhuḥ ← √stambhⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +146,4 @@ Hundert weisse Ochsen glänzen wie Sterne am Himmel, durch ihre Grösse stützen
 Как звезды на небе сверкают.  
 Громадностью (своей) они словно поддержали небо.
 </details>
+

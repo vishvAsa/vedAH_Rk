@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+marútvān ← marútvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráṇāya ← ráṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anuṣvadhám ← anuṣvadhám (invariable)  
+{}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jaṭháre ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+siñcasva ← √sic- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ūrmím ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pradívaḥ ← pradív- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutā́nām ← √su- (root)  
+{case:GEN, gender:M, number:PL, non-finite:PPP}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,8 +185,6 @@ genre M
 मदस्योत्पाद्यत्वे हेतुम् आह - **त्वं राजा सुतानां** सोमानां, तव **मदाय** सोमा अभिषूयन्त इति भावः, अतिक्रान्तेष्वप्यहस्सु त्वमेव सोमानां राजेति । यद्वा - त्वमेव ह्यतिक्रान्तेष्वहस्सु सुतानां राजाऽभूः, तस्मादिदानीमपि पिबेति प्रार्थ्यसे । प्रगता दिवसा अस्येति प्रदिवः । छान्दसोकारस्समासान्तः, 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् । मरुत्वानित्यत्र पूर्ववत्सांहितायां रुत्वादि ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -182,3 +235,4 @@ Zur Wonn', o Indra, mit den Maruts trinke, du Stier, zum Rausch nach eigner Lust
 Вливай себе в утробу сладкую волну!  
 От века ты царь над выжатыми соками.
 </details>
+

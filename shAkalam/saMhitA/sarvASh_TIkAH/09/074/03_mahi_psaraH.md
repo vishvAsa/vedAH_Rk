@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mádhu ← mádhu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+psáraḥ ← psáras- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+somyám ← somyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+súkr̥tam ← súkr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áditeḥ ← áditi- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+gávyūtiḥ ← gávyūti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+urvī́ ← urú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yaté ← √i- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ī́śe ← √īś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+itás ← itás (invariable)  
+{}
+
+usríyaḥ ← usríya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣṭéḥ ← vr̥ṣṭí- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+itáūtiḥ ← itáūti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+netā́ ← netár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥gmíyaḥ ← r̥gmíya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,3 +255,4 @@ Ihm, der Aditi's Werk betreibt, ist gross das Mahl, die Weide weit, und schön g
 (Сома тот,) кто правит дождем отсюда, (этот) рыжеватый бык,  
 Кто вождь вод, помогающий отсюда, достойный гимна.
 </details>
+

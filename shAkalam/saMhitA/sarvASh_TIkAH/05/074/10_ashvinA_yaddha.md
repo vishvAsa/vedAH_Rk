@@ -16,14 +16,66 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+ha ← ha (invariable)  
+{}
+
+kárhi ← kárhi (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+śuśrūyā́tam ← √śru- (root)  
+{number:DU, person:2, mood:OPT, tense:PRF, voice:ACT}
+
+bhújaḥ ← bhúj- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vásvīḥ ← vásu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pŕ̥caḥ ← pŕ̥c- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pr̥ñcánti ← √pr̥c- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ Wenn ihr, o Ritter, irgendwo vernommen habet diesen Ruf, Bereit stehn gute Speis
 Добрые яства прекрасно (приготовлены) для вас,  
 Прекрасно насыщают вас насыщения.
 </details>
+

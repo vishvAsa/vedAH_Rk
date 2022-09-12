@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āṅgūṣám ← āṅgūṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ásmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+avāci ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+stotrám ← stotrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+mahatí ← mahā́nt- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vr̥tratū́rye ← vr̥tratū́rya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+avitā́ ← avitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvā́yuḥ ← viśvā́yu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥dháḥ ← vr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +194,7 @@ so that, in the great overcoming of Vr̥tra [/obstacles], Indra will be our  lif
 
 The balance and reciprocity between god and worshipers evident earlier in the hymn also characterizes its ending. The last thing said about Indra is that he is our ‘strengthener’ (vṛdháḥ 5d), just as our offerings, both material and verbal, have strengthened him (vardháyantīḥ 3b, vāvṛdhuḥ 4d).
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/034/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/034/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 The identical openings of these two vss., ásmā etád, pick up the last clause of vs. 3, śáṃ tád asmai, and invite the two phrases to be interpr. as separate clauses, with śám to be supplied from 3d, as both Oldenberg and Geldner point out.
@@ -183,3 +238,4 @@ Gesungen ist ihm dieses grosse Preislied, der Lobgesang dem Indra mit Gebeten, D
 Чтобы в великой битве с врагами  
 Индра весь век был помощником и покровителем.
 </details>
+

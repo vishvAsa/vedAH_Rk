@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asr̥jaḥ ← √sr̥j- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+girī́n ← girí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prasvàḥ ← prasū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śvañcáyaḥ ← √śvañc- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:MED}
+
+ājaḥ ← √aj- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+ápibaḥ ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+usrā́ḥ ← usrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+út ← út (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ávardhayaḥ ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dáṁsasā ← dáṁsas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vanínaḥ ← vanín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+r̥tájātayā ← r̥tájāta- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śuśóca ← √śuc- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +214,4 @@ Du machtest frei die Mütter, regtest auf die Höhn, du führtest aus die Kühe,
 Ты вызвал рост лесных деревьев своею чудесною силой.  
 Сурья запылал благодаря хвалебной песне, рожденной истиной.
 </details>
+

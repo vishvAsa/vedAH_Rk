@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abravam ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+didhiṣúm ← didhiṣú- (nominal stem)  
+{case:ACC, gender:M, number:SG, mood:DES}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+jāráḥ ← jārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śr̥ṇotu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+svásuḥ ← svásar- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+bhrā́tā ← bhrā́tar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,7 +142,7 @@ brother of Indra, companion to me.
 Geldner interpr. abravam to mean “I have spoken of” (“(Von Pūṣan) … habe ich gesprochen”), but the fact that we immediately urge him to hear us suggests that we have spoken to him. In the next hymn VI.56.4 … tvā … brávāma also clearly means “we speak/say to you.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/055/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/055/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these allusions to incest seem remarkably matter-of-fact. The vss. seem to focus more on the kinship relations — sister, mother, brother, comrade — than any potential violation of them.
@@ -139,3 +173,4 @@ Der Mutter Freier nannt' ich ihn, der Schwester Buhle höre uns, Des Indra Brude
 Да услышит нас любовник (своей) сестры.  
 Брат Индры, друг мой!
 </details>
+

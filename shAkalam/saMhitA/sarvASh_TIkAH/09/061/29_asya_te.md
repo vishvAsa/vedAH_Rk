@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ásya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+dyumné ← dyumná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+uttamé ← uttamá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pr̥tanyatáḥ ← √pr̥tany- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sāsahyā́ma ← √sah- (root)  
+{number:PL, person:1, mood:OPT, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,7 +135,7 @@ The first two pādas open with somewhat emphatic 2nd sg. genitives, the first wi
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/28-30.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
 The last tṛca continues the concentration on combat and victory.
@@ -135,3 +166,4 @@ In deinem Bunde mögen wir, Indu, in deinem höchsten Glanz Besiegen, die uns fe
 В твоем высшем блеске, о сок,  
 Мы хотим одолеть нападающих (на нас)!
 </details>
+

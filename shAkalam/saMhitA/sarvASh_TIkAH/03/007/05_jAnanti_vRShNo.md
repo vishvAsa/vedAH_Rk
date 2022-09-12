@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aruṣásya ← aruṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jānánti ← √jñā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śévam ← śéva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bradhnásya ← bradhná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+raṇanti ← √ranⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śā́sane ← śā́sana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+divorúcaḥ ← divorúc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+rócamānāḥ ← √ruc- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+surúcaḥ ← surúc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gáṇyā ← gáṇya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+gī́ḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+íḷā ← íḷā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mā́hinā ← mā́hina- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yéṣām ← yá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ Sie [die Götter] wissen, was dem rothen Stiere lieb ist, und haben gern die Auf
 (Они) с небесным блеском, с прекрасным блеском, блистающие,  
 (Они,) чьей свите принадлежит Ида (и) могучая речь.
 </details>
+

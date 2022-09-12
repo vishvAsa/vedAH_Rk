@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣā́ma ← kṣā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vardhan ← √vr̥dh- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhágaḥ ← bhága- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jánāḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+páñca ← páñca- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sunīthā́ḥ ← sunīthá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suśármāṇaḥ ← suśárman- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svávasaḥ ← svávas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhávantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sugopā́ḥ ← sugopā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sutrātrā́saḥ ← sutrātrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +241,4 @@ Sie mögen uns stärken: Indra, die Erde, der Erdboden, Puschan, Aditi, die fün
 Пусть будут они нам хорошими защитниками, хорошими помощниками,  
 Хорошими вождями, хорошими спасителями, хорошими охранителями!
 </details>
+

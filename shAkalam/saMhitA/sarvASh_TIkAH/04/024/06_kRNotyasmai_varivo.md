@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+kr̥ṇóti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+várivaḥ ← várivas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sunóti ← √su- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+uśaté ← √vaś- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ávivenan ← ávivenant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sadhrīcī́nena ← sadhrīcī́na- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samátsu ← samád- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +208,7 @@ Quite apart from the actual form is its referent. Oldenberg, who accepts the áv
 This nominative is resumed by the appropriate correlative prn. tám in the acc. in d.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/06-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 The battle/sacrifice trajectory of vss. 4-5 is wrapped up in vss. 6-7, where it is made clear (esp. in 6d) that if you want Indra’s help on the battlefield, you had better perform a good sacrifice, not stinting on the soma.
@@ -185,3 +237,4 @@ Nur dem verschaffet Indra rechten Fortgang, der Soma ihm, dem heischenden bereit
 
 -ru-
 </details>
+

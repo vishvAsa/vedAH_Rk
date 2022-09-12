@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rāmayanti ← √ram- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+turám ← turá- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+namanti ← √nam- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+pānti ← √pā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śáṁsam ← śáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vanuṣyatáḥ ← √vanuṣ(y)- (root)  
+{case:ABL, gender:M, number:SG, tense:PRS, voice:ACT}
+
+áraruṣe ← árarivaṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dadhanti ← √dhā- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+dvéṣaḥ ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gurú ← gurú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +195,7 @@ adj. *sahásaḥ (“die Gewalt des Gewaltigen”), without comment. Oldenberg s
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/056/18-19.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/056/18-19.md">
 <details open><summary><h2>18-19 ...{Loading}...</h2></summary>
 
 As was just noted, vs. 17 “feels” like a final (or pseudo-final) vs. If vs. 18 marks a new beginning, we can note both that in vs. 18 the Hotar invokes the gods as he would at the beginning of a sacrifice and that in vs. 19 (and 20a) the Maruts are referred to four times (19a, b, c, 20a) with the near-deictic pronoun imé “these right here,” which might indicate their epiphany on the ritual ground.
@@ -172,3 +227,4 @@ Den raschen bringen sie zum Stehn, die Maruts, sie beugen jede Kraft durch eigne
 Они защищают речь от завистника.  
 Не дающего (ничего) они обрекают на (свою) тяжелую враждебность.
 </details>
+

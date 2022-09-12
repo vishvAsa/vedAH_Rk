@@ -15,13 +15,32 @@ ChandaH = "अतिनिचृत्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+purūṇā́m ← purú- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+purūtámam ← purūtáma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stotr̥̄ṇā́m ← stotár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vívāci ← vívāc- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vājayatā́m ← √vājay- 2 (root)  
+{case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vā́jebhiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -89,7 +108,7 @@ The cognate expression vā́jebhir vājayatā́m “competing for the prize with
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/28-30.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
 Again no unity in the tṛca.
@@ -120,3 +139,4 @@ Dem reichsten unter vielen dir im Wettgesang der Preisenden, Die reich an allen 
 В словесном состязании восхвалителей,  
 Соревнующихся за награды.
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ha ← ha (invariable)  
+{}
+
+nahí ← nahí (invariable)  
+{}
+
+purā́ ← purā́ (invariable)  
+{}
+
+sma ← sma (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+stómebhiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vr̥ktabarhiṣaḥ ← vr̥ktábarhis- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+jínvatha ← √ji- 2 ~ jinv- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śárdhān ← śárdha- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +172,4 @@ Denn ohne dass sie euch zuvor gepriesen auf geweihter Streu, Erquicket ihr des O
 О (люди,) разложившие жертвенную солому,  
 Восхвалениями подбадривали толпы закона?
 </details>
+

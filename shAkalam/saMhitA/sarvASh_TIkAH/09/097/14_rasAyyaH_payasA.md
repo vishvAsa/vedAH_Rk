@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pínvamānaḥ ← √pinv- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+rasā́yyaḥ ← rasā́yya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aṁśúm ← aṁśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+eṣi ← √i- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+īráyan ← √īr- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mádhumantam ← mádhumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+eṣi ← √i- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+kr̥ṇván ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+saṁtaním ← saṁtaní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pariṣicyámānaḥ ← √sic- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +168,7 @@ On saṃtaní- see comm. ad IX.69.2.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 No particular signs of cohesion in this tṛca, which is a collection of soma tropes. If there is any unifying theme it is movement, with eti (13b), eṣi (14b, c), arṣati (13d), arṣa (15d); for other repeated lexical items also pariṣicyámānaḥ (14d), pári … siktáḥ (15d). Also the final vs. (15) begins with evā́, the common hymn-ending summary particle - an effect that is muted in the published translation
@@ -159,3 +202,4 @@ Gar köstlich schmeckend, strotzend von dem Milchsaft den honigsüssen Saft ents
 Ты идешь как Павамана, вызывая звучание,  
 Переливаемый, о сома, для Индры.
 </details>
+

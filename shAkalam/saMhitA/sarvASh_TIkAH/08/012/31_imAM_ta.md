@@ -15,14 +15,54 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+iyarti ← √r̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jāmím ← jāmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+padā́ ← padá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pípratīm ← √pr̥- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +157,7 @@ I take the refrain prā́dhvaré as a (quasi) locative absolute, as in VIII.46.1
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/31-33.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/31-33.md">
 <details open><summary><h2>31-33 ...{Loading}...</h2></summary>
 
 This tṛca is unified by the 4-syllable pāda prā́dhvaré. This pāda appears also in VIII.46.18 and IX.102.8, always as the final pāda of Uṣṇih (or the equivalent: in 46.18 Upariṣṭādbṛhatī). I interpr. it in the context of the fairly frequent fuller expression prayaty àdhvaré, a loc. absol. meaning “while the ceremony is proceeding,” which is esp. common in VIII: I.16.3 = VIII.3.5, V.28.6 = VIII.71.12, VIII.7.6, VIII.13.30, X.21.6; cf. also VI.10.1). I take prā́dhvaré as a truncated version of this loc. absol. and tr. it “while the ceremony is pro(ceeding).”
@@ -148,3 +188,4 @@ Dies Preislied bringt, o Indra, dir der Sänger dar mit frommem Sinn, Das schwes
 Вдохновенный (певец) воссылает с молитвами,  
 (Ту, что) как родная сестра, направляющая шаги (твои) во время обряда.
 </details>
+

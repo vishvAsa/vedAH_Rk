@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+taváse ← tavás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+turā́ya ← turá- 1 (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vīrā́ya ← vīrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ája ← √aj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ástam ← ásta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+paśurákṣiḥ ← paśurákṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yūthā́ ← yūthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pispr̥śati ← √spr̥ś- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śrutásya ← √śru- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+tanvì ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nā́kam ← nā́ka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stŕ̥bhiḥ ← stár- ~ tár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vacanásya ← vacaná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vípaḥ ← víp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Ich treibe hin zum raschen, starken Helden die Lieder, wie zum Stall der Hirt di
 Пусть он даст дотронуться до тела его, прославленного,  
 Вдохновенным словам красноречивого, как звездам до небосвода.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adānám ← √ad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+agrúvaḥ ← agrū́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vamrī́bhiḥ ← vamrī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jabhartha ← √bhr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+nivéśanāt ← nivéśana- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ādadānáḥ ← √dā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+áhim ← áhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+akhyat ← √khyā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+andháḥ ← andhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+aranta ← √r̥- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+párva ← párvan- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+ukhachít ← ukhachíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ Du zogst der Jungfrau Sohn, o Füchselenker, aus dem Verstecke, den vom Wurm ben
 Слепой прозрел, взявшись за змея.  
 Вышел расщепитель ковша, сошлись суставы.
 </details>
+

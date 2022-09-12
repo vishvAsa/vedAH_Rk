@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+arocata ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+sanakā́t ← sanaká- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+saptáhotā ← saptáhotar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áśocat ← √śuc- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ū́dhani ← ū́dhar- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+miṣati ← √miṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+suráṇaḥ ← suráṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ájāyata ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ásurasya ← ásura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jaṭhárāt ← jaṭhára- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Von Alters her erstrahlte der von sieben Priestern be- diente, als er glänzte a
 День за днем не смыкает глаз очень радостный,  
 С тех пор как родился из чрева Асуры.
 </details>
+

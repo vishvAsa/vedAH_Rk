@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apsarā́ḥ ← apsarás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jārám ← jārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+upasiṣmiyāṇā́ ← √smi- (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:MED}
+
+bibharti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vyòman ← vyòman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cárat ← √carⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+priyásya ← priyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sán ← √as- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yóniṣu ← yóni- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+hiraṇyáye ← hiraṇyáya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pakṣé ← pakṣá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sī́dat ← √sad- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+venáḥ ← vená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Die Apsaras, anlächelnd den Geliebten, die Gattin trägt ihn in dem höchsten H
 Как любимый бродит он в недрах любимого.  
 Этот Вена сидит на золотом крыле.
 </details>
+

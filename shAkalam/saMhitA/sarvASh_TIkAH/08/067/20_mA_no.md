@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+hetíḥ ← hetí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vivásvataḥ ← vivásvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́dityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+kr̥trímā ← kr̥tríma- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śáruḥ ← śáru- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jarásaḥ ← jarás- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+purā́ ← purā́ (invariable)  
+{}
+
+vadhīt ← √vadhⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +156,4 @@ Nicht möge des Vivasvat Spiess, Aditja's, sein gespitzter Pfeil, Uns treffen, e
 О Адитьи, ни искусно сделанная стрела,  
 Да не поразит нас до старости!
 </details>
+

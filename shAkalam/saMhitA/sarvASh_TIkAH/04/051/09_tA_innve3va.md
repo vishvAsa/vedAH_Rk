@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+evá ← evá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+samanā́ ← samanā́ (invariable)  
+{}
+
+samānī́ḥ ← samāná- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ámītavarṇāḥ ← ámītavarṇa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ábhvam ← ábhva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ásitam ← ásita- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gū́hantīḥ ← √guh- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+rúśadbhiḥ ← rúśant- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+rucānā́ḥ ← √ruc- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śukrā́ḥ ← śukrá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tanū́bhiḥ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

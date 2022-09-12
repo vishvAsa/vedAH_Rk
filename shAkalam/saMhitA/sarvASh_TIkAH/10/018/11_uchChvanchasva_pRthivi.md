@@ -16,14 +16,69 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bādhathāḥ ← √bādhⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:MED}
+
+mā́ ← mā́ (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+pr̥thivi ← pr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+śvañcasva ← √śvañc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+út ← út (invariable)  
+{}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sūpavañcanā́ ← sūpavañcaná- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sūpāyanā́ ← sūpāyaná- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+putrám ← putrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sicā́ ← síc- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+bhūme ← bhū́mi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ūrṇuhi ← √vr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Eröffne dich, o Erde; nicht bedränge ihn, gewähr ihm leichten Eingang, sicher
 Как мать сына – краем одежды,  
 Укрой его, о земля!
 </details>
+

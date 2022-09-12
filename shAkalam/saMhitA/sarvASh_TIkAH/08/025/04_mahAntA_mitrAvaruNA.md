@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+mahā́ntā ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mitrā́váruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ásurā ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+devaú ← devá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+samrā́jā ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ghoṣataḥ ← √ghuṣ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥tā́vānau ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +163,4 @@ Die grossen Mitra, Varuna, die weisen Götter, Herrn des Alls, Die Rechtbeschirm
 Вседержители, два бога-асуры,  
 Преданные закону, громко провозглашают закон.
 </details>
+

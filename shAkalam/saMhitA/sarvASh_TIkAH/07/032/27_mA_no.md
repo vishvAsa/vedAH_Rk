@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ájñātāḥ ← ájñāta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+durādhyàḥ ← durādhī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vr̥jánāḥ ← vr̥jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśivāsaḥ ← áśiva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+kramuḥ ← √kramⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pravátaḥ ← pravát- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śáśvatīḥ ← śáśvant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tarāmasi ← √tr̥̄- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ Nicht mögen heimlich bösgesinnte Scharen uns beschleichen, noch verderbliche; 
 С тобою мы переправляемся через (все) нескончаемые вoды,  
 (Текущие) со склона, о герой!
 </details>
+

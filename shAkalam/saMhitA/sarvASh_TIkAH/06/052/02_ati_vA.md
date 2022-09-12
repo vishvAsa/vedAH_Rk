@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+áti ← áti (invariable)  
+{}
+
+mányate ← √man- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+kriyámāṇam ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+nínitsāt ← √nid- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT, mood:DES}
+
+vā ← vā (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tápūṁṣi ← tápus- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vr̥jinā́ni ← vr̥jiná- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+brahmadvíṣam ← brahmadvíṣ- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śocatu ← √śuc- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +231,7 @@ Oldenberg, Geldner, and Renou all take vṛjinā́ni as a nominalized adjective 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 It is unfortunately impossible to capture in Engl. the play between ánu √man ‘concede’ (1a) and áti √man ‘disdain’ (2a), with the further echo of áti in atiyā́já- (1d).
@@ -202,3 +263,4 @@ Wer uns verachtet, o ihr Marutscharen, wer das Gebet, das wir verrichten, schmä
 Пусть (его) козни станут ему языками пламени!  
 Пусть небо испепелит ненавистника молитвы!
 </details>
+

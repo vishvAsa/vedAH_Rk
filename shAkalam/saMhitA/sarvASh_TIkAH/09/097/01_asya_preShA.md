@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+hemánā ← hemán- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+preṣā́ ← préṣ- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pūyámānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+apr̥kta ← √pr̥c- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+rásam ← rása- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rébhan ← √ribh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+mitā́ ← √mi- 1 (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+paśumā́nti ← paśumánt- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sádma ← sádman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +203,7 @@ Almost identical to IX.92.6a, pāda d contains one of the few technical referenc
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 No obvious cohesion in this tṛca, though it ends with a clan refrain.
@@ -177,3 +235,4 @@ Geklärt durch dieses Priesters schnellen Eifer, hat seinen Saft der Gott besche
 Выжатый, он движется кругами по цедилке, распевая,  
 Как хотар (вокруг) размеченных мест с жертвенными животными.
 </details>
+

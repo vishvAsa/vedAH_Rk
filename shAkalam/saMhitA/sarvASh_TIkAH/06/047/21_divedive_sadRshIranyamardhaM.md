@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+árdham ← árdha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sadŕ̥śīḥ ← sadŕ̥ś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+asedhat ← √sidh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+jā́ḥ ← jā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kr̥ṣṇā́ḥ ← kr̥ṣṇá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sádmanaḥ ← sádman- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+áhan ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dāsā́ ← dāsá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vasnayántā ← √vasnay- (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+śámbaram ← śámbara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+udávraje ← udávraja- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+varcínam ← varcín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +220,4 @@ Er vertrieb täglich die einander gleichenden dunkeln Wesen von ihrem Sitze weg 
 Бык убил двоих торгующихся дасов  
 У водной преграды: Варчина и Шамбару.
 </details>
+

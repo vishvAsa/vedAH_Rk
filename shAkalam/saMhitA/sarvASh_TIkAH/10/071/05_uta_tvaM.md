@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sakhyé ← sakhyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sthirápītam ← sthirápīta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvam ← tva- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ápi ← ápi (invariable)  
+{}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+hinvanti ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+vā́jineṣu ← vā́jina- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ádhenvā ← ádhenu- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+māyáyā ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+aphalā́m ← aphalá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+apuṣpā́m ← apuṣpá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śuśruvā́n ← √śru- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +231,4 @@ Der, sagt man, steh in seiner Gunst gepanzert, man spornt ihn nicht zum Kampf in
 Этот живет пустым обманом:  
 Он слышал речь, не приносящую ни плодов, ни цветов.
 </details>
+

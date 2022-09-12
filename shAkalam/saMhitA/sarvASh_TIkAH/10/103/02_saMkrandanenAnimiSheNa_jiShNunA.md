@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+animiṣéṇa ← animiṣá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+jiṣṇúnā ← jiṣṇú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+saṁkrándanena ← saṁkrándana- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dhr̥ṣṇúnā ← dhr̥ṣṇú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+duścyavanéna ← duścyavaná- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yutkāréṇa ← yutkārá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+jayata ← √ji- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sahadhvam ← √sah- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+íṣuhastena ← íṣuhasta- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vŕ̥ṣṇā ← vŕ̥ṣan- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yúdhaḥ ← yúdh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +188,4 @@ Mit ihm, dem Donnrer, der nicht schlummernd Sieg gewinnt, der Schlacht erregt vo
 
 -ru-
 </details>
+

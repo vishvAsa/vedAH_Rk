@@ -16,14 +16,51 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śīráśociṣam ← śīráśocis- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+darśatám ← darśatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yantu ← √i- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ácha ← ácha (invariable)  
+{}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+purūvásum ← purūvásu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñā́saḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+purupraśastám ← purupraśastá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +169,4 @@ Es sollen unsre Lieder nahn, dem schönen, heisserglühenden, Dem güterreichen 
 
 -ru-
 </details>
+

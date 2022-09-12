@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+saścata ← √sac- 1 (root)  
+{number:PL, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+dívodāsam ← dívodāsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudā́saḥ ← sudā́s- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aviṣṭána ← √avⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+kétam ← kéta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+paijavanásya ← paijavaná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ajáram ← ajára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dūṇā́śam ← dūṇā́śa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+duvoyú ← duvoyú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+kṣatrám ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +190,4 @@ O ihr Maruthelden geleitet diesen, wie den Divodasa, den Vater des Sudas, beför
 Поддерживайте желание Пайджаваны –  
 Недостижимую, непреходящую власть!
 </details>
+

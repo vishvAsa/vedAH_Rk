@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+āyasī́m ← āyasá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bibharti ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háste ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā́śīm ← vā́śī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+nídhruviḥ ← nídhruvi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,3 +134,4 @@ Der eine trägt ein ehern Beil in seiner Hand, der Stand hält in der Götter Sc
 Один несет в руке топор  
 Железный. Среди богов он постоянен.
 </details>
+

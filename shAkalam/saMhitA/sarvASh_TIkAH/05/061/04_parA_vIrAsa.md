@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+etana ← √i- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+párā ← párā (invariable)  
+{}
+
+vīrāsaḥ ← vīrá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+bhádrajānayaḥ ← bhadrajāni- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+máryāsaḥ ← márya- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+agnitápaḥ ← agnitáp- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásatha ← √as- 1 (root)  
+{number:PL, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -95,7 +120,7 @@ The 2nd pl. impv. etana shows an unexpected full-grade root syllable in the Sa�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 The final word of vs. 3 is jánayaḥ, while the final word of the 1st hemistich of 4 is (bhadra-)jānayaḥ, showing the standard distribution of the ‘wife’ word, with simplex jáni- and jāni- as 2nd cmpd. member. The distrib. here is complicated by the fact that 3c … ná jánayaḥ produces an unusual cadence of four shorts, which
@@ -129,3 +154,4 @@ Geht hin, o Männer, ihr Gatten, die ihr schöne Frauen habt, damit ihr euch am 
 О юноши с прекрасной женой,  
 Чтобы были вы словно палимые огнем!
 </details>
+

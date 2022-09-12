@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+apibat ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ékayā ← éka- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pratidhā́ ← pratidhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sākám ← sākám (invariable)  
+{}
+
+sárāṁsi ← sáras- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+triṁśátam ← triṁśát- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kāṇukā́ ← kāṇuká- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,7 +134,7 @@ So, something like “(the vessels) of soma provided by the Kāṇvas.”
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 The name índraḥ is identically positioned in all three verses of this tṛca, at the beginning of the final pāda.
@@ -137,3 +165,4 @@ In einem Zuge trank er dann wol dreissig Seen auf einmal, Die Somaschalen Indra 
 Выпил сразу триста  
 Озер сомы:
 </details>
+

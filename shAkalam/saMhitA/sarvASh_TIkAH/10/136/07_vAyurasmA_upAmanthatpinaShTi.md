@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+amanthat ← √manthⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vāyúḥ ← vāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kunannamā́ ← kunannamá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pináṣṭi ← √piṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sma ← sma (invariable)  
+{}
+
+keśī́ ← keśín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pā́treṇa ← pā́tra- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+viṣásya ← viṣá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ápibat ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+rudréṇa ← rudrá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +179,4 @@ Der Wind tost ihm zur Seite; er zermalmt auch das schwer zu beugende, wenn er au
 Когда косматый из сосуда с ядом  
 Пил вместе с Рудрой.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ādā́ya ← √dī- 2 (root)  
+{non-finite:CVB}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayútam ← ayúta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sākám ← sākám (invariable)  
+{}
+
+savā́n ← savá- 2 (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ajahāt ← √hā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+árātīḥ ← árāti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+átra ← átra (invariable)  
+{}
+
+púraṁdhiḥ ← púraṁdhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ámūraḥ ← ámūra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mūrā́ḥ ← mūrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +191,7 @@ Plenitude left behind the hostilities then, (as) in the exhilaration of soma  th
 
 The obj. mūrā́(ḥ) is fem. and presumably matches the gender of the parallel object árātīḥ ‘hostilities’ in the preceding pāda.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/026/04-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/026/04-07.md">
 <details open><summary><h2>04-07 ...{Loading}...</h2></summary>
 
 The 3rd sg. act. impf./injunc. of √bhṛ is the “hero” of this, the mythological portion, of the hymn: bhárat (4d, 5a), bharat (6c), abharat (7a).
@@ -171,3 +223,4 @@ Der Adler trug den Soma, den geraubten, viel Milliarden Somatränk' auf einmal; 
 Тогда Пурамдхи оставил Арати,  
 Мудрый в опьянении сомы – немудрых.
 </details>
+

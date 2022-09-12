@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+bháre-bhare ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+indrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+bhavatam ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kr̥ṣṭyojasā ← kr̥ṣṭyojas- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+puroyodhā́ ← puroyodhá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ádha ← ádha (invariable)  
+{}
+
+hávante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+spr̥dhí ← spŕ̥dh- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ubháye ← ubháya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sātíṣu ← sātí- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+tánayasya ← tánaya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tokásya ← toká- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ In jedem Treffen seid, o Indra-Varuna, Vorkämpfer uns, die alle Völker ihr beh
 Когда в соперничестве вас призывают с обеих сторон  
 Мужи, чтобы добиться продолжения (своего) потомства!
 </details>
+

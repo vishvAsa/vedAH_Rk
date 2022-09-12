@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+samudréṇa ← samudrá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yā́damānāḥ ← √yād- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+bhárantaḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+súṣutam ← súṣuta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aṁśúm ← aṁśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bharítraiḥ ← bharítra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+duhanti ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hastínaḥ ← hastín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pavítraiḥ ← pavítra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+punanti ← √pū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +169,7 @@ The latter, pavítra- lit. ‘instrument for purifying’, is of course very wel
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 The next three vss. ring changes on the theme of large bodies of water and large containers of soma.
@@ -155,3 +201,4 @@ Die Ströme gehen mit dem Schwall der Wogen dem Indra bringend schön gebrauten 
 (Жрецы) с (умелыми) руками выжимают пальцами стебель.  
 Они очищают сладкие (соки) – струей через цедилки.
 </details>
+

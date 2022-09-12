@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ekādaśā́saḥ ← ekādaśá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+dadr̥śe ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+purástāt ← purástāt (invariable)  
+{}
+
+satyā́ḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+satyásya ← satyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+juṣāṇā́ ← √juṣ- (root)  
+{case:NOM, gender:M, number:DU, tense:AOR, voice:MED}
+
+sávanam ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dī́dyagnī ← dīdyagnī- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pātám ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Euch beide sahn die dreiunddreissig Götter, die wahren, stehen an der Wahrheit 
 Наслаждаясь нашей жертвой (и) выжиманием,  
 Пейте сому, о Ашвины, ради который сверкает костер!
 </details>
+

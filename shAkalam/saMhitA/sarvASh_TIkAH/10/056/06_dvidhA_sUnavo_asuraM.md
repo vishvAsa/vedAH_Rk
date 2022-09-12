@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ásuram ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dvídhā ← dvídhā (invariable)  
+{}
+
+sūnávaḥ ← sūnú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svarvídam ← svarvíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asthāpayanta ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+kármaṇā ← kárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tr̥tī́yena ← tr̥tī́ya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pítryam ← pítrya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prajā́m ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svā́m ← svá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ā́tatam ← √tan- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ávareṣu ← ávara- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+tántum ← tántu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Den Gott, der Glanz schafft, haben zwiefach festgestellt die Söhne, und beim dr
 Свою смену, отчую силу, протянутую нить  
 Отцы вложили в последующие (поколения).
 </details>
+

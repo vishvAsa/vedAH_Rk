@@ -15,13 +15,44 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+márutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mā́rutasya ← mā́ruta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bheṣajásya ← bheṣajá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sudānavaḥ ← sudā́nu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vahata ← √vah- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sakhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+saptayaḥ ← sápti- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ O Maruts, fahret uns herbei, schöngebende, von eurer Marut-Arzenei, verbundene 
 Целебного средства привезите нам (что-нибудь), о богатые прекрасными дарами,  
 Вы, друзья (и) упряжки!
 </details>
+

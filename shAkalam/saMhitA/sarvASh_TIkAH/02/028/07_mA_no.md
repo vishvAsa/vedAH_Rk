@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iṣṭaú ← iṣṭí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vadhaíḥ ← vadhá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+asura ← ásura- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhrīṇánti ← √bhrī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+énaḥ ← énas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇvántam ← √kr̥- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ganma ← √gam- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+jyótiṣaḥ ← jyótis- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+pravasathā́ni ← pravasathá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+jīváse ← √jīv- (root)  
+{case:DAT, number:SG}
+
+mŕ̥dhaḥ ← mŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śiśrathaḥ ← √śrathⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +235,4 @@ Nicht strafe uns, Gott Varuna, mit Waffen, die auf dein Wort den Uebelthäter tr
 Да не отправимся мы в путешествие прочь от солнца!  
 Ослабь же (наши) прегрешения, чтобы мы жили!
 </details>
+

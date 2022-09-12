@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́śitam ← √aśⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ít ← ít (invariable)  
+{}
+
+kr̥ṇoti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kr̥ṣán ← √kr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+phā́laḥ ← phā́la- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádhvānam ← ádhvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+carítraiḥ ← carítra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vr̥ṅkte ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ávadataḥ ← ávadant- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+brahmā́ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vádan ← √vadⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vánīyān ← vánīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+āpíḥ ← āpí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápr̥ṇantam ← ápr̥ṇant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥ṇán ← √pr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+syāt ← √as- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +239,4 @@ Der Pflug schafft Nahrung nur, wenn er das Land pflügt; geht auf den Weg er, st
 Говорящий жрец добивается большего, чем не говорящий.  
 Дарящий друг превосходит не дарящего.
 </details>
+

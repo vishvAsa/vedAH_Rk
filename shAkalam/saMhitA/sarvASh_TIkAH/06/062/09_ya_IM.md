@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+īm ← īm (invariable)  
+{}
+
+rā́jānau ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+r̥tuthā́ ← r̥tuthā́ (invariable)  
+{}
+
+vidádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cíketat ← √cit- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+gambhīrā́ya ← gambhīrá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+hetím ← hetí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rákṣase ← rákṣas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ā́navāya ← ā́nava- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dróghāya ← drógha- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vácase ← vácas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Wer zu den rechten Zeiten sie [Mitra und Varuna] als die beiden Könige bedient 
 Пусть швырнет он дротик в затаившегося в глубине ракшаса,  
 В потомка Ану с совсем лживой речью!
 </details>
+

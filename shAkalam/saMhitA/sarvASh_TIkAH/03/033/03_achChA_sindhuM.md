@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+ayāsam ← √yā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+mātŕ̥tamām ← mātŕ̥tama- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+síndhum ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aganma ← √gam- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+subhágām ← subhága- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+urvī́m ← urú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vípāśam ← vípāś- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+mātárā ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+saṁrihāṇé ← √rih- (root)  
+{case:ACC, gender:F, number:DU, tense:PRS, voice:MED}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+samānám ← samāná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saṁcárantī ← √carⁱ- (root)  
+{case:ACC, gender:F, number:DU, tense:PRS, voice:ACT}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ Ich fuhr herbei zum mütterlichsten Strome, wir kamen zur Vipāç, der breiten, 
 К следующим вместе по общему руслу.  
 Р е к и:
 </details>
+

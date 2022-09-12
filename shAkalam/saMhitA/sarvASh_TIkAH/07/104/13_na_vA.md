@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+hinoti ← √hi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+vaí ← vaí (invariable)  
+{}
+
+vr̥jinám ← vr̥jiná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhāráyantam ← √dhr̥- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kṣatríyam ← kṣatríya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mithuyā́ ← mithuyā́ (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ā́sat ← ā́sant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hánti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hánti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rákṣaḥ ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vádantam ← √vadⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prásitau ← prásiti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śayāte ← √śī- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+ubhaú ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Nicht wahrlich liebt den falschen Heuchler Soma, noch den, der Herrschaft trüge
 Он убивает ракшаса, убивает ничтожно говорящего.  
 Оба они будут лежать в петле у Индры.
 </details>
+

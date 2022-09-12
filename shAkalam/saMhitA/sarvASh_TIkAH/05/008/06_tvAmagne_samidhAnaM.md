@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+samidhānám ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yaviṣṭhya ← yáviṣṭhya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cakrire ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havyavā́hanam ← havyavā́hana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́hutam ← √hu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ghr̥táyonim ← ghr̥táyoni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+urujráyasam ← urujráyas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+codayánmati ← codayánmati- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dadhire ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+tveṣám ← tveṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +218,4 @@ Dich, den entflammten, machte sich die Götterschar zum Boten, jüngster Agni, d
 (Бога) с широким охватом, с лоном из жира, политого (жертвенным возлиянием),  
 Они установили как сверкающий глаз, вдохновляющий на молитвы.
 </details>
+

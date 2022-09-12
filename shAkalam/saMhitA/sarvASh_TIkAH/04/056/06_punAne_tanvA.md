@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+mithás ← mithás (invariable)  
+{}
+
+punāné ← √pū- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+dákṣeṇa ← dákṣa- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rājathaḥ ← √rāj- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+svéna ← svá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sanā́t ← sanā́t (invariable)  
+{}
+
+ūhyā́the ← √vāh- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +149,4 @@ Euch selbst einander reinigend, gebietet ihr durch eigne Kraft; Beachtet stets d
 Вы царствуете благодаря своей силе действия.  
 От века вы соблюдаете закон.
 </details>
+

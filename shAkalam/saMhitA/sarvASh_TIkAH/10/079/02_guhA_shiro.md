@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+akṣī́ ← ákṣ- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+gúhā ← gúhā (invariable)  
+{}
+
+níhitam ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ŕ̥dhak ← ŕ̥dhak (invariable)  
+{}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ásinvan ← ásinvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+atti ← √ad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jihváyā ← jihvā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vánāni ← vána- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+átrāṇi ← átra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+bharanti ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+paḍbhíḥ ← pád- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+uttānáhastāḥ ← uttānáhasta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Verborgen ist sein Haupt, versteckt die Augen; nicht rastend frisst das Holz er 
 Пищу ему собирают ногами,  
 С поклоном, с воздетыми (для молитвы) руками среди племен.
 </details>
+

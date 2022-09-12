@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+váṁsva ← √vanⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+vā́ryā ← vā́rya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+puruspŕ̥haḥ ← puruspŕ̥h- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+váṁsva ← √vanⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+prajā́vataḥ ← prajā́vant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+suvī́ryasya ← suvī́rya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yáśasvataḥ ← yáśasvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ O schenke viele Schätze uns, o schenk uns vielbegehrtes Gut, Und kinderreiche H
 Добудь богатства многожеланного,  
 Состоящего из мужей, из потомства, из почестей!
 </details>
+

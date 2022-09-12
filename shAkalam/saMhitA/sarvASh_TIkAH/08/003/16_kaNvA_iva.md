@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhŕ̥gavaḥ ← bhŕ̥gu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+káṇvāḥ ← káṇva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sū́ryāḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ānaśuḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dhītám ← √dhī- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ít ← ít (invariable)  
+{}
+
+víśvam ← víśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maháyantaḥ ← √mahay- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+stómebhiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+asvaran ← √svar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+priyámedhāsaḥ ← priyámedha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +184,4 @@ Den Bhrigus gleich erreichten jeden Herzenswunsch die Kanva's, Sonnenstrahlen gl
 Возвеличивая Индру восхвалениями, Аю,  
 Потомки Приямедхи, возвысили голос.
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+máryaḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥jānáḥ ← √mr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+śubhráḥ ← śubhrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+átyaḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhánānām ← dhána- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sanáye ← saní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sŕ̥tvā ← sŕ̥tvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árṣan ← √arṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+kóśam ← kóśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yūthā́ ← yūthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+camvòḥ ← camū́- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+kánikradat ← √krand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+viveśa ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +206,7 @@ charging around the cask like a bull around the herds, constantly  roaring he ha
 Soma’s journey from the filter (vs. 17) and across the domains on the ritual ground (vss. 18-19) reaches its end when he enters the two cups, presumably ready for the gods to consume.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/20-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/20-21.md">
 <details open><summary><h2>20-21 ...{Loading}...</h2></summary>
 
 Again these two vss. belong to separate mini-hymns, but they are clearly concatenated: kánikradat “constantly roaring” in 20d is repeated in the same metrical position in 21b (and cf. krándan in 22d), and 20d camvòr ā́viveśa “he has entered the two cups” is immediately echoed by 21c camvòr ā́viśa “enter the two cups” (and cf. 22b kaláśām̐ā́viveśa).
@@ -177,3 +238,4 @@ Den Körper schmückend wie ein schöner Bräut'gam, und eilend wie ein Ross zur
 Обегающий сосуд, как бык (свои) стада,  
 Громко ревя, он вошел в два чана.
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+dhr̥ṣṇáve ← dhr̥ṣṇú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+haryatā́ya ← haryatá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dhánuḥ ← dhánur ~ dhánvan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+paúṁsyam ← paúṁsya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tanvanti ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ásurāya ← ásura- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+nirṇíjam ← nirṇíj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śukrā́m ← śukrá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vayanti ← √u- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mahīyúvaḥ ← mahīyú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vipā́m ← víp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +182,4 @@ Dem lieben, kühnen spannen sie die Kraft wie einen Bogen an; Ein Prachtkleid we
 Светлый праздничный наряд для асуры ткут  
 (Их пальцы,) полные величия, перед началом вдохновенных речей.
 </details>
+

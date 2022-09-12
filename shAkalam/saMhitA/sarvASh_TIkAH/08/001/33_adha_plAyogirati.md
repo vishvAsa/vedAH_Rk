@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+anyā́n ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+dāsat ← √dā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+plā́yogiḥ ← plā́yogi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+āsaṅgáḥ ← āsaṅgá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+daśábhiḥ ← dáśa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sahásraiḥ ← sahásra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ádha ← ádha (invariable)  
+{}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+rúśantaḥ ← rúśant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ukṣáṇaḥ ← ukṣán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+atiṣṭhan ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+naḷā́ḥ ← naḷá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nís ← nís (invariable)  
+{}
+
+sárasaḥ ← sáras- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Es übertraf, o Agni, Asanga, der Sohn des Pajoga, alle andern an Freigiebigkeit
 Тут возникли передо мной десять белых быков,  
 Словно камыши из озера.
 </details>
+

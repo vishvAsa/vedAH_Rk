@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+áṇvāni ← áṇva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+māmr̥je ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+meṣyàḥ ← meṣī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
+mīḷhé ← mīḷhá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sáptiḥ ← sápti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājayúḥ ← vājayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anumā́dyaḥ ← anumā́dya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manīṣíbhiḥ ← manīṣín- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ŕ̥kvabhiḥ ← ŕ̥kvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víprebhiḥ ← vípra- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

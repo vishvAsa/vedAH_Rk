@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+hinvānáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+indriyám ← indriyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ānaśe ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+jyā́yaḥ ← jyā́yaṁs- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mahitvám ← mahitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+abhiṣṭikŕ̥t ← abhiṣṭikŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vícarṣaṇiḥ ← vícarṣaṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +138,4 @@ Da hat, entsandt, noch herrlicher des Indra Grösse er erreicht, Der Hülfe scha
 
 -ru-
 </details>
+

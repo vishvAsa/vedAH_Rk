@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+r̥júḥ ← r̥jú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śáṁsaḥ ← śáṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vanavat ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+vanuṣyatáḥ ← √vanuṣ(y)- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+ádevayantam ← ádevayant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+devayán ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+duṣṭáram ← duṣṭára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+pr̥tsú ← pŕ̥t- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+suprāvī́ḥ ← suprāvī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vanavat ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+áyajyoḥ ← áyajyu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhajāti ← √bhaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+bhójanam ← bhójana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+yájvā ← yájvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +242,4 @@ Der rechte Sänger, er bezwingt die Kämpfenden, der Fromme stets bewältigt den
 Только тот, кто хорошо принимает (богов), победит в боях даже трудно одолимого.  
 Только тот, кто приносит жертвы, разделит имущество не приносящего жертв.
 </details>
+

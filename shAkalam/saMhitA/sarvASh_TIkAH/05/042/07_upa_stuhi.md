@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ratnadhéyam ← ratnadhéya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stuhi ← √stu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhánānām ← dhána- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+sanitā́ram ← sanitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śámbhaviṣṭhaḥ ← śámbhaviṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śáṁsate ← √śaṁs- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+stuvaté ← √stu- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+āgámat ← √gam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+jóhuvānam ← √hū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+purūvásuḥ ← purūvásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +189,4 @@ Besinge nun die erste Güterspende, Brihaspati, den Geber reicher Schätze, Der 
 Который наиболее благожелателен к провозглашающему (и) восхваляющему  
 (И) может придти к громко зовущему, неся многие дары.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aruṇā́saḥ ← aruṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rúśantaḥ ← rúśant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sīm ← sīm (invariable)  
+{}
+
+váhanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prathānā́m ← √prathⁱ- (root)  
+{case:ACC, gender:F, number:SG, tense:AOR, voice:MED}
+
+subhágām ← subhága- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+urviyā́ ← urviyā́ (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+ástā ← ástar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ījate ← √īj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śū́raḥ ← śū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajiráḥ ← ajirá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bā́dhate ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vóḷhā ← vóḷhar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Es fahren sie die rothen, lichten Stiere, die selige, die weithin sich verbreite
 Она гонит (тьму) прочь, словно храбрый стрелок – врагов.  
 Она оттесняет тьму, словно проворный возница – (врагов).
 </details>
+

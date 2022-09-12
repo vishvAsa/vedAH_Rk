@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ástāvi ← √stu- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+narā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+suśévaḥ ← suśéva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ŕ̥ṣibhiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sómagopāḥ ← sómagopā- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaiśvānaráḥ ← vaiśvānará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adveṣé ← adveṣá- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+huvema ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dévāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+dhattá ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvī́ram ← suvī́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +203,4 @@ Gerühmt von Sängern ist der Freund der Menschen, der Männerhort, der Somahüt
 Мы хотим призвать невраждебные Небо и Землю.  
 О Боги, дайте нам богатство, состоящее из героев!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+āśásā ← āśás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+dade ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+dā́tram ← dā́tra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+háste ← hásta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dinásya ← √dā- 2 (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sámbhr̥tasya ← √bhr̥- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+kāśínā ← kāśí- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pūrdhí ← √pr̥̄- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+yávasya ← yáva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Aus Verlangen nach dir, o Indra, nahm ich auch die Sichel in die Hand; beschenke
 
 -ru-
 </details>
+

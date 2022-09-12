@@ -16,14 +16,66 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhimāyasya ← áhimāya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dr̥ḷhā́ḥ ← √dr̥h- (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
+píproḥ ← pípru- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+dardar ← √dr̥- ~ dr̥̄- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+apramr̥ṣyám ← apramr̥ṣyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rékṇaḥ ← rékṇas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+súdāman ← sudāman- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dātrám ← dātrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥jíśvane ← r̥jíśvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +216,4 @@ Des schlangelist'gen Pipru feste Burgen zerbrachst du, o gewalt'ger Blitzesträg
 Очень щедрый, это незабываемое наследство  
 Ты дал как дар почтившему (тебя) Риджишвану.
 </details>
+

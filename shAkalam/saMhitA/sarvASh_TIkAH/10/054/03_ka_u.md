@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mahimánaḥ ← mahimán- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+samasya ← sama- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+ántam ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āpuḥ ← √āp- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ŕ̥ṣayaḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sākám ← sākám (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ájanayathāḥ ← √janⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:MED}
+
+svā́yāḥ ← svá- (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Gab je es Sänger, welche vor uns lebten, die deiner ganzen Grösse Ziel erreich
 Когда отца и мать сразу  
 Ты породил из своего тела?
 </details>
+

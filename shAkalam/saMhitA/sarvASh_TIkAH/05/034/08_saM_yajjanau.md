@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jánau ← jána- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sám ← sám (invariable)  
+{}
+
+sudhánau ← sudhána- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+viśváśardhasau ← viśváśardhas- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ávet ← √avⁱ- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śubhríṣu ← śubhrí- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ákr̥ta ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+anyám ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+pravepanī́ ← pravepanín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yújam ← yúj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhúniḥ ← dhúni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gávyam ← gávya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+sátvabhiḥ ← sátvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sr̥jate ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,3 +260,4 @@ Wenn der gewalt'ge Indra zwei sehr mächt'ge Herrn mit ihrem Heer zum Kampf um s
 То вызывающий содрогание делает союзником одного (из них),  
 Сотрясатель со (своими) воинами выгоняет стадо скота (другого из загона).
 </details>
+

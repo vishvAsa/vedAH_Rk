@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvyasya ← áśvya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+puṣṭéḥ ← puṣṭí- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ráthyasya ← ráthya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+nítyasya ← nítya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pátayaḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+cakrāṇaú ← √kr̥- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
+
+návyasībhiḥ ← návyas- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+asmatrā́ ← asmatrā́ (invariable)  
+{}
+
+niyútaḥ ← niyút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+rā́yaḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+sacantām ← √sac- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +212,4 @@ Besitzer seien wir von Ross und Wagen, von reicher Nahrung und von eigner Habe; 
 Пользуясь самыми новыми поддержками, (да помогут нам) эти двое!  
 К нам пусть последуют богатства – (конные) упряжки!
 </details>
+

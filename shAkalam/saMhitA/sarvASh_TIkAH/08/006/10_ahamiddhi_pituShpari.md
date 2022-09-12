@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+pitúḥ ← pitár- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+jagrábha ← √gr̥bhⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+medhā́m ← medhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ajani ← √janⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +153,7 @@ instead of 1st ps.), but although obviously there is no 1st sg. passive aorist, 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 This tṛca is characterized by emphatic pronominals: initial ahám 10a, 10c, 11a; tvā́m 12a; máma 12c.
@@ -147,3 +184,4 @@ Denn ich empfing vom Vater her des heil'gen Brauches Wissenschaft, Der Sonne gle
 Дар прозрения истины.  
 Я (воз)родился, словно солнце.
 </details>
+

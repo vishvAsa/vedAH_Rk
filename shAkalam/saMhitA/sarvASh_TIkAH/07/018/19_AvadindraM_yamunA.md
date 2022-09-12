@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́vat ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tŕ̥tsavaḥ ← tŕ̥tsu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yamúnā ← yamúnā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+bhedám ← bhedá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+muṣāyat ← √muṣⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sarvátātā ← sarvátāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ajā́saḥ ← ajá- 2 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+śígravaḥ ← śígru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yákṣavaḥ ← yákṣu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśvyāni ← áśvya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+balím ← balí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jabhruḥ ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+śīrṣā́ṇi ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Dem Indra half die Jamuna, die Tritsu's; da plünderte er gänzlich aus den Tilg
 Аджа, шигру и якшу  
 Принесли в дань конские головы.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+inā́ ← iná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jánima ← jániman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kavīnā́m ← kaví- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pr̥cha ← √praś- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+manodhŕ̥taḥ ← manodhŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sukŕ̥taḥ ← sukŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+takṣata ← √takṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+imā́ḥ ← ayám (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+praṇyàḥ ← praṇī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+várdhamānāḥ ← √vr̥dh- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+ádha ← ádha (invariable)  
+{}
+
+dhármaṇi ← dhárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+gman ← √gam- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mánovātāḥ ← mánovāta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+nú ← nú (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +241,4 @@ Und ich frage die mächtigen Geschlechter der Weisen : [Es folgt deren Antwort] 
 А эти твои указания, усиливающиеся,  
 Желанные мыслью, вот они двинулись, как положено.
 </details>
+

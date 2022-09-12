@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ichánti ← √iṣ- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+somyā́saḥ ← somyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+dádhati ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+práyāṁsi ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sunvánti ← √su- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+abhíśastim ← abhíśasti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+títikṣante ← √tij- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+ā́ ← ā́ (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+praketáḥ ← praketá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Dir streben zu mit Soma die Genossen, sie pressen Soma, reichen dar die Speisen;
 Они отвращают проклятья людей.  
 О Индра, от тебя (бы) хоть какой-нибудь знак!
 </details>
+

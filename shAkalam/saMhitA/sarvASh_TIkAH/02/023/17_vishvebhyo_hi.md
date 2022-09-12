@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhúvanebhyaḥ ← bhúvana- (nominal stem)  
+{case:DAT, gender:N, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+víśvebhyaḥ ← víśva- (nominal stem)  
+{case:DAT, gender:N, number:PL}
+
+ájanat ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sā́mnaḥ-sāmnaḥ ← sā́man- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥ṇacít ← r̥ṇacít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥ṇayā́ḥ ← r̥ṇayā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dhartári ← dhartár- (nominal stem)  
+{gender:N}
+
+druháḥ ← drúh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+hantā́ ← hantár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +221,4 @@ Denn aus den Wesen allen brachte dich hervor der weise Tvaschtar und aus allen L
 Этот Брахманаспати – собиратель долгов, мститель за вину,  
 Сокрушитель зла при поддержании великого (вселенского) закона.
 </details>
+

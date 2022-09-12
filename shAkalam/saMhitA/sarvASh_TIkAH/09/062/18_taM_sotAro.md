@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dhanaspŕ̥tam ← dhanaspŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sotāraḥ ← sotár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+āśúm ← āśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jāya ← vā́ja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yā́tave ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
+hárim ← hári- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hinota ← √hi- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -99,7 +127,7 @@ O pressers, impel the swift one to drive for the prize—the winner of spoils, t
 This vs. is notable for its 2nd ps. address to the priests (sotāraḥ … hinota “o pressers, impel …”), also found in vss. 21, 29. Ordinarily 2nd ps. in soma hymns is reserved for Soma (sg.) and his drops (etc.) (pl.).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 Several elements link at least two of the vss. in the tṛca: the presence of vā́jain 16 and 18 (vā́jam 16b, vā́jāya 18b, vājínam 18c) and the dat. inf. yā́tave in 17b and 18b.
@@ -128,3 +156,4 @@ Ihr Sänger, spornt das schnelle Ross, das starke, schatzerbeutende, Zu eilen zu
 
 -ru-
 </details>
+

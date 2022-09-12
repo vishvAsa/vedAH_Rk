@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśvavít ← aśvavíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+gómat ← gómant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+híraṇyavat ← híraṇyavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kṣára ← √kṣar- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sahasríṇīḥ ← sahasrín- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,7 +135,7 @@ The Inhaltsakk. with pári … kṣárā are disharmonious in formation, with th
 noun áśvam (rendered in the published translation as the mass noun ‘horseflesh’, perhaps a bit too vividly) in pāda a followed by two possessive adj. gómat and híraṇyavat ‘possessing / consisting of cattle (and) gold’ in pāda b, followed by a pl. NP sahasríṇīr íṣaḥ ‘thousandfold refreshments’ in c. In a we might have expected áśvāvat ‘possessing / consisting of horses’, to match the adjectival forms in b, but the phonologically similar and adjacent aśvavíd ‘horse-finding’ may have blocked it (to avoid *áśvāvad aśvavíd [though some RVic poets would have loved that phrase]).
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 This tṛca shows some signs of unity. The 1st two vss. are a syntactic unit, with the objects of the verb in 1c partly postponed to 2ab. The third vs. has as its verb pári … kṣárā, which echoes pári srava in 1a.
@@ -136,3 +167,4 @@ O ströme Rosse spendend du uns Gut an Ross und Rind und Gold, O Indu, tausend T
 Владение коровами, о капля, владение золотом!  
 Принеси, струясь, тысячные услады!
 </details>
+

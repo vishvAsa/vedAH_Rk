@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kākambī́ram ← kākambī́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+vánaspátim ← vánaspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥haḥ ← √vr̥h- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+áśastīḥ ← áśasti- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+nī́naśaḥ ← √naś- 2 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+áhar ~ áhaḥ ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ādádhate ← √dhā- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+grīvā́ḥ ← grīvā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+véḥ ← ví- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +220,7 @@ To lay out my reasoning in detail is, I realize, not necessarily to convince -- 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
 <details open><summary><h2>14-19 ...{Loading}...</h2></summary>
 
 On these Pūṣan vss., see published introduction.
@@ -197,3 +252,4 @@ Nicht reisse aus dem Stamm des Kakambirabaums; denn tilgen sollst die Hasser du,
 И пусть не (светит) солнце ни (одного) дня  
 (Тому,) кто берет птицу за горло!
 </details>
+

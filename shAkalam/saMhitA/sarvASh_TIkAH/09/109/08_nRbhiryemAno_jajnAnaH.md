@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+jajñānáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pūtáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yemānáḥ ← √yam- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+kṣárat ← √kṣar- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+mandráḥ ← mandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svarvít ← svarvíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -93,7 +118,7 @@ It is not certain how to construe víśvāni with kṣarat, and how this is deci
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Unlike the previous tṛca with repeated pavasva, each vs. of this tṛca has a different form or √pū: 7 pávasva, 8 pūtaḥ, 9 punānáḥ. The person switches from the 2nd sg. that has prevailed throughout the hymn to 3rd ps. in vs. 8.
@@ -122,3 +147,4 @@ Gelenkt von Männern – in Glanz geboren, du alles schenkend, – erfreuend, gl
 Направленный мужами, едва родившись, очищенный,  
 Пусть струит он (нам) все блага, благозвучный, находящий солнце!
 </details>
+

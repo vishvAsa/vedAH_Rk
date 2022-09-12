@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ativídhe ← √vyadh- (root)  
+{case:DAT, number:SG}
+
+báṁhiṣṭham ← báṁhiṣṭha- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sudānū ← sudā́nu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áchidram ← áchidra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhuvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+gopā ← gopā́- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+aviṣṭam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mitrāvaruṇau ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+jigīvā́ṁsaḥ ← √ji- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+síṣāsantaḥ ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT, mood:DES}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +194,4 @@ Welch Schutz der stärkste, welcher undurchbrechbar, untilgbar ist, freigieb'ge 
 Им, о Митра-Варуна, защитите нас!  
 Желая добыть, пусть будем мы победителями всегда!
 </details>
+

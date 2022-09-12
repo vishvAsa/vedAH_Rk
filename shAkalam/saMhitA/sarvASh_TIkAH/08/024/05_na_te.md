@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dákṣiṇam ← dákṣiṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+savyám ← savyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+āmúraḥ ← āmúr- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hástam ← hásta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+varante ← √vr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+gáviṣṭiṣu ← gáviṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+paribā́dhaḥ ← paribā́dh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +166,4 @@ Nicht wehren deine rechte Hand, die linke nicht die Feinde ab, Noch die Bedräng
 Руку не удержат разрушители  
 Или угнетатели, о повелитель буланых коней, при поисках коров.
 </details>
+

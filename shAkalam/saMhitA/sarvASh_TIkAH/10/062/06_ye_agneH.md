@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnéḥ ← agní- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+jajñiré ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+vírūpāsaḥ ← vírūpa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áṅgirastamaḥ ← áṅgirastama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dáśagvaḥ ← dáśagva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+návagvaḥ ← návagva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+maṁhate ← √maṁh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sácā ← sácā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +184,4 @@ Aus Agni's Glut sind sie erzeugt, vom Himmel sie, gestaltenreich, Der Neuner, Ze
 Навагва, Дашагва, лучший из Ангирасов  
 Вместе с богами – они хотят щедро дарить.
 </details>
+

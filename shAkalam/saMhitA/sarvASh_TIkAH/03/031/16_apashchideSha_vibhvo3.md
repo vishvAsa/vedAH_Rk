@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+dámūnāḥ ← dámūnas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vibhvàḥ ← vibhū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+asr̥jat ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+sadhrī́cīḥ ← sadhryàñc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+viśváścandrāḥ ← viśváścandra- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kavíbhiḥ ← kaví- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pavítraiḥ ← pavítra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+punānā́ḥ ← √pū- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:MED}
+
+aktúbhiḥ ← aktú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dhánutrīḥ ← dhánutar- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dyúbhiḥ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hinvanti ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +224,4 @@ Die Wasser auch liess er, der starke Hausfreund, ver- einigt fliessen, die allsc
 Сладкие, очищаемые духовными цедилками.  
 Мчась дни и ночи, они (вс?) приводят в движение.
 </details>
+

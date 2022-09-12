@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+janū́ḥ ← janúṣ- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tveṣyèṇa ← tveṣyà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+áyāsaḥ ← ayā́s- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+bhī́māsaḥ ← bhīmá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+túvimanyavaḥ ← tuvimanyu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+máhobhiḥ ← máhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+bhayate ← √bhī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+svardŕ̥k ← svardŕ̥ś- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+víśvaḥ ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +240,4 @@ Mit Ungestüm entsprangt ihr schon, o Maruts, ihr schrecklichen, voll Eifer, une
 Которые оказываются впереди благодаря величию и силе.  
 Всяк, кто видит солнце, боится вас в походе.
 </details>
+

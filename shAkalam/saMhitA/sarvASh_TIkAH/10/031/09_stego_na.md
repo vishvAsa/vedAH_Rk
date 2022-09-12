@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áti ← áti (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣā́m ← kṣám- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pr̥thvī́m ← pr̥thú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+stegáḥ ← stegá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhū́ma ← bhū́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+míham ← míh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāti ← √vā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ajyámānaḥ ← √añj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásr̥ṣṭa ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+śókam ← śóka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váne ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +245,4 @@ Dem Pfeile gleich durchdringt der Erde Sitz er, zerstreut die Wesen wie der Wind
 Когда он как Митра (или) Варуна умащаемый,  
 Словно Агни в древесине, испустил (свой) жар.
 </details>
+

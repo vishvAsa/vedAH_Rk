@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ít ← ít (invariable)  
+{}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+u ← u (invariable)  
+{}
+
+vaí ← vaí (invariable)  
+{}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mayobhúvā ← mayobhū́- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+yāmahū́tamā ← yāmahū́tama- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mr̥ḷayáttamā ← mr̥ḷayáttama- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +181,4 @@ Mit vollem Rechte nennet man o Ritter, Wonnebringer euch, Beim Fest die hülfsbe
 В пути вы лучше всех призываетесь,  
 В пути вы больше всех жалеете.
 </details>
+

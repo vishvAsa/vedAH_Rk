@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+cetat ← √cit- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+eṣu ← ayám (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+vŕ̥ṣaṇvatī ← vŕ̥ṣaṇvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+áruṣī ← áruṣī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+r̥jréṣu ← r̥jrá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+káśāvatī ← káśāvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svabhīśúḥ ← svabhīśú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +147,4 @@ Unter ihnen zeichnet sich aus eine mit Hengstfüllen versehene Stute und unter d
 
 -ru-
 </details>
+

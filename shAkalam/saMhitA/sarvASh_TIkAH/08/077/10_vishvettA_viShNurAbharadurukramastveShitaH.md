@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+abharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tvéṣitaḥ ← tvéṣita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urukramáḥ ← urukramá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣīrapākám ← kṣīrapāká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahiṣā́n ← mahiṣá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+odanám ← odaná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śatám ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+emuṣám ← emuṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+varāhám ← varāhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +187,7 @@ Oldenberg and Geldner (see his n. 10d) read loc. índre contra the Pp. nom. índ
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/10-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 On these verses as possible explanatory additions to the Emuṣa version given earlier in the hymn, see published introduction.
@@ -173,3 +219,4 @@ Alles dies brachte der von dir gesandte weitschreitende Vischnu herbei, hundert 
 Сотню буйволов, похлебку, вареную на молоке,  
 Кабана Эмушу, о Индра.
 </details>
+

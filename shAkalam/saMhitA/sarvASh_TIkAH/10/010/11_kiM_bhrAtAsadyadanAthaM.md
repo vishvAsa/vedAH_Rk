@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+anāthám ← anāthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+bhávāti ← √bhū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+bhrā́tā ← bhrā́tar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nigáchāt ← √gam- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+nírr̥tiḥ ← nírr̥ti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svásā ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bahú ← bahú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kā́mamūtā ← kā́mamūta- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rapāmi ← √rap- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pipr̥gdhi ← √pr̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +241,4 @@ Was soll dann der Bruder, wenn man schutzlos sein soll? Was die Schwester, wenn 
 Соедини (свое) тело с моим телом!  
 Яма:
 </details>
+

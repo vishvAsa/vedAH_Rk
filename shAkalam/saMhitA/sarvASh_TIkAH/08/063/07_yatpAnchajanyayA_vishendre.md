@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pā́ñcajanyayā ← pā́ñcajanya- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+viśā́ ← víś- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ásr̥kṣata ← √sr̥j- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ghóṣāḥ ← ghóṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ástr̥ṇāt ← √str̥̄- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+barháṇā ← barháṇā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vipáḥ ← víp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kṣáyaḥ ← kṣáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́nasya ← mā́na- 1 (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +179,4 @@ Wenn von der fünf Geschlechter Stamm dem Indra sich Gesang ergoss, Zerstreut mi
 Он мощно разметал молитвы  
 Врага, этот властитель почитания.
 </details>
+

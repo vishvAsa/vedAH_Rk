@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anindrám ← anindrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ardhám ← ardhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śr̥tapā́m ← śr̥tapā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīrásya ← vīrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+kṣā́m ← kṣám- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nunude ← √nud- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+párā ← párā (invariable)  
+{}
+
+śárdhantam ← √śardh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manyúm ← manyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+manyumyàḥ ← manyumī́- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mimāya ← √mī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bhejé ← √bhaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+
+pátyamānaḥ ← √pat- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vartaním ← vartaní- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Die indralose, freche Schar des Mannes, die Opfer trinkt, stiess Indra fort zu B
 Индра пресек ярость пресекающего ярость.  
 В путь отправился (тот, кто еще) владел колеёй.
 </details>
+

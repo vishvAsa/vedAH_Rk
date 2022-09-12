@@ -16,14 +16,93 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ebhiḥ ← ayám (pronoun)  
+{case:INS, gender:M, number:PL}
+
+evá ← evá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+kam ← kam (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+síndhum ← síndhu- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tatāra ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bhedám ← bhedá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ebhiḥ ← ayám (pronoun)  
+{case:INS, gender:M, number:PL}
+
+evá ← evá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+jaghāna ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kam ← kam (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+dāśarājñé ← dāśarājñá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+kam ← kam (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+sudā́sam ← sudā́s- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āvat ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vasiṣṭhāḥ ← vásiṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,3 +273,4 @@ Fürwahr, mit ihnen durchdrang er einst die Ströme, mit ihnen schlug er den Bhe
 Судасу – Индра силой вашего священного слова, о Васиштхи.  
 Индра:
 </details>
+

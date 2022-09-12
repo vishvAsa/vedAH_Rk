@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+átharvā ← átharvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+br̥háddivaḥ ← br̥háddiva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávocat ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+evá ← evá (invariable)  
+{}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svā́m ← svá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ariprā́ḥ ← ariprá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mātaríbhvarīḥ ← mātaríbhvan- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+svásāraḥ ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+hinvánti ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vardháyanti ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ So hat Brihaddiva, der grosse Priester, den Indra als sein eignes Selbst gerufen
 Сестры, находящиеся у матерей, незапятнанные,  
 Сильно торопят (его) и укрепляют.
 </details>
+

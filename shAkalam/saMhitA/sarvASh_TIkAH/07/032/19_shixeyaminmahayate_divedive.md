@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+mahayaté ← √mahay- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śíkṣeyam ← √śak- (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:ACT, mood:DES}
+
+ā́ ← ā́ (invariable)  
+{}
+
+kuhacidvíde ← kuhacidvíd- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́pyam ← ā́pya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nahí ← nahí (invariable)  
+{}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+caná ← caná (invariable)  
+{}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásyaḥ ← vásyaṁs- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Ich wollte spenden dem Verehrer Tag für Tag, des reichen Guts, wo er auch sei; 
 Ведь нет для нас другой дружбы, чем ты, о щедрый,  
 Даже отец не будет лучше!
 </details>
+

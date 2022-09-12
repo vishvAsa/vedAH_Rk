@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥ṣā́kapiḥ ← vr̥ṣā́kapi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hatám ← √han- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+párasvantam ← párasvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidat ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+asím ← así- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+carúm ← carú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+návam ← náva- 2 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sūnā́m ← sūnā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́citam ← √ci- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ánaḥ ← ánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+édhasya ← édha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +205,4 @@ Indra! Dieser Vrisakapi fand einen getöteten Waldesel, ein Schlachtmesser, eine
 
 -ru-
 </details>
+

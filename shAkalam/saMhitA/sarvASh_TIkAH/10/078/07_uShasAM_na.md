@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvaraśríyaḥ ← adhvaraśrī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ketávaḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+uṣásām ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+añjíbhiḥ ← añjí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+aśvitan ← √śvit- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+śubhaṁyávaḥ ← śubhaṁyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+bhrā́jadr̥ṣṭayaḥ ← bhrā́jadr̥ṣṭi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yayíyaḥ ← yayī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mamire ← √mā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+yójanāni ← yójana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Das Fest verschönend wie der Morgenröthe Strahlen, erglänzen sie mit Geschmei
 Мчась, как реки, со (своими) блестящими копьями,  
 Они измерили пройденные пути, словно (приехали) из дальней дали.
 </details>
+

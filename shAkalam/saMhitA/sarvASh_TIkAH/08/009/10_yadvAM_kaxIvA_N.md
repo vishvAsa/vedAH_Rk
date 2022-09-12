@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kakṣī́vān ← kakṣī́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vyàśvaḥ ← vyàśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dīrghátamāḥ ← dīrghátama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+juhā́va ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+pŕ̥thī ← pŕ̥thī- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sā́daneṣu ← sā́dana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vainyáḥ ← vainyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+átas ← átas (invariable)  
+{}
+
+cetayethām ← √cit- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+evá ← evá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +235,4 @@ Wenn euch Kakschīvat, oder wenn euch Viaçva, oder der Dichter Dirghatamas, ode
 Раз вас Притхи Вайнья на (жертвенных) сидениях,  
 То прежде всего, о Ашвины, обратите внимание (на меня)!
 </details>
+

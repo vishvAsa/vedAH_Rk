@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+rudrā́ya ← rudrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śíkvase ← śíkvas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+didiṣṭana ← √diś- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kṣayádvīrāya ← kṣayádvīra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+evayā́vabhiḥ ← evayā́van- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śiváḥ ← śivá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svávān ← svávas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+níkāmabhiḥ ← níkāman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+síṣakti ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sváyaśāḥ ← sváyaśas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +196,4 @@ Eur Lob erweiset heute dem gewaltigen, dem Männerherrscher Rudra mit gebeugtem 
 
 -ru-
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; repeated line  
 popular
+#### Morph
+avindan ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dī́dhyānāḥ ← √dhī- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+devayā́nam ← devayā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+skannám ← √skand- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yájuḥ ← yájus- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dhātúḥ ← dhātár- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+dyútānāt ← √dyut- (root)  
+{case:ABL, gender:M, number:SG, tense:AOR, voice:MED}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+víṣṇoḥ ← víṣṇu- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abharan ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+eté ← eṣá (pronoun)  
+{}
+
+gharmám ← gharmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sū́ryāt ← sū́rya- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Sie fanden im Geiste erwägend die erste vordringende zu den Göttern gehende G�
 От сверкающего Дхатара и от Савитара, от Вишну,  
 От Сурьи они принесли (жертву) гхарма.
 </details>
+

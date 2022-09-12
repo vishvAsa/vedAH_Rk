@@ -16,14 +16,63 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+yajñā́ḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yáyoḥ ← yá- (pronoun)  
+{case:LOC, gender:M, number:DU}
+
+asūré ← asūrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+adhvarásya ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prácetasā ← prácetas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+píbataḥ ← √pā- 2 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+somyám ← somyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svadhā́bhiḥ ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Bei denen unsere Opfer viel gelten, die herrlich glänzenden auch in dunkler Zei
 Эти двое – знатоки жертвы и обряда,  
 Которые по (своему) желанию пьют сладость сомы.
 </details>
+

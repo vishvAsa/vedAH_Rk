@@ -16,14 +16,87 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhuve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+pū́rvam ← pū́rva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+dadíḥ ← dadí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hávyaḥ ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pátyate ← √pat- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+adhvaryúbhiḥ ← adhvaryú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mádhu ← mádhu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prásthitam ← √sthā- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+somyám ← somyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+draviṇodaḥ ← draviṇodas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+potrā́t ← potrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+r̥túbhiḥ ← r̥tú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +237,7 @@ The nom. dadíḥ must be part of the rel. cl., specifying acc. nā́ma. dadí�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/037/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/037/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The d pādas of the first three vss. have a rigid structure: PRIEST’S CUP sómaṃ draviṇodaḥ píbartúbhiḥ. Noteworthy is only that píba is accented in all three vss., though there is no obvious reason for this, and the last three vss. (4-6), which also contain imperatives to √pā, though of different form (4d pibatu, 5d pibatam, 6d pāyayā), in syntactically variant constructions, lack such accent. I have no explanation (and it seems not to have attracted any attention) beyond the suggestion that píbartúbhiḥ is treated as a detachable refrain, even though what precedes it in the pāda must be construed with it. See now also remarks ad III.32.1.
@@ -196,3 +269,4 @@ Ihn, den ich sonst auch angerufen, ruf' ich jetzt, er ist zu rufen, der des Gebe
 Сладость сомы предложена (жрецами-) адхварью.  
 О Дравинодас, пей сому из кубка потара в (свое) время!
 </details>
+

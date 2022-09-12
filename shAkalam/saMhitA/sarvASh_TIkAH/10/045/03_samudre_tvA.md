@@ -21,14 +21,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+antár ← antár (invariable)  
+{}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+nr̥máṇāḥ ← nr̥máṇas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+īdhe ← √idh- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+nr̥cákṣāḥ ← nr̥cákṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ū́dhan ← ū́dhar- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+rájasi ← rájas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tasthivā́ṁsam ← √sthā- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+tr̥tī́ye ← tr̥tī́ya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+avardhan ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mahiṣā́ḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Im Meer der Luft entflammte dich der Mannheld, im Himmels-Euter dich der Männer
 Тебя, находящегося в третьем пространстве,  
 В лоне вод вырастили буйволы.
 </details>
+

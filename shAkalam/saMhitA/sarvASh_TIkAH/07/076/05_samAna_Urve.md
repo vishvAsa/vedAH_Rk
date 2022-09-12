@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+samāné ← samāná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sáṁgatāsaḥ ← √gam- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ūrvé ← ūrvá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+jānate ← √jñā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mithás ← mithás (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yatante ← √yat- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+minanti ← √mī- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ámardhantaḥ ← ámardhant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vásubhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yā́damānāḥ ← √yād- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +229,4 @@ Zu gleichem Orte allesammt gekommen sind eines Sinns sie, liegen nicht im Streit
 Они не нарушают обетов богов,  
 Безукоризненные, обьединяющиеся с Васу.
 </details>
+

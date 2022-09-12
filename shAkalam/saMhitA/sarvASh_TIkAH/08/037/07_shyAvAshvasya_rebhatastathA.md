@@ -16,15 +16,73 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment
+#### Morph
+rébhataḥ ← √ribh- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śr̥ṇu ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śyāvā́śvasya ← śyāvā́śva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+táthā ← táthā (invariable)  
+{}
+
+áśr̥ṇoḥ ← √śru- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+átreḥ ← átri- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+kármāṇi ← kárman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+kr̥ṇvatáḥ ← √kr̥- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
+āvitha ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+trasádasyum ← trasádasyu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+nr̥ṣā́hye ← nr̥ṣā́hya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kṣatrā́ṇi ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vardháyan ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Den Somapresser [Sänger in 657, 7] Çjāva-açva höre so, wie du einst den Atr
 Трасадасью в битве мужей,  
 О Индра, укрепляя высшие власти.
 </details>
+

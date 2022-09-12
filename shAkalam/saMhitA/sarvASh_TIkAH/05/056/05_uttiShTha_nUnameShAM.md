@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+nūnám ← nūnám (invariable)  
+{}
+
+tiṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+sámukṣitānām ← √ukṣ- (root)  
+{case:GEN, gender:M, number:PL, non-finite:PPP}
+
+stómaiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ápūrvyam ← ápūrvya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+purutámam ← purutáma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+hvaye ← √hvā- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+sárgam ← sárga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +183,4 @@ Erheb dich nun zu preisen sie, die alle sind zugleich erstarkt, Der Maruts reich
 (Толпу) Марутов, самую большую, небывалую,  
 Я зову, словно стада коров.
 </details>
+

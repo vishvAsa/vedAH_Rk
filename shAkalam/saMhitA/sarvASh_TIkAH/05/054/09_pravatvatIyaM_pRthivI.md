@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+marúdbhyaḥ ← marút- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+pravátvatī ← pravátvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pravátvatī ← pravátvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+prayádbhyaḥ ← √i- 1 (root)  
+{case:DAT, gender:M, number:PL, tense:PRS, voice:ACT}
+
+antárikṣyāḥ ← antárikṣya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pathyā̀ḥ ← pathyā̀- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pravátvatīḥ ← pravátvant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jīrádānavaḥ ← jīrádānu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+párvatāḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pravátvantaḥ ← pravátvant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +198,4 @@ Leichtgangbar ist die Erde hier der Marutschar, leichtgangbar auch der Himmel do
 Отлогие пути через воздушное пространство,  
 Отлогие горы, быстродающие.
 </details>
+

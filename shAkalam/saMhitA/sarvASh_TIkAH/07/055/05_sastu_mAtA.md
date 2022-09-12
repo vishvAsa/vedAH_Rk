@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sástu ← √sas- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sástu ← √sas- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sástu ← √sas- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sástu ← √sas- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+śvā́ ← śván- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśpátiḥ ← viśpáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jñātáyaḥ ← jñātí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sárve ← sárva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sasántu ← √sas- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+abhítas ← abhítas (invariable)  
+{}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sástu ← √sas- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +192,4 @@ Die Mutter schlaf, der Vater schlaf, es schlafe Hund und Hausherr auch, Es schla
 Пусть спять все родные,  
 Пусть спит вокруг этот род!
 </details>
+

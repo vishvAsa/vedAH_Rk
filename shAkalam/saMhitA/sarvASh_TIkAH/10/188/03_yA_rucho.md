@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+jātávedasaḥ ← jātávedas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rúcaḥ ← rúc- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+devatrā́ ← devatrā́ (invariable)  
+{}
+
+havyavā́hanīḥ ← havyavā́hana- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+invatu ← √i- 2 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +142,4 @@ Der Held, der die Gespenster-Schar mit heller Flamme niederbrennt, Er führ' uns
 Отвозящие жертву к богам, –  
 Пусть он ими поощрит нашу жертву!
 </details>
+

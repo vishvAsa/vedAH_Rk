@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+māmateyám ← māmateyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pāyávaḥ ← pāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+andhám ← andhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+árakṣan ← √rakṣⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+duritā́t ← duritá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+páśyantaḥ ← √paś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+rarákṣa ← √rakṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sukŕ̥taḥ ← sukŕ̥t- (nominal stem)  
+{case:ACC, number:PL}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+viśvávedāḥ ← viśvávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áha ← áha (invariable)  
+{}
+
+debhuḥ ← √dabh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dípsantaḥ ← √dabh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT, mood:DES}
+
+ít ← ít (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ripávaḥ ← ripú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +194,6 @@ genre M;; repeated line
 कथं ररक्षेत्याह - यथा रिपवो राक्षसादयः दिप्सन्त इत् रिपुं दम्भितुमिच्छन्तः परिभवितुमिच्छन्त एव सन्तः नैव देभुः न परिबभूवुः । ततः प्रभृति तथा ररक्षेति । दम्भेस्सनि 'सनीवन्तर्ध' इतीडागमः । 'दम्भ इच्च' इतीकारः । भषभावश्छान्दसः । दम्भेर्हल्ग्रहणस्य जातिवाचित्वात् 'हलन्ताच्च' इति सनः कित्त्वम् । देभुरिति 'दम्भेश्चोति वक्तव्यम्' इति लिटः कित्त्वादुपधालोपः । दभिः प्रकृत्यन्तरं वा । 'अन्येषामपि दृश्यते' इति नशब्दस्य संहितायां दीर्घत्वम् ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -196,3 +253,4 @@ Den Mamateja schützten deine Hüter, den Blinden sehend, vor Gefahr, o Agni; De
 (С их помощью) всеведущий (Агни) спас таких благочестивых.  
 И хотят навредить мошенники, но не (могут) навредить.
 </details>
+

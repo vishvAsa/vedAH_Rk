@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+mánau ← mánu- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sā́ṁvaraṇau ← sā́ṁvaraṇi- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ápibaḥ ← √pā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sutám ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+médhyātithau ← médhyātithi- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+nī́pātithau ← nī́pātithi- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+púṣṭigau ← púṣṭigu- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+śrúṣṭigau ← śrúṣṭigu- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +167,4 @@ Wie du, o Indra, bei dem Manu, dem Nachkommen des Samvarana, den gepressten Soma
 У Нипатитхи, о щедрый, у Медхьятитхи,  
 У Пуштигу вместе с Шруштигу…
 </details>
+

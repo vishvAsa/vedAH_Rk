@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āpíḥ ← āpí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bodhi ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+dádr̥śānaḥ ← √dr̥ś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+trātā́ ← trātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhikhyātā́ ← abhikhyātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marḍitā́ ← marḍitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+somyā́nām ← somyá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pitr̥̄ṇā́m ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pitŕ̥tamaḥ ← pitŕ̥tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+kártā ← kártar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ulokám ← uloká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+uśaté ← √vaś- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vayodhā́ḥ ← vayodhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +227,4 @@ Sei Schützer uns, dich zeigend als Verwandter, der Somabringer Hüter und Erfre
 Другом, отцом, самым отеческим из отцов,  
 Создателем простора, дающим телесную силу тому, кто хочет!
 </details>
+

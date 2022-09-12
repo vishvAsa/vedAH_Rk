@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhikhyā́ ← abhikhyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nā́dhamānān ← √nādh- (root)  
+{case:ACC, gender:M, number:PL, tense:PRS, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+bodhí ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sákhe ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sákhīnām ← sákhi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vasupate ← vásupati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+raṇakr̥t ← raṇakr̥t- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ráṇam ← ráṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+satyaśuṣma ← satyáśuṣma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ábhakte ← ábhakta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+bhaja ← √bhaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ O sieh auf uns, die flehenden, o mächt'ger, der Freunde Freund sei du, o Herr d
 Создай радость битвы, о создающий радость битвы, о тот, чье неистовство истинно!  
 Выдели нам (долю) в еще не деленном богатстве!
 </details>
+

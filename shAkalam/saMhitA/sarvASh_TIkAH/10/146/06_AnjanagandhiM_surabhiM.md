@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+ā́ñjanagandhim ← ā́ñjanagandhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+surabhím ← surabhí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ákr̥ṣīvalām ← ákr̥ṣīvala- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bahvannā́m ← bahvanná- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mr̥gā́ṇām ← mr̥gá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+araṇyāním ← araṇyāní- ~ araṇyānī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+aśaṁsiṣam ← √śaṁs- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +169,4 @@ Gerühmt hab' ich die Waldesfrau, sie, die des Wildes Mutter ist, Von Salben duf
 Араньяни я прославил,  
 Мать диких зверей.
 </details>
+

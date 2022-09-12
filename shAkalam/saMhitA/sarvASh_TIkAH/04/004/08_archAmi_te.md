@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árcāmi ← √r̥c- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ghóṣi ← √ghuṣ- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+gī́ḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+jaratām ← √gr̥̄- 1 (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vāvā́tā ← vāvā́ta- (?) (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+marjayema ← √mr̥j- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+suráthāḥ ← surátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sváśvāḥ ← sváśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+asmé ← ahám (pronoun)  
+{case:LOC, number:PL}
+
+dhārayeḥ ← √dhr̥- (root)  
+{number:SG, person:2, mood:OPT, tense:PRS, voice:ACT}
+
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kṣatrā́ṇi ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +196,6 @@ genre M
 स्तुस्तिर्विशेष्यते - घोषि घुष्यत इति घोषि । 'इन्सर्वधातुभ्यः' इतीन्, क्रियाविशेषणत्वान्नपुंसकत्वम् । अर्वाक् अर्वाचीनमस्मादृशजनोचितं, यथास्माभिर्घोषयितुं शक्यते तथा घोषयित्वा त्वद्गुणानियं स्तौतु । अथ कायिकीं परिचर्यामाह - स्वश्वास्सुरथाश्च सन्तः त्वत्प्रसादेन महाधनाः पुत्रपौत्रादिसहिताश्च सन्तस्त्वामर्चयेम अलङ्कुर्मः, परिचरेमेति यावत् । मृजू शौचालङ्करणयोः, वृद्ध्यभावश्छान्दसः । शुद्धिकर्मण एव वा शु[वृ?]द्ध्या भाव्यम् । 'आद्युदात्तं द्व्यच्छन्दसि' इति बहुव्रीहेरुत्तरपदाद्युदात्तत्वम् । अस्मे अस्मभ्यमेवं वर्तमानेभ्यः क्षत्राणि बलानि धारयेः देहि । यद्वा - अस्माकं क्षत्राणि धारय । यद्वा - अस्मदर्थं क्षत्राणि धारय । सुपां सुलुक्' इति शे आदेशः । अनुद्यून् दिनेदिने । लक्षणादिना कर्मप्रवचनीयत्वम् ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -202,3 +262,4 @@ Ich sing' ein Lied dir, in der Näh' erschall' es; dir soll erklingen dieses lie
 Мы хотим украсить тебя, (чтоб получить) прекрасных коней, прекрасные колесницы.  
 Все дни поддерживай (наше) господство!
 </details>
+

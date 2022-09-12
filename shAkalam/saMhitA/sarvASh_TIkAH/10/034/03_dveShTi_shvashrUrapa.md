@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+dvéṣṭi ← √dviṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jāyā́ ← jāyā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ruṇaddhi ← √rudh- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śvaśrū́ḥ ← śvaśrū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+marḍitā́ram ← marḍitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nāthitáḥ ← √nāth- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vindate ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+áśvasya ← áśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+járataḥ ← járant- (nominal stem)  
+{}
+
+vásnyasya ← vásnya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+bhógam ← bhóga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kitavásya ← kitavá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vindāmi ← √vid- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Mich hasst die Schwieger, mich verlässt die Gattin, und der bedrängte findet k
 Как в старой лошади на продажу,  
 Я не нахожу пользы в игроке.
 </details>
+

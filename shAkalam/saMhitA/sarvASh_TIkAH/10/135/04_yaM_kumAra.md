@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+ávartayaḥ ← √vr̥t- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+kumāra ← kumārá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víprebhyaḥ ← vípra- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+avartata ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+sā́ma ← sā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ā́hitam ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+itás ← itás (invariable)  
+{}
+
+nāví ← naú- ~ nā́v- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +193,4 @@ Dem Wagen, den du rollen liesst, o Knabe, von den Sängern her, Dem rollten unsr
 Отсюда оно было помещено на корабль.  
 Автор:
 </details>
+

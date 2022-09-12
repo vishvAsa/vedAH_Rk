@@ -16,14 +16,42 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávasi ← ávas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mitrásya ← mitrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+sapráthastame ← sapráthastama- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+syā́ma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+anehásaḥ ← anehás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvótayaḥ ← tvóti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+váruṇaśeṣasaḥ ← váruṇaśeṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Wir mögen unter Mitra's Schutz, dem ausgedehntesten, bestehn, Von dir behütet 
 Безгрешные, поддержанные тобой,  
 Все вместе, с Варуной про запас!
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámāya ← áma- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yā́tave ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jíhīte ← √hā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+úttarā ← úttara- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dédiśate ← √diś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tanū́ṣu ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+bāhvòjasaḥ ← bāhvòjas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvákṣāṁsi ← tvákṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +192,4 @@ Vor eurem Andrang klafft der höchste Himmel weit, wenn, Maruts, eure Fahrt ihr 
 Когда мужи с мощными руками  
 Являют на (своих) телах знаки могучей деятельности.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gr̥ṇīhi ← √gr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+namasyèbhiḥ ← namasyà- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śūṣaíḥ ← śūṣá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+cakānā́ ← √kā- (root)  
+{case:ACC, gender:M, number:DU, tense:PRF, voice:MED}
+
+índrāváruṇā ← índrāváruṇa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sumnébhiḥ ← sumná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hánti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+síṣakti ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥jáneṣu ← vr̥jána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ Sie preise nun mit ehrfurchtsvollen Liedern, die sang-erfreuten Varuna und Indra
 Один (из них) с силой убивает ваджрой Вритру,  
 Другой, вдохновенный, сопровождает его в общинах.
 </details>
+

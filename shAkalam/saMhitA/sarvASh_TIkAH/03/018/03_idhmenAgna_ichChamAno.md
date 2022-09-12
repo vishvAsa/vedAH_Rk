@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ichámānaḥ ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+idhména ← idhmá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+bálāya ← bála- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+juhómi ← √hu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tárase ← táras- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ī́śe ← √īś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+vándamānaḥ ← √vandⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+yā́vat ← yā́vant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devī́m ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+śataséyāya ← śataséya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Mit Brennholz nahend, Agni, und mit Butter, ergiess ich Trank zur Rüstigkeit un
 Насколько я способен, прославляя (тебя) молитвой,  
 (Я приношу тебе) эту божественную поэтическую мысль, чтобы добыть сотни.
 </details>
+

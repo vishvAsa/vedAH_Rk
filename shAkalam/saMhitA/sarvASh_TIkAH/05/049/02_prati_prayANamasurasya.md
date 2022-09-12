@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásurasya ← ásura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+prayā́ṇam ← prayā́ṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+duvasya ← √duvasy- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+savitā́ram ← savitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sūktaíḥ ← sūktá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+bruvīta ← √brū- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vijānán ← √jñā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+āyóḥ ← āyú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+jyéṣṭham ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vibhájantam ← √bhaj- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Des Himmlischen Herannahn recht erkennend, verehre den Gott Savitar mit Liedern;
 Пусть разбирающийся (в этом) просит с поклонением (его),  
 И (того, другого), распределяющего лучшее сокровище Аю.
 </details>
+

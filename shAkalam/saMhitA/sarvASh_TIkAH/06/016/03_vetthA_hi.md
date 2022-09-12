@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ádhvanaḥ ← ádhvan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+vedhaḥ ← vedhás- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+véttha ← √vid- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+áñjasā ← áñjasā (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sukrato ← sukrátu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yajñéṣu ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +168,4 @@ Denn du, o Ordner, kennst, o Gott, die Wege und die Pfade stracks, Beim Opfer, A
 И дороги, (ведущие) прямо, о бог,  
 К жертвоприношениям, о Агни с прекрасной силой духа.
 </details>
+

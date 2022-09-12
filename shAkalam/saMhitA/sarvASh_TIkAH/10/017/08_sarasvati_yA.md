@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+sárasvati ← sárasvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+sarátham ← sarátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+yayā́tha ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+devi ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+mádantī ← √mad- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+pitŕ̥bhiḥ ← pitár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+svadhā́bhiḥ ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+āsádya ← √sad- (root)  
+{non-finite:CVB}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+barhíṣi ← barhís- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mādayasva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+anamīvā́ḥ ← anamīvá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Sarasvati, die du auf gleichem Wagen dich mit den Vätern gern berauschend, naht
 Радуйся, сев на эту жертвенную солому!  
 Надели нас жертвенными усладами, дающими здоровье!
 </details>
+

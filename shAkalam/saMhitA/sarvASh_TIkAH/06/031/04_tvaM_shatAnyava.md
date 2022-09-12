@@ -17,15 +17,70 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áva ← áva (invariable)  
+{}
+
+śámbarasya ← śámbara- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śatā́ni ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+apratī́ni ← apratí- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dásyoḥ ← dásyu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jaghantha ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+púraḥ ← púr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+áśikṣaḥ ← √śak- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT, mood:DES}
+
+śacīvaḥ ← śácīvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śácyā ← śácī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+dívodāsāya ← dívodāsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sutakre ← sutakra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bharádvājāya ← bharádvāja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Du brachst herab des Dämons hundert Burgen, des Çambara, die unangreifbar ware
 Для Диводасы, выжимающего (тебе) сому, о ты, покупаемый за сому,  
 Для Бхарадваджи, воспевающего (тебя), добыть богатство.
 </details>
+

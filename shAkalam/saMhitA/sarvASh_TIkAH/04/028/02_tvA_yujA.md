@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+khidat ← √khid- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tvā́ ← tvám (pronoun)  
+{case:INS, number:SG}
+
+yujā́ ← yúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sadyás ← sadyás (invariable)  
+{}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+br̥hatā́ ← br̥hánt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+snúnā ← sā́nu- ~ snú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vártamānam ← √vr̥t- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:MED}
+
+ápa ← ápa (invariable)  
+{}
+
+dhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+druháḥ ← drúh- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:ABL, number:SG}
+
+viśvā́yu ← viśvā́yu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Mit dir vereint, o Indu, drückte Indra der Sonne Rad mit Kraft hernieder eilig,
 Катившееся по высокой спине (неба).  
 Отнят весь срок жизни у великого вредителя.
 </details>
+

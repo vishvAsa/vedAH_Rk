@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sucákṣasaḥ ← sucákṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sumánasaḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+viśvā́hā ← viśvā́hā (invariable)  
+{}
+
+ánāgasaḥ ← ánāgas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anamīvā́ḥ ← anamīvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prajā́vantaḥ ← prajā́vant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mitramahaḥ ← mitrámahas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+udyántam ← √i- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jīvā́ḥ ← jīvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jyók ← jyók (invariable)  
+{}
+
+paśyema ← √paś- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+sūrya ← sū́rya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +212,4 @@ Mit frohem Sinn und hellem Auge immerdar, an Kindern reich und ohne Krankheit, o
 Тебя, восходящего день за днем, о великий, как Митра,  
 Мы, живые, хотим долго видеть, о Сурья!
 </details>
+

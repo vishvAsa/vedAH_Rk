@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+mārutā́śvasya ← mārutā́śva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śóṇāḥ ← śóṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+krátvāmaghāsaḥ ← krátvāmagha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rātaú ← rātí- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vidáthasya ← vidátha- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+cyávatānaḥ ← cyávatāna- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dádānaḥ ← √dā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ānūkám ← ānūkám (invariable)  
+{}
+
+ārcat ← √r̥c- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+aryáḥ ← aryá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vápuṣe ← vápus- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +195,7 @@ The standard interpr. (Geldner [/Witzel Gotō], Oldenberg, Klein I.425) take ary
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/033/08-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/033/08-10.md">
 <details open><summary><h2>08-10 ...{Loading}...</h2></summary>
 
 As just noted, 7c begins with utá as do vss. 8-10, but those vss. of the dānastuti proper are further unified, all beginning utá tyé mā.
@@ -175,3 +227,4 @@ Und mich [erfreuten] diese kraftbegabten Braunen des Märutä§va bei des Opferf
 Чьяватана, подаривший мне тысячи,  
 Пропел в заключение, словно для украшения благородного господина.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápavathāḥ ← √pū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:MED}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vayodhā́ḥ ← vayodhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+amitrahā́ ← amitrahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havíṣmān ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+varivovít ← varivovíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ā́yudhāni ← ā́yudha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+janáya ← √janⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+tiṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +194,7 @@ As pointed out in the published introduction, this vs. is strongly marked as a h
 The final pāda consists of two brief clauses, both somewhat aberrant. The first contains an idiom I have not found elsewhere, sám √sthā + LOC. My tr., “stand sideby-side by Indra,” is meant to capture this slightly off expression. The second clause, “beget/generate weapons,” is syntactically fine but semantically odd.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/12-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
 The first vs. of the new hymn (13a) begins pávasva (see also pavasva in 14a), just as the last vs. of the previous hymn ended with pavasva (12c). Again, this concatenation may have led to the attachment of 13-16 at this point. Of course, pávasva is hardly a rare form in this maṇḍala.
@@ -177,3 +226,4 @@ Wie du dem Manu strömtest, Kraft verleihend, die Feinde schlagend, Segen spende
 Так очищайся, наделяя богатством!  
 Держи связь с Индрой! Порождай оружие!
 </details>
+

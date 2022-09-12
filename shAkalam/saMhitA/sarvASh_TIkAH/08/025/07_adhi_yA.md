@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+abhí ← abhí (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+páśyataḥ ← √paś- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yūthā́ ← yūthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+hitā́ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:DU, non-finite:PPP}
+
+námase ← námas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+r̥tā́vānā ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+samrā́jā ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +168,4 @@ Sie, die vom hohen Himmel her die Heerden gleichsam überschaun, Gerechte Herrsc
 Наблюдают (за людьми), как за стадами,  
 (Эти) преданные закону вседержители созданы для поклонения.
 </details>
+

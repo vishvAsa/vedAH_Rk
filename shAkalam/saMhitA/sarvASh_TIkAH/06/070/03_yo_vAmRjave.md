@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+krámaṇāya ← krámaṇa- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+r̥jáve ← r̥jú- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dadā́śa ← √dāś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dhiṣaṇe ← dhiṣáṇā- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sādhati ← √sādh- ~ sidh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhármaṇaḥ ← dhárman- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+jāyate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+prajā́bhiḥ ← prajā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sávratā ← sávrata- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+siktā́ ← √sic- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+víṣurūpāṇi ← víṣurūpa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yuvóḥ ← tvám (pronoun)  
+{case:GEN, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +237,4 @@ Welch' Sterblicher, um recht zu wandeln, euch verehrt, o Welten, o ihr Schalen b
 Он возрождается в потомках, (как положено) по закону.  
 Излитые вами (семена) – (это существа,) разные по форме, следующие одному обету.
 </details>
+

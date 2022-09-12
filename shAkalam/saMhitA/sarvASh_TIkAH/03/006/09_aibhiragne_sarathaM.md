@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arvā́ṅ ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ebhiḥ ← ayám (pronoun)  
+{case:INS, gender:M, number:PL}
+
+sarátham ← sarátha- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+nānārathám ← nānārathá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vibhávaḥ ← vibhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pátnīvataḥ ← pátnīvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+triṁśátam ← triṁśát- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+trī́n ← trí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+anuṣvadhám ← anuṣvadhám (invariable)  
+{}
+
+mādáyasva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vaha ← √vah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +239,4 @@ Mit denen Agni komm auf gleichem oder verschiednen Wagen, stark sind ja die Ross
 Тридцать трех богов с женами  
 Привези по своему желанию (и) опьяняйся (вместе с ними)!
 </details>
+

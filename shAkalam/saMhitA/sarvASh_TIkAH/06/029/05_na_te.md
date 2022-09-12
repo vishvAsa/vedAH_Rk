@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ántaḥ ← ánta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+ná ← ná (invariable)  
+{}
+
+śávasaḥ ← śávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+bābadhe ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tú ← tú (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+pr̥ṇati ← √pr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sūríḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+tū́tujānaḥ ← √tuj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+samī́jamānaḥ ← √īj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ūtī́ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yūthā́ ← yūthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +242,4 @@ Nicht gibt's ein Ende dieser deiner Stärke; mit seiner Grösse drängt er fort 
 Господин усердно насыщает (все) эти (существа), –  
 Словно (пастух), сгоняя в воду стада, – (своею) поддержкой.
 </details>
+

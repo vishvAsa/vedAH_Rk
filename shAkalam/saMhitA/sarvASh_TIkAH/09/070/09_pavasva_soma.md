@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devávītaye ← devávīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+hā́rdi ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+somadhā́nam ← somadhā́na- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+viśa ← √viś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+bādhā́t ← bādhá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+duritā́ ← duritá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāraya ← √pr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+purā́ ← purā́ (invariable)  
+{}
+
+ā́ha ← √ah- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+díśaḥ ← díś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+kṣetravít ← kṣetravíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vipr̥chaté ← √praś- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Als Stier, o Soma, flamme hell zum Göttermahl, in Indra's Bauch, der Soma fasse
 Переправь нас через опасности, (спасая) от гнета!  
 Ведь знаток местности называет направления спрашивающему (его).
 </details>
+

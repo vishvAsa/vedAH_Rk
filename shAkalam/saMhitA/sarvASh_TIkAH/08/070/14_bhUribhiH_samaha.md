@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́ribhiḥ ← bhū́ri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ŕ̥ṣibhiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+samaha ← samaha (invariable)  
+{}
+
+barhíṣmadbhiḥ ← barhíṣmant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+staviṣyase ← √stu- (root)  
+{number:SG, person:2, mood:IND, tense:FUT, voice:MED}
+
+ékam-ekam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+itthám ← itthám (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+parādádaḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+śára ← śará- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vatsā́n ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +171,4 @@ Von vielen Sängern, die mit Streu versehn sind, wirst du vielfach gepriesen wer
 
 -ru-
 </details>
+

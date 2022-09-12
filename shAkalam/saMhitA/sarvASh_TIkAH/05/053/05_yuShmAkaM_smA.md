@@ -15,13 +15,50 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+ráthān ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sma ← sma (invariable)  
+{}
+
+yuṣmā́kam ← tvám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+jīradānavaḥ ← jīrádānu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mudé ← múd- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+dyā́vaḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+vr̥ṣṭī́ ← vr̥ṣṭí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yatī́ḥ ← √i- 1 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +176,4 @@ Ich rege eure Wagen an zur Wonne mir, o tropfenreiche Marutschar, Wie Blitze die
 Для радости, о Маруты быстродающие,  
 Как небеса – к движущимся с дождем (водам).
 </details>
+

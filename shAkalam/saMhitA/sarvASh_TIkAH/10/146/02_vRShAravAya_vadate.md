@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+vádate ← √vadⁱ- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥ṣāravā́ya ← vr̥ṣāravá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ciccikáḥ ← cicciká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+upā́vati ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āghāṭíbhiḥ ← āghāṭí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dhāváyan ← √dhāv- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+araṇyāníḥ ← araṇyāní- ~ araṇyānī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mahīyate ← √mahīy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +160,4 @@ Wenn auf des Uhu's lauten Ruf der Papagei die Antwort gibt, Und hüpft wie nach 
 Араньяни величается,  
 Как тот, кто выезжает под звуки цимбал.
 </details>
+

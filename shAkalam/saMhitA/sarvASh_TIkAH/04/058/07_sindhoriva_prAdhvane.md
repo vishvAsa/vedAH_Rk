@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+iva ← iva (invariable)  
+{}
+
+prādhvané ← prādhvaná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+síndhoḥ ← síndhu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śūghanā́saḥ ← śūghaná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+patayanti ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́tapramiyaḥ ← vā́tapramī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yahvā́ḥ ← yahvá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+aruṣáḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhā́rāḥ ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ghr̥tásya ← ghr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhindán ← √bhid- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kā́ṣṭhāḥ ← kā́ṣṭhā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pínvamānaḥ ← √pinv- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ūrmíbhiḥ ← ūrmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +182,7 @@ I read kā́ṣṭhā(ḥ) in both simile and frame: in the simile it refers to 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
 <details open><summary><h2>05-10 ...{Loading}...</h2></summary>
 
 Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: ūrmáyo ghrtásya ̥ in 6c).
@@ -167,3 +216,4 @@ Die schnellen fliegen wie im Sturz des Stromes, hinschiessend rascher als des Wi
 Потоки жира, как рыжий скакун,  
 Ломающий преграды, набухая волнами.
 </details>
+

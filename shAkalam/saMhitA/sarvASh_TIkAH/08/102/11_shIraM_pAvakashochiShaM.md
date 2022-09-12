@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+pāvakáśociṣam ← pāvakáśocis- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śīrám ← śīrám (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dámeṣu ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+jyéṣṭhaḥ ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dīdā́ya ← √dī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dīrghaśrúttamaḥ ← dīrghaśrúttama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +143,4 @@ Den glühenden, der flammend glänzt, am schönsten in den Häusern strahlt, Des
 Что как лучший светит  
 В домах, самый далеко прославленный!
 </details>
+

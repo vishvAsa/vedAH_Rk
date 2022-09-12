@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+oṇyòḥ ← oṇí- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+sotā́raḥ ← sotár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ghŕ̥ṣvaye ← ghŕ̥ṣvi- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rásam ← rása- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+étaśaḥ ← étaśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sárgaḥ ← sárga- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+takti ← √tak- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +162,4 @@ In beide Schalen sandten dir die Presser Saft zum muntern Rausch; Das Ross schie
 Сок для радостного опьянения.  
 Эташа устремился, как выстрел.
 </details>
+

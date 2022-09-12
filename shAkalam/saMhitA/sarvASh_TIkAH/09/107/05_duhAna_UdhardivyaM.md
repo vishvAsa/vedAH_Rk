@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+divyám ← divyá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+duhānáḥ ← √duh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asadat ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+pratnám ← pratná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sadhástham ← sadhástha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āpŕ̥chyam ← āpŕ̥chya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+arṣati ← √arṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dharúṇam ← dharúṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhūtáḥ ← √dhū- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +175,7 @@ wide-gazing one rinsed by men.
 Grassmann, Geldner, Renou all take dhūtáḥ to √dhū ‘shake’, but given apsú dhūtá- in IX.62.5, X.104.2, I prefer √dhū, dhāv ‘rinse’.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 Both vss. describing Soma taking his seat (4c, 5b). There is also concatenation between pragāthas: the final word of 5, vicakṣaṇáḥ, matches that of vs. 3, the final word of its metrical grouping. And the first word of vs. 4, punānáḥ, is reprised as the beginning of 6 (and echoes the same participle in the 2nd position in 2a).
@@ -158,3 +207,4 @@ Ausmelkend aus des Himmels Euter lieben Meth, hast du dich auf den Sitz gesetzt;
 Захватчик награды, он течет к разыскиваемой опоре,  
 Когда его встряхнули мужи, (он,) смотрящий далеко.
 </details>
+

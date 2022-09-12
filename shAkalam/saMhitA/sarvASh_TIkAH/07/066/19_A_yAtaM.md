@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́hutim ← ā́huti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+juṣāṇaú ← √juṣ- (root)  
+{case:NOM, gender:M, number:DU, tense:AOR, voice:MED}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pātám ← √pā- 2 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+r̥tāvr̥dhā ← r̥tāvŕ̥dh- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +139,4 @@ Kommt her, o Mitra-Varuna, o Männer, nehmt das Opfer an, Und trinkt den Soma, O
 О два мужа, наслаждающиеся возлиянием!  
 Пейте сому, о усиливающиеся от закона!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+atirātré ← atirātrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+brāhmaṇā́saḥ ← brāhmaṇá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sóme ← sóma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+abhítas ← abhítas (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pūrṇám ← √pr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sáraḥ ← sáras- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vádantaḥ ← √vadⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+áhar ~ áhaḥ ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+saṁvatsarásya ← saṁvatsará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+stha ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+babhū́va ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+maṇḍūkāḥ ← maṇḍū́ka- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+prāvr̥ṣī́ṇam ← prāvr̥ṣī́ṇa- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +201,7 @@ The similes are complexly intertwined: the frogs are compared to brahmins, but t
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/103/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/103/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 With the behavioral model of the frogs established in the first 6 vss., the next three treat the ritual application of this model.
@@ -183,3 +238,4 @@ Wie Priester bei dem übernächt'gen Soma rings um die volle Kufe lustig singen,
 Так проводите вы, лягушки, тот день в году,  
 Который бывает предвестником дождей.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+návyasyā ← návyas- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śáviṣṭham ← śáviṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+paritaṁsayádhyai ← √taṁs- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+pratnám ← pratná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pratnavát ← pratnavát (invariable)  
+{}
+
+animānáḥ ← animāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+suváhmā ← suváhman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vakṣat ← √vah- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+durgáhāṇi ← durgáha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Ihn setzt in schnellen Lauf den alten, starken nach alter Art mit eurer neusten 
 Да перевезет нас этот бесподобный прекрасный перевозчик  
 Индра через все трудные места!
 </details>
+

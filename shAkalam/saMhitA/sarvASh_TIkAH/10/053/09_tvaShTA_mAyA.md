@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+apásām ← apás- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+apástamaḥ ← apástama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+māyā́ḥ ← māyā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vet ← √vid- 2 (root)  
+{number:SG, person:3, mood:INJ, tense:PRF, voice:ACT}
+
+bíbhrat ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+devapā́nāni ← devapā́na- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pā́trā ← pā́tra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śáṁtamā ← śáṁtama- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+nūnám ← nūnám (invariable)  
+{}
+
+paraśúm ← paraśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śíśīte ← √śā- ~ śī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+svāyasám ← svāyasá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bráhmaṇaḥ ← bráhman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+étaśaḥ ← étaśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ścā́t ← √vr̥śc- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Der Künstler bester, Tvaschtar, komme zauberreich, die gottgetrunkenen liebsten
 Сейчас он точит топор из хорошего железа.  
 Которым будет рубить переливающийся всеми цветами (?) Брахманаспати.
 </details>
+

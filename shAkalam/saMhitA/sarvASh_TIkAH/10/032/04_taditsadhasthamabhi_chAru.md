@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+cā́ru ← cā́ru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dīdhaya ← √dhī- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+sadhástham ← sadhástha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śā́san ← √śās- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+vahatúm ← vahatú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+mántuḥ ← mántu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pūrvyā́ ← pūrvyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yūthásya ← yūthá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saptádhātuḥ ← saptádhātu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāṇásya ← vāṇá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +244,4 @@ Ich habe mir recht diesen schönen Sitz beschaut, den die Stiere priesen, wie di
 Где мать – древняя советчица стада  
 (И) семичастный народ песнопения.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bíbhratam ← √bhr̥- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vicakṣaṇa ← vicakṣaṇá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhā́svantam ← bhā́svant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cákṣuṣe-cakṣuṣe ← cákṣus- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+máyaḥ ← máyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āróhantam ← √ruh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+pā́jasaḥ ← pā́jas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+jīvā́ḥ ← jīvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+paśyema ← √paś- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+sūrya ← sū́rya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ Der grosses Licht du bringst, o weithinschauender, und strahlend jedem Auge Lust
 (Тебя), поднимающегося с высокой поверхности,  
 Мы, живые, хотим видеть, о Сурья!
 </details>
+

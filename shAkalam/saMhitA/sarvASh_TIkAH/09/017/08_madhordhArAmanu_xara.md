@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+dhā́rām ← dhā́rā- 1 (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kṣara ← √kṣar- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mádhoḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asadaḥ ← √sad- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+sadhástham ← sadhástha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tīvráḥ ← tīvrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cā́ruḥ ← cā́ru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+r̥tā́ya ← r̥tá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +153,4 @@ Dem Strom des Methes rinne nach, du starker, setz' dich auf den Sitz, Dem Heilig
 Резкий сел на свое место,  
 Приятный для питья по закону.
 </details>
+

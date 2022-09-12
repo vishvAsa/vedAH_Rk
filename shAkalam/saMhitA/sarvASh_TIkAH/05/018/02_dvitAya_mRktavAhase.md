@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dvitā́ya ← dvitá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mr̥ktávāhase ← mr̥ktávāhas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+maṁhánā ← maṁhánā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svásya ← svá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+dhatte ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+amartya ← ámartya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+stotā́ ← stotár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +177,4 @@ Dem, der als zweiter schädliches entführt nach seines Geistes Lust, Dir reicht
 По порядку (обряда) он получает сок сомы  
 Как твой восхвалитель, о бессмертный.
 </details>
+

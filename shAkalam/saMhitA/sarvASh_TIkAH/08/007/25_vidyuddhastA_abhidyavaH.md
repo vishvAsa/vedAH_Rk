@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhídyavaḥ ← abhídyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vidyúddhastāḥ ← vidyúddhasta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hiraṇyáyīḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śíprāḥ ← śíprā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śīrṣán ← śíras- ~ śīrṣán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+añjata ← √añj- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+śubhrā́ḥ ← śubhrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +156,4 @@ Die blitzbewehrten, himmlischen, die lichten setzten auf das Haupt Zur Zier die 
 На голове позолоченные шлемы –  
 Прекрасные украшения для блеска.
 </details>
+

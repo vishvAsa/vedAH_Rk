@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tánūnapāt ← tánūnápāt- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yā́nān ← yā́na- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mádhvā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+samañján ← √añj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sujihva ← sujihvá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+svadaya ← √svad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+mánmāni ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+r̥ndhán ← √r̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+devatrā́ ← devatrā́ (invariable)  
+{}
+
+kr̥ṇuhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Sohn deiner selbst, des Rechts betretne Pfade mach hold, schönzung'ger, sie mit
 Принося успех молитвам и жертве благодаря поэтическим видениям,  
 Направь наш обряд к богам!
 </details>
+

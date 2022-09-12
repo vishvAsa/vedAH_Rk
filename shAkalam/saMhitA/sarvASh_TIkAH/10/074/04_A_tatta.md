@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pananta ← √panⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+gómantam ← gómant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+títr̥tsān ← √tr̥d- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT, mood:DES}
+
+ūrvám ← ūrvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+mahī́m ← máh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+puruputrā́m ← puruputrá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sakr̥tsvàm ← sakr̥tsū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+br̥hatī́m ← br̥hánt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dúdukṣan ← √duh- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT, mood:DES}
+
+sahásradhārām ← sahásradhāra- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Dies singen dir, o Indra, auch die Menschen, um sich den rinderreichen Stall zu 
 Которые хотят подоить телящуюся сразу великую (корову),  
 Приносящую многих сыновей, струящуюся в тысячу потоков, высокую.
 </details>
+

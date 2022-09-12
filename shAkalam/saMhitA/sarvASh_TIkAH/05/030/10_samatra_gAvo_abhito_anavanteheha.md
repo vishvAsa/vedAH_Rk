@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhítas ← abhítas (invariable)  
+{}
+
+anavanta ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+átra ← átra (invariable)  
+{}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+ā́san ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ihéha ← ihá (invariable)  
+{}
+
+vatsaíḥ ← vatsá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+víyutāḥ ← √yu- 2 (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asr̥jat ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śākaíḥ ← śāká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
+ámandan ← √mand- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+sómāsaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+súṣutāḥ ← súṣuta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +235,4 @@ Da brüllten rings die Kühe hier und dorten, weil sie getrennt von ihren Kälbe
 Индра со своими помощниками согнал их вместе,  
 Когда его опьянили хорошо выжатые соки сомы.
 </details>
+

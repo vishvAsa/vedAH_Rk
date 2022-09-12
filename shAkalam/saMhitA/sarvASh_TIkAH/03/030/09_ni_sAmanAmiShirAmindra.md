@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́mim ← bhū́mi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iṣirā́m ← iṣirá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sāmanā́m ← sāmaná- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+apārā́m ← apārá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mahī́m ← máh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sasattha ← √sad- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ástabhnāt ← √stambhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+árṣantu ← √arṣ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+prásūtāḥ ← √sū- 1 (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Du setztest Indra hin die gleiche Erde an ihren Sitz, die saft'ge, reiche, weite
 (Этот) бык укрепил небо, воздушное пространство,  
 Да потекут сюда воды, тобою пробужденные к жизни!
 </details>
+

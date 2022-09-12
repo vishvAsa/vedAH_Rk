@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+arcíṣā ← arcís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+īḷiṣva ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pariṣvájat ← √svaj- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+vánā ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jihváyā ← jihvā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+kr̥ṇóti ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kr̥ṣṇā́ ← kr̥ṣṇá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Ihn preise, der mit Flammenglut die Hölzer allesammt umarmt, Mit seiner Zunge s
 Обнимает все деревья,  
 Языком делает (их) черными.
 </details>
+

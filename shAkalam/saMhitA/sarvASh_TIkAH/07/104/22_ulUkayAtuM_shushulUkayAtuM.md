@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+śuśulū́kayātum ← śuśulū́kayātu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úlūkayātum ← úlūkayātu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jahí ← √han- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kókayātum ← kókayātu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śváyātum ← śváyātu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+gŕ̥dhrayātum ← gŕ̥dhrayātu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suparṇáyātum ← suparṇáyātu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+dr̥ṣádā ← dr̥ṣád- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+mr̥ṇa ← √mr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+rákṣaḥ ← rákṣas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +227,4 @@ Den Käuzchengeist, den Uhugeist vernichte, den Hundegeist, den Kukuksgeist ersc
 Убей собачьего колдуна, а также ястребиного колдуна!  
 Раздроби ракшаса, как жернов (-зерна), о Индра!
 </details>
+

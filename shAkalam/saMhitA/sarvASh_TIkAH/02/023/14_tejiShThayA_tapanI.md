@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tapa ← √tap- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tapanī́ ← tapanī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+téjiṣṭhayā ← téjiṣṭha- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dadhiré ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+dr̥ṣṭávīryam ← dr̥ṣṭávīrya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nidé ← níd- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+āvís ← āvís (invariable)  
+{}
+
+kr̥ṣva ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ukthyàm ← ukthyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ardaya ← √r̥d- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+parirā́paḥ ← pariráp- (nominal stem)  
+{case:ACC, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Mit schärfster Glut verbrenne der Gespenster Schar, die der Verachtung dich, de
 Прояви то (мужество) твое, которое достойно гимна!  
 О Брихаспати, размечи болтунов!
 </details>
+

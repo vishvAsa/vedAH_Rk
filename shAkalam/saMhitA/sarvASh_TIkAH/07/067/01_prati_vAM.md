@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jarádhyai ← √gr̥- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+nr̥patī ← nr̥páti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+práti ← práti (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+havíṣmatā ← havíṣmant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yajñíyena ← yajñíya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ájīgar ← √gr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dhiṣṇyau ← dhíṣṇya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+pitárā ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sūnúḥ ← sūnú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vivakmi ← √vañc- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Ihr Fürsten, euren Wagen nun begrüsse mit ehrerbiet'gem opferreichen Sinne Er,
 (Хвалою,) которая разбудила вас, о возбуждающие вдохновение, как вестник,  
 Я призываю (вас), как сын – родителей
 </details>
+

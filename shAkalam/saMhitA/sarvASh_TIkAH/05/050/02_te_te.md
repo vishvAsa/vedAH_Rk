@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+netar ← netár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+anuśáse ← √śaṁs- (root)  
+{case:DAT, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+imā́n ← ayám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+āpŕ̥ce ← āpŕ̥c- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+rāyā́ ← rayí- ~ rāy- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+sacathyaìḥ ← sacathyà- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sácemahi ← √sac- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +198,4 @@ Wir hier sind dein, Gott Najitar, und die mit uns sind gleichgesinnt; Die, die e
 Такие, (как мы есть,) – а мы ведь (созданы), чтобы нас щедро одарили –  
 Мы хотим соединиться с богатством (и) тем, что (его) сопровождает.
 </details>
+

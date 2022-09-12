@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rathī́tamaḥ ← rathī́tama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhiyúgvanā ← abhiyúgvan- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+asmā́kena ← asmā́ka- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dhánam ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hitám ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+jéṣi ← √ji- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+jiṣṇo ← jiṣṇú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ Erringe denn des Kampfes Preis siegreicher, bester Lenker du, Durch unsern Wagen
 На нашей нападающей колеснице  
 Завоюй, о завоеватель, установленную ставку!
 </details>
+

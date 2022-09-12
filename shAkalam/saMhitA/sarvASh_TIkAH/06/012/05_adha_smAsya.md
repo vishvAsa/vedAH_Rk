@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhā́saḥ ← bhā́sas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+panayanti ← √panⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sma ← sma (invariable)  
+{}
+
+anuyā́ti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pr̥thvī́m ← pr̥thú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tákṣat ← √takṣ- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+vŕ̥thā ← vŕ̥thā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dhávīyān ← dhávīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sadyás ← sadyás (invariable)  
+{}
+
+syandráḥ ← syandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víṣitaḥ ← √sā- ~ si- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+dhánva ← dhánvan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+rāṭ ← √rāj- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+r̥ṇáḥ ← r̥ṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tāyúḥ ← tāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +227,4 @@ Ihn staunen alle an, sein Licht bewundernd, wenn lustig schaffend es die Erd' en
 (Он,) который, едва отпущен, бежит быстрее (всякого другого).  
 Словно виноватый вор, устремился он через пустыню.
 </details>
+

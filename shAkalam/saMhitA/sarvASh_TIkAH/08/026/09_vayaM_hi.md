@@ -15,13 +15,50 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+hávāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+hí ← hí (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ukṣaṇyántaḥ ← √ukṣaṇy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vyaśvavát ← vyaśvavát (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+sumatíbhiḥ ← sumatí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+viprau ← vípra- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +169,4 @@ Denn wie Viaçva rufen wir wie Stiere brüllend euch herbei, O kommt hierher, ih
 Жаждя Укшана, подобно Вьяшве.  
 Приезжайте, о вдохновенные, с (вашими) милостями!
 </details>
+

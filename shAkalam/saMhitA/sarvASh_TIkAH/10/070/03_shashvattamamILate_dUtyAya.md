@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dūtyā̀ya ← dūtyà- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+īḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+śaśvattamám ← śaśvattamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havíṣmantaḥ ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+manuṣyā̀saḥ ← manuṣyà- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+suvŕ̥tā ← suvŕ̥t- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+váhiṣṭhaiḥ ← váhiṣṭha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+sada ← √sad- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vakṣi ← √vah- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +196,4 @@ Den Agni flehn die Menschen an zur Botschaft, ihn stets aufs Neue Opfertränke b
 На конях, возящих лучше всех, на прекрасно катящейся колеснице,  
 Привози богов (и) усаживайся здесь хотаром!
 </details>
+

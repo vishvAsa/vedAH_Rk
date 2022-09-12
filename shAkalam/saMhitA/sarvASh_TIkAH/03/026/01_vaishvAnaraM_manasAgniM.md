@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+nicā́yya ← √ci- 3 (root)  
+{non-finite:CVB}
+
+vaiśvānarám ← vaiśvānará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anuṣatyám ← anuṣatyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+havíṣmantaḥ ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svarvídam ← svarvíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rathirám ← rathirá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudā́num ← sudā́nu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vasūyávaḥ ← vasūyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+kuśikā́saḥ ← kuśiká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+raṇvám ← raṇvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +197,4 @@ Dem Männerhorte, Agni, herzlich huldigend mit Trank dem treuen, himmelkund'gen,
 Щедрого бога, колесничего, веселого,  
 (Мы,) люди племени Кушики, призываем песнями.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bibhr̥tha ← √bhr̥- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+páśyantaḥ ← √paś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+tanū́ṣu ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+vocata ← √vac- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ā́turasya ← ā́tura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kṣamā́ ← kṣám- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rápaḥ ← rápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+íṣkarta ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+púnar ← púnar (invariable)  
+{}
+
+víhrutam ← √hvr̥- ~ hru- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Die führt allschauend alle unsern Leibern zu, mit denen schafft Erquickung uns;
 Пусть (уйдет) в землю повреждение нашего больного!  
 Приведите в порядок снова (то,) что вывихнуто!
 </details>
+

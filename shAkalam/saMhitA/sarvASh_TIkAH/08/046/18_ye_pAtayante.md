@@ -17,15 +17,52 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ájmabhiḥ ← ájman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+pātáyante ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yé ← yá- (pronoun)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+girīṇā́m ← girí- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+snúbhiḥ ← sā́nu- ~ snú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mahiṣváṇīnām ← mahiṣváṇi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sumnám ← sumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tuviṣváṇīnām ← tuviṣváṇi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +175,4 @@ Die in ihren Zügen über der Berge Gipfel fliegen, der sehr brausenden Verehrun
 Милость мощношумящих  
 (Я ставлю) впереди (всего) во время обряда.
 </details>
+

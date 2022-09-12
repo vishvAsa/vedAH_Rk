@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+prá ← prá (invariable)  
+{}
+
+saṁdŕ̥śam ← saṁdŕ̥ś- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+yakṣi ← √yaj- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:MED}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudā́navaḥ ← sudā́nu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+juṣanta ← √juṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+kāmínaḥ ← kāmín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,7 +134,7 @@ middle s-aor. -- and opinion is divided: Oldenberg (ZDMG 55.314, Noten) dithers 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 This tṛca likewise has a form of the 2nd sg. prn. beginning each vs. (7 t(u)vā́m, 8 táva, 9 t(u)vám), again all different.
@@ -134,3 +165,4 @@ Ich ehre deinen Anblick hoch, und schmecken sollen deine Kraft Die gabenreichen,
 А обладателя прекрасных даров, все,  
 Кто имеет желания, радуются также (твоей) силе духа.
 </details>
+

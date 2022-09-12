@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+mandrásya ← mandrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+saniṣyántaḥ ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:FUT, voice:ACT}
+
+váreṇyam ← váreṇya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+áhrayam ← áhraya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥gmíyam ← r̥gmíya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṇīmáhe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+bhŕ̥gūṇām ← bhŕ̥gu- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+kavíkratum ← kavíkratu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rātím ← rātí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+uśíjam ← uśíj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+divyéna ← divyá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rā́jantam ← √rāj- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Nach Gut verlangend wünschen wir des freundlichen begehrungswerthen, reichen, p
 Дар Бхригу, Ушиджа, обладающего силой духа поэта, -  
 Агни, сверкающего небесным пламенем.
 </details>
+

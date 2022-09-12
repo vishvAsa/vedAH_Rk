@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agrúvaḥ ← agrū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nabhanvàḥ ← nabhanū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vákvāḥ ← vákva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+apinvat ← √pinv- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dhvasrā́ḥ ← dhvasrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+r̥tajñā́ḥ ← r̥tajñā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yuvatī́ḥ ← yuvatí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ájrān ← ájra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+apr̥ṇak ← √pr̥c- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dhánvāni ← dhánvan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tr̥ṣāṇā́n ← √tr̥ṣ- (root)  
+{case:ACC, gender:M, number:PL, tense:AOR, voice:MED}
+
+ádhok ← √duh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dáṁsupatnīḥ ← dáṁsupatnī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+staryàḥ ← starī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Wie Sprudelquellen schwellte er die Jungfrau'n, die spritzenden, des rechten Bra
 Он наполнил (влагой) жаждущие пустыни (и) поля.  
 Индра подоил яловых коров, хороших жен в доме (для него).
 </details>
+

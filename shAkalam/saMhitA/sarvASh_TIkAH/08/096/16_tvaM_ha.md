@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ha ← ha (invariable)  
+{}
+
+jā́yamānaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+saptábhyaḥ ← saptá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhavaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+aśatrúbhyaḥ ← aśatrú- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śátruḥ ← śátru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+avindaḥ ← √vid- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+gūḷhé ← √guh- (root)  
+{case:ACC, gender:F, number:DU, non-finite:PPP}
+
+bhúvanebhyaḥ ← bhúvana- (nominal stem)  
+{case:DAT, gender:N, number:PL}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+ráṇam ← ráṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vibhumádbhyaḥ ← vibhumánt- (nominal stem)  
+{case:DAT, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +192,7 @@ Geldner takes vibhu-mánt- (only here) as ‘die in dir einen Gebieter hatten’
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 These three vss. begin tváṃ ha tyád. As elsewhere with this configuration (2ND SG. PRN ha tyád), with a neut. tyád without a neut. referent, ha tyád seems to be strongly emphatic (see a similar sequence in I.63.4-7 and comm. ad loc. as well as ad VI.18.3). I would now be inclined to change the tr. of the three vss. here to “It was just you who …”
@@ -169,3 +221,4 @@ Geboren kaum, erstandest du, o Indra, als Feind den sieben, die sich feindlos d�
 
 -ru-
 </details>
+

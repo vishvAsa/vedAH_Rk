@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+āsa ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bhúvaneṣu ← bhúvana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svápāḥ ← svápas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+imé ← ayám (pronoun)  
+{case:ACC, gender:F, number:DU}
+
+jajā́na ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gabhīré ← gabhīrá- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+rájasī ← rájas- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+suméke ← suméka- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+urvī́ ← urú- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+airat ← √īr- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+avaṁśé ← avaṁśá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dhī́raḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śácyā ← śácī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Der war fürwahr ein Künstler unter Göttern, der diese beiden, Erd' und Himmel
 Два широких, глубоких пространства, хорошо установленных.  
 Силой воздвиг мудрый (в том месте), где нет опоры.
 </details>
+

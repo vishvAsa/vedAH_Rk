@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áparāya ← ápara- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pū́rvaḥ ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śíkṣan ← √śak- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áyat ← √i- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+deṣṇám ← deṣṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jyā́yān ← jyā́yaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kánīyasaḥ ← kánīyaṁs- (nominal stem)  
+{case:GEN, number:SG}
+
+amŕ̥taḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+āsīta ← √ās- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+dūrám ← dūrá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+citra ← citrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cítryam ← cítrya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +237,4 @@ Bis erst der frühere dem spätern dienend, der höh're vom geringeren belohnt w
 То и бессмертный не должен держаться вдалеке.  
 Принеси нам, о блистательный, блестящее богатство!
 </details>
+

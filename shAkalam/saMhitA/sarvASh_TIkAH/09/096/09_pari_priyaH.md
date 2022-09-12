@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devávātaḥ ← devávāta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kaláśe ← kaláśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ráṇyaḥ ← ráṇya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahásradhāraḥ ← sahásradhāra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śatávājaḥ ← śatávāja- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jigāti ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+sámanā ← sámana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sáptiḥ ← sápti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +193,7 @@ My “for Indra’s exhilaration” is a somewhat loose rendering of the double 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 Although these two vss. belong to two different hymns within the larger structure of IX.96, it is notable that the a-pādas of both end with a form -vātaḥ; it is not impossible that the hymn consisting of 9-12 was attached here because of this concatenation, esp. given that the etymological figure in 8a is repeated in 11c of the other hymn. But the -vāta-forms belong to two different roots: 8a (/11c) ávāta- to √van ‘win, vanquish’ and 9a devávāta-to √vani ‘love, cherish, long for’. The root affiliation of ávāta- is assured by the etymological figure in which it’s found, vanvánn ávātaḥ “vanquishing but unvanquished” (cf. also VI.16.20, 18.1, IX.89.7 as well as the two occurrences in this hymn, 8a and 11c). But √van is an aniṭ root, and we might expect a ppl. *-vata-, which does not occur; -vāta- is only phonologically proper to the seṭ root √vani . Gotō (1st Kl. 283-84 with n. 656), fld. by EWA (s.v. VAN), suggests that ávāta- (and, per EWA, other apparent seṭ forms of √van) are analogic to the synonymous, rhyming but seṭ root √sani (sātá-, etc.). I certainly think the parallel forms of √sani may well have contributed, but I think it’s a mistake to discount potential confusion and conflation of forms of √vani and √van, esp. since under certain circumstances ‘love, long for’ and ‘win’ can shade into each other.
@@ -176,3 +225,4 @@ Es geht der liebe, gottbegehrte Soma zum Rausch dem Indra freudenreich ins Trink
 В тысячу потоков, с сотней наград, сок сомы,  
 Словно упряжка, захватывающая награду, движется к сражениям.
 </details>
+

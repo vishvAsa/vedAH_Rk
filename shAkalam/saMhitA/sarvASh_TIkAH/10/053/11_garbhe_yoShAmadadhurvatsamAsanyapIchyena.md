@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ádadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+āsáni ← āsán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+gárbhe ← gárbha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yóṣām ← yóṣā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+apīcyèna ← apīcyà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jihváyā ← jihvā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvā́hā ← viśvā́hā (invariable)  
+{}
+
+yogyā́ḥ ← yogyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+jítim ← jíti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kāráḥ ← kārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+siṣāsániḥ ← siṣāsáni- (nominal stem)  
+{case:NOM, gender:M, number:SG, mood:DES}
+
+vanate ← √vanⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Ihr setztet das Mädchen in den Mutterleib (?), das Kalb in den Mund (?) mit ver
 Всегда хорошо настроенный к (своим) трудам.  
 Стремящийся захватить, он добивается победы в воспевании.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+adveṣáḥ ← adveṣás- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+barhíṣaḥ ← barhís- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+stárīmaṇi ← stárīman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+grā́vṇām ← grā́van- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+mánmanaḥ ← mánman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sā́dhe ← sā́dha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yóge ← yóga- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ādityā́nām ← ādityá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+bhuraṇyasi ← √bhuraṇy- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+śármaṇi ← śárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sthā́ḥ ← sthā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+samidhānám ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Wir flehen arglos bei der Streubereitung heut, beim Schirr'n der Steine und bei 
 Ты деятелен, находясь под защитой Адитьев.  
 К Агни эажженному мы обращаемся за благом.
 </details>
+

@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+duḥśáṁsam ← duḥśáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+mártyam ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+taú ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+dúrvidvāṁsam ← dúrvidvaṁs- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rakṣasvínam ← rakṣasvín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ābhogám ← ābhogá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hánmanā ← hánman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+hatam ← √han- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+hánmanā ← hánman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+hatam ← √han- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+udadhím ← udadhí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +182,4 @@ Dann schlaget fort den bösen Mann, den unverständ'gen Zauberer, Den Drachen sc
 Абхогу убейте убийственным оружием!  
 Удадхи убейте убийственным оружием!
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+aruṣáḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sámmiślaḥ ← sámmiśla- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhenúbhiḥ ← dhenú- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sūpasthā́bhiḥ ← sūpasthá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sī́dan ← √sad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +148,7 @@ sitting like a falcon on your womb.
 As in 16b, the simile in b seems to consist only of what precedes the ná, namely sūpasthā́bhiḥ, while dhenúbhiḥ constitutes the frame. So also Geldner, Renou
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 Little evidence of unity, though 19 and 20 share ‘smashing’ and 20 and 21 cows.
@@ -145,3 +179,4 @@ Mit Kühen misch, o rother, dich die gern dir öffnen ihren Schooss, Und setz' d
 С дойными коровами, словно с прекраснолонными (женами),  
 Как сокол, садясь на (свое) место!
 </details>
+

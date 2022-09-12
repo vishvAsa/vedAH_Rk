@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+manvānáḥ ← √man- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+nú ← nú (invariable)  
+{}
+
+ácha ← ácha (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vakṣáṇā ← vakṣáṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dānā́ ← dāmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+saceta ← √sac- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+sūríbhiḥ ← sūrí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+añjíbhiḥ ← añjí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yā́maśrutebhiḥ ← yā́maśruta- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +188,4 @@ Der ihrer denkt, vereine sich, wie Opfer zu den Göttern dringt, Mit Gaben nun d
 Благодаря дару пусть соединится с покровителями,  
 Славными (своими) походами, ярко украшенными (Марутами)!
 </details>
+

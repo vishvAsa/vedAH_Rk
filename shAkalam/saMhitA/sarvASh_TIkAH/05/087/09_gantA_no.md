@@ -17,15 +17,73 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gánta ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+suśámi ← suśámī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñiyāḥ ← yajñíya- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+arakṣáḥ ← arakṣás- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+evayā́marut ← evayā́marut- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śróta ← √śru- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+jyéṣṭhāsaḥ ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+párvatāsaḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vyòmani ← vyòman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+pracetasaḥ ← prácetas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+durdhártavaḥ ← durdhártu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nidáḥ ← níd- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+syā́ta ← √as- 1 (root)  
+{number:PL, person:2, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +241,4 @@ Kommt zu unserm Opfer, o opfemswerthe, mit sorgsamem Eifer, hört unser treues R
 Пусть станете вы, о прозорливцы,  
 Непереносимыми для этого хулителя!
 </details>
+

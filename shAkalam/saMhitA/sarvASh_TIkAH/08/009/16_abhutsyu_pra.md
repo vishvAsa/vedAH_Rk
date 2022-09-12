@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ábhutsi ← √budh- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+devyā́ ← devī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+aśvínoḥ ← aśvín- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+sākám ← sākám (invariable)  
+{}
+
+vācā́ ← vā́c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+āvar ← √vr̥- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+devi ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+matím ← matí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+mártyebhyaḥ ← mártya- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+rātím ← rātí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Erwacht bin mit der Göttin ich, und mit dem Lob der Ritter auch; Du, Göttin, s
 Ты раскрыла, о богиня, молитву,  
 Рас(крыла) дар для смертных.
 </details>
+

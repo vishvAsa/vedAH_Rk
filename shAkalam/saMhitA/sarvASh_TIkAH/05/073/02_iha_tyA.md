@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ihá ← ihá (invariable)  
+{}
+
+purubhū́tamā ← purubhū́tama- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tyā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+bíbhratā ← √bhr̥- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+dáṁsāṁsi ← dáṁsas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ádhrigū ← ádhrigu- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+varasyā́ ← varasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yāmi ← √yā- 2 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+bhujé ← bhúj- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+huvé ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+tuvíṣṭamā ← tuvíṣṭama- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ Hier diese vielerscheinenden, viel Wunder mit sich führenden; Die schnellen bit
 Я обращаюсь с желанием дара к (ним,), лишенным скупости,  
 Я зову сильнейших для удовольствия.
 </details>
+

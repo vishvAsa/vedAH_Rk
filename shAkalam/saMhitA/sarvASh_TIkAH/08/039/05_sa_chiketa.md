@@ -18,16 +18,68 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+ciketa ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sáhīyasā ← sáhīyaṁs- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+citréṇa ← citrá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+kármaṇā ← kárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śáśvatīnām ← śáśvant- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+abhī́vr̥taḥ ← √vr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+dákṣiṇābhiḥ ← dákṣiṇa- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+inóti ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pratīvyàm ← pratīvī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+anyaké ← anyaká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nábhantām ← √nabh- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+same ← sama- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +225,4 @@ Hervorgethan hat Agni sich durch glänzende, gewalt'ge That; Als aller Menschen 
 И он продвигает вперед приношение (богам).  
 Пусть лопнут все ничтожные другие!
 </details>
+

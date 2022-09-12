@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apástamaḥ ← apástama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dán ← dám- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhāyi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+ha ← ha (invariable)  
+{}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+bhásmanā ← bhásman- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+datā́ ← dánt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+vánā ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yuváte ← √yu- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+abhipramúrā ← abhipramúr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+juhvā̀ ← juhū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+svadhvaráḥ ← svadhvará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ináḥ ← iná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+próthamānaḥ ← √pruthⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yávase ← yávasa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +226,4 @@ Denn Agni ist als thätigster ins Haus gesetzt, wenn mit dem Zahne kauend er das
 (Все)уничтожающим языком, (этот) исполняющий прекрасный обряд,  
 Пыхтящий, как мощный бык на пастбище.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajirā́saḥ ← ajirá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ī́yamānāḥ ← √i- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+tádapaḥ ← tádapas- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ātasthivā́ṁsaḥ ← √sthā- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+nā́bhim ← nā́bhi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+anantā́saḥ ← anantá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sīm ← sīm (invariable)  
+{}
+
+urávaḥ ← urú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+viśvátas ← viśvátas (invariable)  
+{}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+pánthāḥ ← pánthā- ~ path- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+yanti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +197,4 @@ Die raschen Rosse, nach Gewohnheit eilend, sind aufgestiegen zu des Himmels Nabe
 Бесконечные, широкие, со всех сторон  
 Идут по пути вокруг неба и земли.
 </details>
+

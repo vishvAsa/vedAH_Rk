@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+napāt ← nápat- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śr̥ṅgavr̥ṣaḥ ← śr̥ṅgavr̥ṣ- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kuṇḍapā́yyaḥ ← kuṇḍapā́yya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+práṇapāt ← práṇapat- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmin ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+dadhre ← √dhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +146,7 @@ The verb dadhre is taken by Oldenberg as most likely a 1st sg.; Geldner allows t
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/017/12-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/017/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
 Contains a number of PNs, whose exact identity eludes us. See Geldner’s nn., Mayrhofer PN s.vv.
@@ -143,3 +177,4 @@ Auf den Kundapājia, der dir, o Enkel des Çringavrisch ein Urenkel ist, ist dei
 О внук Шрингавриша, о правнук,  
 К нему он направил (свою) мысль.
 </details>
+

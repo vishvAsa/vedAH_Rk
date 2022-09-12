@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vaí ← vaí (invariable)  
+{}
+
+vārayante ← √vr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+vr̥jáne ← vr̥jána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+manasyé ← √manasy- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+párvatāsaḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhayāte ← √bhī- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+kr̥dhukárṇaḥ ← kr̥dhukárṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+svanā́t ← svaná- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ejāt ← √ej- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+evá ← evá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+kiráṇaḥ ← kiráṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +233,4 @@ In tiefer Schlucht auch kann mich niemand hemmen, nicht hohe Berge hindern meine
 
 -ru-
 </details>
+

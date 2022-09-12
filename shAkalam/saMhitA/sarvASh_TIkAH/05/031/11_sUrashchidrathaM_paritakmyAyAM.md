@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+páritakmyāyām ← páritakmya- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sū́raḥ ← svàr- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+jūjuvā́ṁsam ← √jū- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+karat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+pū́rvam ← pū́rva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úparam ← úpara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhárat ← √bhr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+étaśaḥ ← étaśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+riṇāti ← √rī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+dádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+purás ← purás (invariable)  
+{}
+
+saniṣyati ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:FUT, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Den Sonnenwagen, welcher rückwärts eilte im Morgendunkel, bracht er wieder vor
 Унес колесо Эташа, он пускает его катиться.  
 Когда он (его) поставит впереди, он осуществит наше намерение.
 </details>
+

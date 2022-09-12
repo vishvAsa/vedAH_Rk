@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+abhítas ← abhítas (invariable)  
+{}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+tapanti ← √tap- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+párśavaḥ ← párśu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sapátnīḥ ← sapátnī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ámatiḥ ← ámati- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bādhate ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+jásuḥ ← jásu- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nagnátā ← nagnátā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+matíḥ ← matí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+véḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vevīyate ← √vī- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +191,4 @@ Von allen Seiten quälen mich, die Rippen Nebenbuhlern gleich, Es dränget Mange
 Угнетает бессмысленность, нагота, усталость.  
 Мысль трепещет, как птица.
 </details>
+

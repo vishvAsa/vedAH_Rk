@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+stómena ← stóma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ájījanan ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+rodasiprā́m ← rodasiprā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śáktibhiḥ ← śákti- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+akr̥ṇvan ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhuvé ← √bhū- (root)  
+{case:DAT, number:SG}
+
+kám ← kám (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tredhā́ ← tredhā́ (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pacati ← √pac- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+viśvárūpāḥ ← viśvárūpa- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +235,4 @@ Denn Götter zeugten durch Gesang am Himmel den Agni, dass mit Kraft die Welt er
 Они сделали его таким, что он стал трояким.  
 Он помогает созреть различным растениям.
 </details>
+

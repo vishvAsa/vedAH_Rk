@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+cáran ← √carⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+rúśan ← rúśant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vatsáḥ ← vatsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nidātā́ram ← nidātár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vindate ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ambyàm ← ambi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+stótave ← √stu- (root)  
+{case:DAT, number:SG}
+
+véti ← √vī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +150,4 @@ Das Kalb, das leuchtend wandert hier, hat keinen der es binde an, Die Mutter geh
 Не находит того, кто привязал бы (его).  
 Он хочет прославлять (свою) мать.
 </details>
+

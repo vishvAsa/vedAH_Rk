@@ -14,12 +14,40 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M
+#### Morph
+carataḥ ← √carⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dvā́ ← dvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ékayā ← éka- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+víbhiḥ ← ví- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+pravāsā́ ← pravāsá- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+vasataḥ ← √vas- 3 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +143,4 @@ Mit Vögeln fahren zwei nebst einer Braut, in weite Ferne ziehen sie.
 На птицах странствуют двое. Вместе с одной  
 Они отправляются в путешествие, как два путешественника.
 </details>
+

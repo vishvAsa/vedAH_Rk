@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+evá ← evá (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+r̥tuthā́ ← r̥tuthā́ (invariable)  
+{}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yātáyantam ← √yat- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dádatam ← √dā- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+maghā́ ← maghá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śr̥ṇómi ← √śru- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+víprebhyaḥ ← vípra- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+brahmā́ṇaḥ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gr̥hate ← √gr̥h- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nidadhúḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tvāyā́ ← tvám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Denn so auch rühmt man dich, als den, der darreicht zu rechter Zeit und Schätz
 Должны ли выпрашивать брахманы, твои друзья,  
 Связавшие с тобой (свое) желание, о Индра?
 </details>
+

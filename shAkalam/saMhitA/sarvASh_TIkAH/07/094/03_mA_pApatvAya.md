@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pāpatvā́ya ← pāpatvá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+abhíśastaye ← abhíśasti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nidé ← níd- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+rīradhatam ← √randh- (root)  
+{number:DU, person:2, mood:INJ, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +163,4 @@ Nicht gebt uns Preis der Dürftigkeit, o Indra-Agni, noch dem Fluch; Nicht liefe
 О Индра-Агни, ни проклятью,  
 Не (выдайте) нас хуле!
 </details>
+

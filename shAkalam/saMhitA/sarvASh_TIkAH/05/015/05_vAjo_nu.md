@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ántam ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+pātu ← √pā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+śávasaḥ ← śávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vā́jaḥ ← vā́ja- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dharúṇam ← dharúṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dógham ← dógha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+urúm ← urú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dádhānaḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+gúhā ← gúhā (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tāyúḥ ← tāyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aspar ← √spr̥- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+átrim ← átri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+citáyan ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +239,4 @@ Der Krafttrunk schirme deiner Stärke Umfang, des Reichthums weiten Grund, o Got
 Словно вор, скрывая (свой) след,  
 Ты спас Атри, мощно напоминая (ему) о богатстве.
 </details>
+

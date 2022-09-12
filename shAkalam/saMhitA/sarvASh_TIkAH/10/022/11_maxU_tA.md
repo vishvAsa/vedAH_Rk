@@ -16,14 +16,60 @@ ChandaH = "पुरस्ताद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 11 = 4+7, ending HLX  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+dānā́pnasaḥ ← dānā́pnas- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ākṣāṇé ← ākṣāṇá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vajrivaḥ ← vajrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dambháyaḥ ← √dambh- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+śúṣṇasya ← śúṣṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sayā́vabhiḥ ← sayā́van- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +190,4 @@ Schnell ward vollbracht dein Werk, du reichlichgebender, o Indra, blitzbewehrter
 Что ты перехитришь весь род  
 Шушны со (своими) спутниками.
 </details>
+

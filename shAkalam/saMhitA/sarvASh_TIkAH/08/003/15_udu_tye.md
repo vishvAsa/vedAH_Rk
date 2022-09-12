@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mádhumattamāḥ ← mádhumattama- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+īrate ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+stómāsaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ákṣitotayaḥ ← ákṣitoti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhanasā́ḥ ← dhanasā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+satrājítaḥ ← satrājít- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+ráthāḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vājayántaḥ ← √vājay- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +177,4 @@ Es dringen diese lieblichsten Gesäng' und Lieder nun hervor, Wie siegsgewohnte 
 Сразу побеждающие, добывающие богатство, приносящие неисчерпаемую помощь,  
 Словно колесницы, стремящиеся к награде.
 </details>
+

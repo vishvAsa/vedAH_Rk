@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+avadyé ← avadyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bhāk ← √bhaj- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+sīm ← sīm (invariable)  
+{}
+
+dhánam ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hitám ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+kā́ṣṭhā ← kā́ṣṭhā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+urvī́ ← urú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+apā́vr̥ktāḥ ← √vr̥j- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+aratnáyaḥ ← aratní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +158,4 @@ O theile nicht geringes zu, frei ist die Bahn, gesetzt der Preis, Die Schranken 
 
 -ru-
 </details>
+

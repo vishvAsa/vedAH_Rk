@@ -15,13 +15,50 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+suvī́rābhiḥ ← suvī́ra- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tirate ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vā́jabharmabhiḥ ← vā́jabharman- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+āváraḥ ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+sakhyám ← sakhyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +176,4 @@ Durch deine heldenreiche Gunst, die Kraft verleiht, gedeihet der, o Agni, recht,
 Чреватыми наградами, вперед продвигается тот,  
 Чью дружбу ты выбрал.
 </details>
+

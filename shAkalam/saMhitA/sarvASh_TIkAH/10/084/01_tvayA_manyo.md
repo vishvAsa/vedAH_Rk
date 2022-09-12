@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ārujántaḥ ← √ruj- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+manyo ← manyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sarátham ← sarátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+dhr̥ṣitā́ḥ ← √dhr̥ṣ- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+hárṣamāṇāsaḥ ← √hr̥ṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+marutvaḥ ← marútvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́yudhā ← ā́yudha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+saṁśíśānāḥ ← √śā- ~ śī- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+tigméṣavaḥ ← tigméṣu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+agnírūpāḥ ← agnírūpa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+yantu ← √i- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +193,4 @@ Mit dir vereint, o Manju, mögen kommen die feuergleichen Männer, Freund der Ma
 
 -ru-
 </details>
+

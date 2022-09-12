@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ājániṣṭhāḥ ← √janⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:MED}
+
+paramáḥ ← paramá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+parás ← parás (invariable)  
+{}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bíbhrat ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+parāváti ← parāvát- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+śrútyam ← śrútya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+abhayanta ← √bhī- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+átas ← átas (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índrāt ← índra- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ajayat ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+dāsápatnīḥ ← dāsápatnī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +227,4 @@ Als du als höchster ferneher erschienest, weithin verbreitend den berühmten Na
 Боги сразу стали бояться Индры.  
 Он завоевал все воды, чьим повелителем был Даса.
 </details>
+

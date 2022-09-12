@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sma ← sma (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vanúṣaḥ ← vanús- (nominal stem)  
+{case:NOM, number:PL}
+
+abhímātim ← abhímāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+káyasya ← káya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhū́rṇayaḥ ← bhū́rṇi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kṣódaḥ ← kṣódas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pratighnánti ← √han- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tigmám ← tigmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +170,4 @@ Denn Kämpfer sind die Männer ja, und eines jeden Widerstand, Wie heft'ge Wogen
 Атаки любого соперника,  
 Словно водопад, (всё) сметающий, (они) ревностные.
 </details>
+

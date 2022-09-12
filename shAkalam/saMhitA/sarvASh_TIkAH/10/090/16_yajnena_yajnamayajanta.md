@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; repeated line  
 popular;; repeated line  
 popular;; repeated line  
 popular;; repeated line
+#### Morph
+ayajanta ← √yaj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñéna ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+āsan ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dhármāṇi ← dhárman- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+prathamā́ni ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+mahimā́naḥ ← mahimán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nā́kam ← nā́ka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sacanta ← √sac- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sādhyā́ḥ ← sādhyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,17 +211,16 @@ The verse is RV. i. 164. 50,\* found also in VS. (xxxi. 16), TS. (iii.
    comment); ⌊*Kaṭha-hss.*, p. 83;⌋ the only variant is *sacante* for  
    *sacanta* in TS.TA. 
    
-> "This passage and vii. 79. 2 cast light upon the idea of *sādhya;* there are two kinds of gods: 
-> 
-> - those with Indra at their head and 
-> - the *sādhya* 'they who are to be won' (*sādhya* 'what is to be  
+&gt; "This passage and vii. 79. 2 cast light upon the idea of *sādhya;* there are two kinds of gods: 
+&gt; 
+&gt; - those with Indra at their head and 
+&gt; - the *sādhya* 'they who are to be won' (*sādhya* 'what is to be  
    brought into order, under control, or into comprehension'). 
 
-> They are thus the unknown, conceived as preceding the known. Later they are worked into the ordinary classification of Vasus, Rudras, etc.; and what was formerly a serious religious problem, a hierarchy conceived as possible before the now-accepted gods (something like the pre-Olympians with the Greeks), has become an empty name." 
-> 
-> R. \*⌊Also RV. x. 90. 16.⌋
+&gt; They are thus the unknown, conceived as preceding the known. Later they are worked into the ordinary classification of Vasus, Rudras, etc.; and what was formerly a serious religious problem, a hierarchy conceived as possible before the now-accepted gods (something like the pre-Olympians with the Greeks), has become an empty name." 
+&gt; 
+&gt; R. \*⌊Also RV. x. 90. 16.⌋
 </details>
-
 
 <details><summary>Griffith</summary>
 
@@ -196,3 +250,4 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 Эти же могущества последовали на небо,  
 Где находятся прежние боги – садхья.
 </details>
+

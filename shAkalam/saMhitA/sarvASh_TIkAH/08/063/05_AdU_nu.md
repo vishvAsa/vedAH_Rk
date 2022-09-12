@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+ā́t ← ā́t (invariable)  
+{}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+svā́hā ← svā́hā (invariable)  
+{}
+
+várasya ← vára- 1 (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yájyavaḥ ← yájyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+arkā́ḥ ← arká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śvātrám ← śvātrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dāváne ← √dā- 1 (root)  
+{case:DAT, number:SG}
+
+gotrásya ← gotrá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +203,4 @@ Und jetzt auch jauchzen deiner Kraft und deiner Macht die Sänger zu, O fülle, 
 Певцы приветствовали, ликуя, (твое) усиление,  
 О Индра, чтобы ты дал загон с коровами.
 </details>
+

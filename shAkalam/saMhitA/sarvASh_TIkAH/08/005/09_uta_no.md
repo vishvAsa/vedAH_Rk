@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+gómatīḥ ← gómant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+aharvidā ← aharvíd- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sātī́ḥ ← sātí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+sātáye ← sātí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sitam ← √sā- ~ si- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +171,4 @@ O Tagerheller, öffnet uns die Pfade, dass Geschenke wir Und rinderreiches Gut e
 А также добычу, о знающие (урочный) час!  
 Откройте пути для захвата добычи!
 </details>
+

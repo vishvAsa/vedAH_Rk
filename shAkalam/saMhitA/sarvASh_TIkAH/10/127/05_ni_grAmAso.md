@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+avikṣata ← √viś- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+grā́māsaḥ ← grā́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+padvántaḥ ← padvánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pakṣíṇaḥ ← pakṣín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arthínaḥ ← arthín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+śyenā́saḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +157,4 @@ Die Leute sind nun heimgekehrt, und heim was Füss und Flügel hat, Die Adler se
 У(спокоились), у кого есть ноги, у(спокоились), у кого есть крылья,  
 У(спокоились) даже коршуны, преследующие цель.
 </details>
+

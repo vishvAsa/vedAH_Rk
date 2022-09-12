@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cákriḥ ← cákri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kármāṇi ← kárman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mahā́ ← mahá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hantā́ ← hantár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūrbhít ← pūrbhíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vr̥trā́ṇām ← vr̥trá- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+áhināmnām ← áhināman- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+paidváḥ ← paidvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dásyoḥ ← dásyu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hantā́ ← hantár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +250,4 @@ Dem Indra gleich, der grosse Thaten ausführt, zerschlägst die Feinde, Soma, du
 Ведь словно (конь) Педу, ты убийца носящих имя змеи,  
 Всякого дасью, о сома.
 </details>
+

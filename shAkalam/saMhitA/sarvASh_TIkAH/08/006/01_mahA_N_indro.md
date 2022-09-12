@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+parjányaḥ ← parjánya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣṭimā́n ← vr̥ṣṭimánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stómaiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vatsásya ← vatsá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vāvr̥dhe ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,8 +153,6 @@ Is like Parjanya with the rain;
 He waxeth with the praises of Vatsa.
 </details>
 
-
-
 <details><summary>Geldner</summary>
 
 Indra, der an Kraft groß ist wie der regenbringende Parjanya, hat sich an des Vatsa Lobliedern erbaut;
@@ -140,3 +169,4 @@ Der grosse Indra, der an Kraft der regenschwangern Wolke gleicht, Erlabt an Vats
 Словно грозовая туча, несущая дождь,  
 Возрос от восхвалений Ватсы,
 </details>
+

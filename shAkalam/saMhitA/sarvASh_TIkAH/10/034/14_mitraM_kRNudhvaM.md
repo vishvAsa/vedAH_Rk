@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+khálu ← khálu (invariable)  
+{}
+
+kr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+mitrám ← mitrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mr̥ḷáta ← √mr̥ḍ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+carata ← √carⁱ- (root)  
+{number:PL, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+dhr̥ṣṇú ← dhr̥ṣṇú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ghoréṇa ← ghorá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+árātiḥ ← árāti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+manyúḥ ← manyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+viśatām ← √viś- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+babhrūṇā́m ← babhrú- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+prásitau ← prásiti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +253,4 @@ So schliesst denn Frieden und erbarmt euch meiner, ergreift mich nicht mit eurem
 Да уляжется ваша ярость (и) враждебность!  
 Пусть другой будет теперь в сетях коричневых!
 </details>
+

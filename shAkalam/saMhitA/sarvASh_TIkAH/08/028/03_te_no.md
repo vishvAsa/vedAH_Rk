@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+apācyā́ḥ ← apācyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+nyàk ← nyàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+údak ← údañc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+purástāt ← purástāt (invariable)  
+{}
+
+sárvayā ← sárva- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+viśā́ ← víś- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +174,4 @@ Im Westen sind sie Hüter uns, im Norden und im Süden hier, Im Osten mit der ga
 Они – вверх, они прямо вниз,  
 (А также) на восток со всем (божественным) племенем.
 </details>
+

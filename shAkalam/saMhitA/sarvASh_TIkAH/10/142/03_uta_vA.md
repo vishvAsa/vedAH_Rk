@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+bápsat ← √bhas- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+vaí ← vaí (invariable)  
+{}
+
+vr̥ṇakṣi ← √vr̥j- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bahóḥ ← bahú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+svadhāvaḥ ← svadhā́vant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+úlapasya ← úlapa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bhavanti ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+khilyā́ḥ ← khilyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+urvárāṇām ← urvárā- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+cukrudhāma ← √krudh- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+hetím ← hetí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+táviṣīm ← táviṣī- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ Ob kauend auch, verschonest du, o Agni, doch vieles Buschwerk, o du selbstgewalt
 То (это) бывают пустыри среди обработанных полей,  
 Да не прогневаем мы твоего дротика, (твоей) силы!
 </details>
+

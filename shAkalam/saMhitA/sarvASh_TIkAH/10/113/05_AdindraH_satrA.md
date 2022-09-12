@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apatyata ← √pat- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ā́t ← ā́t (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+táviṣīḥ ← táviṣī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+abādhata ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+várīyaḥ ← várīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+abharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+áva ← áva (invariable)  
+{}
+
+āyasám ← āyasá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhr̥ṣitáḥ ← √dhr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mitrā́ya ← mitrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śévam ← śéva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váruṇāya ← váruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +194,4 @@ Da zeigte Indra fort und fort die grosse Kraft, er drängte weiter Erd' und Himm
 Дерзкий, он метнул вниз железную ваджру  
 На благо тому, кто поклоняется Митре (и) Варуне.
 </details>
+

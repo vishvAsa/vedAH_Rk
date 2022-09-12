@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+mántraḥ ← mántra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samānáḥ ← samāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samānī́ ← samāná- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sámitiḥ ← sámiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+cittám ← √cit- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+samānám ← samāná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+mántram ← mántra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mantraye ← √mantray- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+samānám ← samāná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+juhomi ← √hu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+samānéna ← samāná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Und nach der Reihe bildete der Schöpfer Sonne dann und Mond, Den Himmel und die
 Единый совет я советую вам,  
 Единым возлиянием жертвую вам.
 </details>
+

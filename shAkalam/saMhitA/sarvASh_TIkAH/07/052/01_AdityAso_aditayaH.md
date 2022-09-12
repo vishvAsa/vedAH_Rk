@@ -16,14 +16,54 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áditayaḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ādityā́saḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+devatrā́ ← devatrā́ (invariable)  
+{}
+
+martyatrā́ ← martyatrā́ (invariable)  
+{}
+
+pū́ḥ ← púr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sánantaḥ ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:ACT}
+
+sánema ← √sanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+bhávantaḥ ← √bhū- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+bhávema ← √bhū- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+dyāvāpr̥thivī ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +174,4 @@ Wir möchten frei sein, gütige Aditja's, gleich fester Burg bei Göttern und be
 Добиваясь, о Митра-Варуна, мы хотим добиться!  
 Существуя, о Небо-и-Земля, мы хотим процветать!
 </details>
+

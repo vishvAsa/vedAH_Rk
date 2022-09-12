@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ánāyataḥ ← ánāyata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánibaddhaḥ ← ánibaddha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+áva ← áva (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+nyàṅ ← nyàñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+padyate ← √pad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+uttānáḥ ← uttāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadarśa ← √dr̥ś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+káyā ← ká- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nā́kam ← nā́ka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pāti ← √pā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sámr̥taḥ ← √r̥- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+skambháḥ ← skambhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ Nicht angehängt, nicht festgeknüpft, wie kommt es, dass er herab nicht fällt 
 По какому это своему обычаю движется он? Кто видел (это)?  
 Воздвигнутый как столп неба, он охраняет небосвод.
 </details>
+

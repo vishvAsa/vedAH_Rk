@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aṁhoyúvaḥ ← aṁhoyú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tanvate ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+duṣṭáram ← duṣṭára- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pūrvyā́ya ← pūrvyá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+návajātaḥ ← návajāta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+saṁvátaḥ ← saṁvát- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+tuturyāt ← √tūr(v)- ~ tur- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+abhítas ← abhítas (invariable)  
+{}
+
+kruddhám ← √krudh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+siṁhám ← siṁhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Die Dränger dehnen ihre eignen Leiber und grosse Kraft, dem alten unbezwinglich
 Да пересечет этот новорожденный стороны (света)!  
 Они окружили его со всех сторон, словно разгневанного льва.
 </details>
+

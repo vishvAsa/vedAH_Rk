@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+śréṇiḥ ← śréṇi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sujūrṇíḥ ← sujūrṇí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sumnáāpiḥ ← sumnáāpi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+caraṇyúḥ ← caraṇyú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+granthínī ← granthín- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+hradécakṣuḥ ← hradécakṣus- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+añjáyaḥ ← añjí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+aruṇáyaḥ ← aruṇá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sasruḥ ← √sr̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+anavanta ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śriyé ← śrī́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +201,4 @@ Die von Lust erhitzte, in Liebe verwandte Linie bespiegelt sich wie im See (?), 
 
 -ru-
 </details>
+

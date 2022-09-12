@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āśíṣam ← āśís- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kr̥ṇuta ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+satyā́m ← satyá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vayodhaí ← vayodhā́- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ávatha ← √avⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+kīrím ← kīrí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svébhiḥ ← svá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+mŕ̥dhaḥ ← mŕ̥dh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+paścā́ ← paścā́ (invariable)  
+{}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+śr̥ṇutam ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+viśvaminvé ← viśvaminvá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Erfüllt [o Götter] unser Gebet durch eure Stärkungsmittel und unterstützt de
 Пусть окажутся позади все враждебные силы!  
 Да услышат это две половины вселенной всепобуждающие!
 </details>
+

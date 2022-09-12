@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śáruḥ ← śáru- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+ā́dityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+durmatíḥ ← durmatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ájaghnuṣī ← ájaghanvaṁs- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+etu ← √i- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Hinweg von uns geh' dieser Pfeil, hinweg das Unheil das uns droht, Aditja's, nic
 Эта стрела, о Адитьи,  
 Прочь злая мысль, не убивши!
 </details>
+

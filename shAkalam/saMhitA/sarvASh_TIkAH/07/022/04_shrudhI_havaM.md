@@ -15,13 +15,53 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ádreḥ ← ádri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śrudhí ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vipipānásya ← √pā- 3 (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
+árcataḥ ← √r̥c- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bódha ← √budh- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+manīṣā́m ← manīṣā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+víprasya ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ántamā ← ántama- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dúvāṁsi ← dúvas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+kr̥ṣvá ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+sácā ← sácā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +185,4 @@ Vernimm den Schall des saftdurchtränkten Steines, merk' auf das Lied des Sänge
 Заметь молитву воспевающего вдохновенного (поэта)!  
 Сделай эти почести близкими для себя!
 </details>
+

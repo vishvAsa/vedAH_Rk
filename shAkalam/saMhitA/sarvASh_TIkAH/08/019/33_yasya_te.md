@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnáyaḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+anyé ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+upakṣítaḥ ← upakṣít- (nominal stem)  
+{case:NOM, number:PL}
+
+vayā́ḥ ← vayā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dyumnā́ ← dyumná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+vípaḥ ← víp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yuve ← √yu- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+kṣatrā́ṇi ← kṣatrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vardháyan ← √vr̥dh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +201,4 @@ An dem, o Agni, deine andern Feuer auch wie Aeste haften an dem Baum; Der Männe
 Я присваиваю себе великолепие (других) людей, как (и их) молитвы,  
 Укрепляя твои владения.
 </details>
+

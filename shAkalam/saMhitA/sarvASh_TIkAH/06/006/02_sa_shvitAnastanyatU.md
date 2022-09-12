@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+rocanasthā́ḥ ← rocanasthā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śvitānáḥ ← √śvit- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+tanyatúḥ ← tanyatú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajárebhiḥ ← ajára- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nā́nadadbhiḥ ← √nad- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:MED}
+
+yáviṣṭhaḥ ← yáviṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pāvakáḥ ← pāvaká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+purutámaḥ ← purutáma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anuyā́ti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhárvan ← √bharv- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pr̥thū́ni ← pr̥thú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +169,6 @@ genre M
 **यविष्ठः** युवतमः सोयमेवंविधोस्मदीयेन हविषा तृप्तोस्मच्छत्रून्विनाशयत्विति शेषः ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -166,8 +211,6 @@ Who, purifying, most manifold,
 Agni, marcheth devouring many broad (forests).
 </details>
 
-
-
 <details><summary>Geldner</summary>
 
 Hellglänzend wie der Donner, im Lichte weilend mit den brüllenden alterlosen Flammen ist dieser jüngste Agni, der Lautere, der unter Vielen der Erste die vielen, breiten Flächen fressend entlang zieht.
@@ -185,3 +228,4 @@ Der glänzend, donnernd steht im hohen Lichtraum, der jüngste mit den ew'gen Pr
 Кто очищающий, лучший из многих, (этот) Агни  
 Следует (своим путем), пожирая многие широкие (равнины).
 </details>
+

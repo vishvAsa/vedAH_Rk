@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ajuryám ← ajuryá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvāṣṭrám ← tvāṣṭrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ūrjáyantīḥ ← √ūrjay- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+stabhūyámānam ← √stabhūy- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vahanti ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vahátaḥ ← vahát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+áṅgebhiḥ ← áṅga- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+didyutānáḥ ← √dyut- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+sadhásthe ← sadhástha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ékām ← éka- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+viveśa ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Die Ströme [hierwol die Feuer- oder Luftströme] mächtig stärkend den himmlis
 Ярко сверкая членами на общем сиденье,  
 Он вошел к двум половинам вселенной, как (муж) к единственной (жене).
 </details>
+

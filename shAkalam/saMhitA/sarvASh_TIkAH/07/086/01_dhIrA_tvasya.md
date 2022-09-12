@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhī́rā ← dhī́ra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+janū́ṁṣi ← janúṣ- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mahinā́ ← mahimán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+tú ← tú (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tastámbha ← √stambhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+urvī́ ← urú- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ví ← ví (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nā́kam ← nā́ka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nunude ← √nud- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+r̥ṣvám ← r̥ṣvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhū́ma ← bhū́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+nákṣatram ← nákṣatra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+papráthat ← √prathⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +231,4 @@ Voll Macht und Weisheit ist doch dessen Wesen, der Erd' und Himmel festigte, die
 Высоко вверх протолкнул он небосвод,  
 А также светило и разостлал землю.
 </details>
+

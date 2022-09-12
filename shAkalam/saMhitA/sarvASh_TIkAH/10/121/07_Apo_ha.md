@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́yan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+br̥hatī́ḥ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+janáyantīḥ ← √janⁱ- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+ásuḥ ← ásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+avartata ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+tátas ← tátas (invariable)  
+{}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+kásmai ← ká- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Erst als die hehren Wasser, Agni zeugend und alle Frucht des Leibes tragend kame
 Он возник из этого как единая жизненная сила богов -  
 Какого бога мы почтили жертвенным возлиянием?
 </details>
+

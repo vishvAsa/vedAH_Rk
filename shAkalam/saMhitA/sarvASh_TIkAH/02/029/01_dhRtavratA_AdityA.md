@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́dityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+dhŕ̥tavratāḥ ← dhr̥távrata- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+íṣirāḥ ← iṣirá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ā́gaḥ ← ā́gas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āré ← āré (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+karta ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mát ← ahám (pronoun)  
+{case:ABL, number:SG}
+
+rahasū́ḥ ← rahasū́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dévāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+mítra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śr̥ṇvatáḥ ← √śru- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+váruṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+bhadrásya ← bhadrá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ Gesetzbeschirmer, kräftige Aditja's, schafft weg von mir die Schuld, wie Frucht
 Вас, прислушивающихся, о Варуна, Митра (и другие боги),  
 Я, знаток счастья, зову вас на помощь.
 </details>
+

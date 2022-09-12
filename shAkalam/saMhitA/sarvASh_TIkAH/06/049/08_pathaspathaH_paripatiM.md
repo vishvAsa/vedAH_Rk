@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+páripatim ← páripati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pathás-pathaḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vacasyā́ ← vacasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+ānaṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kā́mena ← kā́ma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+kr̥táḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+candrā́grāḥ ← candrā́gra- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rāsat ← √rā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śurúdhaḥ ← śurúdh- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dhíyaṁ-dhiyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sīṣadhāti ← √sādh- ~ sidh- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +195,6 @@ genre M
 इदानीं प्रज्ञावतामेव धनवत्तया प्रयोजनमिति तां प्रार्थयते - धियंधियमित्यादिना चतुर्थेन पादेन ॥ सर्वां धियं प्रज्ञाम् । स पूषा प्रकर्षेण सीषधाति साधयत्वस्माकम् । सिद्ध्यतेर्ण्यन्ताद्धातुत्वे कृते लेटि 'बहुळं छन्दसि' (पा.सू. 2.4.76) इति शप्श्लुद्विर्वचनानि, 'बहुळं छन्दसि' (पा.सू. 7.4.78) इत्यभ्यासस्येत्वम्, तुजादित्वात् (पा.सू. 6.1.7) अभ्यासस्य दीर्घः, वर्णव्यत्ययेन धातोर्ह्रस्वत्वम्, 'लेटोऽडाटौ' (पा.सू. 3.4.94) इत्यात्वम्, 'छन्दस्युभयथा' (पा.सू. 3.4.117) इति लेट आर्धधातुकत्वाण्णिलोपः, 'इण्कोः' (पा.सू. 8.3.57) इति षत्वम् । यद्वा - विकरणव्यत्ययेन च्लेः 'णिश्रि' (पा.सू. 3.1.48) इत्यादिना चङ्द्विर्वचनादिः, णौ चङ्युपधाया ह्रस्वत्वम् (पा.सू. 7.4.1) ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -201,3 +252,4 @@ Zum Hüter jedes Weges drang das Loblied, das durch Begier aus Liederlust gescha
 Пусть он даст нам вознаграждения, увенчанные золотом!  
 Пусть Пушан приводит к цели каждую молитву!
 </details>
+

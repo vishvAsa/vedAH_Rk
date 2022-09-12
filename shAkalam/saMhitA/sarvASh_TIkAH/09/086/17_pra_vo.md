@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mandrayúvaḥ ← mandrayū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vipanyúvaḥ ← vipanyú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+akramuḥ ← √kramⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+panasyúvaḥ ← panasyú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+saṁvásaneṣu ← saṁvásana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+anūṣata ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+manīṣā́ḥ ← manīṣā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stúbhaḥ ← stúbh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+aśiśrayuḥ ← √śrī- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +190,7 @@ fem. -yu-adjectives: mandrayúvo vipanyúvaḥ, panasyúvaḥ, the latter two de
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 The first two vss. of this tṛca begin with prá with a verb of motion, but otherwise there is little that unifies the tṛca. Nor is there much that connects with the rest of the hymn, save for 16a … ayāsīt … índrasya niṣkṛtám / 7b=32d … úpa yāti niṣkṛtám and the repetition of saṃyát- in 18a (cf. 15d and disc. there).
@@ -164,3 +219,4 @@ Jetzt schritten eure frommen Andachtswerke vor, erfreuend, rühmend und bewunder
 
 -ru-
 </details>
+

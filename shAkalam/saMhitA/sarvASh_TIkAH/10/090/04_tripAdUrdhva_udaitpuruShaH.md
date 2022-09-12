@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+ait ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+púruṣaḥ ← púruṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tripā́t ← tripád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+pā́daḥ ← pā́da- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+akrāmat ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+tátas ← tátas (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+víṣvaṅ ← víṣvañc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+sāśanānaśané ← sāśanānaśaná- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +217,4 @@ Mit drei Vierteln ging der Urmensch oben hinauf, ein Viertel von ihm erschien wi
 Оттуда он выступил повсюду,  
 (Распространяясь) над тем, что ест (пищу) и что не ест.
 </details>
+

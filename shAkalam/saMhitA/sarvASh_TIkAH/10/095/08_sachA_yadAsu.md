@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+āsu ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+átkam ← átka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jáhatīṣu ← √hā- 2 (root)  
+{case:LOC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+sácā ← sácā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ámānuṣīṣu ← ámānuṣa- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+mā́nuṣaḥ ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+niṣéve ← √sev- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+ápa ← ápa (invariable)  
+{}
+
+bhujyúḥ ← bhujyú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+mát ← ahám (pronoun)  
+{case:ABL, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sma ← sma (invariable)  
+{}
+
+tarásantī ← tarásantī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+atrasan ← √tras- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+rathaspŕ̥śaḥ ← rathaspŕ̥ś- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ Als ich, der Mensch, jene übermenschlichen Weiber, die ihr Gewand fallen liesse
 
 -ru-
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cikitvā́n ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+citrám ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iṣaṇyasi ← √iṣaṇ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pr̥thugmā́nam ← pr̥thugmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāśrám ← vāśrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāvr̥dhádhyai ← √vr̥dh- (root)  
+{case:DAT, number:SG}
+
+dā́tu ← dā́tu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+śávasaḥ ← śávas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+vyùṣṭau ← vyùṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ápinvat ← √pinv- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+tákṣat ← √takṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥tratúram ← vr̥tratúr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Wer ist der laute Rufer, weithinschreitend, den du, o weiser, zu erhöhn uns ant
 Каковы его доля при вспышке (его) силы?  
 (Тваштар) выточил (ему) ваджру, поражающую врагов. Он сделал (воды) набухшими.
 </details>
+

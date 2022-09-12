@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pr̥chyámānaḥ ← √praś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+voce ← √vac- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:MED}
+
+āśásā ← āśás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+idám ← ayám (pronoun)  
+{case:ACC, gender:N, number:SG}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+yádi ← yádi (invariable)  
+{}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+kṣayasi ← √kṣā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥thivyā́m ← pr̥thivī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +245,4 @@ Gefragt verkünd' ich demuthsvoU die Wahrheit auf dein Geheiss, wenn's eintrifft
 Ты владеешь тем, что есть все:  
 Богатством, что на небе и что на земле.
 </details>
+

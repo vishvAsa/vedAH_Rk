@@ -17,15 +17,79 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+asurya ← asuryà- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+astaut ← √stu- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+sumitráḥ ← sumitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+astaut ← √stu- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+durmitráḥ ← durmitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+āvaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dasyuhátye ← dasyuhátya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+kutsaputrám ← kutsaputrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́vaḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+dasyuhátye ← dasyuhátya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+kutsavatsám ← kutsavatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +245,4 @@ Wenn auch hunderte dir, o Gott, Lob zusingen, so hat doch in rechter Weise der b
 Когда ты помог сыну Кутсы при убийстве дасью,  
 Когда ты поддержал любимца Кутсы при убийстве дасью.
 </details>
+

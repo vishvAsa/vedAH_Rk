@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dhr̥ṣát ← √dhr̥ṣ- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+śrutā́ya ← √śru- (root)  
+{case:DAT, gender:M, number:SG, non-finite:PPP}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+giréḥ ← girí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tū́rṇāśam ← tū́rṇāśa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+huvé ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+suśiprám ← suśiprá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +166,4 @@ Den schönbehelmten ruf ich kühn, wie Wasser, das vom Felsen stürzt, Um eurem 
 Как водопад, (падающий) с горы.  
 Я зову прекрасногубого на помощь.
 </details>
+

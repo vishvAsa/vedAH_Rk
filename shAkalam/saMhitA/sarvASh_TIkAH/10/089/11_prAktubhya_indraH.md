@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhabhyaḥ ← áhar ~ áhan- (nominal stem)  
+{case:DAT, gender:N, number:PL}
+
+aktúbhyaḥ ← aktú- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+vr̥dháḥ ← vr̥dhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+antárikṣāt ← antárikṣa- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+dhāséḥ ← dhāsí- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+samudrásya ← samudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ántāt ← ánta- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+jmáḥ ← kṣám- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+práthasaḥ ← práthas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+vā́tasya ← vā́ta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kṣitíbhyaḥ ← kṣití- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+ririce ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+síndhubhyaḥ ← síndhu- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +238,4 @@ Der Helfer Indra überragt die Nächte, die Tage er, die Luft, den Sitz des Meer
 Вы(ступает) над протяженностью ветра, вы(ступает) над краем земли,  
 Вы(ступает) над реками, вы(ступает) над поселениями.
 </details>
+

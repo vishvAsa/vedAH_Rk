@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+mithūdŕ̥śā ← mithūdŕ̥ś- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+subháge ← subhága- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+tyé ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+utá ← utá (invariable)  
+{}
+
+apījúvā ← apījū́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+jágatām ← jágat- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+uṣā́sānáktā ← uṣā́sānáktā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+návyasā ← návyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pr̥thivi ← pr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+stuṣé ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+sthātúḥ ← sthātár- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+trívayāḥ ← trívayas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+upastíre ← upastír- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ Und Nacht und Morgen, sie die reichen Göttinnen, die wechselnd schau'n, und die
 (И) когда я хвалю вас двоих, о Земля (и Небо) новой  
 Речью, (я стараюсь) разостлать тройную силу неподвижного мира.
 </details>
+

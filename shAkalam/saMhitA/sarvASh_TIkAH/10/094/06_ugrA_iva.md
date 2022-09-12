@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+iva ← iva (invariable)  
+{}
+
+praváhantaḥ ← √vah- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+samā́yamuḥ ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ugrā́ḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bíbhrataḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dhúraḥ ← dhúr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sākám ← sākám (invariable)  
+{}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yuktā́ḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+árāviṣuḥ ← √rū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jagrasānā́ḥ ← √gras- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+śvasántaḥ ← √śvasⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+árvatām ← árvant- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+protháthaḥ ← prothátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śr̥ṇvé ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +206,4 @@ Wie starke Rosse fahrend ziehn die Stränge sie, zugleich geschirrt die Stiere, 
 
 -ru-
 </details>
+

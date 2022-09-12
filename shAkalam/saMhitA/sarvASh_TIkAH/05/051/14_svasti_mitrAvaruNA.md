@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre M;; epic anuṣṭubh (424)  
 genre M;; epic anuṣṭubh (424)  
 genre M;; epic anuṣṭubh (424)  
 genre M;; epic anuṣṭubh (424)
+#### Morph
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+svastí ← svastí- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pathye ← pathyā̀- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+revati ← revánt- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+svastí ← svastí- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+adite ← áditi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vā́ryā ← vā́rya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dívodāsāya ← dívodāsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bharádvājāya ← bharádvāja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -89,7 +114,7 @@ A verb must be supplied in this vs., with ‘give’ being the obvious choice.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, each vs. in this tṛca begins with a form of the 2nd sg. prn., although all three are slightly different: the acc. sg. t(u)vā́ m in 4a shows distraction; both 5a and 6a contain the nom. sg., but the 1st is undistracted, the 2nd distracted.
@@ -120,3 +145,4 @@ Dem Divodasa schenktest du, dem Somapresser, vieles Gut, Dem frommen Bharadvadsc
 Диводасе, выжимающему (сому),  
 Бхарадвадже, почитающему (тебя)!
 </details>
+

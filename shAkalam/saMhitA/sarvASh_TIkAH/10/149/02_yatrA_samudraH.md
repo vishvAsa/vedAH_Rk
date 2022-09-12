@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+aúnat ← √ud- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+samudráḥ ← samudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+skabhitáḥ ← √skambhⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ví ← ví (invariable)  
+{}
+
+yátra ← yátra (invariable)  
+{}
+
+ápām ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+napāt ← nápat- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+āḥ ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+átas ← átas (invariable)  
+{}
+
+átas ← átas (invariable)  
+{}
+
+bhū́ḥ ← bhū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+útthitam ← √sthā- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+aprathetām ← √prathⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:IPRF, voice:MED}
+
+átas ← átas (invariable)  
+{}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Wo einst das festgestützte Meer hervorquoll, weiss Savitar allein, o Sohn der W
 Откуда земля, откуда темное пространство возникли,  
 Оттуда распространилась небо-и-земля.
 </details>
+

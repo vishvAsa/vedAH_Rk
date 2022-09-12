@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+rebhé ← rebhá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+páśyasi ← √paś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+śaphārújam ← śaphārúj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yātudhā́nam ← yātudhā́na- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+atharvavát ← atharvavát (invariable)  
+{}
+
+daívyena ← daívya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+acítam ← acít- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhū́rvantam ← √dhūrv- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+oṣa ← √uṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+satyám ← satyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +216,4 @@ Dies Auge, Agni, setze ein dem Sänger, mit dem du siehst den Huf-beraubten Nach
 Как Атхарван, божественным светом  
 Испепели безумца, вредящего правде!
 </details>
+

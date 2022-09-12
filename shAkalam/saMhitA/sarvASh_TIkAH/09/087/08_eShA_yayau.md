@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ádreḥ ← ádri- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+paramā́t ← paramá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yayau ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+kū́cit ← kū́cit (invariable)  
+{}
+
+satī́ḥ ← √as- 1 (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+ūrvé ← ūrvá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+viveda ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+abhraíḥ ← abhrá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+stanáyantī ← √stanⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+vidyút ← vidyút- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhā́rā ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +236,4 @@ Er ist entsprungen aus dem höchsten Pressstein; im Stall die Kühe fand er übe
 Гремя, словно молния с тучами неба,  
 Струя сомы очищается для тебя, о Индра.
 </details>
+

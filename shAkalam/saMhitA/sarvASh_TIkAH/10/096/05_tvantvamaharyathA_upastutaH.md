@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aharyathāḥ ← √hr̥- 2 (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+tváṁ-tvam ← tvám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+úpastutaḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+harikeśa ← hárikeśa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pū́rvebhiḥ ← pū́rva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yájvabhiḥ ← yájvan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+haryasi ← √hr̥- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+ukthyàm ← ukthyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásāmi ← ásāmi- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+harijāta ← harijāta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+haryatám ← haryatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Du, du gepriesen von den alten Opferern, warst holdgestimmt, o Indra, du mit gol
 Ты желаешь (хвалы). Тебе принадлежит весь почетный  
 Безраздельный дар, желанный, о рожденный золотистым.
 </details>
+

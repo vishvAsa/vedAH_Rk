@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ājaú ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhúnīcúmurī ← dhúnīcúmuri- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ha ← ha (invariable)  
+{}
+
+sastáḥ ← √sas- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+síṣvap ← √svap- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+dīdáyat ← √dī- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+sómebhiḥ ← sóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sunván ← √su- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dabhī́tiḥ ← dabhī́ti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+idhmábhr̥tiḥ ← idhmábhr̥ti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pakthī́ ← pakthín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +236,4 @@ Dies ganze Werk ist, Indra, dein im Kampfe; Dhuni und Tschumuri, durch dich sind
 Светится от соков сомы и гимнов Дабхити,  
 Выжимавший, носивший дрова, варивший для тебя.
 </details>
+

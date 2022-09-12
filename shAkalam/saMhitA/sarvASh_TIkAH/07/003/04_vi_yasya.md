@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśret ← √śri- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+pā́jaḥ ← pā́jas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥thivyā́m ← pr̥thivī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ánnā ← ánna- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jámbhaiḥ ← jámbha- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+samávr̥kta ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+tr̥ṣú ← tr̥ṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+prásitiḥ ← prásiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sénā ← sénā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sr̥ṣṭā́ ← √sr̥j- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+dasma ← dasmá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+juhvā̀ ← juhū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vivekṣi ← √viṣ- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yávam ← yáva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +236,4 @@ Du, dessen Lichtschein durch die Erde hinschritt, als gierig kauend Speisen du z
 Твое продвижение идет, как выпущенное войско.  
 Словно (конь-) ячмень, ты, чудесный, пожираешь языком (деревья).
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+atyā́yam ← atyā́ya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+īyuḥ ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+prajā́ḥ ← prajā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tisráḥ ← trí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+abhítas ← abhítas (invariable)  
+{}
+
+anyā́ḥ ← anyá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+viviśre ← √viś- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+antár ← antár (invariable)  
+{}
+
+bhúvaneṣu ← bhúvana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+tasthau ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+harítaḥ ← harít- (nominal stem)  
+{case:ACC, number:PL}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+viveśa ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Drei Töchter gingen zur Durchschreitung, [drei] andere lagerten sich rings um d
 Высоко стоит он среди существ.  
 Павамана вошел в рыжие (языки пламени).
 </details>
+

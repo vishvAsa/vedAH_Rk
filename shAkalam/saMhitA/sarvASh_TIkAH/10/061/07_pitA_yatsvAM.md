@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhiṣkán ← √skand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+duhitáram ← duhitár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svā́m ← svá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+kṣmayā́ ← kṣám- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+rétaḥ ← rétas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+saṁjagmānáḥ ← √gam- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+siñcat ← √sic- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ajanayan ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svādhyàḥ ← svādhī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+atakṣan ← √takṣ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́stoḥ ← vā́stu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vratapā́m ← vratapā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Als der Vater seine eigne Tochter bestiegen hatte, ergoss er mit der Erde zusamm
 
 -ru-
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ihá ← ihá (invariable)  
+{}
+
+sadhamā́dyā ← sadhamā́dya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tyā́ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+híraṇyakeśyā ← híraṇyakeśya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+abhí ← abhí (invariable)  
+{}
+
+hitám ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+práyaḥ ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+voḷhā́m ← √vah- (root)  
+{number:DU, person:3, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,3 +144,4 @@ Ihn fahre seiner Füchse Paar, die Tischgenossen, goldbehaart, Zum vorgesetzten 
 Буланых коней с золотыми гривами  
 Пусть прибудут на приготовленное угощение.
 </details>
+

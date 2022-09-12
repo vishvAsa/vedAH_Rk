@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+árṇaḥ ← árṇas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+citradŕ̥śīkam ← citradŕ̥śīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidat ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ánīke ← ánīka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śukrásadmanām ← śukrásadman- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+uṣásām ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahatā́ ← mahā́nt- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+skámbhanena ← skámbhana- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+astabhnāt ← √stambhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+marútvān ← marútvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +190,7 @@ As noted above, the 2nd hemistich of this vs. sounds esp. Indraic.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/03-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/03-05.md">
 <details open><summary><h2>03-05 ...{Loading}...</h2></summary>
 
 As noted in the published introduction. as well as above, the praise of soma modulates towards praise of Indra in this sequence, starting in the 2nd half of vs. 3. The first half of 3 clearly identifies soma as referent with the ppl. pītáḥ ‘when drunk’, but the cosmogonic deeds of 3d and of at least the first half of 4 begin to sound Indraic. We are brought abruptly back to soma in 4d (sómo dādhāra), but this almost seems like a trick or a feint to keep us from drifting further. And vs. 5 again sounds Indraic, esp.
@@ -173,3 +222,4 @@ Er fand der Wasser Flut, die glänzend schimmert im Schein der Morgen, die im Li
 Этот великий на великой опоре  
 Воздвиг небо, бык, окруженный Марутами.
 </details>
+

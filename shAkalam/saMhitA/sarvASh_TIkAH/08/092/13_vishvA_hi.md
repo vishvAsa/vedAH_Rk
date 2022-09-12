@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+martyatvanā́ ← martyatvaná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+anukāmā́ ← anukāmá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śatakrato ← śatákratu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áganma ← √gam- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+āśásaḥ ← āśás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,3 +135,4 @@ Es ist ja aller Menschen Art begehrlich, o vielwirkender, Uns kam das Wünschen 
 
 -ru-
 </details>
+

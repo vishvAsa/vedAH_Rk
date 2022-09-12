@@ -15,13 +15,56 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+nr̥ṇā́m ← nár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sadāma ← √sad- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+śū́ne ← śū́na- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+aśéṣasaḥ ← aśéṣas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+avī́ratā ← avī́ratā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+durya ← dúrya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dúryāsu ← dúrya- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+prajā́vatīṣu ← prajā́vant- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,3 +188,4 @@ Lass nicht um dich uns leer an Männern sitzen, vereinsamt nicht aus Kindermange
 Без потомства из-за отсутствия сыновей сесть вокруг тебя –  
 (Хотим жить) в домах, полных детей, о (бог) домашний!
 </details>
+

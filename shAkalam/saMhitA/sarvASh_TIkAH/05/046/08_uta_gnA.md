@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devápatnīḥ ← devápatnī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gnā́ḥ ← gnā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vyantu ← √vī- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+agnā́yī ← agnā́yī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+aśvínī ← aśvínī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+indrāṇī́ ← indrāṇī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rā́ṭ ← rā́j- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+śr̥ṇotu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+varuṇānī́ ← varuṇānī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jánīnām ← jáni- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+r̥túḥ ← r̥tú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vyántu ← √vī- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ Die gottvermählten Frauen mögen kommen, Indrani, Agnani, die Ritterfürstin, d
 Пусть услышат (нас) Родаси, Варунани!  
 Пусть одобрят (наше приглашение) богини – (те,) что (устанавливают) срок для женщин!
 </details>
+

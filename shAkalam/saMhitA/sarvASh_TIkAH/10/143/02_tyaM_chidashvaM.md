@@ -16,14 +16,66 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+areṇávaḥ ← areṇú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+átnata ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+dr̥ḷhám ← √dr̥h- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+granthím ← granthí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+syatam ← √sā- ~ si- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+átrim ← átri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáviṣṭham ← yáviṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +201,4 @@ So löst wie festen Knoten auch den Atri, den gleich schnellem Ross Staublose G�
 Развяжите (его), как тугой узел!  
 Атри, самому юному, (дайте пересечь) простор!
 </details>
+

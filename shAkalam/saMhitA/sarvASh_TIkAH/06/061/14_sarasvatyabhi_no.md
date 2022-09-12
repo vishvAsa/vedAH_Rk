@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+neṣi ← √nī- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+sárasvati ← sárasvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vásyaḥ ← vásyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+dhak ← √dagh- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+spharīḥ ← √sphr̥̄- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+juṣásva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sakhyā́ ← sakhyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+veśyā̀ ← veśyà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+áraṇāni ← áraṇa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ganma ← √gam- (root)  
+{number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+kṣétrāṇi ← kṣétra- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +254,4 @@ O Sarasvati, führe uns zu reicherem Gute, stosse uns nicht zurück; entziehe un
 Наслаждайся нашей дружбой и соседством!  
 Да не уйдем мы от тебя в далекие края!
 </details>
+

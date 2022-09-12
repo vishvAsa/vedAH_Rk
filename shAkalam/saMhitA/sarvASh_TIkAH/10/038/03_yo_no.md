@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ryaḥ ← ā́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dā́saḥ ← dā́sa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+puruṣṭuta ← puruṣṭutá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ádevaḥ ← ádeva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cíketati ← √cit- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yudháye ← √yudh- (root)  
+{case:DAT, number:SG}
+
+asmā́bhiḥ ← ahám (pronoun)  
+{case:INS, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+śátravaḥ ← śátru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suṣáhāḥ ← suṣáha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+saṁgamé ← saṁgamá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+vanuyāma ← √vanⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Welch Götterhasser, sei er heimisch, sei er fremd, o vielgerühmter Indra, uns 
 Благодаря нам пусть будут враги для тебя легко одолимыми!  
 С тобою мы хотим победить их в бою!
 </details>
+

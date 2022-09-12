@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arkásātau ← arkásāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+codayaḥ ← √cud- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+kavím ← kaví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kútsāya ← kútsa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śúṣṇam ← śúṣṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vark ← √vr̥j- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+ahan ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+amarmáṇaḥ ← amarmán- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+atithigvā́ya ← atithigvá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kariṣyán ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:FUT, voice:ACT}
+
+śáṁsyam ← śáṁsya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +193,7 @@ Pāda b contains one of the few occurrences of √vṛj ‘twist, wring’ witho
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/03-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/03-06.md">
 <details open><summary><h2>03-06 ...{Loading}...</h2></summary>
 
 These vss. are tr. and discussed by Hoffman (Injunk., 183-84).
@@ -173,3 +225,4 @@ Den Sänger schärftest du bei Liederfindung, dem frommen Kutsa warfst du hin de
 Ты отбил голову неуязвимому,  
 Желая совершить славное дело ради Атитхигвы.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+paṇíbhyaḥ ← paṇí- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+dhārayaḥ ← √dhr̥- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+gávyāni ← gávya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+acikradaḥ ← √krand- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+tántum ← tántu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tatám ← √tan- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +132,7 @@ Both Geldner and Renou take acikradaḥ as transitive/causative (e.g., “tu l�
 
 On the problem of this redupl. aor., see my 1983 -áya- book (pp. 110-11)(though I would now disavow a second √krand ‘race’, beside ‘roar’).
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/022/06-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/022/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, vs. 7 stands somewhat apart from the rest of the hymn, but there is chaining here as well: 6a tántuṃ tanvānám … is echoed by 7c tatáṃ tántum …
@@ -132,3 +163,4 @@ Du, Soma, hast vor Geizigen das rinderreiche Gut bewahrt, Und das Gewebe rauscht
 Забрал богатство из коров.  
 Ты заставил громко звучать натянутую нить.
 </details>
+

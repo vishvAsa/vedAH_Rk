@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+saṁdŕ̥k ← saṁdŕ̥ś- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svanīka ← svanīka- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+cā́ruḥ ← cā́ru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ghorásya ← ghorá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+satáḥ ← √as- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+víṣuṇasya ← víṣuṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śocíḥ ← śocís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+támasā ← támas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+váranta ← √vr̥- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+dhvasmā́naḥ ← dhvasmán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+répaḥ ← répas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tanvì ← tanū́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +239,4 @@ Erfreuend ist dein Anblick, schöner Agni, und angenehm des hehren, mannichfalt'
 Так как они не могут покрыть мраком твое пламя,  
 Маратели не могут насажать пятен на (твоем) теле.
 </details>
+

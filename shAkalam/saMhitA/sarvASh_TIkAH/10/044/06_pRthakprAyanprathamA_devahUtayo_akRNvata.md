@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+deváhūtayaḥ ← deváhūti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+prathamā́ḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pŕ̥thak ← pŕ̥thak (invariable)  
+{}
+
+ákr̥ṇvata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+duṣṭárā ← duṣṭára- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śravasyā̀ni ← śravasyà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ārúham ← √ruh- (root)  
+{case:ACC, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nā́vam ← naú- ~ nā́v- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śekúḥ ← √śak- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yajñíyām ← yajñíya- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+aviśanta ← √viś- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+evá ← evá (invariable)  
+{}
+
+īrmā́- ← īrmā́ (invariable)  
+{}
+
+képayaḥ ← képi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +235,4 @@ Die ersten Beter gingen hier und dort hervor, und schafften sich unantastbare He
 Те (же,) что не смогли взойти на жертвенную ладью,  
 Эти:сразу же отстали.
 </details>
+

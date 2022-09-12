@@ -14,12 +14,37 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 11 = 8+3
+#### Morph
+dīdivaḥ ← √dī- 1 (root)  
+{case:VOC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+śociṣṭha ← śociṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+nūnám ← nūnám (invariable)  
+{}
+
+sákhibhyaḥ ← sákhi- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+sumnā́ya ← sumná- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -74,8 +99,6 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 11 = 8+3
 8तं त्वेति ॥ शोचिष्ठ दीपयितृतम 'तुश्छन्दसि' इतीष्ठन् । 'तुरिष्ठेमेयस्सु' इति टिलोपः । यद्वा - शोचस्वितम । 'विन्मतोर्लुक्' । हे दीदिवः दीप्यमान जिगीषन्वा । दिवेर्लिटः क्वसुरादेशः, 'तुजादीनाम्' इत्यभ्यासस्य दीर्घत्वम् । तं त्वां तादृशमन्तिकतमत्वादिगुणविशिष्टं त्वां सुम्नाय धनाय सुखाय वा ईमहे याचामहे । नूनमिति पादपूरणे निश्चये वा । यद्वा - नूनं नूतनं अभूतपूवं तं त्वां सखिभ्यः समानख्यानेभ्यः सुहृदयसुहृद्भ्यः । 'क्रियाग्रहणं कर्तव्यम्' इति कर्मणस्सम्प्रदानत्वात्सुम्नायेति चतुर्थी ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -102,7 +125,6 @@ Thee, O shining and most radiant one,
 We implore for favour, for our friends;  
 </details>
 
-
 <details><summary>Geldner</summary>
 
 So bitten wir dich, du Glühendster, Glanzvoller, jetzt um Wohlwollen für uns Freunde.
@@ -117,3 +139,4 @@ Denn dich, o hellster, leuchtender, begehren wir zum Heil nun für die Freunde.
 
 -ru-
 </details>
+

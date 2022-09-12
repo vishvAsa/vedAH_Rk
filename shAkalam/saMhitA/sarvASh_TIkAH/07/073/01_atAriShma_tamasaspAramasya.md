@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+átāriṣma ← √tr̥̄- 1 (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+pārám ← pārá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+támasaḥ ← támas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dádhānāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+devayántaḥ ← √devay- (UNK_TYPE)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purājā́ ← purājā́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+purudáṁsā ← purudáṁsa- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+purutámā ← purutáma- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ámartyā ← ámartya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+gī́ḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+havate ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,3 +184,4 @@ Wir sind gedrungen zu des Dunkels Ende, wir frommen, euch das Lob entgegenbringe
 Зовет песнь бессмертных Ашвинов,  
 Совершающих много чудес, первых среди многих, испокон веку рожденных.
 </details>
+

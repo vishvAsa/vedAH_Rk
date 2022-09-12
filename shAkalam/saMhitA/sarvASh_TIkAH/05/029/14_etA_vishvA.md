@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+cakr̥vā́n ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+etā́ ← eṣá (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+áparītaḥ ← áparīta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janúṣā ← janúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vīryèṇa ← vīryà- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dadhr̥ṣvā́n ← √dhr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+kr̥ṇávaḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+nú ← nú (invariable)  
+{}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+asti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+tásyāḥ ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+táviṣyāḥ ← táviṣī- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vartā́ ← vartár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +243,4 @@ Der, Indra, du dies alles reichlich thatest, mit Heldenkraft von Haus aus unbezw
 И те, которые сейчас ты дерзновенно собираешься совершить, о громовержец, –  
 Ты не встречаешь (никого), способного отвратить эту твою силу.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+prápathe ← prápatha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śréṣṭhā ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svastíḥ ← svastí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+éti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rékṇasvatī ← rékṇasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+amā́ ← amā́ (invariable)  
+{}
+
+áraṇe ← áraṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+pātu ← √pā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+u ← u (invariable)  
+{}
+
+bhavatu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+devágopā ← devágopā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+svāveśā́ ← svāveśá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +236,4 @@ Des Heiles Göttin, sie die reichste, beste, die hin zu Schätzen eilt auf ferne
 
 -ru-
 </details>
+

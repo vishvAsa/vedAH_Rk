@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+dáśaśākhābhyām ← dáśaśākha- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+hástābhyām ← hásta- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+jihvā́ ← jihvā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+purogavī́ ← purogavá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vācáḥ ← vā́c- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+anāmayitnúbhyām ← anāmayitnú- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+spr̥śāmasi ← √spr̥ś- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tā́bhyām ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:DU}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +163,4 @@ Den zehngespaltnen Händen eilt die Zunge vor mit ihrem Spruch, Die Hände bring
 (Этими) двумя лишающими тебя болезни  
 Ими мы касается тебя.
 </details>
+

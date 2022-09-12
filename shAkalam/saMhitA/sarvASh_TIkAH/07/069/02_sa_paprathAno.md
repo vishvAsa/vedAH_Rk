@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+bhū́ma ← bhū́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+páñca ← páñca- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+paprathānáḥ ← √prathⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+trivandhuráḥ ← trivandhurá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yātu ← √yā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yuktáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+devayántīḥ ← √devay- (UNK_TYPE)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+gáchathaḥ ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+víśaḥ ← víś- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+cit ← cit (invariable)  
+{}
+
+dádhānā ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+kútra ← kútra (invariable)  
+{}
+
+yā́mam ← yā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Der weit sich ausdehnt über alle Lande, drei Sitze trägt, der geistgeschirrte 
 (Колесница,) на которой вы ездите к племенам, преданным богам.  
 О Ашвины, пролагая путь куда угодно.
 </details>
+

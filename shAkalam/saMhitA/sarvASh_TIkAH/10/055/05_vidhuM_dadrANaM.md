@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+bahūnā́m ← bahú- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+dadrāṇám ← √drā- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:MED}
+
+sámane ← sámana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vidhúm ← vidhú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jagāra ← √gr̥̄- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+palitáḥ ← palitá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:N, number:SG, tense:PRS, voice:ACT}
+
+yúvānam ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kā́vyam ← kā́vya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+paśya ← √paś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+adyá ← adyá (invariable)  
+{}
+
+āna ← √anⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+hyás ← hyás (invariable)  
+{}
+
+mamā́ra ← √mr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Der einsam läuft, obwol umschart von vielen, und Jüngling war, ihn hat der Gre
 Взгляни на мудрость бога во (всем) величии:  
 Сегодня он умер, вчера (еще) дышал.
 </details>
+

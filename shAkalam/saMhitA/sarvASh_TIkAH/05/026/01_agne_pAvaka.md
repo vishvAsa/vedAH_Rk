@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pāvaka ← pāvaká- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rocíṣā ← rocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jihváyā ← jihvā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mandráyā ← mandrá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vakṣi ← √vah- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+yákṣi ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -96,7 +130,6 @@ __________
 हे अग्ने पावक शोधक रोचिषा रोचमानया मन्द्रया मदयित्र्या हर्षणशीलया जिह्वया हे देव क्रीडादियुक्त देवानिहावह च यज च ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -129,7 +162,6 @@ O Agni, the purifying, with thy light,
 Bring hither the gods and sacrifice.  
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Gott Agni, du Heller, bring mit deinem Glanze, mit deiner wohlklingenden Zunge die Götter her und opfere ihnen!
@@ -146,3 +178,4 @@ Entflammter Agni, fahr, o Gott, mit holder Flammenzunge her Die Götter und vere
 Веселым языком, о бог,  
 Привези богов и принеси жертвы!
 </details>
+

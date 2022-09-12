@@ -17,15 +17,58 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+minīmasi ← √mī- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+yopayāmasi ← √yup- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+carāmasi ← √carⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+mantraśrútyam ← mantraśrútya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+apikakṣébhiḥ ← apikakṣá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pakṣébhiḥ ← pakṣá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+átra ← átra (invariable)  
+{}
+
+rabhāmahe ← √rabh- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +189,4 @@ Nimmer, o Götter, übertreten wir eure Gebote [mántrā aus mantraçrútyam zu 
 К плечам, к богам (вашим) при этом  
 Вместе мы тесно приникаем.
 </details>
+

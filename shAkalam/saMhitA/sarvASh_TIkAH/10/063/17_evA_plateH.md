@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avīvr̥dhat ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+evá ← evá (invariable)  
+{}
+
+platéḥ ← platí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sūnúḥ ← sūnú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+adite ← áditi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ādityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+manīṣī́ ← manīṣín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+ámartyena ← ámartya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+īśānā́saḥ ← √īś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ástāvi ← √stu- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+divyáḥ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gáyena ← gáya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +193,4 @@ So hat verherrlicht euch der Sohn des Plati, o weise Aditi, Aditja's alle; Durch
 
 -ru-
 </details>
+

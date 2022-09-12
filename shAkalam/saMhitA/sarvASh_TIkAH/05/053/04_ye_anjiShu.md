@@ -15,13 +15,47 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+añjíṣu ← añjí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+svábhānavaḥ ← svábhānu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́śīṣu ← vā́śī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+khādíṣu ← khādí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+rukméṣu ← rukmá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+srakṣú ← sráj- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+dhánvasu ← dhánur ~ dhánvan- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+rátheṣu ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+śrāyā́ḥ ← śrāyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +168,4 @@ Die leuchtenden, mit Aexten und mit Schmuck versehn mit Kränzen, Spangen und mi
 Топорами, венками, золотыми пластинками,  
 Кольцами, колесницами, луками:
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+supravācanám ← supravācaná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vājāḥ ← vā́ja- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+abhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+mahitvanám ← mahitvaná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vibhvaḥ ← víbhū- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+jívrī ← jívri- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pitárā ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sanājúrā ← sanājúr- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sántā ← √as- 1 (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+caráthāya ← carátha- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+tákṣatha ← √takṣ- (root)  
+{number:PL, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+yúvānā ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Das war, o Vadscha's, Ribhu's, euer hoher Ruhm und bei den Göttern, Vibhu's, eu
 (То,) что родителей, бывших дряхлыми, слабыми от старости,  
 Вы сделали снова юными, (способными) двигаться.
 </details>
+

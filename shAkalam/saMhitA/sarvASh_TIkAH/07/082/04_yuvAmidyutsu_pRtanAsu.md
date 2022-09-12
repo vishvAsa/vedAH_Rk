@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ít ← ít (invariable)  
+{}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+váhnayaḥ ← váhni- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yutsú ← yúdh- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+kṣémasya ← kṣéma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mitájñavaḥ ← mitájñu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prasavé ← prasavá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+īśānā́ ← √īś- (root)  
+{case:ACC, gender:M, number:DU, tense:PRF, voice:MED}
+
+kārávaḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ubháyasya ← ubháya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+índrāvaruṇā ← índrāváruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+suhávā ← suháva- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ In Kampf und Schlachten rufen wir euch eilend an, wir unermüdlich wirkend in de
 (Вас двоих,) повелевающих двоякого рода богатством, (мы,) певцы,  
 Призываем, О Индра-Варуна, как (тех), кого хорошо призывать.
 </details>
+

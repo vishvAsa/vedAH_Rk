@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áyuddhasenaḥ ← áyuddhasena- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vibhindatā́ ← √bhid- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vibhvā̀ ← vibhū́- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dā́śat ← √dāś- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+tejate ← √tij- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tújyāni ← tújya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhiśnáthaḥ ← abhiśnáth- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+abibhet ← √bhī- (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vájrāt ← vájra- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ájahāt ← √hā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+akrāmat ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ánaḥ ← ánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śundhyúḥ ← śundhyú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Mit unbezwungnem, starkem, spaltendem Geschoss zu helfen, schärft die Pfeile, d
 
 c-d Она испугалась – Сюжет о нападении Индры на Ушас в РВ упоминается (например, IV, 30, 8-11), но мотивы этого нападения остаются неизвестными
 </details>
+

@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sudevā́ya ← sudevá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+ávitāriṇīm ← ávitārin- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sumedhā́m ← sumedhá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+gávyūtim ← gávyūti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ghr̥taíḥ ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ukṣatam ← √ukṣ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +154,4 @@ Benetzt dem frommen Beter denn den futterreichen Weideplatz, Den unerschöpflich
 (Дайте) прекрасную силу прозрения, непреходящую!  
 Жиром окропите (нам) пастбище!
 </details>
+

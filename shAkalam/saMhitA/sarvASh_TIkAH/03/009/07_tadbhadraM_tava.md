@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+daṁsánā ← daṁsánā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+chadayati ← √chand- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+pā́kāya ← pā́ka- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+paśávaḥ ← paśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+samā́sate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+apiśarvaré ← apiśarvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sámiddham ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +191,4 @@ Schön ist es, deine Wunderkraft, sie leuchtet selbst dem Thoren ein, Wenn sich 
 (То,) что животные собираются вокруг тебя, о Агни,  
 Когда ты зажжен на пределе ночи.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áram ← áram (invariable)  
+{}
+
+dadhanvire ← √dhanv- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kā́māya ← kā́ma- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hárī ← hári- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+hinvan ← √hi- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+sthirā́ya ← sthirá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+turā́ ← turá- 1 (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+árvadbhiḥ ← árvant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+háribhiḥ ← hári- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ī́yate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+jóṣam ← jóṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ānaśe ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+hárivantam ← hárivant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Dem starken strömten goldne Tränke zu nach Wunsch, die goldnen spornten an sei
 Кто ездит в свое удовольствие на буланых скакунах,  
 Тот исполнил свое желание, связанное с золотистым (сомой).
 </details>
+

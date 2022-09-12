@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+ghore ← ghorá- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+hayé ← hayé (invariable)  
+{}
+
+jā́ye ← jāyā́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tíṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+kr̥ṇavāvahai ← √kr̥- (root)  
+{number:DU, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+miśrā́ ← miśrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+vácāṁsi ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ánuditāsaḥ ← ánudita- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+eté ← eṣá (pronoun)  
+{}
+
+mántrāḥ ← mántra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+nau ← ahám (pronoun)  
+{case:ACC, number:DU}
+
+áhan ← áhar ~ áhan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+karan ← √kr̥- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+máyaḥ ← máyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+páratare ← páratara- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +232,4 @@ Wohlan, o Weib, halte inne mit deinem Vorhaben [mich zu verlassen], o Ehrfurchte
 
 -ru-
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+káraṇāni ← káraṇa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+pū́rvāṇi ← pū́rva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vipra ← vípra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+āha ← √ah- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+āvidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+kárāṁsi ← káras- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vidúṣe ← √vid- 2 (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+
+svágūrtā ← svágūrta- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vŕ̥ṣṇyāni ← vŕ̥ṣṇya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yáthā-yathā ← yáthā (invariable)  
+{}
+
+ápāṁsi ← ápas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+áviveṣīḥ ← √viṣ- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PLUPRF, voice:ACT}
+
+náryā ← nárya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +210,4 @@ So hab', o Weiser, deine alten Thaten, die Werke kennend, ich gerühmt dem Kund'
 Так, как ты совершил, о царь, (эти)  
 Мужественные, сами себя прославившие, героические дела.
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+púṣkarāt ← púṣkara- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+amanthata ← √manthⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+átharvā ← átharvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+mūrdhnáḥ ← mūrdhán- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vāghátaḥ ← vāghát- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,7 +137,7 @@ On the ritual use of the lotus and the relevance of this vs., see Krick (Feuergr
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/13-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 Another tṛca with fronted ‘you’ beginning all three vss., though here the 2nd two occurrences actually involve the enclitic with preposed pronominal prop: 14-15 tám u tvā, as opposed to 13 tvā́m. This tṛca is also characterized by snippets of mythology, contrasting with the otherwise monotonous focus on the standard ritual tropes. Unfortunately the snippets are just that -- they remain undeveloped.
@@ -139,3 +170,4 @@ Dich, Agni, zog Atharvan her durch Reiben aus dem Himmelskelch, Dem Haupte jedes
 Добыл трением Атхарван,  
 (Тебя-) жрецы из головы вселенной.
 </details>
+

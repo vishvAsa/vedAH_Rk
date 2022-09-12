@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+acarat ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhū́yasā ← bhū́yaṁs- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+kánīyaḥ ← kánīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vasnám ← vasná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+akāniṣam ← √kanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ávikrītaḥ ← ávikrīta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+yán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+arirecīt ← √ric- (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+bhū́yasā ← bhū́yaṁs- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+kánīyaḥ ← kánīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+dákṣāḥ ← dákṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dīnā́ḥ ← dīná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+duhanti ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+vāṇám ← vāṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +213,7 @@ As also indicated in the published introduction, I take pāda d as an old saying
 However, Geldner tr. ‘Handel’ and suggests (n. 9d) that it is derived from vaṇíj- ‘merchant’, which seems very plausible. That it is otherwise unknown in this meaning would not be surprising, given the specialized lexical level it inhabits.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/08-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/08-10.md">
 <details open><summary><h2>08-10 ...{Loading}...</h2></summary>
 
 For my interpr. of these vss., see published introduction.
@@ -188,3 +246,4 @@ Für das, was mehr werth war, bot man einen geringeren Kaufpreis; ich war, als i
 Люди со слабым разумением исчерпывают договор (?).  
 Вамадева:
 </details>
+

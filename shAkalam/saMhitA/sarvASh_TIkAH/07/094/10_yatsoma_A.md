@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sóme ← sóma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ájohavuḥ ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+indrāgnī́ ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+saparyávaḥ ← saparyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sáptīvantā ← sáptīvant- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,3 +151,4 @@ Wenn Männer bei gepresstem Trank euch, Indra-Agni, rufen an, Euch rossbegabte, 
 Индру-Агни громко позвали мужи,  
 Почтительные – (этих двоих) правящих упряжками:
 </details>
+

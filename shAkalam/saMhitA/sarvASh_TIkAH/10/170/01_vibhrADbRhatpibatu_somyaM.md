@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+br̥hát ← br̥hánt- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pibatu ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+somyám ← somyá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vibhrā́ṭ ← vibhrā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ávihrutam ← ávihruta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yajñápatau ← yajñápati- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+abhirákṣati ← √rakṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vā́tajūtaḥ ← vā́tajūta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+prajā́ḥ ← prajā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pupoṣa ← √puṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+purudhā́ ← purudhā́ (invariable)  
+{}
+
+rājati ← √rāj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,8 +187,6 @@ having nourished them with food and lords over many regions.
 The vikarNa sAman amongst the divAkIrtya-s is based on RV 10.170.1. 
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -175,3 +228,4 @@ Der weithin leuchtet, trinke süssen Somatrank, geh' ungebeugtes Alter unserm Op
 Поторапливаемый ветром (Сурья,) который охраняет собою (людей).  
 Он (всегда) вызывал процветание существ, он правит во многих местах.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kanā́yāḥ ← kanā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+úpamātim ← úpamāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+īyuḥ ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+śvāntásya ← śvāntá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śrudhí ← √śru- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+sudraviṇaḥ ← sudraviṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yāṭ ← √yaj- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+āśvaghnásya ← āśvaghná- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sūnŕ̥tābhiḥ ← sūnŕ̥ta- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vāvr̥dhe ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +212,4 @@ Dann gingen die Milchtränke auf die Anrede des Mädchens (?) oder irgend eines 
 
 -ru-
 </details>
+

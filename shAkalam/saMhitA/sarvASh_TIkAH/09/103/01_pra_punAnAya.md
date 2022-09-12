@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+prá ← prá (invariable)  
+{}
+
+punānā́ya ← √pū- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+vedháse ← vedhás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómāya ← sóma- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+údyatam ← √yam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bhr̥tím ← bhr̥tí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jújoṣate ← √juṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:MED}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +168,4 @@ Dem Soma bringe andachtsvoll wie Nahrung dar ein hohes Lied, Dem flammenden, dem
 Я про(изношу) предложенную речь.  
 Я приношу (ее), как приношение, с помощью молитв - пусть он насладится (ею)!
 </details>
+

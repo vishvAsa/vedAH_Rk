@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292);; repeated line
+#### Morph
+anādhr̥ṣyā́ḥ ← anādhr̥ṣyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tápasā ← tápas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tápasā ← tápas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yayúḥ ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+cakriré ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+máhaḥ ← máhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tápaḥ ← tápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ápi ← ápi (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+gachatāt ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +208,4 @@ Die, unerreicht durch Büsserwerk, die Busse zu dem Himmel hob, Die grosses Büs
 Кто благодаря пылу создал себе величие.  
 К ним-то пусть он и отправится.
 </details>
+

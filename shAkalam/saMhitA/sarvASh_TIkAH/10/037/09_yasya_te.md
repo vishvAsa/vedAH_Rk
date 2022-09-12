@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ketúnā ← ketú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+aktúbhiḥ ← aktú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ī́rate ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+viśánte ← √viś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+anāgāstvéna ← anāgāstvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+harikeśa ← hárikeśa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sūrya ← sū́rya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áhnāhnā ← áhar ~ áhan- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+út ← út (invariable)  
+{}
+
+vásyasā-vasyasā ← vásyaṁs- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +238,4 @@ Durch dessen Fackel alle Wesen dieser Welt hervorgehn und zur Ruh sich legen bei
 Провозглашая (нашу) невиновность, о златовласый Сурья,  
 Восходи день за днем с все большим благом для нас!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+pádyā ← pádya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+pururū́pā ← pururū́pa- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vápūṁṣi ← vápus- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vaste ← √vas- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+rérihāṇā ← √rih- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+tasthau ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+tryávim ← tryávi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrdhvā́ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+carāmi ← √carⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sádma ← sádman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+asuratvám ← asuratvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +206,7 @@ I roam through the seat of truth as a knowing one. – Great is the one  and onl
 Geldner (/Witzel Gotō) takes pádyā as merely a locational ‘unten’, contrasting with ūrdhvā́at the beginning of the next pāda. It seems unlikely that a formation with so much lexical content would be used in so colorless a manner, esp. given the deployment of padá-forms elsewhere in the hymn (padé iva níhite beginning the next vs. [15a], padé góḥ 1b, padajṇā́ḥ 2b). The “feet” of Dawn are presumably, in naturalistic terms, the light of dawn nearest to the horizon; shining through morning mists it will take on various shapes and colors. (Lüders [617 n. 3] suggests that the various shapes and forms are vegetation on the earth, which is also worth considering.) But in mytho-ritual terms, if Dawn is the cow nurturing the young fire in 13b (as well as pāda b in this vs.), the “wondrous forms” (vápūṃṣi) she clothes herself in and the “many shapes” she possesses (pururū́pā) are the forms and colors of the fire over which she stands. That the scene is set on the ritual ground is suggested by pāda c, where “I” roam across “the seat of truth” (ṛtásya sádma), which I take as a reference to seat of the ritual. Geldner (/Witzel Gotō), however, interpret the pāda as simply meaning “I wander ‘im Geiste’” -- I think because of the vidvā́n ‘knowing’, though that word usually refers to knowledge of the ritual or to cosmic knowledge related to the religio-ritual system. With Geldner (/Witzel Gotō) I take pururū́pā as fem. nom. sg.; however, it can equally be neut. acc. pl. (with Grassmann and Renou) modifying vápūṃṣi. The choice actually has almost no effect on the sense of the pāda.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/14-15.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/14-15.md">
 <details open><summary><h2>14-15 ...{Loading}...</h2></summary>
 
 The published translation is somewhat misleading, in that vápūṃṣi in 14a is tr. as “wondrous forms” and dasmé in 15a as “the wondrous one.” I might substitute “marvellous forms” for the first, to avoid the impression of an etymological connection.
@@ -186,3 +238,4 @@ Sie legt sich an den schönen Schmuck der Füsse, stand aufrecht nun, das junge 
 Я брожу в лоне закона как знаток.  
 Велико могущество богов, единственно.
 </details>
+

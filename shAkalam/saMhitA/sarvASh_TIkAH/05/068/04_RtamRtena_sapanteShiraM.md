@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sápantā ← √sap- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+āśāte ← √naś- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
+dákṣam ← dákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iṣirám ← iṣirá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adrúhā ← adrúh- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+devaú ← devá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vardhete ← √vr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +142,4 @@ Betreibend Recht durch rechtes Werk erlangend frische Geisteskraft Gedeiht das f
 Вы достигли стремительной силы действия.  
 Усиливаются два бога, лишенные обмана.
 </details>
+

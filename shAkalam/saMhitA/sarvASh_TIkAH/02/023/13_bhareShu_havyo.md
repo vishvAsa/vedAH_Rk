@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bháreṣu ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+hávyaḥ ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+upasádyaḥ ← upasádya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhánaṁ-dhanam ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gántā ← gántar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sánitā ← sánitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+abhidipsvàḥ ← abhidipsú- (nominal stem)  
+{case:ACC, gender:F, number:PL, mood:DES}
+
+aryáḥ ← arí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+mŕ̥dhaḥ ← mŕ̥dh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ráthān ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vavarha ← √vr̥h- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Den man in Kämpfen rufen, fromm verehren muss, der eilt in Schlachten und erbeu
 Брихаспати разбил, как колесницы,  
 Все до одного враждебные действия врага, стремящегося навредить.
 </details>
+

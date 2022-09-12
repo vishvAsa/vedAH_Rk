@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+br̥búḥ ← br̥bú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paṇīnā́m ← paṇí- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+mūrdhán ← mūrdhán- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+várṣiṣṭhe ← várṣiṣṭha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+gāṅgyáḥ ← gāṅgyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kákṣaḥ ← kákṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+urúḥ ← urú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Bribu trat siegreich auf das höchste Haupt der Diebe wie Urukakscha Gangia.
 Поднялся на высочайшую вершину,  
 Словно широкий кустарник на Ганге,
 </details>
+

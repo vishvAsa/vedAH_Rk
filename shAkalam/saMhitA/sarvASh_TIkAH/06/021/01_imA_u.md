@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+imā́ ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+kāróḥ ← kārú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+purutámasya ← purutáma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
+havante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+hávyāḥ ← hávya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hávyam ← hávya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīra ← vīrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ajáram ← ajára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+návīyaḥ ← návīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ratheṣṭhā́m ← ratheṣṭhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īyate ← √yā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vacasyā́ ← vacasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+víbhūtiḥ ← víbhūti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Den rufenswerthen rufen diese Rufe des emsigsten der Dichter dich, o Starker, Ge
 (Тебя,) стоящего на колеснице, нестареющего –  
 Выдающееся богатство вымаливается красноречием.
 </details>
+

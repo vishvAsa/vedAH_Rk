@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+idhyate ← √idh- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+jánibhiḥ ← jáni- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+krándan ← √krand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+kuśikébhiḥ ← kuśiká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vaiśvānaráḥ ← vaiśvānará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yugé-yuge ← yugá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sváśvyam ← sváśvya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+amŕ̥teṣu ← amŕ̥ta- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dádhātu ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+jā́gr̥viḥ ← jā́gr̥vi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +232,4 @@ Mit Fingern wird entflammt er, wiehernd wie ein Ross, der Männerhort von Kuçik
 Пусть этот Агни дарует нам богатство из прекрасных мужей,  
 Из прекрасных коней, (он,) бодрствующий среди бессмертных.
 </details>
+

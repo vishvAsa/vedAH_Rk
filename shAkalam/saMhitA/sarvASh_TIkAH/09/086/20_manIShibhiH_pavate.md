@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+manīṣíbhiḥ ← manīṣín- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+pūrvyáḥ ← pūrvyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+acikradat ← √krand- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+kóśān ← kóśa- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+yatáḥ ← √yam- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+janáyan ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kṣarat ← √kṣar- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tritásya ← tritá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kártave ← √kr̥- (root)  
+{case:DAT, number:SG}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vāyóḥ ← vāyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +203,7 @@ Trita is the ur-Soma presser. See disc. ad IX.37.4. Here, as Geldner (n. 20c) su
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 No obvious signs of unity. The instr. manīṣíbhiḥ is found at the end of 19 and immediately afterwards at the beginning of 20. The dawn(s) and the rivers are found in both 19 and 21, but not in mutually reinforcing ways. As for external connections, the “partnership” (sakhyá-) of Indra and Vāyu in 20 is reminiscent of the companions/partners (implicitly Soma and Indra) in 16b. There are various lexical echoes (e.g., vicakṣaṇáḥ 19a = 11b), but the limited vocab. of the Soma hymns makes this unremarkable.
@@ -177,3 +232,4 @@ Der alte Seher rieselt durch der Priester Werk, gelenkt von Männern schrie er u
 
 -ru-
 </details>
+

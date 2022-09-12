@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+sahasrākṣéṇa ← sahasrākṣá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śatáśāradena ← śatáśārada- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ahārṣam ← √hr̥- 1 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śatā́yuṣā ← śatā́yus- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+náyāti ← √nī- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+duritásya ← duritá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pārám ← pārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Durch Trank, der tausend Augen, hundert Herbste, und hundert Leben birgt, hab' i
 Чтобы сотню осеней вел его Индра  
 На ту сторону любой опасности!
 </details>
+

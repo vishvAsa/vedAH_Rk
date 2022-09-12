@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kṣipaṇím ← kṣipaṇí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+turaṇyati ← √turaṇy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apikakṣé ← apikakṣá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+āsáni ← āsán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+baddháḥ ← √bandh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+grīvā́yām ← grīvā́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+dadhikrā́ḥ ← dadhikrā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saṁtávītvat ← √tū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+áṅkāṁsi ← áṅkas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+āpánīphaṇat ← √phaṇ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pathā́m ← pánthā- ~ path- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +184,7 @@ Moreover, this vs. abruptly confronts us with the harsh constraints imposed on t
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/040/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/040/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 These two vss. revisit the utá sma opening that characterized the middle vss. of IV.38.
@@ -166,3 +218,4 @@ Dies schnelle Ross beschleunigt seinen raschen Lauf, am Hals gebunden, an den Sc
 По своей воле мощно собираясь с силой,  
 Резво скача по извилинам дорог.
 </details>
+

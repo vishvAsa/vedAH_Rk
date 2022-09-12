@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+manīṣī́ ← manīṣín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+viśvavít ← viśvavíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+drapsā́n ← drapsá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īráyan ← √īr- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+ávyam ← ávya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samáyā ← samá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vā́ram ← vā́ra- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +195,7 @@ Note the phonological play in d: ví vā́ram ávyaṃ samáyā́ti yāti. The l
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/55-58.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/55-58.md">
 <details open><summary><h2>55-58 ...{Loading}...</h2></summary>
 
 The rest of the hymn consists of 4 vss. Oldenberg dithers about whether this consists of an odd vs., 55, followed by a final tṛca, 56-58 - or a tṛca 55-57, with a final independent vs. 58. At least to my mind, the latter analysis is clearly superior.
@@ -176,3 +231,4 @@ Allwissend strömet leuchtend dieser weise, der Soma, er, des ganzen Weltalls K�
 Приводя в движения капли на жертвенных собраниях,  
 Сок сомы прозодит посредине через сито из овечьей шерсти.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+anamasyan ← √namasy- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhiyānā́ḥ ← √bhī- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+támasi ← támas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tasthivā́ṁsam ← √sthā- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+avatu ← √avⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vaiśvānaráḥ ← vaiśvānará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+avatu ← √avⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +182,7 @@ Even the gods are dependent on our dawn sacrifice, and, reading further between 
 
 The last hemistich has a curious etymological figure, repeated for emphasis: avatūtáye (i.e., avatu ūtáye) “let him help for help.”
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/05-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/05-07.md">
 <details open><summary><h2>05-07 ...{Loading}...</h2></summary>
 
 The last three vss. of this hymn are dominated by play on the syllable ví, which is also evident, though recessive, in the first part of the hymn. Starting with 5c every hemistich begins with ví: 5c víśve, 6a ví, 6c ví, 7a víśve; note also ví in the middle of 5d and 6a and beginning 6b. This sequence culminates in 7c vaiśvānaraḥ, whose first syllable is phonologically a vṛddhi form of vi and whose first member vaiśva- is morphologically a vṛddhi derivative of víśva-. That the two forms of víśve in 5c and 7a are in the syntagm víśve devā́ḥ “all the gods” and the 2nd member of vaiśvānará- is contrastively -nara- ‘man’ makes the pattern all the more pleasing.
@@ -166,3 +215,4 @@ Die Götter alle beugten sich in Ehrfurcht vor dir als, Agni, du im Dunkel stand
 Вайшванара да будет милости к нам на милость!  
 Бессмертный да будет милостив к нам на милость!
 </details>
+

@@ -18,16 +18,74 @@ ChandaH = "विराट्पूर्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+evá ← evá (invariable)  
+{}
+
+indrāgníbhyām ← indrāgní- (nominal stem)  
+{case:DAT, gender:M, number:DU}
+
+áhāvi ← √hu- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śūṣyàm ← śūṣyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pūtám ← √pū- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sūríṣu ← sūrí- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+didhr̥tam ← √dhr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+gr̥ṇátsu ← √gr̥̄- 1 (root)  
+{case:LOC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+didhr̥tam ← √dhr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+gr̥ṇátsu ← √gr̥̄- 1 (root)  
+{case:LOC, gender:M, number:PL, tense:PRS, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,3 +242,4 @@ So wurde kräft'ger Opferguss von Steinen, reiner Butter gleich, dem Indra, Agni
 Воспевателей богатством!  
 Обеспечьте воспевателей жертвенной усладой!
 </details>
+

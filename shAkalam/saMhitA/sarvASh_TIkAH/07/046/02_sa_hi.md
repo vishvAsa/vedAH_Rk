@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+jánmanaḥ ← jánman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+kṣámyasya ← kṣámya- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+kṣáyeṇa ← kṣáya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cétati ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+divyásya ← divyá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sā́mrājyena ← sā́mrājya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ávan ← √avⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ávantīḥ ← √avⁱ- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+cara ← √carⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dúraḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+anamīváḥ ← anamīvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+jā́su ← jā́- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rudra ← rudrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,14 +202,14 @@ The complementary etymological and morphological figure ávann ávantīḥ is no
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 devayántaḥ in 1ab with 3rd ps. referent (see the 3rd pl. verb ákṛṇvata) modulates to 1st ps. reference in 2b, also signalled by the verb (aśyāma).
 
 [VII.48 JPB]</details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 The final pādas of both vss. are semantic variants of each other: “don’t hurt our children.” In 2d the negative is expressed by the privative on the adj.
@@ -185,3 +243,4 @@ Denn er nimmt wahr vom hohen Throne seines Reichs des irdischen Geschlechtes und
 Благожелательный к благожелательному нашему дому подходи!  
 Не поражай болезнью наших потомков!
 </details>
+

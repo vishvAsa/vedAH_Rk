@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átyaiḥ ← átya- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sárgeṇa ← sárga- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+taktáḥ ← √tak- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+apáḥ ← áp- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+dakṣiṇatáḥ ← dakṣiṇatáḥ (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+turāṣā́ṭ ← turāṣáh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánapāvr̥t ← ánapāvr̥t (invariable)  
+{}
+
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+sr̥jānā́ḥ ← √sr̥j- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+apramr̥ṣyám ← apramr̥ṣyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+viviṣuḥ ← √viṣ- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ Im Strom hinschiessend kräftig mit den Rossen, geht Indra siegend rechter Hand 
 Выпущенные таким образом, не отклоняясь,  
 День за днем делают они свое неизменное дело.
 </details>
+

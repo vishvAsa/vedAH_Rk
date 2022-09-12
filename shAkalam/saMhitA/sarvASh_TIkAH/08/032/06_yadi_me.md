@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+rāráṇaḥ ← √ranⁱ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+yádi ← yádi (invariable)  
+{}
+
+cánaḥ ← cánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dádhase ← √dhā- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+
+ukthé ← ukthá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ārā́t ← ārā́t (invariable)  
+{}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+svadhā́ ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +172,4 @@ Wenn du an meinem Trank dich freust, an meinem Spruch Gefallen hast, So komm mit
 Или ты получишь удовольствие от гимна,  
 Приходи издалека по своему желанию!
 </details>
+

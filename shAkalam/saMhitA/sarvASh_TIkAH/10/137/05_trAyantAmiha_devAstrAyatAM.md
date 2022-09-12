@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ihá ← ihá (invariable)  
+{}
+
+trā́yantām ← √trā- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+gaṇáḥ ← gaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+trā́yatām ← √trā- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+bhūtā́ni ← √bhū- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+trā́yantām ← √trā- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+arapā́ḥ ← arapás- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +174,4 @@ Die Götter mögen helfen hier, es helfe auch der Maruts Schar, Und alle Wesen i
 Да спасут все существа,  
 Чтобы был ты без повреждения!
 </details>
+

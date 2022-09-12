@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+cakramāṇā́ ← √kramⁱ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
+
+śúcibhiḥ ← śúci- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhānúm ← bhānú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rájobhiḥ ← rájas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ráthasya ← rátha- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rurucuḥ ← √ruc- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ámitā ← ámita- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mímānā ← √mā- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+várāṁsi ← váras- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ájrān ← ájra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+dhánvāni ← dhánvan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yāthaḥ ← √yā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ Zum Opfer eilend mit den lichten Rossen durchdrangen mit des Wagens Glanz die Lu
 Измеряя многие неизмеренные просторы,  
 Движетесь вы двое через воды, пустыни, луга.
 </details>
+

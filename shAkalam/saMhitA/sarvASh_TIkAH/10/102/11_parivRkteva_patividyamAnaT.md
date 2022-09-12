@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ānaṭ ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+parivr̥ktā́ ← √vr̥j- 1 (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+pativídyam ← pativídya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kū́cakreṇa ← kū́cakra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pī́pyānā ← √pī- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:MED}
+
+siñcán ← √sic- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+eṣaiṣyā̀ ← eṣaiṣyà- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+jayema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+rathyā̀ ← rathī́- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sātám ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sínavat ← sínavant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sumaṅgálam ← sumaṅgála- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +195,4 @@ Gleich der Verstossnen, die den Mann erlangt hat, so strotzt sie wie ein Tropfen
 
 -ru-
 </details>
+

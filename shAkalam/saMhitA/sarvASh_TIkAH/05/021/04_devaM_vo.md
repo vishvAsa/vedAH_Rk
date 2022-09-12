@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devayajyáyā ← devayajyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īḷīta ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dīdihi ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+sámiddhaḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+śukra ← śukrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asadaḥ ← √sad- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asadaḥ ← √sad- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+sasásya ← sasá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Es preise Agni, euren Gott, mit Gottesfurcht der Sterbliche; Entflammt, o heller
 Ты уселся в лоне закона.  
 Ты уселся в лоне жертвенной пищи.
 </details>
+

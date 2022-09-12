@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+gata ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ŕ̥tadhītayaḥ ← r̥tádhīti- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sátyadharmāṇaḥ ← satyádharman- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jihváyā ← jihvā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pibata ← √pā- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +144,4 @@ O reingesinnte kommt herbei, wahrhaft gerechte zu dem Fest, Und mit des Agni Zun
 Чьи установления истинны, (к нам) на обряд!  
 Пейте языком Агни!
 </details>
+

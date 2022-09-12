@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+hotrā́t ← hotrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+jóṣam ← jóṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mándasva ← √mand- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ádhvaryavaḥ ← adhvaryú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+āsícam ← āsíc- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pūrṇā́m ← √pr̥̄- 1 (root)  
+{case:ACC, gender:F, number:SG, non-finite:PPP}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vaṣṭi ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bharata ← √bhr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dadíḥ ← dadí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+etám ← eṣá (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tadvaśáḥ ← tadvaśá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+draviṇodaḥ ← draviṇodas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hotrā́t ← hotrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+r̥túbhiḥ ← r̥tú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +222,7 @@ Bring this to him. Such is the desire of the giver. The soma from the  Hotar’s
 As noted above ad II.36.3 the VP mándasva … ándhasaḥ repeats the same phrase there; our ánu jóṣam echoes the part. jujuṣāṇáḥ there.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/037/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/037/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The d pādas of the first three vss. have a rigid structure: PRIEST’S CUP sómaṃ draviṇodaḥ píbartúbhiḥ. Noteworthy is only that píba is accented in all three vss., though there is no obvious reason for this, and the last three vss. (4-6), which also contain imperatives to √pā, though of different form (4d pibatu, 5d pibatam, 6d pāyayā), in syntactically variant constructions, lack such accent. I have no explanation (and it seems not to have attracted any attention) beyond the suggestion that píbartúbhiḥ is treated as a detachable refrain, even though what precedes it in the pāda must be construed with it. See now also remarks ad III.32.1.
@@ -193,3 +254,4 @@ Erfreu nach Lust aus Priesters Schale dich am Kraut, o Opfrer, er verlangt die S
 Поднесите ему его! Он этого хочет, даритель.  
 О Дравинодас, пей сому из кубка хотара в (свое) время!
 </details>
+

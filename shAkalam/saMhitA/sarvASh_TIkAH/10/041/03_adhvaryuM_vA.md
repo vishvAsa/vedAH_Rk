@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adhvaryúm ← adhvaryú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mádhupāṇim ← mádhupāṇi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suhástyam ← suhástya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+agnídham ← agnídh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dámūnasam ← dámūnas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhr̥tádakṣam ← dhr̥tádakṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+gáchathaḥ ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sávanāni ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+víprasya ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+átas ← átas (invariable)  
+{}
+
+madhupéyam ← madhupéya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Wenn ihr zum Diener, der geschickt den Meth euch reicht, und zu des Hauses treue
 Или же на выжимания вдохновенного (поэта),  
 Приезжайте оттуда на питье меда, о Ашвины!
 </details>
+

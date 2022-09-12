@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yujānā́ḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+átyāḥ ← átya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥ṣaraśmayaḥ ← vŕ̥ṣaraśmi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥ṣarathāsaḥ ← vŕ̥ṣaratha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asmatrā́ñcaḥ ← asmatrā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vajravā́haḥ ← vajraváh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+suyújaḥ ← suyúj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vahantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

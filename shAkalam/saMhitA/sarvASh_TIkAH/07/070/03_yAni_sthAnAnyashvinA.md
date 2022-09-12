@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dadhā́the ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+sthā́nāni ← sthā́na- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yā́ni ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+óṣadhīṣu ← óṣadhī- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yahvī́ṣu ← yahvī́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+mūrdháni ← mūrdhán- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+párvatasya ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sádantā ← √sad- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+váhantā ← √vah- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ An welchen Orten ihr auch weilt, o Ritter, in Himmelsfluten, in Gewächsen, Häu
 Сидя на вершине горы,  
 Привозя жертвенную усладу народу, почитающему (вас):
 </details>
+

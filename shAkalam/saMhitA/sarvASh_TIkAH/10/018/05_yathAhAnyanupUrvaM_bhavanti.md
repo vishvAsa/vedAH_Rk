@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+áhāni ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+anupūrvám ← anupūrvám (invariable)  
+{}
+
+bhávanti ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
+r̥távaḥ ← r̥tú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥túbhiḥ ← r̥tú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sādhú ← sādhú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yánti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yáthā ← yáthā (invariable)  
+{}
+
+áparaḥ ← ápara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jáhāti ← √hā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pū́rvam ← pū́rva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ā́yūṁṣi ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dhātar ← dhātár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+evá ← evá (invariable)  
+{}
+
+kalpaya ← √kl̥p- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +232,4 @@ Wie Tag auf Tag in steter Reihe folget, wie Zeit auf Zeit in gradem Weg dahingeh
 Так, о Создатель, соразмеряй сроки их жизни,  
 Чтобы последующий не покидал предыдущего!
 </details>
+

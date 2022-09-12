@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+cakruḥ ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+pitré ← pitár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sádanam ← sádana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+khyán ← √khyā- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sukŕ̥taḥ ← sukŕ̥t- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvíṣīmat ← tvíṣīmant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+jánitrī ← jánitrī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+skámbhanena ← skámbhana- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+viṣkabhnántaḥ ← √skambhⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ā́sīnāḥ ← √ās- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:PASS}
+
+minvan ← √mi- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+rabhasám ← rabhasá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrdhvám ← ūrdhvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +249,4 @@ Dem Vater [dem Angiras, der hier dem Himmel gleich- gesetzt seheint] bereiteten 
 Они укрепили креплением обеих родительниц,  
 Сидя, они воздвигли кверху неукротимого.
 </details>
+

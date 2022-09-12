@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pareyivā́ṁsam ← √i- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+pravátaḥ ← pravát- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+anupaspaśānám ← √spaś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+bahúbhyaḥ ← bahú- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+saṁgámanam ← saṁgámana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaivasvatám ← vaivasvatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+duvasya ← √duvasy- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rā́jānam ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yamám ← yamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +186,4 @@ Der einst dahinschied zu den sel'gen Höhen, und vielen so den Weg dahin gezeigt
 Сына Вивасвата, собирателя людей,  
 Яму-царя почти жертвой!
 </details>
+

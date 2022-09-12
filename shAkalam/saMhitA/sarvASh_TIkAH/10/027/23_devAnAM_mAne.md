@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+atiṣṭhan ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mā́ne ← mā́na- 2 (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+prathamā́ḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+kr̥ntátrāt ← kr̥ntátra- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+úparāḥ ← úpara- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+anūpā́ḥ ← anūpá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tapanti ← √tap- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bŕ̥būkam ← bŕ̥būka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dvā́ ← dvá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+púrīṣam ← púrīṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vahataḥ ← √vah- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +204,4 @@ In der Wohnung der Götter standen die ersten, aus ihrem Abfall entsprangen die 
 
 -ru-
 </details>
+

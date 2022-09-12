@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+avamásyām ← avamá- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vyùṣṭau ← vyùṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sumnāyávaḥ ← sumnāyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vartayantu ← √vr̥t- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+r̥tayúgbhiḥ ← r̥tayúj- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+syū́magabhastim ← syū́magabhasti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vahethām ← √vah- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vásumantam ← vásumant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +193,4 @@ Die lieben Hengste mögen euren Wagen herbei nun rollen in der jüngsten Dämmru
 О Ашвины, приезжайте (на колеснице,) полной добра,  
 (Управляемой) руками (как) поводьями с правильно запряженными конями!
 </details>
+

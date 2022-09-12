@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+durbhr̥táye ← durbhr̥tí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+eṣú ← ayám (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sácā ← sácā (invariable)  
+{}
+
+agníṣu ← agní- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+devéddheṣu ← devéddha- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+vocaḥ ← √vac- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+bhr̥mā́t ← bhr̥má- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+durmatáyaḥ ← durmatí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+naśanta ← √naś- 1 (root)  
+{number:PL, person:3, voice:MED}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +229,4 @@ Nicht übergib der Dürftigkeit uns, Agni, bei diesen Feuern, die den Göttern f
 Да не настигнет нас даже по ошибке  
 Твое недоброжелательство, о бог, о сын силы!
 </details>
+

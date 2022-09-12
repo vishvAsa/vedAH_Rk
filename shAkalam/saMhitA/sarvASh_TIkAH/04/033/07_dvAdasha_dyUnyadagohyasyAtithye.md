@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ágohyasya ← ágohya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dvā́daśa ← dvā́daśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dyū́n ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ātithyé ← ātithyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ráṇan ← √ranⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+r̥bhávaḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sasántaḥ ← √sas- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+akr̥ṇvan ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ánayanta ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+síndhūn ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sukṣétrā ← sukṣétra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+atiṣṭhan ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+dhánva ← dhánvan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+nimnám ← nimná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Als dann im Hause des, der unverhüllbar, zwölf Tage ruhend froh die Ribhu's sc
 Они сделали поля прекрасными, провели реки,  
 Растения возникли на сухих землях, воды – в низине.
 </details>
+

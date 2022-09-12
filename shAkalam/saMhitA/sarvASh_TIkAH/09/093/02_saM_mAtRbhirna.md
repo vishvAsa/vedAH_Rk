@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mātŕ̥bhiḥ ← mātár- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+śíśuḥ ← śíśu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vāvaśānáḥ ← √vaś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+adbhíḥ ← áp- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+dadhanve ← √dhanv- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+puruvā́raḥ ← puruvā́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+máryaḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+niṣkr̥tám ← niṣkr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yóṣām ← yóṣā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+gachate ← √gam- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+kaláśe ← kaláśa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+usríyābhiḥ ← usríya- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Gleich wie ein schreiend Kind zu seinen Müttern, so läuft zur Flut der Hengst 
 Как молодой мужчина, идущий на свидание с юной женщиной,  
 Он сходится с коровами в кувшине.
 </details>
+

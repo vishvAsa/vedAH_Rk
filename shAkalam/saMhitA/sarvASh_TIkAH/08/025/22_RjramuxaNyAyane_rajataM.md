@@ -15,13 +15,38 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+r̥jrám ← r̥jrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukṣaṇyā́yane ← ukṣaṇyā́yana- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+hárayāṇe ← hárayāṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rajatám ← rajatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asanāma ← √sanⁱ- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suṣā́maṇi ← suṣā́man- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yuktám ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,3 +131,4 @@ Ein rothbraunes und ein silberfarbenes Ross erhielten wir von dem Nachkommen des
 Серебристого у Хараяны,  
 Запряженную колесницу мы получили у Сушамана.
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+upapárcanam ← upapárcana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsú ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+góṣu ← gáv- ~ gó- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+pr̥cyatām ← √pr̥c- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:PASS}
+
+úpa ← úpa (invariable)  
+{}
+
+rétasi ← rétas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+r̥ṣabhásya ← r̥ṣabhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vīryè ← vīryà- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +193,4 @@ Es werde diese Zumischung dieser Milch zugefüllt, und dem Samen des Stieres [de
 До(бавится) к семени быка,  
 До(бавится), о Индра, к твоему мужеству!
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+pītā́ḥ ← √pā- 2 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+uruṣyávaḥ ← uruṣyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yaśásaḥ ← yaśás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+anāha ← √nah- (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+párvasu ← párvan- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+carítrāt ← carítra- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+rakṣantu ← √rakṣⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+visrásaḥ ← √sraṁs- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+índavaḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mā ← ahám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+srā́māt ← srā́ma- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+yavayantu ← √yu- 2 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +243,4 @@ Ihr Tränke hehr und hülfreich habt befestigt mich an den Gelenken, wie den Wag
 Да предохранят меня эти соки сомы (от того,) чтобы не поскользнулась нога,  
 И да удержат они меня от перелома!
 </details>
+

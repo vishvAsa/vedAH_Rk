@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+puroḷā́ḥ ← puroḷā́ś- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+turváśaḥ ← turváśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yákṣuḥ ← yákṣu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+mátsyāsaḥ ← mátsya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+níśitāḥ ← √śā- ~ śī- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhŕ̥gavaḥ ← bhŕ̥gu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+cakruḥ ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+druhyávaḥ ← druhyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śruṣṭím ← śruṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+atarat ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sákhā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víṣūcoḥ ← víṣvañc- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +237,4 @@ Voran ging Turvaça, nach Reichthum jagend, wie Fisch' im Wasser von Begier getr
 Бхригу и друхью охотно последовали (за ними).  
 Друг спас (того, кто был ему) другом, из двух враждующих сторон.
 </details>
+

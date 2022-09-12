@@ -16,14 +16,63 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+ádadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+púruṣam ← púruṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+akalpayan ← √kl̥p- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+katidhā́ ← katidhā́ (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bāhū́ ← bāhú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+kaú ← ká- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+múkham ← múkha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kaú ← ká- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+pā́dau ← pád- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ucyete ← √vac- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:PASS}
+
+ūrū́ ← ūrú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +164,6 @@ popular;; epic anuṣṭubh (380)
 </details>
 
 <details><summary>Wilson</summary>
-
 </details>
 
 <details><summary>Jamison Brereton</summary>
@@ -146,3 +194,4 @@ Als sie den Urmenschen umgestalteten, wie vielfach wandelten sie ihn um? Was war
 Что его рот, что руки,  
 Что бедра, что ноги называются?
 </details>
+

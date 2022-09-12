@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+suśastíbhiḥ ← suśastí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yāhí ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ānuṣák ← ānuṣák (invariable)  
+{}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+júhvānaḥ ← √hu- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+babhū́tha ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havyavā́hanaḥ ← havyavā́hana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +162,4 @@ O Agni, komm in Herrlichkeit, ergiessend Tränke fort und fort, Wie stets du war
 Когда (в тебя) возливают жертвы по порядку,  
 Раз ты стал вестником, увозящим жертвы!
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+avahan ← √vah- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+sūryā́m ← sūryā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vahatúnā ← vahatú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+jāyā́m ← jāyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pátibhyaḥ ← páti- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+púnar ← púnar (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dā́ḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+prajáyā ← prajā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +191,4 @@ Dir, o Agni, führte man zuerst die Suriā nebst dem Hochzeitsgeleite zu, so gib
 Снова мужьям жену  
 Отдай, о Агни, вместе с потомством!
 </details>
+

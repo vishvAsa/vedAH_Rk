@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+tryàmbakam ← tryàmbaka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajāmahe ← √yaj- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+puṣṭivárdhanam ← puṣṭivárdhana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sugándhim ← sugándhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bándhanāt ← bándhana- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+urvārukám ← urvāruká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+amŕ̥tāt ← amŕ̥ta- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mr̥tyóḥ ← mr̥tyú- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mukṣīya ← √muc- (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

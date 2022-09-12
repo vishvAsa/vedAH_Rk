@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nī́lapr̥ṣṭham ← nī́lapr̥ṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vedhásam ← vedhás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sādayadhvam ← √sad- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dīdivā́ṁsam ← √dī- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+sādádyonim ← sādádyoni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aruṣám ← aruṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+híraṇyavarṇam ← híraṇyavarṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sapema ← √sap- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +191,4 @@ Setzt hin den Ordner, dessen Rücken schwarz ist, an einen Sitz, den mächtigen 
 Мы хотим заботиться (о боге), сидящем на своем месте,  
 Ярко сверкающем в доме, (о том, кто) золотистого цвета, об алом!
 </details>
+

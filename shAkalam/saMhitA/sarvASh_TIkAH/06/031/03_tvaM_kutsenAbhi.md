@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kútsena ← kútsa- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śúṣṇam ← śúṣṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+aśúṣam ← aśúṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gáviṣṭau ← gáviṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+kúyavam ← kúyava- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yudhya ← √yudh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ádha ← ádha (invariable)  
+{}
+
+dáśa ← √daṁś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prapitvé ← prapitvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ápāṁsi ← ápas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+áviveḥ ← √viṣ- 2 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+cakrám ← cakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+muṣāyáḥ ← √muṣⁱ- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ Du schlugst, o Indra, den gefräss'gen Çuschna, den Kujava im Kampf vereint mit
 Вгрызайся при разбеге и отнимай  
 Колесо у солнца! (Так) ты принялся за дела.
 </details>
+

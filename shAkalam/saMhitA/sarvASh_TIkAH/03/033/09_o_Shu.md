@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+kāráve ← kārú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śr̥ṇota ← √śru- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sú ← sú (invariable)  
+{}
+
+svasāraḥ ← svásar- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+u ← u (invariable)  
+{}
+
+ánasā ← ánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dūrā́t ← dūrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yayaú ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bhávata ← √bhū- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+namadhvam ← √nam- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ní ← ní (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+supārā́ḥ ← supārá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+adhoakṣā́ḥ ← adhoakṣá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sindhavaḥ ← síndhu- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+srotyā́bhiḥ ← srotyā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +223,4 @@ So hört denn recht, o Schwestern, auf den Dichter; ich naht' von fern euch mit 
 О реки, (не доходите) до оси с (вашими) потоками.  
 Р е к и:
 </details>
+

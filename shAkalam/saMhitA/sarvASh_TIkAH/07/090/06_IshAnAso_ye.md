@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dádhate ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+īśānā́saḥ ← √īś- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+áśvebhiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+híraṇyaiḥ ← híraṇya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vásubhiḥ ← vásu- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índravāyū ← indra-vāyú- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+árvadbhiḥ ← árvant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sahyuḥ ← √sah- (root)  
+{number:PL, person:3, mood:OPT, tense:AOR, voice:ACT}
+
+vīraíḥ ← vīrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Die ihr als Herrscher Herrliches uns schenket an Rindern, Rossen und an Gold und
 О Индра-Ваю, пусть (эти) покровители весь век  
 Побеждают в боях со (своими) скакунами (и) мужами!
 </details>
+

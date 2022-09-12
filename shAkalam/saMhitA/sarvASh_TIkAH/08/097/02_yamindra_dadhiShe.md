@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dadhiṣé ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávyayam ← ávyaya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dákṣiṇāvati ← dákṣiṇāvant- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sunvatí ← √su- (root)  
+{case:LOC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yájamāne ← √yaj- (root)  
+{case:LOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+paṇaú ← paṇí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Was, Indra, du an Ross und Rind, an Schafbesitz erbeutet hast, Das schenke diese
 Для жертвователя, выжимающего (сому,) щедро вознаграждающего,  
 Его ты дай ему, (а) не скупцу!
 </details>
+

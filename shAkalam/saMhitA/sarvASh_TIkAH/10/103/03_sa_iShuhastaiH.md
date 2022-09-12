@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+íṣuhastaiḥ ← íṣuhasta- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+niṣaṅgíbhiḥ ← niṣaṅgín- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vaśī́ ← vaśín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gaṇéna ← gaṇá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sáṁsraṣṭā ← sáṁsraṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yúdhaḥ ← yúdh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+bāhuśardhī́ ← bāhuśardhín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+saṁsr̥ṣṭajít ← saṁsr̥ṣṭajít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+somapā́ḥ ← somapā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ástā ← ástar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prátihitābhiḥ ← √dhā- 1 (root)  
+{case:INS, gender:F, number:PL, non-finite:PPP}
+
+ugrádhanvā ← ugrádhanvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +206,4 @@ Mit seiner Schar, die Pfeile trägt und Köcher, theilt seine Kämpfe der gewalt
 
 -ru-
 </details>
+

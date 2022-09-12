@@ -15,13 +15,59 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+nagnám ← nagná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ūrṇoti ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhiṣákti ← √bhiṣaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+turám ← turá- 2 (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+andháḥ ← andhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+khyat ← √khyā- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+śroṇáḥ ← śroṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +188,4 @@ Er umhüllet, was da nackt ist, heilet alles, was da krank ist; Blinde sehen, La
 Все, что больное, он исцеляет.  
 (Кто) слепой, благодаря ему прозревает, у кого ноги-плети, приходит в движение.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+idám ← ayám (pronoun)  
+{case:ACC, gender:N, number:SG}
+
+kíyate ← kíyant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pāvaka ← pāvaká- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áminate ← áminant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhārám ← bhārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gurúm ← gurú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dadhātha ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+dhr̥ṣatā́ ← √dhr̥ṣ- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+gabhīrám ← gabhīrá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+práyasā ← práyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pr̥ṣṭhám ← pr̥ṣṭhá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+saptádhātu ← saptádhātu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yahvám ← yahvá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,3 +238,4 @@ Wer bin ich, dass du, o flammender Agni, mir, der ich [die Gebote der Götter] n
 Ты решительно возложил высокий глубокий смысл –  
 Новый вопрос, семикратно (заостренный) жертвенной наградой?
 </details>
+

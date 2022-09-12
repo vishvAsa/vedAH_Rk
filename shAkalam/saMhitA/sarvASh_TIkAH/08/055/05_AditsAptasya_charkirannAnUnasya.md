@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+ā́t ← ā́t (invariable)  
+{}
+
+carkiran ← √kr̥̄- 2 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+sāptásya ← sā́pta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ánūnasya ← ánūna- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+atidhvasán ← √dhvaṁs- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+śyā́vīḥ ← śyā́vī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+cákṣuṣā ← cákṣus- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+saṁnáśe ← √naś- 1 (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +164,4 @@ Dann gedachte man des [geschenkten] Siebengespannes; gross ist die Kraft des noc
 Черные кобылы мчатся по дорогам -  
 Глазом (их) не охватить.
 </details>
+

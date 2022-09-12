@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+prathamabhā́jam ← prathamabháj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vayodhā́m ← vayodhā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yaśásam ← yaśás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ŕ̥bhvam ← ŕ̥bhva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sugábhastim ← sugábhasti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+supāṇím ← supāṇí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pastyā̀nām ← pastyā̀- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+yajatám ← yajatá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yakṣat ← √yaj- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suhávam ← suháva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tváṣṭāram ← tváṣṭar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vibhā́vā ← vibhā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +212,4 @@ Dem schönen, der zuerst empfängt und Kraft gibt, dem Gott, der kunstvoll wirkt
 Тваштара, достойного жертв, легкопризываемого,  
 Пусть почтит ярко сверкающий Агни-хотар, (бог) дома.
 </details>
+

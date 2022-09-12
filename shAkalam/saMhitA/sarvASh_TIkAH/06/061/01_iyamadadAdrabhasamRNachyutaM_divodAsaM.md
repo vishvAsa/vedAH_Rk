@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adadāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+rabhasám ← rabhasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥ṇacyútam ← r̥ṇacyút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dívodāsam ← dívodāsa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vadhryaśvā́ya ← vadhryaśvá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ācakhā́da ← √khād- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+avasám ← avasá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+paṇím ← paṇí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śáśvantam ← śáśvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+dātrā́ṇi ← dātrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sarasvati ← sárasvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+taviṣā́ ← taviṣá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +200,7 @@ and the parallel I.93.4, with √muṣ ‘steal’: yád ámuṣṇītam avasám
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 The hymn begins with the near-deictic nom. sg. iyám, establishing the feminine subject immediately and emphatically (“this she here”). Since the just-given tr. is at best graceless and, more to the point, not English, I have opted to focus on the gender rather than the deixis. The next vs. also begins with iyám and the final vs. of the tṛca with the voc. sárasvati.
@@ -180,3 +232,4 @@ Den starken Rächer Divodasa gab als Sohn Sarasvati dem frommen Vadhriaçva eins
 (Та,) что отняла пищу у всех Пани –  
 Это твои мощные дары, о Сарасвати!
 </details>
+

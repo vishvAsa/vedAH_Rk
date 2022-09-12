@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vasuvídam ← vasuvíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vyàśvaḥ ← vyàśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aprīṇāt ← √prī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukṣaṇyúḥ ← ukṣaṇyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+idhīmahi ← √idh- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+u ← u (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +179,4 @@ Der brünst'ge Seh'r Viaçva hat dich einst erfreut, der Gut du schenkst, Drum z
 Выискивателя благ, из преданности и Укшану.  
 Мы хотим мощно воспламенить тебя для великого богатства.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svápatiḥ ← svápati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yātu ← √yā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dhármaṇā ← dhárman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tūtujānáḥ ← √tuj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+túviṣmān ← túviṣmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+pratvakṣāṇáḥ ← √tvakṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sáhāṁsi ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+apāréṇa ← apārá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mahatā́ ← mahā́nt- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vŕ̥ṣṇyena ← vŕ̥ṣṇya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Der Selbstherr Indra komme her zum Rausche, er, voller Kraft nach seiner Art, un
 Страшно сильный (и) пре(восходит) любую мощь  
 (Своей) безграничной, великой бычьей силой.
 </details>
+

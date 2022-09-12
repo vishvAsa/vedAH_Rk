@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+stháviram ← sthávira- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+úlbam ← úlba- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ā́viṣṭitaḥ ← √viṣṭ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+pravivéśitha ← √viś- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+apaśyat ← √paś- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bahudhā́ ← bahudhā́ (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jā́tavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,8 +205,6 @@ popular
 \[gods to agni\] Great was that dome (ulbaM), and firmly set, and it weighed-down \[folded\] at the place where you entered the waters. One god alone, O agni jAtavedas, saw your many forms all over.
 </details>
 
-
-
 <details><summary>Jamison Brereton</summary>
 
 [Gods:] Great was that caul and sturdy it was, enveloped in which you  entered the waters.  
@@ -179,3 +235,4 @@ Gross ist und dicht der Balg, mit dem umkleidet du in das Wasser bist entflohn, 
 Все тела твои, о Агни-Джатаведас.  
 Агни:
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+nr̥cákṣāḥ ← nr̥cákṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+pavítrebhiḥ ← pavítra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mártyānām ← mártya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+bhuvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rayipátiḥ ← rayipáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+cā́ru ← cā́ru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+súbhr̥tam ← súbhr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +196,7 @@ he has become once again the wealth-lord of wealth; the drop bears the  pleasing
 The two words making up the VP in d, ṛtám bharat, appear also in vs. 23, though not together (ṛtám ṛtā́ya b, bhāri d). As is pointed out by Hoffmann (implicitly: Injunc. 122 and esp. n. 34) and Ober (II.121), this appears to be an Indo-Iranian phrase, and it thus invests Soma with yet more traditional dignity. The pāda thus deserves a more solemn tr. than I gave it in the published translation - perhaps “the drop bears the dear truth that is well worth the bearing.” Although the morphological means are different, the lexical duplication in both rayipátī rayīṇā́m (c) and ṛtám bharat súbhṛtam (d) gives the end of this tṛca a stately and archaic air.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/23-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/23-24.md">
 <details open><summary><h2>23-24 ...{Loading}...</h2></summary>
 
 These two vss. each contain the injunc. (/subj.) aor. bhuvat, which in both cases I tr. as an immed. past: “he has become.” After considerable disc. with Ian Hollenbaugh, I now think that this particular form can also express a generic or habitual role or behavior of the subject, which Ian Hollenbaugh felicitously renders with the colloquial “he be-s X.” I am therefore now inclined to alter the tr. of both vss. to “he is the king …” / “he is, now as before, the wealth-lord …” In the absence of a non-colloquial Engl.
@@ -156,7 +205,7 @@ habitual/generic, “is” will have to do.
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/22-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 Karṇaśrut Vāsiṣṭha, a name that has no source in the text and is not otherwise found in the Anukr. This tṛca depicts Soma as a king on a royal journey, and associates him with the resonant words ṛtá- (23b, 24d) and dhárman- (22b) / dharmán- (23c) and the traditional roles they imply.
@@ -188,3 +237,4 @@ Der Männer Licht, durch Seihen hell geläutert, der Götter und der Menschen K�
 С самого начала был господином богатств.  
 Сок сомы сохраняет вселенский закон, прекрасно сохраненный, привлекательный.
 </details>
+

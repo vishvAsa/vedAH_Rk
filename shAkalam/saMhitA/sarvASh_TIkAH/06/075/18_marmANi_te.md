@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular;; 12 = 5+7, ending LHX  
 popular
+#### Morph
+chādayāmi ← √chad- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+mármāṇi ← márman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vármaṇā ← várman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+amŕ̥tena ← amŕ̥ta- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vastām ← √vas- 2 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+kr̥ṇotu ← √kr̥- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+uróḥ ← urú- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+várīyaḥ ← várīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jáyantam ← √ji- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+madantu ← √mad- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +239,4 @@ Ich decke dir die Glieder mit dem Panzer, mit Unsterblichkeit bekleide dich Kön
 Простор пошире пусть создаст тебе Варуна!  
 Пусть боги возрадуются, когда ты побеждаешь!
 </details>
+

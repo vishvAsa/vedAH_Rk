@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámanmahi ← √man- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+anāśávaḥ ← anāśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+anugrā́saḥ ← anugrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahatā́ ← mahā́nt- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rā́dhasā ← rā́dhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sakŕ̥t ← sakŕ̥t (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+mudīmahi ← √mud- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +171,7 @@ Although the primary sense of d, “take delight in your praise,” is surely th
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/001/14-17.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/001/14-17.md">
 <details open><summary><h2>14-17 ...{Loading}...</h2></summary>
 
 Note the concentration of nominal forms of the root √stu ‘praise’ in these verses: stómam 14d, 15a, sadhástutim 16a, úpastutiḥ 16c, suṣṭutím 16d. The appearance of sómam in 17a signals a sort of ring-composition by variant, echoing the two forms of stómam in successive pādas of 14 and 15.
@@ -157,3 +203,4 @@ Wol sind wir eiferlos und schwach, o Vritratödter, dir erschienen sonst, Doch p
 Благодаря твоему великому дару, о герой,  
 Мы хотим еще раз прекрасно насладиться восхвалением.
 </details>
+

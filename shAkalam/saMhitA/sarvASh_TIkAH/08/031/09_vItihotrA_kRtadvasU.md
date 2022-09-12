@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kr̥tádvasū ← kr̥tádvasu- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vītíhotrā ← vītíhotra- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+amŕ̥tāya ← amŕ̥ta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+daśasyántā ← √daśasy- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+kám ← kám (invariable)  
+{}
+
+hataḥ ← √han- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+romaśám ← romaśá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+ū́dhaḥ ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dúvaḥ ← dúvas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṇutaḥ ← √kr̥- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +186,4 @@ Durch Opfermahl mit reichem Gut verehrend die Unsterblichen, Verleihn den Götte
 (Эти) двое соединяют вымя (и) член,  
 Они выказывают уважение к богам.
 </details>
+

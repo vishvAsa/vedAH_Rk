@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+bhū́t ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+tretínī ← tretínī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ūrdhvā́ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dhūrṣú ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+sádman ← sádman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ayóḥ ← ayám (pronoun)  
+{case:LOC, gender:M, number:DU}
+
+nā́vam ← naú- ~ nā́v- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+sajū́s ← sajū́s (invariable)  
+{}
+
+sváyaśasam ← sváyaśas- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +171,4 @@ Wenn das dreifache Feuer sich hoch aufgerichtet hat an der Vorderseite [den Deic
 В дышлах жертвы на (их) сиденье,  
 Вместе с этими двоими (ты восходишь) на корабль, обладающий собственным великолепием.
 </details>
+

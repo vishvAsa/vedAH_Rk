@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+pūrvápītaye ← pūrvápīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stómebhiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+asvaran ← √svar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+r̥bhávaḥ ← r̥bhú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+samīcīnā́saḥ ← samīcīná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gr̥ṇanta ← √gr̥̄- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+pū́rvyam ← pū́rvya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rudrā́ḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,3 +179,4 @@ Mit Lobgesängen rauschen dir die Menschen zu beim ersten Trunk; Im Chore singt 
 Позвали вместе Рибху,  
 Рудры воспели как первого.
 </details>
+

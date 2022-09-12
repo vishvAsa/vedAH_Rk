@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āvividré ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+hí ← hí (invariable)  
+{}
+
+pūrvyā́ḥ ← pūrvyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+rodasī ← ródasī- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+ŕ̥tāvarī ← ŕ̥tāvan- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+satyavā́caḥ ← satyavā́c- (nominal stem)  
+{case:NOM, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+samithé ← samithá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śū́rasātau ← śū́rasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+pr̥thivi ← pr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vavandiré ← √vandⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+vévidānāḥ ← √vid- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +193,4 @@ Denn euch ja wurden, o ihr heil'gen Welten auch zugetheilt die alten Wahrheitkü
 Сами мужи в рукопашной, в (борьбе) героев за добычу  
 Славили вас, о земля (и небо), ища (признания).
 </details>
+

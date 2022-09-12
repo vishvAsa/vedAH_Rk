@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+kṣámi ← kṣám- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+vr̥kṇā́saḥ ← √vr̥śc- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+nímitāsaḥ ← √mi- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+yatásrucaḥ ← yatásruc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vā́ryam ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vyantu ← √vī- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+devatrā́ ← devatrā́ (invariable)  
+{}
+
+kṣetrasā́dhasaḥ ← kṣetrasā́dhas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +172,4 @@ Die auf der Erde man gefällt, errichtet und mit Trank versehn, die mögen segne
 Да наградят они (нас) желанным даром,  
 (Они,) улаживающие (споры) о полях у богов!
 </details>
+

@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+atrivát ← atrivát (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+viśvasāman ← viśvasāman- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+árca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pāvakáśociṣe ← pāvakáśocis- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+adhvaréṣu ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ī́ḍyaḥ ← ī́ḍya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mandrátamaḥ ← mandrátama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśí ← víś- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +166,4 @@ Auf, Viçvasaman, preise laut nach Atri-Art den Flammenden, Der bei den Festen p
 Которого надо восхвалять на обрядах  
 Как самого радостного хотара у племени.
 </details>
+

@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dúryaḥ ← dúrya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nā́nā ← nā́nā (invariable)  
+{}
+
+ókāṁsi ← ókas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+prabhaváḥ ← prabhavá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śókaḥ ← śóka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tiṣṭhate ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adhāt ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jyéṣṭham ← jyéṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sūnáve ← sūnú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+iṣitám ← √iṣ- 1 (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+kétam ← kéta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+savitrā́ ← savitár- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +241,4 @@ In Häusern rings zu allem, was da lebet, vertheilt sich Hauses Feuer hell ergl�
 Мать сыну установила лучшую долю  
 По его желанию, возбужденному Савитаром.
 </details>
+

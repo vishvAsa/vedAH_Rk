@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+adrúhaḥ ← adrúh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+navante ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kā́myam ← kā́mya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́yuni ← ā́yu- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:LOC, number:SG}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jātám ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+mātáraḥ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+rihanti ← √rih- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +184,4 @@ Es jubeln ihm die holden zu dem lieben, den sich Indra wünscht, Wie zartes, neu
 Матери облизывают новорожденного,  
 Словно теленка на первом году жизни.
 </details>
+

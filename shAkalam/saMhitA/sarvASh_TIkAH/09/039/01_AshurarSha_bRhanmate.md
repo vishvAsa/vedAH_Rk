@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+arṣa ← √arṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+āśúḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+br̥hanmate ← br̥hanmati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhā́mnā ← dhā́man- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+priyéṇa ← priyá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+brávan ← √brū- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+íti ← íti (invariable)  
+{}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +165,4 @@ O hochgesinnter, ströme schnell durch den geliebten Ort dahin, »Wo Götter sin
 
 -ru-
 </details>
+

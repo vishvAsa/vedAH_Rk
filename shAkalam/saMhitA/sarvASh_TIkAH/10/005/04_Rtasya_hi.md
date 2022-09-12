@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hí ← hí (invariable)  
+{}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sújātam ← sújāta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vartanáyaḥ ← vartaní- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pradívaḥ ← pradív- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+sácante ← √sac- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+vā́jāya ← vā́ja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+adhīvāsám ← adhīvāsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vāvasāné ← √vas- 2 (root)  
+{case:NOM, gender:F, number:DU, tense:PRF, voice:MED}
+
+ánnaiḥ ← ánna- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ghr̥taíḥ ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+mádhūnām ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+vāvr̥dhāte ← √vr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +194,4 @@ Des Opfers Pfade und die Tränke folgen von jeher labend, ihm, dem schöngeborne
 Две половины вселенной, закутавшись в покрывало,  
 Подкреплялись жиром, медовыми яствами.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+citra ← citrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhr̥ṣṇuyā́ ← dhr̥ṣṇuyā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vajrahasta ← vájrahasta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{}
+
+stavānáḥ ← √stu- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kira ← √kr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rathyàm ← rathī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+jigyúṣe ← √ji- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+satrā́ ← satrā́ (invariable)  
+{}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +205,7 @@ Geldner takes rathyàm as an adj. modifying áśvam (Wagenross); Grassmann does 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 Although the presence of hí, with its generally causal value, is often a puzzle when it appears in the first pāda of a hymn, this one helps signal the conceptual unity of this opening tṛca, with vs. 1 providing the various circumstances under which we call upon Indra and vs. 2 containing the contents of our latest address to the god -- a call for additional generosity from him.
@@ -185,3 +243,4 @@ So schütte du blitzhaltender, o glänzender, du hochgepriesner Schleuderer, Uns
 Отважно подари нам, Индра, быка (и) коня для колесницы -  
 Вместе, словно награду для желающего победить!
 </details>
+

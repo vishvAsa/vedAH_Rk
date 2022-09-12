@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vājasā́tamam ← vājasā́tama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+arṣa ← √arṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+puruspŕ̥ham ← puruspŕ̥h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sahásrabharṇasam ← sahásrabharṇas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tuvidyumnám ← tuvidyumná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vibhvāsáham ← vibhvāsáha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +164,4 @@ Ergiesse kraftverleihendsten und vielbegehrten Reichthum uns, O Indu, tausendfä
 О сок сомы, приносящее тысячи,  
 Мощно сверкающее, превосходящее (даже богатство) Вибхвана!
 </details>
+

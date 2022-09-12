@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhruk ← adrúh- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+dyaùḥ ← dyú- ~ div- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mā́tar ← mātár- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+pítar ← pitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pŕ̥thivi ← pr̥thivī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhrātar ← bhrā́tar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mr̥ḷáta ← √mr̥ḍ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+vasavaḥ ← vásu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+adite ← áditi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ādityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sajóṣāḥ ← sajóṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+bahulám ← bahulá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yanta ← √yam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ O Vater Himmel, treue Mutter Erde, o Bruder Agni, seid uns hold, ihr guten, Adit
 О все Адитьи, о Адити, единодушная (с богами),  
 Нам даруйте прочную защиту!
 </details>
+

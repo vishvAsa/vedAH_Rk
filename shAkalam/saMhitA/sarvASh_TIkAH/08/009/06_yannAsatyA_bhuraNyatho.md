@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhuraṇyáthaḥ ← √bhuraṇy- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+nāsatyā ← nā́satya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+bhiṣajyáthaḥ ← √bhiṣajy- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+devā = ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+vatsáḥ ← vatsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vindhate ← √vidh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+gáchathaḥ ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+havíṣmantam ← havíṣmant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +221,4 @@ Wenn, treue, ihr zu Thaten eilt, wenn ihr, o Götter, Heilung wirkt; Hier diesem
 Этому Ватсе нет недостатка в молитвах для вас:  
 Ведь вы отправляетесь к жертвователю.
 </details>
+

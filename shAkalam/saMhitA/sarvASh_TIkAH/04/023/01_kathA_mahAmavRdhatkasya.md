@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avr̥dhat ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+hótuḥ ← hótar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+mahā́m ← máh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+juṣāṇáḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ū́dhar ← ū́dhar- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ándhaḥ ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+juṣámāṇaḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+píban ← √pā- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+uśānáḥ ← √vaś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dhánāya ← dhána- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+r̥ṣváḥ ← r̥ṣvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śucaté ← √śuc- (root)  
+{case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+
+vavakṣé ← √vakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Wie doch und welches Priesters grosses Opfer liess er gedeihn, des Soma's Euter 
 Жадно напиваясь, радуясь соку,  
 Громадный крепнул для блистательного богатства.
 </details>
+

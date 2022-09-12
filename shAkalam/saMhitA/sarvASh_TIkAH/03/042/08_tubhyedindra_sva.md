@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+okyè ← okyà- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+túbhya ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+codāmi ← √cud- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+hr̥dí ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+rārantu ← √ranⁱ- (root)  
+{number:SG, person:3, mood:IMP, tense:PRF, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,3 +159,4 @@ Dir Indra, schaff' im eignen Haus den Soma ich zum Trunk herbei, Er mög' ergöt
 Чтобы ты пил сому в своем доме.  
 Этот (сома) да возрадуется в твоем сердце!
 </details>
+

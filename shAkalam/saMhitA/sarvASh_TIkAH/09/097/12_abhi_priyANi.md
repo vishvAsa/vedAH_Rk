@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+priyā́ṇi ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pr̥ñcán ← √pr̥c- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rásena ← rása- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+svéna ← svá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+dhármāṇi ← dhárman- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tuthā́ ← r̥tuthā́ (invariable)  
+{}
+
+vásānaḥ ← √vas- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+avyata ← √vyā- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ávye ← ávya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dáśa ← dáśa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+kṣípaḥ ← kṣíp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sā́no ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +201,7 @@ arṣati. I would now be inclined to supply ‘names’ (“he purifies himself 
 “towards his own dear (things).” Pāda c is also puzzling: the phrase “clothing himself in his foundations” (dhármāṇi … vásānaḥ) is not immediately interpretable, and there are no illuminating parallels (at least that I have found). The adverbial ṛtuthā́“according to the ritual order” suggests that the process of “clothing himself” involves following the orderly steps of the sacrifice - which in turn suggests that Soma is making his progress across the ritual ground, encountering first the waters, then the milk, before arriving at his destination. I therefore think that the “foundations” here are the waters and the milk - his supports, the materials of which the soma drink is built. But this cannot be demonstrated.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 This tṛca is attributed to Manyu Vāsiṣṭha, with the name possibly extracted from the previous tṛca, where manyú- in 8a is taken by some as part of a PN (see comm. above).
@@ -180,3 +235,4 @@ Zu dem erwünschten rieselt er gereinigt, der Gott mit seinem Saft die Götter f
 Капля, облачающаяся в нужное время в (свои) свойства.  
 Он скрылся в десяти пальцах на спине (цедилки) из овечьей шерсти.
 </details>
+

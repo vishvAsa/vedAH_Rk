@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mātŕ̥ṣu ← mātár- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+śáśvatīṣu ← śáśvant- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áśritam ← áśrita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váne ← vána- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vītám ← √vyā- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+citrám ← citrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+hitám ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kūcidarthínam ← kūcidarthín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvédam ← suvéda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +175,7 @@ This vs. is structured as a series of paradoxes, one per pāda. The least clear 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/007/06-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/007/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 Though vs. 6 belongs metrically and syntactically with what precedes -- it is in Anuṣṭubh like vss. 2-5 and the accusative descriptive phrases hang off vs. 5 -- it belongs thematically with vs. 7, as noted in the published introduction. Both vss. treat the mystery of the ritual fire, and being at the center of the hymn, they form a sort of omphalos.
@@ -172,3 +212,4 @@ Der in der Mütter langem Zug den Hölzern, still verborgen lag, Der glänzend i
 (Бога, который) будучи ярким, держится втайне,  
 Легко находимого, (но) неизвестно к какой цели стремящегося.
 </details>
+

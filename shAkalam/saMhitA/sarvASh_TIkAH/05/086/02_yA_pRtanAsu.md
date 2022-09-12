@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+duṣṭárā ← duṣṭára- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+śravā́yyā ← śravā́yya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+abhí ← abhí (invariable)  
+{}
+
+carṣaṇī́ḥ ← carṣaṇí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+páñca ← páñca- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+indrāgnī́ ← indrāgní- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +189,4 @@ Die unbesieglich in der Schlacht in Kämpfen anzurufen sind, Der fünf Geschlech
 Кто (пребывает) над пятью народами –  
 Этих Индру-Агни мы призываем!
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+daha ← √dah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+mithunā́ ← mithuná- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+práti ← práti (invariable)  
+{}
+
+kimīdínā ← kimīdín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yātudhā́nā ← yātudhā́na- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+jāgr̥hí ← √gr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+śiśāmi ← √śā- ~ śī- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ádabdham ← ádabdha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mánmabhiḥ ← mánman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vipra ← vípra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +177,4 @@ Brenn die gepaarten Zauberer und Frevelgeister, Agni, fort, Durch Lieder schärf
 Я заостряю тебя – будь бдителен! –  
 Не поддающегося обману, (своими) молитвами, о вдохновенный.
 </details>
+

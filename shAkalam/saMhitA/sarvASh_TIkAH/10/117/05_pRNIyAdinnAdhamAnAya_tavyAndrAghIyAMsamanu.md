@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ít ← ít (invariable)  
+{}
+
+nā́dhamānāya ← √nādh- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+pr̥ṇīyā́t ← √pr̥̄- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+távyān ← távyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+drā́ghīyāṁsam ← drā́ghīyaṁs- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pánthām ← pánthā- ~ path- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+paśyeta ← √paś- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cakrā́ ← cakrá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+ráthyā ← ráthya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+u ← u (invariable)  
+{}
+
+vártante ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+anyám-anyam ← anyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rā́yaḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+tiṣṭhanta ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Mittheilen soll der Reichere dem flehnden; er schaue hin auf seinen weitern Wand
 Ведь богатства – как колеса колесницы:  
 Они катятся и едут от одного к другому.
 </details>
+

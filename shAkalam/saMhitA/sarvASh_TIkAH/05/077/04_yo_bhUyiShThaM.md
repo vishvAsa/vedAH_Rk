@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́yiṣṭham ← bhū́yiṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nā́satyābhyām ← nā́satya- (nominal stem)  
+{case:DAT, gender:M, number:DU}
+
+vivéṣa ← √viṣ- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cániṣṭham ← cániṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pitváḥ ← pitú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rárate ← √rā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+vibhāgé ← vibhāgá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pīparat ← √pr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śámībhiḥ ← śámī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tokám ← toká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánūrdhvabhāsaḥ ← ánūrdhvabhās- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+sádam ← sádam (invariable)  
+{}
+
+tuturyāt ← √tūr(v)- ~ tur- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +209,4 @@ Wer dargebracht das meiste hat den Rittern, das liebste spendet bei des Tranks V
 Тот (своими) трудами спасает свое потомство,  
 Пусть всегда превосходит он тех, у кого пламя не стоит прямо!
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+téna ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+áttave ← √ad- (root)  
+{case:DAT, number:SG}
+
+nā́ribhyaḥ ← nā́ri- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+nŕ̥bhyaḥ ← nár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+r̥bhuṣṭhira ← r̥bhuṣṭhira- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sadyás ← sadyás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +162,4 @@ Mit diesem bring den Sängern du den Männern Speise und den Fraun, Wenn Ribhust
 Мужчинам (и) женщинам, поесть,  
 О (ты,) сразу рожденный крепким, как Рибху.
 </details>
+

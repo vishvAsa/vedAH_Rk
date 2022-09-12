@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suṣṭhā́mā ← suṣṭhā́man- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suyámā ← suyáma- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+gábhastau ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mimyákṣa ← √myakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+nr̥pate ← nr̥páti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vájraḥ ← vájra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́ṅ ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śī́bham ← śī́bham (invariable)  
+{gender:N, number:SG}
+
+supáthā ← supátha- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+papúṣaḥ ← √pā- 2 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+várdhāma ← √vr̥dh- (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+vŕ̥ṣṇyāni ← vŕ̥ṣṇya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +218,4 @@ Bequem dein Wagen, lenksam deine Rosse, in deinem Arm, o Fürst, erglänzt der B
 Приезжай скорее, о царь, в наши края по хорошему пути!  
 Мы умножим твои бычьи силы, когда ты напьешься.
 </details>
+

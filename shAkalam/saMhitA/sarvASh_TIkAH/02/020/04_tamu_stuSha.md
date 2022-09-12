@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gr̥ṇīṣe ← √gr̥̄- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stuṣe ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+purā́ ← purā́ (invariable)  
+{}
+
+śāśadúḥ ← √śad- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vāvr̥dhúḥ ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+iyānáḥ ← √yā- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pīparat ← √pr̥- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+āyóḥ ← āyú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+brahmaṇyatáḥ ← √brahmaṇy- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+nū́tanasya ← nū́tana- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Und diesen Indra lob' ich und besing' ich, an dem auch sonst man sich erfreut, e
 Когда его попросят, пусть исполнит он желание  
 Благочестивого теперешнего Аю (иметь) богатство.
 </details>
+

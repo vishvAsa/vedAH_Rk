@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+anindrā́m ← anindrá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhvarásam ← dhvarás- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+drúham ← drúh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jíghāṁsan ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+ánīkā ← ánīka- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tétikte ← √tij- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tigmā́ ← tigmá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tujáse ← √tuj- (root)  
+{case:DAT, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+r̥ṇā́ ← r̥ṇá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+r̥ṇayā́ḥ ← r̥ṇayā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+ájñātāḥ ← ájñāta- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+babādhé ← √bādhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+dūré ← dūrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Die indra-lose tück'sche Druh zu tödten, wetzt er zum Schiessen seine scharfen
 Когда он, грозный преследователь наших грехов,  
 Далеко прогоняет грехи к неизвестным зорям.
 </details>
+

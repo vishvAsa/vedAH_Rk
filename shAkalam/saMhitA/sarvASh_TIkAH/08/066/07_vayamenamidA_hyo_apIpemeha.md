@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+hyás ← hyás (invariable)  
+{}
+
+idā́ ← idā́ (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ápīpema ← √pī- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PLUPRF, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+vajríṇam ← vajrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+samanā́ ← samanā́ (invariable)  
+{}
+
+sutám ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhūṣata ← √bhūṣ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+nūnám ← nūnám (invariable)  
+{}
+
+śruté ← √śru- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ Wir haben ihn auch gestern schon den blitzbewehrten hier getränkt, In gleicher 
 Ему таким же образом принеси выжатого соку сегодня!  
 Служите же сейчас прославленному!
 </details>
+

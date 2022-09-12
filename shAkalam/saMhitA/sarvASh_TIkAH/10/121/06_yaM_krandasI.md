@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+krándasī ← krándas- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+tastabhāné ← √stambhⁱ- (root)  
+{case:NOM, gender:N, number:DU, tense:PRF, voice:MED}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+aíkṣetām ← √īkṣ- (root)  
+{number:DU, person:3, mood:IND, tense:IPRF, voice:MED, mood:DES}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+réjamāne ← √rej- (root)  
+{case:NOM, gender:N, number:DU, tense:PRS, voice:MED}
+
+ádhi ← ádhi (invariable)  
+{}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úditaḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vibhā́ti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+kásmai ← ká- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +200,4 @@ Auf dessen Schutz vertrauend beide Schlachtreihn auf ihn hinblicken zitternd in 
 На кого ярко светит взошедшее солнце –  
 Какого бога мы почтили жертвенным возлиянием?
 </details>
+

@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+hávānām ← háva- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+vā́hiṣṭhaḥ ← vā́hiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+dūtáḥ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+huvat ← √hū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+stómaḥ ← stóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+bhūtu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+yuvā́bhyām ← tvám (pronoun)  
+{case:INS, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,3 +152,4 @@ Der Ruf, der euch der liebste ist, das Loblied ruf als Bote euch; Es sei eur eig
 Восхваление пусть как вестник позовет (вас), о два мужа!  
 Пусть станет оно вашим, о Ашвины!
 </details>
+

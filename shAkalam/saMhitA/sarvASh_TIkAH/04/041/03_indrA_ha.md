@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhéṣṭhā ← dhéṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ha ← ha (invariable)  
+{}
+
+índrā ← índra- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váruṇā ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+nŕ̥bhyaḥ ← nár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+śaśamānébhyaḥ ← √śamⁱ- (root)  
+{case:DAT, gender:M, number:PL, tense:PRF, voice:MED}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+sákhāyā ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sakhyā́ya ← sakhyá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sómaiḥ ← sóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yádi ← yádi (invariable)  
+{}
+
+mādáyaite ← √mad- (root)  
+{number:DU, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+suprayásā ← suprayás- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sutébhiḥ ← √su- (root)  
+{case:INS, gender:M, number:PL, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +207,4 @@ Varuna, Indra sind die reichsten Geber der Schätze für die opferthät'gen Mens
 Когда как два друга для дружбы (с людьми) они опьяняются  
 Выжатыми соками сомы, имея прекрасные жертвенные услады.
 </details>
+

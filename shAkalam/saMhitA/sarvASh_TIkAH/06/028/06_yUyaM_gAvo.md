@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+cit ← cit (invariable)  
+{}
+
+gāvaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+kr̥śám ← kr̥śá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+medayatha ← √med- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+aśrīrám ← aśrīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+kr̥ṇutha ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+suprátīkam ← suprátīka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhadravācaḥ ← bhadravāc- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+gr̥hám ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇutha ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sabhā́su ← sabhā́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ucyate ← √vac- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,3 +243,4 @@ Ihr Kühe machet fett sogar den magern, den hässlichen auch macht ihr schön vo
 Вы делаете дом благословенным, о вы с благословенным голосом!  
 О великой ваше подкрепляющей силе говорят в собраниях.
 </details>
+

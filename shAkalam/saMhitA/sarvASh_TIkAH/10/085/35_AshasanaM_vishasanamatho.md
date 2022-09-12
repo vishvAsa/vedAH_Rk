@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+āśásanam ← āśásana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+viśásanam ← viśásana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+adhivikártanam ← adhivikártana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+paśya ← √paś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rūpā́ṇi ← rūpá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sūryā́yāḥ ← sūryā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+brahmā́ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śundhati ← √śudh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+tú ← tú (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +171,4 @@ Das Ausschlachten, das Zerschneiden, das weitere Zertheilen; – so [blutig wie 
 Взгляни на цвета Сурьи!  
 Только брахман их очищает.
 </details>
+

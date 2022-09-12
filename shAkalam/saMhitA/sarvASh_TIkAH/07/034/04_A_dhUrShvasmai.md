@@ -14,12 +14,40 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dádhāta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dhūrṣú ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+híraṇyabāhuḥ ← híraṇyabāhu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vajrī́ ← vajrín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -102,7 +130,7 @@ dádhāta in a: in other words, “put the horses to the chariot pole, as Indra 
 of the 2nd hemistich, is far more plausible. Although híraṇya-bāhu- is found only here in the RV, the very similar híraṇya-pāṇi- ‘having gold hands’ is used a number of times of Savitar, and the uncompounded phrase bāhū́… hiraṇyáyā is used of Savitar’s arms in nearby VII.45.2 (also VI.71.1, 5), as Oldenberg points out. Since Tvaṣṭar fashions the mace for Indra in I.32.2, calling him vajrín- here is perfectly sensible.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 Note the chiasmic verb sequence 4b dádhāta [… 5a sthāta] ... 5d tmánā hinota ... 6ab tmánā … hinóta ... 6c dádhāta, with one interruption.
@@ -131,3 +159,4 @@ Setzt an die Deichsel – ihm seine Rosse, wie Indra blitzet – mit goldnem Arm
 Запрягите для него коней в оглобли,  
 Словно Индра, громовержец златорукий!
 </details>
+

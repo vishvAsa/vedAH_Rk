@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śúṣmam ← śúṣma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhanaspŕ̥tam ← dhanaspŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudákṣam ← sudákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śūśuvā́ṁsam ← √śū- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+váṁsāma ← √vanⁱ- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ájāmīn ← ájāmi- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jāmī́n ← jāmí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +200,7 @@ In d the utá is oddly positioned, since it appears to be meant to conjoin jām�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 I tr. śūśuvā́ṃsam in both vss. as ‘swollen with strength’, although the śávasā found in 2c is absent, as a portmanteau tr. to capture the full sense of the root.
@@ -154,7 +209,7 @@ This participle picks up śáviṣṭham … śávaḥ in vs. 6.
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, all three of these vss. contain the phrase “bring here to us”: in 6a and 7b na ā́bhara straddles the early caesura; in 8a ā́no bhara opens the vs. Since vss. 6-8 are the middle vss. of this hymn, this repeated phrase might identify an omphalos, but if so it is quite a weak one. The vss. are not particular noteworthy for their content, and the enclosing vss. do not provide the usual frame structure.
@@ -186,3 +241,4 @@ Und Heldenkraft bring uns herbei, o Indra, die Preis erringt, sehr mächtige, ge
 С которым мы сможем одолеть в сражениях врагов:  
 Кровных родственников (или) чужих – с твоими поддержками!
 </details>
+

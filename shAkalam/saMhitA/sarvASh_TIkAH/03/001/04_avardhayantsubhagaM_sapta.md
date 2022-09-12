@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávardhayan ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+subhágam ← subhága- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yahvī́ḥ ← yahvī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+aruṣám ← aruṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jajñānám ← √janⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:MED}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śvetám ← śvetá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+āruḥ ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+áśvāḥ ← áśvā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jātám ← √janⁱ- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+śíśum ← śíśu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jániman ← jániman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vapuṣyan ← √vapuṣy- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +218,4 @@ Die sieben Ströme nährten ihn, den schönen, als licht und roth in Pracht er w
 Они спешили к нему, как кобылы – к новорожденному жеребенку  
 Боги любовались Агни при рождении.
 </details>
+

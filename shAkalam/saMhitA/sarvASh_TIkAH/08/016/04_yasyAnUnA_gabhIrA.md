@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ánūnāḥ ← ánūna- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gabhīrā́ḥ ← gabhīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mádāḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tárutrāḥ ← tárutra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+urávaḥ ← urú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+harṣumántaḥ ← harṣumánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śū́rasātau ← śū́rasāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +142,4 @@ Dessen Rauschmuth unerschöpflich, ohne Mangel, weit und rettend, Freudebringend
 Широкие опьянения спасают  
 И возбуждают в г.ылу сражений,
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D;; repeated line
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+etā́ni ← eṣá (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+várdhanāni ← várdhana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+akran ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+gr̥tsamadā́saḥ ← gr̥tsamadá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jujuṣāṇā́ ← √juṣ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+suvī́rāḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vadema ← √vadⁱ- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Dies Gebet und Loblied, o Ritter, die euch stärken, haben die Nachkommen des Gr
 Наслаждайтесь ими, о два мужа, (и) приезжайте!  
 Мы хотим провозгласить жертвенную раздачу, (чтобы иметь) прекрасных мужей!
 </details>
+

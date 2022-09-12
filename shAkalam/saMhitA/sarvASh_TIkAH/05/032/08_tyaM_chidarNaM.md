@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+árṇam ← árṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+madhupám ← madhupá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śáyānam ← √śī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adat ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asinvám ← asinvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ugráḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vavrám ← vavrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apā́dam ← apád- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+atrám ← atrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mahatā́ ← mahā́nt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vadhéna ← vadhá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+āvr̥ṇak ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+duryoṇé ← duryoṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mr̥dhrávācam ← mr̥dhrávāc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Den Brunnen ihn, der Regen schlürfend, sprudelnd und unersättlich dalag, nahm 
 Безногого пожирателя злоречивого  
 Он скинул в могилу великим оружием.
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+jagāra ← √gr̥̄- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kṣurám ← kṣurá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pratyáñcam ← pratyáñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śaśáḥ ← śaśá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhedam ← √bhid- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ārā́t ← ārā́t (invariable)  
+{}
+
+logéna ← logá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+randhayāni ← √randh- (root)  
+{number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+r̥haté ← r̥hánt- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śū́śuvānaḥ ← √śū- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+vatsáḥ ← vatsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váyat ← √vī- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +207,4 @@ Ein Hase verschlang verkehrt das Messer. Ich habe mit einer Scholle von weitem d
 Окрепнув, теленок нападает на быка.  
 Индра:
 </details>
+

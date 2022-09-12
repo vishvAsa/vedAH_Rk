@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aheṣata ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+mahiṣā́ḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+samyák ← samyáñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samyáñcaḥ ← samyáñc- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádhi ← ádhi (invariable)  
+{}
+
+avīvipan ← √vip- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+síndhoḥ ← síndhu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ūrmaú ← ūrmí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+venā́ḥ ← vená- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arkám ← arká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhā́rābhiḥ ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+janáyantaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+mádhoḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+avīvr̥dhan ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+priyā́m ← priyá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,13 +203,13 @@ Perhaps it’s simply there to convert a putative Triṣṭubh cadence to a Jaga
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
 Geldner considers these vss. “doppelsinnig,” with ref. both to the priest-poets and the soma juices. This seems quite reasomable, and his individual notes are worth the attention.
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 The three even-numbered pādas 2d, 3b, 3d all end with an augmented 3rd pl. redupl. aorist: apīparan, avīvipan, and avīvṛdhan respectively.
@@ -186,3 +241,4 @@ Gemeinsam eilten jetzt die Büffel hin zum Ziel und tanzten liebreich auf des St
 Потоками меда порождая песню,  
 Они усилили милое тело Индры.
 </details>
+

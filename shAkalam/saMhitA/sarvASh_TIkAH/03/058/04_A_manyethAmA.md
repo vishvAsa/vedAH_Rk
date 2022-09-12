@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+manyethām ← √man- 1 (root)  
+{number:DU, person:2, mood:OPT, tense:PRS, voice:MED}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+havante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+jánāsaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+gór̥jīkā ← gór̥jīka- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+hí ← hí (invariable)  
+{}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+mádhūni ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dadúḥ ← √dā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mitrā́saḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+usráḥ ← uṣár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +243,4 @@ Gedenkt an uns und kommet stets in Eile; euch Ritter rufen alle Menschenkinder; 
 Ведь эти потоки меда, смешанные с молоком, вам  
 Преподнесли они как друзья до наступления зари.
 </details>
+

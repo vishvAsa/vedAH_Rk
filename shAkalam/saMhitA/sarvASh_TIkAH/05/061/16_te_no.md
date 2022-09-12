@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+kā́myā ← kā́mya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+vásūni ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+puruścandrā́ ← puruścandrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+riśādasaḥ ← riśā́das- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+vavr̥ttana ← √vr̥t- (root)  
+{number:PL, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+yajñiyāsaḥ ← yajñíya- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +146,4 @@ Drum wendet, Feindverzehrer ihr, ehrwürdige, uns glänzende und vielbegehrte G�
 Очень блистающие, о карающие врагов (?),  
 Повернитесь к нам, о достойные жертв!
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+carataḥ ← √carⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+etaú ← eṣá (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+māyáyā ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pūrvāparám ← pūrvāpará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+krī́ḷantau ← √krīḍ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+śíśū ← śíśu- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yātaḥ ← √yā- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+abhicáṣṭe ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhúvanā ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+anyáḥ ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jāyate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+púnar ← púnar (invariable)  
+{}
+
+r̥tū́n ← r̥tú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vidádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +230,4 @@ Nacheinander umwandern mit ihrer Zaubermacht diese beiden munteren Kinder [Sonne
 Один озирает все существа,  
 Другой рождается снова, распределяя времена.
 </details>
+

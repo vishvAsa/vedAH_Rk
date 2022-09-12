@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ágorudhāya ← ágorudha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gavíṣe ← gavíṣ- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dásmyam ← dásmya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dyukṣā́ya ← dyukṣá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ghr̥tā́t ← ghr̥tá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+mádhunaḥ ← mádhu- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+svā́dīyaḥ ← svā́dīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vocata ← √vac- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,3 +145,4 @@ Dem Stier, der nach der Kuh verlangt, dem lichten singt ein schönes Lied, das s
 Кто живет на небе, произнесите  
 Чудесную речь, что слаще жира и меда!
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+gardabhā́nām ← gardabhá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ū́rṇāvatīnām ← ū́rṇāvant- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+dāsā́n ← dāsá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+srájaḥ ← sráj- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,3 +132,4 @@ Hundert Esel, hundert wollenreiche Schafe, hundert Sklaven, dazu Blumenkränze.
 Сотню шерстистых (овец),  
 Сотню дасов, сверх того - гирлянды.
 </details>
+

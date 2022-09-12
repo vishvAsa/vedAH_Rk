@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+dyávī ← dyú- ~ div- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+bharāmahe ← √bhr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+úpastutim ← úpastuti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+práśastaye ← práśasti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+śúcī ← śúci- (nominal stem)  
+{case:VOC, gender:F, number:DU}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +159,4 @@ Euch Erd' und Himmel bringen wir entgegen unsern Preisgesang, Euch reinen zur Ve
 Мы приносим хвалебную песнь,  
 О чистые, для прославления.
 </details>
+

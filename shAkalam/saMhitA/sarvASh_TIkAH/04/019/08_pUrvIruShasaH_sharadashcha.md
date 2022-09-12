@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+gūrtā́ḥ ← √gr̥̄- 1 (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+śarádaḥ ← śarád- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+asr̥jat ← √sr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+jaghanvā́n ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+síndhūn ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+atr̥ṇat ← √tr̥d- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+badbadhānā́ḥ ← √bādhⁱ- (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:MED}
+
+páriṣṭhitāḥ ← √sthā- (root)  
+{case:ACC, gender:F, number:PL, non-finite:PPP}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivyā́ ← pr̥thivī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sīrā́ḥ ← sīrā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+srávitave ← √sru- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ Viel liebe Tag' und Jahre durch liess Indra die Ströme rinnen nach dem Fall des
 Перекрытые, сдавленные струи  
 Отворил Индра, чтобы текли по земле.
 </details>
+

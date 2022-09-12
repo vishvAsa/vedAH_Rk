@@ -17,15 +17,76 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
+#### Morph
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+dhánva ← dhánvan- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ntátram ← kr̥ntátra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+káti ← káti (invariable)  
+{}
+
+svit ← svit (invariable)  
+{}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+ví ← ví (invariable)  
+{}
+
+yójanā ← yójana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+nédīyasaḥ ← nédīyaṁs- (nominal stem)  
+{case:ACC, number:PL}
+
+vr̥ṣākape ← vr̥ṣā́kapi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ástam ← ásta- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+gr̥hā́n ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+úpa ← úpa (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úttaraḥ ← úttara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvasmāt ← víśva- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +220,4 @@ Das wüste Land und die jähen Abhänge, wie viele Meilen sind sie entfernt? dru
 
 -ru-
 </details>
+

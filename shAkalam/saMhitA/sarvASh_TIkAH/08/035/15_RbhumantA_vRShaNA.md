@@ -16,14 +16,57 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line
+#### Morph
+r̥bhumántā ← r̥bhumánt- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vā́javantā ← vā́javant- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gachathaḥ ← √gam- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hávam ← háva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jaritúḥ ← jaritár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+marútvantā ← marútvant- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+sajóṣasau ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+uṣásā ← uṣás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ādityaíḥ ← ādityá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +185,4 @@ Vereint mit Ribhu und mit Vadscha, Stiere ihr, und mit den Maruts kommt ihr zu d
 Единодушные с Ушас и Сурьей,  
 Приезжайте с Адитьями, о Ашвины!
 </details>
+

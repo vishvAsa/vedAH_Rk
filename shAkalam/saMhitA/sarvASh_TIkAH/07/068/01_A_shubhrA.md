@@ -15,13 +15,56 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śubhrā ← śubhrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sváśvā ← sváśva- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dasrā ← dasrá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+jujuṣāṇā́ ← √juṣ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
+
+yuvā́koḥ ← yuvā́ku- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+havyā́ni ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prátibhr̥tā ← √bhr̥- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+vītám ← √vī- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +180,4 @@ Kommt her ihr schönen, rossbegabten Ritter, nehmt an, ihr hehren, des Getreuen 
 Наслаждаясь, о чудесные, песнями того, кто вам предан,  
 И принесенные (вам) жертвами! С охотой прибывайте к нам!
 </details>
+

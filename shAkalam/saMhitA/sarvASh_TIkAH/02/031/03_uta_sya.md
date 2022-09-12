@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+viśvácarṣaṇiḥ ← viśvácarṣaṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mā́rutena ← mā́ruta- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śárdhena ← śárdha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sukrátuḥ ← sukrátu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+avr̥kā́bhiḥ ← avr̥ká- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+sthāti ← √sthā- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+ūtíbhiḥ ← ūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sanáye ← saní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vā́jasātaye ← vā́jasāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Auch unser Indra, der gesammten Menschheit Hort, der trefflich wirket mit des Hi
 Должен находиться со (своими) надежными подкреплениями  
 Рядом с (нашей) колесницей – для великого захвата, для захвата награды!
 </details>
+

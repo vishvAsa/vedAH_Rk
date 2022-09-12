@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+brahmā́ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+grā́vṇaḥ ← grā́van- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+saparyán ← √sapary- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yuyujānáḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kīríṇā ← kīrín- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+upaśíkṣan ← √śak- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adhāt ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+átriḥ ← átri- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cákṣuḥ ← cákṣus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+aghukṣat ← √guh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+māyā́ḥ ← māyā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svàrbhānoḥ ← svàrbhānu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +208,4 @@ Der Beter Atri, Steine schirrend, ehrend mit Lied die Götter, demuthsvoll sie g
 Установил на небе глаз солнца,  
 Спрятал колдовские чары Сварбхану.
 </details>
+

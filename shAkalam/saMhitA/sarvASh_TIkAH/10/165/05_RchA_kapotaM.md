@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+kapótam ← kapóta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nudata ← √nud- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+praṇódam ← √nud- (root)  
+{case:ACC, number:SG}
+
+r̥cā́ ← ŕ̥c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+mádantaḥ ← √mad- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+nayadhvam ← √nī- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+duritā́ni ← duritá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+saṁyopáyantaḥ ← √yup- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+hitvā́ ← √hā- 2 (root)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+patāt ← √pat- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+pátiṣṭhaḥ ← pátiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ū́rjam ← ū́rj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +209,4 @@ Wir haben heute gesiegt, erlangt; von Sünden sind wir jetzt befreit; der böse 
 Стирая все несчастья!  
 Пусть улетит он, летя во всю мочь, оставив (при нас) нашу силу!
 </details>
+

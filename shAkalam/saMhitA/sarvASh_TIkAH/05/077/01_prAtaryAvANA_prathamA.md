@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+prātaryā́vāṇā ← prātaryā́van- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+yajadhvam ← √yaj- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+áraruṣaḥ ← árarivaṁs- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+gŕ̥dhrāt ← gŕ̥dhra- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pibātaḥ ← √pā- 2 (root)  
+{number:DU, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+purā́ ← purā́ (invariable)  
+{}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+dadhā́te ← √dhā- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+hí ← hí (invariable)  
+{}
+
+prātár ← prātár (invariable)  
+{}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+pūrvabhā́jaḥ ← pūrvabháj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śaṁsanti ← √śaṁs- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +207,4 @@ Verehrt die ersten, die am Morgen kommen; sie mögen trinken vor dem gier'gen D�
 Ведь рано утром Ашвины принимают жертву.  
 Поэты прославляют (богов,) имеющих право на первую долю.
 </details>
+

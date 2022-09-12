@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+mahatáḥ ← mahā́nt- (nominal stem)  
+{case:GEN, number:SG}
+
+mahitvám ← mahitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ámartyasya ← ámartya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mártyāsu ← mártya- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+bharete ← √bhr̥- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+hánū ← hánu- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+nā́nā ← nā́nā (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+víbhr̥te ← √bhr̥- (root)  
+{case:NOM, gender:F, number:DU, non-finite:PPP}
+
+ásinvatī ← ásinvant- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+attaḥ ← √ad- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bápsatī ← √bhas- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+
+bhū́ri ← bhū́ri- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Ich hab' erblickt die Grösse dieses grossen Unsterblichen bei sterblichen Gesch
 По разному смыкаются (его) разверстые челюсти,  
 Они много сьедают, поглощая, (но) не разгрызая.
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+maúneyena ← maúneya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+únmaditāḥ ← √mad- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ā́ ← ā́ (invariable)  
+{}
+
+tasthima ← √sthā- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+vā́tān ← vā́ta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+śárīrā ← śárīra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+mártāsaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+paśyatha ← √paś- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +172,4 @@ Wir, die wir durch heiliges Büsserleben erregt sind, sind in die Winde eingedru
 Только тела наши вы,  
 Смертные, видите перед собою.
 </details>
+

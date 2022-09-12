@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sotŕ̥bhiḥ ← sotár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+suvānáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+u ← u (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ávīnām ← ávi- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+snúbhiḥ ← sā́nu- ~ snú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áśvayā ← áśvā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+harítā ← harít- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mandráyā ← mandrá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +167,7 @@ Since áśvayā is fem., the tr. should be emended to “with a golden mare.” 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 The 2nd hemistich of vs. 8 and the first of vs. 9 have a refrain-like structure reminiscent of the echo pādas in Atyaṣṭi, which is unusual for this meter: 8cd … harítā yāti dhā́rayā, mandráyā yāti dhā́rayā#; 9ab … góbhir akṣāḥ, … dugdhā́bhir akṣāḥ#.
@@ -153,3 +199,4 @@ Soma, gepresst von Pressern, eilt nun über wollne Wipfel hin, Gleich wie auf go
 Движется золотистым потоком, подобный кобылице,  
 Благозвучным движется потоком.
 </details>
+

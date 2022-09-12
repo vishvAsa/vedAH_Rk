@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+śácīnām ← śácī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+niyantā́ ← niyantár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sūnŕ̥tānām ← sūnŕ̥ta- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+dāt ← √dā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+íti ← íti (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+vaktā́ ← vaktár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +151,4 @@ Nichts ist, was seine Thaten hemmt und seiner Gaben Herrlichkeit, Und niemand sa
 Его склонностей, его милостей.  
 Никто не скажет: Пусть он не дает!
 </details>
+

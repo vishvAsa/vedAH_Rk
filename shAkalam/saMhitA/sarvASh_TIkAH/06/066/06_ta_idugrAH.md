@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhr̥ṣṇúṣeṇāḥ ← dhr̥ṣṇúṣeṇa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ugrā́ḥ ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+suméke ← suméka- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+yujanta ← √yuj- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+ádha ← ádha (invariable)  
+{}
+
+eṣu ← ayám (pronoun)  
+{case:LOC, gender:M, number:PL}
+
+rodasī́ ← rodasī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sma ← sma (invariable)  
+{}
+
+sváśociḥ ← sváśocis- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ámavatsu ← ámavant- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+rókaḥ ← róka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tasthau ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +224,4 @@ Sie, die gewalt'gen, kühnen Scharen füllten mit Kraft die beiden segensreichen
 И тогда среди них появилась Родаси,  
 Испускающая собственное сияние, словно источник света.
 </details>
+

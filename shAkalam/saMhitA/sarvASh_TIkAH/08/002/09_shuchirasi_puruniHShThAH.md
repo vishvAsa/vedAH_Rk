@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+puruniṣṭhā́ḥ ← puruniṣṭhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́śīrtaḥ ← √śr̥̄- 2 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+kṣīraíḥ ← kṣīrá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+madhyatáḥ ← madhyatáḥ (invariable)  
+{}
+
+dadhnā́ ← dadhán- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mándiṣṭhaḥ ← mándiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śū́rasya ← śū́ra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +148,4 @@ Rein bist du, vor vielen herrlich, Soma, ganz mit Milch durchquirlet, Molkenreic
 Посредине (тот,) что смешан с молоком,  
 (А тот, что) с кислым молоком, – самый пьянящий для героя.
 </details>
+

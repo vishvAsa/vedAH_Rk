@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́pathayaḥ ← ā́pathi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vípathayaḥ ← vípathi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ántaspathāḥ ← ántaspatha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánupathāḥ ← ánupatha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+etébhiḥ ← eṣá (pronoun)  
+{case:INS, gender:N, number:PL}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+nā́mabhiḥ ← nā́man- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ohate ← √uh- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+viṣṭāráḥ ← viṣṭārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ Und Strassen hin und Strassen her, entlang die Bahn und in die Quer; Sich zeigen
 Под такими именами для меня  
 Жалуют они жертву, широко рассыпавшись.
 </details>
+

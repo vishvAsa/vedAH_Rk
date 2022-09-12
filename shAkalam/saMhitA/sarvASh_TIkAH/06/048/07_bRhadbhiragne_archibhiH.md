@@ -17,15 +17,64 @@ ChandaH = "महाबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arcíbhiḥ ← arcí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+br̥hádbhiḥ ← br̥hánt- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śocíṣā ← śocís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śukréṇa ← śukrá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+bharádvāje ← bharádvāja- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+samidhānáḥ ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+yaviṣṭhya ← yáviṣṭhya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dīdihi ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+revát ← revánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śukra ← śukrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dīdihi ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+dyumát ← dyumánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pāvaka ← pāvaká- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +198,4 @@ Mit hohen Flammen, Agni du, o Gott mit hellem Strahlenglanz, Von Bharadvadscha a
 Богато воссвети нам, о светлый,  
 Блестяще, о очищающий, воссвети!
 </details>
+

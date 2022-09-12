@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+devā́piḥ ← devā́pi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+puróhitaḥ ← puróhita- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śáṁtanave ← śáṁtanu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádīdhet ← √dhī- (root)  
+{number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
+
+hotrā́ya ← hotrá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+kr̥páyan ← √kr̥p- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥táḥ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+devaśrútam ← devaśrút- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+rárāṇaḥ ← √rā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vr̥ṣṭivánim ← vr̥ṣṭiváni- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+ayachat ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +198,4 @@ Als auserwählt zum Priesteramt des Hauses von Çantanu Devapi betend, flehte, D
 Брихаспати даровал ему речь,  
 Награждая (его) желанием дождя, услышанным богами.
 </details>
+

@@ -16,14 +16,90 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+daduḥ ← √dā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+kṣúdham ← kṣúdh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vadhám ← vadhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaí ← vaí (invariable)  
+{}
+
+ā́śitam ← √aśⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+gachanti ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mr̥tyávaḥ ← mr̥tyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+dasyati ← √das- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+pr̥ṇatáḥ ← √pr̥̄- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rayíḥ ← rayí- ~ rāy- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+ápr̥ṇan ← ápr̥ṇant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+marḍitā́ram ← marḍitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+vindate ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,3 +271,4 @@ Nicht ist der Hunger stets des Todes Quelle nur, den satten auch ereilt des Tode
 У дающего не иссякает богатство,  
 А не дающий не находит сочувствующего.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vā́tajūtāsaḥ ← vā́tajūta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+víṣvak ← víṣvañc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhā́māsaḥ ← bhā́ma- 1 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+caranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śúcayaḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śuce ← śúci- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+divyā́ḥ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+návagvāḥ ← návagva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tuvimrakṣā́saḥ ← tuvimrakṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhr̥ṣatā́ ← √dhr̥ṣ- (root)  
+{case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+
+rujántaḥ ← √ruj- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vánā ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vananti ← √vanⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +219,4 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 Мощно разрушающие, (словно) небесные Навагва,  
 Они торжествуют над деревьями, дерзко ломая (их).
 </details>
+

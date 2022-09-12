@@ -17,15 +17,61 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D  
 genre D;; repeated line
+#### Morph
+rāya ← √rā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sārameya ← sārameyá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+stenám ← stená- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+punaḥsara ← punaḥsara- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táskaram ← táskara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rāyasi ← √rā- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+stotr̥̄́n ← stotár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+duchunāyase ← √duchunāy- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+svapa ← √svap- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ O Sarameja, bell den Dieb, den Räuber an, o lauf zurück! Was bellst du Indra's
 Ты лаешь на певцов Индры.  
 Что ты нам угрожаешь? Крепко усни!
 </details>
+

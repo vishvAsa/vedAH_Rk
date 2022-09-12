@@ -15,13 +15,35 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ámartyaḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thupā́jāḥ ← pr̥thupā́jas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ghr̥tánirṇik ← ghr̥tánirṇij- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svā̀hutaḥ ← svā̀huta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havyavā́ṭ ← havyavā́h- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,3 +142,4 @@ Weitschimmernd der unsterbliche, mit Fett umkleidet, schön getränkt, Agni, der
 С нарядом из жира, прекрасно политый (жиром)  
 Агни – возница возлияний жертвы.
 </details>
+

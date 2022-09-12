@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ābhíḥ ← ayám (pronoun)  
+{case:INS, gender:F, number:PL}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aktaú ← aktú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dívā ← dívā (invariable)  
+{}
+
+rudrám ← rudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rudrám ← rudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vardháya ← √vr̥dh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ajáram ← ajára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥ṣvám ← r̥ṣvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suṣumnám ← suṣumná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+huvema ← √hū- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+iṣitā́saḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+kavínā ← kaví- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ŕ̥dhak ← ŕ̥dhak (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Den Weltenvater stärk mit diesen Liedern am Tag den Rudra und bei Nacht den Rud
 Могучего, высокого, нестареющего, очень благожелательного  
 Мы хотим призвать, как следует, вдохновленные поэтом.
 </details>
+

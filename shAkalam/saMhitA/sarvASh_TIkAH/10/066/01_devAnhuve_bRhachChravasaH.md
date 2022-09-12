@@ -16,14 +16,57 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hácchravasaḥ ← br̥hácchravas- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+adhvarásya ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jyotiṣkŕ̥taḥ ← jyotiṣkŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+prácetasaḥ ← prácetas- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pratarám ← pratarám (invariable)  
+{}
+
+vāvr̥dhúḥ ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+viśvávedasaḥ ← viśvávedas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+amŕ̥tāḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índrajyeṣṭhāsaḥ ← índrajyeṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tāvŕ̥dhaḥ ← r̥tāvŕ̥dh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +190,4 @@ Die hochberühmten Götter rufe ich zum Heil, des Lichtes Schöpfer, die des Opf
 
 -ru-
 </details>
+

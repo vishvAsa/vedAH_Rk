@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+katamáḥ ← katamá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śravat ← √śru- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+yajñíyānām ← yajñíya- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+juṣāte ← √juṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+katamáḥ ← katamá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vandā́ru ← vandā́ru- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+amŕ̥teṣu ← amŕ̥ta- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+devī́m ← devī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+kásya ← ká- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+préṣṭhām ← préṣṭha- (nominal stem)  
+{case:ACC, gender:F, number:SG, mood:OPT}
+
+hr̥dí ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śreṣāma ← √śri- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+suhavyā́m ← suhavyá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Wer doch mag hören, wer der hochverehrten? und welcher Gott des Preisgesangs si
 К сердцу кого из бессмертных сможем мы прикрепить  
 Эту божественную самую приятную хвалебную речь, сопровождаемую прекрасной жертвой?
 </details>
+

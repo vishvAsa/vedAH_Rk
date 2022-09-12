@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śáviṣṭham ← śáviṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+abhibhūte ← abhíbhūti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ójiṣṭham ← ójiṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ugrám ← ugrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyumnā́ ← dyumná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+mā́nuṣāṇām ← mā́nuṣa- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vŕ̥ṣṇyā ← vŕ̥ṣṇya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+harivaḥ ← hárivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mādayádhyai ← √mad- (root)  
+{case:DAT, number:SG, tense:PRS}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +192,7 @@ All things brilliant and bullish that belong to the sons of Manu—give  them to
 The first hemistich is notable for the superlative etymological figures: double śáviṣṭham … śávaḥ “strongest strength” (or, in fact, triple, since śūra ‘hero’ is ultimately related to these words) and triple ójiṣṭham ójaḥ … ugrám “mightiest mighty might.” The triple etym. connection of the first phrase is better conveyed by Geldner’s “Bring uns, du Starker, die stärkste Stärke” than by the published translation Note also that the adjacent words in b ójo abhibhūta “… might, o overpowering one,” though not syntactically connected here, form a bahuvrīhi modifying Indra in the preceding hymn, VI.18.1 abhíbhūti-ojas- ‘of overpowering strength’.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, all three of these vss. contain the phrase “bring here to us”: in 6a and 7b na ā́bhara straddles the early caesura; in 8a ā́no bhara opens the vs. Since vss. 6-8 are the middle vss. of this hymn, this repeated phrase might identify an omphalos, but if so it is quite a weak one. The vss. are not particular noteworthy for their content, and the enclosing vss. do not provide the usual frame structure.
@@ -169,3 +224,4 @@ Die stärkste Stärke bring uns her, o Starker, die mächtigste, gewalt'ge Macht
 Весь блеск (и) мужество людей  
 Нам отдай, о повелитель буланых коней, чтобы мы радовались!
 </details>
+

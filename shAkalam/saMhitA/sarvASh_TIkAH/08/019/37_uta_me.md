@@ -17,15 +17,61 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+prayíyoḥ ← prayíyu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vayíyoḥ ← vayíyu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+suvā́stvāḥ ← suvā́stu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+túgvani ← túgvan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+saptatīnā́m ← saptatí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+tisr̥̄ṇā́m ← trí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+bhuvat ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+praṇetā́ ← praṇetár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śyāváḥ ← śyāvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+díyānām ← díya- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásuḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +202,4 @@ Und mir war Çjāva der Herbeiführer eines kräftigen Wagenrosses an der Stroms
 Семьдесят (коров).  
 Блажен господин таких даров!
 </details>
+

@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+áhan ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ŕ̥cīṣamaḥ ← ŕ̥cīṣama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ahīśúvam ← ahīśū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aurṇavābhám ← aurṇavābhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+árbudam ← árbuda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avidhyat ← √vyadh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+hiména ← himá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +149,4 @@ Er schlug den Vritra glanzdurchstrahlt, die Spinnenbrut Ahiçuva, Durch Frost ve
 Аурнавабху, Ахишуву.  
 Снегом забросал он Арбуду.
 </details>
+

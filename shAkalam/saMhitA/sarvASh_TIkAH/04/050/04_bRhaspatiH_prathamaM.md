@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jā́yamānaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jyótiṣaḥ ← jyótis- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:ABL, number:SG}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vyòman ← vyòman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ráveṇa ← ráva- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+saptā́syaḥ ← saptā́sya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tuvijātáḥ ← tuvijātá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adhamat ← √dhamⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+saptáraśmiḥ ← saptáraśmi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+támāṁsi ← támas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +188,7 @@ Geldner suggests the seven reins of the sacrifice; I prefer the seven seers, who
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
 <details open><summary><h2>01-06 ...{Loading}...</h2></summary>
 
 As indicated in the published introduction, this section concerns the unitary figure (Indra-)Bṛhaspati, here insistently identified as Bṛhaspati: there are 7 occurrences of the name in 6 vss., one in each save for two in vs. 2.
@@ -182,3 +225,4 @@ Brihaspati, sobald er war geboren im höchsten Himmel aus dem hellen Glanze, Zer
 Семиротый, рожденный силой, с семью поводьями,  
 (Своим) ревом раздул в разные стороны мрак.
 </details>
+

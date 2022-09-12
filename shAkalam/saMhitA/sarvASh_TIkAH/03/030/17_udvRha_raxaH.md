@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rákṣaḥ ← rákṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sahámūlam ← sahámūla- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+vr̥ha ← √vr̥h- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mádhyam ← mádhya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+śr̥ṇīhi ← √śr̥̄- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vr̥ścá ← √vr̥śc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cakartha ← √kr̥- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+kī́vataḥ ← kī́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+salalū́kam ← salalū́ka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asya ← √as- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+brahmadvíṣe ← brahmadvíṣ- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+hetím ← hetí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tápuṣim ← tápuṣi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +240,4 @@ Reiss aus den Nachtgeist mit der Wurzel, Indra, spalt mitten durch ihn, brich ih
 До каких пор ты пребывал в нерешительности?  
 Метни раскаленный дротик в ненавистника молитвы!
 </details>
+

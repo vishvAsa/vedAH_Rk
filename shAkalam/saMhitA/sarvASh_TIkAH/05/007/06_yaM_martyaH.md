@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+puruspŕ̥ham ← puruspŕ̥h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+dhā́yase ← dhā́yas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vidát ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pitūnā́m ← pitú- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+svā́danam ← svā́dana- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ástatātim ← ástatāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+āyáve ← āyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +164,4 @@ Der vielbegehrte, den der Mensch zur Pflege alles Gutes fand, Er, der verschönt
 (Он,) делающий пищу вкусной, про(двигается вперед),  
 Настоящая родина для Аю.
 </details>
+

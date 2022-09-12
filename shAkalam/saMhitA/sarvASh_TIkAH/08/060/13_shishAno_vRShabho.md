@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+śíśānaḥ ← √śā- ~ śī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yathā ← yathā (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dávidhvat ← √dhū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śŕ̥ṅge ← śŕ̥ṅga- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+hánavaḥ ← hánu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pratidhŕ̥ṣe ← √dhr̥ṣ- (root)  
+{case:DAT, number:SG}
+
+tigmā́ḥ ← tigmá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sujámbhaḥ ← sujámbha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yahúḥ ← yahú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +187,4 @@ Dem Stier, der seine Hörner wetzt und rasch bewegt, ist Agni gleich; Unwiderste
 Остры его челюсти – (перед ними) не устоять,  
 Хороши клыки у этого юного сына силы.
 </details>
+

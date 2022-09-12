@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ápaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+ārā́t ← ārā́t (invariable)  
+{}
+
+grā́mam ← grā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váhamānam ← √vah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+acakráyā ← acakrá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vártamānam ← √vr̥t- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+aryáḥ ← arí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+síṣakti ← √sac- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yugā́ ← yugá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+návīyān ← návīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+praminānáḥ ← √mī- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sadyás ← sadyás (invariable)  
+{}
+
+śiśnā́ ← śiśná- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +204,4 @@ Ich sah die Schar aus der Ferne herfahren, die ohne Rad durch eigne Kraft sich b
 
 -ru-
 </details>
+

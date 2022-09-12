@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+śī́tikāvati ← śītikāvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+śī́tike ← śītika- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+hlā́dikāvati ← hlā́dikāvant- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+hlā́dike ← hlā́dika- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+gamaḥ ← √gam- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+maṇḍūkyā̀ ← maṇḍūkī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+harṣaya ← √hr̥ṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,3 +170,4 @@ Sei kühlungsreich, o kühles Kraut, erquickungsreich, erquickendes, Verein dich
 Соединись с самкой лягушки!  
 Потешь-ка этого Агни!
 </details>
+

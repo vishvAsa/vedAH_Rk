@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prá-pra ← prá (invariable)  
+{}
+
+triṣṭúbham ← triṣṭúbh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+índave ← índu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mandádvīrāya ← mandádvīra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+medhásātaye ← medhásāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+púraṁdhyā ← púraṁdhi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vivāsati ← √vanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +185,4 @@ Auf, auf, bringt euren Sang und Trank dem helderfreunden Indu dar; Denn er erfre
 
 -ru-
 </details>
+

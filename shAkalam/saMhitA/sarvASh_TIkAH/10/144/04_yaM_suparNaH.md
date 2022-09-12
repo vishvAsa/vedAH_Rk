@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+suparṇáḥ ← suparṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ábharat ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+putráḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śyenásya ← śyená- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ahyàḥ ← ahī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+śatácakram ← śatácakra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vartaníḥ ← vartaní- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +153,4 @@ Den der schöngeflügelte, der Sohn des Adlers, aus der Ferne herbeibrachte, den
 Принес издалека,  
 (Его) с сотней колес, кто – след колеса для (демона) Ахи(шу):
 </details>
+

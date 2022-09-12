@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áhāni ← áhar ~ áhan- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+āsan ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bahulā́ni ← bahulá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+prācī́nam ← prācī́na- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+úditā ← úditi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+ācárantī ← √carⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+jāráḥ ← jārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+yátas ← yátas (invariable)  
+{}
+
+dadr̥kṣé ← √dr̥ś- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+yatī́ ← √i- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +218,7 @@ The contrastively paired similes, “like (a maiden) faring forth to her lover, 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/076/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/076/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these two vss. are defined as an omphalos, and this relationship is signaled by the patterned repetition of their first pādas: 3a tā́nī́d … āsan / 4a tá íd … āsan “just those were …”
@@ -189,3 +250,4 @@ Es waren zahlreich diese Tageshellen im Ost erscheinend bei der Sonne Aufgang, V
 Откуда ты показалась, словно (женщина),  
 Приближающаяся к любовнику, о Ушас, а не как снова уходящая (от него).
 </details>
+

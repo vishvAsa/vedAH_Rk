@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+bhrāśáyan ← √bhraś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bhrā́śyāni ← bhrā́śya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+tigmā́ni ← tigmá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+sthirā́ ← sthirá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tanuhi ← √tan- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yātujū́nām ← yātujū́- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+bálam ← bála- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadāmi ← √dā- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+sáhaḥ ← sáhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ugrā́ya ← ugrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pratī́tya ← √i- 1 (root)  
+{non-finite:CVB}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vigadéṣu ← vigadá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+vr̥śca ← √vr̥śc- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +211,4 @@ Das scharfe, was zu fällen ist, das fälle und mache schlaff der Zaubrer Bogens
 Тебе, грозному, я даю мощь (и) силу.  
 Выступив против врагов, разбивай их в словесных битвах!
 </details>
+

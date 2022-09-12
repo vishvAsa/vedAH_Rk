@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sākám ← sākám (invariable)  
+{}
+
+triṁśácchatam ← triṁśácchatam (invariable)  
+{gender:N}
+
+varmíṇaḥ ← varmín- (nominal stem)  
+{case:NOM, number:PL}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śravasyā́ ← śravasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yavyā́vatyām ← yavyā́vatī- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+pátyamānāḥ ← √pat- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+śárave ← śáru- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vr̥cī́vantaḥ ← vr̥cī́vant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āyan ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhindānā́ḥ ← √bhid- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+nyarthā́ni ← nyarthá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pā́trā ← pā́tra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +194,4 @@ Gepanzerte Vritschivats hundertdreissig geschart voll Ruhmgier am Javjavatstrome
 Все вместе становясь добычей (твоего) выстрела,  
 Ушли в небытие, ломая сосуды.
 </details>
+

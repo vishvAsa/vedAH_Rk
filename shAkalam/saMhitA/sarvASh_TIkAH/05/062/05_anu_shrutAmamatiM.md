@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amátim ← amáti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+śrutā́m ← √śru- (root)  
+{case:ACC, gender:F, number:SG, non-finite:PPP}
+
+urvī́m ← urú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+várdhat ← √vr̥dh- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+barhíḥ ← barhís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+rákṣamāṇā ← √rakṣⁱ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+yájuṣā ← yájus- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dhr̥tadakṣā ← dhr̥tádakṣa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gárte ← gárta- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+námasvantā ← námasvant- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+antár ← antár (invariable)  
+{}
+
+ā́sāthe ← √ās- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+íḷāsu ← íḷā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+mítra ← mitrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+varuṇā ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +208,4 @@ Die ihr beschirmt, was wie die Streu mit Andacht dem hehren weiten Schimmer glei
 Принимая поклонения, о действующие твердо, вы сидите  
 На троне, о Митра, о Варуна, среди жертвенных возлияний.
 </details>
+

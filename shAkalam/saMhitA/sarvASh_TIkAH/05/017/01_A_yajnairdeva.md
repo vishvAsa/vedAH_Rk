@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mártyaḥ ← mártya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yajñaíḥ ← yajñá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+távyāṁsam ← távyaṁs- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥té ← √kr̥- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+svadhvaré ← svadhvará- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+īḷīta ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:MED}
+
+pūrúḥ ← pūrú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +189,4 @@ Durch Opfer flehe dich, o Gott, der Sterbliche um Beistand an; Um Huld den stark
 Пусть Пуру призовет Агни,  
 Когда приготовлен прекрасный обряд, – на помощь!
 </details>
+

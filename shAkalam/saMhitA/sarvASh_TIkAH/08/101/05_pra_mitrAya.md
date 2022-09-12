@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aryamṇé ← áryaman- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mitrā́ya ← mitrá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+r̥tāvaso ← r̥tāvasu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sacathyàm ← sacathyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+chándyam ← chándya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+váruṇe ← váruṇa- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+varūthyàm ← varūthyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gāyata ← √gā(y)- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rā́jasu ← rā́jan- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+stotrám ← stotrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +182,4 @@ Auf, sing dem Mitra, Arjaman ein freundlich Lied, andächtiger; Ein schirmendes,
 Охраняющую (и) нравящуюся речь – Варуне!  
 Пропойте царям хвалу!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+upásthāt ← upástha- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+uṣásām ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vibhrā́jamānaḥ ← √bhrāj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+anumadyámānaḥ ← √mad- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rebhaíḥ ← rebhá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+cachanda ← √chand- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+praminā́ti ← √mī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+samānám ← samāná- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +198,4 @@ Herstrahlend aus dem Schooss der Morgenröthen erhebt er sich, von Sängern laut
 Этот бог мне (всегда) казался Савитаром,  
 Который не нарушает общего установления (Митры-Варуны).
 </details>
+

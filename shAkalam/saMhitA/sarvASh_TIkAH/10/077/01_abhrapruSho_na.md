@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.
+#### Morph
+abhraprúṣaḥ ← abhraprúṣ- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pruṣā ← √pruṣⁱ- (root)  
+{number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+vācā́ ← vā́c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+havíṣmantaḥ ← havíṣmant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+vijānúṣaḥ ← √jñā- (root)  
+{}
+
+yajñā́ḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+arháse ← √arh- (root)  
+{case:DAT, number:SG}
+
+brahmā́ṇam ← brahmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sumā́rutam ← sumā́ruta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+astoṣi ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+gaṇám ← gaṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śobháse ← √śubh- (root)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Wie Ergüsse der Regenwolke will ich mit meiner Stimme Gutes ergiessen, wie tran
 Чтобы быть достойным прекрасного содружества Марутов, как брахмана,  
 Я восхвалил их толпу – как бы для блеска.
 </details>
+

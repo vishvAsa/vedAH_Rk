@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+kā́niṣaḥ ← √kanⁱ- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+sávane ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tr̥tī́ye ← tr̥tī́ya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ā́hutam ← √hu- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+puroḷā́śam ← puroḷā́ś- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+vipanyáyā ← vipanyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+amŕ̥teṣu ← amŕ̥ta- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+dhā́ḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+jā́gr̥vim ← jā́gr̥vi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátnavantam ← rátnavant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Beim dritten Mahl', o Agni, lass dir munden nun den dargereichten Kuchen, o du S
 То с помощью чуда помести среди богов обряд,  
 Приносящий сокровища, бодрствующий среди бессмертных!
 </details>
+

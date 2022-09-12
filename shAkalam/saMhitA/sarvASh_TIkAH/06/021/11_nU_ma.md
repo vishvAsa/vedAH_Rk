@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sahasaḥ ← sáhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sūno ← sūnú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvebhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yájatraiḥ ← yájatra- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+agnijihvā́ḥ ← agnijihvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+āsúḥ ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+r̥tasā́paḥ ← r̥tasáp- (nominal stem)  
+{case:NOM, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+cakrúḥ ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+dásāya ← dása- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mánum ← mánu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úparam ← úpara- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,3 +247,4 @@ Nun komme kundig her zu meinem Liede, o Sohn der Kraft mit allen opferwerthen, D
 (С теми,) у кого Агни (служит) языком, кто был почитателем закона,  
 Кто Ману сделал образцом для дасы.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pedáve ← pedú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śvetám ← śvetá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+navábhiḥ ← náva- 1 (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+navatī́ ← navatí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vā́jaiḥ ← vā́ja- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+carkŕ̥tyam ← carkŕ̥tya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadathuḥ ← √dā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+drāvayátsakham ← drāvayátsakha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhágam ← bhága- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hávyam ← hávya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mayobhúvam ← mayobhū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nŕ̥bhyaḥ ← nár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +215,4 @@ Dem Pedu schenktet, Ritter, ihr das weisse Ross, das kraftbegabt durch neunundne
 Достойного воспевания, быстро увозящего друзей,  
 (Коня, которого) мужи должны призывать, как Бхагу, (коня,) приносящего радость.
 </details>
+

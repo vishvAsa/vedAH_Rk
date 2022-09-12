@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+evá ← evá (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+tavásam ← tavás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vardháyanti ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:ABL, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+dhū́ḥ ← dhúr- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+úttarā ← úttara- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sahásrā ← sahásra- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sākám ← sākám (invariable)  
+{}
+
+śiśāmi ← √śā- ~ śī- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+aśatrúm ← aśatrú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+jajā́na ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+jánitā ← jánitar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +236,4 @@ Denn also erheben sie mich, den Starken; meine Deichsel überragt den hohen Himm
 Ведь создатель создал меня не имеющим (равных) врагов.  
 Васукра:
 </details>
+

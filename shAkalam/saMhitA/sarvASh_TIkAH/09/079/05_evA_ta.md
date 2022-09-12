@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+evá ← evá (invariable)  
+{}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+subhvàm ← subhū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+supéśasam ← supéśas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+abhiśríyaḥ ← abhiśrī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prathamā́ḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rásam ← rása- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tuñjanti ← √tuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+nídaṁ-nidam ← níd- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pavamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+tāriṣaḥ ← √tr̥̄- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+āvís ← āvís (invariable)  
+{}
+
+bhavatu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+mádaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+priyáḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śúṣmaḥ ← śúṣma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ So fördern dir, o Indu, deinen kräftigen und schönen Saft die ersten Ströme 
 Пусть победишь ты любую хулу, о Павамана!  
 Пусть проявится твое неистовство – приятное опьянение!
 </details>
+

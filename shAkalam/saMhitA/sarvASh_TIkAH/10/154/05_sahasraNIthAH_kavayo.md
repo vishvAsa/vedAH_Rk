@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
+#### Morph
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sahásraṇīthāḥ ← sahásraṇītha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gopāyánti ← √gopāy- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ŕ̥ṣīn ← ŕ̥ṣi- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tápasvataḥ ← tápasvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yama ← yamá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+gachatāt ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tapojā́n ← tapojā́- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +164,4 @@ Die Sänger, die an Weisen reich, sie, die der Sonne Hüter sind, Jama! der from
 К риши, славящимся пылом, о Яма,  
 К рожденным пылом, пусть он и отправится!
 </details>
+

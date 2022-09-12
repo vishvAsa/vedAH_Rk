@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dhā́ma ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+dvitā́ ← dvitā́ (invariable)  
+{}
+
+vyūrṇván ← √vr̥- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+prathanta ← √prathⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+svarvíde ← svarvíd- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+pinvānā́ḥ ← √pinv- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+svásare ← svásara- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+índum ← índu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tāyántīḥ ← √r̥tāy- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+vāvaśre ← √vāś- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Des Göttertrankes Sitz enthüllt er zwiefach; dem Glanzerringer öffnen sich di
 Поэтические мысли, набухая, как коровы на пастбище,  
 Соответствуя вселенскому закону, замычали навстречу соку.
 </details>
+

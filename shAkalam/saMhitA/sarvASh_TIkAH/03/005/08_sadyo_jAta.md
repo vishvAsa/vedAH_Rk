@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+óṣadhībhiḥ ← óṣadhī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sadyás ← sadyás (invariable)  
+{}
+
+vavakṣe ← √vakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+ghr̥téna ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prasvàḥ ← prasū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+várdhanti ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yádi ← yádi (invariable)  
+{}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+pravátā ← pravát- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+śúmbhamānāḥ ← √śubh- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pitróḥ ← pitár- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+uruṣyát ← √uruṣy- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Geboren wuchs er schnell durch die Gewächse, wenn ihn die Mütter mit dem Fette
 Словно воды, низвергающиеся вниз, украшающие (себя),  
 Рвется на простор Агни в лоне родителей.
 </details>
+

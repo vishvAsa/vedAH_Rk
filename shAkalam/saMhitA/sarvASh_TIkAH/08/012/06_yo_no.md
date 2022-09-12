@@ -15,14 +15,48 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+māmahé ← √maṁh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+sakhitvanā́ya ← sakhitvaná- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pratháyan ← √prathⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vavákṣitha ← √vakṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -102,7 +136,7 @@ In c pratháyan is used differently in simile and frame. In the former it is str
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 The verbal form that constitutes the refrain, vavákṣitha ‘you have waxed strong’, is accented. Oldenberg plausibly attributes the accent to its position as a semiindependent refrain (Anhang), so that it is not necessary either to supply a subordinator or to take the verb as an independent clause. Geldner, by contrast, supplies a subordinator, flg. Sāyaṇa (see Geldner n.).
@@ -133,3 +167,4 @@ Der uns als Gott von ferne her geführt hat zur Genossenschaft, Wie Himmelsdunst
 Одарял нас из дружеских чувств,  
 Будто дождь с неба распространяя – ты возрос.
 </details>
+

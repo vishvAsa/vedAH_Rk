@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+anuyājā́n ← anuyājá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+kévalān ← kévala- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+prayājā́n ← prayājá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+datta ← √dā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+havíṣaḥ ← havís- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ū́rjasvantam ← ū́rjasvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+óṣadhīnām ← óṣadhī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+púruṣam ← púruṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+dīrghám ← dīrghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,8 +201,6 @@ popular
 \[agni said:\] Grant me the fore-offerings and post-offerings\*, and the sole-offerings and the shares of the strengthening oblations. \[grant me\] ghee, the waters, men and plants, and let me agni have long life, O gods, to Agni.
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -180,3 +242,4 @@ Gebt mir die Voropfer und die Nachopfer ausschließlich zu eigen, den nahrhaften
 И да будет долгим срок жизни у Агни, о боги!  
 Боги:
 </details>
+

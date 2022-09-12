@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+iyám ← ayám (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+mánmanaḥ ← mánman- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pūrvyástutiḥ ← pūrvyástuti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+abhrā́t ← abhrá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ajani ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+iva ← iva (invariable)  
+{}
+
+vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +166,4 @@ Euch, Indra-Agni, ist erzeugt dies erste Lob aus meinem Geist, Wie Regen aus der
 О Индра-Агни, для вас двоих  
 Родилась, словно дождь из тучи.
 </details>
+

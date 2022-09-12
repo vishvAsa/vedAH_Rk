@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+avata ← √avⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sajoṣasaḥ ← sajóṣas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sma ← sma (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+devāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vājayúm ← vājayú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+āśávaḥ ← āśú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pádyābhiḥ ← pádyā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+títrataḥ ← √tr̥̄- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+jáṅghananta ← √han- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+pāṇíbhiḥ ← pāṇí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+sā́nau ← sā́nu- ~ snú- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +222,4 @@ So fördert jetzt vereinigt unsern Wagen auch, der Preis erstrebend, Götter, be
 Когда кони, галопом покрывая пространство,  
 Стучат копытами по спине земли!
 </details>
+

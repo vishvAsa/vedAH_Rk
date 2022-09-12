@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+bhurántu ← √bhur- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sótu ← √su- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+yaśásaḥ ← yaśás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+divítā ← divít- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+divítmatā ← divítmant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+grā́vāṇaḥ ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vācā́ ← vā́c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+duhaté ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+kā́myam ← kā́mya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+abhítas ← abhítas (invariable)  
+{}
+
+āghoṣáyantaḥ ← √ghuṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+mithastúraḥ ← mithastúr- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +194,4 @@ Zur Somapressung schwinge sich der Steine Schar, der herrlichen mit Schall, der 
 В то время как мужи выжимают желанную сладость,  
 Распространяя во все стороны звуки, обгоняющие друг друга.
 </details>
+

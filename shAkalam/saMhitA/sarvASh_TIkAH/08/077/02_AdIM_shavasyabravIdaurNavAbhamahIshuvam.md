@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M
+#### Morph
+abravīt ← √brū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ā́t ← ā́t (invariable)  
+{}
+
+īm ← īm (invariable)  
+{}
+
+śavasī́ ← śavasín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ahīśúvam ← ahīśū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aurṇavābhám ← aurṇavābhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+niṣṭúraḥ ← niṣṭúr- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+putra ← putrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,3 +156,4 @@ Da nannte ihm die kräftige die Spinnenbrut Ahiçuva: »Die mögest fällen du, 
 Аурнавабху, Ахишуву.  
 О сын, они должны быть сокрушителями.
 </details>
+

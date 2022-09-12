@@ -16,14 +16,81 @@ ChandaH = "अभिसारिणी"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iṣé ← íṣ- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+íyakṣān ← √naś- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT, mood:DES}
+
+sadhanyàm ← sadhanī́- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+sumnám ← sumná- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+asuryā̀ya ← asuryà- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+hinvire ← √hi- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vā́jāya ← vā́ja- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+paúṁsye ← paúṁsya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+svā́su ← svá- (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+urvárāsu ← urvárā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,3 +241,4 @@ Wer, Indra, sind die Männer die dich laben, die deine Huld gemeinsam sich erfle
 Кто те, (что) радеют о твоей асурской мощи,  
 Кто – когда речь идет о водах, о своих пашнях, о мужестве?
 </details>
+

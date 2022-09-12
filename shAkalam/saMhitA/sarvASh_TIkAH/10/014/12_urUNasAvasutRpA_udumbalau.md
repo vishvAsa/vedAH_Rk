@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asutŕ̥pau ← asutŕ̥p- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+udumbalaú ← udumbalá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+urūṇasaú ← urūṇasá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ánu ← ánu (invariable)  
+{}
+
+carataḥ ← √carⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dūtaú ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+jánān ← jána- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yamásya ← yamá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+dr̥śáye ← √dr̥ś- (root)  
+{case:DAT, number:SG}
+
+sū́ryāya ← sū́rya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+taú ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+adyá ← adyá (invariable)  
+{}
+
+ásum ← ásu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dātām ← √dā- 1 (root)  
+{number:DU, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+púnar ← púnar (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +224,4 @@ Des Jama Boten, braun, mit breiten Nasen, das Leben nehmend wandern durch die V�
 Пусть они снова сегодня здесь дадут нам  
 Счастливую жизнь, чтобы мы увидели солнце!
 </details>
+

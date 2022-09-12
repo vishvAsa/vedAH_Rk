@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+aúchaḥ ← √vas- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+vibhā́nām ← vibhā́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ájanayaḥ ← √janⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+puṣṭám ← √puṣ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+puṣṭásya ← √puṣ- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ávaram ← ávara- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+jāmitvám ← jāmitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+párasyāḥ ← pára- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asuratvám ← asuratvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahatyā́ḥ ← mahā́nt- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +227,4 @@ Dass als der Lichter erstes du erstrahltest, o Morgenroth, des Reichen Wohlstand
 Что твое родство с сестрой низкое по сравнению с (тобой,) высокой, –  
 Это единственная великая асурская сила у великой (Ушас).
 </details>
+

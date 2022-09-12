@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+br̥hádbhyaḥ ← br̥hánt- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+índrajyeṣṭhān ← índrajyeṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+párvatebhyaḥ ← párvata- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ebhyaḥ ← ayám (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+kṣáyān ← kṣáya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+pastyā̀vataḥ ← pastyā̀vant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+suvasi ← √sū- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+patáyantaḥ ← √pat- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+viyemiré ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+yáthā-yathā ← yáthā (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+savā́ya ← savá- 1 (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tasthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +213,4 @@ Den hohen Bergen theilst du Indra's Scharen zu, und schaffest ihnen wohnungsreic
 Как они, порхая, распластывались (в полете),  
 Так и останавливались, о Савитар, по твоему мановению.
 </details>
+

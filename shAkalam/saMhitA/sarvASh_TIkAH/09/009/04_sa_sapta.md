@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+hitáḥ ← √hi- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+adrúhaḥ ← adrúh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ajinvat ← √ji- 2 ~ jinv- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ákṣi ← ákṣi ~ akṣán- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vāvr̥dhúḥ ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +147,7 @@ The subj. of vāvṛdhúḥ in c must be feminine, on the basis of yā́(ḥ), b
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/009/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/009/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, I consider this an omphalos hymn, with vss. 4 and 6 with their repetition of “7” defining vs. 5 as the omphalos. The omphalos effect is muted however, since the “message” of vs. 5 is hardly a deep mystery. For further on this sequence of vss., see published introduction.
@@ -144,3 +178,4 @@ Durch sieben Bräuche eingesetzt, erquickt die holden Ströme er, Durch die das 
 Он оживил безобманные реки,  
 Которые усилили (свой) единственный глаз.
 </details>
+

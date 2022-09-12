@@ -16,14 +16,69 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apā́ ← áp- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gauráḥ ← gaurá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥tám ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yáthā ← yáthā (invariable)  
+{}
+
+áva ← áva (invariable)  
+{}
+
+éti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+íriṇam ← íriṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tŕ̥ṣyan ← √tr̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+āpitvé ← āpitvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prapitvé ← prapitvá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tū́yam ← tū́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+káṇveṣu ← káṇva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sácā ← sácā (invariable)  
+{}
+
+sú ← sú (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +222,4 @@ Gleich wie der Büffel dürstend hin zur wasserreichen Quelle eilt, So komme Abe
 (Так) быстро приходи к нам вечером (и) перед едой!  
 Напейся хорошенько у Канвов!
 </details>
+

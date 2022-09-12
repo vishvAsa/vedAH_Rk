@@ -14,13 +14,38 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+svásuḥ ← svásar- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uṣā́ḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+vartaním ← vartaní- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vartayati ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sujātátā ← sujātátā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +142,4 @@ Die Morgenröthe treibt hinweg der Schwester Dunkel auf den Weg mit edlem Sinn.
 Ушас мрак (своей) сестры (прогоняет) прочь.  
 Она свертывает ее след, потому что (сама) прекраснорожденная.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aratím ← aratí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mūrdhā́nam ← mūrdhán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jātám ← √janⁱ- (root)  
+{case:ACC, gender:M, number:SG, non-finite:PPP}
+
+r̥té ← r̥tá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vaiśvānarám ← vaiśvānará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+átithim ← átithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+kavím ← kaví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samrā́jam ← samrā́j- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+āsán ← āsán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+janayanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+pā́tram ← pā́tra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +182,6 @@ genre M
 मूर्धानं शिरोभूतम् । कस्य? दिवः द्युलोकस्य । अरतिं गन्तारम् । 'वहादिभ्यश्चित्' इत्यर्तेरतिप्रत्ययः । पृथिव्याश्च गन्तारं प्रजानां रक्षणार्थं पृथिव्यामपि वर्तमानम् । 'उदात्तयणः' इति विभक्तेरुदात्तत्वम् । वैश्वानरं विश्वेषां नराणां सम्बन्धिनम् । 'नरे संज्ञायाम्' इति पूर्वपदस्य दीर्घः । ऋताय सत्याय यज्ञाय वा जातम् । कविं मेधाविनम् । सम्राजं सम्यग्राजन्तम् । 'मो राजि समः क्वौ', कृदुत्तरपदप्रकृतिस्वरत्वम् । जनानां यजमानलक्षणानां अतिथिं यजमानगृहान् सातत्येन गच्छन्तम् । 'ऋतन्यञ्चि' इत्यादिना अततेरिथिन्प्रत्ययः । यजमानगृहेष्वतन्तमित्यर्थः । ईदृशमग्निं देवाः पात्रमाजनयन्त आभिमुख्येन जनितवन्तः । पिबत्यनेनेति पात्रम् । 'ष्ट्रन् सर्वधातुभ्यः' इति ष्ट्रन्प्रत्ययः । सोमं पातुं तत्पात्रतयाग्निं कृतवन्त इत्यर्थः । कीदृशं तत्पात्रमित्यत आह - आसन् आस्ये । द्वितीयार्थे सप्तमी, तस्याश्च लुक् । अग्निमास्यं कृतवन्त इति यावत् । 'पद्दन्' इत्यादिना आस्यशब्दस्यासन्नादेशः । यद्वा - निमित्तसप्तम्येषा, आस्यनिमित्तं आस्यत्वाय अग्निरस्माकमास्यमिव भूयादिति । अग्निना ह्यास्येन देवा आहुतीः पिबन्ति, आग्निमुखत्वात्तेषाम् ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -157,7 +211,7 @@ Note the phonologically matching words aratím and átithim stationed in the sam
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 These two vss. are paired, both ending with janayanta devā́ḥ and sharing an opening pāda with the structure ACC SG + GEN ACC SG + GEN; this NP structure is also found at the end of 1c and 2c (one iteration each), but is upended by GEN + ACC SG yajñásya ketúm in 2d. It is perhaps a measure of the sensitivity of the RV to subtle patterns that this syntactic metathesis feels strikingly disruptive. It may well be that the poet generated this disruptive order in order to call attention to this very phrase; see the importance of the word ketú- in vss. 5 and 6, with the comm. there. There is an important difference, however: here the “beacon of the sacrifice” must be Agni, whereas in vss. 5-6 it is the sun.
@@ -183,7 +237,6 @@ The gods have produced as a cup for their mouths.
 
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Das Haupt des Himmels, den Lenker der Erde, den Agni Vaisvanara, den zur rechten Zeit Geborenen, den Seher und Allkönig, den Gast der Menschen - in seinem Munde haben die Götter sich ein Trinkgefäß gemacht.
@@ -201,3 +254,4 @@ Das Haupt des Himmels und der Erde Ordner, den Männerhort, den frommerzeugten A
 Поэта, самодержца, гостя у людей,  
 Породили боги, чтобы устами он пил (возлияния).
 </details>
+

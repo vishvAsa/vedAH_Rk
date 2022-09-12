@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+mádantam ← √mad- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+svadháyā ← svadhā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+miháḥ ← míh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+nápātam ← nápat- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvŕ̥dham ← suvŕ̥dh- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tamogā́m ← tamogā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhā́mam ← bhā́ma- 2 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dānavásya ← dānavá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vŕ̥ṣaprabharmā ← vŕ̥ṣaprabharman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jaghāna ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ní ← ní (invariable)  
+{}
+
+śúṣṇam ← śúṣṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vájreṇa ← vájra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vajrī́ ← vajrín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Ihn, der voll Lust an diesen sich berauschte, der Wolke üpp'gen Sohn, der geht 
 Ярость Данавы, бросающийся как бык  
 Громовержец уложил дубиной.
 </details>
+

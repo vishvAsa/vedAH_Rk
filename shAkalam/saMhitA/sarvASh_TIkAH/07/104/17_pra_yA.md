@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+iva ← iva (invariable)  
+{}
+
+jígāti ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+khargálā ← khargálā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+druhā́ ← drúh- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+gū́hamānā ← √guh- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+
+tanvàm ← tanū́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+anantā́n ← anantá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+padīṣṭa ← √pad- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED, mood:PREC}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+vavrā́n ← vavrá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ghnantu ← √han- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+grā́vāṇaḥ ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+upabdaíḥ ← upabdá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +219,4 @@ Die gleich der Eule in der Nacht einherschleicht, mit trügerischem Sinn den Lei
 Да падет она в бесконечную пропасть!  
 Пусть давильные камни убьют ракшасов (своим) грохотом!
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+avasthā́ḥ ← avasthā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jāyante ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+ciketa ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+vavréḥ ← vavrí- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+vavríḥ ← vavrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+caṣṭe ← √cakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mātúḥ ← mātár- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +167,4 @@ Des Weibes Geschlechtstheile gebären ihn, aus dem Leibe kam er als Leib ans Lic
 (Одна) оболочка появляется из (другой) оболочки.  
 Он показывается в лоне матери.
 </details>
+

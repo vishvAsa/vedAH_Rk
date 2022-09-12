@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292);; repeated line
+#### Morph
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ūrū́ ← ūrú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vihárati ← √hr̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+antarā́ ← antarā́ (invariable)  
+{}
+
+dámpatī ← dámpati- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śáye ← √śī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+antár ← antár (invariable)  
+{}
+
+āréḷhi ← √rih- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+itás ← itás (invariable)  
+{}
+
+nāśayāmasi ← √naś- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +180,4 @@ Der dir die Schenkel auseinander reisst, und sich zwischen beide Gatten legt, de
 Кто лижет (твое) лоно изнутри,  
 Того мы гоним отсюда.
 </details>
+

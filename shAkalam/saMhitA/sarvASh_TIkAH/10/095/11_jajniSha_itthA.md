@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+gopī́thyāya ← gopī́thya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+jajñiṣé ← √janⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+dadhā́tha ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+purūravaḥ ← purūrávas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áhan ← áhar ~ áhan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áśāsam ← √śās- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+sásmin ← sá- ~ tá- (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vidúṣī ← √vid- 2 (root)  
+{case:NOM, gender:F, number:SG, tense:PRF, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhúk ← abhúj- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśr̥ṇoḥ ← √śru- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vadāsi ← √vadⁱ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +223,4 @@ Du bist doch geboren, um hier Schutz zu bringen, und du hast diese Kraft an mich
 
 -ru-
 </details>
+

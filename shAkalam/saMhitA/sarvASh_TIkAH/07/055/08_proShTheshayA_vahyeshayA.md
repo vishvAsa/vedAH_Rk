@@ -16,14 +16,48 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+proṣṭheśayā́ḥ ← proṣṭheśayá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vahyeśayā́ḥ ← vahyeśayá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+nā́rīḥ ← nā́rī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+talpaśī́varīḥ ← talpaśī́van- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+púṇyagandhāḥ ← púṇyagandha- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+stríyaḥ ← strī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+sárvāḥ ← sárva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svāpayāmasi ← √svap- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +176,4 @@ Die Frauen, die auf Bänken ruhn, auf Sänften und auf weichem Bett, Die Jungfra
 Благоуханные женщины –  
 Всех их мы усыпляем.
 </details>
+

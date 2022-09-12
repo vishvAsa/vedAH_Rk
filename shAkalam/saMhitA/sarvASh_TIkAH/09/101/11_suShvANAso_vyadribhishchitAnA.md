@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+suṣvāṇā́saḥ ← √su- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+cítānāḥ ← √cit- (root)  
+{case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tvací ← tvác- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+abhítas ← abhítas (invariable)  
+{}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asvaran ← √svar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+vasuvídaḥ ← vasuvíd- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +167,7 @@ Both Geldner and Renou take the verbal idiom in cd as transitive, or at least co
 with an acc. of goal. See, e.g., IX.110.8 índram abhí … sám asvaran “ They cried out in unison towards Indra” (sim. IX.106.11, 67.9). The conversion of the preverb abhí into the adverbial abhítaḥ would not be responsible for transitivizing the idiom. Cf., e.g., X.27.8 hávā íd aryó abhítaḥ sám āyan “The cries of the Stranger came together from all sides.” I agree that íṣam is an unexpected goal for this idiom, but I think we have to live with it.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 Again no particular signs of cohesion, save for the X-víd- ‘finding X’ cmpds in 10b, 10d, and 11d.
@@ -158,3 +198,4 @@ Sie, von den Steinen ausgepresst, hellleuchtend auf der Rinderhaut, Sie rauschen
 Со всех сторон они прошумели нам вместе  
 Жертвенную усладу, (эти) находящие блага.
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+sī́dantaḥ ← √sad- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yathā ← yathā (invariable)  
+{}
+
+góśrīte ← góśrīta- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mádhau ← mádhu- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+madiré ← madirá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vivákṣaṇe ← vivákṣaṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nonumaḥ ← √nu- ~ nū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +174,4 @@ Wie Vögel sitzend bei dem Meth, der dich berauscht, dem milchgemischten, schwel
 Смешанного с молоком сладкого питья, пьянящего, делающего красноречивым,  
 Мы, Индра, приветствуем тебя громкими криками.
 </details>
+

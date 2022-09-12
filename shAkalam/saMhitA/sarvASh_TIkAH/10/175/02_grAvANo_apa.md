@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular;; repeated line  
 popular
+#### Morph
+ápa ← ápa (invariable)  
+{}
+
+duchúnām ← duchúnā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+grā́vāṇaḥ ← grā́van- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+durmatím ← durmatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sedhata ← √sidh- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bheṣajám ← bheṣajá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kartana ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+usrā́ḥ ← usrá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,3 +145,4 @@ O Steine, scheucht das Ungemach hinweg und jeden Bösewicht, Und macht die Milch
 Отвратите недоброжелательность!  
 Сделайте коров целебным средством!
 </details>
+

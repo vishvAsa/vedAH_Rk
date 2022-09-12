@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+tanuṣva ← √tan- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+tiṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+oṣatāt ← √uṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tigmahete ← tigmáheti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+árātim ← árāti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+cakré ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+samidhāna ← √idh- 1 (root)  
+{case:VOC, gender:M, number:SG, tense:AOR, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+atasám ← atasá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dhakṣi ← √dah- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+nīcā́ ← nyàñc- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śúṣkam ← śúṣka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,8 +218,6 @@ genre M
 Rise, O agni, blaze before us, one with sharp missiles, burn down our foes. Oh agitator of fuel, the one who has seeked harm us, smash down that one with your arrows, utterly \[burning that evil-doer\] like dry hay.
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -178,7 +240,7 @@ As Geldner suggests in his n. 4a, ā́tanuṣva could reflect the common idiom �
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/004/02-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/004/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
 Note the preverb chaining: 2d ví sṛja, 3a práti … ví sṛja, 4b práti.
@@ -223,3 +285,4 @@ Erheb dich, Agni, spanne deinen Bogen, mit scharfer Waffe brenn die Feinde niede
 Кто нам причинил горе, о зажженный,  
 Спали того дотла, как сухой куст!
 </details>
+

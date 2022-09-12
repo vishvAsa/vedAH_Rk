@@ -16,14 +16,87 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ājaú ← ājí- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+asyat ← √as- 2 (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+phénam ← phéna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ait ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+dabhrácetāḥ ← dabhrácetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+párā ← párā (invariable)  
+{}
+
+smát ← smát (invariable)  
+{}
+
+dákṣiṇā ← dákṣiṇa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+padā́ ← pád- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+parāvŕ̥k ← parāvŕ̥j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárat ← √sr̥- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+jagr̥bhre ← √gr̥bhⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+pr̥śanyàḥ ← pr̥śanī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,3 +253,4 @@ Dieser warf wie ein Stier Schaum auf in dem Kampfe, und sogleich wich der unvers
 
 -ru-
 </details>
+

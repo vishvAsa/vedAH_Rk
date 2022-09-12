@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+etā́ ← eṣá (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vacoyújā ← vacoyúj- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+gr̥bhṇe ← √gr̥bhⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+hárī ← hári- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sumádrathā ← sumádratha- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+brahmábhyaḥ ← brahmán- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+dádaḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +181,4 @@ Dein wortgeschirrtes Füchsepaar halt hier ich sammt dem Wagen an, Damit den Bet
 Буланых коней вместе с колесницей я удерживаю,  
 Чтобы ты одарил брахманов.
 </details>
+

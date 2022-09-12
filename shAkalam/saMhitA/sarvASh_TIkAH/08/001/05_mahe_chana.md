@@ -16,14 +16,60 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+caná ← caná (invariable)  
+{}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+deyām ← √dā- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+párā ← párā (invariable)  
+{}
+
+śulkā́ya ← śulká- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ayútāya ← ayúta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sahásrāya ← sahásra- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+vajrivaḥ ← vajrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śatāmagha ← śatā́magha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śatā́ya ← śatá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +195,4 @@ Nicht möcht ich dich, o Schleuderer verkaufen selbst um hohen Preis, Für tause
 Ни за тысячу, ни за десять тысяч, о носитель дубины,  
 Ни за сотню, о щедрый на сотни!
 </details>
+

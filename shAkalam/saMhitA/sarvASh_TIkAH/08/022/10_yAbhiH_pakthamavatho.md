@@ -16,14 +16,69 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádhrigum ← ádhrigu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávathaḥ ← √avⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pakthám ← pakthá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+babhrúm ← babhrú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víjoṣasam ← víjoṣas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+makṣú ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+tū́yam ← tū́ya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́turam ← ā́tura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhiṣajyátam ← √bhiṣajy- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +203,4 @@ Mit welchen ihr dem Pakthi halft und Adhrigu, und dem verlassnen Babhru halft, M
 С ними быстро, стремительно приезжайте к нам, о Ашвины!  
 Исцелите (то), что больное!
 </details>
+

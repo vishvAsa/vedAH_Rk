@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ihá ← ihá (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+r̥bhúbhiḥ ← r̥bhú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vājáyan ← √vājay- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vājíbhiḥ ← vājín- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+jaritúḥ ← jaritár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yajñíyam ← yajñíya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+āyáve ← āyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+iṣirébhiḥ ← iṣirá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kétebhiḥ ← kéta- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+adhvarásya ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hómani ← hóman- 2 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sahásraṇīthaḥ ← sahásraṇītha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +200,4 @@ O Indra mit den starken Ribhu's komme her in Eile zu des Sängers hehrem Lobgesa
 С сотней деятельных намерений для Аю,  
 Зная тысячу путей для возливания жертвы!
 </details>
+

@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+katpayám ← katpayá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śáyānam ← √śī- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:MED}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+asūryé ← asūryá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+támasi ← támas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vāvr̥dhānám ← √vr̥dh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:MED}
+
+cit ← cit (invariable)  
+{}
+
+mandānáḥ ← √mand- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+sutásya ← √su- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apagū́rya ← √gr̥̄- 1 (root)  
+{non-finite:CVB}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jaghāna ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+uccaíḥ ← uccaíḥ (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +201,4 @@ Und ihn sogleich, der aufgeschwollen dalag, der mächtig wuchs im sonnenlosen Du
 Даже его, вызвав на бой, пришиб Индра –  
 Бык, хмельной от выжатого (сомы).
 </details>
+

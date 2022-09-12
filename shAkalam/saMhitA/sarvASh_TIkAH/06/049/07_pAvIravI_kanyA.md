@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+citrā́yuḥ ← citrā́yus- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+kanyā̀ ← kanyā̀- ~ kanī́n- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pā́vīravī ← pā́vīravī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhāt ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sárasvatī ← sárasvant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vīrápatnī ← vīrápatnī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+áchidram ← áchidra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gnā́bhiḥ ← gnā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+sajóṣāḥ ← sajóṣas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śaraṇám ← śaraṇá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+durādhárṣam ← durādhárṣa- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+gr̥ṇaté ← √gr̥̄- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yaṁsat ← √yam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +207,4 @@ Die lebensfrische Maid, die blitzerzeugte. Sarasvati erhör, die Heldengattin, V
 Единодушная с божественными женами, пусть дарует щит  
 Без прорех, непреодолимую защиту певцу!
 </details>
+

@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
+#### Morph
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pávamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+citrébhiḥ ← citrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yāsi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+jighnase ← √han- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+śárdhan ← √śardh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+támāṁsi ← támas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dāśúṣaḥ ← dāśváṁs- (nominal stem)  
+{case:GEN, number:SG}
+
+gr̥hé ← gr̥há- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +154,7 @@ This vs. has nothing in common with its match, vs. 2, until the end, where the t
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/100/06-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/100/06-09.md">
 <details open><summary><h2>06-09 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these vss., constituting a separate hymn, echo and vary the 1st hymn, vss. 1-5.
@@ -149,3 +186,4 @@ O flammender, du gehst zu hohem Ruhm mit glänzenden Strahlen; kühn vertilgst d
 Бросая вызов, ты разбиваешь весь  
 Мрак в доме почитателя (твоего).
 </details>
+

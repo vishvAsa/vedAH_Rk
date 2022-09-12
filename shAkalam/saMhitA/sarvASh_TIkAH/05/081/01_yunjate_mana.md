@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhíyaḥ ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+yuñjate ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yuñjáte ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, number:SG}
+
+vipaścítaḥ ← vipaścít- (nominal stem)  
+{case:GEN, number:SG}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víprasya ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ékaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótrāḥ ← hótrā- 2 (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+vayunāvít ← vayunāvíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+páriṣṭutiḥ ← páriṣṭuti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+savitúḥ ← savitár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,8 +209,6 @@ genre M
 अन्य आह – मेधाविनो यजमानस्य सम्बन्धिनो **विपश्चितो विप्रा युञ्जते** । **एक** एव **वयुनावित् होत्रा** विदधाति । सा खलु सर्वा देवस्य **सवितुः महती परिष्टुतिः** सर्वतः प्रस्तुतिः प्रेरणेति यावत् । तस्मात् तद्-अनुज्ञाता वयम् इदं कर्मारभामहे इति भावः । 'तादौ च' इति परेः प्रकृति-स्वरत्वम् ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -202,3 +258,4 @@ Des grossen, weisen Priesters Priester rüsten zu den eignen Sinn und rüsten di
 Он один распределил себе жертвы, зная правила (жертвоприношений).  
 Велика полная хвала бога Савитара.
 </details>
+

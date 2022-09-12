@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+íti ← íti (invariable)  
+{}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pravócati ← √vac- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+áśvamedhāya ← áśvamedha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sūráye ← sūrí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dádat ← √dā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+r̥cā́ ← ŕ̥c- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+saním ← saní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yaté ← √i- 1 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dádat ← √dā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+medhā́m ← medhā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥tāyaté ← √r̥tāy- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +180,4 @@ Der mich so dem Agvamedha, dem Opferherren ankündigte: „Dem, der durch Lied u
 Пусть тот даст (награду) идущему с гимном на добычу,  
 Пусть тот даст (награду) правильно использующему вдохновение!
 </details>
+

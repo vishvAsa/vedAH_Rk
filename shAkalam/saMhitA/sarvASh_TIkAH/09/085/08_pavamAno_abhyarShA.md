@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+arṣa ← √arṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pávamānaḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gávyūtim ← gávyūti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sapráthaḥ ← sapráthas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+urvī́m ← urú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+īśata ← √īś- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+mā́kis ← mā́kis (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+páriṣūtiḥ ← páriṣūti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dhánaṁ-dhanam ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jáyema ← √ji- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +199,7 @@ drop, with you may we win prize after prize.
 The somewhat awkward tr. “constricting pressure” reflects the literal, additive sense of páriṣūti-: pári ‘around’ + √sū ‘impel, thrust’. Maybe something like “squeezing” would sound a bit more idiomatic, though it is hard to find any English idiom that more or less represents the etymology and fits with the verb. Of course, narrowness and constriction are particularly feared and avoided in the Rig Veda. Perhaps “claustrophobia” might work, though of course the -phobia part is absent; “constriction” is probably the best choice in English. It is also not clear what threat páriṣūti- poses to the ritual soma, which, after all, has been subjected to serious pressing (via the phonologically similar but unrelated root √su) and therefore has nothing left to fear in that regard. In real world terms it of course refers to the opposite of the “wide pasturage and great, extensive shelter” that Soma is urged to rush to in pāda b. In this regard it is similar to the words aṃhatí-, áṃhas- ‘constriction, constraint’. The other occurrence of páriṣūti- (I.119.6) is found in a similar context, with a contrast between constraint and wide space: yuváṃ rebhám páriṣūter uruṣyathaḥ. JPB tr. “You give Rebha space from being besieged,” but in my opinion the sense is more particular: “you give Rebha wide space from (/out of) constriction.” On īśata see comm. ad I.23.9.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 Pādas 7c and 8a have almost identical structure: pávamānā abhy àrṣanti su(ṣṭutím) pávamāno abhy àrṣā su(vī́ryam) which effects the transition from 3rd pl. to 2nd sg.
@@ -176,3 +231,4 @@ Hellflammend ströme du uns Heldenkraft herbei, geräum'ge Weide, grossen ausged
 Пусть никакая захватывающая сила не овладеет этим (сомой)!  
 О сок, с тобою мы хотим выигрывать одну ставку за другой!
 </details>
+

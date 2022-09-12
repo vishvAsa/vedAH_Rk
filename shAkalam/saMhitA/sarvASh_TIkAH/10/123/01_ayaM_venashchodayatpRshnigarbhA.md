@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+codayat ← √cud- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+pŕ̥śnigarbhāḥ ← pŕ̥śnigarbha- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+venáḥ ← vená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jyótirjarāyuḥ ← jyótirjarāyu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vimā́ne ← vimā́na- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+saṁgamé ← saṁgamá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+matíbhiḥ ← matí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+rihanti ← √rih- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śíśum ← śíśu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+víprāḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +180,6 @@ genre M
 ननु शण्डाय गृह्यते ? सत्यं इन्द्रायैव तु हूयते, 'इन्द्राय सुतमा जुहोमि' इति होममन्त्रलिङ्गात् । 'तौ देवा अपनुद्यात्मन इन्द्रायाजुहवुः'  इति च ब्राह्मणम् ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -164,7 +212,6 @@ Him in the meeting-place of the waters, of the sun,
 Like a child, the priests tend with their songs.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Dieser Seher treibt die mit dem bunten Stiere Schwangeren an, in Licht gehüllt bei dem Durchmessen des Raumes. Bei der Vereinigung der Gewässer und der Sonne lecken die Redekundigen diesen mit Gebeten wie die Kühe ihr Junges.
@@ -182,3 +229,4 @@ Der lichtumhüllte, holde trieb die Töchter der bunten Wolke an, die Luft durch
 При соединении вод и солнца его  
 Лижут молитвами вдохновенные, как (коровы) – теленка.
 </details>
+

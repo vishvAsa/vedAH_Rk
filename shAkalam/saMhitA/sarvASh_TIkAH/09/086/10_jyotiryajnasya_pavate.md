@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+janitā́ ← janitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vibhū́vasuḥ ← vibhū́vasu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+apīcyàm ← apīcyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dádhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svadháyoḥ ← svadhā́- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+indriyáḥ ← indriyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+madíntamaḥ ← madíntama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+matsaráḥ ← matsará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rásaḥ ← rása- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +192,7 @@ Geldner notes the parallels between our vs. and IX.75.2: IX.75.2a. … pavate m�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 Following a pattern we’ve met earlier, the first vs. of the new tṛca echoes the previous one. In particular, the beginning of 10a jyótir yajñásya pavate is almost identical to 7a yajñásya ketúr pavate, with ketú- = jyótis- semantically and the order of the first two elements flipped. As for intra-tṛca connections, 10b #pitā́ devā́nām is picked up by 11b #pátir diváḥ. There is also a fair amount of repetition of vocabulary and even phraseology from earlier in the hymn (e.g., 6cd … mṛjyáte háriḥ … kaláśeṣu sīdati and 11cd háriḥ … sádaneṣu sīdati, marmṛjānáḥ), but most of this involves material so ubiquitous in soma discourse that it doesn’t mean much.
@@ -169,3 +221,4 @@ Der liebe Meth, des Opfers Leuchte, rieselt hell der Götter Vater und Erzeuger,
 
 -ru-
 </details>
+

@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+márutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+hávāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+sumnāyántaḥ ← √sumnāy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gantana ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tú ← tú (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -94,7 +131,6 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **मरुतः यद्वो** युष्मान् **सुम्नायन्तस्** सुखमिच्छन्तः । 'देवसुम्नयोः' इत्यात्वम् । दिवो द्युलोकात् हवामहे आह्वयामः । पूर्ववत्सम्प्रसारणम् । हूयमाना नोस्मानुपगन्तन आत्मनो विशेषवत्त्वं ख्यापयन्तु । तुशब्दो विनिवर्तकः, तिष्ठन्त्वन्ये अस्मांस्तूपागच्छतेति । 'अन्येभ्योपि दृश्यते' इति सांहितिको दीर्घः, गमेर्लेटि शपो लुक्, 'तप्तनप्तनधनाश्च' इति तनादेशः । ह इति पादपूरणे निश्चये वा ॥
 </details>
 
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -125,7 +161,6 @@ We call on you from the sky,
 Do ye come unto us [4].
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Ihr Marut, wenn wir euch vom Himmel rufen, um Wohlwollen bittend, so kommet doch her, ihr Marut!
@@ -142,3 +177,4 @@ So oft wir Huld begehrend euch vom Himmel, Maruts, rufen her, So kommet stets zu
 Мы зовем вас, прося о милости,  
 Сразу же приезжайте к нам!
 </details>
+

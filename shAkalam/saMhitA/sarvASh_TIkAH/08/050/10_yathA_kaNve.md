@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+káṇve ← káṇva- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+médhe ← médha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+dámūnasi ← dámūnas- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dīrghánīthe ← dīrghánītha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+adrivaḥ ← adrivant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ásiṣāsaḥ ← √sanⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT, mood:DES}
+
+góśarye ← góśarya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+gotrám ← gotrá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+hariśríyam ← hariśrī́- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+máyi ← ahám (pronoun)  
+{case:LOC, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +183,4 @@ Wie, mächtiger, dem Kanva du beim Opfermahl, dem Hausfreund Dīrghanītha du, W
 Как Гошарье ты хотел добыть (подарок), о хозяин давильных камней,  
 (Так) мне (подари) загон с коровами, украшение которого - буланые кони!
 </details>
+

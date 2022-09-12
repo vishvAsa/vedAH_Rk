@@ -17,15 +17,67 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhrā́taram ← bhrā́tar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+váruṇam ← váruṇa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vavr̥tsva ← √vr̥t- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
+
+ácha ← ácha (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sumatī́ ← sumatí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+yajñávanasam ← yajñávanas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jyéṣṭham ← jyéṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yajñávanasam ← yajñávanas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ādityám ← ādityá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+carṣaṇīdhŕ̥tam ← carṣaṇīdhŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tā́vānam ← ŕ̥tāvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+carṣaṇīdhŕ̥tam ← carṣaṇīdhŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rā́jānam ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +229,4 @@ Und führ, o Agni, deinen Bruder Varuna den Göttern zu, mit Huld den opferliebe
 К соблюдающему закон Адитье, поддерживающему народы,  
 К царю, поддерживающему народы!
 </details>
+

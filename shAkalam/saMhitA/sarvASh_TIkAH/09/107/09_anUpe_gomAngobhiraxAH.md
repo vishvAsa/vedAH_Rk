@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+akṣār ← √kṣar- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+anūpé ← anūpá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+gómān ← gómant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+akṣār ← √kṣar- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dugdhā́bhiḥ ← √duh- (root)  
+{case:INS, gender:F, number:PL, non-finite:PPP}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+saṁváraṇāni ← saṁváraṇa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mandī́ ← mandín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tośate ← √tuś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +171,7 @@ In addition, pāda a is metrically deficient, even with this distracted reading.
 Oldenberg rather exasperatedly suggests that the metrical disturbances in this vs. (see also the Triṣṭubh cadence of c in a 12-syl. pāda) may result from “mangelhaftes Formgefühl des Vfs.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 The 2nd hemistich of vs. 8 and the first of vs. 9 have a refrain-like structure reminiscent of the echo pādas in Atyaṣṭi, which is unusual for this meter: 8cd … harítā yāti dhā́rayā, mandráyā yāti dhā́rayā#; 9ab … góbhir akṣāḥ, … dugdhā́bhir akṣāḥ#.
@@ -160,3 +203,4 @@ Schon rann ins Becken mit der Milch der Kühe Herr, Soma mit der gemolkenen; Die
 Как (реки) в океан, они отправились в загоны.  
 Веселящий сочится для опьянения.
 </details>
+

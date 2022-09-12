@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rathavā́hanam ← rathavā́hana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́yudham ← ā́yudha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+níhitam ← √dhā- 1 (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+várma ← várman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yátra ← yátra (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sadema ← √sad- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+śagmám ← śagmá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tátra ← tátra (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+sumanasyámānāḥ ← √sumanasy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+viśvā́hā ← viśvā́hā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +212,4 @@ Auf das Wagengestell des starken [Helden] nämlich, auf welches seine Waffe und 
 Туда мы хотим усадить могучую колесницу,  
 Мы всегда настроенные благожелательно.
 </details>
+

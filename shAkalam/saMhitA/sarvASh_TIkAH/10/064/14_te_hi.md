@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+hí ← hí (invariable)  
+{}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+mātárā ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+devī́ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+itáḥ ← √i- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jánmanā ← jánman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+yajñíye ← yajñíya- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+bhárīmabhiḥ ← bhárīman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bibhr̥taḥ ← √bhr̥- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ubháyam ← ubháya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+pitŕ̥bhiḥ ← pitár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+rétāṁsi ← rétas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+siñcataḥ ← √sic- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +215,4 @@ Denn Erd' und Himmel, sie die grossen Göttinnen, die hehren Mütter kommen mit 
 
 -ru-
 </details>
+

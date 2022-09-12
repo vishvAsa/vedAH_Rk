@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+mahā́nām ← mahá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+dātā́ ← dātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥túḥ ← nr̥tú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́jānām ← vā́ja- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+abhijñú ← abhijñú (invariable)  
+{}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yamat ← √yam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,7 +143,7 @@ What posture abhijñú designates is not clear. Geldner thinks it involves bendi
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 2c begins índra í(ti), while 3a begins índra í(n no).
@@ -138,3 +172,4 @@ Ja Indra, er, der grosse Fürst, sei grosser Schätze Spender uns Und thürm bis
 
 -ru-
 </details>
+

@@ -16,14 +16,54 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line
+#### Morph
+maghónām ← maghávan- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+upamám ← upamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+jyéṣṭham ← jyéṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabhā́ṇām ← vr̥ṣabhá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+govídam ← govíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pūrbhíttamam ← pūrbhíttama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īmahe ← √yā- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+ī́śānam ← √īś- (root)  
+{case:NOM, gender:M, number:SG, voice:MED}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +174,4 @@ Als herrlichsten der Mächtigen, und als der Stiere trefflichsten, Als Reichthum
 Лучше всех проламывающего крепости, о щедрый Индра, находящего коров,  
 Владыку мы просим о богатствах.
 </details>
+

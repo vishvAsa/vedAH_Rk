@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+poṣayitnú ← poṣayitnú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+turī́pam ← turī́pa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+déva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rarāṇáḥ ← √rā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+syasva ← √sā- ~ si- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+tvaṣṭar ← tváṣṭar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+karmaṇyàḥ ← karmaṇyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sudákṣaḥ ← sudákṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vīráḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yátas ← yátas (invariable)  
+{}
+
+devákāmaḥ ← devákāma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jā́yate ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yuktágrāvā ← yuktágrāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +227,4 @@ Und diesen unsern Samen, welcher Frucht schafft, o du Gott Tvaschtar lass uns hu
 Из которого рождается сын, способный к работе,  
 Наделенный прекрасной силой действия, запрягающий давильный камень, любящий богов!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jāyatām ← √janⁱ- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:MED}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+paraśúḥ ← paraśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sahá ← sahá (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+bhūyā́ḥ ← √bhū- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+
+purāṇavát ← purāṇavát (invariable)  
+{}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sudúghā ← sudúgha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+aruṣáḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhānúnā ← bhānú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rocatām ← √ruc- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+śúciḥ ← śúci- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sátpatiḥ ← sátpati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śukrám ← śukrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śuśucīta ← √śuc- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:MED}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +227,4 @@ Das Flammenbeil des Agni stehe auf mit Glanz und ströme reich des Opfers Milch 
 Красный (и) чистый пусть ярко светит (своим) лучом!  
 Как яркое солнце, пусть сверкает истинный господин!
 </details>
+

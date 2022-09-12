@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ámartyāḥ ← ámartya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+eté ← eṣá (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+mr̥ṣṭā́ḥ ← √mr̥j- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+śaśramuḥ ← √śramⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sasr̥vā́ṁsaḥ ← √sr̥- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+íyakṣantaḥ ← √naś- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT, mood:DES}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -94,7 +122,7 @@ With Geldner/Renou I take ná as neg. with pf. śaśramuḥ. In contrast, Kümme
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/022/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/022/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 More chaining: vss. 4 and 6 end with rájaḥ; the exact phrase in 5c is uttamáṃ rájaḥ, whose uttamám is then picked up in 6a and augmented with uttamā́yyam in 6c.
@@ -128,3 +156,4 @@ Gereinigt, die Unsterblichen, ob eilend auch, ermüden nicht, Durch Pfade dringe
 Не устают, хоть и мчались,  
 Стремясь найти пути в пространстве.
 </details>
+

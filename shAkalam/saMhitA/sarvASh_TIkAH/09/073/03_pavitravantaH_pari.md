@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsate ← √ās- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+pári ← pári (invariable)  
+{}
+
+pavítravantaḥ ← pavítravant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pratnáḥ ← pratná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rakṣati ← √rakṣⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vratám ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+maháḥ ← mahá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samudrám ← samudrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tirás ← tirás (invariable)  
+{}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ārábham ← √rabh- (root)  
+{case:ACC, number:SG}
+
+dharúṇeṣu ← dharúṇa- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+dhī́rāḥ ← dhī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+śekuḥ ← √śak- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,13 +218,13 @@ tr. if they were tr. with identical renderings of ā́√rabh, rather than “to
 requires that ā́√rabh can take a loc. of what is grasped, in addition to the more common acc. (as in 1c). For a passage with such a loc. see I.168.3 and comm. thereto. By contrast Geldner takes the dharúṇa- not as parts of soma but as instruments in which to seize him, namely the soma cups (n. 3d; apparently fld. by Lüders [268]). The use of the stem dharúṇa- in the sg. to refer to soma makes his interpr. difficult to sustain.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-04.md">
 <details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
 Geldner considers these vss. “doppelsinnig,” with ref. both to the priest-poets and the soma juices. This seems quite reasomable, and his individual notes are worth the attention.
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 The three even-numbered pādas 2d, 3b, 3d all end with an augmented 3rd pl. redupl. aorist: apīparan, avīvipan, and avīvṛdhan respectively.
@@ -195,3 +256,4 @@ Sie lagern in der Seihe sich um das Getön, ihr alter Vater hütet des Gesetzes 
 Могучий Варуна спрятался в море.  
 Только мудрые смогли схватить (его) в (его) основах.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+samānáḥ ← samāná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víbhr̥taḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ánu ← ánu (invariable)  
+{}
+
+práyutaḥ ← √yu- 2 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+śayā́su ← śayā́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+śáye ← √śī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vánā ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+anyā́ ← anyá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhárati ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣéti ← √kṣi- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asuratvám ← asuratvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +230,4 @@ Derselbe König, viel umhergetragen, liegt auf den Lagern sorglos in den Hölzer
 Другая (чем мать) несет теленка; (сама) мать пребывает в покое.  
 Велико могущество богов, единственно.
 </details>
+

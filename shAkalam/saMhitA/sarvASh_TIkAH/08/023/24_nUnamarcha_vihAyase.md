@@ -15,13 +15,41 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+arca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+nūnám ← nūnám (invariable)  
+{}
+
+víhāyase ← víhāyas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sthūrayūpavát ← sthūrayūpavát (invariable)  
+{}
+
+stómebhiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dámyāya ← dámya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ŕ̥ṣe ← ŕ̥ṣi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vaiyaśva ← vaiyaśvá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,3 +158,4 @@ Jetzt singe dem gewaltigen mit Lied nach Sthurajupa's Art Dem Hauses Feuer, Sän
 Восхвалениями, наподобие Стхураюпы,  
 О риши, сын Вьяшвы, домашнего Агни!
 </details>
+

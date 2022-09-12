@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhidā́sat ← √dās- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sánutyaḥ ← sánutya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ántaraḥ ← ántara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitramahaḥ ← mitrámahas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vanuṣyā́t ← √vanuṣ(y)- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ajárebhiḥ ← ajára- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+svaíḥ ← svá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vŕ̥ṣabhiḥ ← vŕ̥ṣan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tápa ← √tap- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tápasā ← tápas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tápasvān ← tápasvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tapiṣṭha ← tápiṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +197,7 @@ with your own unaging bulls [=flames], most scorching one, scorch him  with your
 Note the extreme etymological figure that occupies the whole of pāda d: tápā tapiṣṭha tápasā tápasvān. For the last two words, see the parallel structure in 6b.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/005/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/005/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 These two vss. are contrastively paired: each has a generalizing rel. clause describing the activities of a mortal -- harmful in 4ab, beneficial in 5ab -- while the 2nd hemistichs of each set out the results of such actions. The pairing is further emphasized by the phonological similarities of the oppositional verbs abhidā́sat ‘will assail’ (4a) and dádāśat (5b) ‘will ritually serve’.
@@ -175,3 +230,4 @@ Wer in der Ferne, Agni, uns befehdet, wer nahe uns bekämpft, o freundereicher, 
 Сожги, о жгучий лучше всех, жаром как повелитель жара!  
 (Сожги:жгучий:жаром:жара tapa tapistha tapasa tapasvan)
 </details>
+

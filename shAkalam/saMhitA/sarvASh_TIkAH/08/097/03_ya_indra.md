@@ -16,14 +16,63 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avratáḥ ← avratá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sásti ← √sas- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ádevayuḥ ← ádevayu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anuṣvā́pam ← anuṣvā́pam (invariable)  
+{}
+
+évaiḥ ← éva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mumurat ← √mr̥̄- 3 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+póṣyam ← póṣya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svaíḥ ← svá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sanutár ← sanutár (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+tátas ← tátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ Wer schläft, o Indra, werkelos in Trägheit ohne Gottesdienst, Aus eigner Schul
 Тот из-за своих привычек уничтожит даже процветающее богатство.  
 Удержи его подальше от этого!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+svānā́saḥ ← svāná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+hántavaí ← √han- (root)  
+{case:DAT, number:SG}
+
+rákṣase ← rákṣas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tigmā́yudhāḥ ← tigmā́yudha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhā́māḥ ← bhā́ma- 1 (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+rujanti ← √ruj- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ádevīḥ ← ádeva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+paribā́dhaḥ ← paribā́dh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+varante ← √vr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +237,4 @@ Des Agni Prasseln töne laut im Himmel, mit scharfen Waffen das Gespenst zu töd
 Его вспышки ярости разбивают (всё), (словно) в опьянении.  
 Не удерживают его безбожные препятствия.
 </details>
+

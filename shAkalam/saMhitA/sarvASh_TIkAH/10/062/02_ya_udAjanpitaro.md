@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+gomáyam ← gomáya- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+udā́jan ← √aj- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ábhindan ← √bhid- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+parivatsaré ← parivatsará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+r̥téna ← r̥tá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+valám ← valá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aṅgirasaḥ ← áṅgiras- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dīrghāyutvám ← dīrghāyutvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+gr̥bhṇīta ← √gr̥bhⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mānavám ← mānavá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+sumedhasaḥ ← sumedhás- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +219,4 @@ Euch Vätern, die der Rinder Heerde ausgeführt, im Jahr die Höhle aufgethan du
 Да будет вам долголетие, о Ангирасы!  
 Примите (меня,) сына Ману, о мудрые!
 </details>
+

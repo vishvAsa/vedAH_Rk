@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+nárā ← nár- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+prasántā ← √as- 1 (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+
+stuṣé ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+huve ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+járamāṇaḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ántān ← ánta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jmáḥ ← kṣám- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+sadyás ← sadyás (invariable)  
+{}
+
+usrā́ ← usrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vyúṣi ← vyúṣ- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+pári ← pári (invariable)  
+{}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+várāṁsi ← váras- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yúyūṣataḥ ← √yu- 1 (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Die Männer preis' ich, dieses Himmels Herrscher, die Ritter ruf' ich, mit Gesä
 (Тех,) что сразу на восходе зари стремятся охватить  
 Границы земли, далекие просторы.
 </details>
+

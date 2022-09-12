@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jayúṣā ← jayúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+rathyā ← rathī́- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ví ← ví (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+hávam ← háva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrutám ← √śru- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+vadhrimatyā́ḥ ← vadhrimatī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+daśasyántā ← √daśasy- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pipyathuḥ ← √pī- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+śayáve ← śayú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhuraṇyū ← bhuraṇyú- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+cyavānā ← √cyu- (root)  
+{case:VOC, gender:M, number:DU, tense:PRS, voice:MED}
+
+íti ← íti (invariable)  
+{}
+
+sumatím ← sumatí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ Siegreich durchdringt den Fels ihr, Wagenlenker, vernahmt der Vadhrimati Ruf, ih
 Оказывая милость Шаю, вы сделали набухшей (от молока его) корову.  
 Так, о двое подвижных, деятельных, (вы проявили) благожелательность.
 </details>
+

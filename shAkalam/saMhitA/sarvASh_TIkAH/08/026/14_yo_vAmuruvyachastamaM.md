@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+uruvyácastamam ← uruvyácastama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cíketati ← √cit- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+nr̥pā́yyam ← nr̥pā́yya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmayū́ ← asmayú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pári ← pári (invariable)  
+{}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Wer recht auf euren Männerschutz, der weit sich dehnet, achtsam ist, Dess Hof u
 Широчайшим (объездом), охраняющим мужей, –  
 О Ашвины, совершите (этот) объезд, стремясь к нам!
 </details>
+

@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+agriyáḥ ← agriyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhā́rā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+gāhate ← √gāh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+mahī́ḥ ← máh- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+havíṣṣu ← havís- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vándyaḥ ← vándya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,7 +139,7 @@ In keeping with his interpr. of vs. 1, Lüders (238) sees the “great waters”
 mádhvaḥ could in principle be construed either with dhā́rā (“stream of honey”) or agriyáḥ, as in the published translation Though both Geldner and Renou opt for the former, mádhvo agriyám in VII.92.2 suggests the latter, as does the parallel expression vācó agriyáḥ in the next vs. (3a; also IX.62.25). So Lüders (238). Both Geldner and Lüders take dhā́rā as instr. sg. (Geldner: “Mit dem Strome …”). (Oldenberg hesitates but slightly favors instr.) This is certainly possible, though not necessary: nom. dhā́rā and nom. agriyáḥ can have different genders because they belong to two different NPs in apposition to each other. In any case, none of these minor differences in interpr. have any real implications.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/007/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/007/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 A verb of motion needs to be supplied with prá in the initial pādas of both vss.
@@ -136,3 +170,4 @@ Des Methes Strom, der beste Trank, er taucht sich in die grosse Flut, Der Guss, 
 Он ныряет в великие воды,  
 Жертва среди жертв, (бог), достойный хвалы.
 </details>
+

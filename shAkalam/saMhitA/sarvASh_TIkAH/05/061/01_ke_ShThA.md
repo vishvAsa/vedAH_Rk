@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śréṣṭhatamāḥ ← śréṣṭhatama- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+stha ← √as- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+āyayá ← √yā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+éka-ekaḥ ← éka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+paramásyāḥ ← paramá- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,3 +160,4 @@ Wer seid ihr, Männer, trefflichste, die Mann für Mann ihr zu uns kamt, aus all
 Которые явились один за другим  
 Из самой дальней дали?
 </details>
+

@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhí ← abhí (invariable)  
+{}
+
+druháḥ ← drúh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+stenébhyaḥ ← stená- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+ánneṣu ← ánna- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+jāgr̥dhúḥ ← √gr̥dh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+nirāmíṇaḥ ← nirāmín- (nominal stem)  
+{case:NOM, number:PL}
+
+ripávaḥ ← ripú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+hr̥dí ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+óhate ← √uh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+vráyaḥ ← vráyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+parás ← parás (invariable)  
+{}
+
+sā́mnaḥ ← sā́man- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+viduḥ ← √vid- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +239,4 @@ Nicht gib uns hin den Dieben, die im Hinterhalt heimtückisch lauernd nach der N
 Они подменяют в сердце (своем мысль о) разрушительной силе богов.  
 О Брихаспати, они не знают ничего, кроме напева!
 </details>
+

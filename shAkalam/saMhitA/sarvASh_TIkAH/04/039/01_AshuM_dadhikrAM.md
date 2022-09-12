@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āśúm ← āśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadhikrā́m ← dadhikrā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+stavāma ← √stu- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+carkirāma ← √kr̥̄- 2 (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+sūdayantu ← √sūd- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+uchántīḥ ← √vas- 1 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+duritā́ni ← duritá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+parṣan ← √pr̥- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +213,4 @@ Lasst jetzt den schnellen Dadhikra uns preisen, des Himmels und der Erde uns ged
 Пусть зажигающиеся зори приготовят меня (к этому)!  
 Пусть они переправят меня через все трудности!
 </details>
+

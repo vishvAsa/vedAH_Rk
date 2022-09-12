@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+cakr̥má ← √kr̥- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+ha ← ha (invariable)  
+{}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nūnám ← nūnám (invariable)  
+{}
+
+purā́ ← purā́ (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánr̥tam ← ánr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rapema ← √rap- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+r̥tā́ ← r̥tá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vádantaḥ ← √vadⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+ápyā ← ápya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+gandharváḥ ← gandharvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yóṣā ← yóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jāmí ← jāmí- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nā́bhiḥ ← nā́bhi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nau ← ahám (pronoun)  
+{case:DAT, number:DU}
+
+paramám ← paramá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,3 +255,4 @@ Wie? sollen jetzt wir thun, was nie wir thaten, das Rechte redend doch dem Unrec
 Это наше происхождение, это наше высшее родство.  
 Ями:
 </details>
+

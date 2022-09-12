@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+purástāt ← purástāt (invariable)  
+{}
+
+sámiddhasya ← √idh- 1 (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+śráyamāṇaḥ ← √śri- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ajáram ← ajára- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+suvī́ram ← suvī́ra- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vanvānáḥ ← √vanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ámatim ← ámati- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+āré ← āré (invariable)  
+{}
+
+asmát ← ahám (pronoun)  
+{case:ABL, number:PL}
+
+bā́dhamānaḥ ← √bādhⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+mahaté ← mahā́nt- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+saúbhagāya ← saúbhaga- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+śrayasva ← √śri- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +197,4 @@ Dort aufgestellt vor des Entflammten Antlitz, Gebet empfangend, stetes, männerr
 Далеко от нас прогоняя безмыслие,  
 Возвышайся на великую удачу!
 </details>
+

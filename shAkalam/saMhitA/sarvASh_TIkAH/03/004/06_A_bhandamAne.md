@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+bhándamāne ← √bhand- (root)  
+{case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
+
+úpāke ← úpāka- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+uṣásau ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+smayete ← √smi- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vírūpe ← vírūpa- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+jújoṣat ← √juṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máhobhiḥ ← máhas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+marútvān ← marútvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Vor uns erscheinen glänzend Nacht und Morgen, uns lächeln an die ungleichfarb'
 Чтобы Митра, Варуна у нас радовались,  
 А также Индра с Марутами – их величию.
 </details>
+

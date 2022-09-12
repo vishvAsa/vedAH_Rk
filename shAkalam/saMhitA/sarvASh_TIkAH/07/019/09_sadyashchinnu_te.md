@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhíṣṭau ← abhíṣṭi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+maghavan ← maghávan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+sadyás ← sadyás (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śaṁsanti ← √śaṁs- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ukthaśā́saḥ ← ukthaśás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ádāśan ← √dāś- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+hávebhiḥ ← háva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+paṇī́n ← paṇí- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vr̥ṇīṣva ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+yújyāya ← yújya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +243,4 @@ O mächtiger, auch heut in deinem Beisein verkünden Sprüche dir die Spruchverk
 (Те,) кто с помощью твоих призывов дал отпор Пани -  
 Нас (теперь) выбери для такого союза!
 </details>
+

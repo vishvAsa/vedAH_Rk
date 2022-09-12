@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+parjányāya ← parjánya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+svarā́je ← svarā́j- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ántaram ← ántara- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+hr̥dáḥ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+jujoṣat ← √juṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+mayobhúvaḥ ← mayobhū́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+vr̥ṣṭáyaḥ ← vr̥ṣṭí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+devágopāḥ ← devágopā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+supippalā́ḥ ← supippalá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +214,4 @@ Dies Spruchlied sei dem herrschenden Pardschanja im Herzen lieb, er mög sich dr
 Пусть капли дождя будут ободряющими для нас!  
 (Пусть) растения, охраняемые богами, (дадут) прекрасные ягоды!
 </details>
+

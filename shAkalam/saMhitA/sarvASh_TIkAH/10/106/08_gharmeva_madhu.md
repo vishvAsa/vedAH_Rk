@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gharmā́ ← gharmá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+jaṭháre ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sanérū ← sanéru- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+áram ← áram (invariable)  
+{}
+
+bhágevitā ← bhágevita- (nominal stem)  
+{number:DU}
+
+phā́rivā ← phā́riva- (nominal stem)  
+{number:DU}
+
+turphárī ← turphári- (nominal stem)  
+{number:DU}
+
+cacarā́ ← cacará- (nominal stem)  
+{number:DU}
+
+candránirṇik ← candránirṇij- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+patarā́ ← patará- (nominal stem)  
+{number:DU}
+
+jágmī ← jágmi- (nominal stem)  
+{number:DU}
+
+mananyā̀ ← mananī́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mánar̥ṅgā ← mánar̥ṅga- (nominal stem)  
+{number:DU}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +199,4 @@ bhagevita turphari pharivaram
 patareva cacara candranirnin  
 manarnga mananya na jagmi
 </details>
+

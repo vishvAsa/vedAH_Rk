@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adr̥śran ← √dr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+ketávaḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prathamā́ḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+añjáyaḥ ← añjí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+śrayante ← √śri- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ūrdhvā́ḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+arvā́cā ← arvā́ñc- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+br̥hatā́ ← br̥hánt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+jyótiṣmatā ← jyótiṣmant- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vakṣi ← √vah- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Der Morgenröthe erste Strahlen leuchten, erhoben breiten aus sich ihre Lichter;
 О Ушас, на высокой колеснице, направляющейся к нам,  
 Полной света, принеси нам ценное добро!
 </details>
+

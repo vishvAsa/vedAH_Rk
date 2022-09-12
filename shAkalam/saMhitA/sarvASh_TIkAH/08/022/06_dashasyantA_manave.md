@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+daśasyántā ← √daśasy- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+diví ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+karṣathaḥ ← √kr̥ṣ- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+vŕ̥keṇa ← vŕ̥ka- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yávam ← yáva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+patī ← páti- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śubhaḥ ← śúbh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+sumatíbhiḥ ← sumatí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+áśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+stuvīmahi ← √stu- (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ Dem Menschen hold durchpflügt das alte Kornfeld ihr, das himmlische mit eurem P
 За ваши благодеяния, о повелители красоты, мы хотим сегодня  
 Прославить (вас), о Ашвины.
 </details>
+

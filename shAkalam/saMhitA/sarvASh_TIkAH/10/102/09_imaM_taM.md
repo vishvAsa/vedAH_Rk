@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+paśya ← √paś- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yúñjam ← yúñj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+drughaṇám ← drughaṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kā́ṣṭhāyāḥ ← kā́ṣṭhā- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+śáyānam ← √śī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+jigā́ya ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śatávat ← śatávant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+múdgalaḥ ← múdgala- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥tanā́jyeṣu ← pr̥tanā́jya- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +192,4 @@ Sieh diese hier, die mit dem Stiere wirkte, die Keule, liegen mitten in der Renn
 
 -ru-
 </details>
+

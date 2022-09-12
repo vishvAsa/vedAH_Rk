@@ -15,14 +15,54 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+cetati ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+rudrásya ← rudrá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+dhā́masu ← dhā́man- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+pratnéṣu ← pratná- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yahvám ← yahvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhúḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yátra ← yátra (invariable)  
+{}
+
+vícetasaḥ ← vícetas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +189,4 @@ Dies rasche Werk des prächtigen zeigt an den alten Stätten sich, Und darauf ri
 Выделяется из (его) прежних созданий,  
 На которых прозорливцы основывали это (свое) понимание.
 </details>
+

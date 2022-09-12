@@ -15,13 +15,38 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+abhyā́ram ← abhyā́ram (invariable)  
+{}
+
+ádrayaḥ ← ádri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+mádhu ← mádhu- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+níṣiktam ← √sic- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+púṣkare ← púṣkara- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+avatásya ← avatá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+visárjane ← visárjana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,3 +143,4 @@ Die Somasteine sind zur Hand, es träufelt ins Gefäss der Trank, Wenn ausgegoss
 Сладость налита в ложку  
 При выливании источника.
 </details>
+

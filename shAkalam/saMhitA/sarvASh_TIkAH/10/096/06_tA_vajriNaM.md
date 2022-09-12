@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mandínam ← mandín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+stómyam ← stómya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+vajríṇam ← vajrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hárī ← hári- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+haryatā́ ← haryatá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vahataḥ ← √vah- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+háryate ← √hr̥- 2 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+purū́ṇi ← purú- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sávanāni ← sávana- 1 (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dadhanvire ← √dhanv- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómāḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +212,4 @@ Im Wagen fährt das holde, goldne Rossepaar zum Rausch den muntern, hehren Indra
 Для него, желающего многих выжиманий,  
 Для Индры помчались золотистые соки сомы.
 </details>
+

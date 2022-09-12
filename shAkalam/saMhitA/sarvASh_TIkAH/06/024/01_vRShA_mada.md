@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+mádaḥ ← máda- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ślókaḥ ← ślóka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ukthā́ ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥jīṣī́ ← r̥jīṣín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+sómeṣu ← sóma- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sutapā́ḥ ← sutapā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arcatryàḥ ← arcatryà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nŕ̥bhyaḥ ← nár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ukthaíḥ ← ukthá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ákṣitotiḥ ← ákṣitoti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyukṣáḥ ← dyukṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+girā́m ← gír- ~ gīr- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +189,7 @@ of vā́ja- ‘prize’.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 On avīḥ (1c) and áva tārīḥ (2d) as “hortativ,” see Hoffmann Injunk. 264.
@@ -169,3 +221,4 @@ Stark ist bei Indra Rauschtrank, Lob und Sprüche, bei Somaspenden stark der gie
 Его надо воспевать для мужей как щедрого в гимнах,  
 Небесного царя хвалебных песен, чья помощь не иссякает.
 </details>
+

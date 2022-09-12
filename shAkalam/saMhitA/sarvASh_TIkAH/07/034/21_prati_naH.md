@@ -14,12 +14,40 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M
+#### Morph
+juṣeta ← √juṣ- (root)  
+{number:SG, person:3, mood:OPT, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+práti ← práti (invariable)  
+{}
+
+stómam ← stóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tváṣṭā ← tváṣṭar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+arámatiḥ ← arámati- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+syā́t ← √as- 1 (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+vasūyúḥ ← vasūyú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +140,4 @@ Es nehme Tvaschtar – das Lob entgegen, die Andachtsgöttin sei reich an Gut, u
 Да возрадуется Тваштар нашему восхвалению!  
 Да будет у нас Арамати, богатая добром!
 </details>
+

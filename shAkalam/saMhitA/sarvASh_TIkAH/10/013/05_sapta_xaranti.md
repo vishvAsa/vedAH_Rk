@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+kṣaranti ← √kṣar- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+marútvate ← marútvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śíśave ← śíśu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+avīvatan ← √vat- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+pitré ← pitár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+putrā́saḥ ← putrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tám ← r̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+rājataḥ ← √rāj- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ubháyasya ← ubháya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+puṣyataḥ ← √puṣ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ubháyasya ← ubháya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+yatete ← √yat- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +208,4 @@ Sieben [Ströme] rinnen dem von den Maruts begleiteten Jüngling [dem Indra], de
 Обе (повозки) правят этим принадлежащим обеим,  
 Обе занимают положенное место (и) дают процветание принадлежащему обеим.
 </details>
+

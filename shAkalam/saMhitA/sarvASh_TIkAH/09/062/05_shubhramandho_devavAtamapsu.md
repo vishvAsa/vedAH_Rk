@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+ándhaḥ ← ándhas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devávātam ← devávāta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śubhrám ← śubhrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+dhūtáḥ ← √dhū- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+páyobhiḥ ← páyas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+svádanti ← √svad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,7 +134,7 @@ do the cows sweeten with their milk.
 The fluent Engl. of the tr. conceals a syntactic problem: soma should be the obj. of the verb svádanti in c, and the first pāda, which is entirely in the neuter, with the NP led by ándhas-, allows such an acc. interpr. However, the intermediate pāda (b) is stubbornly in the masc. nominative (dhūtáḥ … sutáḥ). We must either take b as a parenthetical nominal clause, as Geldner and I do, or take ab as entirely in the nominative (as Renou may do - his structure is not entirely clear) as a separate nominal clause, and supply a resumptive pronominal acc. for c.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/04-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 Again no obvious signs of unity, beyond the progress through the preparation of soma. Note, however, that 4b and 5b both begin apsú and the opening of 6b, áśū(śubhan) echoes that opening phonologically.
@@ -132,3 +163,4 @@ Den hellen gottbegehrten Trank, in Flut gespült, vom Volk gepresst, Versüssen 
 
 -ru-
 </details>
+

@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+naṣṭám ← √naś- 2 (root)  
+{case:NOM, gender:M, number:SG, voice:PASS}
+
+pūrvyám ← pūrvyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidát ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+īrayat ← √īr- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+r̥tāyúm ← r̥tāyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+átīrṇam ← átīrṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+īm ← īm (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+tārīt ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,3 +169,4 @@ Was verloren, schaff er wieder und erhöhe jeden Frommen, Dehne aus sein Leben e
 Пусть поможет выдвинуться тому, кто предан закону!  
 Пусть продлит он срок (еще) не прожитой жизни!
 </details>
+

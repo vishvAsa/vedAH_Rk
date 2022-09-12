@@ -15,13 +15,38 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+dhiṣṇyā ← dhíṣṇya- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yuvā́dattasya ← yuvā́datta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+sūríbhiḥ ← sūrí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yuvā́nītasya ← yuvā́nīta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áhar-ahar ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śikṣatam ← √śak- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
+vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +137,4 @@ Von dem, was ihr, freigiebige, gebracht, geschenkt habt, theilet mit Mir durch d
 Из принесенного вами через (наших) покровителей  
 День за днем, о два быка, старайтесь мне дать!
 </details>
+

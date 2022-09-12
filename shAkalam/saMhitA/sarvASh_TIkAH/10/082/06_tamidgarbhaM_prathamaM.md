@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular;; repeated line
+#### Morph
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dadhre ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+prathamám ← prathamá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+samágachanta ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+yátra ← yátra (invariable)  
+{}
+
+ádhi ← ádhi (invariable)  
+{}
+
+ajásya ← ajá- 2 (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+árpitam ← √r̥- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nā́bhau ← nā́bhi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tasthúḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+víśvāni ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +229,4 @@ Die Wasser nahmen auf den ersten Urkeim, in dem die Götter alle sich beschauten
 На пупе Нерожденного укреплено Нечто,  
 На котором находятся все существа.
 </details>
+

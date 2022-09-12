@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+mahé ← máh- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śūṣám ← śūṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vidathyā̀ya ← vidathyà- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ī́ḍyāya ← ī́ḍya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jabhruḥ ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kŕ̥tvas ← kŕ̥tvas (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+śáśvat ← śáśvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ánīkaiḥ ← ánīka- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+dámyebhiḥ ← dámya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śr̥ṇótu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ájasraḥ ← ájasra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+divyaíḥ ← divyá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+śr̥ṇótu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ Dies Preislied brachten fort und fort dem grossen, dem preisenswerthen, festlich
 Пусть услышит он нас со (своими) домашними ликами,  
 Пусть услышит Агни со (своими) небесными, (он) неутомимый!
 </details>
+

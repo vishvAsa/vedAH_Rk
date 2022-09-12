@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+akrata ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+pitr̥vát ← pitr̥vát (invariable)  
+{}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vásiṣṭhāsaḥ ← vásiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ī́ḷānāḥ ← √īḍ- ~ √īḷ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+r̥ṣivát ← r̥ṣivánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+étya ← √i- 1 (root)  
+{non-finite:CVB}
+
+iva ← iva (invariable)  
+{}
+
+jñātáyaḥ ← jñātí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prītā́ḥ ← √prī- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+devāsaḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+dhūnuta ← √dhū- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vásu ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +223,4 @@ So sangen die Vasischtha's nach der Väter Art, nach Dichter Art die Götter pre
 
 -ru-
 </details>
+

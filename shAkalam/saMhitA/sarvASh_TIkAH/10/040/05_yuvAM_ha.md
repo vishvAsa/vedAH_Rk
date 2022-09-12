@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ghóṣā ← ghóṣā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+yatī́ ← √i- 1 (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+duhitā́ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+pr̥ché ← √praś- (root)  
+{case:DAT, number:SG}
+
+rā́jñaḥ ← rā́jan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ūce ← √uc- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+áhne ← áhar ~ áhan- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+aktáve ← aktú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bhūtam ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+bhūtám ← √bhū- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+árvate ← árvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+áśvāvate ← áśvāvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rathíne ← rathín- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śaktam ← √śak- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +240,4 @@ Umwandernd euch, des Königs Tochter Ghoscha ich, hab' ich's im Herzen, nun zu b
 Помогайте мне днем и помогайте мне ночью!  
 Сделайте, чтобы скакун получил (награду) из коней, из колесниц!
 </details>
+

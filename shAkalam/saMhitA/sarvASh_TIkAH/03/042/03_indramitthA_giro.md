@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+itthā́ ← itthā́ (invariable)  
+{}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+aguḥ ← √gā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+iṣitā́ḥ ← √iṣ- 1 (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+itás ← itás (invariable)  
+{}
+
+āvŕ̥te ← āvŕ̥t- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómapītaye ← sómapīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,3 +155,4 @@ Zu ihm, dem Indra, eilen hin von hier entsandt die Lieder mein, Zu lenken ihn zu
 Хвалебные песни, посланные отсюда,  
 Чтобы он завернул на питье сомы.
 </details>
+

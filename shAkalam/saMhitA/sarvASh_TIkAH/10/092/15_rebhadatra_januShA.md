@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áṅgirāḥ ← áṅgiras- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átra ← átra (invariable)  
+{}
+
+janúṣā ← janúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+pū́rvaḥ ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rébhat ← √ribh- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cakṣuḥ ← √cakṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+grā́vāṇaḥ ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ūrdhvā́ḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ábhavat ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víhāyāḥ ← víhāyas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+pā́thaḥ ← pā́thas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sumékam ← suméka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svádhitiḥ ← svádhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vánanvati ← vánanvant- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,3 +210,4 @@ Es sang hier als erster seiner Geburt nach Angiras; die emporgehobenen Pressstei
 
 -ru-
 </details>
+

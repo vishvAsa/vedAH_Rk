@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádr̥pitāya ← ádr̥pita- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+āśr̥ṇvaté ← √śru- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mánma ← mánman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+nr̥cákṣase ← nr̥cákṣas- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sumr̥ḷīkā́ya ← sumr̥ḷīká- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vedhaḥ ← vedhás- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+amŕ̥tāya ← amŕ̥ta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śaṁsa ← √śaṁs- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śastím ← śastí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+grā́vā ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īḷé ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+madhuṣút ← madhuṣút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sótā ← sótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +215,4 @@ Dem holdgesinnten, welcher hört und aufmerkt, dem männerschaunden sprich Gebet
 Бога произнеси молитву (и) и хвалу бессмертного,  
 (Для того,) кого зовет выжиматель сладкого (сомы), как и давильный камень.
 </details>
+

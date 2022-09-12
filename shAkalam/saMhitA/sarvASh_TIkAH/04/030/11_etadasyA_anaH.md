@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ánaḥ ← ánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+śaye ← √śī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ā́ ← ā́ (invariable)  
+{}
+
+súsampiṣṭam ← súsampiṣṭa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vípāśi ← vípāś- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sasā́ra ← √sr̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+sīm ← sīm (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,7 +135,7 @@ The tr. of divítmate also needs to be revised. I now tentatively accept the ana
 
 The reason for -mant- rather than -vant- is likewise unclear (see AiG II.2.882, 891).
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details open><summary><h2>08-21 ...{Loading}...</h2></summary>
 
 These vss. are tr. by Hoffmann (Injunk., 184-86).
@@ -135,3 +166,4 @@ Es lag nun dies ihr Fuhrwerk da zerbrochen ganz und sielenlos, Sie selber floh i
 Совсем разбитая, в Випаши.  
 Сама же она бежала в дальние края.
 </details>
+

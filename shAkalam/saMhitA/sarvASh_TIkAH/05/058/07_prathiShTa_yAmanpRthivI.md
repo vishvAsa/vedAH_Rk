@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cit ← cit (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+práthiṣṭa ← √prathⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+pr̥thivī́ ← pr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+bhártā ← bhártar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+śávaḥ ← śávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svám ← svá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+áśvān ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+āyuyujré ← √yuj- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+dhurí ← dhúr- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+vā́tān ← vā́ta- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+cakrire ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+rudríyāsaḥ ← rudríya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+svédam ← svéda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+varṣám ← varṣá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,14 +223,14 @@ It is difficult to get a causal reading from hí in c. It cannot be connected wi
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/05-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/05-07.md">
 <details open><summary><h2>05-07 ...{Loading}...</h2></summary>
 
 Sustained phonetic play, esp. with p and r/ṛ, in prá-pra (5b), pṛ́śneḥ putrā́(ḥ) (5c), prā́yāsiṣṭa pṛ́ṣatībhiḥ (6a), práthiṣṭa … pṛthivī́(7a).
 
 </details>
 </div>
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/06-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 The final word of vs. 6 is dyaúḥ, while pṛthivī́appears in the 1st pāda of 7, implicitly linking this standard pair, although they are contextually separate.
@@ -198,3 +262,4 @@ Bei ihrem Gange streckte sich die Erde, sie legten Kraft hinein, wie Frucht der 
 Ведь они запрягли ветры, как коней (привязывают) к дышлу.  
 Сыновья Рудры превратили (свой) пот в дождь.
 </details>
+

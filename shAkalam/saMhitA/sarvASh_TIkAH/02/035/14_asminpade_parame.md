@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+padé ← padá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+paramé ← paramá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tasthivā́ṁsam ← √sthā- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+adhvasmábhiḥ ← adhvasmán- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dīdivā́ṁsam ← √dī- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+viśváhā ← viśváhā (invariable)  
+{}
+
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ghr̥tám ← ghr̥tá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+náptre ← nápat- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+váhantīḥ ← √vah- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+átkaiḥ ← átka- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dīyanti ← √dī- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+svayám ← svayám (invariable)  
+{}
+
+yahvī́ḥ ← yahvī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Ihn, welcher steht dort an dem höchsten Orte, mit nie vergeh'ndem Glanze immer 
 Неся Напату жир в качестве пищи, воды  
 Юные летают вокруг (него,) сами (одевая себя) одеждами.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ápaduṣpadā ← ápaduṣpad- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yā́tā ← yā́tar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+sadat ← √sad- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+saniṣyán ← √sanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:FUT, voice:ACT}
+
+svàrṣātā ← svàrṣāti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+anarvā́ ← anarván- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śatádurasya ← śatádura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+védaḥ ← védas- 1 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+bhū́t ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ghnán ← √han- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śiśnádevān ← śiśnádeva- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+várpasā ← várpas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Mit sicherm Schritte ging er aus auf Beute | und war bemüht, im Kampf sie zu er
 Когда, не встречающий сопротивления, в измененном облике он овладел  
 Имуществом стовратного, убивая членопоклонников.
 </details>
+

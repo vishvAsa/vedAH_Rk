@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pínvamānāḥ ← √pinv- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+cárantīḥ ← √carⁱ- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+devákr̥tam ← devákr̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+prasaváḥ ← prasavá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sárgataktaḥ ← sárgatakta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vártave ← √vr̥- (root)  
+{case:DAT, number:SG}
+
+johavīti ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kiṁyúḥ ← kiṁyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vípraḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +215,4 @@ So sind wir von der Milchflut anschwellend, im gottgeschaffenen Bette weiterlauf
 Что за вдохновенный громко взывает к рекам?  
 Вишвамитра:
 </details>
+

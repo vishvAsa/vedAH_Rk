@@ -16,14 +16,57 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292);; repeated line
+#### Morph
+cit ← cit (invariable)  
+{}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tasā́paḥ ← r̥tasáp- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+r̥tā́vānaḥ ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tāvŕ̥dhaḥ ← r̥tāvŕ̥dh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pitr̥̄́n ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tápasvataḥ ← tápasvant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yama ← yamá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+cit ← cit (invariable)  
+{}
+
+evá ← evá (invariable)  
+{}
+
+gachatāt ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,3 +185,4 @@ Die Alten, die das Recht gewahrt und Recht geübt und Recht gemehrt, Jama! der f
 К отцам, славящимся пылом, о Яма,  
 К ним-то пусть он и отправится.
 </details>
+

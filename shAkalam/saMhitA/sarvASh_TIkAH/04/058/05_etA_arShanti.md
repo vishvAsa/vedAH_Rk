@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+arṣanti ← √arṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+etā́ḥ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+hŕ̥dyāt ← hŕ̥dya- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+samudrā́t ← samudrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+avacákṣe ← √cakṣ- (root)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ripúṇā ← ripú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śatávrajāḥ ← śatávraja- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+abhí ← abhí (invariable)  
+{}
+
+cākaśīmi ← √kāś- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+dhā́rāḥ ← dhā́rā- 1 (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ghr̥tásya ← ghr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+hiraṇyáyaḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mádhye ← mádhya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vetasáḥ ← vetasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +185,7 @@ but I keep gazing upon the streams of ghee. A golden reed is in  their midst.
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
 <details open><summary><h2>05-10 ...{Loading}...</h2></summary>
 
 Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: ūrmáyo ghrtásya ̥ in 6c).
@@ -168,3 +217,4 @@ Es triefen diese aus dem lieben Luftmeer in hundert Scharen, nicht dem Feinde si
 Я внимательно рассматриваю потоки жира.  
 Посреди них золотой прут.
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+supráṇītiḥ ← supráṇīti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vāgháte ← vāghát- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sutásomāya ← sutásoma- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vidhaté ← √vidh- (root)  
+{case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+
+yaviṣṭha ← yáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ghr̥ṣve ← ghŕ̥ṣvi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śaśamānā́ya ← √śamⁱ- (root)  
+{case:DAT, gender:M, number:SG, tense:PRF, voice:MED}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+carṣaṇiprā́ḥ ← carṣaṇiprā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thú ← pr̥thú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ścandrám ← ścandrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,3 +203,4 @@ O Agni huldvoll leitend bring dem Beter, der dir, o jüngster, huldigt, Soma kel
 Тому, кто трудится (во время обряда), принеси сокровище, о буйный,  
 Широкое, сверкающее, – в помощь, (ты,) наполняющий народы!
 </details>
+

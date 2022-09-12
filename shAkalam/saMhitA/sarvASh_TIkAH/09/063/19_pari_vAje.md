@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ná ← ná (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+vājayúm ← vājayú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā́je ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ávyaḥ ← ávi- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+siñcata ← √sic- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vā́reṣu ← vā́ra- 1 (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mádhumattamam ← mádhumattama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -96,7 +124,7 @@ Both Geldner and Renou construe vā́je in the simile rather loosely; I take it 
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 This tṛca has more internal unity, as well as connection to the preceding tṛca, than usual. For its external connections, see 19a vā́je ná vājayúm picking up the vāj- forms just noted, mádhumattamam in 19c matching the same word (in the nom.) in 16a, and 20a kavím mṛjanti echoing 17a tám ī mṛjanti (note the identical vowel pattern in kavím / tám ī).
@@ -127,3 +155,4 @@ Ergiesset durch des Widders Haar dem Indra ihn, den süssesten, Der wie beim Wet
 
 -ru-
 </details>
+

@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-## Strata
+#### Strata
 Strophic
 
-## Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+dhr̥ṣṇuyā́ ← dhr̥ṣṇuyā́ (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánapacyutaḥ ← ánapacyuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyumā́n ← dyumánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+aśvayúḥ ← aśvayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gavyúḥ ← gavyú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īyate ← √i- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,3 +141,4 @@ Es dringet unser Wagen kühn, erstrebend, Indra, Ross und Rind, Voll Glanz und u
 О Индра, не отброшенная назад, отважно  
 Мчится, стремясь к коровам, стремясь к коням.
 </details>
+

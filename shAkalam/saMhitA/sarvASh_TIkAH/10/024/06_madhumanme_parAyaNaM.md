@@ -16,14 +16,54 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
+#### Morph
+mádhumat ← mádhumant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+parā́yaṇam ← parā́yaṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́yanam ← ā́yana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mádhumat ← mádhumant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+devā ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+devátayā ← devátā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+kr̥tam ← √kr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+mádhumataḥ ← mádhumant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +181,4 @@ Gesegnet mög' mein Ausgang sein, mein Eingang wieder segensreich; So macht uns 
 Вы, о два бога, (своей) божественной властью  
 Сделайте нас медовыми!
 </details>
+

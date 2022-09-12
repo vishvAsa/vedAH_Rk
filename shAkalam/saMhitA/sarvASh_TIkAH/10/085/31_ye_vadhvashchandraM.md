@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+candrám ← candrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vadhvàḥ ← vadhū́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vahatúm ← vahatú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+jánāt ← jána- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yákṣmāḥ ← yákṣma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yánti ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+púnar ← púnar (invariable)  
+{}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+yajñíyāḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́gatāḥ ← √gam- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+náyantu ← √nī- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yátas ← yátas (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +199,4 @@ Die Krankheiten, welche von ihrem Stamme her dem glänzenden Zuge der Braut nach
 Пусть боги, достойные жертв, снова  
 Уведут их (туда), откуда они пришли!
 </details>
+

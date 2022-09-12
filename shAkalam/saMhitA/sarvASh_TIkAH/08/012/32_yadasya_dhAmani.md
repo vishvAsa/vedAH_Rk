@@ -15,14 +15,48 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dhā́mani ← dhā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+priyé ← priyá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ásvaran ← √svar- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+samīcīnā́saḥ ← samīcīná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dohánā ← dohánā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nā́bhā ← nā́bhi- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +148,7 @@ Contrary to Geldner, I take pāda c as part of the subordinate clause of ab, wit
 
 dohánā is the problem here. Grassmann suggests we read it as underlying dohánās as in I.144.2, despite the sandhi. This seems to be the basis of Geldner’s interpretation (“die Melkung” as subject), but Oldenberg rejects this and takes it as an instrumental. I weakly follow Oldenberg, but neither of the interpretations is particularly compelling.
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/31-33.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/31-33.md">
 <details open><summary><h2>31-33 ...{Loading}...</h2></summary>
 
 This tṛca is unified by the 4-syllable pāda prā́dhvaré. This pāda appears also in VIII.46.18 and IX.102.8, always as the final pāda of Uṣṇih (or the equivalent: in 46.18 Upariṣṭādbṛhatī). I interpr. it in the context of the fairly frequent fuller expression prayaty àdhvaré, a loc. absol. meaning “while the ceremony is proceeding,” which is esp. common in VIII: I.16.3 = VIII.3.5, V.28.6 = VIII.71.12, VIII.7.6, VIII.13.30, X.21.6; cf. also VI.10.1). I take prā́dhvaré as a truncated version of this loc. absol. and tr. it “while the ceremony is pro(ceeding).”
@@ -145,3 +179,4 @@ Und wenn in deinem Lieblingssitz die Melker rauschen im Verein In der Verehrung 
 Зазвучали вместе (голоса певцов),  
 (То происходит) доение на пупе жертвоприношения во время обряда.
 </details>
+

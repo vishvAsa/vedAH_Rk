@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+asmin ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+indavaḥ ← índu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+piśáṅgam ← piśáṅga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ādíśe ← ādíś- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+dádhāta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+venám ← vená- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+árāvā ← árāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,3 +165,4 @@ Dem gebt, o Tropfen, goldnen Glanz, erfüllend seines Herzens Wunsch, Der unsre 
 Золотистого наблюдателя, чтоб нацелиться (на того),  
 Кто к нам недружелюбен!
 </details>
+

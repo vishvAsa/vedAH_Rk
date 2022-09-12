@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hotar ← hótar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+purvaṇīka ← purvaṇīka- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+vásūni ← vásu- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+doṣā́ ← doṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+īrire ← √īr- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+vástoḥ ← vástu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+yajñíyāsaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+kṣā́ma ← kṣā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+dadhiré ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+pāvaké ← pāvaká- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+saúbhagāni ← saúbhaga- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,8 +178,6 @@ genre M
 तद् **इव** पूर्वम् असुभगानि भुवनानि त्वत्प्रसादेन सुभगानि भवन्तीति । तस्मादस्माकं शत्रुबलं पूर्वापरमरणं गृहदाहं च शमयित्वा सुभगानस्मान्कुरु श्रीमतो यशस्विनश्च कुरु । पुनातेर्ण्यन्ताण्ण्वुल्, उदात्तनिवृत्तिस्वरेण पावकशब्दस्यान्तोदात्तत्वम् ॥
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -163,7 +216,6 @@ Morning and evening, the sacrificers place their treasures,
 In whom, purifying, good things are placed, even as the heaven and earth (support) all beings.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 In dir, du vielgesichtiger Hotri, bringen die opferwürdigen Götter abends und morgens Schätze zum Vorschein wie die Erde alle Geschöpfe, in welchem sie alle Glücksgüter vereinigt haben, dem Lauteren.
@@ -181,3 +233,4 @@ Dir, vielgestalt'ger Priester, schenkten Güter die hehren Götter Abends und de
 В очищающего (бога), в котором они сосредоточили приносящие счастье дары,  
 Как земля (заключила в себе) все существа.
 </details>
+

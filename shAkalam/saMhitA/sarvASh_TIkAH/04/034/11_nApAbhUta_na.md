@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhūta ← √bhū- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
+
+ápa ← ápa (invariable)  
+{}
+
+atītr̥ṣāma ← √tr̥ṣ- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ániḥśastāḥ ← ániḥśasta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yajñé ← yajñá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+índreṇa ← índra- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mádatha ← √mad- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+marúdbhiḥ ← marút- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+rā́jabhiḥ ← rā́jan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ratnadhéyāya ← ratnadhéya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +216,4 @@ Nicht wart ihr fern, nicht liessen wir euch dürsten, bei diesem Opfer, tadellos
 Опьяняйтесь вместе с Индрой, вместе с Марутами,  
 Вместе с царями – для раздачи сокровищ!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+atnata ← √tan- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+vayúnam ← vayúna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vīrávakṣaṇam ← vīrávakṣaṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+samānyā́ ← samāná- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥táyā ← vr̥tā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+ápācīḥ ← ápāñc- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+áparāḥ ← ápara- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ījate ← √īj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+u ← u (invariable)  
+{}
+
+devayúḥ ← devayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pū́rvābhiḥ ← pū́rva- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+tirate ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +243,4 @@ Sie woben ihr Gewebe, das die Helden stärkt, mit gleicher Wendung durch den gan
 Преданный богам человек гонит далеко прочь будущие (зори),  
 Прошлыми же он продлевает себе (срок жизни).
 </details>
+

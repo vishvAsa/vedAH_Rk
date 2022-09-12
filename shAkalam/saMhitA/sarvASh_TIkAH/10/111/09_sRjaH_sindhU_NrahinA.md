@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
+#### Morph
+áhinā ← áhi- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+jagrasānā́n ← √gras- (root)  
+{case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
+
+síndhūn ← síndhu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sr̥jáḥ ← √sr̥j- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ā́t ← ā́t (invariable)  
+{}
+
+etā́ḥ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+javéna ← javá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vivijre ← √vij- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+mumucre ← √muc- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+múmukṣamāṇāḥ ← √muc- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED, mood:DES}
+
+utá ← utá (invariable)  
+{}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ádha ← ádha (invariable)  
+{}
+
+etā́ḥ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+nítiktāḥ ← √tij- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+ramante ← √ram- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +222,4 @@ Die von der Schlang' verschlungnen liesst du strömen, da stürzten vor mit Eile
 Те, что хотели освободиться и освободились.  
 Больше они не останавливаются, вдохновленные (для бега).
 </details>
+

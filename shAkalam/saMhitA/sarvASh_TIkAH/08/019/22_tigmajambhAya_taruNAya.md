@@ -16,14 +16,54 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+rā́jate ← √rāj- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+táruṇāya ← táruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tigmájambhāya ← tigmájambha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+gāyasi ← √gā(y)- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+práyaḥ ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+piṁśáte ← √piś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sūnŕ̥tābhiḥ ← sūnŕ̥ta- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́hutaḥ ← √hu- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ghr̥tébhiḥ ← ghr̥tá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,3 +183,4 @@ Dem scharfgezahnten, ihm, dem jungen, glänzenden, dem Agni sing ein Wonnelied, 
 (Тому,) кто украшает мужество щедрыми дарами –  
 Агни полит потоками жира.
 </details>
+

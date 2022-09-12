@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M  
 genre M
+#### Morph
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+námate ← √nam- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sthirā́ya ← sthirá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vīḷáve ← vīḷú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+dásyujūtāya ← dásyujūta- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+śárdhate ← √śardh- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+stavā́n (?) ← stavā́n (?) (invariable)  
+{}
+
+ájrāḥ ← ájra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+giráyaḥ ← girí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+r̥ṣvā́ḥ ← r̥ṣvá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+gādhám ← gādhá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gambhīré ← gambhīrá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +201,7 @@ The Holland & van Nooten Rig Veda edition ed. resolves the contraction across p�
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/06-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/06-08.md">
 <details open><summary><h2>06-08 ...{Loading}...</h2></summary>
 
 Each of these vss. contains at least one derivative of nṛ́- ‘(superior) man’: 6a nṛmṇám, 6c nṛváti, 7c nṛ́tamāsaḥ, 8d nṛṣáhye.
@@ -175,3 +233,4 @@ Nicht beugt er sich dem Starren, noch dem Festen, der Donnrer nicht vor frechem 
 Даже высокие горы – равнины для Индры,  
 Даже в глубине бывает для него брод.
 </details>
+

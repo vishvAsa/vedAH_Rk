@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+āsurásya ← āsurá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+śrutásya ← √śru- (root)  
+{case:GEN, gender:M, number:SG, non-finite:PPP}
+
+sú ← sú (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+mahī́m ← máh- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+māyā́m ← māyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vocam ← √vac- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+antárikṣe ← antárikṣa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+mā́nena ← mā́na- 3 (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tasthivā́n ← √sthā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+mamé ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Auch dieses grosse Wunder will ich künden, des Varuna, des hochberühmten Gotte
 Кто, стоя в воздушном пространстве, словно мерой,  
 Солнцем измерил землю.
 </details>
+

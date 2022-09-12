@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
+#### Morph
+anudéyī ← anudéya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+raíbhī ← raíbha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nārāśaṁsī́ ← nārāśaṁsī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nyócanī ← nyócanī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhadrám ← bhadrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+sūryā́yāḥ ← sūryā́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vā́saḥ ← vā́sas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gā́thayā ← gā́thā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+páriṣkr̥tam ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,3 +165,4 @@ Die Raibhī-strophe war ihre Mitgift, die Nārāçansī-strophe ihr Schmuck; sch
 Сурьи прекрасный наряд  
 Был весь украшен напевами.
 </details>
+

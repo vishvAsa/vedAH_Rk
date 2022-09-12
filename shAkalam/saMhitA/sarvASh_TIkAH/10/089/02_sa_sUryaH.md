@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pári ← pári (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sū́ryaḥ ← sū́rya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+várāṁsi ← váras- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cakrā́ ← cakrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+ráthyā ← ráthya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vavr̥tyāt ← √vr̥t- (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+apasyàm ← apasyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+átiṣṭhantam ← átiṣṭhant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sárgam ← sárga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jaghāna ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+kr̥ṣṇā́ ← kr̥ṣṇá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+támāṁsi ← támas- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+tvíṣyā ← tvíṣi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,3 +217,4 @@ Er liess die Sonne durch die weiten Räume hinrollen, Indra, wie des Wagens Räd
 (Этого) неостанавливающегося, словно деятельный поток.  
 Черный мрак он убил (своим) блеском.
 </details>
+

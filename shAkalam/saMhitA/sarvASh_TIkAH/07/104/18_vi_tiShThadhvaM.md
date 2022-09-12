@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+icháta ← √iṣ- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+tiṣṭhadhvam ← √sthā- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+gr̥bhāyáta ← √gr̥bhⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pinaṣṭana ← √piṣ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+bhūtvī́ ← √bhū- (root)  
+{non-finite:CVB}
+
+naktábhiḥ ← naktán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+patáyanti ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+dadhiré ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+devé ← devá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+rípaḥ ← ríp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vā ← vā (invariable)  
+{}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +236,4 @@ Vertheilet euch, o Maruts, in den Häusern; sucht auf, ergreift, zermalmt die b�
 Которые летают по ночам, превратившись в птиц,  
 Или же которые совершают осквернения божественного обряда!
 </details>
+

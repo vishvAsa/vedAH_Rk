@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ihá ← ihá (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+matsva ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+r̥bhumā́n ← r̥bhumánt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vā́javān ← vā́javant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:N, number:SG}
+
+puruṣṭuta ← puruṣṭutá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śácyā ← śácī- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sávane ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+imā́ni ← ayám (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+svásarāṇi ← svásara- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+túbhyam ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yemire ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ca ← ca (invariable)  
+{}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+dhármabhiḥ ← dhárman- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vratā́ ← vratá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Berausch mit Ribhu und mit Vadscha, Indra, dich, mit Lust, gelobter, hier an die
 Эти пастбища (сомы) предназначаются тебе –  
 (Таковы) заветы богов и (обеты) человека вместе с (естественными) установлениями.
 </details>
+

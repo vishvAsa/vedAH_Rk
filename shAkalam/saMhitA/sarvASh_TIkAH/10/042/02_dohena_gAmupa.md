@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dóhena ← dóha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śikṣa ← √śak- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
+úpa ← úpa (invariable)  
+{}
+
+bodhaya ← √budh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jārám ← jārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jaritar ← jaritár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+kóśam ← kóśa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+nyr̥̀ṣṭam ← √r̥ṣ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+pūrṇám ← √pr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vásunā ← vásu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+cyāvaya ← √cyu- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+maghadéyāya ← maghadéya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+śū́ram ← śū́ra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +220,4 @@ Durch Milchtrank mache dir den Stier zum Freunde, erwecke, Sänger, deinen Buhle
 Подтяни героя для раздачи подарков,  
 Словно полную бадью, набитую добром!
 </details>
+

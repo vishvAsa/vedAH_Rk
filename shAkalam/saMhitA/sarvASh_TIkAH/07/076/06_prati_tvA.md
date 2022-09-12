@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+īḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+stómaiḥ ← stóma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vásiṣṭhāḥ ← vásiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+subhage ← subhága- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+tuṣṭuvā́ṁsaḥ ← √stu- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+uṣarbúdhaḥ ← uṣarbúdh- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+netrī́ ← netrī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ucha ← √vas- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+vā́japatnī ← vā́japatnī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+jarasva ← √gr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sujāte ← sujātá- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+úṣaḥ ← uṣás- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +204,4 @@ Mit Lobgesängen preisen die Vasischtha's, dich selige besingend früh am Morgen
 Предводительница коров, повелительница награды, зажгись для нас!  
 О Ушас прекраснорожденная, первой пробудись!
 </details>
+

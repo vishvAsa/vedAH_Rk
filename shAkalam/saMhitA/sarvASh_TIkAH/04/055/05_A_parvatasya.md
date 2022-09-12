@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ávāṁsi ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+marútām ← marút- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+párvatasya ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+avri ← √vr̥- ~ vr̥̄- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+bhágasya ← bhága- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+trātúḥ ← trātár- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+jányāt ← jánya- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+pā́t ← √pā- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mitríyāt ← mitríya- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+uruṣyet ← √uruṣy- (root)  
+{number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +219,4 @@ Ich hab' erfleht des Berges und der Marut's, des Gottes Tratar und des Bhaga Hü
 Да охранит нас господин от беды, исходящей от чужих!  
 Митра да освободит нас также от той, что исходит от друзей!
 </details>
+

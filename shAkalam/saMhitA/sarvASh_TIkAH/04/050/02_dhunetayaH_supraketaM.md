@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhunétayaḥ ← dhunéti- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádantaḥ ← √mad- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+supraketám ← supraketá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tatasré ← √taṁs- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+yé ← yá- (pronoun)  
+{}
+
+ádabdham ← ádabdha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pŕ̥ṣantam ← pŕ̥ṣant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sr̥prám ← sr̥prá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūrvám ← ūrvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rákṣatāt ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +185,7 @@ The acc. phrase in c refers to the Vala cave and is the obj. of abhí … tatasr
 The “future impv.” rákṣatāt in d is somewhat surprising, in that it does not follow a previous impv., as is usual. I take it to imply that Bṛhaspati should do his guarding after the Aṅgirases have breached the cave and released the cows. For another unexpected future impv. see nearby suvatāt in IV.54.3
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
 <details open><summary><h2>01-06 ...{Loading}...</h2></summary>
 
 As indicated in the published introduction, this section concerns the unitary figure (Indra-)Bṛhaspati, here insistently identified as Bṛhaspati: there are 7 occurrences of the name in 6 vss., one in each save for two in vs. 2.
@@ -173,3 +222,4 @@ Die brausend gehn, den herrlichen berauschend, Brihaspati, die gänzlich uns ent
 На замкнутое стадо, пестрое, далеко протянувшееся, неуязвимое –  
 О Брихаспати, защити его местопребывание!
 </details>
+

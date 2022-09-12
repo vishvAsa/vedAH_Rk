@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+devaú ← devá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+imaú ← ayám (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+jā́yamānau ← √janⁱ- (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+
+juṣanta ← √juṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+
+ájuṣṭā ← ájuṣṭa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+gūhatām ← √guh- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+imaú ← ayám (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+támāṁsi ← támas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ābhyā́m ← ayám (pronoun)  
+{case:INS, gender:M, number:DU}
+
+āmā́su ← āmá- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+antár ← antár (invariable)  
+{}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pakvám ← pakvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+janat ← √janⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+somāpūṣábhyām ← somāpūṣán- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+usríyāsu ← usríya- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +211,4 @@ Sie seien hold uns, die gebornen Götter, sie mögen bergen das verhasste Dunkel
 Вместе с обоими, с Сомой (и) Пушаном, Индра  
 Породил вареное (молоко) в сырых коровах.
 </details>
+

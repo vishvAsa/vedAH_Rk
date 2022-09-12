@@ -15,13 +15,41 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+aghāyatáḥ ← √aghāy- (root)  
+{case:ABL, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dóṣāvastar ← doṣāvastar- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+adābhya ← ádābhya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dívā ← dívā (invariable)  
+{}
+
+náktam ← nákt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,3 +136,4 @@ Du schütze Abends, Morgens uns vor Andrang jedes Bösewichts, Bei Tag und Nacht
 О (бог,) озаряющий ночи, от злоумышленника,  
 День и ночь, о (ты,) кого нельзя обмануть!
 </details>
+

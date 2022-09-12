@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ryā ← ā́rya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+hatáḥ ← √han- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vr̥trā́ṇi ← vr̥trá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dā́sāni ← dā́sa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+hatáḥ ← √han- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sátpatī ← sátpati- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ápa ← ápa (invariable)  
+{}
+
+dvíṣaḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+hatáḥ ← √han- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +166,4 @@ Sie schlagen Feinde, arische und fremde, die gewalt'gen Herrn, Sie schlagen alle
 Разбивают (препятствия) дасов как два благих господина.  
 Они отбивают прочь все проявления ненависти.
 </details>
+

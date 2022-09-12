@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cyávānam ← cyávāna- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sanáyam ← sanáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+caráthāya ← carátha- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+takṣathuḥ ← √takṣ- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+yúvānam ← yúvan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adbhyáḥ ← áp- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+nís ← nís (invariable)  
+{}
+
+pári ← pári (invariable)  
+{}
+
+taugryám ← taugryá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ūhathuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+pravā́cyā ← pravā́cya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sávaneṣu ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +227,4 @@ Tschjavana auch, der da lag wie ein alter Karrn, den habt zum Gehn ihr Ritter wi
 Сына Тугры вы вывезли из вод.  
 Все эти ваши (деяния) достойны провозглашения на выжиманиях (сомы).
 </details>
+

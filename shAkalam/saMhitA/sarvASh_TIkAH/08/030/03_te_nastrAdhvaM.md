@@ -16,14 +16,72 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avata ← √avⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+trādhvam ← √trā- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:MED}
+
+ádhi ← ádhi (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+vocata ← √vac- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+ádhi ← ádhi (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mānavā́t ← mānavá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+patháḥ ← pánthā- ~ path- (nominal stem)  
+{case:ABL, gender:M, number:SG, tense:PRF, voice:MED}
+
+pítryāt ← pítrya- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+dūrám ← dūrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+naiṣṭa ← √nī- (root)  
+{number:PL, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+parāvátaḥ ← parāvát- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,3 +226,4 @@ So rettet uns, so helfet uns, so sprechet doch uns freundlich zu, Nicht führt u
 Не уводите нас с отчего пути, (унаследованного) от Ману,  
 Далеко в далекие края!
 </details>
+

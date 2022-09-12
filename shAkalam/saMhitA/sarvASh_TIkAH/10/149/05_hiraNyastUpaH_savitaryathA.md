@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+híraṇyastūpaḥ ← híraṇyastūpa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+āṅgirasáḥ ← āṅgirasá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+juhvé ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+vā́je ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+árcan ← √r̥c- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vándamānaḥ ← √vandⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+aṁśúm ← aṁśú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jāgara ← √gr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +216,4 @@ Wie dich der Angiras, Hiranjastupa, o Savitar, bei diesem Opfer anrief, So bin i
 Так я, воспевая (и) славя тебя ради помощи (твоей),  
 Бодрствую (возле тебя), как возле стебля Сомы.
 </details>
+

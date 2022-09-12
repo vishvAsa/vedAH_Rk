@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+avedi ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+súmahān ← súmahānt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mandráḥ ← mandrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yahváḥ ← yahvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+akar ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhā́ḥ ← bhā́s- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pr̥thivyā́m ← pr̥thivī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sasr̥jānáḥ ← √sr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+kr̥ṣṇápaviḥ ← kr̥ṣṇápavi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+óṣadhībhiḥ ← óṣadhī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vavakṣe ← √vakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Ja, dieser Agni zeigte sich als grosser, rastloser, muntrer Opferer des Menschen
 Выпущенный (на свободу), он распространил свет на земле.  
 (Бог) с черной колеёй, он возрос благодаря растениям.
 </details>
+

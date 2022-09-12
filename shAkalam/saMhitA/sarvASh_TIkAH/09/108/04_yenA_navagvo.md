@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aporṇuté ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+dadhyáṅ ← dadhyáñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+návagvaḥ ← návagva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+āpiré ← √āp- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+víprāsaḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+cā́ruṇaḥ ← cā́ru- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sumné ← sumná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ānaśúḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+śrávāṁsi ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +166,7 @@ See comm. ad IX.70.2 and, on supposed masc. cā́ruṇaḥ, VIII.5.14. Renou sup
 I take the pl. śrávaṃsi as distributive: each one of the pl. subj. acquires his own śrávaḥ.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 Vs. 4 is clearly syntactically dependent on vs. 3, with a series of three rel. cl. introduced by yéna referring to Soma, the 2nd ps. subj. of 3.
@@ -155,3 +198,4 @@ Durch dich erschliesst der Neuner Dadhiank die Flut, durch dich gedieh der Säng
 К любимому бессмертию в милости богов,  
 Благодаря кому они достигли славы:
 </details>
+

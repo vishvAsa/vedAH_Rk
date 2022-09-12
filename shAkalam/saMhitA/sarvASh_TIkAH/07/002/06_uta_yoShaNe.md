@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+divyé ← divyá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+mahī́ ← máh- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+yóṣaṇe ← yóṣaṇā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+dhenúḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sudúghā ← sudúgha- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+uṣā́sānáktā ← uṣā́sānáktā- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+barhiṣádā ← barhiṣád- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+maghónī ← maghávan- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+puruhūté ← puruhūtá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+śrayetām ← √śri- (root)  
+{number:DU, person:3, mood:IMP, tense:PRS, voice:MED}
+
+suvitā́ya ← suvitá- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+yajñíye ← yajñíya- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +199,4 @@ Und Nacht und Morgen, unsre Himmelsjungfrau'n, wie milchverseh'ne Kühe, mögen 
 Сидящие на жертвенной соломе, многопризываемые, щедрые,  
 Достойные жертв, – пусть они приникнут к нам для (нашей) удачи!
 </details>
+

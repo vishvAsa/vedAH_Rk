@@ -16,14 +16,57 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+r̥tájātāḥ ← r̥tájāta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tā́vānaḥ ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tāvŕ̥dhaḥ ← r̥tāvŕ̥dh- (nominal stem)  
+{case:NOM, number:PL}
+
+anr̥tadvíṣaḥ ← anr̥tadvíṣ- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ghorā́saḥ ← ghorá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+naraḥ ← nár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+suchardíṣṭame ← suchardíṣṭama- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sumné ← sumná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+téṣām ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+sūráyaḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syā́ma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +196,4 @@ Gerechte ihr, im Recht geboren und erstarkt, erhabne, Unrecht fassende, In eurem
 У вас таких в милости, самой надежной, о мужи,  
 Пусть будем мы и (те,) кто (наши) покровители!
 </details>
+

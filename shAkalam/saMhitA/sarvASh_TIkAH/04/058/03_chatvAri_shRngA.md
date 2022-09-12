@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+catvā́ri ← catúr- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+pā́dāḥ ← pā́da- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śŕ̥ṅgā ← śŕ̥ṅga- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tráyaḥ ← trí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dvé ← dvá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+hástāsaḥ ← hásta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+saptá ← saptá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śīrṣé ← śíras- ~ śīrṣán- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+baddháḥ ← √bandh- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+roravīti ← √rū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+trídhā ← trídhā (invariable)  
+{}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+maháḥ ← mahá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mártyān ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+viveśa ← √viś- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Vier Hörner hat er, auf drei Füssen steht er, zwei Köpfe sind ihm und der Hä
 Громко ревет бык, трижды связанный.  
 Великий бог вошел в бессмертных.
 </details>
+

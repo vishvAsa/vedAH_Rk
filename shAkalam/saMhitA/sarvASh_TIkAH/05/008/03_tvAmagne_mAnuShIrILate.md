@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+īḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mā́nuṣīḥ ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hotrāvídam ← hotrāvíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ratnadhā́tamam ← ratnadhā́tama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vívicim ← vívici- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+subhaga ← subhága- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+viśvádarśatam ← viśvádarśata- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ghr̥taśríyam ← ghr̥taśrī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suyájam ← suyáj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tuviṣvaṇásam ← tuviṣvaṇás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +216,4 @@ Dich, Agni, der du Beute machst und Schätze schenkst, dich Opferkenner preist d
 Видного для всех, хотя и спрятанного, о дающий счастье,  
 Громко шумящего, прекрасно жертвующего, украшенного жиром.
 </details>
+

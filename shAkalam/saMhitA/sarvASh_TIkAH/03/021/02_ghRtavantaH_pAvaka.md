@@ -16,14 +16,51 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ghr̥távantaḥ ← ghr̥távant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pāvaka ← pāvaká- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+médasaḥ ← médas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ścotanti ← √ścut- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+stokā́ḥ ← stoká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devávītaye ← devávīti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+svádharman ← svadharman- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śréṣṭham ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vā́ryam ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +177,4 @@ Die butterreichen Tropfen Fett, sie rinnen dir, o Flammender; lass unsre Gabe, t
 О следующий своему закону, для приглашения богов  
 Надели нас самым лучшим – избранным даром!
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+daívyena ← daívya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śúcinā ← śúci- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ájasraḥ ← ájasra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urviyā́ ← urviyā́ (invariable)  
+{}
+
+vibhā́ti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+anyā́ ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+vayā́ḥ ← vayā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+jāyante ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+prajā́bhiḥ ← prajā́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vīrúdhaḥ ← vīrúdh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,8 +187,6 @@ genre M
 He who is in waters with his own pure splendour spreads forth widely as per the eternal law of nature; The various beings of this world have emerged as descendents of his, the plants with all their descendents have also descended from him.
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -172,3 +228,4 @@ Der heilige, der in den Wassern weithin erstrahlt mit Glanz der Götter unauslö
 (У того) размножаются все другие существа, (как) ветви его  
 И растения со (своими) побегами.
 </details>
+

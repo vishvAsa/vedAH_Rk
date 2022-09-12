@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kám ← kám (invariable)  
+{}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+āyávaḥ ← āyú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+duhanti ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,7 +139,7 @@ the gods (milk) honey for the gods.
 With Geldner and Renou, the published translation interpr. páyo duhanti as “they milk your milk” (or more emphatically, Renou “traient de toi le lait” [my ital.]); that is, they assume that milk (páyaḥ) here refers to the soma juice. See above, comm. ad vs. 9, on the ambiguous ref. of this word in the soma maṇḍala. It is also possible here that páyaḥ refers to cows’ milk (see the cows in 19c), and the passage should be interpr. “they milk milk for you for exhilaration.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 There is some chaining between vss. (cows/milk in 19, 20; mádhu in 20, 21 and two mentions of gods in pāda c in 20, 21, incl. dat. pl. devébhyaḥ in each). In addition, all three vss. begin with the preverb ā́(univerbated and therefore accentless in 19a).
@@ -134,3 +168,4 @@ Es melken, Indu, deine Milch zum Rausche recht die eifrigen, Die Götter Götter
 
 -ru-
 </details>
+

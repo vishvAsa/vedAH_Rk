@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jaraṇā́m ← jaraṇā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+upeyúṣaḥ ← √i- 1 (root)  
+{case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+
+víprasya ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+akr̥ṇutam ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+kaléḥ ← kalí- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yúvat ← yúvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥śyadā́t ← r̥śyadá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ūpathuḥ ← √vap- 2 (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+út ← út (invariable)  
+{}
+
+vándanam ← vándana- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+étave ← √i- 1 (root)  
+{case:DAT, number:SG}
+
+kr̥thaḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+sadyás ← sadyás (invariable)  
+{}
+
+viśpálām ← viśpálā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,3 +235,4 @@ Dem Sänger Kali, da er alt geworden war, verschafftet ihr aufs neue frische Jug
 Вы вытащили Вандану из западни,  
 Вы сразу же дали возможность Вишпале бежать.
 </details>
+

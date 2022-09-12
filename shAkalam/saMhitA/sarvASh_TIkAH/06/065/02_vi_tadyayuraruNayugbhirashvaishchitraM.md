@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+aruṇayúgbhiḥ ← aruṇayúj- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yayuḥ ← √yā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+bhānti ← √bhā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+candrárathāḥ ← candráratha- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+citrám ← citrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+náyantīḥ ← √nī- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+yajñásya ← yajñá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+bādhante ← √bādhⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+támaḥ ← támas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ū́rmyāyāḥ ← ū́rmyā- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +236,4 @@ Sie drangen durch mit feuerfarbnen Rossen, mit lichtem Wagen strahlen hell die M
 Ведя вершину высокой жертвы,  
 Они оттесняют ночную тьму.
 </details>
+

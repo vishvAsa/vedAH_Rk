@@ -16,14 +16,75 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+háribhiḥ ← hári- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mandraíḥ ← mandrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mayū́raromabhiḥ ← mayū́raroman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yāhí ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+cit ← cit (invariable)  
+{}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+pāśínaḥ ← pāśín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vím ← ví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yaman ← √yam- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+áti ← áti (invariable)  
+{}
+
+dhánva ← dhánvan- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Komm Indra mit den Füchsen her, den muntern, mit dem Pfauenschweif; Nicht fang 
 Пусть никакие (люди) не удержат тебя, словно ловчие - птицу!  
 Пройди сквозь них, как через пустыню!
 </details>
+

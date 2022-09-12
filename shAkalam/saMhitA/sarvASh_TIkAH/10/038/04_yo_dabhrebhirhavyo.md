@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́ribhiḥ ← bhū́ri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+dabhrébhiḥ ← dabhrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hávyaḥ ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhī́ke ← abhī́ka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+nr̥ṣā́hye ← nr̥ṣā́hya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+varivovít ← varivovíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+náram ← nár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sásnim ← sásni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+śrutám ← √śru- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vikhādé ← vikhādá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+arvā́ñcam ← arvā́ñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+karāmahe ← √kr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Der anzuflehn von wenigen und vielen ist, der Raum verschafft beim Angriff in de
 Сегодня этого знаменитого мужа, захватывающего (добычу) при истреблении (врагов),  
 Индру мы хотим привлечь к себе для помощи!
 </details>
+

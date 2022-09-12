@@ -15,13 +15,44 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+#### Morph
+cit ← cit (invariable)  
+{}
+
+ójīyān ← ójīyas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ugrébhyaḥ ← ugrá- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+śū́rataraḥ ← śū́ratara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śū́rebhyaḥ ← śū́ra- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+bhūridā́bhyaḥ ← bhūridā́- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+cit ← cit (invariable)  
+{}
+
+máṁhīyān ← máṁhīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +132,7 @@ This vs. expands on the etymological figure and superlative phrase in 16b, ugrā
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/16-18.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 The first two vss. are linked lexically and by their investment in grammatical comparison. The third is unconncected, but 18c echoes vs. 14 in the previous tṛca.
@@ -130,3 +161,4 @@ Der du stärker bist als starke, heldenmüth'ger auch als Helden, Mehr verleihst
 
 -ru-
 </details>
+

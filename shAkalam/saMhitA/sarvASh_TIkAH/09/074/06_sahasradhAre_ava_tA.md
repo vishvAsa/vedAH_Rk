@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asaścátaḥ ← asaścát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+áva ← áva (invariable)  
+{}
+
+sahásradhāre ← sahásradhāra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+prajā́vatīḥ ← prajā́vant- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+rájasi ← rájas- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+tr̥tī́ye ← tr̥tī́ya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+avás ← avás (invariable)  
+{}
+
+cátasraḥ ← catúr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+nā́bhaḥ ← nábh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+níhitāḥ ← √dhā- 1 (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bharanti ← √bhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ghr̥taścútaḥ ← ghr̥taścút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+havíḥ ← havís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +224,4 @@ Die reichen Brunnen in dem tausendströmigen, dem dritten Luftraum, mögen Kinde
 Четыре тайных отверстия, (обращенных) вниз с неба,  
 Сочась жиром, приносят в качестве жертвы напиток бессмертия.
 </details>
+

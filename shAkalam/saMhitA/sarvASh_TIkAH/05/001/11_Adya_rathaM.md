@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+adyá ← adyá (invariable)  
+{}
+
+bhānumaḥ ← bhānumánt- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhānumántam ← bhānumánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sámantam ← sámanta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tíṣṭha ← √sthā- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yajatébhiḥ ← yajatá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pathīnā́m ← pánthā- ~ path- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+urú ← urú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+havirádyāya ← havirádya- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+vakṣi ← √vah- (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +225,4 @@ Besteige heut den strahlenreichen Wagen, o strahlenreicher Agni, mit den hehren;
 Знаток путей, (через) широкое воздушное пространство  
 Привези сюда богов для вкушения жертвы!
 </details>
+

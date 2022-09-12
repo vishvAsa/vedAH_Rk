@@ -16,14 +16,51 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mr̥jyámānaḥ ← √mr̥j- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
+
+suhastya ← suhástya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+invasi ← √i- 2 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā́cam ← vā́c- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+bahulám ← bahulá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+piśáṅgam ← piśáṅga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+puruspŕ̥ham ← puruspŕ̥h- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+arṣasi ← √arṣ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pávamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +152,7 @@ wealth.
 Both Geldner and Renou construe samudré with mṛjyámānaḥ (e.g., “Im Meer sauber gemacht”), but surely our passage can't be separated from IX.12.6 prá vā́cam índur iṣyati, samudrásyā́dhi viṣṭápi “The drop sends forth his speech upon the surface of the sea,” a passage adduced by Geldner (n. 21b) without comment.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/21-22.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/21-22.md">
 <details open><summary><h2>21-22 ...{Loading}...</h2></summary>
 
 Lexical cohesion: mṛjyámānaḥ opening 21a echoed by mṛjānáḥ opening 22a; pávamāna 21d, 22a, c; arṣasi 21d, 22d.
@@ -147,3 +184,4 @@ Gereinigt sendest du zum Meer die Stimme, du an Händen schön, Du strömest gro
 Богатство красноватое, обильное, многожеланное  
 Струишь ты, о Павамана.
 </details>
+

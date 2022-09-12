@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D;; repeated line
+#### Morph
+ámīvāḥ ← ámīvā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ánirāḥ ← ánirā- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+asthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+tyā́ḥ ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+ábhaiṣuḥ ← √bhī- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+atrasan ← √tras- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+nís ← nís (invariable)  
+{}
+
+támiṣīcīḥ ← támiṣīcī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aruhat ← √ruh- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víhāyāḥ ← víhāyas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áganma ← √gam- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pratiránte ← √tr̥̄- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+yátra ← yátra (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,3 +221,4 @@ Geschwunden sind nun Krankheit und Entkräftung, zerstoben und entflohn vor Angs
 В нас поднялся сома крепчающий.  
 Мы пришли (туда), где продлевают срок жизни.
 </details>
+

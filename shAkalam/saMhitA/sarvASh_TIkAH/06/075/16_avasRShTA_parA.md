@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+ávasr̥ṣṭā ← √sr̥j- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+párā ← párā (invariable)  
+{}
+
+pata ← √pat- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bráhmasaṁśite ← bráhmasaṁśita- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+śáravye ← śaravyā̀- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+gácha ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+padyasva ← √pad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+amī́ṣām ← asaú (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+caná ← caná (invariable)  
+{}
+
+kám ← ká- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+śiṣaḥ ← √śiṣ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+út ← út (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +196,4 @@ Du abgeschossener, fliege fort, du, durch Gebet geschärfter Pfeil, geh vor, die
 Иди, порази врагов,  
 Не оставь кого-нибудь из них!
 </details>
+

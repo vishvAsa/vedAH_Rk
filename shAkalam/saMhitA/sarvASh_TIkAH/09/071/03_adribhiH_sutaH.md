@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+gábhastyoḥ ← gábhasti- (nominal stem)  
+{case:LOC, gender:M, number:DU}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+matī́ ← matí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+nábhasā ← nábhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vépate ← √vip- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+vr̥ṣāyáte ← √vr̥ṣāy- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+girā́ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+modate ← √mud- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+násate ← √nas- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sā́dhate ← √sādh- ~ sidh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+apsú ← áp- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+nenikté ← √nij- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+párīmaṇi ← párīman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+yájate ← √yaj- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +221,4 @@ Gepresst von Steinen rieselt aus den Armen er, mit Regen strömt er, ist begeist
 Он ликует, ласкает, достигает цели благодаря песне.  
 Он дочиста полощется в водах, приносит себя в жертву полностью.
 </details>
+

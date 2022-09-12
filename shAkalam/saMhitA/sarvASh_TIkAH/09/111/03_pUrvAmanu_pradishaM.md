@@ -19,10 +19,10 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
@@ -30,6 +30,85 @@ genre M
 genre M  
 genre M  
 genre M
+#### Morph
+ánu ← ánu (invariable)  
+{}
+
+cékitat ← √cit- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pradíśam ← pradíś- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pū́rvām ← pū́rva- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+darśatáḥ ← darśatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+raśmíbhiḥ ← raśmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+yatate ← √yat- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+daívyaḥ ← daívya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+darśatáḥ ← darśatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ágman ← √gam- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+paúṁsyā ← paúṁsya- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ukthā́ni ← ukthá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+harṣayan ← √hr̥ṣ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jaítrāya ← jaítra- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+ánapacyutā ← ánapacyuta- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+bhávathaḥ ← √bhū- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+vájraḥ ← vájra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánapacyutā ← ánapacyuta- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+samátsu ← samád- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,3 +302,4 @@ Nach alter Weisung fährt er hellerglänzend jetzt, mit lichten Strahlen eint de
 Чтоб (сома) и (Индра-) ваджра были неколебимы,  
 В сражениях неколебимы!
 </details>
+

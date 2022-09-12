@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávadhīt ← √vadhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+átas ← átas (invariable)  
+{}
+
+bhrā́taram ← bhrā́tar- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īṣate ← √īṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+ná ← ná (invariable)  
+{}
+
+śakráḥ ← śakrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+práyatā ← √yam- (root)  
+{case:ACC, gender:N, number:PL, non-finite:PPP}
+
+u ← u (invariable)  
+{}
+
+véti ← √vī- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yataṁkaráḥ ← yataṁkará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ākaráḥ ← ākará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īṣate ← √īṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+kílbiṣāt ← kílbiṣa- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vásvaḥ ← vásu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +245,4 @@ Wem Vater, Mutter oder Bruder er erschlug, vor dem auch weicht der starke nimmer
 Напротив, (этот) воздаятель охотно принимает у него предложенные (дары).  
 Он не отшатывается от преступления, (этот) наделитель добром.
 </details>
+

@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+gojít ← gojít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hiraṇyajít ← hiraṇyajít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rathajít ← rathajít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abjít ← abjít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sahasrajít ← sahasrajít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svarjít ← svarjít- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cakriré ← √kr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+devā́saḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mádam ← máda- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pītáye ← pītí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+aruṇám ← aruṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+drapsám ← drapsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mayobhúvam ← mayobhū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svā́diṣṭham ← svā́diṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,3 +255,4 @@ Erbeutend Rinder, Wagen, Gold, des Himmels Glanz, Gewässer, tausend Güter, rie
 (Тот,) кого боги создали (как) хмельной напиток для питья,  
 (Как) сладчайшую каплю, красноватую, дающую радость.
 </details>
+

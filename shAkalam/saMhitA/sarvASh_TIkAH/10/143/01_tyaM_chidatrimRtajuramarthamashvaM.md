@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átrim ← átri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+r̥tajúram ← r̥tajúr- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tyám ← syá- ~ tyá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yā́tave ← √yā- 1 (root)  
+{case:DAT, number:SG}
+
+kakṣī́vantam ← kakṣī́vant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+púnar ← púnar (invariable)  
+{}
+
+yádi ← yádi (invariable)  
+{}
+
+kr̥ṇutháḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+návam ← náva- 2 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +199,4 @@ Auch diesen Atri, der nach dem Gesetz alt geworden ist, lasset wie ein Roß nach
 Если (уж) вы Какшиванта опять  
 Делаете (молодым), как новая колесница.
 </details>
+

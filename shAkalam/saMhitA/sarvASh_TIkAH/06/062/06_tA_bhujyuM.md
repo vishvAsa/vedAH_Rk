@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adbhyáḥ ← áp- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+bhujyúm ← bhujyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+samudrā́t ← samudrá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+víbhiḥ ← ví- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+rájobhiḥ ← rájas- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+sūnúm ← sūnú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+túgrasya ← túgra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ūhathuḥ ← √vah- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+
+areṇúbhiḥ ← areṇú- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+bhujántā ← √bhuj- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+
+yójanebhiḥ ← yójana- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+árṇasaḥ ← árṇas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+patatríbhiḥ ← patatrín- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+upásthāt ← upástha- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +207,4 @@ Ihr fuhrt den Budschju aus des Meeres Fluten, des Tugra Sohn mit Vögeln durch d
 Пользуясь путями, лишенными пыли,  
 На крылатых (конях) из недр пучины.
 </details>
+

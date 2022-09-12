@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+roha ← √ruh- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śatávalśaḥ ← śatávalśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vánaspate ← vánaspáti- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ruhema ← √ruh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+sahásravalśāḥ ← sahásravalśa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svádhitiḥ ← svádhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+téjamānaḥ ← √tij- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+mahaté ← mahā́nt- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+praṇinā́ya ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+saúbhagāya ← saúbhaga- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +205,4 @@ O steig empor mit hundert Zweigen, Waldherr, mit tausend Zweigen lass empor uns 
 Ты, которое этот наточенный топор  
 Привел (сюда) на великую удачу!
 </details>
+

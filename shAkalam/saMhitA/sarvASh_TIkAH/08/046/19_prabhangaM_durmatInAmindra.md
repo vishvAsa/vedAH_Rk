@@ -16,14 +16,51 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+durmatīnā́m ← durmatí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+prabhaṅgám ← prabhaṅgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śaviṣṭha ← śáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+codayanmate ← codayánmati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yújyam ← yújya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+codayanmate ← codayánmati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jyéṣṭham ← jyéṣṭha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,3 +183,4 @@ Den Zerbrecher der bösegesinnten, o stärkster Indra, bringe herbei, den uns ge
 Подходящее (нам) богатство, о вдохновляющий мысли,  
 Лучшее, о вдохновляющий мысли!
 </details>
+

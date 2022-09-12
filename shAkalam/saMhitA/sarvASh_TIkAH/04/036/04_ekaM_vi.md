@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+cakra ← √kr̥- (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+camasám ← camasá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+cáturvayam ← cáturvaya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ékam ← éka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ariṇīta ← √rī- (root)  
+{number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+cármaṇaḥ ← cárman- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+dhītíbhiḥ ← dhītí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+amr̥tatvám ← amr̥tatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ānaśa ← √naś- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+átha ← átha (invariable)  
+{}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+śruṣṭī́ ← śruṣṭí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ukthyàm ← ukthyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+vājāḥ ← vā́ja- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Vierfältig habt den einen Becher ihr gemacht, und liesst mit Kunst neu aus dem 
 Тогда вы достигли бессмертия среди богов  
 Благодаря (своей) готовности служить, о Ваджи, Рибху. Это надо воспевать в гимне о вас.
 </details>
+

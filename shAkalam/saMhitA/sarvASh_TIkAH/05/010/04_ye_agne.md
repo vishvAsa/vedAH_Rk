@@ -17,15 +17,67 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+candra ← candrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yé ← yá- (pronoun)  
+{}
+
+áśvarādhasaḥ ← áśvarādhas- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śumbhánti ← √śubh- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śúṣmebhiḥ ← śúṣma- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+śuṣmíṇaḥ ← śuṣmín- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yéṣām ← yá- (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+bódhati ← √budh- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sukīrtíḥ ← sukīrtí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +222,4 @@ Den Männern stark durch kräft'gen Drang, die, heller Agni, Lieder dir Ausschm�
 Чья слава выше самогo  
 Неба – она говорит сама о себе...
 </details>
+

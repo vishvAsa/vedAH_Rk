@@ -17,15 +17,76 @@ ChandaH = "अतिजगती शक्वरी वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+nivátaḥ ← nivát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pravátaḥ ← pravát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+udvátaḥ ← udvát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+anudakā́ḥ ← anudaká- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+udanvátīḥ ← udanvánt- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+páyasā ← páyas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pínvamānāḥ ← √pinv- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+aśipadā́ḥ ← aśipadá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śivā́ḥ ← śivá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+aśimidā́ḥ ← aśimidá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+nadyàḥ ← nadī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sárvāḥ ← sárva- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,3 +243,4 @@ Die Ströme, die vom Abhange, die aus der Tiefe, aus der Höhe an Wassern reich 
 Набухшими водой, благосклонными, свободными от шипада,  
 Все реки пусть будут свободными от шимида!
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mādáyante ← √mad- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+dhāráyante ← √dhr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+sádane ← sádana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vivásvataḥ ← vivásvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ádadhuḥ ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+aktū́n ← aktú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+māsí ← mā́s- 1 (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sū́rye ← sū́rya- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ájasrā ← ájasra- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+carataḥ ← √carⁱ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dyotaním ← dyotaní- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pári ← pári (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +201,4 @@ Bei welchem Fest die Götter sich erfreuen und in Vivasvats Heiligthum verweilen
 Они вложили свет в солнце, в месяц – ночи,  
 (И эти) двое бродят вокруг сияния (жертвенного костра), неутомимые.
 </details>
+

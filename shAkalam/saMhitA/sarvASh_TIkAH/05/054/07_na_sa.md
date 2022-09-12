@@ -16,14 +16,90 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hanyate ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+jīyate ← √jyā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+riṣyati ← √riṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sredhati ← √sridh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vyathate ← √vyath- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dasyanti ← √das- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+rā́yaḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+úpa ← úpa (invariable)  
+{}
+
+ūtáyaḥ ← ūtí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+rā́jānam ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ŕ̥ṣim ← ŕ̥ṣi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+súṣūdatha ← √sūd- (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,3 +263,4 @@ Nicht wird besiegt, o Maruts, nicht geschlagen der, den ihr beglückt, sei Dicht
 Ни богатства у него, не подкрепления не иссякают,  
 Кого, будь он риши или царь, вы делаете посвященным!
 </details>
+

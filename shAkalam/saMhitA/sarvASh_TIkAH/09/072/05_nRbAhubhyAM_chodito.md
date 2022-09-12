@@ -16,14 +16,84 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+coditáḥ ← √cud- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+dhā́rayā ← dhā́rā- 1 (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+nŕ̥bāhúbhyām ← nŕ̥bāhú- (nominal stem)  
+{case:INS, gender:M, number:DU}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+anuṣvadhám ← anuṣvadhám (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ajaiḥ ← √ji- 1 (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+aprāḥ ← √prā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+krátūn ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+matī́ḥ ← matí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asadat ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+camvòḥ ← camū́- (nominal stem)  
+{case:GEN, gender:F, number:DU}
+
+druṣát ← druṣád- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háriḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+véḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +225,7 @@ On 3rd sg. ajais and its AV replacements, see Narten (Sig.Aor. 119-20).
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/072/04-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/072/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 These two vss., in the center of the hymn, are constructed in parallel. To begin with, the post-caesura portion of 4d and 5b are identical: pavate sóma indra te.
@@ -191,3 +261,4 @@ Von Männerarm geschüttelt und im Strom gebraut, o Indra, rieselt Soma nach dem
 Он наполнил (наши) силы духа, покорил наши мысли во время обряда.  
 Как птица, садящаяся на дерево, золотистый уселся в двух сосудах.
 </details>
+

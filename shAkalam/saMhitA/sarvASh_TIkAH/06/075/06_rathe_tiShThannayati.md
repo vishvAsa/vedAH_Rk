@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+nayati ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+purás ← purás (invariable)  
+{}
+
+ráthe ← rátha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+tíṣṭhan ← √sthā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vājínaḥ ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+kāmáyate ← √kam- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+suṣārathíḥ ← suṣārathí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yátra-yatra ← yátra (invariable)  
+{}
+
+abhī́śūnām ← abhī́śu- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+mahimā́nam ← mahimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+panāyata ← √panāy- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ánu ← ánu (invariable)  
+{}
+
+mánaḥ ← mánas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+paścā́t ← paścā́t (invariable)  
+{}
+
+raśmáyaḥ ← raśmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yachanti ← √yam- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Der gute Lenker, welcher auf dem Wagen steht, wohin er wünschet, treibt er sein
 Дивитесь величию поводьев.  
 Вожжи сзади правят мыслью (коней).
 </details>
+

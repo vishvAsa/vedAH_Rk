@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+viśvavedasaḥ ← viśvávedas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+snúbhiḥ ← sā́nu- ~ snú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+úttarāt ← úttara- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+váhadhve ← √vah- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:MED}
+
+dhúnayaḥ ← dhúni- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+mandasānā́ḥ ← mandasāná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+riśādasaḥ ← riśā́das- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+dhatta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sunvaté ← √su- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yájamānāya ← √yaj- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,3 +226,4 @@ Wenn Agni du und Maruts, ihr allwissenden, vom hohen Himmel fahret durch die Ber
 Вы, веселящиеся, шумящие, о карающие врагов (?),  
 Наделите дорогим (подарком) заказчика (жертвы) (и) выжимающего (жреца!)
 </details>
+

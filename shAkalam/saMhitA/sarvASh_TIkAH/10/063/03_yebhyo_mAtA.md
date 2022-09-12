@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mádhumat ← mádhumant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mātā́ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pínvate ← √pinv- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yébhyaḥ ← yá- (pronoun)  
+{case:DAT, gender:M, number:PL}
+
+áditiḥ ← áditi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ádribarhāḥ ← ádribarhas- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+pīyū́ṣam ← pīyū́ṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svápnasaḥ ← svápnas- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+uktháśuṣmān ← uktháśuṣma- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+vr̥ṣabharā́n ← vr̥ṣabhará- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ādityā́n ← ādityá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+mada ← √mad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+tā́n ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Sie, die die Mutter reichlich tränkt mit süssem Trank, mit Milch der Himmel, u
 
 -ru-
 </details>
+

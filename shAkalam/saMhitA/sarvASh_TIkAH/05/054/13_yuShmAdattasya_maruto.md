@@ -16,14 +16,66 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vicetasaḥ ← vícetas- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+yuṣmā́dattasya ← yuṣmā́datta- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+rathyàḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rāyáḥ ← rayí- ~ rāy- (nominal stem)  
+{gender:M}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+váyasvataḥ ← váyasvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+tiṣyàḥ ← tiṣyà- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+yúchati ← √yu- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+rāranta ← √ranⁱ- (root)  
+{number:SG, person:3, mood:INJ, tense:PRF, voice:MED}
+
+sahasríṇam ← sahasrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,3 +210,4 @@ O weise Maruts, lasst uns Wagenlenker sein des labungsreichen uns von euch gesch
 Которое не удаляется (от человека), как Тишья от неба!  
 Радуйтесь у нас, о Маруты, тысячному (богатству)!
 </details>
+

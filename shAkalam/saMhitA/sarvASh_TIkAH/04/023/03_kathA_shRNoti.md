@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+hūyámānam ← √hū- (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:PASS}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+śr̥ṇoti ← √śru- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ávasām ← ávasā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+śr̥ṇván ← √śru- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+veda ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ha ← ha (invariable)  
+{}
+
+kā́ḥ ← ká- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+úpamātayaḥ ← úpamāti- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+āhuḥ ← √ah- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+jaritré ← jaritár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+pápurim ← pápuri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Wie höret Indra, was der Mensch ihm zuruft? wie kennt er hörend, was den Mensc
 Каковы же (были) его многочисленные пожалования?  
 Как это его называют щедрым к певцу?
 </details>
+

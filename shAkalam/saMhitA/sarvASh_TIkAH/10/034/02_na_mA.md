@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+jihīḷe ← √hīḍ- ~ √hīḷ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+mā ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+mimetha ← √mith- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+āsīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+sákhibhyaḥ ← sákhi- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+śivā́ ← śivá- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+akṣásya ← akṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ekaparásya ← ekapará- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hetóḥ ← hetú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ánuvratām ← ánuvrata- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ápa ← ápa (invariable)  
+{}
+
+arodham ← √rudh- 1 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+jāyā́m ← jāyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +230,4 @@ Nie reizte mich, noch zürnte mir die Gattin, sie war mir hold, mir selbst und m
 Из-за одной лишней игральной кости  
 Я оттолкнул преданную жену.
 </details>
+

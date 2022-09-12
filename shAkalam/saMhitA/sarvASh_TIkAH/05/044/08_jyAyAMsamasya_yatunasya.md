@@ -16,14 +16,81 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+jyā́yāṁsam ← jyā́yaṁs- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ketúnā ← ketú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+yatúnasya ← yatúna- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+r̥ṣisvarám ← r̥ṣisvará- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́su ← yá- (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+apasyáyā ← apasyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+dhā́yi ← √dhā- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+vidat ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+yādŕ̥śmin ← yādŕ̥ś- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+áram ← áram (invariable)  
+{}
+
+karat ← √kr̥- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+svayám ← svayám (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+váhate ← √vah- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,3 +270,4 @@ Zu dem herrlicheren [dem Sonnengotte] geht er [der Opferer Säy.] mit dem Lichte
 В кого бы ни была она вложена, того захватывает она благодаря (его) деятельности.  
 А кто сам увозит (ее как жену), тот воздает (ей) должное.
 </details>
+

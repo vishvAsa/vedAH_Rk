@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ási ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+śávasā ← śávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śrutáḥ ← √śru- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vr̥trahā́ ← vr̥trahán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trahátyena ← vr̥trahátya- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+áti ← áti (invariable)  
+{}
+
+dāśasi ← √dāś- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+maghaíḥ ← maghá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+maghónaḥ ← maghávan- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+śūra ← śū́ra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +165,4 @@ Denn du bist ja durch Kraft berühmt, durch Vritrakampf, o Vritrafeind, An Gaben
 Убийством Вритры, о убийца Вритры.  
 Щедрыми дарами ты даешь еще больше, чем щедрые, о герой!
 </details>
+

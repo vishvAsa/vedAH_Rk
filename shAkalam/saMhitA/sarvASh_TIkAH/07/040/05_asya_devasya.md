@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+avayā́ḥ ← avayā́(s)- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+devásya ← devá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mīḷhúṣaḥ ← mīḍhváṁs- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+eṣásya ← eṣá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+havírbhiḥ ← havís- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+prabhr̥thé ← prabhr̥thá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+víṣṇoḥ ← víṣṇu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+mahitvám ← mahitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rudráḥ ← rudrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rudríyam ← rudríya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidé ← √vid- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+aśvinau ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+írāvat ← írāvant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yāsiṣṭám ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +206,4 @@ Zu dieses gnäd'gen Gottes Vischnu Speisung, des schnellen, kommen wir mit Opfer
 Ведь Рудра известен как связанное с Рудрой величие.  
 Отправляйтесь, о Ашвины, в (свой) подкрепляющий объезд!
 </details>
+

@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śūṣé ← śūṣá- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+vŕ̥ṣanā́ma ← vŕ̥ṣanā́man- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mā́m̐ścatve ← mā́m̐ścatva- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pŕ̥śane ← pŕ̥śana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+vádhatre ← vádhatra- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+ásvāpayat ← √svap- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+nigútaḥ ← nigút- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sneháyat ← √snih- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+aca ← √añc- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+acítaḥ ← acít- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+amítrān ← amítra- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+ápa ← ápa (invariable)  
+{}
+
+itás ← itás (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +240,7 @@ cleverly designed because of the discontinuous verb ápa … aca - the impv. aca
 That sense, and the same privative+√cit, is found instead in the negated rt noun cmpd. acít- in the acc. pl. The pāda provides an exceptionally tricky end to a dazzlingly frustrating tṛca.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/52-54.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/52-54.md">
 <details open><summary><h2>52-54 ...{Loading}...</h2></summary>
 
 The simplistic repetition of the previous tṛca contrasts markedly with the contents of this one, which is mind-bogglingly difficult and opaque. Oldenberg pronounces it “grösstenteils hoffnungslos.” Thematically it seems to deal with the distribution of wealth in a ritual/martial context, and it also shows signs of lexical cohesion, esp. the hapaxes mām̐ścatvá- (52b) and mā́m̐ścatva- (54b), also vásūni (52a, 53c), and of varied formulaic repetition: ayā́pavā́pavasvainā́(52a) / enā́ pavayā́pavasva (53a). My interpr. of this tṛca, in its many obscure details and in its entirety, is very different from the standard ones. In places it pushes the morphology, syntax, and semantics perhaps further than is warranted, and it may seems at times far-fetched. But it has, I think, a richer semantics than the other accounts, and above all it deliberately avoids the refuge taken by others, to make the difficult words into proper nouns.
@@ -211,3 +272,4 @@ Gross wie des Stiers sind seine starken Keulen, bald streichelnd, bald den helle
 Он усыпил врагов и облепил (их).  
 Прочь недругов, прочь неразумных гони отсюда!
 </details>
+

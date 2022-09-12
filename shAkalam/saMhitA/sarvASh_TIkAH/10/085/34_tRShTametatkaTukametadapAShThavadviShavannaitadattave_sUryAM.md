@@ -16,14 +16,66 @@ ChandaH = "उरोबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+káṭukam ← káṭuka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tr̥ṣṭám ← tr̥ṣṭá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+apāṣṭávat ← apāṣṭávant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áttave ← √ad- (root)  
+{case:DAT, number:SG}
+
+etát ← eṣá (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+viṣávat ← viṣávant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+brahmā́ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sūryā́m ← sūryā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vidyā́t ← √vid- 2 (root)  
+{number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+arhati ← √arh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vā́dhūyam ← vā́dhūya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,3 +200,4 @@ Rauh ist dies, scharf ist dies, mit Widerhaken, mit Gift versehen, nicht zu esse
 Только тот брахман, кто знает (гимн) Сурьи,  
 Достоин брачной рубашки.
 </details>
+

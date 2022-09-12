@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bandhupŕ̥chā ← bandhupŕ̥ch- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+nā́satyā ← nā́satya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pitárā ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+aśvínoḥ ← aśvín- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+cā́ru ← cā́ru- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+nā́ma ← nā́man- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sajātyàm ← sajātyà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rayidaú ← rayidā́- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+stháḥ ← √as- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
+ádabdhā ← ádabdha- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ákavaiḥ ← ákava- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dātrám ← dātrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rakṣethe ← √rakṣⁱ- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +220,4 @@ Die biedern sind mir Aeltern, hold den Ihren, verwandt ist mir der Ritter theure
 Ведь вы двое – наши дарители богатств.  
 Вы охраняете дарение нескаредными (действиями), о не терпящие обмана!
 </details>
+

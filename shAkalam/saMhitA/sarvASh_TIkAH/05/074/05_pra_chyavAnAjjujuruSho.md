@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+cyávānāt ← cyávāna- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+jujurúṣaḥ ← √jr̥̄- ~ jūr- (root)  
+{case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+átkam ← átka- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+muñcathaḥ ← √muc- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+vavrím ← vavrí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥tháḥ ← √kr̥- (root)  
+{number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+púnar ← púnar (invariable)  
+{}
+
+yádi ← yádi (invariable)  
+{}
+
+yúvā ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+kā́mam ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥ṇve ← √r̥- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+vadhvàḥ ← vadhū́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +199,4 @@ Dem alternden Tschjavana zogt die Haut ihr ab, wie einen Rock, Und wieder jung v
 Когда вы делаете его снова молодым,  
 Он уступает желанию (своей) жены.
 </details>
+

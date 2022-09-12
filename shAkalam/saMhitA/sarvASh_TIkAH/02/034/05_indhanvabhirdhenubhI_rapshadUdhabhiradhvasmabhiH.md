@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhenúbhiḥ ← dhenú- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+índhanvabhiḥ ← índhanvan- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+rapśádūdhabhiḥ ← rapśádūdhan- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+adhvasmábhiḥ ← adhvasmán- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bhrājadr̥ṣṭayaḥ ← bhrā́jadr̥ṣṭi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+pathíbhiḥ ← pánthā- ~ path- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gantana ← √gam- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+haṁsā́saḥ ← haṁsá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+svásarāṇi ← svásara- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mádhoḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+samanyavaḥ ← sámanyu- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +183,7 @@ A more acute problem in this vs. is kṛ̥́tā (in sandhi before vowel; Pp kṛ
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md">
 <details open><summary><h2>02-05 ...{Loading}...</h2></summary>
 
 Note the concentration of pṛSIB forms: 2d pṛ́śni yāḥ, 3d prk̥ ṣám … pṛ́ṣatībhiḥ, 4a prk̥ ṣé, 4c pṛ́ṣadaśva (and scrambled -śiprā in 3c, rapśa- in 5a).
@@ -169,3 +215,4 @@ Mit flammenreichen Kühen, deren Euter strotzt, auf unbefleckten Pfaden, lanzeng
 Отправляйтесь, словно гуси – на пастбища,  
 Для опьянения медом, о Маруты единодушные!
 </details>
+

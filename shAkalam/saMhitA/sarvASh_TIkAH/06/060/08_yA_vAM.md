@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; repeated line  
 genre M;; repeated line  
 genre M
+#### Morph
+puruspŕ̥haḥ ← puruspŕ̥h- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sánti ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+niyútaḥ ← niyút- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gatam ← √gam- (root)  
+{number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+índrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +148,7 @@ come here with those, o Indra and Agni.
 I follow Geldner in construing dāśúṣe with sánti (“which are for the pious”) rather than with puruspṛ́haḥ (Renou “pour l’adorateur les très enviés”) because puruspṛ́h- doesn’t seem to appear with a dat. elsewhere. See the almost identical IV.47.4.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/08-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 8c and 9a differ minimally from each other, and it is difficult to see an aspectual (or other) distinction between root aor. impv. ā́gatam and pres. impv. ā́ gachatam -- though of course there may be a nuance we cannot catch. Note also 14b úpa gachatam and 15c ā́gatam.
@@ -145,3 +179,4 @@ Mit euren Wagenzügen eilt den vielbegehrten, Männer ihr, Dem Frommen, Indra-Ag
 О два мужа, для почитающего (вас),  
 О Индра-Агни, приезжайте на них!
 </details>
+

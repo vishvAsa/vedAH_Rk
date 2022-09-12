@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+pravátaḥ ← pravát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pūrvī́ḥ ← purú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ródhāṁsi ← ródhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jániman ← jániman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+kṣā́ḥ ← kṣám- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rejata ← √rej- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+
+r̥ṣvā́t ← r̥ṣvá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhárati ← √bhr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+góḥ ← gáv- ~ gó- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+mātárā ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+śuṣmī́ ← śuṣmín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nonuvanta ← √nu- ~ nū- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+nr̥vát ← nr̥vánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+párijman ← párijman- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vā́tāḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,3 +242,4 @@ Da er geboren, bebten Erd' und Himmel, die Wehren all und Halden vor dem hehren;
 Ведь неистовый обеих матерей уносит от быка.  
 Словно мужи, шумели ветры по всей округе.
 </details>
+

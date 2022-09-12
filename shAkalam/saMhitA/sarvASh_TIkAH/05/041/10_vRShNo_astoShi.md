@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+astoṣi ← √stu- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+bhūmyásya ← bhūmyá- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+apā́m ← áp- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+nápātam ← nápat- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvr̥ktí ← suvr̥ktí- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tritáḥ ← tritá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+etári ← etár- (nominal stem)  
+{gender:F}
+
+gr̥ṇīté ← √gr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+śūṣaíḥ ← śūṣá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+riṇāti ← √rī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śocíṣkeśaḥ ← śocíṣkeśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vánā ← vána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,3 +214,4 @@ Ich pries den Spross des erdgebornen Stieres, mit schönem Lied auch ihn, den So
 Прославляется Агни в песнях, как (конь), чтобы мчался (на состязаниях).  
 Пламенновласый уничтожает деревья.
 </details>
+

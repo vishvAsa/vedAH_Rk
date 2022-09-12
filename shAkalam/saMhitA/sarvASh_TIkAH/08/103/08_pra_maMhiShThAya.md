@@ -15,13 +15,38 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+gāyata ← √gā(y)- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+máṁhiṣṭhāya ← máṁhiṣṭha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+br̥haté ← br̥hánt- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+r̥tā́vne ← ŕ̥tāvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śukráśociṣe ← śukráśocis- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+úpastutāsaḥ ← upastutá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,3 +137,4 @@ Wohlan, besingt den gabenreichsten, heiligen, den hohen, hellerstrahlenden, Den 
 Самому щедрому, преданному закону,  
 Высокому Агни с чистым пламенем!
 </details>
+

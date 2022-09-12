@@ -15,13 +15,44 @@ ChandaH = "अनुष्टुप्पिपीलिकमध्या"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ájījanaḥ ← √janⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+pavamāna ← √pū- (root)  
+{case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+
+sū́ryam ← sū́rya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śákmanā ← śákman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vidhā́re ← vidhā́ra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+gójīrayā ← gójīra- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+púraṁdhyā ← púraṁdhi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+ráṁhamāṇaḥ ← √raṁh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,3 +158,4 @@ Du hast die Sonne jetzt erzeugt, o flammender, mit Kraft die Flut im Himmelsraum
 Чтобы распространить молоко благодаря (твоему) искусству,  
 (Ты,) спешащий вместе с Пурамдхи, вдохновляющий (на дарение) коров.
 </details>
+

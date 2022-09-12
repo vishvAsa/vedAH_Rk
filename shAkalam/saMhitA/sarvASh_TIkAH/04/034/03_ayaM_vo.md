@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+akāri ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+r̥bhavaḥ ← r̥bhú- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dadhidhvé ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:MED}
+
+manuṣvát ← manuṣvát (invariable)  
+{}
+
+pradívaḥ ← pradív- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+asthuḥ ← √sthā- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+jujuṣāṇā́saḥ ← √juṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+prá ← prá (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ábhūta ← √bhū- (root)  
+{number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
+
+agriyā́ ← agriyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vājāḥ ← vā́ja- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+víśve ← víśva- (nominal stem)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Dies Opfer ward, o Ribhu's, euch bereitet, wie ihr's von je aus Menschenhand emp
 Приблизились к вам излюбленные (соки сомы),  
 И вы, о Ваджи, все получили первое право (на нее).
 </details>
+

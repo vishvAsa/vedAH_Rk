@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ádribhiḥ ← ádri- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pavase ← √pū- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+
+pavítre ← pavítra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sutáḥ ← √su- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+āviśán ← √viś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+índo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrasya ← índra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+jaṭháreṣu ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+abhavaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+nr̥cákṣāḥ ← nr̥cákṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+vicakṣaṇa ← vicakṣaṇá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+áṅgirobhyaḥ ← áṅgiras- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+avr̥ṇoḥ ← √vr̥- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+gotrám ← gotrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sóma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +205,7 @@ The augment in (a)vṛṇoḥ is quite insecure: the Pp restores it, but it is n
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
 The tṛca seems to be characterized by augmented imperfects, though three of the five could be injunctives instead: ā́rohayaḥ [maybe] 22d, abhavaḥ 23c, avṛṇoḥ [maybe] 23d, amadan 24b, ā́bharat [maybe] 24c. It is also characterized by mythic allusions, esp. the Vala myth and the opening of the cowpen for the Aṅgirases (23d) and the stealing of soma from heaven (24c), as well as the cosmogonic act of raising the sun into heaven (22d). Both this latter deed and the opening of the Vala cave are deeds usually attributed to Indra.
@@ -185,3 +240,4 @@ Gepresst von Steinen rieselst du zur Seihe hin, um einzugehn, o Indu, in des Ind
 
 -ru-
 </details>
+

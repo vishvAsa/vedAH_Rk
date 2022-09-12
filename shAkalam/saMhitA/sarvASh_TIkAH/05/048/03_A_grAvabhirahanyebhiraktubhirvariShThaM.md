@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+ahanyèbhiḥ ← ahanyà- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+aktúbhiḥ ← aktú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+grā́vabhiḥ ← grā́van- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jigharti ← √ghr̥- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+māyíni ← māyín- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+váriṣṭham ← váriṣṭha- 1 (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+pracáran ← √carⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+áhā ← áhar ~ áhan- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+saṁvartáyantaḥ ← √vr̥t- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vartayan ← √vr̥t- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +221,6 @@ I do not understand the function of vā in c; JSK does not discuss this passage.
 As for the ca in d, I think it contrastively conjoins the preverbs sam and ví, even though the morphological formations to which these preverbs are attached are not parallel.
 </details>
 
-
 <details><summary>Griffith</summary>
 
 With pressing-stones and with the bright beams of the day he hurls his broadest bolt against the Guileful One.  
@@ -184,3 +244,4 @@ Durch Somasteine bei des Tages hellem Licht ergiesst er auf den Zauberer den sch
 У кого в собственном доме бывает сотня (жрецов?),  
 Пусть же они, свертывающие дни, развернут (их для него)!
 </details>
+

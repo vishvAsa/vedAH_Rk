@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jayúṣā ← jayúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+párvatam ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+vartíḥ ← vartís- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ápinvatam ← √pinv- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+dhenúm ← dhenú- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+śayáve ← śayú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+antár ← antár (invariable)  
+{}
+
+āsyā̀t ← āsyà- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+vártikām ← vártikā- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vŕ̥kasya ← vŕ̥ka- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+amuñcatam ← √muc- (root)  
+{number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+grasitā́m ← √gras- (root)  
+{case:ACC, gender:F, number:SG, non-finite:PPP}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+yuvám ← tvám (pronoun)  
+{case:NOM, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +225,4 @@ Zur Stätte drangt ihr siegreich durch das Felsgeklüft, dem Çaju fülltet, Rit
 Вы (своими) силами освободили из пасти  
 Самого волка (уже) проглоченную перепелку.
 </details>
+

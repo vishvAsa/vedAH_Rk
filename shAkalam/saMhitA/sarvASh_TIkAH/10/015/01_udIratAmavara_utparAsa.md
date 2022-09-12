@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ávare ← ávara- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īratām ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+párāsaḥ ← pára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+madhyamā́ḥ ← madhyamá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+somyā́saḥ ← somyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+ásum ← ásu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avr̥kā́ḥ ← avr̥ká- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+īyúḥ ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+r̥tajñā́ḥ ← r̥tajñā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+avantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+háveṣu ← háva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,3 +233,4 @@ Erheben mögen sich die ersten Väter, die letzten und die mittelsten, die fromm
 Кто, зная закон, ушел беспрепятственно ушел в жизнь духов,  
 Да помогут нам эти отцы в призывах!
 </details>
+

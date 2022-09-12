@@ -15,13 +15,50 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+karṇagŕ̥hyā ← karṇagŕ̥hya- (nominal stem)  
+{case:INS, gender:M, number:SG, non-finite:CVB}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śauradevyáḥ ← śauradevyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+anayat ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tribhyáḥ ← trí- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+vatsám ← vatsá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ajā́m ← ajā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dhā́tave ← √dhā- 2 (root)  
+{case:DAT, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+sūríḥ ← sūrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +172,4 @@ Bei den Ohren es ergreifend, führte uns dreien der Spross des Çuradeva, der re
 
 -ru-
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+dadr̥śre ← √dr̥ś- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+śŕ̥ṅgāṇi ← śŕ̥ṅga- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śr̥ṅgíṇām ← śr̥ṅgín- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+caṣā́lavantaḥ ← caṣā́lavant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pr̥thivyā́m ← pr̥thivī́- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sváravaḥ ← sváru- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+śróṣamāṇāḥ ← √śruṣ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+vā ← vā (invariable)  
+{}
+
+vāghádbhiḥ ← vāghát- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vihavé ← vihavá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+avantu ← √avⁱ- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+pr̥tanā́jyeṣu ← pr̥tanā́jya- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,3 +203,4 @@ Sie sehen aus wie Hörner der Gehörnten, die knaufgezierten Säulen auf der Erd
 Прислушиваясь к перекличке жрецов,  
 Пусть помогут они нам в состязаниях!
 </details>
+

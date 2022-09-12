@@ -16,14 +16,66 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dānā́ ← dāmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mr̥gáḥ ← mr̥gá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vāraṇáḥ ← vāraṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+carátham ← carátha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dadhe ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+gamaḥ ← √gam- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+
+nákiḥ ← nákiḥ (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+suté ← √su- (root)  
+{case:LOC, gender:M, number:SG, non-finite:PPP}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+yamat ← √yam- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+carasi ← √carⁱ- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ójasā ← ójas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,3 +213,4 @@ Zum Schmause wie ein starkes Wild nimmt hier und dort hin er den Lauf; Dich hind
 Никто тебя не удержит! Приходи к выжатому (соме)!  
 Великий, ты странствуешь со (своею) силой.
 </details>
+

@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
+#### Morph
+cakrāte ← √kr̥- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+
+nā́nā ← nā́nā (invariable)  
+{}
+
+vápūṁṣi ← vápus- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+yamyā̀ ← yamyà- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kr̥ṣṇám ← kr̥ṣṇá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rócate ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+táyoḥ ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:F, number:DU}
+
+áruṣī ← áruṣī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+svásārau ← svásar- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+śyā́vī ← śyā́vī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+asuratvám ← asuratvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ékam ← éka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mahát ← mahā́nt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Verschieden wirken die verbund'nen Schönen, die eine hell von ihnen, schwarz di
 Черная и та, что алая, – две сестры.  
 Велико могущество богов, единственно.
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+ávase ← ávas- (nominal stem)  
+{case:DAT, gender:N, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇudhvam ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+śácīvaḥ ← śácīvant- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ánānatam ← ánānata- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+damáyantam ← √damⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pr̥tanyū́n ← pr̥tanyú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+maghávānam ← maghávan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥bhukṣáṇam ← r̥bhukṣán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suvr̥ktím ← suvr̥ktí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+bhártā ← bhártar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+náryam ← nárya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+purukṣúḥ ← purukṣú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +197,4 @@ Schafft eifrig euch zur Hülfe her den Indra, den ungebeugten, der die Feinde b�
 Рибхукшаном, щедрым, прекрасно воспетым в гимнах,  
 Кто несет мужественную ваджру и владеет обильным скотом!
 </details>
+

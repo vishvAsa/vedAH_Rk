@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhehi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dráviṇāni ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śréṣṭhāni ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+cíttim ← cítti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dákṣasya ← dákṣa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+subhagatvám ← subhagatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áriṣṭim ← áriṣṭi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+póṣam ← póṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tanū́nām ← tanū́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+sudinatvám ← sudinatvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svādmā́nam ← svādmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vācáḥ ← vā́c- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +202,4 @@ Die besten Schätze reich uns dar, o Indra, des Geistes Einsicht, stetes Glück 
 Процветание богатств, невредимость (наших) тел,  
 Сладость речи, счастливое протекание дней!
 </details>
+

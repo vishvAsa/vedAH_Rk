@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+daívyā ← daívya- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+hótārā ← hótar- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+prathamā́ ← prathamá- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+suvā́cā ← suvā́c- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+mánuṣaḥ ← mánus- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+mímānā ← √mā- 1 (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:MED}
+
+yájadhyai ← √yaj- (root)  
+{case:DAT, number:SG, tense:PRS}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kārū́ ← kārú- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+pracodáyantā ← √cud- (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+
+vidátheṣu ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+diśántā ← √diś- (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+prācī́nam ← prācī́na- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+pradíśā ← pradíś- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,3 +198,4 @@ Die Götterpriester, welche herrlich singend, zuerst in Stand des Menschen, Opfe
 Два певца, вдохновляющие на жертвенных раздачах,  
 Указующие (своим) указанием свет, обращенный на восток:
 </details>
+

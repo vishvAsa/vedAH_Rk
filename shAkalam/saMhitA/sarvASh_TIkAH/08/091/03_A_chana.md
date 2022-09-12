@@ -16,14 +16,66 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+cikitsāmaḥ ← √cit- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT, mood:DES}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+imasi ← √i- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+śánais ← śánais (invariable)  
+{}
+
+śanakaís ← śanakaís (invariable)  
+{}
+
+indo ← índu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+srava ← √sru- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +208,4 @@ Wir möchten wol dich gerne schaun, doch ganz ergründen wir dich nicht; So trö
 
 -ru-
 </details>
+

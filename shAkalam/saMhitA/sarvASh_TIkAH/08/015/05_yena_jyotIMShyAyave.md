@@ -15,13 +15,47 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; 12 = 8+4
+#### Morph
+āyáve ← āyú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jyótīṁṣi ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+mánave ← mánu- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vivéditha ← √vid- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+barhíṣaḥ ← barhís- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+mandānáḥ ← √mand- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+rājasi ← √rāj- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,3 +153,4 @@ Durch welchen Licht dem Aju du und Manu zugewiesen hast; Dich freuend dieser Opf
 Свет для Аю и для Ману.  
 Опьяняясь, ты правишь этой жертвенной соломой.
 </details>
+

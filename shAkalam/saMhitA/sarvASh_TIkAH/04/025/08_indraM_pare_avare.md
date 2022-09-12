@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávare ← ávara- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+madhyamā́saḥ ← madhyamá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+páre ← pára- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ávasitāsaḥ ← √sā- ~ si- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yā́ntaḥ ← √yā- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kṣiyántaḥ ← √kṣi- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+yúdhyamānāḥ ← √yudh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+havante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājayántaḥ ← √vājay- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +200,4 @@ Ihn rufen erste, mittlere und letzte, den Indra Wandrer und die Heimgekehrten, D
 К Индре – живущие в мире и воюющие,  
 К Индре – мужи, стремящиеся к добыче.
 </details>
+

@@ -16,14 +16,60 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svardŕ̥śaḥ ← svardŕ̥ś- (nominal stem)  
+{case:GEN, number:SG}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+avīvaśat ← √vāś- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dhītím ← dhītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+r̥ṣiṣā́ṭ ← r̥ṣiṣáh- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ásireṇa ← ásira- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+mr̥jyáte ← √mr̥j- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ásamaṣṭakāvyaḥ ← ásamaṣṭakāvya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+matīnā́m ← matí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +211,4 @@ Der König aller sonnengleichen Götter flammt, der Sängerheld hat lautes Opfer
 Тот, кто начищается солнечным лучом,  
 Отец поэтических произведений с недостижимым поэтическим даром.
 </details>
+

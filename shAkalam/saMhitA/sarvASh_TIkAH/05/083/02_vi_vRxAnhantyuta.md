@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+hanti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hanti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+vr̥kṣā́n ← vr̥kṣá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+bhúvanam ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bibhāya ← √bhī- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mahā́vadhāt ← mahā́vadha- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+víśvam ← víśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ánāgāḥ ← ánāgas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īṣate ← √īṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+utá ← utá (invariable)  
+{}
+
+vŕ̥ṣṇyāvataḥ ← vŕ̥ṣṇyāvant- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+duṣkŕ̥taḥ ← duṣkŕ̥t- (nominal stem)  
+{}
+
+hánti ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+parjányaḥ ← parjánya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+stanáyan ← √stanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,3 +234,4 @@ Er fäll't die Bäume, fäll't die Nachtgespenster auch; das Weltall bebt vor ih
 Даже невинный сторонится мощного, как бык,  
 Когда Парджанья, гремя, убивает злодеев.
 </details>
+

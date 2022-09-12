@@ -16,14 +16,57 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+tárobhiḥ ← táras- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vidádvasum ← vidádvasu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índram ← índra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sabā́dhaḥ ← sabā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ūtáye ← ūtí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gā́yantaḥ ← √gā(y)- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+sutásome ← sutásoma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bháram ← bhára- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+huvé ← √hū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+kāríṇam ← kārín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +180,4 @@ Mit Ernst und Eifer singend laut, ruft euren Gutvertheiler an, Um Hülfe Indra b
 Громко распевая на обряде при выжатом соме,  
 Я зову (его) как приветствующего захват.
 </details>
+

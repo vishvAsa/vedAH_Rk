@@ -15,13 +15,53 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ádha ← ádha (invariable)  
+{}
+
+girvaṇaḥ ← gírvaṇas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kā́mān ← kā́ma- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+maháḥ ← máh- (nominal stem)  
+{}
+
+sasr̥jmáhe ← √sr̥j- (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:MED}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+udā́ ← úd- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+udábhiḥ ← udán- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+yántaḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +180,4 @@ Denn so, o Indra, haben wir ergossen grosse Wünsche dir, In Wogen wallend wie m
 Мы излили на тебя (наши) великие желания,  
 Как (Маруты,) приезжающие с водой, – воду.
 </details>
+

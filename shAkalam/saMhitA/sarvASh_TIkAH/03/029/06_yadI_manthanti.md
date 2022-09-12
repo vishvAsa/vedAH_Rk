@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+bāhúbhiḥ ← bāhú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+mánthanti ← √manthⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rocate ← √ruc- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+yádi ← yádi (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+aruṣáḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áśvaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váneṣu ← vána- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+ánivr̥taḥ ← ánivr̥ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aśvínoḥ ← aśvín- (nominal stem)  
+{case:GEN, gender:M, number:DU}
+
+citráḥ ← citrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yā́man ← yā́man- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+áśmanaḥ ← áśman- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dáhan ← √dah- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+tŕ̥ṇā ← tŕ̥ṇa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vr̥ṇakti ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +237,4 @@ Wenn sie mit den Armen reiben, so erglänzt er hell in den Hölzern, wie ein ras
 Безудержный, как яркая (колесница) Ашвинов в движении,  
 Щадит он (только) камни, сжигая травы.
 </details>
+

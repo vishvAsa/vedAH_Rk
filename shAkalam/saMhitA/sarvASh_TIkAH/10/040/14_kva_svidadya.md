@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+adyá ← adyá (invariable)  
+{}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+katamā́su ← katamá- (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+kvà ← kvà (invariable)  
+{}
+
+svit ← svit (invariable)  
+{}
+
+dasrā́ ← dasrá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+mādayete ← √mad- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+pátī ← páti- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+śubháḥ ← śúbh- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+vikṣú ← víś- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+īm ← īm (invariable)  
+{}
+
+jagmatuḥ ← √gam- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+katamásya ← katamá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+yeme ← √yam- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
+gr̥hám ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+víprasya ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+yájamānasya ← √yaj- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +227,4 @@ Wo und in welchen Häusern erfreuen sich heute doch die wunderthätigen Açvinen
 Кто удержал их у себя? В дом какого  
 Вдохновенного (певца) или жертвователя они отправились?
 </details>
+

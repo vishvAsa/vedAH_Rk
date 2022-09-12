@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ámr̥tyavaḥ ← ámr̥tyu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ketávaḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ádābhyāsaḥ ← ádābhya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ánu ← ánu (invariable)  
+{}
+
+janúṣī ← janúṣ- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+ubhé ← ubhá- (pronoun)  
+{case:ACC, gender:N, number:DU}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+devyā̀ ← devyà- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+nr̥mṇā́ ← nr̥mṇá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+punaté ← √pū- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+agr̥bhṇata ← √gr̥bhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+ā́t ← ā́t (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+manánāḥ ← manána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rā́jānam ← rā́jan- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,3 +228,4 @@ Es mögen seine Strahlen unvertilgbar sein, unsterblich in der Götter und der M
 (Лучи), которыми очищаются силы мужества (людей) и богов.  
 И вот тогда размышляющие захватили царя.
 </details>
+

@@ -16,14 +16,45 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ándhasaḥ ← ándhas- 2 (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+purójitī ← purójiti- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+mādayitnáve ← mādayitnú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sutā́ya ← √su- (root)  
+{case:DAT, gender:M, number:SG, non-finite:PPP}
+
+ápa ← ápa (invariable)  
+{}
+
+śnathiṣṭana ← √śnathⁱ- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+śvā́nam ← śván- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dīrghajihvyàm ← dīrghajihvyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,7 +137,7 @@ Whether the long-tongued demoness of prose is identical with or was inspired by 
 Unfortunately nothing in the prose narratives provides any help in interpreting our vs., esp. the hapax cmpd. purójiti-. Both Geldner and Renou take the instr. purójitī as expressing purpose: “auf dass euer Trank zuvörderst siege”; “afin qu'il y ait victoire de votre jus.” I do not understand the case syntax of this (instr. of purpose?), esp. as the standard dative of purpose appears in the next pāda (sutā́ya mādayitnáve), and, with the omission of vaḥ, a similar dat. *purojitáye would have fit this vs. line. Oldenberg takes the instr. seriously and construes ándhasaḥ with sutā́ya, which is certainly possible: “Durch euren vor (in lokalem Sinn) ihm gewonnenen (und ihn so beschützenden) Sieg schlagt dem berauschenden Saft des ándhas den langzüngigen Hund, ihr Freunde, hinweg.” My own interpr. instead takes ándhasaḥ with purójitī: the “advance victory over the stalk” is by this interpr. the priests’ initial victory over the stalk, by pressing it for its juice, leaving it mangled and spent. This initial victory may provide the model for the violence against the encroaching dog. But I am not at all certain of this interpr.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 There is no particular unity visible in this tṛca, and vs. 1 in particular stands apart from the rest.
@@ -138,3 +169,4 @@ Durch eures Trankes Vorgenuss vertreibet, o Gefährten ihr, Von dem berauschende
 Прогоните прочь пса  
 С длинным языком, о друзья!
 </details>
+

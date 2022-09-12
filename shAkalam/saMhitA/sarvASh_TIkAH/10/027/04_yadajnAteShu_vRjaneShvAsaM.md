@@ -16,14 +16,78 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ájñāteṣu ← ájñāta- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ā́sam ← √as- 1 (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+vr̥jáneṣu ← vr̥jána- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+āsan ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+maghávānaḥ ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+satáḥ ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+víśve ← víśva- (nominal stem)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ābhúm ← ābhú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+jinā́mi ← √jyā- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+kṣéme ← kṣéma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+kṣiṇām ← √kṣī- (root)  
+{number:SG, person:1, mood:INJ, tense:PRS, voice:ACT}
+
+pādagŕ̥hya ← pādagŕ̥hya (invariable)  
+{non-finite:CVB}
+
+párvate ← párvata- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +233,4 @@ Nur wenn ich noch in fremden Fernen weile, sind sie bereit viel Gutes mir zu sch
 
 -ru-
 </details>
+

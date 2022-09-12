@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+kṣódasā ← kṣódas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+síndhavaḥ ← síndhu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tatr̥dānā́ḥ ← √tr̥d- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+dhenávaḥ ← dhenú- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+sasruḥ ← √sr̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yathā ← yathā (invariable)  
+{}
+
+ádhvanaḥ ← ádhvan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+syannā́ḥ ← √syand- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+vimócane ← vimócana- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+enyàḥ ← éta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+vártante ← √vr̥t- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Die Ströme, die mit Fluten drangen durch die Luft, ergossen sich den Kühen gle
 Словно бегущие кони, когда возвращаются  
 Антилопы для выпрягания (в конце) пути.
 </details>
+

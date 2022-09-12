@@ -16,14 +16,57 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line
+#### Morph
+iva ← iva (invariable)  
+{}
+
+sárgān ← sárga- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sr̥jatam ← √sr̥j- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+suṣṭutī́ḥ ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+úpa ← úpa (invariable)  
+{}
+
+madacyutā ← madacyút- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+sunvatáḥ ← √su- (root)  
+{case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+
+śyāvā́śvasya ← śyāvā́śva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+sajóṣasau ← sajóṣas- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+uṣásā ← uṣás- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+áśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+tiróahnyam ← tiróahnya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,3 +183,4 @@ Wie Ströme giesst die Lobgesänge euch hinein des Somapressers Çjāvaaçva, tr
 Единодушные с Ушас и Сурьей,  
 (Пейте сому,) (бродящего) вторые сутки, о Ашвины!
 </details>
+

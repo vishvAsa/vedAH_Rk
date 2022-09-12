@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+rī́ṣataḥ ← √riṣ- (root)  
+{case:ABL, gender:M, number:SG, tense:AOR, voice:ACT}
+
+sma ← sma (invariable)  
+{}
+
+bhindhí ← √bhid- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dvéṣaḥ ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sahaskr̥ta ← sáhaskr̥ta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +148,7 @@ With Geldner I supply daha in b, with the preverb práti, since práti is not ot
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/044/10-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/044/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 The contents of the imploring mentioned in 10c seems to be given in direct speech in 11.
@@ -142,3 +179,4 @@ Behüte du, o Agni, uns, o Gott, vor dem Beschädiger, Den Feind zerspalte, kraf
 От(брось) же, о бог, тех, кто (нам) вредит!  
 Проломи враждебность, о созданный силой!
 </details>
+

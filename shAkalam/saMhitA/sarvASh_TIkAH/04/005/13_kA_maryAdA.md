@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ha ← ha (invariable)  
+{}
+
+kā́ ← ká- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+maryā́dā ← maryā́dā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vayúnā ← vayúna- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+ácha ← ácha (invariable)  
+{}
+
+gamema ← √gam- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+raghávaḥ ← raghú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+kadā́ ← kadā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pátnīḥ ← pátnī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sū́raḥ ← svàr- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+tatanan ← √tan- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRF, voice:ACT}
+
+uṣā́saḥ ← uṣás- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+várṇena ← várṇa- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,3 +233,4 @@ Was ist das Merkmal, Zeichen, was der Kampfpreis? lasst hin uns gehn wie Renner 
 Когда божественные жены бессмертия,  
 Утренние зори, протянут к нам (лучи) цвета солнца?
 </details>
+

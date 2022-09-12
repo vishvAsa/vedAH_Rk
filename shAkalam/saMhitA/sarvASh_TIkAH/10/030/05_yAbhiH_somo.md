@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ca ← ca (invariable)  
+{}
+
+hárṣate ← √hr̥ṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+módate ← √mud- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+kalyāṇī́bhiḥ ← kalyā́ṇa- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+máryaḥ ← márya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+yuvatíbhiḥ ← yuvatí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+ácha ← ácha (invariable)  
+{}
+
+adhvaryo ← adhvaryú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+párā ← párā (invariable)  
+{}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+āsiñcā́ḥ ← √sic- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+óṣadhībhiḥ ← óṣadhī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+punītāt ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +209,4 @@ An denen Soma sich erfreut und letzet, gleichwie der Jüngling an den schönen J
 Отправляйся к эти водам, адхварью!  
 Когда ты нальешь (их), очисть их растениями!
 </details>
+

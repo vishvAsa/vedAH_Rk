@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dhartā́rā ← dhartár- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+rájasaḥ ← rájas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+rocanásya ← rocaná- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+ādityā́ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+divyā́ ← divyá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+pā́rthivasya ← pā́rthiva- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+amŕ̥tāḥ ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+minanti ← √mī- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+dhruvā́ṇi ← dhruvá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +202,4 @@ Die ihr des Aethers und des Luftraums Träger des Erdraums seid, o himmlische Ad
 Бессмертные боги не нарушают ваших  
 Твердых заветов, о Митра-Варуна.
 </details>
+

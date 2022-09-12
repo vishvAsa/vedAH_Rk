@@ -14,12 +14,43 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+bhúvanā ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+imā́ ← ayám (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+kam ← kam (invariable)  
+{}
+
+nú ← nú (invariable)  
+{}
+
+sīṣadhāma ← √sādh- ~ sidh- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,3 +142,4 @@ Last uns mit Indra und den Göttern allen nun diese Welten recht zum Heile förd
 Вот эти существа мы хотим привести прямо к цел,  
 И Индра, и Все-Боги (с нами).
 </details>
+

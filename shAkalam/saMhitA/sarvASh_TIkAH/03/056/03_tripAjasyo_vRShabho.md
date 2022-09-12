@@ -16,14 +16,57 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+tripājasyáḥ ← tripājasyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvárūpaḥ ← viśvárūpa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prajā́vān ← prajā́vant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+purudhá ← purudhá (invariable)  
+{}
+
+tryudhā́ ← tryudhán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+mā́hināvān ← mā́hināvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+patyate ← √pat- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+tryanīkáḥ ← tryanīká- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+retodhā́ḥ ← retodhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śáśvatīnām ← śáśvant- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,3 +212,4 @@ Drei Bäuche hat der Stier, der allgestalt'ge, drei Brüste hier und dort der ki
 Трехликий, правит он, великолепный.  
 Этот бык-оплодотворитель нескончаемых (коров).
 </details>
+

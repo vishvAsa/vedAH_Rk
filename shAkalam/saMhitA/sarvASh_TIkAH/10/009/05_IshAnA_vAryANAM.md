@@ -15,13 +15,35 @@ ChandaH = "वर्धमाना"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ī́śānāḥ ← √īś- (root)  
+{case:ACC, gender:F, number:PL, voice:MED}
+
+vā́ryāṇām ← vā́rya- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+kṣáyantīḥ ← √kṣā- 2 (root)  
+{case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+bheṣajám ← bheṣajá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yācāmi ← √yāc- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,3 +130,4 @@ Die herrschen über schönes Gut, gebieten über alles Volk, Sie fleh' um Arzene
 Повелевающие народами  
 Воды прошу я об (их) целебном средстве.
 </details>
+

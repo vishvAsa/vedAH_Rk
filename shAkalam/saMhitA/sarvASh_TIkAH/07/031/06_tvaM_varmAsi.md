@@ -15,13 +15,47 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+#### Morph
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+sapráthaḥ ← sapráthas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+várma ← várman- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+puroyodháḥ ← puroyodhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vr̥trahan ← vr̥trahán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bruve ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+tváyā ← tvám (pronoun)  
+{case:INS, number:SG}
+
+yujā́ ← yúj- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,7 +141,7 @@ You are armor of broad extent and a fighter in the front, o Vr̥tra-smasher. Wit
 On the basis of VIII.92.32 tváyéd indra yujā́vayám, práti bruvīmahi spṛ́dhaḥ “With you as yokemate, we would respond to the challengers,” I supply ‘challenger’ here.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/06-07.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 Again there is responsion across the tṛca boundary: 7a mahām̐utā́si echoes 6a tvám vármāsi.
@@ -137,3 +171,4 @@ Du bist ein weiter Panzer uns, und Führer, der du Feinde schlägst; Zu dir, dem
 И передовой боец, о убийца Вритры.  
 С тобой как с союзником я защищаюсь.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvāsaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥ṣabhā́saḥ ← r̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ukṣáṇaḥ ← ukṣán- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yásmin ← yá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+ā́hutāḥ ← √hu- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+avasr̥ṣṭā́saḥ ← √sr̥j- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+meṣā́ḥ ← meṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vaśā́ḥ ← vaśā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+kīlālapé ← kīlālapā́- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+sómapr̥ṣṭhāya ← sómapr̥ṣṭha- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vedháse ← vedhás- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+agnáye ← agní- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cā́rum ← cā́ru- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+janaye ← √janⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+matím ← matí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +209,4 @@ Zu welchem Rosse, Stiere, Ochsen, Kühe auch und Widder man entsendet und als Op
 В пьющего сладкий напиток, для (этого) устроителя обряда, с сомой на спине,  
 В сердце я порождаю молитву, приятную для Агни.
 </details>
+

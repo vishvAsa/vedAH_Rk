@@ -16,14 +16,60 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sūryā́ ← sūryā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+raghuṣyádam ← raghuṣyád- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sádā ← sádā (invariable)  
+{}
+
+tíṣṭhat ← √sthā- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+aruṣā́ḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+váyaḥ ← ví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ātápaḥ ← ātáp- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+ghr̥ṇā́ḥ ← ghr̥ṇá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+varante ← √vr̥- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,3 +190,4 @@ Als euren Wagen Suria bestieg, der stets in Eile fliegt, Da wehrten ab die heiss
 Ваши алые птицы (-кони)  
 Отвращали солнечный зной, чтобы не сгореть.
 </details>
+

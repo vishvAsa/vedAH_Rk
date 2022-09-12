@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+abhūvan ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+míhaḥ ← míh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pāvakā́ḥ ← pāvaká- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prátatāḥ ← √tan- (root)  
+{case:NOM, gender:F, number:PL, non-finite:PPP}
+
+āsām ← ayám (pronoun)  
+{case:GEN, gender:F, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pārám ← pārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pipr̥hi ← √pr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāhi ← √pā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+rathiráḥ ← rathirá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+riṣáḥ ← ríṣ- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+gojítaḥ ← gojít- (nominal stem)  
+{case:ACC, number:PL}
+
+kr̥ṇuhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+makṣū́-makṣu ← makṣú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +215,7 @@ The mists are probably in part metaphorical -- menacing threats and mental darkn
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/031/19-20.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/031/19-20.md">
 <details open><summary><h2>19-20 ...{Loading}...</h2></summary>
 
 Note the echo of 19d #s ú vaś ca naḥ in 20b s u vastí naḥ.
@@ -189,3 +247,4 @@ Viele schwüle Nebel waren ausgebreitet, führe uns durch sie hindurch zum Heile
 О Индра, ты, колесничий, сохрани нас от повреждения!  
 Как можно скорей сделай нас захватчиками коров!
 </details>
+

@@ -16,14 +16,57 @@ ChandaH = "न्यङ्कुसारिणी"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+dyaúḥ ← dyú- ~ div- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gūrtā́vasuḥ ← gūrtā́vasu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ījānám ← √yaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+ít ← ít (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+bhū́miḥ ← bhū́mi- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ījānám ← √yaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+prabhūṣáṇi ← √bhū- (root)  
+{case:LOC, number:SG}
+
+aśvínau ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+devaú ← devá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ījānám ← √yaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+
+abhí ← abhí (invariable)  
+{}
+
+avardhatām ← √vr̥dh- (root)  
+{number:DU, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+sumnaíḥ ← sumná- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +180,4 @@ Dem Opferer möge der an willkommenen Gütern reiche Himmel, dem Opferer die Erd
 Жертвователя пусть два бога Ашвина  
 Приведут к процветанию (своими) милостями!
 </details>
+

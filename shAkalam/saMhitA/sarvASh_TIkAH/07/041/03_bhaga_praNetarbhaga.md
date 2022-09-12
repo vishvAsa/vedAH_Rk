@@ -16,14 +16,81 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhága ← bhága- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhága ← bhága- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+práṇetar ← praṇetár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sátyarādhaḥ ← satyárādhas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ava ← √avⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+bhága ← bhága- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dádat ← √dā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dhíyam ← dhī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+imā́m ← ayám (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+út ← út (invariable)  
+{}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bhága ← bhága- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+janaya ← √janⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+bhága ← bhága- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+nŕ̥bhiḥ ← nár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+nr̥vántaḥ ← nr̥vánt- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +235,7 @@ Bhaga, propagate us with cows and horses; Bhaga, might we, possessed  of superio
 Although the prātár of vs. 1 and 2a has disappeared, this vs. seems to contain a reminiscence of it: 1c #prātár bhágam is echoed by 3a #bhága prá(ṇe)tar (in opposite order), and pādas c and d then pick up prá ṇ(etar) of 3a in #bhága prá ṇo and #bhága prá nṛ́bhiḥ (latter without retroflexion). This is hardly the most sophisticated effect in Rigvedic poetry, but it is an illustration of the subtle concatenative effects that can provide unity and a throughline in even the most banal (as this hymn mostly is) composition.
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md">
 <details open><summary><h2>03-05 ...{Loading}...</h2></summary>
 
 The concatenation continues in the next vss. The ending of vs. 3, … nṛvántaḥ syāma, echoes in the following two vss. The 1st pl. opt. syāma is repeated at the end of 4a and d and 5b, while the -vant-stem adj. shifts from nṛvántaḥ (3d) to another punning bhágavantaḥ (both ‘possessing a portion’ and ‘accompanied by Bhaga’) in bhágavantaḥ syāma (4a, 5b; cf. bhágavān 5a). And bhágavān in 5a matches maghavan in the same metrical position in 4c.
@@ -200,3 +267,4 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 О Бхага, обогати нас коровами (и) конями!  
 О Бхага, пусть мы, богатые мужами, выделяемся мужами!
 </details>
+

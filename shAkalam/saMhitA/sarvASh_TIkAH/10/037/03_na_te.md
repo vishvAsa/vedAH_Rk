@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ádevaḥ ← ádeva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+pradívaḥ ← pradív- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vāsate ← √vās- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+etaśébhiḥ ← étaśa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pataraíḥ ← patará- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ratharyási ← √rathary- (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánu ← ánu (invariable)  
+{}
+
+anyát ← anyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prācī́nam ← prācī́na- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rájaḥ ← rájas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vartate ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+anyéna ← anyá- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+jyótiṣā ← jyótis- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sūrya ← sū́rya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+yāsi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +234,4 @@ Von jeher hält dir nie ein Götterhasser Stand, wenn du mit den beschwingten bu
 Одна (твоя) сторона, обращена к востоку, вращается по темному пространству;  
 Благодаря другой ты восходишь со (своим) светом.
 </details>
+

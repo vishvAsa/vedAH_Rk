@@ -16,14 +16,84 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+dyumnám ← dyumná- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+tvā́vataḥ ← tvā́vant- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+u ← u (invariable)  
+{}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agan ← √gam- (root)  
+{number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+karase ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:AOR, voice:MED}
+
+kát ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+káyā ← ká- (pronoun)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+bhr̥tyaí ← bhr̥tí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+mitráḥ ← mitrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+satyáḥ ← satyá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urugāya ← urugāyá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ánne ← ánna- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ásan ← √as- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+manīṣā́ḥ ← manīṣā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+samasya ← sama- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +249,4 @@ Wann wirst du Glanz verschaffen deinen Dienern? durch welch Gebet? wann wirst du
 Как истинный друг, о широкошагающий, для питания,  
 Потому что молитва каждого будет устремлена к еде?
 </details>
+

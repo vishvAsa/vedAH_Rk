@@ -16,14 +16,60 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ácha ← ácha (invariable)  
+{}
+
+br̥hatī́ ← br̥hánt- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+manīṣā́ ← manīṣā́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vāyúm ← vāyú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+br̥hádrayim ← br̥hádrayi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rathaprā́m ← rathaprā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvávāram ← viśvávāra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dyutádyāmā ← dyutádyāman- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+niyútaḥ ← niyút- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pátyamānaḥ ← √pat- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+iyakṣasi ← √naś- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT, mood:DES}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kavím ← kaví- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prayajyo ← práyajyu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,3 +209,4 @@ Hin zu dem Vaju dring das grosse Preislied, der reich an allen Gütern vollen Wa
 Со сверкающим выездом, владеющий упряжками  
 Поэт, ты хочешь почтить поэта, о получающий жертву сначала.
 </details>
+

@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sváśvāḥ ← sváśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vājáyantaḥ ← √vājay- 1 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+havante ← √hū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mā́m ← ahám (pronoun)  
+{case:ACC, number:SG}
+
+samáraṇe ← samáraṇa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vr̥tā́ḥ ← √vr̥- ~ vr̥̄- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ājím ← ājí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kr̥ṇómi ← √kr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+maghávā ← maghávan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+abhíbhūtyojāḥ ← abhíbhūtyojas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+íyarmi ← √r̥- 1 (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+reṇúm ← reṇú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,3 +209,4 @@ Mich rufen die Männer, die gut zu Roß wettfahren, an, mich, wenn sie in der Sc
 Я устраиваю состязание, я, щедрый Индра.  
 Обладая превосходящей силой, я вздымаю пыль.
 </details>
+

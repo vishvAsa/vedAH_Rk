@@ -16,14 +16,75 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+paraśóḥ ← paraśú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+práti ← práti (invariable)  
+{}
+
+rītím ← rītí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+tā́m ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:F, number:SG}
+
+akhyam ← √khyā- (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+
+ánīkam ← ánīka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+bhujé ← bhúj- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+várpasaḥ ← várpas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+kṣáyam ← kṣáya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pitumántam ← pitumánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sácā ← sácā (invariable)  
+{}
+
+yádi ← yádi (invariable)  
+{}
+
+bhárahūtaye ← bhárahūti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+dádhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rátnam ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+viśé ← víś- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,3 +240,4 @@ Sein Schwingen wie das eines Beiles nahm ich wahr, mich zu erfreu'n am Anblick s
 Когда при этом в ответ на воинственный клич он наделяет  
 Племя сокровищем, подобным жилищу, полному пищи.
 </details>
+

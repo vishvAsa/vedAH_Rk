@@ -16,14 +16,69 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular;; epic anuṣṭubh (424);; repeated line  
 popular;; epic anuṣṭubh (424);; repeated line  
 popular;; epic anuṣṭubh (424);; repeated line  
 popular;; epic anuṣṭubh (424);; repeated line
+#### Morph
+āpaḥ ← áp- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+idám ← ayám (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vahata ← √vah- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+duritám ← duritá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+máyi ← ahám (pronoun)  
+{case:LOC, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+abhidudróha ← √druh- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ánr̥tam ← ánr̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śepé ← √śap- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,3 +204,4 @@ O Wasser, traget alles fort, was irgend Unrecht ist an mir, Was andern Uebles ic
 Если я обманул  
 Или если проклял, и (всю) неправду!
 </details>
+

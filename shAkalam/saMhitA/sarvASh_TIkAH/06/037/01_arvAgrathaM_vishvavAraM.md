@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+arvā́k ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rátham ← rátha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ugra ← ugrá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+viśvávāram ← viśvávāra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hárayaḥ ← hári- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vahantu ← √vah- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yuktā́saḥ ← √yuj- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+cit ← cit (invariable)  
+{}
+
+hávate ← √hū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+hí ← hí (invariable)  
+{}
+
+kīríḥ ← kīrí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svàrvān ← svàrvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+r̥dhīmáhi ← √r̥dh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+sadhamā́daḥ ← sadhamád- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +205,7 @@ for even the weakling calls upon you, (as well as the man) of solar glory.  Migh
 I take svàrvān as implicitly conjoined with kīríḥ, with the pair displaying the range of mortals who call upon Indra. This is one of Oldenberg’s suggestions; alternatively he suggests that it is proleptic, but this seems overly complex — though it seems to underlie Geldner’s interpr.: “denn auch die Arme ruft dich erleuchtet.”
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/037/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/037/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 On the shift in referent between the hárayaḥ in 1b (Indra’s horses) and the one in 2a (soma drops) see published introduction.
@@ -179,3 +237,4 @@ Lass, mächt'ger Indra, die geschirrten Füchse herfahren deinen reichbeladnen W
 Ведь даже совсем малый зовет тебя, озаренный светом!  
 Мы хотим процветать сегодня как твои сотрапезники.
 </details>
+

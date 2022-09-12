@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+haṁsaíḥ ← haṁsá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+iva ← iva (invariable)  
+{}
+
+sákhibhiḥ ← sákhi- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vā́vadadbhiḥ ← √vadⁱ- (root)  
+{case:INS, gender:M, number:PL, tense:PRS, voice:ACT}
+
+aśmanmáyāni ← aśmanmáya- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+náhanā ← náhana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+vyásyan ← √as- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+abhikánikradat ← √krand- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+gā́ḥ ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+agāyat ← √gā(y)- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+astaut ← √stu- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ca ← ca (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+út ← út (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +203,4 @@ Begleitet wie von Gänsen, von den lautsingenden Genossen, zersprengend die stei
 Брихаспати, мощно ревя навстречу коровам,  
 Задал тон и запел как знаток.
 </details>
+

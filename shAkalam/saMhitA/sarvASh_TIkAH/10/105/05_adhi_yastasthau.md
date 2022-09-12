@@ -15,13 +15,44 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
+#### Morph
+ádhi ← ádhi (invariable)  
+{}
+
+kéśavantā ← kéśavant- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+tasthaú ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+puṣṭyaí ← puṣṭí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+vyácasvantā ← vyácasvant- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+śíprābhyām ← śíprā- (nominal stem)  
+{case:INS, gender:F, number:DU}
+
+śipríṇīvān ← śipríṇīvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vanóti ← √vanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,3 +146,4 @@ Er, welcher die beiden mähnigen Rosse bestieg, die sich gleichsam ausdehnten, u
 Словно потянувшихся за кормом,  
 (Тот,) прекрасногубый, двумя губами стремится ( к соме).
 </details>
+

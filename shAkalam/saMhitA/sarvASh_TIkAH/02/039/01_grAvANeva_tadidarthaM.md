@@ -16,14 +16,75 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre D  
 genre D  
 genre D  
 genre D
+#### Morph
+ártham ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+grā́vāṇā ← grā́van- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+ít ← ít (invariable)  
+{}
+
+iva ← iva (invariable)  
+{}
+
+jarethe ← √gr̥- (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+gŕ̥dhrā ← gŕ̥dhra- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+nidhimántam ← nidhimánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥kṣám ← vr̥kṣá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+brahmā́ṇā ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+ukthaśā́sā ← ukthaśás- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+vidáthe ← vidátha- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+dūtā́ ← dūtá- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+hávyā ← hávya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+iva ← iva (invariable)  
+{}
+
+jányā ← jánya- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+purutrā́ ← purutrā́ (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,3 +231,4 @@ Wie zwei Presssteine eilt zu diesem Ziele, wie zwei Geier zu dem nestbegabten Ba
 Словно два брахмана, произносящие гимны во время обряда,  
 Вы должны призываться во многих местах, как два вестника, (ходящие) среди людей.
 </details>
+

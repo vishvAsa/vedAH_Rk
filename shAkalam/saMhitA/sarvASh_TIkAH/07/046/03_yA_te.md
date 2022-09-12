@@ -16,14 +16,78 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ávasr̥ṣṭā ← √sr̥j- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+didyút ← didyút- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́ ← yá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+cárati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kṣmayā́ ← kṣám- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+sā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+vr̥ṇaktu ← √vr̥j- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+bheṣajā́ ← bheṣajá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svapivāta ← svapivāta- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rīriṣaḥ ← √riṣ- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+tánayeṣu ← tánaya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+tokéṣu ← toká- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +217,7 @@ My tr. “o you who are our familiar” does not represent the su-, but it is di
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/02-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
 The final pādas of both vss. are semantic variants of each other: “don’t hurt our children.” In 2d the negative is expressed by the privative on the adj.
@@ -187,3 +251,4 @@ Der Blitz, den du vom Himmel niederstürzen lässt, der auf die Erde dringet, de
 Тысяча у тебя целебных средств, о (ты,) прекрасно навевающий (жизнь)!  
 Не повреди нас в продолжении рода!
 </details>
+

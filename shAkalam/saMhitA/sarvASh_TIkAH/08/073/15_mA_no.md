@@ -15,13 +15,50 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+#### Morph
+áśvyaiḥ ← áśvya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+gávyebhiḥ ← gávya- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+mā́ ← mā́ (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+khyatam ← √khyā- (root)  
+{number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+sahásrebhiḥ ← sahásra- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+ánti ← ánti (invariable)  
+{}
+
+ávaḥ ← ávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhūtu ← √bhū- (root)  
+{number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
+
+sát ← √as- 1 (root)  
+{case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,3 +168,4 @@ Mit tausend Gaben, die ihr schenkt an Rind und Ross, versäumt es nicht; Es sei 
 С тысячами коров (и) коней!  
 Пусть ваша помощь будет рядом!
 </details>
+

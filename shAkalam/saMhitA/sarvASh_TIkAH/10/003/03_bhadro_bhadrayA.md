@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+bhadráḥ ← bhadrá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhadráyā ← bhadrá- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+sácamānaḥ ← √sac- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+abhí ← abhí (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jāráḥ ← jārá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+paścā́t ← paścā́t (invariable)  
+{}
+
+svásāram ← svásar- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyúbhiḥ ← dyú- ~ div- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+supraketaíḥ ← supraketá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+vitíṣṭhan ← √sthā- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+asthāt ← √sthā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+rāmám ← rāmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rúśadbhiḥ ← rúśant- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+várṇaiḥ ← várṇa- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Jetzt kam der schöne zu der schönen eilend, er geht der Spur der Schwester nac
 Распространяясь вместе с прекрасно выглядящими днями, Агни  
 (Своими) светлыми красками одолел темноту.
 </details>
+

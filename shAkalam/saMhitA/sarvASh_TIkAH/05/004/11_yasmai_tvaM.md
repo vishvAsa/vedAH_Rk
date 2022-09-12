@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sukŕ̥te ← sukŕ̥t- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+yásmai ← yá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥ṇávaḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+syonám ← syoná- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ulokám ← uloká- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśvínam ← aśvín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+putríṇam ← putrín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vīrávantam ← vīrávant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gómantam ← gómant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naśate ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,12 +175,10 @@ genre M
 हे **जातवेदः** **अग्ने** **त्वं** **यस्मै** **सुकृते** सुकर्मणे यजमानाय । **उ** इति पूरणः । **लोकं** **स्योनं** सुखकरं **कृणवः** अकरोः । यद्वा । लोकमालोकेन स्योनं कृणवः अनुग्रहेण कुर्वित्यर्थः । **सः** यजमान: **अश्विनं** बह्वश्वोपेतं **पुत्रिणं** बहुपुत्रोपेतं **वीरवन्तं** वीरैर्वीर्येण वा उपेतं **गोमन्तं** गोभिर्युक्तं **रयिं** धनं **नशते** प्राप्नोति । **स्वस्ति** अविनश्वरम् ॥ ॥ १९ ॥
 </details>
 
-
 <details><summary>भट्टभास्करटीका</summary>
 
 वीरवन्तमिति तृतीयपादान्तः ॥ हे अग्ने जातवेदः यस्मै सुकृते शोभनानि कर्माणि कृतवते । उ इत्यवधारणे । (यस्त्वा समिष्टयजूंषि 'उकाररूपः प्लुत उदात्तः' इत्युदात्तः प्लुतः ।) यस्मा एव यदर्थमेव स्योनं सुखं लोकं स्थानं कृणवः कुर्याः । कृवि हिंसाकरणयोः, लेट्, 'धिन्विकृण्व्योर च' इत्युप्रत्ययः, 'लेटोडाटौ' इत्यडागमः । स एव अश्वादिसहितं रयिं धनं स्वस्ति अविच्छेदेन नशते प्राप्नोति । नशतिर्गतिकर्मा । स एव त्वत्प्रसादाद्बह्वश्वो भवति, अश्वपुत्रपौत्रादिमांश्च भवति, अन्यैश्च विक्रान्तैः पुरुषैस्तद्वान् भवति, गोमहिष्यादिसङ्घातस्वामी महाधनश्च भवतीति ॥
 </details>
-
 
 <details><summary>हरदत्तः</summary>
 
@@ -171,7 +218,6 @@ Shall win prosperity and wealth,
 Rich in sons, in heroes, in kine.
 </details>
 
-
 <details><summary>Geldner</summary>
 
 Der Fromme, dem du, Agni Jatavedas, seinen Platz angenehm machen willst, der kommt glücklich zu einem Schatz von Rossen, Söhnen, Mannen, Rindern.
@@ -189,3 +235,4 @@ O Wesenkenner, welchem frommen Manne du Raum verschaffst und Lust gewährst, o A
 Он достигнет богатства, состоящего из коней,  
 Из сыновей, из героев – на счастье.
 </details>
+

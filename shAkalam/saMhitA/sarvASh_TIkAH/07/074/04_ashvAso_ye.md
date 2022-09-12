@@ -16,14 +16,66 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+áśvāsaḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dāśúṣaḥ ← dāśváṁs- (nominal stem)  
+{case:GEN, number:SG}
+
+gr̥hám ← gr̥há- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úpa ← úpa (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+yé ← yá- (pronoun)  
+{}
+
+bíbhrataḥ ← √bhr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+dī́yanti ← √dī- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yuvā́m ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+háyebhiḥ ← háya- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+makṣūyúbhiḥ ← makṣūyú- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+narā ← nár- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asmayū́ ← asmayú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+devā ← devá- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+yātam ← √yā- 1 (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,3 +193,4 @@ Mit Rossen, welche zu des Frommen Hause nun euch fahren her in schnellem Flug, M
 На стремительных скакунах, о два мужа Ашвина,  
 Приезжайте, о боги, любя нас!
 </details>
+

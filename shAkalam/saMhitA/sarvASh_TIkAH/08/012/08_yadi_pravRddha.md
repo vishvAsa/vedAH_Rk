@@ -15,14 +15,54 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
+#### Morph
+pravr̥ddha ← √vr̥dh- (root)  
+{case:VOC, gender:M, number:SG, non-finite:PPP}
+
+satpate ← sátpati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yádi ← yádi (invariable)  
+{}
+
+ághaḥ ← √ghas- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+mahiṣā́n ← mahiṣá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ā́t ← ā́t (invariable)  
+{}
+
+indriyám ← indriyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+máhi ← máh- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+vāvr̥dhe ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +176,4 @@ Sobald, o grosser starker Held, du hundert Büffel aufgezehrt, Da war's, dass de
 Ты поглотил тысячу буйволов,  
 То тут-то твоя мощь Индры страшно усилилась.
 </details>
+

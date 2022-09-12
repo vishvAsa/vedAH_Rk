@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+devāḥ ← devá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ójaḥ ← ójas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prámatiḥ ← prámati- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+dvéṣāṁsi ← dvéṣas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sanutár ← sanutár (invariable)  
+{}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+yuyota ← √yu- 2 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+abhikṣattā́raḥ ← abhikṣattár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+kṣámadhvam ← √kṣam- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+adyá ← adyá (invariable)  
+{}
+
+aparám ← aparám (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+mr̥ḷáyata ← √mr̥ḍ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,3 +222,4 @@ Ihr Götter seid Versorger, ihr seid Kraft uns, o treibt in weite Ferne unsre Fe
 Милосердные, будьте же милостивы,  
 И пожалейте нас сегодня и в будущем!
 </details>
+

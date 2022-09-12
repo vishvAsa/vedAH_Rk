@@ -15,13 +15,53 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+abhī́śavaḥ ← abhī́śu- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+kvà ← kvà (invariable)  
+{}
+
+kvà ← kvà (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+kathā́ ← kathā́ (invariable)  
+{}
+
+kathám ← kathám (invariable)  
+{}
+
+śeka ← √śak- (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+yaya ← √yā- 1 (root)  
+{number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+
+nasóḥ ← nás- (nominal stem)  
+{case:LOC, gender:F, number:DU}
+
+pr̥ṣṭhé ← pr̥ṣṭhá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sádaḥ ← sádas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yámaḥ ← yáma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,3 +175,4 @@ Wo sind die Ross' und Zügel euch? wie machtet ihr's? wie kamt ihr her? auf Rüc
 Как сумели? Как приехали?  
 (Где) седло на спине (коня)? (Где) удила в ноздрях?
 </details>
+

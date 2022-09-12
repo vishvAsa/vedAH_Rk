@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic on metrical evidence alone
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+apaśyam ← √paś- (root)  
+{number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
+
+cárantam ← √carⁱ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kṣétrāt ← kṣétra- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+sanutár ← sanutár (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+purú ← purú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+śóbhamānam ← √śubh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+sumát ← sumát ~ smat- (invariable)  
+{}
+
+yūthám ← yūthá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+agr̥bhran ← √gr̥bhⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:PASS}
+
+ájaniṣṭa ← √janⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:MED}
+
+hí ← hí (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+sáḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+bhavanti ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+páliknīḥ ← palitá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yuvatáyaḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,3 +236,4 @@ Aus ferner Gegend sah ich her ihn wandern wie mit der Heerde, ihn, der hell erst
 Они не удержали (его): вот он и родился.  
 Юные жены (от этого) становятся совсем седыми.
 </details>
+

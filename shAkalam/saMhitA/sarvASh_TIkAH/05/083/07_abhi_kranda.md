@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+abhí ← abhí (invariable)  
+{}
+
+dhāḥ ← √dhā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+gárbham ← gárbha- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kranda ← √krand- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+stanáya ← √stanⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dīya ← √dī- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+udanvátā ← udanvánt- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+dŕ̥tim ← dŕ̥ti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+karṣa ← √kr̥ṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+nyàñcam ← nyàñc- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+víṣitam ← √sā- ~ si- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+bhavantu ← √bhū- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+nipādā́ḥ ← nipādá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+samā́ḥ ← samá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+udvátaḥ ← udvát- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>

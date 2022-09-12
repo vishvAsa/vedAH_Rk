@@ -15,13 +15,53 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+ántaraḥ ← ántara- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hīḷáḥ ← hī́ḍ- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yajñáḥ ← yajñá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́dityāḥ ← ādityá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+ásti ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+mr̥ḷáta ← √mr̥ḍ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ápi ← ápi (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+sajātyè ← sajātyà- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+smasi ← √as- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yuṣmé ← tvám (pronoun)  
+{case:LOC, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +176,4 @@ Das Opfer, o Aditja's, ist nach eurem Herzen, seid uns hold, Mit euch sind eng v
 О Адитьи, помилуйте (нас)!  
 Это с вами мы состоим в близком родстве.
 </details>
+

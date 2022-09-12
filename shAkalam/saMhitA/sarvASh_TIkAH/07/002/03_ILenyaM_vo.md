@@ -16,14 +16,66 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ásuram ← ásura- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+īḷényam ← īḷénya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sudákṣam ← sudákṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+antár ← antár (invariable)  
+{}
+
+dūtám ← dūtá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+satyavā́cam ← satyavā́c- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agním ← agní- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mánunā ← mánu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+manuṣvát ← manuṣvát (invariable)  
+{}
+
+sámiddham ← √idh- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+adhvarā́ya ← adhvará- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ít ← ít (invariable)  
+{}
+
+mahema ← √mah- (?) (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+sádam ← sádam (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,3 +217,4 @@ Den preisenswerthen Boten beider Welten, der Wahrheit spricht, den kräftigen, l
 Агни, зажженного (некогда) Ману, подобно Ману,  
 Мы хотим всегда возвеличить для обряда.
 </details>
+

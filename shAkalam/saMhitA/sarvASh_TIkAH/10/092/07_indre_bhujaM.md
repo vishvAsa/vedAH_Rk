@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
+#### Morph
+āśata ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:MED}
+
+bhújam ← bhúj- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+índre ← índra- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śaśamānā́saḥ ← √śamⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+ca ← ca (invariable)  
+{}
+
+dŕ̥śīke ← dŕ̥śīka- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+paúṁsye ← paúṁsya- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sū́raḥ ← svàr- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+arháṇā ← arháṇā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+nú ← nú (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+tatakṣiré ← √takṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+yé ← yá- (pronoun)  
+{}
+
+kārávaḥ ← kārú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nr̥ṣádaneṣu ← nr̥ṣádana- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+vájram ← vájra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yújam ← yúj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,3 +208,4 @@ Bei Indra fanden Labsal die sich mühenden im Licht der Sonne, in des Helden Man
 
 -ru-
 </details>
+

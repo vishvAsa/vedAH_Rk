@@ -16,14 +16,69 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Cretic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhū́mim ← bhū́mi- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+unátti ← √ud- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+ā́t ← ā́t (invariable)  
+{}
+
+dugdhám ← √duh- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+ít ← ít (invariable)  
+{}
+
+váruṇaḥ ← váruṇa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+váṣṭi ← √vaś- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+abhréṇa ← abhrá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+párvatāsaḥ ← párvata- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+vasata ← √vas- 2 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+śrathayanta ← √śrathⁱ- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+taviṣīyántaḥ ← √taviṣīy- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+vīrā́ḥ ← vīrá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,3 +208,4 @@ Er netzt der Erde Boden und den Himmel, wenn Varuna der Wolke Milch begehret; Da
 Тучей одеваются горы,  
 (И) мужи, играя силой, отпускают (поводья).
 </details>
+

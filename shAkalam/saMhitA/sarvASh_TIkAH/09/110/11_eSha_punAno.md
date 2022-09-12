@@ -15,13 +15,50 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+eṣá ← eṣá (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+mádhumān ← mádhumant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+punānáḥ ← √pū- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índrāya ← índra- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+índuḥ ← índu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavate ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+svādúḥ ← svādú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ūrmíḥ ← ūrmí- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājasániḥ ← vājasáni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+varivovít ← varivovíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vayodhā́ḥ ← vayodhā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +161,7 @@ Note the alliteration in c: vājasánir varivovíd vayodhā́ḥ. The first word
 
 
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/10-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 This very straightforward final tṛca concerning the ritual preparation of soma harps on the root √pū, with punānáḥ 10a, pávamānaḥ 10b, punānáḥ 11a, pavate 11b, and pavasva 12a.
@@ -155,3 +192,4 @@ Sich klärend rieselt hell der honigreiche dem Indra zu die süsse heil'ge Welle
 Сок сомы очищается для Индры, сладкая волна,  
 Захватывающий награду, находящий широкий простор, дающий силу жизни.
 </details>
+

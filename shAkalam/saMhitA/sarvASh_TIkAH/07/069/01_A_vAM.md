@@ -16,14 +16,63 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+ā́ ← ā́ (invariable)  
+{}
+
+badbadhānáḥ ← √bādhⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+áśvaiḥ ← áśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hiraṇyáyaḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vŕ̥ṣabhiḥ ← vŕ̥ṣan- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yātu ← √yā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ghr̥távartaniḥ ← ghr̥távartani- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pavíbhiḥ ← paví- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+rucānáḥ ← √ruc- (root)  
+{case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+
+iṣā́m ← íṣ- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+nr̥pátiḥ ← nr̥páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vājínīvān ← vājínīvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+voḷhā́ ← voḷhár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +196,4 @@ Mit starken Hengsten nahe euer Wagen, der goldne, der an Erd' und Himmel anstös
 Оставляющая колею из жира, сверкающая ободьями,  
 Возящая жертвенные услады, (подобно) царю, завоевывающему награды.
 </details>
+

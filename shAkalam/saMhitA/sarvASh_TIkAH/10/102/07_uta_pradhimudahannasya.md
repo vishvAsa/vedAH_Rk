@@ -16,14 +16,72 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-### Pāda-label
+#### Pāda-label
 popular  
 popular  
 popular  
 popular
+#### Morph
+ahan ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+pradhím ← pradhí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+utá ← utá (invariable)  
+{}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+átra ← átra (invariable)  
+{}
+
+ayunak ← √yuj- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+śíkṣan ← √śak- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+
+úpa ← úpa (invariable)  
+{}
+
+váṁsagam ← váṁsaga- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ághnyānām ← ághnya- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+āvat ← √avⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pátim ← páti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+áraṁhata ← √raṁh- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+kakúdmān ← kakúdmant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pádyābhiḥ ← pádyā- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,3 +209,4 @@ Den Radkranz hatte angefügt der kund'ge und angeschirrt den Büffel dort mit We
 
 -ru-
 </details>
+

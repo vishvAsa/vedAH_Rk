@@ -15,13 +15,56 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M
+#### Morph
+aśvinā ← aśvín- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+bhūt ← √bhū- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+juraté ← √jr̥̄- ~ jūr- (root)  
+{case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+
+tyát ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vām ← tvám (pronoun)  
+{case:ACC, number:DU}
+
+cyávānāya ← cyávāna- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+havirdé ← havirdā́- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pratī́tyam ← pratī́tya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ádhi ← ádhi (invariable)  
+{}
+
+dhattháḥ ← √dhā- 1 (root)  
+{number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+
+itáūti ← itáūti- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+várpaḥ ← várpas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,3 +180,4 @@ Auch jene That, o Ritter, ist zu preisen, dass ihr dem greisen Opferer Tschavana
 Для старого Чьяваны, приносящего жертвы,  
 Что вы придали (ему) постоянный (новый) облик.
 </details>
+

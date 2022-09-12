@@ -16,14 +16,63 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
+#### Morph
+dhanaspŕ̥tam ← dhanaspŕ̥t- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+ugrám ← ugrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīrám ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vívicim ← vívici- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+maháḥ ← máh- (nominal stem)  
+{case:GEN, number:SG}
+
+rā́dhasaḥ ← rā́dhas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+víbhūtim ← víbhūti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avatáḥ ← avatá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+udrī́ ← udrín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vajrin ← vajrín- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vasutvanā́ ← vasutvaná- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+pīpetha ← √pī- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,3 +196,4 @@ Den Helden preist, der viel umfasst und Beute macht, der über grossen Schatz ve
 Словно богатый водой колодец, о громовержец, от полноты добра  
 Ты всегда набухаешь для почитающего (тебя).
 </details>
+

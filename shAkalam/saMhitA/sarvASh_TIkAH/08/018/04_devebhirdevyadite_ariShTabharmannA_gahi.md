@@ -15,14 +15,45 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Archaic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
+#### Morph
+adite ← áditi- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+devébhiḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+devi ← devī́- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áriṣṭabharman ← ariṣṭabharman- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+gahi ← √gam- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+purupriye ← purupriyá- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+smát ← smát (invariable)  
+{}
+
+sūríbhiḥ ← sūrí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+suśármabhiḥ ← suśárman- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,3 +167,4 @@ Komm mit den Göttern, Aditi, o Göttin Schutz verleihend her, Du liebe mit den 
 Приходи, о та, что несет невредимое бремя,  
 А также с покровителями, дающими прекрасную защиту, о многолюбимая!
 </details>
+

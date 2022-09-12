@@ -16,14 +16,69 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Normal
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+átithim ← átithi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sádā ← sádā (invariable)  
+{}
+
+viśpátim ← viśpáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yahvám ← yahvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+dhīnā́m ← dhī́- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+uśíjam ← uśíj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vāghátām ← vāghát- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+yantā́ram ← yantár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adhvarā́ṇām ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+cétanam ← cétana- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jātávedasam ← jātávedas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jūtíbhiḥ ← jūtí- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+śaṁsanti ← √śaṁs- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vr̥dhé ← vŕ̥dh- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,3 +211,4 @@ Den raschen Herrn und Gast, der die Gebete lenkt, den Betern hold, ihn preiset s
 Джатаведаса мужи всегда воспевают  
 С поклонением (и) подбадриваниями, чтобы (жертва) возрастала
 </details>
+

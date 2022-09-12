@@ -16,14 +16,72 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-### Strata
+#### Strata
 Strophic
 
-### Pāda-label
+#### Pāda-label
 genre M  
 genre M  
 genre M  
 genre M
+#### Morph
+bhīmáḥ ← bhīmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ruváti ← √rū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+taviṣyáyā ← taviṣyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+háriṇī ← hárita- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+śíśānaḥ ← √śā- ~ śī- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+śŕ̥ṅge ← śŕ̥ṅga- (nominal stem)  
+{case:ACC, gender:N, number:DU}
+
+vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ní ← ní (invariable)  
+{}
+
+sīdati ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+súkr̥tam ← súkr̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+avyáyī ← avyáya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+gavyáyī ← gavyáya- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+nirṇík ← nirṇíj- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+tvák ← tvác- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,3 +231,4 @@ Es brüllt der Stier, der schreckliche, mit Ungestüm, die goldnen Hörner wetze
 Сома усаживается на прекрасно приготовленное лоно.  
 Шкура бывает коровьей, праздничный наряд овечьим.
 </details>
+
